@@ -15,3 +15,6 @@
 - 2026-05-23 22:44 — Use 'Could you...' for a polite request instead of the direct command 'You come clean'.
 - 2026-05-23 22:44 — Use 'clean up' to translate 清理, meaning to tidy or clear something.
 - 2026-05-23 22:53 — "好了" can mean "ready" or "finished" depending on context.
+- 2026-05-23 22:53 — Use 'wasn't' for past passive. '翻译成' translates as 'translate into'.
+- 2026-05-23 22:53 — Use 'noon' for 12:00 PM; 'tomorrow noon' is natural.
+- 2026-05-23 22:54 — Use 'was not' (wasn't) for passive voice when something is not done.
