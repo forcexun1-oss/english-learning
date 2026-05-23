@@ -18,3 +18,4 @@
 - 2026-05-23 22:53 — Use 'wasn't' for past passive. '翻译成' translates as 'translate into'.
 - 2026-05-23 22:53 — Use 'noon' for 12:00 PM; 'tomorrow noon' is natural.
 - 2026-05-23 22:54 — Use 'was not' (wasn't) for passive voice when something is not done.
+- 2026-05-23 22:55 — "可以...了吗" means 'Can you... now?' or 'Is it possible to... now?'
