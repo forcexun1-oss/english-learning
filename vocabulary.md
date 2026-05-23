@@ -10,3 +10,5 @@
 - 2026-05-23 22:25 — Use 'at noon' instead of just 'noon' to indicate the specific time.
 - 2026-05-23 22:27 — Use 'display' instead of 'show' for a more precise technical term. Also, a rhetorical question with 'can't we' is a natural way to make a suggestion in English.
 - 2026-05-23 22:27 — "不就行了" is a rhetorical structure meaning 'isn't that sufficient?' or 'just do X.' In English, we often say 'Just...' or 'Why not just...' for a similar effect.
+- 2026-05-23 22:41 — Use 'Is that right?' or 'Right?' to confirm, similar to 对吗.
+- 2026-05-23 22:41 — Use 'right?' as an informal way to confirm, e.g., 'That's right, right?'
