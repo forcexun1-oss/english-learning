@@ -14,3 +14,4 @@
 - 2026-05-23 22:41 — Use 'right?' as an informal way to confirm, e.g., 'That's right, right?'
 - 2026-05-23 22:44 — Use 'Could you...' for a polite request instead of the direct command 'You come clean'.
 - 2026-05-23 22:44 — Use 'clean up' to translate 清理, meaning to tidy or clear something.
+- 2026-05-23 22:53 — "好了" can mean "ready" or "finished" depending on context.
