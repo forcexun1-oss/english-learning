@@ -45,3 +45,4 @@
 - 2026-05-24 13:04 — The Chinese '调它' is colloquial for 'call/invoke it'. In English, use 'call' or 'invoke' for APIs.
 - 2026-05-24 13:08 — In English, we often drop '一下' (a bit) in commands, so '测试一下' becomes just 'Test'.
 - 2026-05-24 13:09 — Use present perfect 'have been tested' for past experiences relevant to now.
+- 2026-05-24 13:09 — The sentence is correct. 'Have been tested' is present perfect passive, suitable for ongoing relevance of past tests.
