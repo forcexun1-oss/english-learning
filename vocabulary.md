@@ -88,3 +88,5 @@
 - 2026-05-24 14:22 — Use 'did' for past tense questions. '是' is usually omitted in English questions.
 - 2026-05-24 14:24 — Use 'confirm' instead of 'determine' to express checking or verifying something.
 - 2026-05-24 14:25 — Use 'Just to confirm' to politely check something.
+- 2026-05-24 14:29 — Use 'are' with plural subjects like 'processes', not 'is'.
+- 2026-05-24 14:29 — Use 'are' with plural nouns like 'processes'. Use 'is' only with singular or uncountable nouns.
