@@ -47,3 +47,4 @@
 - 2026-05-24 13:09 — Use present perfect 'have been tested' for past experiences relevant to now.
 - 2026-05-24 13:09 — The sentence is correct. 'Have been tested' is present perfect passive, suitable for ongoing relevance of past tests.
 - 2026-05-24 13:10 — Good use of the passive voice 'have been tested' to emphasize the action over who performed it.
+- 2026-05-24 13:10 — Use present perfect 'have been tested' to emphasize that testing happened at an unspecified time in the past.
