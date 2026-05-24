@@ -19,3 +19,7 @@
 - 2026-05-23 22:53 — Use 'noon' for 12:00 PM; 'tomorrow noon' is natural.
 - 2026-05-23 22:54 — Use 'was not' (wasn't) for passive voice when something is not done.
 - 2026-05-23 22:55 — "可以...了吗" means 'Can you... now?' or 'Is it possible to... now?'
+- 2026-05-23 22:56 — 'Hook' often refers to a custom function or trigger in programming; 'take effect' means to become operational.
+- 2026-05-23 22:57 — Use 'take effect' or 'work' with 'hook' to describe if it functions properly.
+- 2026-05-23 23:01 — Use 'didn't work' for casual situations; 'didn't take effect' is more formal.
+- 2026-05-24 11:12 — '试试看' is a casual way to say 'try and see'. In English, 'give it a try' is a natural equivalent.
