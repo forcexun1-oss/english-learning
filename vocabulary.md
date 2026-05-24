@@ -24,3 +24,4 @@
 - 2026-05-23 23:01 — Use 'didn't work' for casual situations; 'didn't take effect' is more formal.
 - 2026-05-24 11:12 — '试试看' is a casual way to say 'try and see'. In English, 'give it a try' is a natural equivalent.
 - 2026-05-24 11:13 — Use passive voice 'be translated' for '被翻译', and 'first' for '先'.
+- 2026-05-24 12:21 — 工程 can mean 'project' or 'engineering' depending on context. Here, 'project' is more natural.
