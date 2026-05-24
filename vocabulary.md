@@ -63,3 +63,4 @@
 - 2026-05-24 13:50 — Great job! 'Have been tested' is the present perfect passive, used when the action is more important than who did it.
 - 2026-05-24 13:51 — Use present perfect tense ('have been tested') to indicate that the testing happened at some point in the past.
 - 2026-05-24 13:52 — Use the past participle 'tested' after 'have been' to form the passive present perfect tense.
+- 2026-05-24 13:54 — "共用" means "share together" – in this context, "share the same resources." And "一闪而过" is idiomatically "flashes by quickly."
