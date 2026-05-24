@@ -31,3 +31,5 @@
 - 2026-05-24 12:37 — 哦 in Chinese is a soft exclamation showing realization or mild surprise. In English, "actually" can convey a similar tone of realization or correction.
 - 2026-05-24 12:38 — Use 'ignore' or 'don't need to worry about' to translate '不用管' in technical contexts.
 - 2026-05-24 12:40 — Use 'Was it my fault?' instead of 'Is it me?' to express self-doubt about causing an issue.
+- 2026-05-24 12:41 — You can use 'test how it works' or 'test how it runs'. '怎么' here means 'how'.
+- 2026-05-24 12:41 — Use 'how it works' to ask about the functioning of something.
