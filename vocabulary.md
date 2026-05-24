@@ -65,3 +65,4 @@
 - 2026-05-24 13:52 — Use the past participle 'tested' after 'have been' to form the passive present perfect tense.
 - 2026-05-24 13:54 — "共用" means "share together" – in this context, "share the same resources." And "一闪而过" is idiomatically "flashes by quickly."
 - 2026-05-24 13:59 — Use present perfect 'have been tested' for actions up to now.
+- 2026-05-24 14:00 — Use "not present" to indicate absence; "no present" means "zero gift" or "without a gift".
