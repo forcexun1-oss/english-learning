@@ -56,3 +56,4 @@
 - 2026-05-24 13:29 — Use 'What is in...?' to ask about contents, instead of literally translating '有些什么'.
 - 2026-05-24 13:43 — Use present perfect 'have been tested' to describe an action completed up to now.
 - 2026-05-24 13:44 — The present perfect tense ('have been tested') is correctly used here to emphasize that the testing happened at an unspecified time in the past and is relevant now.
+- 2026-05-24 13:44 — Use present perfect passive ('have been tested') when the action time is not specified.
