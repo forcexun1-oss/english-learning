@@ -72,3 +72,4 @@
 - 2026-05-24 14:07 — Use present perfect 'have been tested' to indicate completed actions.
 - 2026-05-24 14:08 — "过于强了" can mean 'too intrusive' for UI elements.
 - 2026-05-24 14:08 — 'Pop up' as a verb, 'popup' as a noun/adjective.
+- 2026-05-24 14:09 — Use 'have been tested' to indicate past experience (the '过' in Chinese).
