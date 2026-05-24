@@ -30,3 +30,4 @@
 - 2026-05-24 12:35 — Always capitalize the first word of a sentence.
 - 2026-05-24 12:37 — 哦 in Chinese is a soft exclamation showing realization or mild surprise. In English, "actually" can convey a similar tone of realization or correction.
 - 2026-05-24 12:38 — Use 'ignore' or 'don't need to worry about' to translate '不用管' in technical contexts.
+- 2026-05-24 12:40 — Use 'Was it my fault?' instead of 'Is it me?' to express self-doubt about causing an issue.
