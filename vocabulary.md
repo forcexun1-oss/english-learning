@@ -67,3 +67,5 @@
 - 2026-05-24 13:59 — Use present perfect 'have been tested' for actions up to now.
 - 2026-05-24 14:00 — Use "not present" to indicate absence; "no present" means "zero gift" or "without a gift".
 - 2026-05-24 14:02 — Use 'have been tested' for the past experience aspect of 测试过.
+- 2026-05-24 14:04 — '拦截' can be translated as 'intercept' (as in an automated workflow), and '回滚' is 'roll back'.
+- 2026-05-24 14:04 — 'Roll back' is used for reverting to a previous version; 'rollback' is a noun form.
