@@ -40,3 +40,4 @@
 - 2026-05-24 12:53 — Use 'How many' with countable nouns like 'models'; 'so far' is natural for '到目前为止'.
 - 2026-05-24 12:54 — Use 'turned into' to describe a change or transformation.
 - 2026-05-24 12:57 — Use present perfect 'have been tested' to indicate an action completed up to now.
+- 2026-05-24 12:59 — Use 'coaching information' as a noun phrase. 'Affect' is a verb meaning to influence.
