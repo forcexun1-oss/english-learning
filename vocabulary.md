@@ -23,3 +23,4 @@
 - 2026-05-23 22:57 — Use 'take effect' or 'work' with 'hook' to describe if it functions properly.
 - 2026-05-23 23:01 — Use 'didn't work' for casual situations; 'didn't take effect' is more formal.
 - 2026-05-24 11:12 — '试试看' is a casual way to say 'try and see'. In English, 'give it a try' is a natural equivalent.
+- 2026-05-24 11:13 — Use passive voice 'be translated' for '被翻译', and 'first' for '先'.
