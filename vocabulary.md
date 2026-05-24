@@ -57,3 +57,5 @@
 - 2026-05-24 13:43 — Use present perfect 'have been tested' to describe an action completed up to now.
 - 2026-05-24 13:44 — The present perfect tense ('have been tested') is correctly used here to emphasize that the testing happened at an unspecified time in the past and is relevant now.
 - 2026-05-24 13:44 — Use present perfect passive ('have been tested') when the action time is not specified.
+- 2026-05-24 13:44 — Write your messages entirely in English to practice. Note: '干净的传给agent' should be 'cleanly pass it to the agent'.
+- 2026-05-24 13:45 — Use present perfect 'have been tested' to focus on the current result of the testing.
