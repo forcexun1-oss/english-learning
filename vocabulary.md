@@ -69,3 +69,6 @@
 - 2026-05-24 14:02 — Use 'have been tested' for the past experience aspect of 测试过.
 - 2026-05-24 14:04 — '拦截' can be translated as 'intercept' (as in an automated workflow), and '回滚' is 'roll back'.
 - 2026-05-24 14:04 — 'Roll back' is used for reverting to a previous version; 'rollback' is a noun form.
+- 2026-05-24 14:07 — Use present perfect 'have been tested' to indicate completed actions.
+- 2026-05-24 14:08 — "过于强了" can mean 'too intrusive' for UI elements.
+- 2026-05-24 14:08 — 'Pop up' as a verb, 'popup' as a noun/adjective.
