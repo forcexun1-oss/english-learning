@@ -59,3 +59,4 @@
 - 2026-05-24 13:44 — Use present perfect passive ('have been tested') when the action time is not specified.
 - 2026-05-24 13:44 — Write your messages entirely in English to practice. Note: '干净的传给agent' should be 'cleanly pass it to the agent'.
 - 2026-05-24 13:45 — Use present perfect 'have been tested' to focus on the current result of the testing.
+- 2026-05-24 13:45 — The present perfect passive 'have been tested' is used correctly to focus on the result (the models' state) rather than who performed the test.
