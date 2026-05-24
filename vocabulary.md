@@ -52,3 +52,5 @@
 - 2026-05-24 13:11 — The sentence is grammatically correct. 'Check' can be used as a verb meaning to inspect or verify.
 - 2026-05-24 13:13 — "Subsequent" means "following" or "later". You could also say "the following agent" or "the next agent".
 - 2026-05-24 13:26 — Use present perfect passive 'have been tested' to express the completed action '测试过'.
+- 2026-05-24 13:29 — 'Hook' in programming means an interception point that alters behavior; 'cleanly' here means without side effects or extra data.
+- 2026-05-24 13:29 — Use 'What is in...?' to ask about contents, instead of literally translating '有些什么'.
