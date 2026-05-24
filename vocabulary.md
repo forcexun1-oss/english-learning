@@ -82,3 +82,4 @@
 - 2026-05-24 14:15 — If 'dialog_macos' is a variable or component name, it's fine. In standard English, consider writing 'dialog for macOS' or 'macOS dialog'.
 - 2026-05-24 14:16 — Use present perfect 'have been tested' to indicate a completed action relevant to now.
 - 2026-05-24 14:17 — 改出来 is colloquial; use 'fix' or 'correct' instead.
+- 2026-05-24 14:20 — Correct 'thas' to 'that' (spelling error).
