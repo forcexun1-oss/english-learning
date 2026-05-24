@@ -55,3 +55,4 @@
 - 2026-05-24 13:29 — 'Hook' in programming means an interception point that alters behavior; 'cleanly' here means without side effects or extra data.
 - 2026-05-24 13:29 — Use 'What is in...?' to ask about contents, instead of literally translating '有些什么'.
 - 2026-05-24 13:43 — Use present perfect 'have been tested' to describe an action completed up to now.
+- 2026-05-24 13:44 — The present perfect tense ('have been tested') is correctly used here to emphasize that the testing happened at an unspecified time in the past and is relevant now.
