@@ -39,3 +39,4 @@
 - 2026-05-24 12:49 — Use 'tested' (past participle) as an adjective after 'have been' to indicate completion, instead of the literal 'run the test'.
 - 2026-05-24 12:53 — Use 'How many' with countable nouns like 'models'; 'so far' is natural for '到目前为止'.
 - 2026-05-24 12:54 — Use 'turned into' to describe a change or transformation.
+- 2026-05-24 12:57 — Use present perfect 'have been tested' to indicate an action completed up to now.
