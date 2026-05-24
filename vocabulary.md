@@ -84,3 +84,4 @@
 - 2026-05-24 14:17 — 改出来 is colloquial; use 'fix' or 'correct' instead.
 - 2026-05-24 14:20 — Correct 'thas' to 'that' (spelling error).
 - 2026-05-24 14:20 — Use present perfect ('have been tested') to indicate past actions with current relevance.
+- 2026-05-24 14:21 — Use 'have been tested' (passive present perfect) to describe an action done to the models.
