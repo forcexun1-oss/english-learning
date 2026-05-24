@@ -33,3 +33,4 @@
 - 2026-05-24 12:40 — Use 'Was it my fault?' instead of 'Is it me?' to express self-doubt about causing an issue.
 - 2026-05-24 12:41 — You can use 'test how it works' or 'test how it runs'. '怎么' here means 'how'.
 - 2026-05-24 12:41 — Use 'how it works' to ask about the functioning of something.
+- 2026-05-24 12:42 — Use present perfect tense for completed actions, and '跑过测试' naturally becomes 'have been tested'.
