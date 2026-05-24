@@ -35,3 +35,5 @@
 - 2026-05-24 12:41 — Use 'how it works' to ask about the functioning of something.
 - 2026-05-24 12:42 — Use present perfect tense for completed actions, and '跑过测试' naturally becomes 'have been tested'.
 - 2026-05-24 12:45 — The word 'run' (跑) is informal for 'execute'. In tech contexts, 'execute' or 'perform' is more formal.
+- 2026-05-24 12:48 — Consider using 'please' for politeness: 'Please do it.'
+- 2026-05-24 12:49 — Use 'tested' (past participle) as an adjective after 'have been' to indicate completion, instead of the literal 'run the test'.
