@@ -1,1 +1,1 @@
-Why is it implemented through rules? Why not use a hook or a similar program to intercept at the very beginning, so that subsequent rules and input messages won't contain similar information?
+Test the separation.
