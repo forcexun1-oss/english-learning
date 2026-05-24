@@ -44,3 +44,4 @@
 - 2026-05-24 13:03 — Use 'implemented through' for methods/mechanisms; 'implemented by' is for agents. Also, 'intercept at the very beginning' is natural but can be shortened to 'intercept at the start'.
 - 2026-05-24 13:04 — The Chinese '调它' is colloquial for 'call/invoke it'. In English, use 'call' or 'invoke' for APIs.
 - 2026-05-24 13:08 — In English, we often drop '一下' (a bit) in commands, so '测试一下' becomes just 'Test'.
+- 2026-05-24 13:09 — Use present perfect 'have been tested' for past experiences relevant to now.
