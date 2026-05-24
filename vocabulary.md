@@ -90,3 +90,6 @@
 - 2026-05-24 14:25 — Use 'Just to confirm' to politely check something.
 - 2026-05-24 14:29 — Use 'are' with plural subjects like 'processes', not 'is'.
 - 2026-05-24 14:29 — Use 'are' with plural nouns like 'processes'. Use 'is' only with singular or uncountable nouns.
+- 2026-05-24 14:30 — Add 'please' for politeness: 'Please do it.'
+- 2026-05-24 14:32 — Use 'take a look at' to politely ask someone to check something.
+- 2026-05-24 14:32 — Spelling: 'generate' has an 'e' after the 'n', not 'genrate'.
