@@ -75,3 +75,4 @@
 - 2026-05-24 14:09 — Use 'have been tested' to indicate past experience (the '过' in Chinese).
 - 2026-05-24 14:09 — '测试过' uses 过 for past experience; in this context, it's passive: 'have been tested'.
 - 2026-05-24 14:10 — 'Unless' is used to say that something will happen only if something else does not happen.
+- 2026-05-24 14:11 — Use present perfect 'have been tested' to emphasize the action is completed up to now.
