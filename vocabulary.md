@@ -78,3 +78,4 @@
 - 2026-05-24 14:11 — Use present perfect 'have been tested' to emphasize the action is completed up to now.
 - 2026-05-24 14:12 — "看看" becomes "check" or "see", and "测试过" uses present perfect "have been tested" to show completed action.
 - 2026-05-24 14:13 — '算了' can be translated as 'forget it' or 'never mind' to show giving up on a previous idea.
+- 2026-05-24 14:14 — "Roll back" means to revert to an earlier version. "Popup" is the UI element that appears quickly.
