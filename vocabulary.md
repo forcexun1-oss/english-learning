@@ -26,3 +26,4 @@
 - 2026-05-24 11:13 — Use passive voice 'be translated' for '被翻译', and 'first' for '先'.
 - 2026-05-24 12:21 — 工程 can mean 'project' or 'engineering' depending on context. Here, 'project' is more natural.
 - 2026-05-24 12:23 — Use 'have passed' instead of 'have run' when talking about tests — 'run a test' means to execute it, while 'pass a test' means to succeed.
+- 2026-05-24 12:31 — Use 'first' (not 'firstly') when referring to the order of actions. 'First' is an adverb meaning 'before anything else'; 'firstly' is mainly used for listing points.
