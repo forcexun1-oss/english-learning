@@ -83,3 +83,4 @@
 - 2026-05-24 14:16 — Use present perfect 'have been tested' to indicate a completed action relevant to now.
 - 2026-05-24 14:17 — 改出来 is colloquial; use 'fix' or 'correct' instead.
 - 2026-05-24 14:20 — Correct 'thas' to 'that' (spelling error).
+- 2026-05-24 14:20 — Use present perfect ('have been tested') to indicate past actions with current relevance.
