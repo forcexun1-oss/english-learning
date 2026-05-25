@@ -114,3 +114,4 @@
 - 2026-05-25 17:23 — Use 'tested' (past tense) to match 'changed'.
 - 2026-05-25 17:33 — Use 'previous' instead of 'before' to describe the item that came earlier in a sequence.
 - 2026-05-25 17:39 — Add 'the' before 'storage' for clarity.
+- 2026-05-25 17:41 — Use 'switch back to' for returning to a previous connection, like 'switch back to the old connector'.
