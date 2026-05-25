@@ -97,3 +97,4 @@
 - 2026-05-24 14:37 — Use 'are' with plural nouns like 'processes'.
 - 2026-05-24 14:38 — After 'to', use the base form of the verb: 'to test', not 'tested'.
 - 2026-05-25 10:33 — Use 'cursor key' without the possessive ('s). It refers to arrow keys on a keyboard.
+- 2026-05-25 10:35 — Use 'does' for third-person singular questions (e.g., 'How many tokens does each request cost?').
