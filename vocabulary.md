@@ -100,3 +100,4 @@
 - 2026-05-25 10:35 — Use 'does' for third-person singular questions (e.g., 'How many tokens does each request cost?').
 - 2026-05-25 11:08 — Use 'the' before a specific product or entity, like 'the Cursor cloud agent'.
 - 2026-05-25 11:17 — "创建成功" can be expressed as "created successfully". Use "wasn't created" for the negative past tense.
+- 2026-05-25 14:03 — Remember to capitalize the first word of a sentence.
