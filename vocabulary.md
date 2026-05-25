@@ -112,3 +112,5 @@
 - 2026-05-25 16:39 — Use 'an' before vowel sounds: 'an error'. Also, 'driver error' is the natural order.
 - 2026-05-25 16:56 — Use a period or question mark to separate sentences, not a comma.
 - 2026-05-25 17:23 — Use 'tested' (past tense) to match 'changed'.
+- 2026-05-25 17:33 — Use 'previous' instead of 'before' to describe the item that came earlier in a sequence.
+- 2026-05-25 17:39 — Add 'the' before 'storage' for clarity.
