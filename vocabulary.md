@@ -99,3 +99,4 @@
 - 2026-05-25 10:33 — Use 'cursor key' without the possessive ('s). It refers to arrow keys on a keyboard.
 - 2026-05-25 10:35 — Use 'does' for third-person singular questions (e.g., 'How many tokens does each request cost?').
 - 2026-05-25 11:08 — Use 'the' before a specific product or entity, like 'the Cursor cloud agent'.
+- 2026-05-25 11:17 — "创建成功" can be expressed as "created successfully". Use "wasn't created" for the negative past tense.
