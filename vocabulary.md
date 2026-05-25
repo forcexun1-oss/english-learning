@@ -101,3 +101,4 @@
 - 2026-05-25 11:08 — Use 'the' before a specific product or entity, like 'the Cursor cloud agent'.
 - 2026-05-25 11:17 — "创建成功" can be expressed as "created successfully". Use "wasn't created" for the negative past tense.
 - 2026-05-25 14:03 — Remember to capitalize the first word of a sentence.
+- 2026-05-25 14:05 — Use 'polar' (with 'a') for the Arctic bear, not 'polo' which is a sport.
