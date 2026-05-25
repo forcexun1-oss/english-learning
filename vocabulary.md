@@ -103,3 +103,4 @@
 - 2026-05-25 14:03 — Remember to capitalize the first word of a sentence.
 - 2026-05-25 14:05 — Use 'polar' (with 'a') for the Arctic bear, not 'polo' which is a sport.
 - 2026-05-25 14:07 — Use "made with" or "made of" for materials, not "made by" (which indicates the creator).
+- 2026-05-25 15:27 — Use 'optimizations' (countable) for specific improvements, not 'optimization' as a general concept.
