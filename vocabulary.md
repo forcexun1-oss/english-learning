@@ -102,3 +102,4 @@
 - 2026-05-25 11:17 — "创建成功" can be expressed as "created successfully". Use "wasn't created" for the negative past tense.
 - 2026-05-25 14:03 — Remember to capitalize the first word of a sentence.
 - 2026-05-25 14:05 — Use 'polar' (with 'a') for the Arctic bear, not 'polo' which is a sport.
+- 2026-05-25 14:07 — Use "made with" or "made of" for materials, not "made by" (which indicates the creator).
