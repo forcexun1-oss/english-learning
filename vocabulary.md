@@ -111,3 +111,4 @@
 - 2026-05-25 16:19 — In sshpass, the typical syntax is 'sshpass -p 'password' ssh user@host'.
 - 2026-05-25 16:39 — Use 'an' before vowel sounds: 'an error'. Also, 'driver error' is the natural order.
 - 2026-05-25 16:56 — Use a period or question mark to separate sentences, not a comma.
+- 2026-05-25 17:23 — Use 'tested' (past tense) to match 'changed'.
