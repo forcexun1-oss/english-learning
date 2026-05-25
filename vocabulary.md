@@ -106,3 +106,4 @@
 - 2026-05-25 15:27 — Use 'optimizations' (countable) for specific improvements, not 'optimization' as a general concept.
 - 2026-05-25 15:45 — Use 'Let's' (short for 'Let us') instead of 'Let' when suggesting an action together.
 - 2026-05-25 16:00 — "以...为单位" means 'using ... as the unit'. In English, we often say 'organized by' or 'based on' + unit.
+- 2026-05-25 16:07 — Use 'plugged in' (not 'plugined') for past tense of 'plug in'.
