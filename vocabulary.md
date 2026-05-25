@@ -117,3 +117,4 @@
 - 2026-05-25 17:41 — Use 'switch back to' for returning to a previous connection, like 'switch back to the old connector'.
 - 2026-05-25 17:45 — Use capital letter at start of sentence and period at end.
 - 2026-05-25 17:49 — Remember to make nouns plural when counting: '4 cameras' not '4 camera'.
+- 2026-05-25 17:51 — Use 'are' with plural subjects like '5, 6, and 7'.
