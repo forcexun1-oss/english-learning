@@ -125,3 +125,4 @@
 - 2026-05-26 10:47 — Use "IDs" (capitalized) for plural of ID, and prefer "JSON files" over "JSONs" for clarity.
 - 2026-05-26 10:56 — Use 'with value' instead of 'value:' when describing fields. Also separate two independent clauses with a period.
 - 2026-05-26 11:09 — Use 'status' instead of 'situation' when asking about the progress or state of a project.
+- 2026-05-26 11:15 — Add a question mark at the end of a question.
