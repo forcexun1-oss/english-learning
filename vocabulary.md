@@ -119,3 +119,4 @@
 - 2026-05-25 17:49 — Remember to make nouns plural when counting: '4 cameras' not '4 camera'.
 - 2026-05-25 17:51 — Use 'are' with plural subjects like '5, 6, and 7'.
 - 2026-05-26 09:18 — Use 'which is' to give extra information about something (non-defining relative clause).
+- 2026-05-26 10:04 — Use 'contiguous' for '连续的' when referring to memory layout. Also, 'get data from memory' is ambiguous; 'store in memory' is clearer here.
