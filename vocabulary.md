@@ -121,3 +121,4 @@
 - 2026-05-26 09:18 — Use 'which is' to give extra information about something (non-defining relative clause).
 - 2026-05-26 10:04 — Use 'contiguous' for '连续的' when referring to memory layout. Also, 'get data from memory' is ambiguous; 'store in memory' is clearer here.
 - 2026-05-26 10:38 — "identiy" is misspelled; correct spelling is "identity".
+- 2026-05-26 10:44 — Start sentences with a capital letter.
