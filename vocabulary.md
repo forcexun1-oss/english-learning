@@ -144,3 +144,4 @@
 - 2026-05-26 16:14 — Use 'simply' (adverb), not 'simplely' (not a word).
 - 2026-05-26 16:20 — Use 'the concept of [something]' instead of a colon for a more natural flow.
 - 2026-05-26 16:28 — Use 'in parallel' as a prepositional phrase (e.g., 'run tasks in parallel'). Also capitalize proper nouns like 'Claude Code'.
+- 2026-05-26 17:22 — Capitalize company/project names like 'ValcEngine' when using possessive form.
