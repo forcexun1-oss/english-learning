@@ -151,3 +151,4 @@
 - 2026-05-26 17:59 — 把 at the end is often a colloquial way to soften a command; in English, 'Let's...' conveys a similar tone.
 - 2026-05-26 17:59 — Use 'integrate' (verb) when referring to connecting software components. '接入' is often translated as 'integrate' or 'connect'.
 - 2026-05-26 18:01 — "要的" is an emphatic "yes" in Chinese; in English you can simply say "Yes" or "Yes, that's needed." Also, use a dash or colon to separate clauses for clarity.
+- 2026-05-26 18:02 — '板子' means 'board' (hardware board). In English, use 'boards' or 'specific boards'.
