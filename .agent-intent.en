@@ -1,1 +1,1 @@
-Is it the default?
+Now the middleware plan needs to be changed. Don't use the package approach; implement everything via HTTP interfaces. Are these interfaces already implemented in edgeAgent?

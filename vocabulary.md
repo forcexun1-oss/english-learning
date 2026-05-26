@@ -147,3 +147,4 @@
 - 2026-05-26 17:22 — Capitalize company/project names like 'ValcEngine' when using possessive form.
 - 2026-05-26 17:25 — Use 'refer to' when citing a source. 'As default' often becomes 'as the default' or just 'by default'.
 - 2026-05-26 17:28 — Use 'the' before 'default' when referring to a specific default setting.
+- 2026-05-26 17:55 — Use 'via' instead of 'by' when referring to a method or means (e.g., 'via HTTP interfaces').
