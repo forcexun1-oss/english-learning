@@ -139,3 +139,4 @@
 - 2026-05-26 15:22 — Use 'align with it' (not 'him') when referring to a document or project.
 - 2026-05-26 15:35 — Use a period or semicolon to separate two independent clauses. Also, questions need a question mark at the end.
 - 2026-05-26 15:38 — Use 'What is' instead of 'What's' for clarity in technical questions, though 'What's' is also acceptable in informal speech.
+- 2026-05-26 15:45 — Add a subject ('we') and correct word order: 'Where would we modify...' instead of 'Would modify where...'.
