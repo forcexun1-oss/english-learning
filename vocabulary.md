@@ -136,3 +136,4 @@
 - 2026-05-26 15:01 — When 'the' is not the first word of a sentence, it should be lowercase.
 - 2026-05-26 15:04 — Use 'saves' (third person singular) instead of 'save' with 'It'. Also, 'during' or 'when doing' is more natural here.
 - 2026-05-26 15:18 — Use 'was modified' (past simple) or 'has been modified' (present perfect) to indicate a completed action. 'Is modified' is not correct here.
+- 2026-05-26 15:22 — Use 'align with it' (not 'him') when referring to a document or project.
