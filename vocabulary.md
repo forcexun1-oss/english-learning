@@ -134,3 +134,4 @@
 - 2026-05-26 14:34 — In English, 'itself' follows the noun it emphasizes: 'root itself' not 'root 本身 itself'.
 - 2026-05-26 14:44 — "chines" should be "Chinese" (capitalized and correct spelling).
 - 2026-05-26 15:01 — When 'the' is not the first word of a sentence, it should be lowercase.
+- 2026-05-26 15:04 — Use 'saves' (third person singular) instead of 'save' with 'It'. Also, 'during' or 'when doing' is more natural here.
