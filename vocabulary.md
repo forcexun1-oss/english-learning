@@ -146,3 +146,4 @@
 - 2026-05-26 16:28 — Use 'in parallel' as a prepositional phrase (e.g., 'run tasks in parallel'). Also capitalize proper nouns like 'Claude Code'.
 - 2026-05-26 17:22 — Capitalize company/project names like 'ValcEngine' when using possessive form.
 - 2026-05-26 17:25 — Use 'refer to' when citing a source. 'As default' often becomes 'as the default' or just 'by default'.
+- 2026-05-26 17:28 — Use 'the' before 'default' when referring to a specific default setting.
