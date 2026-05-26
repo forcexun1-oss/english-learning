@@ -154,3 +154,4 @@
 - 2026-05-26 18:02 — '板子' means 'board' (hardware board). In English, use 'boards' or 'specific boards'.
 - 2026-05-26 18:03 — "不都...了吗" is a rhetorical question pattern meaning 'Isn't it already...?'. Use 'isn't it?' or 'already, isn't it?' in English.
 - 2026-05-26 18:04 — '一下' softens the request in Chinese; in English imperatives, you can drop it and just say 'Search for it.'
+- 2026-05-26 18:05 — The Chinese word '规划' can mean 'plan' or 'design'. Here 'plan' is suitable as it implies outlining the service architecture.
