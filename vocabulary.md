@@ -118,3 +118,4 @@
 - 2026-05-25 17:45 — Use capital letter at start of sentence and period at end.
 - 2026-05-25 17:49 — Remember to make nouns plural when counting: '4 cameras' not '4 camera'.
 - 2026-05-25 17:51 — Use 'are' with plural subjects like '5, 6, and 7'.
+- 2026-05-26 09:18 — Use 'which is' to give extra information about something (non-defining relative clause).
