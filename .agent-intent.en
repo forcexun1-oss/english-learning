@@ -1,1 +1,1 @@
-Now the middleware plan needs to be changed. Don't use the package approach; implement everything via HTTP interfaces. Are these interfaces already implemented in edgeAgent?
+Didn't we already integrate funasr and tts into the runtime before?

@@ -148,3 +148,5 @@
 - 2026-05-26 17:25 — Use 'refer to' when citing a source. 'As default' often becomes 'as the default' or just 'by default'.
 - 2026-05-26 17:28 — Use 'the' before 'default' when referring to a specific default setting.
 - 2026-05-26 17:55 — Use 'via' instead of 'by' when referring to a method or means (e.g., 'via HTTP interfaces').
+- 2026-05-26 17:59 — 把 at the end is often a colloquial way to soften a command; in English, 'Let's...' conveys a similar tone.
+- 2026-05-26 17:59 — Use 'integrate' (verb) when referring to connecting software components. '接入' is often translated as 'integrate' or 'connect'.
