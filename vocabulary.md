@@ -130,3 +130,4 @@
 - 2026-05-26 13:25 — Use 'an' before vowel sounds (e.g., 'an independent').
 - 2026-05-26 13:38 — '什么样的' translates to 'what is ... like?' when asking about structure or appearance.
 - 2026-05-26 13:51 — Use 'branches' (plural) instead of 'branchs'. Also, 'multi share' is unclear; try 'multiple separate values' or 'shared across branches'.
+- 2026-05-26 14:30 — Use 'what about' instead of 'what's about'.
