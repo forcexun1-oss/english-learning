@@ -123,3 +123,4 @@
 - 2026-05-26 10:38 — "identiy" is misspelled; correct spelling is "identity".
 - 2026-05-26 10:44 — Start sentences with a capital letter.
 - 2026-05-26 10:47 — Use "IDs" (capitalized) for plural of ID, and prefer "JSON files" over "JSONs" for clarity.
+- 2026-05-26 10:56 — Use 'with value' instead of 'value:' when describing fields. Also separate two independent clauses with a period.

@@ -1,1 +1,1 @@
-Add IDs to the local JSON files.
+Add a field 'model' with value 'composer2.5' to the JSON files. Can I specify the model through this field?
