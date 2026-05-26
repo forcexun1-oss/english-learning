@@ -127,3 +127,4 @@
 - 2026-05-26 11:09 — Use 'status' instead of 'situation' when asking about the progress or state of a project.
 - 2026-05-26 11:15 — Add a question mark at the end of a question.
 - 2026-05-26 13:18 — To form a question, invert the subject and verb: 'Is a Trie a tree?' instead of 'Trie is a tree?'.
+- 2026-05-26 13:25 — Use 'an' before vowel sounds (e.g., 'an independent').
