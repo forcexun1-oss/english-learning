@@ -142,3 +142,4 @@
 - 2026-05-26 15:45 — Add a subject ('we') and correct word order: 'Where would we modify...' instead of 'Would modify where...'.
 - 2026-05-26 15:56 — Spelling: 'separate' has two 'a's, not 'e' after 'p'.
 - 2026-05-26 16:14 — Use 'simply' (adverb), not 'simplely' (not a word).
+- 2026-05-26 16:20 — Use 'the concept of [something]' instead of a colon for a more natural flow.
