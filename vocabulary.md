@@ -157,3 +157,8 @@
 - 2026-05-26 18:05 — The Chinese word '规划' can mean 'plan' or 'design'. Here 'plan' is suitable as it implies outlining the service architecture.
 - 2026-05-27 08:49 — Use 'for' to introduce the topic (e.g., 'For the microphone...'), and capitalize proper nouns like 'Xiaomi'.
 - 2026-05-27 08:56 — Use a period or question mark to separate sentences, not a comma.
+- 2026-05-27 09:02 — Spelling: 'classes' not 'clasees'. Also, use a period or semicolon to separate two independent clauses, not a comma (comma splice).
+- 2026-05-27 09:06 — Use a colon before listing items, and avoid spaces before commas (e.g., "one for Android, one for Mac").
+- 2026-05-27 09:10 — Capitalize 'Linux' as it is a proper noun.
+- 2026-05-27 09:18 — Use 'uses' (third person singular) with 'The Android one'. Also capitalize 'Linux' and 'HTTP'.
+- 2026-05-27 09:28 — Use 'first' instead of 'firstly' for a natural instruction.
