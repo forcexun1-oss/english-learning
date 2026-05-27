@@ -1,1 +1,1 @@
-You're adding GET /v1/asr/listen and GET /v1/vision/snapshot, but I don't want these two endpoints. What about the original ones?
+List the APIs we defined in the doc.

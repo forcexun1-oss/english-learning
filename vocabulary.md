@@ -167,3 +167,4 @@
 - 2026-05-27 09:46 — "定好" means "finalized/decided." "新" (new) is often typed as "信" by mistake; be careful with similar-sounding characters.
 - 2026-05-27 09:47 — Place 'already' before the main verb: 'already have'.
 - 2026-05-27 09:55 — Use 'what about' or 'where are' to ask about the location or status of something. '原先的接口' translates to 'the original interfaces'.
+- 2026-05-27 09:58 — Add 'the' before 'doc' to make it grammatically correct: 'in the doc'.
