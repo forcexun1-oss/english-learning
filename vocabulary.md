@@ -205,3 +205,4 @@
 - 2026-05-27 15:48 — "再试试" can be translated as "try again" or "give it another try".
 - 2026-05-27 16:23 — 用 "regular" 比 "ordinary" 更自然，指非开发者版的普通设备。
 - 2026-05-27 16:51 — For yes/no questions, invert the subject and verb: 'Are the other APIs...?' instead of 'The other APIs are...?'
+- 2026-05-27 17:01 — Acronyms like LLM should be fully capitalized.
