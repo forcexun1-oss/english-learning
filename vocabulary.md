@@ -206,3 +206,6 @@
 - 2026-05-27 16:23 — 用 "regular" 比 "ordinary" 更自然，指非开发者版的普通设备。
 - 2026-05-27 16:51 — For yes/no questions, invert the subject and verb: 'Are the other APIs...?' instead of 'The other APIs are...?'
 - 2026-05-27 17:01 — Acronyms like LLM should be fully capitalized.
+- 2026-05-27 17:19 — Use 'test the models' instead of 'test with the models' for a more direct command.
+- 2026-05-27 18:28 — Use 'the' before acronyms like LLM when referring to a specific instance (e.g., 'the LLM'). Also capitalize the first word in a question.
+- 2026-05-27 20:26 — Use 'before reconnecting' (gerund) after 'before', not 'reconnected'.
