@@ -198,3 +198,4 @@
 - 2026-05-27 14:43 — Add "the" before the project name to specify which project.
 - 2026-05-27 14:50 — Add 'the' before 'Mic API' for natural English.
 - 2026-05-27 14:55 — Use 'to' instead of 'into' when writing content to a file (e.g., 'write to a file').
+- 2026-05-27 14:57 — Use 'in' after 'write' to specify the language (e.g., 'write in English', 'write in Chinese').
