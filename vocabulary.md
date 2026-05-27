@@ -173,3 +173,4 @@
 - 2026-05-27 10:18 — Use 'the same implementation' for '同一套实现' when referring to a shared codebase or approach.
 - 2026-05-27 10:20 — Use 'do we need to separate… into…' to ask if something should be split into distinct categories.
 - 2026-05-27 10:23 — '还是没懂' → 'I still don't understand' (not 'not understand yet'). '实现' is 'implemented' here.
+- 2026-05-27 10:25 — Use "endpoints" for API paths like /v1/... instead of "interfaces" when talking about specific HTTP routes.
