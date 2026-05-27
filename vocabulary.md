@@ -176,3 +176,4 @@
 - 2026-05-27 10:25 — Use "endpoints" for API paths like /v1/... instead of "interfaces" when talking about specific HTTP routes.
 - 2026-05-27 11:22 — Use 'completely unrelated' instead of 'has no relation' for a more natural expression.
 - 2026-05-27 11:35 — Use 'an' before vowel sounds (like 'Android'), not 'a'.
+- 2026-05-27 11:47 — Use 'There isn't' instead of 'There is not a' for natural negative questions. Also capitalize 'Mac' as a proper noun.
