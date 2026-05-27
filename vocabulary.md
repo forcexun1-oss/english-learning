@@ -194,3 +194,5 @@
 - 2026-05-27 14:34 — Use 'API documentation' instead of '接口文档' for natural English. 'Integrate' is more common than '接入' in technical contexts.
 - 2026-05-27 14:36 — When listing three or more items in English, use commas and place 'and' only before the last item.
 - 2026-05-27 14:39 — Use 'What about...' to ask for information about something previously mentioned or implied.
+- 2026-05-27 14:41 — Use 'How were... designed?' instead of '是什么设计的' to ask about past design in English.
+- 2026-05-27 14:43 — Add "the" before the project name to specify which project.
