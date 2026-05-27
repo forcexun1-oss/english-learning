@@ -166,3 +166,4 @@
 - 2026-05-27 09:43 — "再" in this context can be translated as "no more" (e.g., "no more Android classes"). "两套实现" is naturally "two implementations" — no need to say "sets of" unless you mean multiple versions per platform.
 - 2026-05-27 09:46 — "定好" means "finalized/decided." "新" (new) is often typed as "信" by mistake; be careful with similar-sounding characters.
 - 2026-05-27 09:47 — Place 'already' before the main verb: 'already have'.
+- 2026-05-27 09:55 — Use 'what about' or 'where are' to ask about the location or status of something. '原先的接口' translates to 'the original interfaces'.
