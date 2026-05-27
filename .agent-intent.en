@@ -1,1 +1,1 @@
-I mean, do we need to separate Mac and Android into two classes?
+I still don't understand. First, there should be no more .kt files for Android here. Then, everything is implemented on Linux. Do we still need two classes? Does that mean the code-level implementation is the same, just targeting different platforms?
