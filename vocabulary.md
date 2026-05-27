@@ -192,3 +192,4 @@
 - 2026-05-27 14:27 — '吧' softens the request; in English, you can add 'please' or use a direct imperative.
 - 2026-05-27 14:32 — Use 'an' before vowel sounds: 'an API' (not 'a APIs'). Also 'usage doc' can be 'usage document' or 'document about using APIs'.
 - 2026-05-27 14:34 — Use 'API documentation' instead of '接口文档' for natural English. 'Integrate' is more common than '接入' in technical contexts.
+- 2026-05-27 14:36 — When listing three or more items in English, use commas and place 'and' only before the last item.
