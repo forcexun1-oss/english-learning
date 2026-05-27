@@ -164,3 +164,4 @@
 - 2026-05-27 09:28 — Use 'first' instead of 'firstly' for a natural instruction.
 - 2026-05-27 09:39 — Use 'since' or 'because' to replace '毕竟' in English.
 - 2026-05-27 09:43 — "再" in this context can be translated as "no more" (e.g., "no more Android classes"). "两套实现" is naturally "two implementations" — no need to say "sets of" unless you mean multiple versions per platform.
+- 2026-05-27 09:46 — "定好" means "finalized/decided." "新" (new) is often typed as "信" by mistake; be careful with similar-sounding characters.
