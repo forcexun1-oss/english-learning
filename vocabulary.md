@@ -162,3 +162,4 @@
 - 2026-05-27 09:10 — Capitalize 'Linux' as it is a proper noun.
 - 2026-05-27 09:18 — Use 'uses' (third person singular) with 'The Android one'. Also capitalize 'Linux' and 'HTTP'.
 - 2026-05-27 09:28 — Use 'first' instead of 'firstly' for a natural instruction.
+- 2026-05-27 09:39 — Use 'since' or 'because' to replace '毕竟' in English.

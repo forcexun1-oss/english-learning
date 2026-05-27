@@ -1,1 +1,1 @@
-Reverse all the code, plan it first.
+Should we remove the edge-agent-sdk, since we expose everything through HTTP APIs only? For the microphone and camera, we need two platform-specific implementations and corresponding classes, right?
