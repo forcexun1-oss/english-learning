@@ -181,3 +181,5 @@
 - 2026-05-27 11:53 — Capitalize the first word of a sentence.
 - 2026-05-27 13:06 — Spelling: 'youslef' should be 'yourself'.
 - 2026-05-27 13:10 — Use 'ultimately' to mean 'in the end' or 'finally' when referring to long-term outcomes.
+- 2026-05-27 13:13 — Use 'What are the ... dependencies?' instead of 'What depend ...'. 'Depend' is a verb; 'dependencies' is the noun form.
+- 2026-05-27 13:14 — Use 'depend on' (preposition 'on' required). 'What kinds' is more natural for general categories.
