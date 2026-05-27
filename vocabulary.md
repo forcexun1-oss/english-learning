@@ -184,3 +184,4 @@
 - 2026-05-27 13:13 — Use 'What are the ... dependencies?' instead of 'What depend ...'. 'Depend' is a verb; 'dependencies' is the noun form.
 - 2026-05-27 13:14 — Use 'depend on' (preposition 'on' required). 'What kinds' is more natural for general categories.
 - 2026-05-27 13:18 — Use a period to separate two independent sentences instead of a comma. Also capitalize proper nouns like 'Python'.
+- 2026-05-27 13:28 — Use 'using ONNX' instead of 'with ONNX' to clarify that ONNX is the runtime or format, not just accompanying.
