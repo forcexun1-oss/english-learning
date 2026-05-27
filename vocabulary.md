@@ -177,3 +177,4 @@
 - 2026-05-27 11:22 — Use 'completely unrelated' instead of 'has no relation' for a more natural expression.
 - 2026-05-27 11:35 — Use 'an' before vowel sounds (like 'Android'), not 'a'.
 - 2026-05-27 11:47 — Use 'There isn't' instead of 'There is not a' for natural negative questions. Also capitalize 'Mac' as a proper noun.
+- 2026-05-27 11:49 — Use 'OK' (or 'Okay') instead of 'ok' in formal writing, and add a period at the end of a sentence.
