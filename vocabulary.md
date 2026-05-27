@@ -209,3 +209,4 @@
 - 2026-05-27 17:19 — Use 'test the models' instead of 'test with the models' for a more direct command.
 - 2026-05-27 18:28 — Use 'the' before acronyms like LLM when referring to a specific instance (e.g., 'the LLM'). Also capitalize the first word in a question.
 - 2026-05-27 20:26 — Use 'before reconnecting' (gerund) after 'before', not 'reconnected'.
+- 2026-05-27 20:40 — Remember to end a direct question with a question mark.
