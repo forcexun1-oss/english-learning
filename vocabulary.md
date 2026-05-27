@@ -183,3 +183,4 @@
 - 2026-05-27 13:10 — Use 'ultimately' to mean 'in the end' or 'finally' when referring to long-term outcomes.
 - 2026-05-27 13:13 — Use 'What are the ... dependencies?' instead of 'What depend ...'. 'Depend' is a verb; 'dependencies' is the noun form.
 - 2026-05-27 13:14 — Use 'depend on' (preposition 'on' required). 'What kinds' is more natural for general categories.
+- 2026-05-27 13:18 — Use a period to separate two independent sentences instead of a comma. Also capitalize proper nouns like 'Python'.
