@@ -1,1 +1,1 @@
-Should we remove the edge-agent-sdk, since we expose everything through HTTP APIs only? For the microphone and camera, we need two platform-specific implementations and corresponding classes, right?
+There will be no more Android classes. Expose HTTP interfaces directly. For the microphone and camera, we need two implementations — one for Mac and one for Android. The Android one should be implemented based on Linux, with no Android classes.
