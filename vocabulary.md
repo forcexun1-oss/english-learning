@@ -179,3 +179,4 @@
 - 2026-05-27 11:47 — Use 'There isn't' instead of 'There is not a' for natural negative questions. Also capitalize 'Mac' as a proper noun.
 - 2026-05-27 11:49 — Use 'OK' (or 'Okay') instead of 'ok' in formal writing, and add a period at the end of a sentence.
 - 2026-05-27 11:53 — Capitalize the first word of a sentence.
+- 2026-05-27 13:06 — Spelling: 'youslef' should be 'yourself'.
