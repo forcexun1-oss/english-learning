@@ -203,3 +203,4 @@
 - 2026-05-27 15:41 — Use 'I' instead of 'it' for the subject pronoun.
 - 2026-05-27 15:45 — Use the imperative form for commands, e.g., 'flash' becomes 'Flash' with capital letter at start of sentence.
 - 2026-05-27 15:48 — "再试试" can be translated as "try again" or "give it another try".
+- 2026-05-27 16:23 — 用 "regular" 比 "ordinary" 更自然，指非开发者版的普通设备。
