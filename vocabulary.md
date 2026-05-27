@@ -201,3 +201,4 @@
 - 2026-05-27 14:57 — Use 'in' after 'write' to specify the language (e.g., 'write in English', 'write in Chinese').
 - 2026-05-27 15:03 — Use plural 'interfaces' when referring to multiple items (Mic and Camera).
 - 2026-05-27 15:41 — Use 'I' instead of 'it' for the subject pronoun.
+- 2026-05-27 15:45 — Use the imperative form for commands, e.g., 'flash' becomes 'Flash' with capital letter at start of sentence.
