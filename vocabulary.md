@@ -189,3 +189,4 @@
 - 2026-05-27 13:43 — Use commas to separate items in a list, and consider adding a comma before 'and' (Oxford comma) for clarity.
 - 2026-05-27 13:45 — Use 'Does' for singular subjects (the project name). 'Accelerate' is a verb; use 'acceleration' (noun) after 'hardware'.
 - 2026-05-27 13:47 — Use 'focus on' instead of 'concern' when you mean to give attention or priority to something.
+- 2026-05-27 14:27 — '吧' softens the request; in English, you can add 'please' or use a direct imperative.
