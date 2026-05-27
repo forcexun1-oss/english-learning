@@ -170,3 +170,4 @@
 - 2026-05-27 09:58 — Add 'the' before 'doc' to make it grammatically correct: 'in the doc'.
 - 2026-05-27 10:16 — Use 'look like' to ask about the current state of something, or simply 'What are the current interfaces?' for a more direct technical question.
 - 2026-05-27 10:17 — '是要改的' implies necessity; in English, 'need to be corrected' or 'should be fixed' is more natural than a direct translation like 'is to be changed'.
+- 2026-05-27 10:18 — Use 'the same implementation' for '同一套实现' when referring to a shared codebase or approach.
