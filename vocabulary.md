@@ -155,3 +155,5 @@
 - 2026-05-26 18:03 — "不都...了吗" is a rhetorical question pattern meaning 'Isn't it already...?'. Use 'isn't it?' or 'already, isn't it?' in English.
 - 2026-05-26 18:04 — '一下' softens the request in Chinese; in English imperatives, you can drop it and just say 'Search for it.'
 - 2026-05-26 18:05 — The Chinese word '规划' can mean 'plan' or 'design'. Here 'plan' is suitable as it implies outlining the service architecture.
+- 2026-05-27 08:49 — Use 'for' to introduce the topic (e.g., 'For the microphone...'), and capitalize proper nouns like 'Xiaomi'.
+- 2026-05-27 08:56 — Use a period or question mark to separate sentences, not a comma.
