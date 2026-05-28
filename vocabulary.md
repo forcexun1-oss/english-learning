@@ -245,3 +245,4 @@
 - 2026-05-28 21:31 — "接入" here means 'connect to' or 'integrate with'. Use 'connect' for hardware connections, 'integrate' for system integration.
 - 2026-05-28 21:34 — "Pro" is often used as a model name (e.g., "Speaker Pro"), so it stays capitalized. Use "a" before "mic" (which is short for microphone).
 - 2026-05-28 21:34 — In English, 'speaker' already refers to the device, so saying 'with a mic and a speaker' is redundant. You could say 'with a mic' or specify if it has a separate speaker component.
+- 2026-05-28 21:36 — '清澈' literally means 'clear/transparent', but here it refers to clarity of communication — like 'crystal clear'.
