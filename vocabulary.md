@@ -230,3 +230,5 @@
 - 2026-05-28 14:18 — Use 'this' to refer to the preceding steps. 'Cache' is a technical term and should stay as is.
 - 2026-05-28 14:34 — Use 'Can't we' (contraction of cannot) for negative questions. 'Does' is not used after modal verbs like 'can'.
 - 2026-05-28 14:36 — Use 'the app starts' (present tense) instead of 'app started' (past tense) for general setup instructions.
+- 2026-05-28 14:48 — Use 'Is there' to ask about existence; 'cache' remains unchanged as a technical term.
+- 2026-05-28 14:52 — 不允许 (bù yǔnxǔ) means 'not allowed'. In technical instructions, you can use 'do not' for imperative commands.
