@@ -214,3 +214,4 @@
 - 2026-05-28 09:06 — Use 'the' before 'default implementation' to specify which implementation.
 - 2026-05-28 09:16 — 'Doingg' is misspelled; it should be 'doing' (one 'g').
 - 2026-05-28 09:19 — Use 'resolve' or 'fix' for problems; 'skip using it' is more natural than 'not use this'.
+- 2026-05-28 09:28 — Use a semicolon (;) to connect two related independent clauses instead of a comma splice.

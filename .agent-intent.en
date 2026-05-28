@@ -1,1 +1,1 @@
-Fix the ORT protobuf limit. Why is this issue occurring? If it can't be resolved, can we skip using it? Weren't we using sherpa before?
+Upgrade sherpa-onnx. 163 MB is too small; that's unacceptable.
