@@ -1,1 +1,1 @@
-Does the ha_xiaomi_home integration connect to this home-assistant/core repository?
+Let's write an integration document. Should we clone home-assistant/core? If so, clone it into a subdirectory under ~/projects.
