@@ -221,3 +221,4 @@
 - 2026-05-28 10:58 — Use the base verb form for commands: 'Connect' (not 'connected').
 - 2026-05-28 11:04 — Use 'Please verify' instead of 'Do verify' for polite requests.
 - 2026-05-28 11:18 — Use 'runs' (third-person singular) instead of 'run' with 'It'. Also 'acceleration' has only one 't'.
+- 2026-05-28 11:28 — Use 'Do you have' instead of '有吗' for a direct question.
