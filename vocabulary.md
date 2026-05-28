@@ -240,3 +240,4 @@
 - 2026-05-28 17:00 — Use uppercase for acronyms like CPU.
 - 2026-05-28 17:04 — Use 'search for' instead of 'search about'.
 - 2026-05-28 17:08 — Use 'run models' instead of 'let models run' for a more natural and concise expression. Also, add 'the' before 'GPU'.
+- 2026-05-28 17:14 — Capitalize the first word of a sentence.
