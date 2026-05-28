@@ -222,3 +222,4 @@
 - 2026-05-28 11:04 — Use 'Please verify' instead of 'Do verify' for polite requests.
 - 2026-05-28 11:18 — Use 'runs' (third-person singular) instead of 'run' with 'It'. Also 'acceleration' has only one 't'.
 - 2026-05-28 11:28 — Use 'Do you have' instead of '有吗' for a direct question.
+- 2026-05-28 11:31 — Use 'Has' (present perfect) instead of 'Does' when asking if something has already started. 'Does' is for simple present (e.g., 'Does it start?').
