@@ -223,3 +223,4 @@
 - 2026-05-28 11:18 — Use 'runs' (third-person singular) instead of 'run' with 'It'. Also 'acceleration' has only one 't'.
 - 2026-05-28 11:28 — Use 'Do you have' instead of '有吗' for a direct question.
 - 2026-05-28 11:31 — Use 'Has' (present perfect) instead of 'Does' when asking if something has already started. 'Does' is for simple present (e.g., 'Does it start?').
+- 2026-05-28 11:48 — Use 'please' to make a polite request. Also, '图片上的格式' (format in/on the image) is correct; '图片上格式' is incomplete.
