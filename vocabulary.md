@@ -226,3 +226,4 @@
 - 2026-05-28 11:48 — Use 'please' to make a polite request. Also, '图片上的格式' (format in/on the image) is correct; '图片上格式' is incomplete.
 - 2026-05-28 13:08 — Use 'when + gerund' (installing) instead of 'when + base verb' (install) for actions happening at the same time.
 - 2026-05-28 14:03 — Use 'compilation cache' (noun) instead of 'compiling cache' (gerund as adjective). Or say 'compile cache'.
+- 2026-05-28 14:07 — "catch" should be "cache" (a storage for quick access).
