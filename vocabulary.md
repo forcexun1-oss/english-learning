@@ -242,3 +242,4 @@
 - 2026-05-28 17:08 — Use 'run models' instead of 'let models run' for a more natural and concise expression. Also, add 'the' before 'GPU'.
 - 2026-05-28 17:14 — Capitalize the first word of a sentence.
 - 2026-05-28 17:27 — Remember that 'information' is uncountable in English. Use 'this information' instead of 'these infos'.
+- 2026-05-28 21:31 — "接入" here means 'connect to' or 'integrate with'. Use 'connect' for hardware connections, 'integrate' for system integration.
