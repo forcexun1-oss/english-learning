@@ -262,3 +262,4 @@
 - 2026-05-28 22:14 — Use 'how many' for countable items. '在跑' (running) often refers to processes or tasks in coding contexts.
 - 2026-05-28 22:21 — Always capitalize the pronoun 'I'.
 - 2026-05-28 22:47 — Use 'I have a proxy' instead of '我是有代理' — the '是' is unnecessary for stating possession.
+- 2026-05-28 22:52 — Use 'instead of + gerund' to express contrast between two actions (e.g., 'instead of registering').
