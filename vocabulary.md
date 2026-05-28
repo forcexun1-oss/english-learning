@@ -238,3 +238,4 @@
 - 2026-05-28 16:26 — "确认是一下" should be "确认一下" (check/confirm). The correct phrase is "确认一下".
 - 2026-05-28 16:28 — When asking about upgrading to a newer version, use 'upgrade to a higher version' (not 'upgrade to more higher'). 'Higher' already means 'more high'.
 - 2026-05-28 17:00 — Use uppercase for acronyms like CPU.
+- 2026-05-28 17:04 — Use 'search for' instead of 'search about'.
