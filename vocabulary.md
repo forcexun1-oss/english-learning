@@ -253,3 +253,6 @@
 - 2026-05-28 21:52 — Use "Does ... connect to ..." for yes/no questions. '接入的就是这个' can be rephrased as 'does it connect to this...'.
 - 2026-05-28 21:53 — Use 'shall we' or 'should we' instead of the colloquial '这把' for clarity. Also, '~/project' might be a typo for '~/projects' — check the intended directory name.
 - 2026-05-28 21:55 — In Chinese, '需要把' is used to introduce the object of an action. In English, it's often expressed as 'requires' or 'needs to have'. Your sentence seems incomplete; consider finishing it with the specific requirement.
+- 2026-05-28 21:56 — "跑起来" is colloquial for 'get it running' or 'run (the code)'. In technical contexts, use 'run' or 'start'.
+- 2026-05-28 21:58 — Use 'direct it to perform the integration' instead of 'command it to integrate' for a more natural command tone.
+- 2026-05-28 22:03 — Fix typo: 'cousor-agent' should be 'cursor-agent'. Also, '和你一样的编码智能体' is better as 'an intelligent coding agent like you' rather than a literal translation.
