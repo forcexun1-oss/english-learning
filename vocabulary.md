@@ -265,3 +265,4 @@
 - 2026-05-28 22:52 — Use 'instead of + gerund' to express contrast between two actions (e.g., 'instead of registering').
 - 2026-05-28 22:54 — Use 'forgot' (past tense) for an action that already happened, not 'forget' (present tense).
 - 2026-05-28 23:03 — In technical contexts, '发现' often translates to 'detect' rather than 'discover'.
+- 2026-05-28 23:05 — Short questions like '这个?' can be expanded to 'What about this?' for clarity.
