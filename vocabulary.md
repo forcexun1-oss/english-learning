@@ -233,3 +233,4 @@
 - 2026-05-28 14:48 — Use 'Is there' to ask about existence; 'cache' remains unchanged as a technical term.
 - 2026-05-28 14:52 — 不允许 (bù yǔnxǔ) means 'not allowed'. In technical instructions, you can use 'do not' for imperative commands.
 - 2026-05-28 14:58 — Use 'by' instead of 'with' after 'solve' to indicate the method.
+- 2026-05-28 16:08 — Use 'Couldn't we...' or 'Isn't it...' to express the rhetorical question pattern '不是...吗'.
