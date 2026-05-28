@@ -252,3 +252,4 @@
 - 2026-05-28 21:50 — Use 'specific' to clarify which exact one you mean, as in 'which specific Home Assistant'.
 - 2026-05-28 21:52 — Use "Does ... connect to ..." for yes/no questions. '接入的就是这个' can be rephrased as 'does it connect to this...'.
 - 2026-05-28 21:53 — Use 'shall we' or 'should we' instead of the colloquial '这把' for clarity. Also, '~/project' might be a typo for '~/projects' — check the intended directory name.
+- 2026-05-28 21:55 — In Chinese, '需要把' is used to introduce the object of an action. In English, it's often expressed as 'requires' or 'needs to have'. Your sentence seems incomplete; consider finishing it with the specific requirement.
