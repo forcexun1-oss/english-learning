@@ -216,3 +216,4 @@
 - 2026-05-28 09:19 — Use 'resolve' or 'fix' for problems; 'skip using it' is more natural than 'not use this'.
 - 2026-05-28 09:28 — Use a semicolon (;) to connect two related independent clauses instead of a comma splice.
 - 2026-05-28 10:06 — In questions, use 'what issue is occurring' (subject 'issue' before verb 'is') instead of 'what's issue occurring'.
+- 2026-05-28 10:08 — Use a question mark (?) for direct questions, not a semicolon.
