@@ -227,3 +227,4 @@
 - 2026-05-28 13:08 — Use 'when + gerund' (installing) instead of 'when + base verb' (install) for actions happening at the same time.
 - 2026-05-28 14:03 — Use 'compilation cache' (noun) instead of 'compiling cache' (gerund as adjective). Or say 'compile cache'.
 - 2026-05-28 14:07 — "catch" should be "cache" (a storage for quick access).
+- 2026-05-28 14:18 — Use 'this' to refer to the preceding steps. 'Cache' is a technical term and should stay as is.

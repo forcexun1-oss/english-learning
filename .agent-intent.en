@@ -1,1 +1,1 @@
-Reverse it, what I want to ask is "Have you added NNAPI compiling cache?"
+2. Package the release .so — bundle libedge_perception.so + libsherpa-onnx*.so + libonnxruntime.so into a deployable archive (similar to package-llm-gateway.sh) 3. Push & smoke-test on device — adb push the release .so alongside test-perception and confirm release perf vs debug. What problem is this solving? Has the cache been added?
