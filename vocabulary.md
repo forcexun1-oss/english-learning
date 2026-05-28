@@ -256,3 +256,4 @@
 - 2026-05-28 21:56 — "跑起来" is colloquial for 'get it running' or 'run (the code)'. In technical contexts, use 'run' or 'start'.
 - 2026-05-28 21:58 — Use 'direct it to perform the integration' instead of 'command it to integrate' for a more natural command tone.
 - 2026-05-28 22:03 — Fix typo: 'cousor-agent' should be 'cursor-agent'. Also, '和你一样的编码智能体' is better as 'an intelligent coding agent like you' rather than a literal translation.
+- 2026-05-28 22:05 — Use 'invoke' or 'call' for '调用' when referring to executing a command or tool.
