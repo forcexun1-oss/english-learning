@@ -235,3 +235,4 @@
 - 2026-05-28 14:58 — Use 'by' instead of 'with' after 'solve' to indicate the method.
 - 2026-05-28 16:08 — Use 'Couldn't we...' or 'Isn't it...' to express the rhetorical question pattern '不是...吗'.
 - 2026-05-28 16:23 — '会有什么影响' translates to 'what impact will ... have'. Note 'impact' is a noun; you can also say 'what are the impacts of ...'.
+- 2026-05-28 16:26 — "确认是一下" should be "确认一下" (check/confirm). The correct phrase is "确认一下".
