@@ -232,3 +232,4 @@
 - 2026-05-28 14:36 — Use 'the app starts' (present tense) instead of 'app started' (past tense) for general setup instructions.
 - 2026-05-28 14:48 — Use 'Is there' to ask about existence; 'cache' remains unchanged as a technical term.
 - 2026-05-28 14:52 — 不允许 (bù yǔnxǔ) means 'not allowed'. In technical instructions, you can use 'do not' for imperative commands.
+- 2026-05-28 14:58 — Use 'by' instead of 'with' after 'solve' to indicate the method.
