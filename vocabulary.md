@@ -261,3 +261,4 @@
 - 2026-05-28 22:13 — In Chinese, "模型用" means 'use the model' or 'for the model'. When specifying a model name, it's clearer to say 'Use the <model name> model' or simply 'Use <model name>' if the context is clear.
 - 2026-05-28 22:14 — Use 'how many' for countable items. '在跑' (running) often refers to processes or tasks in coding contexts.
 - 2026-05-28 22:21 — Always capitalize the pronoun 'I'.
+- 2026-05-28 22:47 — Use 'I have a proxy' instead of '我是有代理' — the '是' is unnecessary for stating possession.
