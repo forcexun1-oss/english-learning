@@ -218,3 +218,4 @@
 - 2026-05-28 10:06 — In questions, use 'what issue is occurring' (subject 'issue' before verb 'is') instead of 'what's issue occurring'.
 - 2026-05-28 10:08 — Use a question mark (?) for direct questions, not a semicolon.
 - 2026-05-28 10:24 — Use 'Does...use' for yes/no questions in present tense; '用到' means 'use' in this context.
+- 2026-05-28 10:58 — Use the base verb form for commands: 'Connect' (not 'connected').
