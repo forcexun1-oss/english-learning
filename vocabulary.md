@@ -225,3 +225,4 @@
 - 2026-05-28 11:31 — Use 'Has' (present perfect) instead of 'Does' when asking if something has already started. 'Does' is for simple present (e.g., 'Does it start?').
 - 2026-05-28 11:48 — Use 'please' to make a polite request. Also, '图片上的格式' (format in/on the image) is correct; '图片上格式' is incomplete.
 - 2026-05-28 13:08 — Use 'when + gerund' (installing) instead of 'when + base verb' (install) for actions happening at the same time.
+- 2026-05-28 14:03 — Use 'compilation cache' (noun) instead of 'compiling cache' (gerund as adjective). Or say 'compile cache'.
