@@ -257,3 +257,6 @@
 - 2026-05-28 21:58 — Use 'direct it to perform the integration' instead of 'command it to integrate' for a more natural command tone.
 - 2026-05-28 22:03 — Fix typo: 'cousor-agent' should be 'cursor-agent'. Also, '和你一样的编码智能体' is better as 'an intelligent coding agent like you' rather than a literal translation.
 - 2026-05-28 22:05 — Use 'invoke' or 'call' for '调用' when referring to executing a command or tool.
+- 2026-05-28 22:12 — In English, refer to software agents or tools as 'it' rather than 'he'.
+- 2026-05-28 22:13 — In Chinese, "模型用" means 'use the model' or 'for the model'. When specifying a model name, it's clearer to say 'Use the <model name> model' or simply 'Use <model name>' if the context is clear.
+- 2026-05-28 22:14 — Use 'how many' for countable items. '在跑' (running) often refers to processes or tasks in coding contexts.
