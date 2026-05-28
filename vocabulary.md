@@ -249,3 +249,4 @@
 - 2026-05-28 21:38 — “接入” in this context is best translated as “integrate with” or “connect to”. Using “integrate” is more natural for developer discussions.
 - 2026-05-28 21:42 — In software development contexts, '仓库' usually translates to 'repository' (repo), not 'warehouse'.
 - 2026-05-28 21:44 — Use 'it' instead of '他' to refer to an object or repository. '他' is for people.
+- 2026-05-28 21:50 — Use 'specific' to clarify which exact one you mean, as in 'which specific Home Assistant'.
