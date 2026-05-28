@@ -228,3 +228,4 @@
 - 2026-05-28 14:03 — Use 'compilation cache' (noun) instead of 'compiling cache' (gerund as adjective). Or say 'compile cache'.
 - 2026-05-28 14:07 — "catch" should be "cache" (a storage for quick access).
 - 2026-05-28 14:18 — Use 'this' to refer to the preceding steps. 'Cache' is a technical term and should stay as is.
+- 2026-05-28 14:34 — Use 'Can't we' (contraction of cannot) for negative questions. 'Does' is not used after modal verbs like 'can'.
