@@ -212,3 +212,4 @@
 - 2026-05-27 20:40 — Remember to end a direct question with a question mark.
 - 2026-05-27 20:53 — Use 'at once' to mean 'all together' instead of 'one time'.
 - 2026-05-28 09:06 — Use 'the' before 'default implementation' to specify which implementation.
+- 2026-05-28 09:16 — 'Doingg' is misspelled; it should be 'doing' (one 'g').
