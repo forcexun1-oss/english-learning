@@ -219,3 +219,4 @@
 - 2026-05-28 10:08 — Use a question mark (?) for direct questions, not a semicolon.
 - 2026-05-28 10:24 — Use 'Does...use' for yes/no questions in present tense; '用到' means 'use' in this context.
 - 2026-05-28 10:58 — Use the base verb form for commands: 'Connect' (not 'connected').
+- 2026-05-28 11:04 — Use 'Please verify' instead of 'Do verify' for polite requests.
