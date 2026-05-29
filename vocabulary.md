@@ -305,3 +305,4 @@
 - 2026-05-29 17:15 — Use active voice ('closes') instead of passive ('is closed') to describe an action or event. Active voice is more direct and natural.
 - 2026-05-29 17:19 — Spelling: 'reselution' should be 'resolution'.
 - 2026-05-29 17:43 — Use 'is it' for questions, not 'it is'.
+- 2026-05-29 17:46 — Use 'as thumbnails' instead of '是缩略图' (is thumbnail) — verbs like 'remain' or 'keep' pair with 'as' for states.
