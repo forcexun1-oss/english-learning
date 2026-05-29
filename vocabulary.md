@@ -302,3 +302,4 @@
 - 2026-05-29 16:05 — Capitalize the first word of a sentence: 'Re-run' instead of 're-run'.
 - 2026-05-29 16:48 — Use 'comprehensive summary' for '整体总结'; 'send to others' is more natural than '给外人'.
 - 2026-05-29 17:10 — Use 'a' before singular countable nouns like 'button', and 'the' when referring to a specific 'picture'.
+- 2026-05-29 17:15 — Use active voice ('closes') instead of passive ('is closed') to describe an action or event. Active voice is more direct and natural.
