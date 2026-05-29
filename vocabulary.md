@@ -298,3 +298,4 @@
 - 2026-05-29 15:44 — Use "so far" instead of "now" to ask about progress on an ongoing task.
 - 2026-05-29 15:49 — No space before a comma: use 'Restarted, go ahead' instead of 'Restarted , go ahead'.
 - 2026-05-29 15:57 — Use a comma before 'or' when joining two independent clauses.
+- 2026-05-29 16:00 — In English, do not put a space before a colon.
