@@ -287,3 +287,4 @@
 - 2026-05-29 13:24 — QR code is typically written as two words (not QRcode).
 - 2026-05-29 13:42 — Remove the extra space before 'of'.
 - 2026-05-29 13:53 — Use 'to + verb' to express purpose (e.g., 'to check') instead of 'is + verb-ing'.
+- 2026-05-29 13:56 — Use 'from what I know' instead of 'to what I know', and capitalize 'ML Kit' properly.
