@@ -294,3 +294,4 @@
 - 2026-05-29 14:33 — Use 'is it a proper...' instead of 'Does it proper' because 'proper' is an adjective and needs the verb 'is'.
 - 2026-05-29 14:58 — Spelling: 'progress' not 'progeress'.
 - 2026-05-29 15:18 — Spelling: 'progress' not 'progeress'.
+- 2026-05-29 15:21 — Use 'Does' (singular) with singular nouns like 'parameter', not 'Do'.
