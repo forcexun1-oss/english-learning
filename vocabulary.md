@@ -290,3 +290,4 @@
 - 2026-05-29 13:56 — Use 'from what I know' instead of 'to what I know', and capitalize 'ML Kit' properly.
 - 2026-05-29 14:00 — "Detection" is a noun; use "detecting" (verb) after "is". Also "QR code" is usually written as two words.
 - 2026-05-29 14:21 — Commands are often written as imperatives; adding a period makes it a complete sentence.
+- 2026-05-29 14:30 — Use 'is' as the auxiliary verb and 'implemented' (past participle) for passive voice: 'Is it not implemented...?'
