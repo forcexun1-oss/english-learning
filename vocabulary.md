@@ -277,3 +277,4 @@
 - 2026-05-29 10:05 — "plugin" is a noun; the verb is "plug in". Also, use "devices" (plural) for multiple devices.
 - 2026-05-29 10:17 — "Bench" is short for "benchmark", but when referring to multiple tests, use "benchmarks" for clarity.
 - 2026-05-29 10:20 — Add 'model' after YOLO for clarity, since YOLO is a model name.
+- 2026-05-29 10:28 — Use 'the' before 'latest version' (definite article).
