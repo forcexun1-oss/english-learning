@@ -300,3 +300,4 @@
 - 2026-05-29 15:57 — Use a comma before 'or' when joining two independent clauses.
 - 2026-05-29 16:00 — In English, do not put a space before a colon.
 - 2026-05-29 16:05 — Capitalize the first word of a sentence: 'Re-run' instead of 're-run'.
+- 2026-05-29 16:48 — Use 'comprehensive summary' for '整体总结'; 'send to others' is more natural than '给外人'.
