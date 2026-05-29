@@ -283,3 +283,4 @@
 - 2026-05-29 11:31 — No space before question marks or exclamation marks in English.
 - 2026-05-29 11:49 — Use 'the' before nouns when referring to a specific thing: 'the value of the max token'.
 - 2026-05-29 11:51 — Use 'maximum' in formal writing; 'max' is okay in informal speech.
+- 2026-05-29 12:30 — In questions, use "Can't I..." or "Can I not..." instead of "Can not" at the start.
