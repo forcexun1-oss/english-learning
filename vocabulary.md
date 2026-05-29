@@ -289,3 +289,4 @@
 - 2026-05-29 13:53 — Use 'to + verb' to express purpose (e.g., 'to check') instead of 'is + verb-ing'.
 - 2026-05-29 13:56 — Use 'from what I know' instead of 'to what I know', and capitalize 'ML Kit' properly.
 - 2026-05-29 14:00 — "Detection" is a noun; use "detecting" (verb) after "is". Also "QR code" is usually written as two words.
+- 2026-05-29 14:21 — Commands are often written as imperatives; adding a period makes it a complete sentence.
