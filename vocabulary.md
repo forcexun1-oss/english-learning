@@ -304,3 +304,4 @@
 - 2026-05-29 17:10 — Use 'a' before singular countable nouns like 'button', and 'the' when referring to a specific 'picture'.
 - 2026-05-29 17:15 — Use active voice ('closes') instead of passive ('is closed') to describe an action or event. Active voice is more direct and natural.
 - 2026-05-29 17:19 — Spelling: 'reselution' should be 'resolution'.
+- 2026-05-29 17:43 — Use 'is it' for questions, not 'it is'.
