@@ -295,3 +295,4 @@
 - 2026-05-29 14:58 — Spelling: 'progress' not 'progeress'.
 - 2026-05-29 15:18 — Spelling: 'progress' not 'progeress'.
 - 2026-05-29 15:21 — Use 'Does' (singular) with singular nouns like 'parameter', not 'Do'.
+- 2026-05-29 15:44 — Use "so far" instead of "now" to ask about progress on an ongoing task.
