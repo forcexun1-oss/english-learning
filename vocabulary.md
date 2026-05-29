@@ -272,3 +272,4 @@
 - 2026-05-29 09:35 — Use 'if' to express a condition clearly. Also use 'x' (not '*') for image dimensions (e.g., 448x448).
 - 2026-05-29 09:46 — “什么样的”常用 "what does ... look like" 表达，注意 data 是不可数名词，这里用单数动词 does。
 - 2026-05-29 09:53 — Add 'I' before 'know': 'how do I know' instead of 'how do know'.
+- 2026-05-29 09:55 — Use 'the' instead of 'a' because you are referring to specific default values.

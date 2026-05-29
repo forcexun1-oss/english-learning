@@ -1,1 +1,1 @@
-Add a class names map to VisionConfig, but how to build the map? How do I know which class_* maps to 'person'?
+Yes, go ahead, and would you build the right default values for the map?
