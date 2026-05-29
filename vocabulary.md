@@ -299,3 +299,4 @@
 - 2026-05-29 15:49 — No space before a comma: use 'Restarted, go ahead' instead of 'Restarted , go ahead'.
 - 2026-05-29 15:57 — Use a comma before 'or' when joining two independent clauses.
 - 2026-05-29 16:00 — In English, do not put a space before a colon.
+- 2026-05-29 16:05 — Capitalize the first word of a sentence: 'Re-run' instead of 're-run'.
