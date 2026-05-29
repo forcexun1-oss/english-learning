@@ -281,3 +281,4 @@
 - 2026-05-29 11:13 — "bench" is often short for "benchmark" in casual contexts, but in documentation use the full word "benchmark" for clarity.
 - 2026-05-29 11:30 — Remove the space before punctuation marks like ? and ! in English.
 - 2026-05-29 11:31 — No space before question marks or exclamation marks in English.
+- 2026-05-29 11:49 — Use 'the' before nouns when referring to a specific thing: 'the value of the max token'.
