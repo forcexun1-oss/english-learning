@@ -285,3 +285,4 @@
 - 2026-05-29 11:51 — Use 'maximum' in formal writing; 'max' is okay in informal speech.
 - 2026-05-29 12:30 — In questions, use "Can't I..." or "Can I not..." instead of "Can not" at the start.
 - 2026-05-29 13:24 — QR code is typically written as two words (not QRcode).
+- 2026-05-29 13:42 — Remove the extra space before 'of'.
