@@ -274,3 +274,4 @@
 - 2026-05-29 09:53 — Add 'I' before 'know': 'how do I know' instead of 'how do know'.
 - 2026-05-29 09:55 — Use 'the' instead of 'a' because you are referring to specific default values.
 - 2026-05-29 09:57 — Use past tense "completed" when reporting a finished action.
+- 2026-05-29 10:05 — "plugin" is a noun; the verb is "plug in". Also, use "devices" (plural) for multiple devices.
