@@ -267,3 +267,4 @@
 - 2026-05-28 23:03 — In technical contexts, '发现' often translates to 'detect' rather than 'discover'.
 - 2026-05-28 23:05 — Short questions like '这个?' can be expanded to 'What about this?' for clarity.
 - 2026-05-29 09:09 — Capitalize the first letter of a sentence. 'Info' is fine; 'information' is more formal but unnecessary here.
+- 2026-05-29 09:10 — Spelling: 'connected' has two 'c's and one 't'.
