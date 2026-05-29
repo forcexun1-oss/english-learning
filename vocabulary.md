@@ -275,3 +275,5 @@
 - 2026-05-29 09:55 — Use 'the' instead of 'a' because you are referring to specific default values.
 - 2026-05-29 09:57 — Use past tense "completed" when reporting a finished action.
 - 2026-05-29 10:05 — "plugin" is a noun; the verb is "plug in". Also, use "devices" (plural) for multiple devices.
+- 2026-05-29 10:17 — "Bench" is short for "benchmark", but when referring to multiple tests, use "benchmarks" for clarity.
+- 2026-05-29 10:20 — Add 'model' after YOLO for clarity, since YOLO is a model name.
