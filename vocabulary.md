@@ -309,3 +309,4 @@
 - 2026-05-29 17:50 — Use 'to' instead of 'in' when adding a feature to something (e.g., 'add support to X'). 'In' implies the feature is already inside, not being added.
 - 2026-05-30 22:03 — committed has double 't': commit -> committed.
 - 2026-05-30 22:14 — Use 'from scratch' instead of 'by scratch'. 'From scratch' means starting from the beginning.
+- 2026-05-30 22:21 — "Then" is for time/sequence (e.g., "then do X"). Use "them" for referring to objects. Also, "beforehand" is one word meaning "in advance".
