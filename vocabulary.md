@@ -315,3 +315,4 @@
 - 2026-05-30 22:33 — Use 'push to' (destination) instead of 'push on'. Similarly, 'pull from' is correct.
 - 2026-05-30 22:40 — In programming, 'code' is usually uncountable. Use 'code' instead of 'codes' for the general concept.
 - 2026-05-30 22:42 — After 'didn't', use the base form of the verb (e.g., 'log', not 'logged').
+- 2026-05-30 22:50 — "every day" (two words) means "each day"; "everyday" (one word) is an adjective meaning "ordinary".
