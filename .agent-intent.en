@@ -1,1 +1,1 @@
-Because Cursor pushed articles/2026-05-25.md to the cloud, not to the local repo. So you should pull the repo before writing any files.
+I added a hook in Cursor that can read the code.
