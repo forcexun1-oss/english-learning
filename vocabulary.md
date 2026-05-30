@@ -314,3 +314,4 @@
 - 2026-05-30 22:29 — Use 'Did' for past tense questions, not 'Does' with past participle 'caused'. The auxiliary 'did' takes the base verb 'cause'.
 - 2026-05-30 22:33 — Use 'push to' (destination) instead of 'push on'. Similarly, 'pull from' is correct.
 - 2026-05-30 22:40 — In programming, 'code' is usually uncountable. Use 'code' instead of 'codes' for the general concept.
+- 2026-05-30 22:42 — After 'didn't', use the base form of the verb (e.g., 'log', not 'logged').
