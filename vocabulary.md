@@ -322,3 +322,4 @@
 - 2026-05-30 23:22 — "Code" is uncountable in English, so use "the unused code" instead of "the codes".
 - 2026-05-30 23:26 — Use 'tomorrow after 17:30' instead of 'after 17:30 of tomorrow' for more natural word order.
 - 2026-05-30 23:31 — Avoid using 're-' prefix with 'again' as it's redundant. Just say 'save again'.
+- 2026-05-30 23:36 — Add a question mark to turn the fragment into a proper question.
