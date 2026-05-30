@@ -312,3 +312,4 @@
 - 2026-05-30 22:21 — "Then" is for time/sequence (e.g., "then do X"). Use "them" for referring to objects. Also, "beforehand" is one word meaning "in advance".
 - 2026-05-30 22:25 — Use 'has' with third-person singular subjects like 'it', not 'have'.
 - 2026-05-30 22:29 — Use 'Did' for past tense questions, not 'Does' with past participle 'caused'. The auxiliary 'did' takes the base verb 'cause'.
+- 2026-05-30 22:33 — Use 'push to' (destination) instead of 'push on'. Similarly, 'pull from' is correct.

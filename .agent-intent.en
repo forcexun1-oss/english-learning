@@ -1,1 +1,1 @@
-Did the cursor pushing the files cause the errors?
+Because Cursor pushed articles/2026-05-25.md to the cloud, not to the local repo. So you should pull the repo before writing any files.
