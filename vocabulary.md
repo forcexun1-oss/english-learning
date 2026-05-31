@@ -335,3 +335,4 @@
 - 2026-05-31 20:30 — Use 'an' before acronyms that start with a vowel sound (e.g., 'an LLM'). Also capitalize brand names as proper nouns (e.g., 'Xiaomi').
 - 2026-05-31 21:38 — Spelling: 'tow' should be 'two'.
 - 2026-05-31 22:03 — 'Tow' is a misspelling of 'two' (the number). Also, 'scale through' is less common; 'pinch-to-zoom' is the standard term for this gesture.
+- 2026-05-31 22:09 — Chinese uses '把X换成Y' (take X and change to Y). In English, say 'change X to Y' or 'replace X with Y'. Here 'match' sounds more natural for fonts.
