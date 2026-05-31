@@ -1,0 +1,29 @@
+# English Learning — 2026-05-30
+
+Today's session was about the english-learning repo workflow: local logs vs. remote GitHub, Cursor hooks, and auto-push. Useful when coordinating tools and automations.
+
+## Vocabulary to Learn
+
+.  commit / push – save locally vs. upload to remote. "The local files are not committed to the remote."
+.  from scratch – start fresh, manually. "Commit them from scratch."
+.  beforehand – in advance, earlier. "They should be committed automatically beforehand."
+.  hook – a script triggered by an event. "I added a hook in Cursor."
+.  sync – keep local and remote matching. "Pull the repo before writing any files."
+.  automation – scheduled task (e.g. daily article). "The cloud automation reads GitHub, not local files."
+
+## Grammar and Natural Phrasing
+
+
+When debugging sync issues, state the gap clearly: "Cursor pushed on the cloud, not locally — pull before writing files." That tells an agent exactly what went wrong.
+
+## Handy Questions
+
+.  "Does Cursor run the same push script?"
+.  "Would the audio task push generated files to the remote repo?"
+.  "What errors occurred when the push failed?"
+
+. --
+
+## Today's Writing Prompt
+
+Write 2-3 sentences explaining why your daily article automation missed today's log (local vs. remote), and one request to add auto-push after Cursor messages are recorded.
