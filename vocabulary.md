@@ -326,3 +326,4 @@
 - 2026-05-30 23:52 — Add 'the' before 'browser' (specific browser). Also capitalize 'Try' as a new sentence.
 - 2026-05-31 11:49 — Use 'audio generation tasks' instead of 'generatation audio tasks' - the adjective 'generation' comes before the noun 'audio' in English.
 - 2026-05-31 18:56 — Use 'I' instead of 'you' when asking for yourself (e.g., 'how do I push' not 'how do you push').
+- 2026-05-31 19:03 — Use 'Is there a...' for yes/no questions. Also 'NotebookLM' should be capitalized correctly.
