@@ -1,0 +1,29 @@
+# English Learning — 2026-05-29
+
+Today's log covered Rockchip board testing, YOLO26 vision APIs, QR code detection, LLM context limits, and UI tweaks. Language for benchmarking and integration work.
+
+## Vocabulary to Learn
+
+.  benchmark – standardized performance test. "Run the bench to verify the new build."
+.  class names map – labels for detected object IDs. "Add class names to VisionConfig."
+.  localization – finding where something is in an image. YOLO is strong here; QR decoding is a separate step.
+.  context length (-c) – how many tokens the LLM can remember. "What is the max value of -c?"
+.  integrate – add a library or feature into the project. "Integrate WeChatCV instead."
+.  thumbnail – small preview image in a list. "Keep thumbnails in the list view."
+
+## Grammar and Natural Phrasing
+
+
+"What's the progress so far?" is a natural way to check on long-running agent tasks. Be specific when two devices are connected: "Push to the phone — I have two devices plugged in."
+
+## Handy Questions
+
+.  "Show me the YOLO API's input parameters."
+.  "Can YOLO26 recognize QR codes?"
+.  "Does the -c 40960 parameter impact LLM running?"
+
+. --
+
+## Today's Writing Prompt
+
+Write 2-3 sentences comparing YOLO and a dedicated QR decoder for a car-camera scene, and ask one question about which approach your edge agent should integrate.
