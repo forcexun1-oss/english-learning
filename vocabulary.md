@@ -331,3 +331,4 @@
 - 2026-05-31 19:16 — Add a question mark at the end of questions.
 - 2026-05-31 19:24 — Add 'the' before 'directory' (a countable noun) to make it grammatically complete.
 - 2026-05-31 20:13 — Use 'integrate' instead of 'connect' for API/device compatibility context. Also capitalize brand names (Garmin).
+- 2026-05-31 20:28 — "接入" can be translated as "connect" or "integrate". Here, "after connecting it" is more natural for a device or service.
