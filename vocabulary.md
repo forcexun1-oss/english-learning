@@ -325,3 +325,4 @@
 - 2026-05-30 23:36 — Add a question mark to turn the fragment into a proper question.
 - 2026-05-30 23:52 — Add 'the' before 'browser' (specific browser). Also capitalize 'Try' as a new sentence.
 - 2026-05-31 11:49 — Use 'audio generation tasks' instead of 'generatation audio tasks' - the adjective 'generation' comes before the noun 'audio' in English.
+- 2026-05-31 18:56 — Use 'I' instead of 'you' when asking for yourself (e.g., 'how do I push' not 'how do you push').
