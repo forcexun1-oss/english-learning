@@ -337,3 +337,4 @@
 - 2026-05-31 22:03 — 'Tow' is a misspelling of 'two' (the number). Also, 'scale through' is less common; 'pinch-to-zoom' is the standard term for this gesture.
 - 2026-05-31 22:09 — Chinese uses '把X换成Y' (take X and change to Y). In English, say 'change X to Y' or 'replace X with Y'. Here 'match' sounds more natural for fonts.
 - 2026-05-31 22:14 — Use 'does not' (or 'doesn't') for third person singular negative: 'It does not work' instead of 'It not work'.
+- 2026-05-31 23:01 — Add '-s' for third-person singular verbs: 'scrolls' and 'scales' instead of 'scroll' and 'scale'.
