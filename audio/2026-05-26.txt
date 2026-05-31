@@ -1,0 +1,28 @@
+# English Learning — 2026-05-26
+
+Today's session focused on LLM memory management (Trie, VRAM, page-in/page-out), project alignment, and automation setup. These phrases help when discussing inference with coding agents.
+
+## Vocabulary to Learn
+
+.  concurrent requests – multiple calls at the same time. "How does Ollama handle concurrent requests?"
+.  VRAM – video/GPU memory. "What do the two VRAM copies actually do?"
+.  page-in / page-out – load/unload memory to or from VRAM. "Do page-in and page-out simply map to load and unload?"
+.  branch – a path in a Trie tree. "Does each branch map to independent memory?"
+.  alignment – making two systems match. "Full clean alignment — is it OpenAI compatible?"
+.  shared – used by multiple parts. "The values are shared by every branch."
+
+## Grammar and Natural Phrasing
+
+
+Use "go ahead" to tell an agent to continue. Ask "Is the live buffer released after the request?" when clarifying memory behavior.
+
+## Handy Questions
+
+.  "Can vLLM's approach work on Apple Silicon?"
+.  "Does edge-agent-sdk support Volcengine's LLM?"
+
+. --
+
+## Today's Writing Prompt
+
+Write 2-3 sentences explaining how page-in and page-out relate to GPU memory when switching between LLM conversations, and ask one follow-up question about whether buffers are released after a request.
