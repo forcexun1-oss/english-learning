@@ -1,1 +1,2 @@
-Is there a NotebookLM skill that can do it?
+Option 1: GitHub URL as source (easiest)
+In NotebookLM → Add source → Website → paste the raw GitHub file URL for each file (e.g., vocabulary.md, daily logs). It works for individual files, but you'd need to add each one manually. Does this option automatically update the files?
