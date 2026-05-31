@@ -328,3 +328,4 @@
 - 2026-05-31 18:56 — Use 'I' instead of 'you' when asking for yourself (e.g., 'how do I push' not 'how do you push').
 - 2026-05-31 19:03 — Use 'Is there a...' for yes/no questions. Also 'NotebookLM' should be capitalized correctly.
 - 2026-05-31 19:14 — Use 'Does' for yes/no questions about general features or abilities. 'Will' is okay but often implies future intention rather than a built-in capability.
+- 2026-05-31 19:16 — Add a question mark at the end of questions.
