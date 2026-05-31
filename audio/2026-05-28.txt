@@ -1,0 +1,29 @@
+# English Learning — 2026-05-28
+
+Today's session was about ONNX model limits, sherpa-onnx, NNAPI GPU acceleration, warmup, and Home Assistant setup. Key vocabulary for debugging inference on Android.
+
+## Vocabulary to Learn
+
+.  protobuf limit – size cap on serialized model data. "Fix the ORT protobuf limit — why does this happen?"
+.  external data format – split a large .onnx into a small graph file plus a .data weights file.
+.  warmup – run once at startup so later calls are faster. "Add warmup when the app starts."
+.  smoke-test – quick check that a build works. "Push and smoke-test on device."
+.  benchmark / bench – measure speed. "List reference times after warmup."
+.  cache – stored compiled model for reuse. "Have you added the NNAPI cache?"
+
+## Grammar and Natural Phrasing
+
+
+When correcting an agent mid-task, "Reverse it — what I meant was…" is a natural way to undo a misunderstanding without starting over.
+
+## Handy Questions
+
+.  "Does FunASR need Paraformer? What's Zipformer?"
+.  "Can upgrading related components resolve the issue?"
+.  "Is ONNX the best choice on this device?"
+
+. --
+
+## Today's Writing Prompt
+
+Write 2-3 sentences about why a 163 MB ONNX limit matters for your ASR model and what workaround you would try first (external data format, different model, or NNAPI cache).
