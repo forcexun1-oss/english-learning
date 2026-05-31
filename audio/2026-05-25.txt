@@ -1,0 +1,29 @@
+# English Learning — 2026-05-25
+
+Today's log was about tracing API calls, reading logs, and testing a board and camera. Below is English you can reuse in similar chats.
+
+## Vocabulary to Learn
+
+.  codebase – all project source code. "How many usages of this model are in the codebase?"
+.  configure / configuration – set options; the settings. "Where do I configure the API key?"
+.  disable – turn off without removing. "I disabled the old key."
+.  logs – recorded events. "Check the logs at 5 p.m. tomorrow."
+.  architecture / flow – system shape vs. step-by-step behavior. "Give me the flow and architecture" asks for a sketch, not every line of detail.
+.  connector – the plug or socket. "I changed the camera to another connector."
+
+## Grammar and Natural Phrasing
+
+
+After a reboot, "I have restarted the board" (present perfect) often sounds natural when you care about the result, not only the clock time.
+
+## Handy Questions
+
+.  "Does it call the Bailian API?"
+.  "How many tokens does each coaching request cost?"
+.  "Where is the picture? Show it to me."
+
+. --
+
+## Today's Writing Prompt
+
+Write 2-3 sentences about investigating unexpected API calls: what you would check first (logs, configuration, or cloud vs. local), and one polite English question you would ask a teammate for help.
