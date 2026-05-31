@@ -334,3 +334,4 @@
 - 2026-05-31 20:28 — "接入" can be translated as "connect" or "integrate". Here, "after connecting it" is more natural for a device or service.
 - 2026-05-31 20:30 — Use 'an' before acronyms that start with a vowel sound (e.g., 'an LLM'). Also capitalize brand names as proper nouns (e.g., 'Xiaomi').
 - 2026-05-31 21:38 — Spelling: 'tow' should be 'two'.
+- 2026-05-31 22:03 — 'Tow' is a misspelling of 'two' (the number). Also, 'scale through' is less common; 'pinch-to-zoom' is the standard term for this gesture.
