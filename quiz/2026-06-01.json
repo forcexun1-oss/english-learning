@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T15:01:32.609Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"It don't look great\"?",
+      "options": [
+        "A. It don't look great",
+        "B. It doesn't look great",
+        "C. It not look great",
+        "D. It isn't look great"
+      ],
+      "correctIndex": 1,
+      "explanation": "With third-person singular subjects like \"it\", use \"doesn't\" (does not), not \"don't\"."
+    },
+    {
+      "type": "mc",
+      "question": "You wrote: \"english-coach-app is builded in ~/project\". What is the best fix?",
+      "options": [
+        "A. english-coach-app is builded in ~/project",
+        "B. english-coach-app is built in ~/project",
+        "C. english-coach-app was build in ~/project",
+        "D. english-coach-app has build in ~/project"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Build\" is irregular: past participle is \"built\", not \"builded\"."
+    },
+    {
+      "type": "mc",
+      "question": "Which sentence correctly asks about a service at http://127.0.0.1:8123?",
+      "options": [
+        "A. http://127.0.0.1:8123 not run",
+        "B. http://127.0.0.1:8123 is not running",
+        "C. http://127.0.0.1:8123 don't running",
+        "D. http://127.0.0.1:8123 not running"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use \"is not running\" to describe the current state of a service or server."
+    },
+    {
+      "type": "mc",
+      "question": "Which option best improves: \"In summary , what is the most mistake I often make?\"",
+      "options": [
+        "A. In summary, what is the most mistake I often make?",
+        "B. In summary, what is the mistake I make most often?",
+        "C. In summary, what most mistake I often make?",
+        "D. In summary, what is most common mistake I make?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use \"the mistake I make most often\" or \"the most common mistake\" — \"most mistake\" is not grammatical."
+    },
+    {
+      "type": "mc",
+      "question": "Which sentence is correct for a feature request?",
+      "options": [
+        "A. add quiz every day",
+        "B. Add a quiz every day",
+        "C. Add quiz everyday",
+        "D. adding quiz every day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capitalize the first word, use article \"a\" before singular countable \"quiz\", and \"every day\" is two words when meaning daily."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes the error in: \"summarize error occured today\"?",
+      "options": [
+        "A. Summarize error occured today",
+        "B. Summarize today's errors",
+        "C. Summary errors occurred today",
+        "D. Summarize errors occur today"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use the verb \"Summarize\", possessive \"today's errors\", and spell \"occurred\" with double \"r\" when needed."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"the hook 好像失效了\"",
+      "modelAnswer": "The hook seems to have stopped working.",
+      "explanation": "Use present perfect or \"seems to have stopped working\" for a recent change; \"失效\" in dev contexts is often \"stopped working\" or \"is broken\"."
+    },
+    {
+      "type": "free",
+      "question": "Translate into English: \"Qwen3-8B 是存文本吗\" (asking about model capabilities).",
+      "modelAnswer": "Is Qwen3-8B text-only?",
+      "explanation": "\"存文本\" in ML context means text-only (no image/multimodal input); \"pure text\" or \"text-only\" is standard."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite naturally: \"I want install a privite github on this mac\"",
+      "modelAnswer": "I want to install a private GitHub instance on this Mac.",
+      "explanation": "After \"want\" use infinitive \"to install\"; spell \"private\"; capitalize \"GitHub\" and \"Mac\" as proper nouns."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite for a coding agent: \"I want you help me to make the code more faster and also fix the bug that is not working correctly\"",
+      "modelAnswer": "I want you to help me make the code faster and fix the bug that isn't working correctly.",
+      "explanation": "Use \"want you to help\"; \"faster\" alone (not \"more faster\"); \"isn't working\" is natural for a broken feature."
+    }
+  ]
+}
