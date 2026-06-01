@@ -390,3 +390,4 @@
 - 2026-06-01 22:45 — Use 'is not running' instead of 'not run' to describe the current state of a service.
 - 2026-06-01 22:48 — Use plural 'tools' because 工具 here refers to a set of utilities, and 'where are' matches the plural form.
 - 2026-06-01 22:58 — Use "It works" (third person singular) instead of "It work".
+- 2026-06-01 23:04 — Use 'is running' instead of 'is started' to describe an active state.
