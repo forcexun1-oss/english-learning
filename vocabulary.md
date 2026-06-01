@@ -342,3 +342,4 @@
 - 2026-06-01 09:08 — "存文本" means "text-only" (no multimodal capabilities). Use 'text-only' or 'pure text' in technical English.
 - 2026-06-01 09:17 — Use 'doesn't' instead of 'don't' with third person singular subjects like 'it'.
 - 2026-06-01 09:30 — Use "doesn't" instead of "don't" when the subject is "it" (third person singular).
+- 2026-06-01 09:34 — Use 'doesn't' (does not) with third-person singular subjects like 'it', not 'don't'.
