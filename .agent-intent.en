@@ -1,1 +1,1 @@
-Don't use third-party APIs to generate quizzes. Create an automation in Cursor to generate quizzes.
+Have the Cursor automation push daily-quiz.json to the english-learning Git repo.
