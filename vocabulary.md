@@ -391,3 +391,4 @@
 - 2026-06-01 22:48 — Use plural 'tools' because 工具 here refers to a set of utilities, and 'where are' matches the plural form.
 - 2026-06-01 22:58 — Use "It works" (third person singular) instead of "It work".
 - 2026-06-01 23:04 — Use 'is running' instead of 'is started' to describe an active state.
+- 2026-06-01 23:11 — Use 'long-lived access token' for '长期令牌' (HA's official term). 'Write ... to' is clearer than 'write into' for file operations.
