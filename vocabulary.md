@@ -358,3 +358,4 @@
 - 2026-06-01 13:29 — Avoid using 'the' before a file path (e.g., say 're-adding ~/.cursor/rules/english-coach.mdc' not 're-adding the ~/.cursor/rules/...').
 - 2026-06-01 13:33 — Capitalize the first word of a sentence. 'Inelegant' means not graceful or elegantly designed.
 - 2026-06-01 13:34 — In English, there should be no space before a question mark.
+- 2026-06-01 13:38 — Use 'I will test' (future tense) instead of 'I test' (present tense) when referring to a future action.
