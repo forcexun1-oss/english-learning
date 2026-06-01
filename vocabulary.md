@@ -359,3 +359,4 @@
 - 2026-06-01 13:33 — Capitalize the first word of a sentence. 'Inelegant' means not graceful or elegantly designed.
 - 2026-06-01 13:34 — In English, there should be no space before a question mark.
 - 2026-06-01 13:38 — Use 'I will test' (future tense) instead of 'I test' (present tense) when referring to a future action.
+- 2026-06-01 13:38 — Use 'dead' or 'not working' for '失效' in technical contexts.
