@@ -4,12 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repo Is
 
-This is an English learning data store and dashboard project. It has two parts:
+This is a **data-only store** for an English learning system. It contains flat files written by Claude Code hooks on every session — logs, articles, audio, vocabulary, and progress metrics.
 
-1. **Data files** (this directory) — flat files written by Claude Code hooks running on every session.
-2. **Dashboard app** (`english-coach-app/`) — a Next.js 14 local web app that reads the data files and provides review, vocabulary, article generation, and progress tracking. Planned in `CURSOR-PLAN.md`; may or may not be built yet.
+The dashboard app that reads these files lives at a separate path: `~/project/english-coach-app` (Next.js 14). See `CURSOR-PLAN.md` for its full spec.
 
-The data files are the source of truth. The app only reads and extends them — never replace or reformat what the hooks write.
+Never replace or reformat what the hooks write — the data files are the source of truth.
 
 ---
 
@@ -43,14 +42,16 @@ Markdown table computed from daily logs. Rewritten in full by the app's `/api/me
 
 ---
 
-## Dashboard App (english-coach-app)
+## Dashboard App
+
+The app lives at `~/project/english-coach-app` — not in this repo.
 
 ### Stack
 - Next.js 14 (App Router), TypeScript, Tailwind CSS
 - shadcn/ui for components, recharts for charts
 - No database — Node.js `fs` reads flat files directly in server components / API routes
 
-### Environment variables (`.env.local`)
+### Environment variables (`.env.local` in the app repo)
 ```
 LEARNING_DIR=/Users/youxun/project/english-learning
 BAILIAN_API_KEY=sk-bf354a15ae084ad99197ec25e8fbcb9c
@@ -58,9 +59,8 @@ BAILIAN_MODEL=deepseek-v4-flash
 BAILIAN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
 ```
 
-### Dev commands
+### Dev commands (run from `~/project/english-coach-app`)
 ```bash
-cd english-coach-app
 npm run dev        # starts on port 3000
 npm run build      # production build
 npm run lint       # ESLint
