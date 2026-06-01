@@ -383,3 +383,4 @@
 - 2026-06-01 17:23 — Use 'English coach hook' instead of 'cursor's hook' to be clearer. 'Re-add' is fine, but note it's a verb meaning 'add again'.
 - 2026-06-01 17:26 — Use 'are there' with plural nouns: 'other vision tests' (not 'is there other vision test').
 - 2026-06-01 17:44 — You can shorten 'vision-related tests' to 'vision tests' — the 'related' is implied in developer shorthand.
+- 2026-06-01 18:17 — Use 'support images' instead of 'support pictures' — it's more natural in a technical context.
