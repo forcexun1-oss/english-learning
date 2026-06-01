@@ -389,3 +389,4 @@
 - 2026-06-01 21:07 — Use 'the errors I made today' instead of 'today's errors I made' to avoid redundancy.
 - 2026-06-01 22:45 — Use 'is not running' instead of 'not run' to describe the current state of a service.
 - 2026-06-01 22:48 — Use plural 'tools' because 工具 here refers to a set of utilities, and 'where are' matches the plural form.
+- 2026-06-01 22:58 — Use "It works" (third person singular) instead of "It work".
