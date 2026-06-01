@@ -346,3 +346,4 @@
 - 2026-06-01 10:02 — Use a question mark for each separate question, not a comma.
 - 2026-06-01 10:14 — Use 'an' before vowel sounds: 'an English' (not 'a English').
 - 2026-06-01 10:58 — Add 'the' before the directory name for clarity.
+- 2026-06-01 11:04 — Use 'most' with an adjective (e.g., 'most common') before a noun, not directly with the noun itself. 'Most mistake' is incorrect; say 'the most common mistake' or 'the mistake I make most often.'
