@@ -340,3 +340,4 @@
 - 2026-05-31 23:01 — Add '-s' for third-person singular verbs: 'scrolls' and 'scales' instead of 'scroll' and 'scale'.
 - 2026-05-31 23:33 — Use 'revert' to undo changes; 'reverse' means to invert order or direction.
 - 2026-06-01 09:08 — "存文本" means "text-only" (no multimodal capabilities). Use 'text-only' or 'pure text' in technical English.
+- 2026-06-01 09:17 — Use 'doesn't' instead of 'don't' with third person singular subjects like 'it'.
