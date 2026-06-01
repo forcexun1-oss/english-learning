@@ -354,3 +354,4 @@
 - 2026-06-01 11:50 — Remember to add a question mark at the end of questions.
 - 2026-06-01 13:08 — Use 'cannot' (one word) instead of 'can not' for standard English.
 - 2026-06-01 13:22 — "好像失效了" can be expressed as "seems to have stopped working" or "appears to be broken." Use present perfect for a recent change in state.
+- 2026-06-01 13:25 — Use 'after deleting' (gerund) instead of 'after you delete' for a more concise and natural phrasing.
