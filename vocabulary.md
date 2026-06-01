@@ -365,3 +365,4 @@
 - 2026-06-01 13:48 — Use a period or semicolon to separate two independent clauses. Also, 'How do you improve' is correct here if you're asking the coach, but for self-improvement consider 'How can I improve the prompt?'.
 - 2026-06-01 13:51 — Use 'No' to disagree, and 'engineering-friendly' is more natural than 'more engineering-oriented' here.
 - 2026-06-01 13:55 — "more faster" is redundant; use "faster" alone.
+- 2026-06-01 14:00 — Add 'to' after 'want' (e.g., 'want to set up'). Also capitalize 'GitHub'.
