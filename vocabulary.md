@@ -380,3 +380,4 @@
 - 2026-06-01 15:25 — Use 'have' or 'make' instead of 'let' for instructions to a system: 'have it do something' sounds more natural than 'let it do something'.
 - 2026-06-01 15:30 — Capitalize 'Cursor' as it's a proper noun. Use 'a quiz directory' instead of 'a quiz dir' for clarity.
 - 2026-06-01 15:48 — Use 'reinstall' (no hyphen) as one word. Also, use past tense 'was too small' since the crash already happened.
+- 2026-06-01 17:23 — Use 'English coach hook' instead of 'cursor's hook' to be clearer. 'Re-add' is fine, but note it's a verb meaning 'add again'.

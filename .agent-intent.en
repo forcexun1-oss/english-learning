@@ -1,1 +1,1 @@
-Reinstall the mimo_vl_7b_prune model, set the context size to 4096 (likely crashed because the context was too small), then test mmstar again.
+The English coach hook is disabled. Re-add ~/.cursor/rules/english-coach.mdc.
