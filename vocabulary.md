@@ -351,3 +351,4 @@
 - 2026-06-01 11:23 — Use 'using hooks' instead of 'by hooks' for natural phrasing.
 - 2026-06-01 11:40 — Add 'is' after 'it' to make a complete sentence: 'it is not present'.
 - 2026-06-01 11:42 — Use 'present' when referring to something that exists or is visible in an interface.
+- 2026-06-01 11:50 — Remember to add a question mark at the end of questions.
