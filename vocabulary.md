@@ -376,3 +376,4 @@
 - 2026-06-01 14:41 — Use 'update' instead of 'change' for configurations – it's more direct and common in developer communication.
 - 2026-06-01 14:56 — Use an article ('a') before singular countable nouns like 'quiz'.
 - 2026-06-01 15:07 — In English replies, use words like 'Yes' instead of just a number.
+- 2026-06-01 15:18 — "crate" is a wooden box; "create" means to make. Also, use "an" before vowel sounds: "an automation".
