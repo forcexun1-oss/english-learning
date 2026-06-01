@@ -370,3 +370,4 @@
 - 2026-06-01 14:11 — Use 'how can others use it?' instead of 'how do it be used'. In questions, use 'can' + subject + verb.
 - 2026-06-01 14:19 — Capitalize proper nouns like 'Gitea'. Also consider: 'Do I have enough storage for Gitea?' is more natural.
 - 2026-06-01 14:29 — Use 'built' instead of 'builded' (irregular verb). Also use 'to store' instead of 'for store'.
+- 2026-06-01 14:32 — Always capitalize the first word of a sentence.
