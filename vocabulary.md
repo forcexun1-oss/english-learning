@@ -381,3 +381,4 @@
 - 2026-06-01 15:30 — Capitalize 'Cursor' as it's a proper noun. Use 'a quiz directory' instead of 'a quiz dir' for clarity.
 - 2026-06-01 15:48 — Use 'reinstall' (no hyphen) as one word. Also, use past tense 'was too small' since the crash already happened.
 - 2026-06-01 17:23 — Use 'English coach hook' instead of 'cursor's hook' to be clearer. 'Re-add' is fine, but note it's a verb meaning 'add again'.
+- 2026-06-01 17:26 — Use 'are there' with plural nouns: 'other vision tests' (not 'is there other vision test').
