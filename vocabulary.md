@@ -375,3 +375,4 @@
 - 2026-06-01 14:39 — Use present perfect ('have been moved') to describe a recent change or completed action with current relevance.
 - 2026-06-01 14:41 — Use 'update' instead of 'change' for configurations – it's more direct and common in developer communication.
 - 2026-06-01 14:56 — Use an article ('a') before singular countable nouns like 'quiz'.
+- 2026-06-01 15:07 — In English replies, use words like 'Yes' instead of just a number.
