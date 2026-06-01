@@ -384,3 +384,4 @@
 - 2026-06-01 17:26 — Use 'are there' with plural nouns: 'other vision tests' (not 'is there other vision test').
 - 2026-06-01 17:44 — You can shorten 'vision-related tests' to 'vision tests' — the 'related' is implied in developer shorthand.
 - 2026-06-01 18:17 — Use 'support images' instead of 'support pictures' — it's more natural in a technical context.
+- 2026-06-01 21:06 — Use "Summarize" instead of "Summary" for a verb command.
