@@ -386,3 +386,4 @@
 - 2026-06-01 18:17 — Use 'support images' instead of 'support pictures' — it's more natural in a technical context.
 - 2026-06-01 21:06 — Use "Summarize" instead of "Summary" for a verb command.
 - 2026-06-01 21:07 — Use 'today's errors' (possessive) instead of 'error occured today'. Also correct spelling: 'occurred' has double 'r'.
+- 2026-06-01 21:07 — Use 'the errors I made today' instead of 'today's errors I made' to avoid redundancy.
