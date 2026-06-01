@@ -393,3 +393,4 @@
 - 2026-06-01 23:04 — Use 'is running' instead of 'is started' to describe an active state.
 - 2026-06-01 23:11 — Use 'long-lived access token' for '长期令牌' (HA's official term). 'Write ... to' is clearer than 'write into' for file operations.
 - 2026-06-01 23:16 — Use single quotes to enclose UI element names, and translate Chinese terms into English for clarity.
+- 2026-06-01 23:20 — Capitalize 'I' and use 'can't' (or 'cannot') instead of 'can not'.
