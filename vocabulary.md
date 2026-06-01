@@ -361,3 +361,4 @@
 - 2026-06-01 13:38 — Use 'I will test' (future tense) instead of 'I test' (present tense) when referring to a future action.
 - 2026-06-01 13:38 — Use 'dead' or 'not working' for '失效' in technical contexts.
 - 2026-06-01 13:44 — Capitalize proper nouns like 'English Coach' and end questions with a question mark.
+- 2026-06-01 13:44 — Capitalize proper nouns like 'English' and end questions with a question mark.
