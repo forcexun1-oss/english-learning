@@ -374,3 +374,4 @@
 - 2026-06-01 14:34 — Use 'has' (not 'have') with third-person singular subjects like 'it'.
 - 2026-06-01 14:39 — Use present perfect ('have been moved') to describe a recent change or completed action with current relevance.
 - 2026-06-01 14:41 — Use 'update' instead of 'change' for configurations – it's more direct and common in developer communication.
+- 2026-06-01 14:56 — Use an article ('a') before singular countable nouns like 'quiz'.
