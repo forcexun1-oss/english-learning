@@ -1,1 +1,1 @@
-To clarify: Cursor's daily automation task should push the generated daily-quiz.json to the remote repo. Also, add a quiz directory for it.
+Reinstall the mimo_vl_7b_prune model, set the context size to 4096 (likely crashed because the context was too small), then test mmstar again.

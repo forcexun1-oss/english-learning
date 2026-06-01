@@ -379,3 +379,4 @@
 - 2026-06-01 15:18 — "crate" is a wooden box; "create" means to make. Also, use "an" before vowel sounds: "an automation".
 - 2026-06-01 15:25 — Use 'have' or 'make' instead of 'let' for instructions to a system: 'have it do something' sounds more natural than 'let it do something'.
 - 2026-06-01 15:30 — Capitalize 'Cursor' as it's a proper noun. Use 'a quiz directory' instead of 'a quiz dir' for clarity.
+- 2026-06-01 15:48 — Use 'reinstall' (no hyphen) as one word. Also, use past tense 'was too small' since the crash already happened.
