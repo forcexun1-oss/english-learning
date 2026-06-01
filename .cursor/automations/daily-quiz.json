@@ -1,0 +1,14 @@
+{
+  "automationId": "a1c2e3f4-5b67-4d89-a012-bc3de4f56789",
+  "name": "English Coach — Daily Quiz",
+  "description": "Generate 10 quiz questions from today's English learning log (forcexun1-oss/english-learning).",
+  "workflow": {
+    "triggers": [{ "type": "schedule", "cron": "0 15 * * *" }],
+    "model": "composer2.5",
+    "gitConfig": {
+      "repo": "forcexun1-oss/english-learning",
+      "branch": "main"
+    },
+    "prompt": "You maintain the English learning repo. Do not open a pull request.\n\n1. Determine today's date as `today` in YYYY-MM-DD format.\n2. Read `{today}.md` at the repo root.\n3. If the file is missing or contains no lines tagged [EN], [ZH], or [ERR], exit without changes.\n4. If `quiz/{today}.json` already exists, exit without changes (idempotent).\n5. Generate exactly 10 quiz questions based on the log content:\n   - 6 multiple-choice questions (type: \"mc\")\n   - 4 free-text questions (type: \"free\")\n   Focus areas: vocabulary from [EN] entries, grammar corrections from [ERR] entries, Chinese→English translation from [ZH] entries, and natural expression in technical/coding contexts.\n   For MC questions: provide 4 answer options (A–D), one correct answer (correctIndex 0-3), and a concise explanation.\n   For free-text questions: provide a question prompt, a model answer, and a concise explanation.\n6. Write `quiz/{today}.json` with this exact JSON shape:\n{\n  \"date\": \"YYYY-MM-DD\",\n  \"generatedAt\": \"<ISO 8601 timestamp>\",\n  \"questions\": [\n    {\n      \"type\": \"mc\",\n      \"question\": \"...\",\n      \"options\": [\"A. ...\", \"B. ...\", \"C. ...\", \"D. ...\"],\n      \"correctIndex\": 0,\n      \"explanation\": \"...\"\n    },\n    {\n      \"type\": \"free\",\n      \"question\": \"...\",\n      \"modelAnswer\": \"...\",\n      \"explanation\": \"...\"\n    }\n  ]\n}\n7. Commit and push directly to main: `quiz {today}`.\n\nReturn only a one-line summary of what you wrote."
+  }
+}
