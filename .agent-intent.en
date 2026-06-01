@@ -1,1 +1,1 @@
-Have the Cursor automation push daily-quiz.json to the english-learning Git repo.
+To clarify: Cursor's daily automation task should push the generated daily-quiz.json to the remote repo. Also, add a quiz directory for it.
