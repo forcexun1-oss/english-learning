@@ -366,3 +366,4 @@
 - 2026-06-01 13:51 — Use 'No' to disagree, and 'engineering-friendly' is more natural than 'more engineering-oriented' here.
 - 2026-06-01 13:55 — "more faster" is redundant; use "faster" alone.
 - 2026-06-01 14:00 — Add 'to' after 'want' (e.g., 'want to set up'). Also capitalize 'GitHub'.
+- 2026-06-01 14:02 — Use 'to' after 'want' (infinitive). Also, 'private' is spelled with an 'a', not 'i'.
