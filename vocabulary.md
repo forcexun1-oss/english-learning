@@ -371,3 +371,4 @@
 - 2026-06-01 14:19 — Capitalize proper nouns like 'Gitea'. Also consider: 'Do I have enough storage for Gitea?' is more natural.
 - 2026-06-01 14:29 — Use 'built' instead of 'builded' (irregular verb). Also use 'to store' instead of 'for store'.
 - 2026-06-01 14:32 — Always capitalize the first word of a sentence.
+- 2026-06-01 14:34 — Use 'has' (not 'have') with third-person singular subjects like 'it'.
