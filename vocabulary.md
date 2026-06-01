@@ -372,3 +372,4 @@
 - 2026-06-01 14:29 — Use 'built' instead of 'builded' (irregular verb). Also use 'to store' instead of 'for store'.
 - 2026-06-01 14:32 — Always capitalize the first word of a sentence.
 - 2026-06-01 14:34 — Use 'has' (not 'have') with third-person singular subjects like 'it'.
+- 2026-06-01 14:39 — Use present perfect ('have been moved') to describe a recent change or completed action with current relevance.
