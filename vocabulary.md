@@ -350,3 +350,4 @@
 - 2026-06-01 11:18 — Don't use 'the' before directory paths (e.g., say 'to ~/project' not 'to the ~/project').
 - 2026-06-01 11:23 — Use 'using hooks' instead of 'by hooks' for natural phrasing.
 - 2026-06-01 11:40 — Add 'is' after 'it' to make a complete sentence: 'it is not present'.
+- 2026-06-01 11:42 — Use 'present' when referring to something that exists or is visible in an interface.
