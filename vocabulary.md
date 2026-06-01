@@ -343,3 +343,4 @@
 - 2026-06-01 09:17 — Use 'doesn't' instead of 'don't' with third person singular subjects like 'it'.
 - 2026-06-01 09:30 — Use "doesn't" instead of "don't" when the subject is "it" (third person singular).
 - 2026-06-01 09:34 — Use 'doesn't' (does not) with third-person singular subjects like 'it', not 'don't'.
+- 2026-06-01 10:02 — Use a question mark for each separate question, not a comma.
