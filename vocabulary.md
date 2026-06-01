@@ -363,3 +363,4 @@
 - 2026-06-01 13:44 — Capitalize proper nouns like 'English Coach' and end questions with a question mark.
 - 2026-06-01 13:44 — Capitalize proper nouns like 'English' and end questions with a question mark.
 - 2026-06-01 13:48 — Use a period or semicolon to separate two independent clauses. Also, 'How do you improve' is correct here if you're asking the coach, but for self-improvement consider 'How can I improve the prompt?'.
+- 2026-06-01 13:51 — Use 'No' to disagree, and 'engineering-friendly' is more natural than 'more engineering-oriented' here.
