@@ -348,3 +348,4 @@
 - 2026-06-01 10:58 — Add 'the' before the directory name for clarity.
 - 2026-06-01 11:04 — Use 'most' with an adjective (e.g., 'most common') before a noun, not directly with the noun itself. 'Most mistake' is incorrect; say 'the most common mistake' or 'the mistake I make most often.'
 - 2026-06-01 11:18 — Don't use 'the' before directory paths (e.g., say 'to ~/project' not 'to the ~/project').
+- 2026-06-01 11:23 — Use 'using hooks' instead of 'by hooks' for natural phrasing.

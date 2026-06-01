@@ -1,1 +1,1 @@
-Where is the english-coach-app? Should we move it to ~/project or ~/project/english-learning?
+Why is there a .cursor/rules/english-coach.mdc? We implemented the English coach functionality using hooks, so can we remove it?
