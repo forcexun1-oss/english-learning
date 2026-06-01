@@ -368,3 +368,4 @@
 - 2026-06-01 14:00 — Add 'to' after 'want' (e.g., 'want to set up'). Also capitalize 'GitHub'.
 - 2026-06-01 14:02 — Use 'to' after 'want' (infinitive). Also, 'private' is spelled with an 'a', not 'i'.
 - 2026-06-01 14:11 — Use 'how can others use it?' instead of 'how do it be used'. In questions, use 'can' + subject + verb.
+- 2026-06-01 14:19 — Capitalize proper nouns like 'Gitea'. Also consider: 'Do I have enough storage for Gitea?' is more natural.
