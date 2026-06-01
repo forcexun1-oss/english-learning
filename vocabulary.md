@@ -356,3 +356,4 @@
 - 2026-06-01 13:22 — "好像失效了" can be expressed as "seems to have stopped working" or "appears to be broken." Use present perfect for a recent change in state.
 - 2026-06-01 13:25 — Use 'after deleting' (gerund) instead of 'after you delete' for a more concise and natural phrasing.
 - 2026-06-01 13:29 — Avoid using 'the' before a file path (e.g., say 're-adding ~/.cursor/rules/english-coach.mdc' not 're-adding the ~/.cursor/rules/...').
+- 2026-06-01 13:33 — Capitalize the first word of a sentence. 'Inelegant' means not graceful or elegantly designed.
