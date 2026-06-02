@@ -454,3 +454,4 @@
 - 2026-06-02 15:49 — Use 'consolidate' or 'combine' instead of 'write into' when merging plans.
 - 2026-06-02 15:54 — Use 'everything' instead of 'the full content' when referring to all discussed points. 'We discussed earlier' is more natural than 'we previously discussed' in informal instructions.
 - 2026-06-02 15:58 — Use 'set up a good file structure' instead of 'implement a good file structure' — 'set up' is more natural for organizing files and folders.
+- 2026-06-02 16:00 — When comparing two options, use 'better' instead of 'good'. Example: 'Which is better: A or B?'
