@@ -444,3 +444,4 @@
 - 2026-06-02 15:21 — '搞错' means 'to get something wrong' or 'to mistake'. Use 'got the names wrong' or 'mistook the names'.
 - 2026-06-02 15:22 — Use 'from the screenshot' (not 'in the screenshot') when you mean extracting names based on what's shown.
 - 2026-06-02 15:23 — Use 'this Session data' (singular) since 'Session' is a specific identifier, not a plural noun.
+- 2026-06-02 15:24 — 'Consolidate' means to combine multiple items into one, which is more precise than 'summarize' when talking about tables.
