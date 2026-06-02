@@ -415,3 +415,4 @@
 - 2026-06-02 13:02 — The word '单独' here means 'individual' or 'standalone', not 'separate'.
 - 2026-06-02 13:03 — Use 'complete' or 'full' instead of 'whole' when referring to data.
 - 2026-06-02 13:07 — "Summary" is spelled with an 'a' after the 'm', not 'summery'.
+- 2026-06-02 13:08 — Use 'table' to refer clearly to the data; 'show in one page' is fine but consider 'display on one page'.
