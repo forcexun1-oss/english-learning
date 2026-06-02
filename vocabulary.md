@@ -440,3 +440,4 @@
 - 2026-06-02 15:15 — Use 'something like' to introduce examples, e.g., 'something like GSM8K or MMLU' instead of 'like : GSM8K, MMLU'.
 - 2026-06-02 15:18 — Use 'from X to Y' when specifying a change. Also 'like' for examples, not 'etc' alone—better to say 'like GSM8K, MMLU, etc.'
 - 2026-06-02 15:20 — Use 'wasn't the original name' instead of '原本的名字不是这样吗' — 'original name' is more natural than 'name originally' here.
+- 2026-06-02 15:21 — "截图" is 'screenshot' in English. The imperative "Use" is direct and natural for instructions.
