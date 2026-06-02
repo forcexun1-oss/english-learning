@@ -452,3 +452,4 @@
 - 2026-06-02 15:39 — Use 'model files' (attributive noun) instead of 'models files' — when a noun acts as an adjective, it's typically singular.
 - 2026-06-02 15:47 — Use 'based on' (adjective) instead of 'base on' (verb).
 - 2026-06-02 15:49 — Use 'consolidate' or 'combine' instead of 'write into' when merging plans.
+- 2026-06-02 15:54 — Use 'everything' instead of 'the full content' when referring to all discussed points. 'We discussed earlier' is more natural than 'we previously discussed' in informal instructions.
