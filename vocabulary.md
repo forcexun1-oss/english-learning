@@ -459,3 +459,4 @@
 - 2026-06-02 16:06 — '很晕' is colloquial for 'confusing/overwhelming'; use 'confusing' or 'disorienting' in formal technical writing.
 - 2026-06-02 16:08 — '暂缓' here means 'deferred' (not 'postponed') — it implies the task is put aside temporarily. Also, '分发下去' can be simplified to 'distribute from there' in English.
 - 2026-06-02 16:10 — "这好弄吗" is informal; use "Is it easy to..." or "How straightforward is..." for clearer English.
+- 2026-06-02 16:12 — "把" at the end is a colloquial tag for confirmation, similar to "right?" or "...right?" in English.
