@@ -1,1 +1,1 @@
-OK, check the ~/project/rockchip project to see if there are any available models.
+Check the docs to see if there's an ASR RKNN model. You can reuse the rkllm3-server, but manage the models yourself (install, run).

@@ -411,3 +411,4 @@
 - 2026-06-02 11:14 — "convertion" should be "conversion" (noun form of convert).
 - 2026-06-02 11:21 — 'Retarted' is a typo; the correct spelling is 'restarted'.
 - 2026-06-02 11:37 — Use 'check' instead of 'refer to' for a more natural developer instruction.
+- 2026-06-02 11:44 — Use 'docs' (short for documentation) instead of 'document' when referring to general documentation. Also, 'there is' for singular, 'there are' for plural — here 'model' is singular.
