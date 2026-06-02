@@ -467,3 +467,4 @@
 - 2026-06-02 17:04 — Use 'remaining' instead of 'left' to mean 'still undone'. 'Left' as an adjective for 'remaining' is not idiomatic in English.
 - 2026-06-02 17:11 — Add the article 'the' before 'progress' when referring to a specific situation.
 - 2026-06-02 17:15 — Use 'add to the board' instead of 'do on the board' when referring to a task or planning board.
+- 2026-06-02 17:30 — Use 'summarize' as a verb instead of 'summary'. Also 'sentence' should be 'commits' (if referring to git pushes).
