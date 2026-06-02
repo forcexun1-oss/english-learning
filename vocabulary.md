@@ -442,3 +442,4 @@
 - 2026-06-02 15:20 — Use 'wasn't the original name' instead of '原本的名字不是这样吗' — 'original name' is more natural than 'name originally' here.
 - 2026-06-02 15:21 — "截图" is 'screenshot' in English. The imperative "Use" is direct and natural for instructions.
 - 2026-06-02 15:21 — '搞错' means 'to get something wrong' or 'to mistake'. Use 'got the names wrong' or 'mistook the names'.
+- 2026-06-02 15:22 — Use 'from the screenshot' (not 'in the screenshot') when you mean extracting names based on what's shown.
