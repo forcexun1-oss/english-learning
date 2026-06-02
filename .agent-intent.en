@@ -1,1 +1,1 @@
-What are the metrics (TTFT avg, TTFT med, Elapsed avg, Elapsed med, ve_time / decode) based on?
+They should be based on stress tests, and include the data source.

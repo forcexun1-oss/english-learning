@@ -421,3 +421,4 @@
 - 2026-06-02 13:16 — Use 'keep both tables' instead of 'keep two tables' to emphasize retaining all existing items, not just the count.
 - 2026-06-02 13:17 — The Chinese phrase '放到...里去' is naturally expressed as 'put into' or 'place into' when referring to inserting data into a table.
 - 2026-06-02 13:22 — Use 'based on' (past participle) not 'base on' (present tense verb).
+- 2026-06-02 13:27 — "Indicate" is fine, but "include" is more direct for specifying what a column/table should contain.
