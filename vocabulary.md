@@ -400,3 +400,4 @@
 - 2026-06-02 09:51 — Use 'run' to specify the action explicitly (test is implied but 'run' is clearer for CLI instructions).
 - 2026-06-02 10:09 — "implemention" should be "implementation". Also, consider using "create another" for clarity.
 - 2026-06-02 10:18 — Use lowercase after a comma (e.g., 'how' not 'How'). Also 'have' is more natural than 'there are' in this context.
+- 2026-06-02 10:25 — Use 'extract' or 'move to a separate location' instead of 'move out' for clarity in code structure discussions.
