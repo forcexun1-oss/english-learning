@@ -1,1 +1,1 @@
-Next, we need to implement all the APIs and download models for the Rockchips board. So, what should we do? Option 1: create another implementation class. Option 2: create another branch.
+But if we have two branches, how do we keep the code consistent between them?

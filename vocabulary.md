@@ -399,3 +399,4 @@
 - 2026-06-02 09:47 — “这几个” means “these” (specific few), and “跑一下” is an informal way to say “run once / give it a try”.
 - 2026-06-02 09:51 — Use 'run' to specify the action explicitly (test is implied but 'run' is clearer for CLI instructions).
 - 2026-06-02 10:09 — "implemention" should be "implementation". Also, consider using "create another" for clarity.
+- 2026-06-02 10:18 — Use lowercase after a comma (e.g., 'how' not 'How'). Also 'have' is more natural than 'there are' in this context.
