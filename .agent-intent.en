@@ -1,1 +1,9 @@
-Don't do it this way—it's too confusing. The structure should match the final one. The current Git repository should not contain extraneous files; it's disorienting.
+Parts not yet implemented (OTA server side, deferred):
+  /opt/edge-agent-server/ota/
+    platforms/
+      android-arm64/               ← phone platform (already implemented in crates/edge-perception)
+        models/...
+      rockchip-aarch64/            ← temporary staging area above
+        models/...
+    releases/                      ← version management, delta packages
+    server/ must be present, otherwise there's no way to distribute the files from there.
