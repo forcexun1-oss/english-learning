@@ -477,3 +477,4 @@
 - 2026-06-02 18:28 — Use 'any other necessary tasks' instead of 'other things' to be more precise in developer instructions.
 - 2026-06-02 19:30 — Use "the model" (not "a model") when referring to a specific existing path.
 - 2026-06-02 19:32 — Use 'targeting' to specify the chip variant - more natural than just 'for'.
+- 2026-06-02 20:41 — Use 'Rockchip' (singular) as the company/platform name, not 'Rockchips'.
