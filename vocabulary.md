@@ -472,3 +472,4 @@
 - 2026-06-02 17:40 — Use 'based on' (preposition + past participle) instead of 'base on'. 'Based on' means 'using something as a foundation'.
 - 2026-06-02 18:18 — "Read" can mean to examine the contents. For clarity, you could use "Check" or "Look at".
 - 2026-06-02 18:21 — Use 'if' instead of 'is' in indirect questions: 'check if it is installed' not 'check is it installed'.
+- 2026-06-02 18:23 — "Excuted" is a typo; use "executed".
