@@ -418,3 +418,4 @@
 - 2026-06-02 13:08 — Use 'table' to refer clearly to the data; 'show in one page' is fine but consider 'display on one page'.
 - 2026-06-02 13:12 — "blow" should be "below" (common typo). Also, "into the table below" is clearer.
 - 2026-06-02 13:14 — "showed before" should be "shown before" or "from before". Also, "blow table" is a typo; correct is "below table".
+- 2026-06-02 13:16 — Use 'keep both tables' instead of 'keep two tables' to emphasize retaining all existing items, not just the count.
