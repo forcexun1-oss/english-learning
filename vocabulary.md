@@ -433,3 +433,4 @@
 - 2026-06-02 14:16 — Add an object like 'that' or 'it' after 'implemented' to clarify what was implemented.
 - 2026-06-02 14:18 — Use uppercase for acronyms like ONNX and RKNN, and use the full term 'models' instead of 'ones' for clarity.
 - 2026-06-02 14:23 — Use 'instead of' to contrast two options, and 'through' for going via a server.
+- 2026-06-02 14:39 — "Using the CPU" is understandable, but "on the CPU" is more natural for describing where a program runs.

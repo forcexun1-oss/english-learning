@@ -1,1 +1,1 @@
-Can you call the rknn inference directly instead of forwarding it through the HTTP server?
+Why does MeloTTS run on the CPU?
