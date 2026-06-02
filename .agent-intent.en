@@ -1,1 +1,1 @@
-After the adjustments, what will the server-side file structure look like?
+Don't do it this way—it's too confusing. The structure should match the final one. The current Git repository should not contain extraneous files; it's disorienting.

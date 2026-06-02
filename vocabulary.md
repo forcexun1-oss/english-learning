@@ -456,3 +456,4 @@
 - 2026-06-02 15:58 — Use 'set up a good file structure' instead of 'implement a good file structure' — 'set up' is more natural for organizing files and folders.
 - 2026-06-02 16:00 — When comparing two options, use 'better' instead of 'good'. Example: 'Which is better: A or B?'
 - 2026-06-02 16:03 — "File structure" is correct here; note that "调整完" can be translated as "after the adjustments" (not "after adjusting") to sound more natural.
+- 2026-06-02 16:06 — '很晕' is colloquial for 'confusing/overwhelming'; use 'confusing' or 'disorienting' in formal technical writing.
