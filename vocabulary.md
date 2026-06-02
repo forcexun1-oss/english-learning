@@ -464,3 +464,4 @@
 - 2026-06-02 16:14 — "写进计划" is literally 'write into the plan'. In English, 'include it in the plan' or 'add it to the plan' is more natural.
 - 2026-06-02 16:50 — Spelling: 're-running' has double 'r' (run -> running). Also, 'stress' is ambiguous; 'stress test' is clearer.
 - 2026-06-02 17:02 — Use past tense 'did it stop' to ask about a completed action.
+- 2026-06-02 17:04 — Use 'remaining' instead of 'left' to mean 'still undone'. 'Left' as an adjective for 'remaining' is not idiomatic in English.
