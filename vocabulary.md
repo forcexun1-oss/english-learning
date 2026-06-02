@@ -426,3 +426,4 @@
 - 2026-06-02 13:53 — Use 'remove' to delete a column or row.
 - 2026-06-02 13:54 — Use 'on another chip' instead of 'or other one' for clarity.
 - 2026-06-02 13:58 — Use 'using' instead of 'with' when specifying a tool or model for clarity.
+- 2026-06-02 14:02 — Use 'search for' or 'search the internet for' instead of just 'search' followed directly by the topic.
