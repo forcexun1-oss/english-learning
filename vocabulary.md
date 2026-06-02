@@ -429,3 +429,4 @@
 - 2026-06-02 14:02 — Use 'search for' or 'search the internet for' instead of just 'search' followed directly by the topic.
 - 2026-06-02 14:11 — Typo: 'soucre' should be 'source'.
 - 2026-06-02 14:13 — Capitalize the first word of a question and add a question mark.
+- 2026-06-02 14:15 — Capitalize the first word of a sentence.
