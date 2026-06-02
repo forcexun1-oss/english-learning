@@ -397,3 +397,4 @@
 - 2026-06-01 23:23 — Use 'talk to' (converse with) rather than 'dialogue with' for natural English. 'Directly' is an adverb placed before the verb.
 - 2026-06-01 23:25 — Use 'another' (singular) or 'any other' instead of 'other' alone.
 - 2026-06-02 09:47 — “这几个” means “these” (specific few), and “跑一下” is an informal way to say “run once / give it a try”.
+- 2026-06-02 09:51 — Use 'run' to specify the action explicitly (test is implied but 'run' is clearer for CLI instructions).
