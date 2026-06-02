@@ -475,3 +475,4 @@
 - 2026-06-02 18:23 — "Excuted" is a typo; use "executed".
 - 2026-06-02 18:25 — Use 'then' for sequence ('what next') instead of 'than' (used for comparisons).
 - 2026-06-02 18:28 — Use 'any other necessary tasks' instead of 'other things' to be more precise in developer instructions.
+- 2026-06-02 19:30 — Use "the model" (not "a model") when referring to a specific existing path.
