@@ -487,3 +487,4 @@
 - 2026-06-02 21:06 — Use active voice ('runs') instead of passive ('is run') for more direct communication.
 - 2026-06-02 21:10 — Use 'the same way' instead of 'with the same way' — no preposition needed.
 - 2026-06-02 21:11 — Add a question mark to make it a proper question.
+- 2026-06-02 21:40 — Remove 'on' — 'search the internet' is the natural phrase.
