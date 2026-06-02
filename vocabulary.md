@@ -436,3 +436,4 @@
 - 2026-06-02 14:39 — "Using the CPU" is understandable, but "on the CPU" is more natural for describing where a program runs.
 - 2026-06-02 15:01 — "ASR" is an acronym (Automatic Speech Recognition). It's clearer to say 'two ASR models' rather than just 'two ASR'.
 - 2026-06-02 15:04 — Use 'Here's' (contraction of 'Here is') for a more conversational tone in technical chat.
+- 2026-06-02 15:10 — Use 'to reflect' instead of 'with' for clarity — it specifies that the update incorporates the choices.
