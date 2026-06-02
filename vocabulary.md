@@ -480,3 +480,4 @@
 - 2026-06-02 20:41 — Use 'Rockchip' (singular) as the company/platform name, not 'Rockchips'.
 - 2026-06-02 20:45 — Add 'that' after 'any other TTS' to introduce a relative clause specifying which TTS you mean.
 - 2026-06-02 20:51 — Use 'be converted' (past participle) after 'be', not 'be convert'.
+- 2026-06-02 20:54 — Use 'difference between' (spelled correctly) and add 'is' after 'What'.
