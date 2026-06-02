@@ -469,3 +469,4 @@
 - 2026-06-02 17:15 — Use 'add to the board' instead of 'do on the board' when referring to a task or planning board.
 - 2026-06-02 17:30 — Use 'summarize' as a verb instead of 'summary'. Also 'sentence' should be 'commits' (if referring to git pushes).
 - 2026-06-02 17:32 — Use 'summarize' (verb) instead of 'summary' (noun).
+- 2026-06-02 17:40 — Use 'based on' (preposition + past participle) instead of 'base on'. 'Based on' means 'using something as a foundation'.
