@@ -462,3 +462,4 @@
 - 2026-06-02 16:12 — "把" at the end is a colloquial tag for confirmation, similar to "right?" or "...right?" in English.
 - 2026-06-02 16:12 — Use 'in' for being inside a network, not 'on'.
 - 2026-06-02 16:14 — "写进计划" is literally 'write into the plan'. In English, 'include it in the plan' or 'add it to the plan' is more natural.
+- 2026-06-02 16:50 — Spelling: 're-running' has double 'r' (run -> running). Also, 'stress' is ambiguous; 'stress test' is clearer.
