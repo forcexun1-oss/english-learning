@@ -481,3 +481,4 @@
 - 2026-06-02 20:45 — Add 'that' after 'any other TTS' to introduce a relative clause specifying which TTS you mean.
 - 2026-06-02 20:51 — Use 'be converted' (past participle) after 'be', not 'be convert'.
 - 2026-06-02 20:54 — Use 'difference between' (spelled correctly) and add 'is' after 'What'.
+- 2026-06-02 20:56 — "Require" is more precise than "need" in technical contexts. Also, always capitalize the first word in a sentence.
