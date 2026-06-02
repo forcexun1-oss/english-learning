@@ -438,3 +438,4 @@
 - 2026-06-02 15:04 — Use 'Here's' (contraction of 'Here is') for a more conversational tone in technical chat.
 - 2026-06-02 15:10 — Use 'to reflect' instead of 'with' for clarity — it specifies that the update incorporates the choices.
 - 2026-06-02 15:15 — Use 'something like' to introduce examples, e.g., 'something like GSM8K or MMLU' instead of 'like : GSM8K, MMLU'.
+- 2026-06-02 15:18 — Use 'from X to Y' when specifying a change. Also 'like' for examples, not 'etc' alone—better to say 'like GSM8K, MMLU, etc.'
