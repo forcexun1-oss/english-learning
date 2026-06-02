@@ -446,3 +446,4 @@
 - 2026-06-02 15:23 — Use 'this Session data' (singular) since 'Session' is a specific identifier, not a plural noun.
 - 2026-06-02 15:24 — 'Consolidate' means to combine multiple items into one, which is more precise than 'summarize' when talking about tables.
 - 2026-06-02 15:25 — Use 'and' instead of comma before the last item in a simple list.
+- 2026-06-02 15:30 — 'formart' is a typo; should be 'format'.
