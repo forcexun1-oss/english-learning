@@ -420,3 +420,4 @@
 - 2026-06-02 13:14 — "showed before" should be "shown before" or "from before". Also, "blow table" is a typo; correct is "below table".
 - 2026-06-02 13:16 — Use 'keep both tables' instead of 'keep two tables' to emphasize retaining all existing items, not just the count.
 - 2026-06-02 13:17 — The Chinese phrase '放到...里去' is naturally expressed as 'put into' or 'place into' when referring to inserting data into a table.
+- 2026-06-02 13:22 — Use 'based on' (past participle) not 'base on' (present tense verb).
