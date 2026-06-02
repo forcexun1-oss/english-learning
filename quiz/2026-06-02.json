@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T15:02:30.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Was this plan made base on what we discussed?\"",
+      "options": [
+        "A. Was this plan made base on what we discussed?",
+        "B. Was this plan made based on what we discussed?",
+        "C. Was this plan made basing on what we discussed?",
+        "D. Was this plan made on base of what we discussed?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use the adjective phrase \"based on\" (not \"base on\") when something is derived from prior discussion."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes the spelling in: \"Let's ignore the model convertion for now\"?",
+      "options": [
+        "A. Let's ignore the model convertion for now",
+        "B. Let's ignore the model conversion for now",
+        "C. Let's ignore the model converting for now",
+        "D. Let's ignore the model convertation for now"
+      ],
+      "correctIndex": 1,
+      "explanation": "The noun form is \"conversion\" (with -sion), from the verb \"convert\"."
+    },
+    {
+      "type": "mc",
+      "question": "Which best improves: \"I mean the file structure departmented on the rockchips board (designed now)\"?",
+      "options": [
+        "A. file structure departmented on the rockchips board",
+        "B. file structure designed for the Rockchip board",
+        "C. file structure department on the Rockchips board",
+        "D. file structure depart on the rockchips board"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Departmented\" is not standard here; use \"designed for\" or \"organized for\" the board. Capitalize product names like \"Rockchip\"."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes: \"Why doew MeloTTS run using the CPU?\"",
+      "options": [
+        "A. Why doew MeloTTS run using the CPU?",
+        "B. Why does MeloTTS run on the CPU?",
+        "C. Why do MeloTTS runs using the CPU?",
+        "D. Why is MeloTTS run using CPU?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Third-person singular takes \"does\"; \"on the CPU\" is more natural than \"using the CPU\" for where execution happens."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes: \"summery, NO detail, and I need ttft etc.\"?",
+      "options": [
+        "A. summery, NO detail, and I need ttft etc.",
+        "B. Summary only — no detail — and I need TTFT, etc.",
+        "C. Summery, no details, and I need TTFT etc",
+        "D. In summery, NO detail, I need ttft etc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Spell \"summary\"; capitalize acronyms like TTFT; em dashes or commas clarify \"no detail\" as a constraint."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural way to ask about storing models outside the git repo for OTA?",
+      "options": [
+        "A. according to the OTA updating, should we move the models out of this repo?",
+        "B. For OTA updates, should we move the models out of this repo?",
+        "C. According OTA updating, should models move out repo?",
+        "D. With OTA, move models out this repo?"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"For OTA updates\" is cleaner than \"according to the OTA updating\"; keep \"move the models out of this repo\" for clarity."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"这几个的MMStar也都跑一下\"",
+      "modelAnswer": "Also run MMStar for these models.",
+      "explanation": "\"跑一下\" in a benchmark context means run/execute the test suite — \"run MMStar\" or \"run the MMStar benchmark\" fits."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"所有的数据都汇总好两张表给我\"",
+      "modelAnswer": "Summarize all the data into two tables for me.",
+      "explanation": "Use \"summarize … into two tables\" or \"give me everything consolidated in two tables\" — clear request for a combined report."
+    },
+    {
+      "type": "free",
+      "question": "Improve this question about git workflow: \"But if there are two branches, How do we keep the code consistent between them?\"",
+      "modelAnswer": "If we use two branches, how do we keep the code consistent between them?",
+      "explanation": "Lowercase \"how\" mid-sentence; \"If we use two branches\" sounds more natural than \"But if there are two branches\" in a planning question."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite naturally: \"Will check is it installed before instlling\"",
+      "modelAnswer": "Check whether it is already installed before installing.",
+      "explanation": "Use \"whether\" for yes/no checks, \"already installed\" for idempotent setup, and fix \"installing\" spelling."
+    }
+  ]
+}
