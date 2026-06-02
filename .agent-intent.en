@@ -1,1 +1,1 @@
-Yes, write the spec. I'll convert these ONNX files to RKNN models in another project.
+Can you call the rknn inference directly instead of forwarding it through the HTTP server?
