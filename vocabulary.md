@@ -425,3 +425,4 @@
 - 2026-06-02 13:29 — Use 'verbose wording' instead of 'verbose words' for a more natural phrase.
 - 2026-06-02 13:53 — Use 'remove' to delete a column or row.
 - 2026-06-02 13:54 — Use 'on another chip' instead of 'or other one' for clarity.
+- 2026-06-02 13:58 — Use 'using' instead of 'with' when specifying a tool or model for clarity.
