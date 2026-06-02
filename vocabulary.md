@@ -423,3 +423,4 @@
 - 2026-06-02 13:22 — Use 'based on' (past participle) not 'base on' (present tense verb).
 - 2026-06-02 13:27 — "Indicate" is fine, but "include" is more direct for specifying what a column/table should contain.
 - 2026-06-02 13:29 — Use 'verbose wording' instead of 'verbose words' for a more natural phrase.
+- 2026-06-02 13:53 — Use 'remove' to delete a column or row.
