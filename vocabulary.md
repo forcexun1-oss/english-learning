@@ -416,3 +416,4 @@
 - 2026-06-02 13:03 — Use 'complete' or 'full' instead of 'whole' when referring to data.
 - 2026-06-02 13:07 — "Summary" is spelled with an 'a' after the 'm', not 'summery'.
 - 2026-06-02 13:08 — Use 'table' to refer clearly to the data; 'show in one page' is fine but consider 'display on one page'.
+- 2026-06-02 13:12 — "blow" should be "below" (common typo). Also, "into the table below" is clearer.
