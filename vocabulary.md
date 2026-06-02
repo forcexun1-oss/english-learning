@@ -404,3 +404,4 @@
 - 2026-06-02 10:39 — Use 'For OTA updates' instead of 'according to the OTA updating' — 'according to' usually introduces a source or rule, not a reason.
 - 2026-06-02 10:48 — Use 'they' instead of 'them' as the subject. 'Where are they stored?' is correct.
 - 2026-06-02 10:51 — Use present continuous ('we're using') for a decision being made, or rephrase as a question: 'So, should we use /var/lib for the server?'
+- 2026-06-02 10:53 — Add 'the' before 'file structure' for natural English.
