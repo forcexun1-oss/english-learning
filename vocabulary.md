@@ -398,3 +398,4 @@
 - 2026-06-01 23:25 — Use 'another' (singular) or 'any other' instead of 'other' alone.
 - 2026-06-02 09:47 — “这几个” means “these” (specific few), and “跑一下” is an informal way to say “run once / give it a try”.
 - 2026-06-02 09:51 — Use 'run' to specify the action explicitly (test is implied but 'run' is clearer for CLI instructions).
+- 2026-06-02 10:09 — "implemention" should be "implementation". Also, consider using "create another" for clarity.
