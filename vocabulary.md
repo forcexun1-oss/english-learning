@@ -479,3 +479,4 @@
 - 2026-06-02 19:32 — Use 'targeting' to specify the chip variant - more natural than just 'for'.
 - 2026-06-02 20:41 — Use 'Rockchip' (singular) as the company/platform name, not 'Rockchips'.
 - 2026-06-02 20:45 — Add 'that' after 'any other TTS' to introduce a relative clause specifying which TTS you mean.
+- 2026-06-02 20:51 — Use 'be converted' (past participle) after 'be', not 'be convert'.
