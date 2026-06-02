@@ -414,3 +414,4 @@
 - 2026-06-02 11:44 — Use 'docs' (short for documentation) instead of 'document' when referring to general documentation. Also, 'there is' for singular, 'there are' for plural — here 'model' is singular.
 - 2026-06-02 13:02 — The word '单独' here means 'individual' or 'standalone', not 'separate'.
 - 2026-06-02 13:03 — Use 'complete' or 'full' instead of 'whole' when referring to data.
+- 2026-06-02 13:07 — "Summary" is spelled with an 'a' after the 'm', not 'summery'.
