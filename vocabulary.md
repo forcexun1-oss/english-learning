@@ -402,3 +402,4 @@
 - 2026-06-02 10:18 — Use lowercase after a comma (e.g., 'how' not 'How'). Also 'have' is more natural than 'there are' in this context.
 - 2026-06-02 10:25 — Use 'extract' or 'move to a separate location' instead of 'move out' for clarity in code structure discussions.
 - 2026-06-02 10:39 — Use 'For OTA updates' instead of 'according to the OTA updating' — 'according to' usually introduces a source or rule, not a reason.
+- 2026-06-02 10:48 — Use 'they' instead of 'them' as the subject. 'Where are they stored?' is correct.
