@@ -406,3 +406,4 @@
 - 2026-06-02 10:51 — Use present continuous ('we're using') for a decision being made, or rephrase as a question: 'So, should we use /var/lib for the server?'
 - 2026-06-02 10:53 — Add 'the' before 'file structure' for natural English.
 - 2026-06-02 10:59 — "Departmented" is not a word. Use "deployed" (placed/installed) or "depicted" (shown).
+- 2026-06-02 11:02 — Use plural 'clients' after 'different'.
