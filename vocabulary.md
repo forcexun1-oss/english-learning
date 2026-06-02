@@ -407,3 +407,4 @@
 - 2026-06-02 10:53 — Add 'the' before 'file structure' for natural English.
 - 2026-06-02 10:59 — "Departmented" is not a word. Use "deployed" (placed/installed) or "depicted" (shown).
 - 2026-06-02 11:02 — Use plural 'clients' after 'different'.
+- 2026-06-02 11:05 — Use 'meant' (past tense) when clarifying a previous statement.
