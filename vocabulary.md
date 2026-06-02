@@ -485,3 +485,4 @@
 - 2026-06-02 21:00 — Use 'looks like' (third person singular) and 'requires' instead of 'do require'.
 - 2026-06-02 21:02 — Capitalize 'Rockchip' (proper noun) and add 'board' for clarity.
 - 2026-06-02 21:06 — Use active voice ('runs') instead of passive ('is run') for more direct communication.
+- 2026-06-02 21:10 — Use 'the same way' instead of 'with the same way' — no preposition needed.
