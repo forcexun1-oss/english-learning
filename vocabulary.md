@@ -449,3 +449,4 @@
 - 2026-06-02 15:30 — 'formart' is a typo; should be 'format'.
 - 2026-06-02 15:33 — Use 'run' instead of 'test' when executing benchmarks; 'test' is more about verifying correctness of the benchmarks themselves.
 - 2026-06-02 15:33 — Omit 'the' before 'benchmarks' for a more natural, concise command.
+- 2026-06-02 15:39 — Use 'model files' (attributive noun) instead of 'models files' — when a noun acts as an adjective, it's typically singular.
