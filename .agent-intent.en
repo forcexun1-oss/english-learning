@@ -1,1 +1,1 @@
-Did you test POST /v1/vision/detect with a real image?
+Is the input image size fixed to 640x640?
