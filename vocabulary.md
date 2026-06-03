@@ -513,3 +513,4 @@
 - 2026-06-03 14:27 — Add a comma after 'So' for clarity when starting a question.
 - 2026-06-03 14:29 — Capitalize the first word of a sentence. Using 'this' instead of 'it' is more direct when referring to a task.
 - 2026-06-03 14:43 — Use 'same ... as' instead of 'same ... with' when comparing shared resources.
+- 2026-06-03 14:46 — Use 'does the path have to be' instead of 'does the path must be' — 'must' is a modal verb that doesn't combine with 'does'.

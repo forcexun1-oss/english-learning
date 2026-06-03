@@ -1,1 +1,1 @@
-Should ASR share the same rkllm3-server as the LLM?
+And does the path have to be /v1/chat/completions?
