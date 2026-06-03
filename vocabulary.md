@@ -509,3 +509,4 @@
 - 2026-06-03 13:48 — Use 'Do you have' instead of direct translation 'Have data?' for a natural polite question.
 - 2026-06-03 13:50 — Use 'cases' (plural) instead of 'case' when referring to more than one.
 - 2026-06-03 14:05 — Use past tense 'ran' instead of present 'run' for a completed action.
+- 2026-06-03 14:23 — Use plural verb 'are' with plural subject 'changes', and keep pronoun agreement ('they' not 'it').
