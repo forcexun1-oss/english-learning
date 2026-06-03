@@ -502,3 +502,4 @@
 - 2026-06-03 10:59 — Use "was implemented" (past tense) instead of "is implemented" when referring to something done previously.
 - 2026-06-03 11:17 — Use 'rename ... from ... to ...' to specify the old and new values clearly.
 - 2026-06-03 11:32 — Use a complete phrase instead of a bare number to make the intent clear.
+- 2026-06-03 13:11 — "aotu" is a typo for "auto". Also, use "the system" (with article) for clarity.
