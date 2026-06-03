@@ -505,3 +505,4 @@
 - 2026-06-03 13:11 — "aotu" is a typo for "auto". Also, use "the system" (with article) for clarity.
 - 2026-06-03 13:12 — Use 'enable' instead of 'set up' for auto-start configuration (e.g., systemctl enable).
 - 2026-06-03 13:22 — Use "Run all tests again" instead of "test all of them again" for clearer, more idiomatic instructions.
+- 2026-06-03 13:45 — The Chinese word '也' translates to 'also' or 'as well'—place it at the beginning of the sentence for a natural English order.
