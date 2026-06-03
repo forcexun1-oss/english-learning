@@ -515,3 +515,4 @@
 - 2026-06-03 14:43 — Use 'same ... as' instead of 'same ... with' when comparing shared resources.
 - 2026-06-03 14:46 — Use 'does the path have to be' instead of 'does the path must be' — 'must' is a modal verb that doesn't combine with 'does'.
 - 2026-06-03 14:50 — Use "the right way" (definite article) because you're referring to a specific correct method. Also "refer to" is a verb; here you need a gerund phrase: "using ... as a reference."
+- 2026-06-03 14:56 — Acronyms like ASR should be capitalized.
