@@ -498,3 +498,4 @@
 - 2026-06-03 10:49 — Adding 'file' makes the instruction clearer, as 'check' alone might imply verifying something specific.
 - 2026-06-03 10:50 — Use uppercase for acronyms like HTTP; add -s for plural.
 - 2026-06-03 10:53 — "deloy" should be "deploy". Use "on" with servers, not "in" (e.g., deploy on a server).
+- 2026-06-03 10:57 — Use 'forwarded' (past participle) after 'is' to form passive voice, not 'forward'.
