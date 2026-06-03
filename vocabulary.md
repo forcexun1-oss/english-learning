@@ -488,3 +488,4 @@
 - 2026-06-02 21:10 — Use 'the same way' instead of 'with the same way' — no preposition needed.
 - 2026-06-02 21:11 — Add a question mark to make it a proper question.
 - 2026-06-02 21:40 — Remove 'on' — 'search the internet' is the natural phrase.
+- 2026-06-03 09:20 — Add 'The' to make the sentence grammatically complete.
