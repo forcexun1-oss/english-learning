@@ -524,3 +524,4 @@
 - 2026-06-03 16:20 — Use 'fixed at' when specifying a value, e.g., 'fixed at 640x640'.
 - 2026-06-03 16:24 — Spelling: 'engine' not 'engin'.
 - 2026-06-03 16:35 — Use 'are' instead of 'is' because 'coordinates' is plural.
+- 2026-06-03 16:44 — Use 'do they' instead of 'does they' because 'they' is plural.
