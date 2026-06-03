@@ -495,3 +495,4 @@
 - 2026-06-03 10:40 — Add a question mark for clarity, and capitalize the first word.
 - 2026-06-03 10:41 — Use 'earlier' or 'previously' instead of 'before' for a single past event — 'before' often implies a sequence or comparison.
 - 2026-06-03 10:42 — Use 'port for' or 'port used by' instead of 'port of' when referring to a service's port.
+- 2026-06-03 10:49 — Adding 'file' makes the instruction clearer, as 'check' alone might imply verifying something specific.
