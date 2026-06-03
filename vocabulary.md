@@ -499,3 +499,4 @@
 - 2026-06-03 10:50 — Use uppercase for acronyms like HTTP; add -s for plural.
 - 2026-06-03 10:53 — "deloy" should be "deploy". Use "on" with servers, not "in" (e.g., deploy on a server).
 - 2026-06-03 10:57 — Use 'forwarded' (past participle) after 'is' to form passive voice, not 'forward'.
+- 2026-06-03 10:59 — Use "was implemented" (past tense) instead of "is implemented" when referring to something done previously.
