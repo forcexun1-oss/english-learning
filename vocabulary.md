@@ -504,3 +504,4 @@
 - 2026-06-03 11:32 — Use a complete phrase instead of a bare number to make the intent clear.
 - 2026-06-03 13:11 — "aotu" is a typo for "auto". Also, use "the system" (with article) for clarity.
 - 2026-06-03 13:12 — Use 'enable' instead of 'set up' for auto-start configuration (e.g., systemctl enable).
+- 2026-06-03 13:22 — Use "Run all tests again" instead of "test all of them again" for clearer, more idiomatic instructions.
