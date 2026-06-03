@@ -489,3 +489,4 @@
 - 2026-06-02 21:11 — Add a question mark to make it a proper question.
 - 2026-06-02 21:40 — Remove 'on' — 'search the internet' is the natural phrase.
 - 2026-06-03 09:20 — Add 'The' to make the sentence grammatically complete.
+- 2026-06-03 10:16 — Use 'Did you' to form past tense questions instead of just 'you'.
