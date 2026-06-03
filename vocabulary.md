@@ -507,3 +507,4 @@
 - 2026-06-03 13:22 — Use "Run all tests again" instead of "test all of them again" for clearer, more idiomatic instructions.
 - 2026-06-03 13:45 — The Chinese word '也' translates to 'also' or 'as well'—place it at the beginning of the sentence for a natural English order.
 - 2026-06-03 13:48 — Use 'Do you have' instead of direct translation 'Have data?' for a natural polite question.
+- 2026-06-03 13:50 — Use 'cases' (plural) instead of 'case' when referring to more than one.
