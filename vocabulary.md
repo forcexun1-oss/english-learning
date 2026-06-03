@@ -518,3 +518,4 @@
 - 2026-06-03 14:56 — Acronyms like ASR should be capitalized.
 - 2026-06-03 15:18 — Use 'deployed' (past participle) instead of 'deploymented' (which is not a valid word).
 - 2026-06-03 15:21 — Use 'deployed' instead of 'deploymented' — deployment is a noun, deployed is the past participle verb.
+- 2026-06-03 15:37 — Use simple past tense ('completed') for finished tasks. Avoid pasting raw system notifications; summarize the key information instead.
