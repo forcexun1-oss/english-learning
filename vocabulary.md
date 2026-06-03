@@ -511,3 +511,4 @@
 - 2026-06-03 14:05 — Use past tense 'ran' instead of present 'run' for a completed action.
 - 2026-06-03 14:23 — Use plural verb 'are' with plural subject 'changes', and keep pronoun agreement ('they' not 'it').
 - 2026-06-03 14:27 — Add a comma after 'So' for clarity when starting a question.
+- 2026-06-03 14:29 — Capitalize the first word of a sentence. Using 'this' instead of 'it' is more direct when referring to a task.
