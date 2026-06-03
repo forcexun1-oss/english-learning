@@ -510,3 +510,4 @@
 - 2026-06-03 13:50 — Use 'cases' (plural) instead of 'case' when referring to more than one.
 - 2026-06-03 14:05 — Use past tense 'ran' instead of present 'run' for a completed action.
 - 2026-06-03 14:23 — Use plural verb 'are' with plural subject 'changes', and keep pronoun agreement ('they' not 'it').
+- 2026-06-03 14:27 — Add a comma after 'So' for clarity when starting a question.
