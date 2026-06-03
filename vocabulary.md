@@ -501,3 +501,4 @@
 - 2026-06-03 10:57 — Use 'forwarded' (past participle) after 'is' to form passive voice, not 'forward'.
 - 2026-06-03 10:59 — Use "was implemented" (past tense) instead of "is implemented" when referring to something done previously.
 - 2026-06-03 11:17 — Use 'rename ... from ... to ...' to specify the old and new values clearly.
+- 2026-06-03 11:32 — Use a complete phrase instead of a bare number to make the intent clear.
