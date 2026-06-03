@@ -529,3 +529,4 @@
 - 2026-06-03 17:13 — Add 'The' at the beginning for a complete subject; 'failed with exit code' is standard reporting.
 - 2026-06-03 17:38 — Use contractions like "What's" instead of "What is" for a more natural, conversational tone.
 - 2026-06-03 18:40 — Use 'like this?' to ask for confirmation when pointing to an example, but 'something like this?' is more idiomatic for seeking approval of a proposed approach.
+- 2026-06-03 18:41 — Use 'search for' instead of 'search' when you mean looking for something. 'Search it' can sound like you're searching the thing itself (e.g., 'search the document').
