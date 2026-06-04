@@ -572,3 +572,4 @@
 - 2026-06-04 13:32 — In English questions, invert the subject and verb: 'Is X right?' not 'X is right?'
 - 2026-06-04 13:34 — Add articles: 'a' before 'coding plan' and 'the' before the model name.
 - 2026-06-04 13:35 — Use 'Did they not start?' (past simple question) instead of 'are they did not started' (double auxiliary error).
+- 2026-06-04 13:36 — Use 'did' + base verb for past tense questions (e.g., 'Did they start?' not 'Are they did start?').
