@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are the mic, camera, and LLM APIs uniform?
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+What would be the impact of adding a MicSource / CameraSource trait to the plan?

@@ -684,3 +684,4 @@
 - 2026-06-04 18:19 — Use 'uniform' (adjective meaning consistent) instead of 'uniformed' (which means wearing a uniform).
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 18:25 — Add 'the' before 'impact' — it's a specific impact being asked about.
