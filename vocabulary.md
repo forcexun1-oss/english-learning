@@ -625,3 +625,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 16:09 — Use 'failed with exit code' to describe command failures.
