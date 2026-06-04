@@ -654,3 +654,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 16:55 — Use 'reconnect' instead of 'connect' after 'disconnect' to avoid repetition and sound more natural.
