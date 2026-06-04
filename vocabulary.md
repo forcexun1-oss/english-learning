@@ -544,3 +544,4 @@
 - 2026-06-04 11:09 — Note: '瞎' (xiā) literally means 'blind', but in colloquial usage it means 'randomly' or 'carelessly'.
 - 2026-06-04 11:10 — Use 'large model' instead of 'great model' when referring to LLMs. Also, 'through' can be replaced with 'via' for a more technical tone.
 - 2026-06-04 11:12 — Use 'motherboard' instead of 'mainboard' for more natural English.
+- 2026-06-04 11:13 — “测通” is a common Chinese tech term meaning 'test connectivity' or 'verify the connection works'.
