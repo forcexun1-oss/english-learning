@@ -597,3 +597,4 @@
 - 2026-06-04 15:35 — Use passive voice ('was deployed') for the action done to the service, not active ('did deploy').
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 15:37 — Use 'didn't' for past-tense questions expressing surprise: 'Didn't everything run successfully?' = '不都跑通了吗？'
