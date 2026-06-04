@@ -576,3 +576,4 @@
 - 2026-06-04 13:37 — Use 'set up' (two words) as a verb; 'setup' is a noun.
 - 2026-06-04 13:39 — Add a verb like 'is set up' after 'Termux:Boot' to make a complete sentence.
 - 2026-06-04 13:41 — Capitalize proper nouns like 'Termux:Boot' and include the colon as in the official name.
+- 2026-06-04 13:51 — Use 'to match' or 'per' instead of 'according to' for more direct technical writing.
