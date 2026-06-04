@@ -569,3 +569,4 @@
 - 2026-06-04 13:24 — Use 'for' to indicate purpose (e.g., 'one for the phone') instead of directly translating '的' as a possessive.
 - 2026-06-04 13:31 — Use 'Did they not start' instead of 'are they did not start' — don't combine 'are' and 'did' together.
 - 2026-06-04 13:31 — Capitalize acronyms like LLM, and add 'the' for a specific test.
+- 2026-06-04 13:32 — In English questions, invert the subject and verb: 'Is X right?' not 'X is right?'
