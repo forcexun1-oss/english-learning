@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Regardless of which implementation is used, they must follow the same interface design and both must provide an HTTP interface. Can the HTTP interface be the same service?
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
