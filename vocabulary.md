@@ -568,3 +568,4 @@
 - 2026-06-04 13:23 — The pattern '不是...过了吗' is a rhetorical question meaning 'Didn't you already...?' Use past tense + 'already' in English.
 - 2026-06-04 13:24 — Use 'for' to indicate purpose (e.g., 'one for the phone') instead of directly translating '的' as a possessive.
 - 2026-06-04 13:31 — Use 'Did they not start' instead of 'are they did not start' — don't combine 'are' and 'did' together.
+- 2026-06-04 13:31 — Capitalize acronyms like LLM, and add 'the' for a specific test.
