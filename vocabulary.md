@@ -535,3 +535,4 @@
 - 2026-06-04 10:41 — Use 'port for' instead of 'port of' when specifying which service uses the port.
 - 2026-06-04 10:44 — Use 'or' instead of a comma when listing alternatives in a negative statement.
 - 2026-06-04 10:47 — Use 'port number' instead of 'number of the port'.
+- 2026-06-04 10:49 — Add 'Port' for clarity.
