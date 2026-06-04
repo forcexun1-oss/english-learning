@@ -560,3 +560,4 @@
 - 2026-06-04 11:40 — Use 'deployed on' for devices/locations, not 'deployed in'.
 - 2026-06-04 11:41 — Use 'design document for' instead of 'design document of' when referring to a specific component.
 - 2026-06-04 11:44 — Use 'OpenAI-compatible' with a hyphen when used as a compound adjective.
+- 2026-06-04 11:46 — Use 'anything else' instead of 'others' when asking about unspecified items or tasks.
