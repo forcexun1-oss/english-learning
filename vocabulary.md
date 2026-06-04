@@ -680,3 +680,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 18:19 — Use 'uniform' (adjective meaning consistent) instead of 'uniformed' (which means wearing a uniform).
