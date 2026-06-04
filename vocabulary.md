@@ -580,3 +580,4 @@
 - 2026-06-04 14:25 — Always include the object pronoun 'it' after 'deploy' for clarity, and capitalize proper nouns like 'Polarchip'.
 - 2026-06-04 14:43 — Add the article 'the' before 'LLM API' for correct grammar.
 - 2026-06-04 14:49 — Capitalize the first word of the sentence.
+- 2026-06-04 14:56 — Use 'exit code' to describe program termination status. 'Exit code 1' means a general error.
