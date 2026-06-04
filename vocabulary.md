@@ -567,3 +567,4 @@
 - 2026-06-04 13:23 — "Rockchip" is a proper noun (company name), so keep it capitalized. Use 'not a' instead of 'not' to match 'a phone'.
 - 2026-06-04 13:23 — The pattern '不是...过了吗' is a rhetorical question meaning 'Didn't you already...?' Use past tense + 'already' in English.
 - 2026-06-04 13:24 — Use 'for' to indicate purpose (e.g., 'one for the phone') instead of directly translating '的' as a possessive.
+- 2026-06-04 13:31 — Use 'Did they not start' instead of 'are they did not start' — don't combine 'are' and 'did' together.
