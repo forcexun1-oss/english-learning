@@ -599,6 +599,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -648,3 +649,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-04 16:50 — "Wire in" is fine, but "connect" or "integrate" might be clearer in formal contexts.
+=======
+>>>>>>> Stashed changes
