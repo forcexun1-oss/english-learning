@@ -673,3 +673,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 17:47 — Use 'regardless of' or 'no matter' for '不管'. Here 'regardless of which implementation is used' is more natural than a literal translation.

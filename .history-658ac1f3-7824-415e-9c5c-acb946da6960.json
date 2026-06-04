@@ -1,1 +1,1 @@
-["the phone and the rockchip should implement the same interface"]
+["the phone and the rockchip should implement the same interface", "不管哪种实现, 都要遵循相同的接口设计, 都要提供HTTP接口, http 是否可以是同一个服务"]
