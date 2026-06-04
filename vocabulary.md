@@ -540,3 +540,4 @@
 - 2026-06-04 10:56 — Use a capital letter to start a sentence, even in short commands.
 - 2026-06-04 10:58 — Use 'SSH to' to clarify the command.
 - 2026-06-04 11:07 — Use 'already' before the past participle in present perfect tense: 'has already been deployed'.
+- 2026-06-04 11:08 — "呗" adds a casual, resigned tone — like 'then' or 'oh well' in English. In instructions, you can drop it or use 'then'.

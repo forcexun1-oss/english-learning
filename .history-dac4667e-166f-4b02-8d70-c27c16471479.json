@@ -1,1 +1,1 @@
-["I mean the port of llmgate", "not 80, 90**", "read the code to get number of the port", "9091", "read the code, there should be a proxy , the port is 9091. reverse the code", "start it", "root@192.168.1.104 root root", "等等, 你在做什么, 你是在把这个工程的代码部署上去了, 这个工程的已经部署过了"]
+["I mean the port of llmgate", "not 80, 90**", "read the code to get number of the port", "9091", "read the code, there should be a proxy , the port is 9091. reverse the code", "start it", "root@192.168.1.104 root root", "等等, 你在做什么, 你是在把这个工程的代码部署上去了, 这个工程的已经部署过了", "那就是端口说错了呗, 8765 这个端口对吗"]
