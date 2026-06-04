@@ -573,3 +573,4 @@
 - 2026-06-04 13:34 — Add articles: 'a' before 'coding plan' and 'the' before the model name.
 - 2026-06-04 13:35 — Use 'Did they not start?' (past simple question) instead of 'are they did not started' (double auxiliary error).
 - 2026-06-04 13:36 — Use 'did' + base verb for past tense questions (e.g., 'Did they start?' not 'Are they did start?').
+- 2026-06-04 13:37 — Use 'set up' (two words) as a verb; 'setup' is a noun.
