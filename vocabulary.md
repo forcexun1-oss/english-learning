@@ -564,3 +564,4 @@
 - 2026-06-04 11:49 — Add 'and' after 'go ahead' to sound more natural in instructions.
 - 2026-06-04 11:54 — Correct the spelling: 'defaut' → 'default'.
 - 2026-06-04 13:20 — Use 'port 8765' instead of 'the 8765 port'.
+- 2026-06-04 13:23 — "Rockchip" is a proper noun (company name), so keep it capitalized. Use 'not a' instead of 'not' to match 'a phone'.
