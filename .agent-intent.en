@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 How can I deploy qwen-asr on the Rockchip board?
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
