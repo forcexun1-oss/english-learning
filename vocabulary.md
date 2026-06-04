@@ -532,3 +532,4 @@
 - 2026-06-03 18:41 — Use 'search for' instead of 'search' when you mean looking for something. 'Search it' can sound like you're searching the thing itself (e.g., 'search the document').
 - 2026-06-03 18:42 — Use "search for" (not "search") when referring to looking up information.
 - 2026-06-04 09:47 — The pattern '还是...好' compares two options to ask which is better. In English, use 'is it better to use A or B?'
+- 2026-06-04 10:41 — Use 'port for' instead of 'port of' when specifying which service uses the port.
