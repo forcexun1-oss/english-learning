@@ -666,3 +666,4 @@
 - 2026-06-04 17:17 — Use 'I'll' (contraction of 'I will') to sound more natural in spoken/written developer communication.
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 17:31 — Capitalize proper nouns like 'Rockchip'.
