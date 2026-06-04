@@ -551,3 +551,4 @@
 - 2026-06-04 11:29 — Use 'look like' to ask about appearance or characteristics. '对外接口' translates to 'external interface' (or 'API').
 - 2026-06-04 11:30 — Use 'what does X look like' to ask about the appearance or structure of something, not 'what is X like' which is more general.
 - 2026-06-04 11:30 — Use 'listen on' for ports (e.g., 'listen on port 8080'), not 'listen at'.
+- 2026-06-04 11:31 — "什么样的" translates to "what ... like" or "what kind of" when asking about characteristics.
