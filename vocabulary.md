@@ -597,6 +597,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -639,5 +640,7 @@
 >>>>>>> Stashed changes
 - 2026-06-04 16:30 — Use present simple 'works' for a general check, instead of present continuous 'working'.
 - 2026-06-04 16:41 — Use 'are' with plural subjects like 'ports'.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
