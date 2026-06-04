@@ -1,1 +1,1 @@
-Refactor the LLM interface to match the spec at ~/project/edgeAgent/docs/superpowers/specs/2026-06-04-llm-gateway-openai-compat.md
+Compile it and deploy it on the Polarchip board.
