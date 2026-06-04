@@ -636,3 +636,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 16:30 — Use present simple 'works' for a general check, instead of present continuous 'working'.
