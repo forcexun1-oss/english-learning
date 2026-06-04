@@ -553,3 +553,4 @@
 - 2026-06-04 11:30 — Use 'listen on' for ports (e.g., 'listen on port 8080'), not 'listen at'.
 - 2026-06-04 11:31 — "什么样的" translates to "what ... like" or "what kind of" when asking about characteristics.
 - 2026-06-04 11:33 — “吧”表示确认疑问句，英语中常用尾追疑问句（如 is it?/does it?）替代。
+- 2026-06-04 11:35 — Use 'make changes' rather than 'do modifications' for this context.
