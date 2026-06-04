@@ -559,3 +559,4 @@
 - 2026-06-04 11:39 — Use 'the downstream' to refer to the downstream system or service; it's a common term in tech contexts.
 - 2026-06-04 11:40 — Use 'deployed on' for devices/locations, not 'deployed in'.
 - 2026-06-04 11:41 — Use 'design document for' instead of 'design document of' when referring to a specific component.
+- 2026-06-04 11:44 — Use 'OpenAI-compatible' with a hyphen when used as a compound adjective.
