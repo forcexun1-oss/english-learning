@@ -549,3 +549,4 @@
 - 2026-06-04 11:18 — Use 'port 80' instead of '80 port'. Also, add 's' to verb for third person singular: 'It works'.
 - 2026-06-04 11:23 — Use 'an' before vowel sounds: 'an API', not 'a API'.
 - 2026-06-04 11:29 — Use 'look like' to ask about appearance or characteristics. '对外接口' translates to 'external interface' (or 'API').
+- 2026-06-04 11:30 — Use 'what does X look like' to ask about the appearance or structure of something, not 'what is X like' which is more general.
