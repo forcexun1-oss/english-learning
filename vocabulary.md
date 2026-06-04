@@ -593,3 +593,4 @@
 - 2026-06-04 15:33 — Add a question mark at the end of a question.
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 15:35 — Use passive voice ('was deployed') for the action done to the service, not active ('did deploy').

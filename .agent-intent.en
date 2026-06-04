@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What caused the error just now?
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+Was the perception service deployed to the phone?
