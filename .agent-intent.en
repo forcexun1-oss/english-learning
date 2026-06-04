@@ -1,1 +1,1 @@
-It should be passed via extension parameters; otherwise, it won't be compatible with OpenAI.
+If we pass them as extended parameters, will the downstream be able to see these parameters?
