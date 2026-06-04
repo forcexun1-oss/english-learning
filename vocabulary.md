@@ -548,3 +548,4 @@
 - 2026-06-04 11:16 — Use 'Let me' to suggest an action you intend to take, similar to '我来' in Chinese.
 - 2026-06-04 11:18 — Use 'port 80' instead of '80 port'. Also, add 's' to verb for third person singular: 'It works'.
 - 2026-06-04 11:23 — Use 'an' before vowel sounds: 'an API', not 'a API'.
+- 2026-06-04 11:29 — Use 'look like' to ask about appearance or characteristics. '对外接口' translates to 'external interface' (or 'API').
