@@ -584,6 +584,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -594,3 +595,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-04 15:35 — Use passive voice ('was deployed') for the action done to the service, not active ('did deploy').
+=======
+>>>>>>> Stashed changes
