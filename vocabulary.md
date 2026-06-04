@@ -565,3 +565,4 @@
 - 2026-06-04 11:54 — Correct the spelling: 'defaut' → 'default'.
 - 2026-06-04 13:20 — Use 'port 8765' instead of 'the 8765 port'.
 - 2026-06-04 13:23 — "Rockchip" is a proper noun (company name), so keep it capitalized. Use 'not a' instead of 'not' to match 'a phone'.
+- 2026-06-04 13:23 — The pattern '不是...过了吗' is a rhetorical question meaning 'Didn't you already...?' Use past tense + 'already' in English.
