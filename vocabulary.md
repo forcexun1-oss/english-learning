@@ -583,6 +583,7 @@
 - 2026-06-04 14:56 — Use 'exit code' to describe program termination status. 'Exit code 1' means a general error.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -590,3 +591,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-04 15:33 — Add a question mark at the end of a question.
+=======
+>>>>>>> Stashed changes
