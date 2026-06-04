@@ -603,6 +603,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -663,3 +664,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-04 17:17 — Use 'I'll' (contraction of 'I will') to sound more natural in spoken/written developer communication.
+=======
+>>>>>>> Stashed changes
