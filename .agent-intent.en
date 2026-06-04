@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Check if ports 8765 and 9091 are open.
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
 =======
 Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
 >>>>>>> Stashed changes
