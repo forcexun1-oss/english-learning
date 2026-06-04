@@ -534,3 +534,4 @@
 - 2026-06-04 09:47 — The pattern '还是...好' compares two options to ask which is better. In English, use 'is it better to use A or B?'
 - 2026-06-04 10:41 — Use 'port for' instead of 'port of' when specifying which service uses the port.
 - 2026-06-04 10:44 — Use 'or' instead of a comma when listing alternatives in a negative statement.
+- 2026-06-04 10:47 — Use 'port number' instead of 'number of the port'.
