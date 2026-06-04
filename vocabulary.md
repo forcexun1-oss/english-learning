@@ -546,3 +546,4 @@
 - 2026-06-04 11:12 — Use 'motherboard' instead of 'mainboard' for more natural English.
 - 2026-06-04 11:13 — “测通” is a common Chinese tech term meaning 'test connectivity' or 'verify the connection works'.
 - 2026-06-04 11:16 — Use 'Let me' to suggest an action you intend to take, similar to '我来' in Chinese.
+- 2026-06-04 11:18 — Use 'port 80' instead of '80 port'. Also, add 's' to verb for third person singular: 'It works'.
