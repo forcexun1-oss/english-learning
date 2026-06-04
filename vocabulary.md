@@ -647,3 +647,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 16:50 — "Wire in" is fine, but "connect" or "integrate" might be clearer in formal contexts.
