@@ -662,3 +662,4 @@
 - 2026-06-04 17:15 — In English statements, the subject comes before 'does not' (e.g., 'The model version does not match...'), not the other way around. Inversion is only for questions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 17:17 — Use 'I'll' (contraction of 'I will') to sound more natural in spoken/written developer communication.
