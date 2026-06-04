@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The phone and the Rockchip should implement the same interface.
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
