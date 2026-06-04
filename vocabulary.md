@@ -608,3 +608,4 @@
 - 2026-06-04 15:46 — Use 'the' before specific nouns like 'the HTTP API'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 15:48 — Use 'for calling' instead of 'if I call' to express purpose more naturally.
