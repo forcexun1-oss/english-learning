@@ -658,3 +658,4 @@
 - 2026-06-04 16:55 — Use 'reconnect' instead of 'connect' after 'disconnect' to avoid repetition and sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-04 17:15 — In English statements, the subject comes before 'does not' (e.g., 'The model version does not match...'), not the other way around. Inversion is only for questions.
