@@ -1,1 +1,1 @@
-It's not session_id, and this is not how it's passed either.
+It should be passed via extension parameters; otherwise, it won't be compatible with OpenAI.
