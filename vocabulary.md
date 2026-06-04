@@ -578,3 +578,4 @@
 - 2026-06-04 13:41 — Capitalize proper nouns like 'Termux:Boot' and include the colon as in the official name.
 - 2026-06-04 13:51 — Use 'to match' or 'per' instead of 'according to' for more direct technical writing.
 - 2026-06-04 14:25 — Always include the object pronoun 'it' after 'deploy' for clarity, and capitalize proper nouns like 'Polarchip'.
+- 2026-06-04 14:43 — Add the article 'the' before 'LLM API' for correct grammar.
