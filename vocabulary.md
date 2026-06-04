@@ -587,6 +587,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -605,3 +606,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-04 15:46 — Use 'the' before specific nouns like 'the HTTP API'.
+=======
+>>>>>>> Stashed changes
