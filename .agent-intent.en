@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command 'Start perception service on phone and verify' failed with exit code 1.
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+How can I deploy qwen-asr on the Rockchip board?
