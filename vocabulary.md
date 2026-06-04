@@ -557,3 +557,4 @@
 - 2026-06-04 11:36 — Use 'neither...nor' for '不是...也不是': 'It's neither session_id nor passed this way.' The '啊' adds emphasis, often expressed with 'either' at the end in English.
 - 2026-06-04 11:37 — Use 'otherwise' to mean 'if not, then...' for a clear conditional contrast.
 - 2026-06-04 11:39 — Use 'the downstream' to refer to the downstream system or service; it's a common term in tech contexts.
+- 2026-06-04 11:40 — Use 'deployed on' for devices/locations, not 'deployed in'.
