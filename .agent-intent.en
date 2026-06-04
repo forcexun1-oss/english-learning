@@ -1,1 +1,1 @@
-I remember we made changes to make it OpenAI compatible.
+It's not session_id, and this is not how it's passed either.

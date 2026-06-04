@@ -554,3 +554,4 @@
 - 2026-06-04 11:31 — "什么样的" translates to "what ... like" or "what kind of" when asking about characteristics.
 - 2026-06-04 11:33 — “吧”表示确认疑问句，英语中常用尾追疑问句（如 is it?/does it?）替代。
 - 2026-06-04 11:35 — Use 'make changes' rather than 'do modifications' for this context.
+- 2026-06-04 11:36 — Use 'neither...nor' for '不是...也不是': 'It's neither session_id nor passed this way.' The '啊' adds emphasis, often expressed with 'either' at the end in English.
