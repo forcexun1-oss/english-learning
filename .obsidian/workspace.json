@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "articles/2026-05-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2026-05-31"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "articles/2026-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CLAUDE 的反向链接列表"
+              "title": "2026-05-31 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "articles/2026-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CLAUDE 的出链列表"
+              "title": "2026-05-31 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "articles/2026-05-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CLAUDE 的大纲"
+              "title": "2026-05-31 的大纲"
             }
           }
         ]
@@ -186,11 +186,15 @@
   "active": "e02402fef3137389",
   "lastOpenFiles": [
     "articles/2026-06-03.md",
+    "articles/weekly-2026-05-31.md",
     "2026-06-03.md",
-    "quiz/2026-06-02.json",
-    "articles/2026-06-02.md",
-    "progress.md",
     "2026-06-02.md",
+    "2026-05-23.md",
+    "English-learning/欢迎.md",
+    "articles/2026-06-02.md",
+    "CLAUDE.md",
+    "quiz/2026-06-02.json",
+    "progress.md",
     "2026-05-26.md",
     "articles/2026-05-23.md",
     "articles/2026-05-25.md",
@@ -205,7 +209,6 @@
     "articles/2026-05-30.md",
     "vocabulary.md",
     "articles/2026-05-28.md",
-    "2026-05-24.md",
-    "2026-05-23.md"
+    "2026-05-24.md"
   ]
 }
