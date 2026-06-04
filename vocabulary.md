@@ -537,3 +537,4 @@
 - 2026-06-04 10:47 — Use 'port number' instead of 'number of the port'.
 - 2026-06-04 10:49 — Add 'Port' for clarity.
 - 2026-06-04 10:52 — Use 'reverse engineer' instead of 'reverse the code' for natural phrasing. Also, 'on port 9091' is more idiomatic than 'the port is 9091' when describing where a service runs.
+- 2026-06-04 10:56 — Use a capital letter to start a sentence, even in short commands.
