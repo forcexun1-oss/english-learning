@@ -581,3 +581,4 @@
 - 2026-06-04 14:43 — Add the article 'the' before 'LLM API' for correct grammar.
 - 2026-06-04 14:49 — Capitalize the first word of the sentence.
 - 2026-06-04 14:56 — Use 'exit code' to describe program termination status. 'Exit code 1' means a general error.
+- 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
