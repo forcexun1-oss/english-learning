@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Background command 'Start rkllm3-server and check startup' failed with exit code 1.
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
 =======
 Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
 >>>>>>> Stashed changes
