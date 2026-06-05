@@ -779,3 +779,4 @@
 - 2026-06-05 11:40 — Remove the extra 'user' before the filename.
 - 2026-06-05 11:49 — Use 'mismatch' (noun) for inconsistency; 'mismatched' is an adjective.
 - 2026-06-05 13:43 — Capitalize language names (Chinese, not chinese).
+- 2026-06-05 14:12 — Use 'are there' for asking about existence, and 'each' to distribute responsibility.
