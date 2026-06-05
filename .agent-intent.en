@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Compile and deploy to the board.
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+Background command "Update GitNexus index" completed (exit code 0).
