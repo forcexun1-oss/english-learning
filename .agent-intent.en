@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The LLM service is running on port 8080.
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
