@@ -771,3 +771,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 10:47 — Use 'ASR changes' instead of 'changes for ASR' — more idiomatic as a compound noun.
