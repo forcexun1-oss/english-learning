@@ -781,3 +781,4 @@
 - 2026-06-05 13:43 — Capitalize language names (Chinese, not chinese).
 - 2026-06-05 14:12 — Use 'are there' for asking about existence, and 'each' to distribute responsibility.
 - 2026-06-05 14:23 — Use 'on the' for components on a chip/board. '上' here translates to 'on'.
+- 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
