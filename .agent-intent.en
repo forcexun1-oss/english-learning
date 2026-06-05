@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Only focus on Rockchip's perception-service pipeline.
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Deploy yolo and run tests, but don't deploy the ASR and TTS.
