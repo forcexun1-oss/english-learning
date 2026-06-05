@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-["change the design, TTS YOLO 都放到3576"]
-=======
-["translate into chinese", "上面有多少处理器, 都负责什么", "3576上小的NPU是做什么的", "所以从设计上讲, ASR TTS YOLO这些应该放在3576上?"]
->>>>>>> Stashed changes
-=======
-["translate into chinese", "上面有多少处理器, 都负责什么", "3576上小的NPU是做什么的", "所以从设计上讲, ASR TTS YOLO这些应该放在3576上?"]
->>>>>>> Stashed changes
+["能从我下载的qwen-asr文件中看出,都是什么文件,在哪里执行吗"]
