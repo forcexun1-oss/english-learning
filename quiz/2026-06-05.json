@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T15:02:08.833Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling in: \"deloy yolo and run tests\"?",
+      "options": [
+        "A. deloy yolo and run tests",
+        "B. Deploy YOLO and run tests.",
+        "C. deployment yolo and run tests",
+        "D. Deploys yolo and run the tests"
+      ],
+      "correctIndex": 1,
+      "explanation": "The verb is \"deploy\" (not \"deloy\"). Capitalize YOLO as a product name and end the command with a period."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes: \"I8 has beed deployed in the ~/project/rockchip\"?",
+      "options": [
+        "A. I8 has beed deployed in the ~/project/rockchip",
+        "B. I8 has been deployed in ~/project/rockchip.",
+        "C. I8 have been deployed in the ~/project/rockchip",
+        "D. I8 was been deployed in ~/project/rockchip"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past participle is \"been\" (not \"beed\"). Drop \"the\" before a home-directory path; capitalize I8."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes: \"Swich I8 to fp16\"?",
+      "options": [
+        "A. Swich I8 to fp16",
+        "B. Switch I8 to FP16.",
+        "C. Switching I8 to the fp16",
+        "D. Switch I8 into fp16 model"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spell \"Switch\" correctly. FP16 is a standard precision label and is usually written in uppercase."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural way to state the LLM port from the log?",
+      "options": [
+        "A. The LLM service is running on 8080 port",
+        "B. The LLM service is running on port 8080.",
+        "C. The LLM service runs at the 8080 port number",
+        "D. LLM service port is 8080 running"
+      ],
+      "correctIndex": 1,
+      "explanation": "In English, say \"on port 8080\" — the port number follows the word \"port,\" not the other way around."
+    },
+    {
+      "type": "mc",
+      "question": "Which fixes: \"I reboot it, check if the changes for ASR break the LLM service?\"",
+      "options": [
+        "A. I reboot it, check if the changes for ASR break the LLM service?",
+        "B. I rebooted it; check whether the ASR changes broke the LLM service.",
+        "C. I rebooted it, check if the changes for ASR break the LLM?",
+        "D. I reboot, checking if ASR changes breaks LLM service"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use past tense \"rebooted\" for a completed action. \"Whether\" fits a yes/no check; a semicolon separates two related instructions."
+    },
+    {
+      "type": "mc",
+      "question": "In today's session, what does \"test passed\" mean when verifying an LLM over HTTP?",
+      "options": [
+        "A. The HTTP request returned any 200 response",
+        "B. The server process started without crashing",
+        "C. The response content is correct, not just that the request succeeded",
+        "D. The port is open and accepting connections"
+      ],
+      "correctIndex": 2,
+      "explanation": "From the log: \"Test passed\" means the result is correct, not merely that the request went through."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"8081 是 ASR的\"",
+      "modelAnswer": "Port 8081 is for ASR.",
+      "explanation": "Name the port explicitly; \"is for ASR\" is clearer than a literal \"is ASR's\" in service documentation."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"3576上小的NPU是做什么的\"",
+      "modelAnswer": "What is the small NPU on the RK3576 used for?",
+      "explanation": "RK3576 is the board model; \"used for\" naturally expresses 做什么的 in a hardware context."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"所以从设计上讲, ASR TTS YOLO这些应该放在3576上?\"",
+      "modelAnswer": "So from a design perspective, should ASR, TTS, and YOLO all run on the RK3576?",
+      "explanation": "\"From a design perspective\" maps 从设计上讲; list services with commas and name the target board (RK3576)."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical instruction: \"start the llm-gateway on the board too, and configure the url to the llm on the board\"",
+      "modelAnswer": "Start the llm-gateway on the board as well, and configure its URL to point to the LLM service running on the board.",
+      "explanation": "Specify what the URL points to (the on-board LLM service) so the gateway routing is unambiguous in a multi-service setup."
+    }
+  ]
+}
