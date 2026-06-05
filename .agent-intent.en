@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Update GitNexus index" completed (exit code 0).
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+Does this include the LLM API?

@@ -705,3 +705,4 @@
 - 2026-06-05 09:12 — Use past tense 'completed' for finished actions. 'Exit code' is the standard term.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:14 — Use a question mark at the end for direct questions.
