@@ -723,3 +723,4 @@
 - 2026-06-05 09:29 — Add the article 'the' before 'LLM test' for natural English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:32 — Add 'it' after 'test' to specify the object.
