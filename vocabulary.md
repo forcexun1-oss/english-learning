@@ -697,3 +697,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:04 — Use 'to the board' instead of 'on the board' when referring to deploying software onto a device.
