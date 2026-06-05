@@ -623,6 +623,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-04 15:16 — Write time durations clearly: use 'seconds' and 'milliseconds' instead of 's' and 'ms' in formal writing.
 =======
 >>>>>>> Stashed changes
@@ -736,3 +737,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-05 09:44 — The possessive '的' indicates association; '是...的' means 'belongs to' or 'is for', so '8081 是 ASR的' translates to '8081 is for ASR' or '8081 belongs to ASR'.
+=======
+>>>>>>> Stashed changes
