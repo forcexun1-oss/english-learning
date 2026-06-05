@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Can you tell from the qwen-asr file I downloaded what files are in it, and where to execute them?
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
 =======
 So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
 >>>>>>> Stashed changes
