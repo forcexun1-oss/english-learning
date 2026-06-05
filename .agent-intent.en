@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Did you test it via HTTP?
-=======
-Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
->>>>>>> Stashed changes
+What port is the LLM service running on?

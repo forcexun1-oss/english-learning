@@ -727,3 +727,4 @@
 - 2026-06-05 09:32 — Add 'it' after 'test' to specify the object.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:39 — Use 'LLM' (capitalized) and consider 'port' instead of 'port number' for brevity.
