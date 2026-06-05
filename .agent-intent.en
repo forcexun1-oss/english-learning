@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-According to the official documentation, if it is deployed on port 1828, how should I call it?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+The board is already connected. Please help me get this pipeline working.
