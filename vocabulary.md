@@ -776,3 +776,4 @@
 - 2026-06-05 11:19 — Use present perfect or past tense for completed actions; 'failed with exit code' is the standard phrasing in dev contexts.
 - 2026-06-05 11:29 — Use 'Verify that' instead of 'verify' alone for clarity. Also, keep verb tense consistent: 'has rebooted' (present perfect) then use base form 'verify' for an imperative command.
 - 2026-06-05 11:37 — Use a period to separate two independent clauses instead of a comma.
+- 2026-06-05 11:40 — Remove the extra 'user' before the filename.
