@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So from a design perspective, should ASR, TTS, YOLO, etc. be placed on the 3576?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Change the design, and move both TTS and YOLO to the 3576.
