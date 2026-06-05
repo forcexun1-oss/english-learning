@@ -773,3 +773,4 @@
 >>>>>>> Stashed changes
 - 2026-06-05 10:47 — Use 'ASR changes' instead of 'changes for ASR' — more idiomatic as a compound noun.
 - 2026-06-05 10:58 — Use 'the' before 'LLM service' because 'LLM' is a specific acronym. Also capitalize 'LLM' as it's an acronym.
+- 2026-06-05 11:19 — Use present perfect or past tense for completed actions; 'failed with exit code' is the standard phrasing in dev contexts.
