@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["Change the design: YOLO should run on the RK1828"]
-=======
-["translate into chinese", "上面有多少处理器, 都负责什么", "3576上小的NPU是做什么的", "所以从设计上讲, ASR TTS YOLO这些应该放在3576上?"]
->>>>>>> Stashed changes
+["Revert the code, YOLO AND TTS both must run on the RK1828"]
