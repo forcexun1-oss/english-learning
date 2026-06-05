@@ -731,3 +731,4 @@
 - 2026-06-05 09:39 — Use 'LLM' (capitalized) and consider 'port' instead of 'port number' for brevity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:42 — Use 'on port [number]' instead of 'on [number] port' – the noun 'port' comes before the number.
