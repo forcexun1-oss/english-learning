@@ -778,3 +778,4 @@
 - 2026-06-05 11:37 — Use a period to separate two independent clauses instead of a comma.
 - 2026-06-05 11:40 — Remove the extra 'user' before the filename.
 - 2026-06-05 11:49 — Use 'mismatch' (noun) for inconsistency; 'mismatched' is an adjective.
+- 2026-06-05 13:43 — Capitalize language names (Chinese, not chinese).
