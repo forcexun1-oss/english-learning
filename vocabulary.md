@@ -735,3 +735,4 @@
 - 2026-06-05 09:42 — Use 'on port [number]' instead of 'on [number] port' – the noun 'port' comes before the number.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:44 — The possessive '的' indicates association; '是...的' means 'belongs to' or 'is for', so '8081 是 ASR的' translates to '8081 is for ASR' or '8081 belongs to ASR'.
