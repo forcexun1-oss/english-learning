@@ -790,3 +790,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-05 14:37 — Use 'from a design perspective' instead of '从设计上讲' to sound natural. Keep technical terms like ASR, TTS, YOLO unchanged.
