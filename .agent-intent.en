@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Does this include the LLM API?
+=======
+Background task 'Start perception-service and verify it's listening on 8765' failed with exit code 1.
+>>>>>>> Stashed changes
