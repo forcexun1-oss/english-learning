@@ -709,3 +709,4 @@
 - 2026-06-05 09:14 — Use a question mark at the end for direct questions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-05 09:16 — Use 'point to' instead of 'to' after 'configure the URL' for clarity.
