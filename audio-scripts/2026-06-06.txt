@@ -1,0 +1,9 @@
+English Learning for June 6, 2026.
+
+Today's session shifted from board deployment to network proxy debugging on macOS. You pasted a Clash Meta config file and asked why traffic kept rising even when you thought the proxy was off. You wanted only Claude Code routed through the proxy while everything else stayed direct.
+
+Here are some useful terms. Proxy traffic means network requests forwarded through an intermediary, here Clash on port 7890. Rule mode means Clash routes each domain by its rules list. Fake IP or enhanced mode is DNS handling that can make apps behave as if a proxy is active even when you expect a direct path. Bypass lists hosts that should skip the proxy. Established means an active TCP connection. The command lsof on port 7890 showed Cursor and ChatGPT already talking to localhost 7890.
+
+When debugging proxies with a coding agent, paste the config file and state the symptom clearly. Ask a narrow routing question, for example, if I only need Claude Code to use the proxy, what rules should I add. Pair Chinese questions with one English sentence so the agent can quote your exact goal. Use commands as evidence because they prove which processes hold connections, which matters more than whether the menu bar says proxy off.
+
+For practice today, write two or three sentences asking an agent to review your Clash Meta config, explain why Cursor still connects to port 7890 after proxy off, and suggest rules so only Claude Code uses the proxy while all other traffic stays direct.
