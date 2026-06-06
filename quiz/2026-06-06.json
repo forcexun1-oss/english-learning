@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T15:02:17.369Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling and grammar in: \"is qize enable?\"",
+      "options": [
+        "A. Is quiz enable?",
+        "B. Is the quiz enabled?",
+        "C. Is qize enabled?",
+        "D. Are the quiz enable?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spell \"quiz\" correctly. Use \"Is the quiz enabled?\" — singular subject with past participle \"enabled\" for a feature flag."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the correct imperative form of: \"dont generate the audio from original markdown files\"?",
+      "options": [
+        "A. Don't generate the audio from the original markdown files.",
+        "B. Dont generate the audio from original markdown files",
+        "C. Do not generates audio from original markdown file",
+        "D. Not generate the audio using original markdown files"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use the contraction \"Don't\" with an apostrophe. Add \"the\" before \"original markdown files\" and end with a period."
+    },
+    {
+      "type": "mc",
+      "question": "In the Clash Meta config, what does the rule `- MATCH,DIRECT` mean?",
+      "options": [
+        "A. All traffic must go through a proxy",
+        "B. Only Chinese traffic goes direct",
+        "C. Traffic that matches no earlier rule is routed directly",
+        "D. The proxy is disabled entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "MATCH is the catch-all rule. With DIRECT as the target, any request not matched by earlier rules bypasses the proxy."
+    },
+    {
+      "type": "mc",
+      "question": "From `lsof -i :7890`, Cursor and ChatGPT show `localhost:xxxxx->localhost:7890 (ESTABLISHED)`. What does this indicate?",
+      "options": [
+        "A. Port 7890 is closed and unreachable",
+        "B. Only the system kernel is using port 7890",
+        "C. The proxy process crashed and left orphan sockets",
+        "D. Those apps have active connections to a local proxy on port 7890"
+      ],
+      "correctIndex": 3,
+      "explanation": "ESTABLISHED TCP connections to localhost:7890 mean those applications are actively using the local proxy, even if you thought it was off."
+    },
+    {
+      "type": "mc",
+      "question": "Why did `afplay` fail with `AudioFileOpen failed ('wht?')` while `ffplay` played the same `.aiff` file?",
+      "options": [
+        "A. ffplay only supports MP3, not AIFF",
+        "B. The file was corrupted and ffplay ignored the error",
+        "C. afplay could not read the file (wrong path, format, or permissions); ffplay handled it successfully",
+        "D. afplay requires sudo on macOS"
+      ],
+      "correctIndex": 2,
+      "explanation": "The error code 'wht?' means afplay could not open the file — often a bad path (/tmp vs ~/Downloads) or format issue. ffplay read the same file without trouble."
+    },
+    {
+      "type": "mc",
+      "question": "What does setting `ENGLISH_AUDIO_SPEED` to `0.75` do?",
+      "options": [
+        "A. Increases playback volume by 25%",
+        "B. Converts audio from AIFF to MP3",
+        "C. Skips generating audio for markdown files",
+        "D. Slows TTS speech to 75% of the normal rate"
+      ],
+      "correctIndex": 3,
+      "explanation": "A speed of 0.75 means 75% of normal pace — slower speech, matching the request 语速慢一点 (speak a bit slower)."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"为什么感觉我最近的代理的流量,异常增加呢, 我都没有开代理, 但是流量在跑\"",
+      "modelAnswer": "Why does it feel like my proxy traffic has increased unusually? I haven't turned the proxy on, but data is still flowing.",
+      "explanation": "Use \"proxy traffic\" for 代理的流量. \"Haven't turned the proxy on\" is more natural than a literal \"I didn't open proxy.\""
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"如果我只需要 Claude Code 走代理, 其他不走代理, 应该怎么加\"",
+      "modelAnswer": "If I only want Claude Code to use the proxy and everything else to go direct, how should I configure that?",
+      "explanation": "\"Go direct\" is standard proxy terminology. Name the app (Claude Code) and ask how to configure the rule."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English: \"本地生成英文的音频是谁的定时任务\"",
+      "modelAnswer": "Which scheduled task generates the English audio locally?",
+      "explanation": "\"Scheduled task\" maps 定时任务. \"Generates the English audio locally\" captures 本地生成英文的音频 in a cron/launchd context."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical instruction: \"So, the quiz task is incorrect, fix it\"",
+      "modelAnswer": "The quiz generation task is incorrect — please fix it.",
+      "explanation": "Replace vague \"So\" with a direct statement. Specify \"quiz generation task\" so the fix target is unambiguous in an automation context."
+    }
+  ]
+}
