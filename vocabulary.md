@@ -1000,3 +1000,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-06 22:09 — Use 'do not' or the contraction 'don't' instead of 'dont'.

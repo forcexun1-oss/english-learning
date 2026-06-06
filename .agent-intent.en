@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Slow down the speech rate a bit.
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Do not generate the audio from the original markdown files.
