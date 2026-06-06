@@ -6,36 +6,36 @@
       "type": "mc",
       "question": "Which correction fixes the spelling in: \"deloy yolo and run tests\"?",
       "options": [
-        "A. deloy yolo and run tests",
-        "B. Deploy YOLO and run tests.",
-        "C. deployment yolo and run tests",
+        "A. deployment yolo and run tests",
+        "B. deloy yolo and run tests",
+        "C. Deploy YOLO and run tests.",
         "D. Deploys yolo and run the tests"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "The verb is \"deploy\" (not \"deloy\"). Capitalize YOLO as a product name and end the command with a period."
     },
     {
       "type": "mc",
       "question": "Which fixes: \"I8 has beed deployed in the ~/project/rockchip\"?",
       "options": [
-        "A. I8 has beed deployed in the ~/project/rockchip",
-        "B. I8 has been deployed in ~/project/rockchip.",
-        "C. I8 have been deployed in the ~/project/rockchip",
-        "D. I8 was been deployed in ~/project/rockchip"
+        "A. I8 has been deployed in ~/project/rockchip.",
+        "B. I8 was been deployed in ~/project/rockchip",
+        "C. I8 has beed deployed in the ~/project/rockchip",
+        "D. I8 have been deployed in the ~/project/rockchip"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Past participle is \"been\" (not \"beed\"). Drop \"the\" before a home-directory path; capitalize I8."
     },
     {
       "type": "mc",
       "question": "Which fixes: \"Swich I8 to fp16\"?",
       "options": [
-        "A. Swich I8 to fp16",
-        "B. Switch I8 to FP16.",
-        "C. Switching I8 to the fp16",
-        "D. Switch I8 into fp16 model"
+        "A. Switch I8 into fp16 model",
+        "B. Switching I8 to the fp16",
+        "C. Swich I8 to fp16",
+        "D. Switch I8 to FP16."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Spell \"Switch\" correctly. FP16 is a standard precision label and is usually written in uppercase."
     },
     {
@@ -54,24 +54,24 @@
       "type": "mc",
       "question": "Which fixes: \"I reboot it, check if the changes for ASR break the LLM service?\"",
       "options": [
-        "A. I reboot it, check if the changes for ASR break the LLM service?",
-        "B. I rebooted it; check whether the ASR changes broke the LLM service.",
-        "C. I rebooted it, check if the changes for ASR break the LLM?",
+        "A. I rebooted it, check if the changes for ASR break the LLM?",
+        "B. I reboot it, check if the changes for ASR break the LLM service?",
+        "C. I rebooted it; check whether the ASR changes broke the LLM service.",
         "D. I reboot, checking if ASR changes breaks LLM service"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Use past tense \"rebooted\" for a completed action. \"Whether\" fits a yes/no check; a semicolon separates two related instructions."
     },
     {
       "type": "mc",
       "question": "In today's session, what does \"test passed\" mean when verifying an LLM over HTTP?",
       "options": [
-        "A. The HTTP request returned any 200 response",
-        "B. The server process started without crashing",
-        "C. The response content is correct, not just that the request succeeded",
-        "D. The port is open and accepting connections"
+        "A. The response content is correct, not just that the request succeeded",
+        "B. The port is open and accepting connections",
+        "C. The server process started without crashing",
+        "D. The HTTP request returned any 200 response"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "From the log: \"Test passed\" means the result is correct, not merely that the request went through."
     },
     {

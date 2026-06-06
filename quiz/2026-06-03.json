@@ -6,24 +6,24 @@
       "type": "mc",
       "question": "Which correction fixes: \"Keep ASR imdependent of OMNI\"?",
       "options": [
-        "A. Keep ASR imdependent of OMNI",
-        "B. Keep ASR independent of OMNI",
-        "C. Keep ASR independant of OMNI",
-        "D. Keep ASR independed of OMNI"
+        "A. Keep ASR independant of OMNI",
+        "B. Keep ASR independed of OMNI",
+        "C. Keep ASR independent of OMNI",
+        "D. Keep ASR imdependent of OMNI"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "The correct spelling is \"independent\" (not \"imdependent\" or \"independant\")."
     },
     {
       "type": "mc",
       "question": "Which fixes: \"but can they deloy in one http server?\"",
       "options": [
-        "A. but can they deloy in one http server?",
-        "B. but can they deploy on one HTTP server?",
-        "C. but can they deploys in one http server?",
+        "A. but can they deploy on one HTTP server?",
+        "B. but can they deploys in one http server?",
+        "C. but can they deloy in one http server?",
         "D. but can they deployment in one http server?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Use the verb \"deploy\"; \"on one HTTP server\" is clearer than \"in\" for a listening service."
     },
     {
@@ -31,21 +31,21 @@
       "question": "Which best fixes: \"the llm request is forward to the cloud server\"?",
       "options": [
         "A. the llm request is forward to the cloud server",
-        "B. the LLM request is forwarded to the cloud server",
+        "B. the LLM request forwarding to the cloud server",
         "C. the LLM request are forwarded to the cloud server",
-        "D. the LLM request forwarding to the cloud server"
+        "D. the LLM request is forwarded to the cloud server"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Passive voice needs \"is forwarded\"; capitalize the acronym LLM."
     },
     {
       "type": "mc",
       "question": "Which fixes: \"Do they aotu-start with system?\"",
       "options": [
-        "A. Do they aotu-start with system?",
+        "A. Does they auto-start with system?",
         "B. Do they auto-start with the system?",
-        "C. Do they auto start with the system?",
-        "D. Does they auto-start with system?"
+        "C. Do they aotu-start with system?",
+        "D. Do they auto start with the system?"
       ],
       "correctIndex": 1,
       "explanation": "Hyphenate \"auto-start\" as a verb; use \"the system\" and plural \"Do they\" for multiple services."
@@ -54,24 +54,24 @@
       "type": "mc",
       "question": "Which fixes: \"What will be deploymented on the rockchip board?\"",
       "options": [
-        "A. What will be deploymented on the rockchip board?",
-        "B. What will be deployed on the Rockchip board?",
-        "C. What will be deploying on the Rockchip board?",
-        "D. What will deployment on the rockchip board?"
+        "A. What will deployment on the rockchip board?",
+        "B. What will be deploying on the Rockchip board?",
+        "C. What will be deployed on the Rockchip board?",
+        "D. What will be deploymented on the rockchip board?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Use past participle \"deployed\" (not \"deploymented\"); capitalize the product name Rockchip."
     },
     {
       "type": "mc",
       "question": "Which best fixes the redundant wording: \"is the input image size is fixed 640x640?\"",
       "options": [
-        "A. is the input image size is fixed 640x640?",
-        "B. Is the input image size fixed at 640×640?",
-        "C. Is the input image sizes fixed 640x640?",
-        "D. Does the input image size is fixed 640x640?"
+        "A. Is the input image size fixed at 640×640?",
+        "B. Is the input image sizes fixed 640x640?",
+        "C. Does the input image size is fixed 640x640?",
+        "D. is the input image size is fixed 640x640?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Remove the duplicate \"is\"; use \"fixed at\" for a resolution constraint."
     },
     {

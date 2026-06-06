@@ -7,44 +7,44 @@
       "question": "Which correction fixes: \"It work on 80 port, test port 8765\"?",
       "options": [
         "A. It work on 80 port, test port 8765",
-        "B. It works on port 80; test port 8765",
-        "C. It working on port 80, test port 8765",
+        "B. It working on port 80, test port 8765",
+        "C. It works on port 80; test port 8765",
         "D. It works on the 80 port, test the 8765 port"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Third-person singular needs \"works\"; say \"on port 80\" (not \"on 80 port\"). A semicolon separates two related commands."
     },
     {
       "type": "mc",
       "question": "Which best fixes: \"are they did not started or crashed?\"",
       "options": [
-        "A. are they did not started or crashed?",
-        "B. Did they not start, or did they crash?",
+        "A. Did they not start, or did they crash?",
+        "B. are they did not started or crashed?",
         "C. Are they did not start or crashed?",
         "D. Did they not started or was crashed?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Use a clean question form: \"Did they not start\" (base verb after \"did\") and parallel \"did they crash\"."
     },
     {
       "type": "mc",
       "question": "Which correction fixes: \"write a API integration document\"?",
       "options": [
-        "A. write a API integration document",
-        "B. write an API integration document",
+        "A. writing API integration document",
+        "B. write a API integration document",
         "C. write the API integration document an",
-        "D. writing API integration document"
+        "D. write an API integration document"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Use \"an\" before a vowel sound; \"API\" is pronounced /eɪ-piː-aɪ/, so \"an API\" is correct."
     },
     {
       "type": "mc",
       "question": "Which fixes the spelling in: \"How can I deloy qwen-asr on the rockchip board\"?",
       "options": [
-        "A. How can I deloy qwen-asr on the rockchip board",
+        "A. How can I deployment qwen-asr on the rockchip board",
         "B. How can I deploy Qwen-ASR on the Rockchip board?",
-        "C. How can I deployment qwen-asr on the rockchip board",
+        "C. How can I deloy qwen-asr on the rockchip board",
         "D. How can I deploys qwen-asr on the Rockchip board"
       ],
       "correctIndex": 1,
@@ -54,24 +54,24 @@
       "type": "mc",
       "question": "Which fixes: \"are there defaut values for new parameters?\"",
       "options": [
-        "A. are there defaut values for new parameters?",
-        "B. Are there default values for the new parameters?",
-        "C. Are there defolt values for new parameters?",
-        "D. Is there default value for new parameters?"
+        "A. Is there default value for new parameters?",
+        "B. Are there defolt values for new parameters?",
+        "C. Are there default values for the new parameters?",
+        "D. are there defaut values for new parameters?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Spell \"default\" correctly; capitalize the sentence and use \"the new parameters\" when referring to specific API fields."
     },
     {
       "type": "mc",
       "question": "Which is the most natural way to ask whether a port is reachable on a device?",
       "options": [
-        "A. check if the 8765 port is open on the phone?",
-        "B. Check whether port 8765 is open on the phone.",
+        "A. Check whether port 8765 is open on the phone.",
+        "B. Is the 8765 port opening on the phone?",
         "C. Check if port open 8765 on phone.",
-        "D. Is the 8765 port opening on the phone?"
+        "D. check if the 8765 port is open on the phone?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Put the port number after \"port\" (\"port 8765\"); use \"whether\" for yes/no checks and capitalize the sentence."
     },
     {
