@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The local Mac-assistant project already has TTS algorithms. Check which one produces better English audio and replace the current solution.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
