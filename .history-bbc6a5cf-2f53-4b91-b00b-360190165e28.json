@@ -1,1 +1,1 @@
-["本地生成英文的音频是谁的定时任务", "本地Mac-assistant项目已经有 tts的算法了, 看看哪个的英文效果更好, 替换当前的方案", "❯ afplay /tmp/english-tts-comparison/samantha.aiff\n\nError: AudioFileOpen failed ('wht?')"]
+["本地生成英文的音频是谁的定时任务", "本地Mac-assistant项目已经有 tts的算法了, 看看哪个的英文效果更好, 替换当前的方案", "❯ afplay /tmp/english-tts-comparison/samantha.aiff\n\nError: AudioFileOpen failed ('wht?')", "语速慢一点"]
