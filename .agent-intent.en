@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Don't generate the audio from the original markdown files.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
 =======
 So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
 >>>>>>> Stashed changes
