@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Keep LLM as is. However, the name 'perception-service' is not appropriate because it includes TTS, which is an action, and it should also provide other middleware services.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
