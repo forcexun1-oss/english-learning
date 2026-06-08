@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 The output of `adb shell "rknn-smi info -t net 2>&1"` is:
   ⎿    Device ID                     : 0
        Chip Count                    : 1
@@ -7,3 +8,6 @@ The output of `adb shell "rknn-smi info -t net 2>&1"` is:
          Gateway                       : NA
          Net Mask                      : NA
          MAC                           : NA
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
