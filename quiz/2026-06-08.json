@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T15:01:38.619Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling in: \"check what comsumed so much traffic going through proxy?\"",
+      "options": [
+        "A. Check what consumed so much traffic going through the proxy?",
+        "B. Check what comsumed so much traffic going through proxy?",
+        "C. Check what consumed so much traffic go through proxy?",
+        "D. Check what is comsuming so much traffic through the proxy?"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Consumed\" is the correct past participle of \"consume.\" Add \"the\" before \"proxy\" for natural phrasing."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"Did the TTS deploy on the rockchip board\"?",
+      "options": [
+        "A. Did the TTS deploy on the Rockchip board?",
+        "B. Was TTS deployed on the Rockchip board?",
+        "C. Does TTS deployed on the rockchip board?",
+        "D. Has the TTS deploy on the Rockchip board?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use passive voice: \"Was TTS deployed…\" Capitalize \"Rockchip\" as a proper noun."
+    },
+    {
+      "type": "mc",
+      "question": "In \"should we refactor it? cause it should provide all middleware servcies\", what two fixes are needed?",
+      "options": [
+        "A. Replace \"cause\" with \"because\" and \"servcies\" with \"services\"",
+        "B. Replace \"cause\" with \"cuz\" and keep \"servcies\"",
+        "C. Replace \"refactor\" with \"re-factor\" and \"servcies\" with \"service\"",
+        "D. No changes needed; both words are correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "In formal writing use \"because\" instead of \"cause.\" \"Servcies\" is a misspelling of \"services.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling in: \"search online for RKNN2 convertion tools\"?",
+      "options": [
+        "A. Search online for RKNN2 conversion tools.",
+        "B. Search online for RKNN2 convertion tools.",
+        "C. Search online for RKNN2 converting tools.",
+        "D. Search online for RKNN2 convert tools."
+      ],
+      "correctIndex": 0,
+      "explanation": "The noun form is \"conversion,\" not \"convertion.\" Capitalize the first word when it starts a sentence."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes the error in: \"check if they are the write files?\"",
+      "options": [
+        "A. Check if they are the right files.",
+        "B. Check if they are the write files.",
+        "C. Check if they are the wright files.",
+        "D. Check if they is the right files."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Right\" means correct; \"write\" is a verb meaning to compose text. This was tagged [ERR] in today's log."
+    },
+    {
+      "type": "mc",
+      "question": "Why was \"perception-service\" renamed to \"middleware-service\" in the edgeAgent project?",
+      "options": [
+        "A. The service only handled computer vision, not audio",
+        "B. The name was misleading because the service also provides TTS and other middleware functions",
+        "C. Rockchip boards require binaries to be named \"middleware\"",
+        "D. The HTTP server was replaced with a gRPC server"
+      ],
+      "correctIndex": 1,
+      "explanation": "Today's log notes that \"perception-service\" was inappropriate because it includes TTS (an action) and should provide broader middleware services."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a natural technical question: \"Does the board have one Soc or two SoC? Does one SoC have two chips?\"",
+      "modelAnswer": "Does the board have one SoC or two SoCs? Does a single SoC contain two chips?",
+      "explanation": "Capitalize \"SoC\" consistently. Use \"contain\" or \"include\" for chip layout. Pluralize \"SoCs\" when referring to two."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical question: \"What is crates in rust?\"",
+      "modelAnswer": "What are crates in Rust?",
+      "explanation": "\"Crates\" is plural, so use \"are\" not \"is.\" Capitalize \"Rust\" as a proper noun for the programming language."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural technical English the intent behind: \"查一下代理走了多少流量\" (in the spirit of today's proxy-traffic debugging).",
+      "modelAnswer": "Check how much traffic is going through the proxy.",
+      "explanation": "This matches the debugging context from the log. \"Going through the proxy\" is the standard phrasing for proxy bandwidth investigation."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a professional question: \"Is there any risk of breaking anything?\"",
+      "modelAnswer": "Is there any risk of breaking something?",
+      "explanation": "\"Anything\" in a negative question often sounds informal. \"Breaking something\" or \"causing any issues\" is clearer in a technical review context."
+    }
+  ]
+}
