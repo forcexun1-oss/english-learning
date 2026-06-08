@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I want to download the firmware for ASR V1.0.4. Which file should I download?
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
