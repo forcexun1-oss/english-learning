@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Option 1, but does the edge-agent call the TTS API via HTTP or directly?
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
