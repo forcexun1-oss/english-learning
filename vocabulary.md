@@ -1220,3 +1220,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-08 16:19 — Use 'Option 1' instead of just '1' for clarity.
