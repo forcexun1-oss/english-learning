@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What about the 3576?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Does the board have one SoC or two? Does a single SoC have two chips?
