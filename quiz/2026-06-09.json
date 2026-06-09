@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T15:00:53.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling in: \"can you help me genrate a article about this bug?\"",
+      "options": [
+        "A. Can you help me generate an article about this bug?",
+        "B. Can you help me genrate a article about this bug?",
+        "C. Can you help me generate a article about this bug?",
+        "D. Can you help me genarate an article about this bug?"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Generate\" is the correct spelling. Use \"an\" before a vowel sound: \"an article.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes both errors in: \"could you genrate a weekly summery for me\"?",
+      "options": [
+        "A. Could you generate a weekly summary for me?",
+        "B. Could you genrate a weekly summary for me?",
+        "C. Could you generate a weekly summery for me?",
+        "D. Could you genarate a weekly summery for me?"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Generate\" replaces \"genrate.\" \"Summary\" is the noun; \"summery\" means warm or sunny weather."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"check if the FTP traffic go through proxy right now?\"",
+      "options": [
+        "A. Check if the FTP traffic goes through the proxy right now.",
+        "B. Check if the FTP traffic go through proxy right now?",
+        "C. Check if the FTP traffic is go through the proxy right now?",
+        "D. Check if the FTP traffic going through proxy right now?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Third-person singular \"traffic\" takes \"goes.\" Add \"the\" before \"proxy\" for natural phrasing."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"I'v reboot it\"?",
+      "options": [
+        "A. I've rebooted it.",
+        "B. I'v reboot it.",
+        "C. I've reboot it.",
+        "D. I have reboot it."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use the contraction \"I've\" (I have) with the past participle \"rebooted,\" not the base form \"reboot.\""
+    },
+    {
+      "type": "mc",
+      "question": "In \"add all the flowing env variables,\" which word should replace \"flowing\"?",
+      "options": [
+        "A. following",
+        "B. flowing",
+        "C. flown",
+        "D. flow"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Following\" means \"the ones listed next.\" \"Flowing\" describes movement, not sequence."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"Do you need any thing to resolve the problem\"?",
+      "options": [
+        "A. Do you need anything to resolve the problem?",
+        "B. Do you need any thing to resolve the problem?",
+        "C. Do you need anythings to resolve the problem?",
+        "D. Do you need any things to resolve the problem?"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Anything\" is one word when used as a pronoun meaning \"any item at all.\""
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"我需要重启吗\"",
+      "modelAnswer": "Do I need to restart?",
+      "explanation": "This was tagged [ZH] in today's log during Codex CLI proxy troubleshooting."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical request: \"I have restat the codex CLI. test now\"",
+      "modelAnswer": "I have restarted the Codex CLI. Please test it now.",
+      "explanation": "Fix \"restat\" → \"restarted.\" Capitalize \"Codex\" as a product name. Add \"Please\" and \"it\" for a complete request."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a natural technical question: \"i has a problm with this commnd\"",
+      "modelAnswer": "I have a problem with this command.",
+      "explanation": "Capitalize \"I.\" Use \"have\" with first person, not \"has.\" Fix \"problm\" → \"problem\" and \"commnd\" → \"command.\""
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a professional technical question: \"verify what traffic has been going through the proxy over the past few days?\"",
+      "modelAnswer": "Can you verify what traffic has been going through the proxy over the past few days?",
+      "explanation": "Turn the fragment into a complete question with a subject and modal verb. This matches today's proxy-debugging context."
+    }
+  ]
+}
