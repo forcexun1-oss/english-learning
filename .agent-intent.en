@@ -1,1 +1,7 @@
-Will OMC make a plan and then use subagent to execute tasks?
+Open a terminal and add all the following environment variables:
+export HTTP_PROXY=http://127.0.0.1:7890
+export HTTPS_PROXY=http://127.0.0.1:7890
+export ALL_PROXY=http://127.0.0.1:7890
+export WS_PROXY=http://127.0.0.1:7890
+export WSS_PROXY=http://127.0.0.1:7890
+export NO_PROXY=localhost,127.0.0.1,*.local

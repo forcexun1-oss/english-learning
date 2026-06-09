@@ -1376,3 +1376,4 @@
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
 - 2026-06-09 21:36 — Omit 'the' before tool names like 'OMC'.
+- 2026-06-09 21:53 — "flowing" should be "following" (common typo). Also, "open 1" is ambiguous; I assumed you meant "open a terminal" — if you meant a specific file, specify it.
