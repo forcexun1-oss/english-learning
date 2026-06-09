@@ -1362,3 +1362,4 @@
 - 2026-06-09 17:52 — Use "I have" (not "I has") and check spelling of "problem" and "command".
 - 2026-06-09 17:54 — Use 'Do I need to...' instead of directly saying 'I need to...' to form a question naturally.
 - 2026-06-09 17:55 — 'tst' is a typo for 'test'. In developer chat, 'test' is the standard form.
+- 2026-06-09 18:30 — Use 'includes' instead of 'include' when referring to a singular file.
