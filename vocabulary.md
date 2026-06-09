@@ -1353,3 +1353,4 @@
 - 2026-06-09 17:37 — Use 'Does this look right?' instead of 'this way?' for a natural, direct question.
 - 2026-06-09 17:40 — ‘whihout’ is a typo for ‘without’.
 - 2026-06-09 17:44 — Use 'both' to clarify you want two items, and 'messages' for clarity.
+- 2026-06-09 17:44 — Correct spelling: 'generate' not 'genrate', 'summary' not 'summery'.
