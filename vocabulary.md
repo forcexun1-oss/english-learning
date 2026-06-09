@@ -1280,3 +1280,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-09 10:09 — Use 'check' instead of 'verify' for informal commands, and omit the question mark for imperative sentences.

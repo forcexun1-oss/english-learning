@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check if FTP traffic is going through the proxy right now?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Check what traffic has been going through the proxy over the past few days.
