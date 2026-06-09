@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Summarize the work done and progress so far in a doc.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
