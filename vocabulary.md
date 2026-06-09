@@ -1386,3 +1386,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-09 22:22 — Use 'if' for conditionals instead of 'when' to make the condition clearer, and 'output nothing' is more natural than 'there is no coach'.
