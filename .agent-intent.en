@@ -1,1 +1,6 @@
-Will the current approach affect the quality of your answer?
+If you want live visibility and corrected-only forwarding, the cleanest approach is:
+
+  - Forward only the corrected sentence to Codex
+  - Separately print or surface the coach message to you, without feeding it to the model
+
+Codex’s native hook path may limit how nicely that can be shown inline, but the data can definitely still be preserved. Does this look right?

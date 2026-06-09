@@ -1350,3 +1350,4 @@
 >>>>>>> Stashed changes
 - 2026-06-09 17:21 — Use 'corrected' instead of 'correct' when referring to the version after editing.
 - 2026-06-09 17:33 — Remove the space before the question mark.
+- 2026-06-09 17:37 — Use 'Does this look right?' instead of 'this way?' for a natural, direct question.
