@@ -1368,3 +1368,4 @@
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
 - 2026-06-09 19:16 — Use 'ask someone to' instead of 'let somebody to' — 'let' doesn't take 'to' + infinitive.
+- 2026-06-09 21:18 — Capitalize proper nouns like tool names (Oh My Codex, Superpower).
