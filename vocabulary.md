@@ -1369,3 +1369,4 @@
 >>>>>>> Stashed changes
 - 2026-06-09 19:16 — Use 'ask someone to' instead of 'let somebody to' — 'let' doesn't take 'to' + infinitive.
 - 2026-06-09 21:18 — Capitalize proper nouns like tool names (Oh My Codex, Superpower).
+- 2026-06-09 21:26 — Adding "tasks" makes the question more specific and natural in a software engineering context.
