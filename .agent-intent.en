@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Option 1: add all the following env variables:
 export HTTP_PROXY=http://127.0.0.1:7890
 export HTTPS_PROXY=http://127.0.0.1:7890
@@ -5,3 +6,6 @@ export ALL_PROXY=http://127.0.0.1:7890
 export WS_PROXY=http://127.0.0.1:7890
 export WSS_PROXY=http://127.0.0.1:7890
 export NO_PROXY=localhost,127.0.0.1,*.local
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
