@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 If we upgrade to v1.0.4 of this (see image), would it resolve all the issues?
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
