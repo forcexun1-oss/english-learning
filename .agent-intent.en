@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How do I fix this issue in Codex CLI: '⚠ Falling back from WebSockets to HTTPS transport. Request timed out.'
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Do you only send the corrected sentence to the agent?
