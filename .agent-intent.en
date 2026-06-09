@@ -1,1 +1,4 @@
-What about other routine development tasks?
+How do I only set the following environment variables for Codex?
+
+export WS_PROXY=http://127.0.0.1:7890
+export WSS_PROXY=http://127.0.0.1:7890
