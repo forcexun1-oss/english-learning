@@ -1411,3 +1411,4 @@
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
 - 2026-06-10 10:50 — "重启完了" uses 完了 to mean 'finished/completed'. In English, use 'The reboot is complete' or 'The reboot finished'.
+- 2026-06-10 10:59 — For archives, you can also say 'Does it contain what we need?' instead of 'Is it in there?' — 'contain' is more precise for file contents.
