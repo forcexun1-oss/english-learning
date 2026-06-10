@@ -908,6 +908,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
@@ -1400,3 +1401,6 @@
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
 - 2026-06-10 10:33 — Use 'which' when choosing from a limited set of options, and 'what' for open-ended questions.
+=======
+- 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
+>>>>>>> Stashed changes
