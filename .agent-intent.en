@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Read https://github.com/invisiofficial/rk-llama.cpp/blob/rknpu2/ggml/src/ggml-rknpu2/README.md — it seems to support Qwen3.5.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
