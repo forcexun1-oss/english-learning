@@ -1427,3 +1427,4 @@
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
 - 2026-06-10 11:41 — Use 'having' or 'to have' after 'the key is' to express necessity. 'Having' sounds more natural in spoken English.
+- 2026-06-10 11:42 — "有价值吗" can be translated as "is it valuable?" but "worth looking into" or "worthwhile" sounds more natural in this context.
