@@ -916,6 +916,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
@@ -1455,3 +1456,6 @@
 - 2026-06-10 13:26 — In technical contexts, '复现' is commonly translated as 'reproduce' (verb) or 'reproduction' (noun). Here '要复现' means 'needs to reproduce'.
 - 2026-06-10 13:28 — "所以" (suǒyǐ) means 'so/therefore'. You likely meant '所有' (suǒyǒu) meaning 'all'.
 - 2026-06-10 13:30 — Use 'reproduce' for '复现' in technical contexts. Also, '对方' can be translated as 'the other party' or simply 'them' for a more natural tone.
+=======
+- 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
+>>>>>>> Stashed changes

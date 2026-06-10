@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Provide our operations document to the other party. They want to reproduce the process to determine why the pcie_upgrade_tool tool is needed.
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
