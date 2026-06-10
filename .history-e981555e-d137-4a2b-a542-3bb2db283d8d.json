@@ -128,7 +128,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["只管瑞芯微的perception-service这条链路"]
+=======
+["translate into chinese", "上面有多少处理器, 都负责什么", "3576上小的NPU是做什么的", "所以从设计上讲, ASR TTS YOLO这些应该放在3576上?"]
+>>>>>>> Stashed changes
 =======
 ["translate into chinese", "上面有多少处理器, 都负责什么", "3576上小的NPU是做什么的", "所以从设计上讲, ASR TTS YOLO这些应该放在3576上?"]
 >>>>>>> Stashed changes
