@@ -1421,3 +1421,4 @@
 - 2026-06-10 11:37 — Add 'the' before specific folder or file names.
 - 2026-06-10 11:38 — Use 'Is there any' for uncountable nouns like 'information'.
 - 2026-06-10 11:38 — Use 'Let's + verb' for suggestions (e.g., 'Let's expand') instead of the imperative 'Expand' to sound more collaborative.
+- 2026-06-10 11:39 — Use 'any risks' instead of 'a risk' for general uncertainty. 'Probability' is formal; 'chance' is also common.
