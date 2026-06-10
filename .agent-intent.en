@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Translate it into Chinese, and then the code modification part is not needed, right? That's irrelevant to why pcie_upgrade_tool is needed.
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Write it into a document.

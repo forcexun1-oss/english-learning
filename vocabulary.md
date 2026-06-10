@@ -1464,3 +1464,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-10 13:33 — "写...到...中" translates to 'write into'. You can also say 'Put it in a document.'
