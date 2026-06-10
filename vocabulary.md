@@ -1507,3 +1507,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-10 17:07 — Use past tense 'was connected' instead of present 'is connected' when referring to a previous connection.
