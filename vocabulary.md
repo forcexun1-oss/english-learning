@@ -912,6 +912,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
@@ -1431,3 +1432,6 @@
 - 2026-06-10 11:44 — Use 'request' or 'ask for' instead of just '要' to sound more polite and precise in English.
 - 2026-06-10 11:45 — “压缩”在文件上下文中常用“compress”或“zip”，这里用“compress”更通用。
 - 2026-06-10 11:53 — Use 'it' for inanimate objects like the board, not 'he'.
+=======
+- 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
+>>>>>>> Stashed changes
