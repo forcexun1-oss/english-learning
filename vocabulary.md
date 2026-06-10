@@ -1435,3 +1435,4 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+- 2026-06-10 11:53 — Use 'turn off the power' instead of 'close the power'. The '了' indicates a completed action, so use present perfect ('have turned off') in English.
