@@ -1556,3 +1556,4 @@
 =======
 - 2026-06-10 20:28 — Use 'initialization' instead of 'init' as a noun. 'Init' is fine as a verb (e.g., 'to init'), but as a noun it's better spelled out.
 >>>>>>> Stashed changes
+- 2026-06-10 21:25 — In Chinese, '用的' can be expanded to '使用的是' for clarity. In English, use 'am I using...or...' for alternative questions.
