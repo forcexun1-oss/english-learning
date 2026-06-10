@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Error loading config.toml: --profile `chatgpt` conflicts with legacy config in /Users/youxun/.codex/config.toml (`profile = "chatgpt"` or `[profiles.chatgpt]`). Move those settings to /Users/youxun/.codex/chatgpt.config.toml and remove the legacy profile selector/table. See https://developers.openai.com/codex/config-advanced#profiles for more information.
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+Does this project need to be initialized?
