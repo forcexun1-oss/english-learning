@@ -1388,3 +1388,4 @@
 >>>>>>> Stashed changes
 - 2026-06-09 22:22 — Use 'if' for conditionals instead of 'when' to make the condition clearer, and 'output nothing' is more natural than 'there is no coach'.
 - 2026-06-10 09:00 — Use 'clone' or 'check out' instead of 'materialize' for creating a local copy of a repo.
+- 2026-06-10 09:09 — Use 'Search for X in Y' instead of 'search for it in the [URL]' to sound more natural. Also correct the typo 'allc' to 'all'.

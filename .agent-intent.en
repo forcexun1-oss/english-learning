@@ -1,1 +1,1 @@
-The next practical step is to clone the embedded RK3576 rknn-llm repo into a working tree and search for the flasher source or build target. Please go ahead with that.
+Search for it in the Rockchip Linux repositories: https://github.com/orgs/rockchip-linux/repositories?type=all
