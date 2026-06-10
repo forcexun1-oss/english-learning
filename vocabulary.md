@@ -1475,3 +1475,4 @@
 - 2026-06-10 14:06 — Use 'does' for yes/no questions about possession instead of 'is there'.
 - 2026-06-10 14:09 — In technical contexts, 'on GPU' (without 'the') sounds more idiomatic for hardware acceleration.
 - 2026-06-10 14:15 — The plural of 'latency' is 'latencies', not 'latencys'.
+- 2026-06-10 14:55 — "讲讲" can be translated as "explain" or "tell me about" for a more natural request.
