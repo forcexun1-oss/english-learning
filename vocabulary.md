@@ -919,6 +919,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
@@ -1476,3 +1477,6 @@
 - 2026-06-10 14:09 — In technical contexts, 'on GPU' (without 'the') sounds more idiomatic for hardware acceleration.
 - 2026-06-10 14:15 — The plural of 'latency' is 'latencies', not 'latencys'.
 - 2026-06-10 14:55 — "讲讲" can be translated as "explain" or "tell me about" for a more natural request.
+=======
+- 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
+>>>>>>> Stashed changes
