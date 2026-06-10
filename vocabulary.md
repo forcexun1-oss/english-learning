@@ -1390,3 +1390,4 @@
 - 2026-06-10 09:00 — Use 'clone' or 'check out' instead of 'materialize' for creating a local copy of a repo.
 - 2026-06-10 09:09 — Use 'Search for X in Y' instead of 'search for it in the [URL]' to sound more natural. Also correct the typo 'allc' to 'all'.
 - 2026-06-10 09:11 — "It seems like" is a bit formal. "Looks like" is more natural in casual developer chat.
+- 2026-06-10 09:36 — The comma after the filename is not needed in this imperative sentence.
