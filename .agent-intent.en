@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does this solution have any risks? What's the probability of success?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+So the key is still having the pcie_upgrade_tool?
