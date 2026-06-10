@@ -1551,4 +1551,8 @@
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-10 20:28 — Use 'initialized' instead of 'init' as a verb in formal writing.
+=======
+- 2026-06-10 20:28 — Use 'initialization' instead of 'init' as a noun. 'Init' is fine as a verb (e.g., 'to init'), but as a noun it's better spelled out.
+>>>>>>> Stashed changes
