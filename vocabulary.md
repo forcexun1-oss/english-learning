@@ -1474,3 +1474,4 @@
 - 2026-06-10 13:56 — Use "which" to introduce a relative clause describing the empty array, instead of repeating "that" after a comma.
 - 2026-06-10 14:06 — Use 'does' for yes/no questions about possession instead of 'is there'.
 - 2026-06-10 14:09 — In technical contexts, 'on GPU' (without 'the') sounds more idiomatic for hardware acceleration.
+- 2026-06-10 14:15 — The plural of 'latency' is 'latencies', not 'latencys'.
