@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T15:00:25.506Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the spelling in: \"complie and deploy on the xiaomi phone\"?",
+      "options": [
+        "A. Compile and deploy on the Xiaomi phone.",
+        "B. Complie and deploy on the xiaomi phone.",
+        "C. Compile and deploy on the xiaomi phone.",
+        "D. Comply and deploy on the Xiaomi phone."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Compile\" is the correct spelling for building code. Capitalize product names like \"Xiaomi.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"What were the request latencys?\"",
+      "options": [
+        "A. What were the request latencies?",
+        "B. What were the request latencys?",
+        "C. What was the request latencies?",
+        "D. What were the requests latency?"
+      ],
+      "correctIndex": 0,
+      "explanation": "The plural of \"latency\" is \"latencies.\" Use \"were\" because you are asking about multiple measurements."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Most of tests are not for the phone\"?",
+      "options": [
+        "A. Most of the tests are not for the phone.",
+        "B. Most of tests are not for the phone.",
+        "C. Most tests is not for the phone.",
+        "D. The most of tests are not for the phone."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use \"most of the\" before a specific noun group. \"Tests\" is plural, so use \"are.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"Can qwen3.5-9B be convert into RKNN format?\"",
+      "options": [
+        "A. Can Qwen3.5-9B be converted into RKNN format?",
+        "B. Can qwen3.5-9B be convert into RKNN format?",
+        "C. Can Qwen3.5-9B be convert to RKNN format?",
+        "D. Can qwen3.5-9B converted into RKNN format?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Passive voice needs \"be converted.\" Capitalize model names for clarity."
+    },
+    {
+      "type": "mc",
+      "question": "In \"materialize the embedded RK3576 rknn-llm repo into a working tree,\" what does \"materialize\" mean?",
+      "options": [
+        "A. Turn an abstract reference into an actual checkout on disk",
+        "B. Make the repository invisible to version control",
+        "C. Compress the repository into a smaller archive",
+        "D. Delete temporary build artifacts from the repo"
+      ],
+      "correctIndex": 0,
+      "explanation": "In dev workflows, \"materialize\" often means creating a real working copy from an embedded or referenced source."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural way to ask about combining separate steps?",
+      "options": [
+        "A. How do I merge them into a pipeline?",
+        "B. How do I merge them to pipeline?",
+        "C. How can I merge it in pipeline?",
+        "D. How to merge them on a pipeline?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use \"merge ... into a pipeline\" to describe integrating multiple hooks or steps into one workflow."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"你的修改有风险吗\"",
+      "modelAnswer": "Are your changes risky?",
+      "explanation": "This [ZH] line from today's log asks whether a proposed modification could cause problems."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"板子的风扇在响,可以重启板子吗\"",
+      "modelAnswer": "The board's fan is running loudly. Can I restart the board?",
+      "explanation": "Describe the symptom first, then ask permission to restart the hardware."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical question: \"I connected a xiaomi phone.Do we need to recompile or deploy directly.\"",
+      "modelAnswer": "I connected a Xiaomi phone. Do we need to recompile, or can we deploy directly?",
+      "explanation": "Add a space after the period, capitalize \"Xiaomi,\" and turn the statement into a direct question with parallel options."
+    },
+    {
+      "type": "free",
+      "question": "Translate into professional English: \"提供一下我们的操作文档给对方, 对方想要复现一下, 以确定为什么需要pcie_upgrade_tool这个工具\"",
+      "modelAnswer": "Please share our operation document with them. They want to reproduce the steps to understand why the pcie_upgrade_tool is needed.",
+      "explanation": "This [ZH] request is about handing off reproducible docs so another team can verify why a specific flashing tool is required."
+    }
+  ]
+}
