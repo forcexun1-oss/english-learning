@@ -1394,3 +1394,4 @@
 - 2026-06-10 09:53 — "Should we" is more direct and natural than "Do we need to" in this context.
 - 2026-06-10 10:02 — Use 'Is it included' instead of 'Could it be included' for a more direct question.
 - 2026-06-10 10:11 — "Check it out" is a more natural phrasal verb than "check it" alone.
+- 2026-06-10 10:32 — Use 'modifications' or 'changes' for code edits. 'Risky' is a natural adjective; 'have risk' sounds less natural.
