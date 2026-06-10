@@ -1454,3 +1454,4 @@
 - 2026-06-10 13:24 — Use the definite article 'the' before 'path' for specificity. Also, 'replace X with Y' is more idiomatic than 'change X to Y' in this context.
 - 2026-06-10 13:26 — In technical contexts, '复现' is commonly translated as 'reproduce' (verb) or 'reproduction' (noun). Here '要复现' means 'needs to reproduce'.
 - 2026-06-10 13:28 — "所以" (suǒyǐ) means 'so/therefore'. You likely meant '所有' (suǒyǒu) meaning 'all'.
+- 2026-06-10 13:30 — Use 'reproduce' for '复现' in technical contexts. Also, '对方' can be translated as 'the other party' or simply 'them' for a more natural tone.
