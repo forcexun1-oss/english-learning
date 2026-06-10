@@ -1,1 +1,1 @@
-What were the request latencies?
+- TTS POST /v1/tts/synthesize: 1296.2 ms" is too long. Can this run on the GPU?
