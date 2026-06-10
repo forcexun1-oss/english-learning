@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Can I turn off the power?
+=======
+So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
+>>>>>>> Stashed changes
