@@ -907,6 +907,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-05 14:36 — Use 'and such' or 'etc.' to translate '这些' after listing items, as it sounds more natural in English than 'these'.
 =======
 - 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
@@ -1395,3 +1396,6 @@
 - 2026-06-10 10:02 — Use 'Is it included' instead of 'Could it be included' for a more direct question.
 - 2026-06-10 10:11 — "Check it out" is a more natural phrasal verb than "check it" alone.
 - 2026-06-10 10:32 — Use 'modifications' or 'changes' for code edits. 'Risky' is a natural adjective; 'have risk' sounds less natural.
+=======
+- 2026-06-05 14:36 — Use 'things like' instead of 'these' to list examples naturally. Also add a comma before 'and' in a list (Oxford comma) for clarity.
+>>>>>>> Stashed changes
