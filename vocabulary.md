@@ -1429,3 +1429,4 @@
 - 2026-06-10 11:41 — Use 'having' or 'to have' after 'the key is' to express necessity. 'Having' sounds more natural in spoken English.
 - 2026-06-10 11:42 — "有价值吗" can be translated as "is it valuable?" but "worth looking into" or "worthwhile" sounds more natural in this context.
 - 2026-06-10 11:44 — Use 'request' or 'ask for' instead of just '要' to sound more polite and precise in English.
+- 2026-06-10 11:45 — “压缩”在文件上下文中常用“compress”或“zip”，这里用“compress”更通用。
