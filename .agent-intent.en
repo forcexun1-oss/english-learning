@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The board's fan is making noise. Can I reboot the board?
-=======
-So from a design perspective, should things like ASR, TTS, and YOLO be placed on the 3576?
->>>>>>> Stashed changes
+The reboot is complete. Continue looking for pcie_upgrade_tool.
