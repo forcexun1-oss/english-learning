@@ -1412,3 +1412,4 @@
 >>>>>>> Stashed changes
 - 2026-06-10 10:50 — "重启完了" uses 完了 to mean 'finished/completed'. In English, use 'The reboot is complete' or 'The reboot finished'.
 - 2026-06-10 10:59 — For archives, you can also say 'Does it contain what we need?' instead of 'Is it in there?' — 'contain' is more precise for file contents.
+- 2026-06-10 11:08 — Use 'contain' for files or images: 'Does [Image #1] contain it?' is more natural.
