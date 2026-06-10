@@ -1,1 +1,1 @@
-Most tests are not for the phone, just make sure the deployed functionality passes.
+The response "- Vision: returned {"detections":[]}" is an empty array, which is unexpected.

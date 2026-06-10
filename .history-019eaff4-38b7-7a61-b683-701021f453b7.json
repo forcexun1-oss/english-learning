@@ -1,1 +1,1 @@
-["complie and deploy on the xiaomi phone", "update the doc, and change \"perception\" in path to middleware", "run all the tests end-to-end", "Most of tests are not for the phone, just make sure deployed functionality passes."]
+["complie and deploy on the xiaomi phone", "update the doc, and change \"perception\" in path to middleware", "run all the tests end-to-end", "Most of tests are not for the phone, just make sure deployed functionality passes.", "the response:\"- Vision: returned {\"detections\":[]}\" is an empty array, that is unexpected."]

@@ -1471,3 +1471,4 @@
 >>>>>>> Stashed changes
 - 2026-06-10 13:38 — Use 'end-to-end tests' (hyphenated compound adjective) instead of 'tests end-to-end' (which sounds like running tests from start to finish, but not idiomatic as a noun phrase).
 - 2026-06-10 13:53 — Use 'Most tests' instead of 'Most of tests' — omit 'of' before plural nouns in general statements.
+- 2026-06-10 13:56 — Use "which" to introduce a relative clause describing the empty array, instead of repeating "that" after a comma.
