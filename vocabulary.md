@@ -1393,3 +1393,4 @@
 - 2026-06-10 09:36 — The comma after the filename is not needed in this imperative sentence.
 - 2026-06-10 09:53 — "Should we" is more direct and natural than "Do we need to" in this context.
 - 2026-06-10 10:02 — Use 'Is it included' instead of 'Could it be included' for a more direct question.
+- 2026-06-10 10:11 — "Check it out" is a more natural phrasal verb than "check it" alone.
