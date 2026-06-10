@@ -1,0 +1,1 @@
+["Error loading config.toml: --profile `chatgpt` cannot be used while /Users/youxun/.codex/config.toml contains legacy `profile = \"chatgpt\"` or `[profiles.chatgpt]` config; move those settings into /Users/youxun/.codex/chatgpt.config.toml and remove the legacy profile selector/table. See https://developers.openai.com/codex/config-advanced#profiles for more information."]
