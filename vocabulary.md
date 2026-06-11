@@ -1726,4 +1726,8 @@
 >>>>>>> Stashed changes
 - 2026-06-11 13:50 — Use 'is' instead of 'are' because 'test code' is singular (uncountable noun).
 - 2026-06-11 13:50 — Use 'is' instead of 'are' because 'code' is uncountable (singular).
+<<<<<<< Updated upstream
 - 2026-06-11 13:55 — Use 'makes' instead of 'make' because 'that' is third-person singular.
+=======
+- 2026-06-11 13:55 — Use 'makes' (singular verb) with singular subject 'That'.
+>>>>>>> Stashed changes
