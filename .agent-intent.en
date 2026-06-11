@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why does ~/.claude/settings.json affect Codex CLI?
-=======
-Why does ~/.claude/settings.json affect the Codex CLI?
->>>>>>> Stashed changes
+So why does it run twice?

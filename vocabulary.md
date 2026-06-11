@@ -1787,3 +1787,4 @@
 =======
 - 2026-06-11 15:09 — Use 'affect' (verb) instead of 'impact' for clearer causality in technical questions.
 >>>>>>> Stashed changes
+- 2026-06-11 15:14 — Use lowercase after 'so' in a question: 'So why does it run twice?'
