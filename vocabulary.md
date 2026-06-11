@@ -1847,3 +1847,4 @@
 =======
 - 2026-06-11 15:45 — "动手" literally means "move your hands", but here it's an idiom for "start doing something". Use "Don't start yet" or "Hold off for now".
 >>>>>>> Stashed changes
+- 2026-06-11 15:46 — "是否按照这个步骤分两步" is redundant. In English, just ask "Should we follow this two-step plan?" or "Should we proceed with these two steps?"
