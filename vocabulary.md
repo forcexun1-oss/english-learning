@@ -1949,3 +1949,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 16:29 — "合并了" is the resultative form, best translated as "it's merged" (passive) rather than "it merged" (active). Use "see" for 看到 in a visual/UI context.
 - 2026-06-11 16:29 — Use 'a' instead of 'one' for indefinite articles.
+- 2026-06-11 16:30 — Use 'This is' rather than 'That is' when referring to something immediately present or just introduced.
