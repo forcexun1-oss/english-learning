@@ -1869,6 +1869,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 15:48 — In English, questions often invert the subject and verb: 'Is the hook correct?' instead of 'Hook now correct?'
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
@@ -1907,3 +1908,6 @@
 - 2026-06-11 16:10 — "改完了" means 'finished modifying'. In English, use present perfect 'Have you completed...' to ask about completion of a task with current relevance.
 - 2026-06-11 16:11 — Add 'and' to connect two items in a list.
 - 2026-06-11 16:11 — Use 'to' instead of 'on' when specifying the deployment target (e.g., 'deploy ... to the phone').
+=======
+- 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
+>>>>>>> Stashed changes
