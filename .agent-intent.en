@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Why can't it be upgraded normally? And there's no 3576 in the list. This list doesn't matter—it's no longer used. So how should we resolve the error? First, check right after boot: use the `Id` parameter to check the PCIe device status. Use `Ispci_vendor` to see if the 1828 device is recognized. This is the reply from the other side—take a look.
+=======
+Are there existing tests for them?
+>>>>>>> Stashed changes

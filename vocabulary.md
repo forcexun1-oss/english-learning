@@ -1624,6 +1624,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 10:06 — Use 'for' instead of 'on' when referring to tests covering code.
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
@@ -1644,3 +1645,6 @@
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
 >>>>>>> Stashed changes
 - 2026-06-11 10:28 — When asking 'why can't it' in English, keep the auxiliary verb 'can' before the subject: 'Why can't it be upgraded?' (not 'Why it can't be upgraded?').
+=======
+- 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
+>>>>>>> Stashed changes
