@@ -1767,3 +1767,4 @@
 - 2026-06-11 14:53 — Use 'go in' (more natural) instead of 'be placed in'. Also capitalize proper nouns like 'Python'.
 - 2026-06-11 14:53 — Capitalize 'Python' as it is a proper noun.
 - 2026-06-11 15:02 — Use 'distinction' instead of 'separation' for 区分 in this context.
+- 2026-06-11 15:04 — Use 'appear' (not 'come out') for UI elements or triggers. 'Each time' or 'every time' works for repeated events.
