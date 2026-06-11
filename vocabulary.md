@@ -1683,4 +1683,10 @@
 =======
 - 2026-06-11 11:51 — Use 'If I ask...' (capital I) at the start of a sentence, and add 'and' between items.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 13:07 — "Agonized" means in great pain; you likely meant 'organized' (arranged systematically).
+=======
+- 2026-06-11 13:07 — "Agonized" means suffering extreme pain; you likely meant "organized" (structured/planned).
+- 2026-06-11 13:07 — Agonized means 'in great pain'; use 'organized' to mean structured or arranged.
+- 2026-06-11 13:07 — "agonized" should be "organized" (spelling). 'Agonized' means suffering, not structured.
+>>>>>>> Stashed changes
