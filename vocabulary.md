@@ -2090,4 +2090,10 @@
 - 2026-06-11 20:57 — '怎么' translates to 'how' or 'how to' in questions. '我试一下' is 'let me try' or 'I'll give it a try'.
 >>>>>>> Stashed changes
 - 2026-06-11 21:04 — "再看看" (zài kànkan) literally means 'look again'. In English, 'Check again.' is more natural for a developer giving a command to an AI assistant.
+<<<<<<< Updated upstream
 - 2026-06-11 21:08 — '破玩意' is informal slang for 'crappy thing'. In English, you can say 'this crappy thing' or 'this junk'.
+=======
+- 2026-06-11 21:07 — 看看 is a reduplicated verb meaning 'have a quick look'; in English, just say 'Take a look' or 'Let me see'.
+- 2026-06-11 21:07 — "看看" is casual; in English, "Take a look" or "Let me see" is more natural for a quick check.
+- 2026-06-11 21:08 — "破玩意" is informal and negative; "crappy" or "piece of crap" is a close match in tone. For polite requests, use "this annoying OMX tool."
+>>>>>>> Stashed changes
