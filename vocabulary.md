@@ -1942,3 +1942,4 @@
 =======
 - 2026-06-11 16:24 — Use 'have you updated' (present perfect) to ask if an action is completed.
 >>>>>>> Stashed changes
+- 2026-06-11 16:28 — Use 'and' instead of a comma when listing items in a command.
