@@ -1787,4 +1787,8 @@
 =======
 - 2026-06-11 15:09 — Use 'affect' (verb) instead of 'impact' for clearer causality in technical questions.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:14 — Use lowercase after 'so' in a question: 'So why does it run twice?'
+=======
+- 2026-06-11 15:14 — After 'So' or other introductory words, the next word should not be capitalized. Use lowercase: 'So why...'.
+>>>>>>> Stashed changes
