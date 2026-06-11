@@ -1958,4 +1958,8 @@
 =======
 - 2026-06-11 16:31 — Use 'and' to list multiple items instead of a comma for clarity.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:35 — Use 'exactly' or 'specifically' to emphasize you want details. Also, note the word order: 'What exactly did you test?' not 'What did you exactly test?'
+=======
+- 2026-06-11 16:35 — Use 'exactly' to translate the emphasis of '具体' (specific/detailed) in questions about actions.
+>>>>>>> Stashed changes
