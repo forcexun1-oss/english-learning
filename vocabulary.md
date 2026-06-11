@@ -1765,3 +1765,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 14:48 — Use 'the' before 'Rust production code' to refer to the specific codebase.
 - 2026-06-11 14:53 — Use 'go in' (more natural) instead of 'be placed in'. Also capitalize proper nouns like 'Python'.
+- 2026-06-11 14:53 — Capitalize 'Python' as it is a proper noun.
