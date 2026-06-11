@@ -1,1 +1,1 @@
-Are there non-unit tests mixed into the Rust production code?
+Should all integration tests go in test/ and be written in Python?
