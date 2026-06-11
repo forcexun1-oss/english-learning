@@ -1,1 +1,1 @@
-Is everything in the crates dir test code?
+Move them into smoke/. Do unit test cases have to be in the main production path?
