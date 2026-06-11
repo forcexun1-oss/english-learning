@@ -1792,4 +1792,8 @@
 =======
 - 2026-06-11 15:14 — After 'So' or other introductory words, the next word should not be capitalized. Use lowercase: 'So why...'.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:15 — The Chinese '把项目结构调整好' uses the 把 construction to emphasize the object. In English, we place the object after the verb in active voice: 'restructure the project properly'.
+=======
+- 2026-06-11 15:15 — "Restructure" is a verb meaning to change the structure; you could also use "reorganize." The phrase "rather than" is followed by a gerund (e.g., "relying").
+>>>>>>> Stashed changes
