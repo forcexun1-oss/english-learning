@@ -1758,4 +1758,8 @@
 =======
 - 2026-06-11 14:39 — Use 'in the same file' (not 'at the same file') when talking about location inside a file.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 14:44 — Use '吧' (ba) to indicate a suggestion, not '把' (ba, a preposition).
+=======
+- 2026-06-11 14:44 — "保持现状" translates to "keep as they are" or "keep the status quo". The Chinese particle "把" doesn't have a direct English equivalent; use natural phrasing like "let's keep" or "we'll keep".
+>>>>>>> Stashed changes
