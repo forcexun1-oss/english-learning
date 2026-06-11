@@ -1570,3 +1570,4 @@
 - 2026-06-10 21:25 — Use 'or' to connect alternatives in questions. Note: '会员' is often translated as 'subscription' or 'membership' in tech contexts.
 >>>>>>> Stashed changes
 - 2026-06-11 09:13 — Use imperative mood for direct commands.
+- 2026-06-11 09:15 — A bare number is unclear. Add a brief instruction like 'Step 1: ...' to make it actionable.
