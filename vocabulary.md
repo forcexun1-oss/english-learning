@@ -2117,3 +2117,4 @@
 =======
 - 2026-06-11 21:47 — The word 'supper' is a meal; 'super' means excellent or above. 'Superpower' is the intended word.
 >>>>>>> Stashed changes
+- 2026-06-11 23:17 — Use the imperative mood for commands. '吧' softens the tone, but in English, a direct command is natural for AI interactions.
