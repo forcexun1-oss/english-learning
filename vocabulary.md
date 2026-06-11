@@ -1897,3 +1897,4 @@
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
+- 2026-06-11 16:08 — In Chinese, '他' can refer to objects informally, but in English use 'it' for non-human things.
