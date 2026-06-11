@@ -1,1 +1,1 @@
-Why is test code placed in the same directory as production code in Rust?
+That makes the structure unclear to me.
