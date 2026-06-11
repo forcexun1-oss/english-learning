@@ -2074,4 +2074,8 @@
 =======
 - 2026-06-11 20:51 — 自然的口语化表达，更完整的说法是 'Try it again.'，但省略 'it' 更简洁。注意首字母大写。
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 20:52 — “再看看” translates naturally to 'Take another look' or 'Check again' in coding contexts.
+=======
+- 2026-06-11 20:52 — "再看看" is often best translated as "Check again" when instructing an AI assistant, rather than "Look again" or "Take another look."
+>>>>>>> Stashed changes
