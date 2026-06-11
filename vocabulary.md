@@ -2059,4 +2059,8 @@
 =======
 - 2026-06-11 20:09 — '修改' can be translated as 'modify' or 'change' — both are natural in technical instructions.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 20:11 — Use 'continue' + noun directly, e.g., 'continue the task' instead of 'continue to do the previous work'.
+=======
+- 2026-06-11 20:11 — Use 'continue with' instead of just 'continue' for clearer connection to the task.
+>>>>>>> Stashed changes
