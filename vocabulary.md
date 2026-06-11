@@ -2049,3 +2049,4 @@
 =======
 - 2026-06-11 17:57 — In English, 'Go ahead and...' softens an imperative into a suggestion, similar to how '吧' works in Chinese.
 >>>>>>> Stashed changes
+- 2026-06-11 18:00 — "还是一样" is commonly translated as 'still the same' in English. Here, 'problem' is implied from context.
