@@ -1737,4 +1737,8 @@
 - 2026-06-11 14:00 — Use 'is' with uncountable nouns like 'test code': 'Is everything...' not 'Are they all...'.
 - 2026-06-11 14:09 — Use 'Do ... have to' instead of 'Must ...' for natural questions in English.
 - 2026-06-11 14:09 — Separate statements and questions with a period. For yes/no questions, 'Do ... have to' is more natural than starting with 'Must'.
+<<<<<<< Updated upstream
 - 2026-06-11 14:15 — Use 'path to' instead of 'path of' when asking for a directory location. For example: 'What is the path to the config file?'
+=======
+- 2026-06-11 14:15 — Use 'path to' instead of 'path of' when referring to a directory location.
+>>>>>>> Stashed changes
