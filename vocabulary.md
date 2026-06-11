@@ -1777,3 +1777,4 @@
 =======
 - 2026-06-11 15:04 — Use 'about code' or 'code-related' instead of 'is code' for clarity.
 >>>>>>> Stashed changes
+- 2026-06-11 15:06 — '回滚' is often 'roll back' in tech contexts; '先都回滚了' can be 'roll everything back for now'.
