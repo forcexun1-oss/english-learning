@@ -1928,4 +1928,8 @@
 =======
 - 2026-06-11 16:21 — "切换为" translates to "switch to".
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:22 — "老是" means 'always/repeatedly' in a complaining tone; in commands, 'stop asking all the time' captures that impatience. Use 'just ...' to express the directive tone of 吧 (ba).
+=======
+- 2026-06-11 16:22 — Use 'just' to give a direct command in English. The Chinese '把' at the end is informal; in English, a simple imperative works better.
+>>>>>>> Stashed changes
