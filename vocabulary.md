@@ -1822,3 +1822,4 @@
 =======
 - 2026-06-11 15:34 — "by one level" is used to describe a reduction in hierarchy; for increasing, use "add one level".
 >>>>>>> Stashed changes
+- 2026-06-11 15:36 — “拿掉” means "remove/take away" in a casual way; “就行了” = "that's all / just do that."
