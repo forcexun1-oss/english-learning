@@ -2118,8 +2118,12 @@
 - 2026-06-11 21:47 — The word 'supper' is a meal; 'super' means excellent or above. 'Superpower' is the intended word.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 23:17 — Use the imperative mood for commands. '吧' softens the tone, but in English, a direct command is natural for AI interactions.
 =======
 - 2026-06-11 23:17 — In Chinese, '吧' softens a command. In English, use the imperative form directly: 'Uninstall it.'
 >>>>>>> Stashed changes
 - 2026-06-11 23:18 — Use 'Git URL' instead of 'git address' — it's more natural in technical contexts.
+=======
+- 2026-06-11 23:17 — In Chinese, '吧' softens a command. In English, use the imperative form directly: 'Uninstall it.'
+>>>>>>> Stashed changes
