@@ -1753,3 +1753,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 14:36 — In English, '文件' can be translated as 'file' or 'directory' depending on context. Here, 'test文件' refers to the test folder, so use 'directory' or 'folder' rather than 'file'.
 - 2026-06-11 14:36 — Use 'What is in [directory]?' instead of 'what are all' for asking about directory contents.
+- 2026-06-11 14:39 — Use 'the same file as' (not 'with') when comparing locations. 'As' is used for equality/comparison.
