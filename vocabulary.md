@@ -1619,4 +1619,8 @@
 =======
 - 2026-06-11 09:30 — Add the article 'The' at the beginning for correct English grammar. Also, if 'phone' is a typo for 'node', it would be clearer to say 'middleware-service is deployed on the node.'
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 10:06 — Use 'for' instead of 'on' when referring to tests covering code.
+=======
+- 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
+>>>>>>> Stashed changes
