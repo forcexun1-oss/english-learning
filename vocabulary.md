@@ -1942,4 +1942,8 @@
 =======
 - 2026-06-11 16:24 — Use 'have you updated' (present perfect) to ask if an action is completed.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:28 — Use 'and' instead of a comma when listing items in a command.
+=======
+- 2026-06-11 16:28 — Use 'and' instead of a comma to list items. Add 'the' before each service name for clarity, but it's optional in informal commands.
+>>>>>>> Stashed changes
