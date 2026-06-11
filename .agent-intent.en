@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are there existing tests for these?
-=======
-Are there existing tests for them?
->>>>>>> Stashed changes
+I want to do end-to-end testing via HTTP. Is there a test framework?

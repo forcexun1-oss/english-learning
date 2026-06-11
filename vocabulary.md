@@ -1624,3 +1624,4 @@
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
 >>>>>>> Stashed changes
+- 2026-06-11 10:13 — Use 'want to + verb' (e.g., 'I want to test') instead of 'want + noun' for actions.
