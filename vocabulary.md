@@ -2044,4 +2044,8 @@
 =======
 - 2026-06-11 17:54 — Use passive voice 'are registered' to describe an ongoing state, like 'All hooks are registered twice.'
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 17:57 — 吧 is a modal particle that softens commands or suggestions; use 'go ahead' or 'please' to convey a similar tone.
+=======
+- 2026-06-11 17:57 — In English, 'Go ahead and...' softens an imperative into a suggestion, similar to how '吧' works in Chinese.
+>>>>>>> Stashed changes
