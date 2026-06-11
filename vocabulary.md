@@ -1751,3 +1751,4 @@
 =======
 - 2026-06-11 14:19 — Use the plural 'directories' to make it clear you're referring to folders, not the word itself.
 >>>>>>> Stashed changes
+- 2026-06-11 14:36 — In English, '文件' can be translated as 'file' or 'directory' depending on context. Here, 'test文件' refers to the test folder, so use 'directory' or 'folder' rather than 'file'.
