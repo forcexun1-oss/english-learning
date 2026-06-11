@@ -1626,6 +1626,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 10:06 — Use 'for' instead of 'on' when referring to tests covering code.
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
@@ -1650,6 +1651,9 @@
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
 >>>>>>> Stashed changes
 - 2026-06-11 10:29 — "连上了" is the perfect aspect in Chinese; use present perfect or simple past in English depending on context.
+=======
+- 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
 >>>>>>> Stashed changes
