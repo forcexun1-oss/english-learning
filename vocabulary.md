@@ -1860,4 +1860,8 @@
 =======
 - 2026-06-11 15:46 — '分两步' can be expressed as 'in two steps' or 'a two-step plan'.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:48 — In English, questions often invert the subject and verb: 'Is the hook correct?' instead of 'Hook now correct?'
+=======
+- 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
+>>>>>>> Stashed changes
