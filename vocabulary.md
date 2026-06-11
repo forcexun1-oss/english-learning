@@ -1883,3 +1883,4 @@
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
+- 2026-06-11 16:01 — Use "That's" (contraction of "that is") instead of "It is" when pointing to something in a screenshot. "It is" sounds too formal.
