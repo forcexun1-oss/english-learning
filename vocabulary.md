@@ -1736,3 +1736,4 @@
 - 2026-06-11 14:00 — Use a capital letter at the start of a sentence and a question mark at the end for questions.
 - 2026-06-11 14:00 — Use 'is' with uncountable nouns like 'test code': 'Is everything...' not 'Are they all...'.
 - 2026-06-11 14:09 — Use 'Do ... have to' instead of 'Must ...' for natural questions in English.
+- 2026-06-11 14:09 — Separate statements and questions with a period. For yes/no questions, 'Do ... have to' is more natural than starting with 'Must'.
