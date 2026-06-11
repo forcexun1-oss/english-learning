@@ -1691,3 +1691,4 @@
 - 2026-06-11 13:07 — "agonized" should be "organized" (spelling). 'Agonized' means suffering, not structured.
 >>>>>>> Stashed changes
 - 2026-06-11 13:13 — Avoid 'better clarity' — 'clarity' itself implies improvement, so omit 'better'.
+- 2026-06-11 13:20 — Use possessive form ('Claude Code's style') to clarify what you're matching against.
