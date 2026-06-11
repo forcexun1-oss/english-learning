@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-How can I solve this problem?
-=======
-How to solve this problem?
->>>>>>> Stashed changes
-=======
-How to solve this problem?
->>>>>>> Stashed changes
+Why are they registered twice? All hooks are registered twice.

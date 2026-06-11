@@ -2039,3 +2039,4 @@
 =======
 - 2026-06-11 17:51 — Use 'solve' for problems/issues; 'fix' is for bugs or broken things.
 >>>>>>> Stashed changes
+- 2026-06-11 17:54 — Use 'twice' for '两次', not 'two times'. Also, '注册' is 'register' in coding contexts.
