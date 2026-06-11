@@ -1673,4 +1673,8 @@
 =======
 - 2026-06-11 11:44 — Use 'want you to' + verb, not 'want you' + verb (missing 'to').
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 11:47 — Remove 'that' and use proper question word order: 'what content should I write?' instead of 'what content that will be written?'.
+=======
+- 2026-06-11 11:47 — Remove 'that' after 'what' in questions. Use 'what content will be written' instead of 'what content that will be written'.
+>>>>>>> Stashed changes
