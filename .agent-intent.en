@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why wasn't YOLO tested?
-=======
-Why didn't you test yolo?
->>>>>>> Stashed changes
+Change it to require testing, and also add proper test resources. Testing is not just about making it work — passing means more than that.

@@ -1968,3 +1968,4 @@
 =======
 - 2026-06-11 16:36 — Use 'Why didn't you...' to ask about a missing action in the past. '怎么没' is often translated as 'why didn't' rather than 'how come' for clarity.
 >>>>>>> Stashed changes
+- 2026-06-11 16:38 — "调通" means 'make it work' or 'get it running'. Use 'make it work' rather than 'pass', since 'pass' in testing means meeting specific criteria.
