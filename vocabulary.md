@@ -1807,3 +1807,4 @@
 =======
 - 2026-06-11 15:17 — Use a complete sentence instead of just a number to express your idea clearly.
 >>>>>>> Stashed changes
+- 2026-06-11 15:33 — Use 'This directory is not needed' instead of 'Don't need this directory' because the subject 'we' is implied in Chinese but English prefers a clear subject.
