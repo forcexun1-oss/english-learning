@@ -1832,3 +1832,4 @@
 =======
 - 2026-06-11 15:37 — Use 'first...then' structure to show sequence, as English doesn't repeat '再' like Chinese.
 >>>>>>> Stashed changes
+- 2026-06-11 15:38 — “方案” can mean 'plan' or 'solution' — here 'overall plan' fits the context of discussing project structure.
