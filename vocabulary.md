@@ -2132,3 +2132,4 @@
 =======
 - 2026-06-11 23:21 — Use 'install this' instead of 'install the' when pointing to a link or item directly.
 >>>>>>> Stashed changes
+- 2026-06-11 23:29 — "Continue" is a natural English command. For a more polite tone, add "please" at the end.
