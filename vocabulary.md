@@ -1841,3 +1841,4 @@
 =======
 - 2026-06-11 15:38 — Use 'Explain...again' rather than 'Again explain' for natural English word order.
 >>>>>>> Stashed changes
+- 2026-06-11 15:44 — "把这个给我改了" is a strengthened command in Chinese. In English, simply use an imperative: 'Make this change first.'
