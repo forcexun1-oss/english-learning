@@ -2089,3 +2089,4 @@
 =======
 - 2026-06-11 20:57 — '怎么' translates to 'how' or 'how to' in questions. '我试一下' is 'let me try' or 'I'll give it a try'.
 >>>>>>> Stashed changes
+- 2026-06-11 21:04 — "再看看" (zài kànkan) literally means 'look again'. In English, 'Check again.' is more natural for a developer giving a command to an AI assistant.
