@@ -2097,3 +2097,4 @@
 - 2026-06-11 21:07 — "看看" is casual; in English, "Take a look" or "Let me see" is more natural for a quick check.
 - 2026-06-11 21:08 — "破玩意" is informal and negative; "crappy" or "piece of crap" is a close match in tone. For polite requests, use "this annoying OMX tool."
 >>>>>>> Stashed changes
+- 2026-06-11 21:09 — In Chinese, '什么模型' translates to 'what model'. In English questions, use 'What model are you?' with the verb 'are' before the subject.
