@@ -2112,4 +2112,8 @@
 =======
 - 2026-06-11 21:46 — '看看' is often translated as 'take a look' or 'check it out' in casual spoken English.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 21:47 — Use the imperative mood (e.g., 'Install ...') instead of 'give me install' (给我装个).
+=======
+- 2026-06-11 21:47 — The word 'supper' is a meal; 'super' means excellent or above. 'Superpower' is the intended word.
+>>>>>>> Stashed changes
