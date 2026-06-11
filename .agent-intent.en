@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-You deleted it, so now you can't see any of them.
-=======
-Is the hook correct now?
->>>>>>> Stashed changes
+The hooks config at /Users/youxun/.codex/hooks.json failed to parse: 'key must be a string' on line 24, column 3.

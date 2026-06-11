@@ -1902,3 +1902,4 @@
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
+- 2026-06-11 16:10 — Use 'at' to specify location (file path or line/column), e.g., 'at /path' and 'at line 24, column 3'.
