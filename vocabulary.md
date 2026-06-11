@@ -1923,4 +1923,8 @@
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:21 — Use the imperative form "Switch to" instead of "切换为" when giving commands.
+=======
+- 2026-06-11 16:21 — "切换为" translates to "switch to".
+>>>>>>> Stashed changes
