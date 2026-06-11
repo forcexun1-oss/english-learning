@@ -1867,6 +1867,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 15:48 — In English, questions often invert the subject and verb: 'Is the hook correct?' instead of 'Hook now correct?'
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
@@ -1890,6 +1891,9 @@
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
 - 2026-06-11 16:02 — Use 'yourself' without 'by' for a direct command. 'By yourself' means alone; 'yourself' adds emphasis.
+=======
+- 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
