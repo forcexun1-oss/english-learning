@@ -1947,3 +1947,4 @@
 =======
 - 2026-06-11 16:28 — Use 'and' instead of a comma to list items. Add 'the' before each service name for clarity, but it's optional in informal commands.
 >>>>>>> Stashed changes
+- 2026-06-11 16:29 — "合并了" is the resultative form, best translated as "it's merged" (passive) rather than "it merged" (active). Use "see" for 看到 in a visual/UI context.
