@@ -2137,4 +2137,8 @@
 =======
 - 2026-06-11 23:29 — '继续' is the verb 'to continue'. As an imperative, 'Continue.' is natural.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 23:31 — "继续" is often translated as "Continue" in commands. To be more specific, you could say "Continue with the previous task."
+=======
+- 2026-06-11 23:31 — "继续" translates to "Continue" as a command to proceed.
+>>>>>>> Stashed changes
