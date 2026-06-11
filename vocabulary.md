@@ -1812,4 +1812,8 @@
 =======
 - 2026-06-11 15:33 — "不需要" translates to "don't need" or "not needed." Here, "We don't need this directory" is a clear, concise instruction.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:33 — "目录名" is "directory name", but sometimes you can just say "directory" if you mean the whole thing.
+=======
+- 2026-06-11 15:33 — Use 'directory name' when referring to the name string, and 'directory' for the folder itself.
+>>>>>>> Stashed changes
