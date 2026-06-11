@@ -2112,3 +2112,4 @@
 =======
 - 2026-06-11 21:46 — '看看' is often translated as 'take a look' or 'check it out' in casual spoken English.
 >>>>>>> Stashed changes
+- 2026-06-11 21:47 — Use the imperative mood (e.g., 'Install ...') instead of 'give me install' (给我装个).
