@@ -2127,3 +2127,4 @@
 =======
 - 2026-06-11 23:17 — In Chinese, '吧' softens a command. In English, use the imperative form directly: 'Uninstall it.'
 >>>>>>> Stashed changes
+- 2026-06-11 23:21 — "安装" translates to "install" in English. You can also say "Install this plugin/repo from"
