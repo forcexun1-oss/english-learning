@@ -1827,4 +1827,8 @@
 =======
 - 2026-06-11 15:36 — "拿掉" means "remove/take away"; in coding instructions, use "remove" or "delete".
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:37 — '复述' can be translated as 'reiterate' or 'repeat back'. '动手' here means 'start doing' or 'proceed', not literally 'use hands'.
+=======
+- 2026-06-11 15:37 — Use 'first...then' structure to show sequence, as English doesn't repeat '再' like Chinese.
+>>>>>>> Stashed changes
