@@ -1782,4 +1782,8 @@
 =======
 - 2026-06-11 15:06 — "先都回滚了" uses an imperative tone with 了 for completed action; in English, use "roll everything back" (imperative).
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 15:09 — Consider adding 'the' before 'Codex CLI' for clarity: 'the Codex CLI'.
+=======
+- 2026-06-11 15:09 — Use 'affect' (verb) instead of 'impact' for clearer causality in technical questions.
+>>>>>>> Stashed changes
