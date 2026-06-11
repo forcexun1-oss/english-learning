@@ -2069,3 +2069,4 @@
 =======
 - 2026-06-11 20:32 — "再看看" in a coding context is often translated as "Take another look" or "Check again".
 >>>>>>> Stashed changes
+- 2026-06-11 20:51 — Use 'Try again' for a direct instruction. 'Retry' is also fine but more technical.
