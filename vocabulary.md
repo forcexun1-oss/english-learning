@@ -1797,3 +1797,4 @@
 =======
 - 2026-06-11 15:15 — "Restructure" is a verb meaning to change the structure; you could also use "reorganize." The phrase "rather than" is followed by a gerund (e.g., "relying").
 >>>>>>> Stashed changes
+- 2026-06-11 15:17 — Write numbers as words when starting a sentence or standing alone.
