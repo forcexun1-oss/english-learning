@@ -2044,3 +2044,4 @@
 =======
 - 2026-06-11 17:54 — Use passive voice 'are registered' to describe an ongoing state, like 'All hooks are registered twice.'
 >>>>>>> Stashed changes
+- 2026-06-11 17:57 — 吧 is a modal particle that softens commands or suggestions; use 'go ahead' or 'please' to convey a similar tone.
