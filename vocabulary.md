@@ -1583,4 +1583,8 @@
 =======
 - 2026-06-11 09:15 — '1' alone is unclear; use a complete phrase like 'Step 1' or 'Run step 1'.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 09:27 — Use a period (.) instead of a question mark (?) for a direct command or request.
+=======
+- 2026-06-11 09:27 — Use the imperative mood without a question mark for direct instructions.
+>>>>>>> Stashed changes
