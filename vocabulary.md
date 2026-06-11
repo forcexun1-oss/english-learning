@@ -1703,3 +1703,4 @@
 =======
 - 2026-06-11 13:24 — Use past tense 'did you remove' for an action that already happened.
 >>>>>>> Stashed changes
+- 2026-06-11 13:27 — Use imperative mood (e.g., 'make', 'update') for instructions — it's more direct and typical for developer commands.
