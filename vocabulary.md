@@ -1684,6 +1684,7 @@
 - 2026-06-11 11:51 — Use 'If I ask...' (capital I) at the start of a sentence, and add 'and' between items.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 13:07 — "Agonized" means in great pain; you likely meant 'organized' (arranged systematically).
 =======
 - 2026-06-11 13:07 — "Agonized" means suffering extreme pain; you likely meant "organized" (structured/planned).
@@ -1692,3 +1693,8 @@
 >>>>>>> Stashed changes
 - 2026-06-11 13:13 — Avoid 'better clarity' — 'clarity' itself implies improvement, so omit 'better'.
 - 2026-06-11 13:20 — Use possessive form ('Claude Code's style') to clarify what you're matching against.
+=======
+- 2026-06-11 13:07 — "Agonized" means suffering extreme pain; you likely meant "organized" (structured/planned).
+- 2026-06-11 13:07 — Agonized means 'in great pain'; use 'organized' to mean structured or arranged.
+- 2026-06-11 13:07 — "agonized" should be "organized" (spelling). 'Agonized' means suffering, not structured.
+>>>>>>> Stashed changes
