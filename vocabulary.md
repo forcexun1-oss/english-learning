@@ -1742,4 +1742,8 @@
 =======
 - 2026-06-11 14:15 — Use 'path to' instead of 'path of' when referring to a directory location.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 14:19 — Add a space after a comma.
+=======
+- 2026-06-11 14:19 — Use the plural 'directories' to make it clear you're referring to folders, not the word itself.
+>>>>>>> Stashed changes
