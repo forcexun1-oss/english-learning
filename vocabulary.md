@@ -1614,3 +1614,4 @@
 - 2026-06-11 09:30 — Add the article 'The' at the beginning for correct English grammar. Also, if 'phone' is a typo for 'node', it would be clearer to say 'middleware-service is deployed on the node.'
 >>>>>>> Stashed changes
 - 2026-06-11 10:01 — Use 'it' instead of 'they' unless referring to a specific group of people or components.
+- 2026-06-11 10:01 — Use 'it' when referring to a single service or process; 'they' is for plural nouns.
