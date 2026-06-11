@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then let's keep the unit tests as they are.
-=======
-In that case, let's keep the unit tests as they are.
->>>>>>> Stashed changes
+Are there non-unit tests mixed into the Rust production code?
