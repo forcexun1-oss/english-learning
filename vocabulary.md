@@ -1981,6 +1981,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 16:46 — Use 'locally' (adverb) instead of 'on local' (incorrect preposition phrase).
 =======
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
@@ -2008,6 +2009,9 @@
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
 - 2026-06-11 17:32 — Use 'cause + object + to + verb' (e.g., 'cause it to execute'), not 'cause + object + verb'.
+=======
+- 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
