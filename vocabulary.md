@@ -1937,3 +1937,4 @@
 =======
 - 2026-06-11 16:22 — Use 'just' to give a direct command in English. The Chinese '把' at the end is informal; in English, a simple imperative works better.
 >>>>>>> Stashed changes
+- 2026-06-11 16:24 — In Chinese, '改' often means 'change', but in this context 'update' is more natural. Also, Chinese word order places the object first for emphasis, but English uses subject-verb-object order.
