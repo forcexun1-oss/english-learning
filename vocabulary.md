@@ -1734,3 +1734,4 @@
 - 2026-06-11 13:59 — Complete the sentence with a verb. 'They' alone is not a full sentence; add 'are' or 'is' depending on the subject.
 - 2026-06-11 13:59 — "They" alone is incomplete. Add a verb to form a full sentence.
 - 2026-06-11 14:00 — Use a capital letter at the start of a sentence and a question mark at the end for questions.
+- 2026-06-11 14:00 — Use 'is' with uncountable nouns like 'test code': 'Is everything...' not 'Are they all...'.
