@@ -1817,3 +1817,4 @@
 =======
 - 2026-06-11 15:33 — Use 'directory name' when referring to the name string, and 'directory' for the folder itself.
 >>>>>>> Stashed changes
+- 2026-06-11 15:34 — "少了一层目录" literally means 'one less directory layer.' In English, we say 'remove one directory level' or 'remove one layer of directory.'
