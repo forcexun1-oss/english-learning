@@ -1663,3 +1663,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 11:15 — Add 'for' or 'of' after 'tests' to clarify what is being tested (e.g., 'tests for the middleware service'). Also consider capitalizing 'LLM' as it's usually an acronym.
 - 2026-06-11 11:15 — Capitalize acronyms like 'LLM' for readability.
+- 2026-06-11 11:36 — Capitalize the first word of a question, and don't put a space before '?'.
