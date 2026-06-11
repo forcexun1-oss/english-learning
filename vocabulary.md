@@ -1953,4 +1953,8 @@
 - 2026-06-11 16:30 — Use 'This is' rather than 'That is' when referring to something immediately present or just introduced.
 =======
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:31 — Use 'and' between items in a list for clarity.
+=======
+- 2026-06-11 16:31 — Use 'and' to list multiple items instead of a comma for clarity.
+>>>>>>> Stashed changes
