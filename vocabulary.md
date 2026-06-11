@@ -1588,4 +1588,8 @@
 =======
 - 2026-06-11 09:27 — Use the imperative mood without a question mark for direct instructions.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 09:30 — In English, add 'the' before a specific service name when referring to it as a known entity.
+=======
+- 2026-06-11 09:30 — Add the article 'The' at the beginning for correct English grammar. Also, if 'phone' is a typo for 'node', it would be clearer to say 'middleware-service is deployed on the node.'
+>>>>>>> Stashed changes
