@@ -2069,4 +2069,8 @@
 =======
 - 2026-06-11 20:32 — "再看看" in a coding context is often translated as "Take another look" or "Check again".
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 20:51 — Use 'Try again' for a direct instruction. 'Retry' is also fine but more technical.
+=======
+- 2026-06-11 20:51 — 自然的口语化表达，更完整的说法是 'Try it again.'，但省略 'it' 更简洁。注意首字母大写。
+>>>>>>> Stashed changes
