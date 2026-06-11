@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["are there existing tests on them?", "I want end-to-end testing via HTTP. Is there a test framework?"]
-=======
-["are there existing tests on them?"]
->>>>>>> Stashed changes
+["I want to introduce a test framework. should we use a Rust one or", "I want to introduce a test framework. should we use a Rust one or"]
