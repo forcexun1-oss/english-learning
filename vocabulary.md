@@ -1767,4 +1767,8 @@
 - 2026-06-11 14:53 — Use 'go in' (more natural) instead of 'be placed in'. Also capitalize proper nouns like 'Python'.
 - 2026-06-11 14:53 — Capitalize 'Python' as it is a proper noun.
 - 2026-06-11 15:02 — Use 'distinction' instead of 'separation' for 区分 in this context.
+<<<<<<< Updated upstream
 - 2026-06-11 15:04 — Use 'appear' (not 'come out') for UI elements or triggers. 'Each time' or 'every time' works for repeated events.
+=======
+- 2026-06-11 15:04 — Use 'trigger' or 'fire' instead of '出来' for hooks/events. '出来两个' means 'appears twice', but for code hooks, 'trigger twice' is more natural.
+>>>>>>> Stashed changes
