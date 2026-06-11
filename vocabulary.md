@@ -1963,4 +1963,8 @@
 =======
 - 2026-06-11 16:35 — Use 'exactly' to translate the emphasis of '具体' (specific/detailed) in questions about actions.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:36 — Use 'Why wasn't...?' instead of '怎么没' to ask about a missing action in past tense.
+=======
+- 2026-06-11 16:36 — Use 'Why didn't you...' to ask about a missing action in the past. '怎么没' is often translated as 'why didn't' rather than 'how come' for clarity.
+>>>>>>> Stashed changes
