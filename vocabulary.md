@@ -1588,3 +1588,4 @@
 =======
 - 2026-06-11 09:27 — Use the imperative mood without a question mark for direct instructions.
 >>>>>>> Stashed changes
+- 2026-06-11 09:30 — In English, add 'the' before a specific service name when referring to it as a known entity.
