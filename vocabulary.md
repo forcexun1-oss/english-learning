@@ -1871,6 +1871,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 15:48 — In English, questions often invert the subject and verb: 'Is the hook correct?' instead of 'Hook now correct?'
 =======
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
@@ -1919,3 +1920,6 @@
 - 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
 >>>>>>> Stashed changes
 - 2026-06-11 16:14 — Use 'should be' to express deduction or probability, like '应该是' in Chinese.
+=======
+- 2026-06-11 15:48 — In English, questions need a subject and verb, e.g., 'Is the hook correct now?'
+>>>>>>> Stashed changes
