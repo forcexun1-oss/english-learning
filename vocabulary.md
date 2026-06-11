@@ -2142,4 +2142,8 @@
 =======
 - 2026-06-11 23:31 — "继续" translates to "Continue" as a command to proceed.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 23:34 — '继续' is a command meaning 'continue' in English. Use 'Continue.' as a direct request.
+=======
+- 2026-06-11 23:34 — Use the imperative mood ('Continue') for giving commands to the AI. '继续' is often translated as 'Go on' or 'Proceed,' but 'Continue' is more natural here.
+>>>>>>> Stashed changes
