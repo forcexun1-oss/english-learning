@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["improve the test code structure for better clarity."]
-=======
-["test", "do you read CLAUDE.MD every time ?", "I want you update the testing information to guide others in testing. Which doc should we update?", "OK, What content that will be written?", "if I ask them to test llm-gateway, middleware-service, will they know how to run the tests?", "Is the test well agonized now?", "Is the test well agonized now?", "Is the test code structure well agonized now?"]
->>>>>>> Stashed changes
+["Why are the test code placed in the same directory as the  production code in rust?"]
