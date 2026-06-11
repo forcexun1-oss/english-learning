@@ -1571,7 +1571,11 @@
 >>>>>>> Stashed changes
 - 2026-06-11 09:13 — Use imperative mood for direct commands.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 09:15 — A bare number is unclear. Add a brief instruction like 'Step 1: ...' to make it actionable.
+=======
+- 2026-06-11 09:15 — '1' alone is unclear; use a complete phrase like 'Step 1' or 'Run step 1'.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 09:15 — '1' alone is unclear; use a complete phrase like 'Step 1' or 'Run step 1'.
 >>>>>>> Stashed changes
