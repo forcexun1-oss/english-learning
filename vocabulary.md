@@ -1668,3 +1668,4 @@
 =======
 - 2026-06-11 11:36 — Capitalize the first word of a question and place the question mark immediately after the last word (no space before it).
 >>>>>>> Stashed changes
+- 2026-06-11 11:44 — Use 'want you to' instead of 'want you' (infinitive marker 'to' is required after 'want').
