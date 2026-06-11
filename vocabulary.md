@@ -2107,3 +2107,4 @@
 =======
 - 2026-06-11 21:09 — Use "it" (not "him") for objects or software. "卸载他" should be "卸载它" (uninstall it).
 >>>>>>> Stashed changes
+- 2026-06-11 21:46 — "看看" is a casual way to say "take a look" or "let me see". In English, "Take a look" is more natural as a standalone command.
