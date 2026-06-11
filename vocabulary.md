@@ -2031,7 +2031,11 @@
 - 2026-06-11 17:48 — 的 translates to possessive 's in English, e.g., 'codex CLI's hook'.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 17:51 — "Solve" is used for problems or puzzles; "fix" is more common for bugs or technical issues.
+=======
+- 2026-06-11 17:51 — Use 'solve' for problems/issues; 'fix' is for bugs or broken things.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 17:51 — Use 'solve' for problems/issues; 'fix' is for bugs or broken things.
 >>>>>>> Stashed changes
