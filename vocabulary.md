@@ -1913,3 +1913,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 16:13 — In English, place the time word 'now' at the end of the sentence for natural flow: 'There are several … now.'
 - 2026-06-11 16:13 — Use plural 'hooks' when referring to more than one.
+- 2026-06-11 16:13 — Use 'two' instead of '2' in formal writing, but numerals are fine in technical contexts.
