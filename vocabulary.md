@@ -2102,3 +2102,4 @@
 =======
 - 2026-06-11 21:09 — In English, asking 'What model are you?' is natural. Note that '模型' is translated as 'model' in this context.
 >>>>>>> Stashed changes
+- 2026-06-11 21:09 — Use 'it' for inanimate objects like software (not '他/他'). In English, 'uninstall' is used as a verb with the object directly after.
