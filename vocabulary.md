@@ -1904,3 +1904,4 @@
 >>>>>>> Stashed changes
 - 2026-06-11 16:10 — Use 'at' to specify location (file path or line/column), e.g., 'at /path' and 'at line 24, column 3'.
 - 2026-06-11 16:10 — Use 'both' to emphasize the two phases, and the past tense 'finish' works here as a simple question about completion.
+- 2026-06-11 16:10 — "改完了" means 'finished modifying'. In English, use present perfect 'Have you completed...' to ask about completion of a task with current relevance.
