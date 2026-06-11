@@ -2001,3 +2001,4 @@
 =======
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
+- 2026-06-11 17:28 — "去掉" translates to "remove" or "delete". For code/config, use "remove" (e.g., "remove this hook").
