@@ -1948,5 +1948,8 @@
 - 2026-06-11 16:28 — Use 'and' instead of a comma to list items. Add 'the' before each service name for clarity, but it's optional in informal commands.
 >>>>>>> Stashed changes
 - 2026-06-11 16:29 — "合并了" is the resultative form, best translated as "it's merged" (passive) rather than "it merged" (active). Use "see" for 看到 in a visual/UI context.
+<<<<<<< Updated upstream
 - 2026-06-11 16:29 — Use 'a' instead of 'one' for indefinite articles.
 - 2026-06-11 16:30 — Use 'This is' rather than 'That is' when referring to something immediately present or just introduced.
+=======
+>>>>>>> Stashed changes
