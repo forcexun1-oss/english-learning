@@ -1690,3 +1690,4 @@
 - 2026-06-11 13:07 — Agonized means 'in great pain'; use 'organized' to mean structured or arranged.
 - 2026-06-11 13:07 — "agonized" should be "organized" (spelling). 'Agonized' means suffering, not structured.
 >>>>>>> Stashed changes
+- 2026-06-11 13:13 — Avoid 'better clarity' — 'clarity' itself implies improvement, so omit 'better'.
