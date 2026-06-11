@@ -1973,3 +1973,4 @@
 =======
 - 2026-06-11 16:38 — '调通了' means 'runs without errors', but '通过' means 'passes'. In testing, 'pass' implies correctness, not just execution.
 >>>>>>> Stashed changes
+- 2026-06-11 16:46 — Use 'locally' (adverb) instead of 'on local' (incorrect preposition phrase).
