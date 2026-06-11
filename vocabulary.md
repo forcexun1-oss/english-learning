@@ -2025,4 +2025,8 @@
 =======
 - 2026-06-11 17:48 — In technical contexts, use passive voice: 'how the hook is triggered' (not 'how the hook triggers' unless the hook triggers something else).
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 17:48 — In English instructions, use a verb like 'check' or 'look at' to start the command. The Chinese '的' can be translated as 'in' or the possessive ''s' depending on context.
+=======
+- 2026-06-11 17:48 — 的 translates to possessive 's in English, e.g., 'codex CLI's hook'.
+>>>>>>> Stashed changes
