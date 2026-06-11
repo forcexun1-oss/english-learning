@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 I suggest doing this in two steps:
 
 1. Low-risk first: move src/bin/test_record*.rs to rust/smoke/ or the current smoke/, rename test/ to tests/, change manual scripts from test_*.py to run_*.py, and update pytest/Cargo/script references.
@@ -5,3 +6,6 @@ I suggest doing this in two steps:
 2. Larger refactor later: move the root Rust package from src/ to rust/apps/edge-agent/, move crates/ and smoke/ under rust/, move py_service/ to python/py_service/, then update the Cargo workspace, PyO3 import paths, deployment scripts, and test commands.
 
 Should we proceed with these two steps?
+=======
+Should we follow this two-step approach?
+>>>>>>> Stashed changes
