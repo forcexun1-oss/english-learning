@@ -1963,3 +1963,4 @@
 =======
 - 2026-06-11 16:35 — Use 'exactly' to translate the emphasis of '具体' (specific/detailed) in questions about actions.
 >>>>>>> Stashed changes
+- 2026-06-11 16:36 — Use 'Why wasn't...?' instead of '怎么没' to ask about a missing action in past tense.
