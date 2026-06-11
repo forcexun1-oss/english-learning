@@ -2147,3 +2147,4 @@
 =======
 - 2026-06-11 23:34 — Use the imperative mood ('Continue') for giving commands to the AI. '继续' is often translated as 'Go on' or 'Proceed,' but 'Continue' is more natural here.
 >>>>>>> Stashed changes
+- 2026-06-11 23:38 — Use the article 'the' before a specific countable noun like 'skill' (e.g., 'the skill').
