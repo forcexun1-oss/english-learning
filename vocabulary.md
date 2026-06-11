@@ -2054,4 +2054,8 @@
 =======
 - 2026-06-11 18:00 — "还是一样" translates to "still the same" — use "still" before "the same" to indicate no change.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 20:09 — Use "fully automatic" as a compound adjective (hyphenated when before a noun, but here it's after "to", so no hyphen needed). "修改" can be translated as "change" or "update".
+=======
+- 2026-06-11 20:09 — '修改' can be translated as 'modify' or 'change' — both are natural in technical instructions.
+>>>>>>> Stashed changes
