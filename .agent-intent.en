@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Change it to require testing, and also add proper test resources. Testing is not just about making it work — passing means more than that.
+=======
+Change it to mandatory testing. Also, make sure to supplement the test resources. And remember, passing a test doesn't just mean it runs without errors.
+>>>>>>> Stashed changes

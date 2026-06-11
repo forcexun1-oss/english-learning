@@ -1968,4 +1968,8 @@
 =======
 - 2026-06-11 16:36 — Use 'Why didn't you...' to ask about a missing action in the past. '怎么没' is often translated as 'why didn't' rather than 'how come' for clarity.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 16:38 — "调通" means 'make it work' or 'get it running'. Use 'make it work' rather than 'pass', since 'pass' in testing means meeting specific criteria.
+=======
+- 2026-06-11 16:38 — '调通了' means 'runs without errors', but '通过' means 'passes'. In testing, 'pass' implies correctness, not just execution.
+>>>>>>> Stashed changes
