@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-What exactly caused it to execute twice?
-=======
-Download the picture and store it locally. Don't download it every time.
->>>>>>> Stashed changes
-=======
-Download the picture and store it locally. Don't download it every time.
->>>>>>> Stashed changes
+Will it still be registered twice even if I didn't write this hook?

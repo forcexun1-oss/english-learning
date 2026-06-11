@@ -2015,3 +2015,4 @@
 =======
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
+- 2026-06-11 17:42 — Use 'even if' to emphasize that the condition (not writing the hook) doesn't change the outcome.
