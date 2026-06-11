@@ -2064,4 +2064,8 @@
 =======
 - 2026-06-11 20:11 — Use 'continue with' instead of just 'continue' for clearer connection to the task.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 20:32 — In Chinese, repeating a verb like 看看 softens the request; in English, 'Check' alone is fine for instructions.
+=======
+- 2026-06-11 20:32 — "再看看" in a coding context is often translated as "Take another look" or "Check again".
+>>>>>>> Stashed changes
