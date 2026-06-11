@@ -1849,7 +1849,11 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 15:46 — "是否按照这个步骤分两步" is redundant. In English, just ask "Should we follow this two-step plan?" or "Should we proceed with these two steps?"
+=======
+- 2026-06-11 15:46 — '分两步' can be expressed as 'in two steps' or 'a two-step plan'.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 15:46 — '分两步' can be expressed as 'in two steps' or 'a two-step plan'.
 >>>>>>> Stashed changes
