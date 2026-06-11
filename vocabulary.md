@@ -2122,3 +2122,4 @@
 =======
 - 2026-06-11 23:17 — In Chinese, '吧' softens a command. In English, use the imperative form directly: 'Uninstall it.'
 >>>>>>> Stashed changes
+- 2026-06-11 23:18 — Use 'Git URL' instead of 'git address' — it's more natural in technical contexts.
