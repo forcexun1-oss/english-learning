@@ -1,1 +1,1 @@
-Should all integration tests be placed in test/ and written in Python?
+Essentially, two languages are placed in the same project, and the distinction is not very clear now.
