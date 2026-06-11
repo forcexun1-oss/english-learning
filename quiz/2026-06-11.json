@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T15:01:15.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Is the test well agonized now?\"",
+      "options": [
+        "A. Is the test well organized now?",
+        "B. Is the test well agonized now?",
+        "C. Is the test well organizeding now?",
+        "D. Is the tests well organized now?"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Agonized\" means in pain or distress. When asking about test layout, use \"organized.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"That make the structure unclear to me.\"",
+      "options": [
+        "A. That makes the structure unclear to me.",
+        "B. That make the structure unclear to me.",
+        "C. Those make the structure unclear to me.",
+        "D. That making the structure unclear to me."
+      ],
+      "correctIndex": 0,
+      "explanation": "The singular subject \"that\" takes the third-person singular verb \"makes.\""
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural way to ask about introducing a test framework?",
+      "options": [
+        "A. I'd like to introduce a testing framework. Should we choose Rust or Python?",
+        "B. I want to introduce a test framework. should we use a Rust one or",
+        "C. I want introduce testing framework. Should we Rust or Python?",
+        "D. I'd like introduce a testing framework. Should we choose Rust and Python?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use \"I'd like to introduce,\" capitalize the start of the question, and finish with a complete comparison."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"I want you update the testing information to guide others in testing.\"",
+      "options": [
+        "A. I want you to update the testing information to guide others in testing.",
+        "B. I want you update the testing information to guide others in testing.",
+        "C. I want you updating the testing information to guide others in testing.",
+        "D. I want you for update the testing information to guide others in testing."
+      ],
+      "correctIndex": 0,
+      "explanation": "After \"want you,\" use \"to\" plus the base verb: \"want you to update.\""
+    },
+    {
+      "type": "mc",
+      "question": "In today's log, what does \"middleware-service\" refer to in: \"middleware-service is deployed on the phone\"?",
+      "options": [
+        "A. A backend service component running on the device",
+        "B. A mobile app store middleware layer",
+        "C. A phone operating system update tool",
+        "D. A browser extension for debugging HTTP traffic"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this project context, middleware-service is a deployable backend component tested alongside llm-gateway on the phone."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the best fix for: \"download the picture and store it on local, don't download it every time\"",
+      "options": [
+        "A. Download the picture and store it locally; don't download it every time.",
+        "B. Download the picture and store it on local, don't download it every time.",
+        "C. Download the picture and store it in local, don't download it every time.",
+        "D. Download the picture and store it at local, don't download it every time."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use the adverb \"locally\" for where to store a file. Capitalize the sentence start and use a semicolon before the second clause."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"现在的核心问题是把项目结构调整好,而不是靠文档把这件事情说清楚\"",
+      "modelAnswer": "The core issue now is to fix the project structure itself, not to explain the confusion through documentation.",
+      "explanation": "This [ZH] line stresses that clear directory boundaries matter more than writing docs to paper over structural problems."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"不要老是问我,继续执行把\"",
+      "modelAnswer": "Stop asking me so often—just keep going.",
+      "explanation": "A direct instruction to proceed autonomously without repeated confirmation prompts."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"rust的单元测试通常都是和被测试的代码在同一个文件中?\"",
+      "modelAnswer": "Are Rust unit tests usually in the same file as the code being tested?",
+      "explanation": "This [ZH] question asks about Rust's convention of placing unit tests in the same source file via a `#[cfg(test)]` module."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical question: \"do you read CLAUDE.MD every time ?\"",
+      "modelAnswer": "Do you read CLAUDE.md every time?",
+      "explanation": "Capitalize the first word, remove the space before the question mark, and use the standard lowercase `.md` filename extension."
+    }
+  ]
+}
