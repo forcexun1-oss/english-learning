@@ -1772,3 +1772,4 @@
 =======
 - 2026-06-11 15:04 — Use 'trigger' or 'fire' instead of '出来' for hooks/events. '出来两个' means 'appears twice', but for code hooks, 'trigger twice' is more natural.
 >>>>>>> Stashed changes
+- 2026-06-11 15:04 — Use 'it's not X, it's Y' to clearly distinguish. Also note that 'Codex' is a proper noun; keep it capitalized.
