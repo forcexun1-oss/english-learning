@@ -2064,3 +2064,4 @@
 =======
 - 2026-06-11 20:11 — Use 'continue with' instead of just 'continue' for clearer connection to the task.
 >>>>>>> Stashed changes
+- 2026-06-11 20:32 — In Chinese, repeating a verb like 看看 softens the request; in English, 'Check' alone is fine for instructions.
