@@ -1953,3 +1953,4 @@
 - 2026-06-11 16:30 — Use 'This is' rather than 'That is' when referring to something immediately present or just introduced.
 =======
 >>>>>>> Stashed changes
+- 2026-06-11 16:31 — Use 'and' between items in a list for clarity.

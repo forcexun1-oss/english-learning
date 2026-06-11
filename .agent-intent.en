@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-This is a test.
-=======
-It's merged, but I don't see any output.
->>>>>>> Stashed changes
+Test llm-gateway and middleware-service
