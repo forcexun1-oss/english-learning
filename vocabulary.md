@@ -2020,3 +2020,4 @@
 =======
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
+- 2026-06-11 17:48 — Use 'is triggered' (passive voice) because the hook receives the action of being triggered.

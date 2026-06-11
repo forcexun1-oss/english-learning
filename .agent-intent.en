@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Will it still be registered twice even if I didn't write this hook?
-=======
-Download the picture and store it locally. Don't download it every time.
->>>>>>> Stashed changes
+Let's see how the hook is currently triggered.
