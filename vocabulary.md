@@ -1833,7 +1833,11 @@
 - 2026-06-11 15:37 — Use 'first...then' structure to show sequence, as English doesn't repeat '再' like Chinese.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 15:38 — “方案” can mean 'plan' or 'solution' — here 'overall plan' fits the context of discussing project structure.
+=======
+- 2026-06-11 15:38 — Use 'Explain...again' rather than 'Again explain' for natural English word order.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 15:38 — Use 'Explain...again' rather than 'Again explain' for natural English word order.
 >>>>>>> Stashed changes
