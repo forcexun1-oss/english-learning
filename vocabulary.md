@@ -2127,4 +2127,8 @@
 =======
 - 2026-06-11 23:17 — In Chinese, '吧' softens a command. In English, use the imperative form directly: 'Uninstall it.'
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 23:21 — "安装" translates to "install" in English. You can also say "Install this plugin/repo from"
+=======
+- 2026-06-11 23:21 — Use 'install this' instead of 'install the' when pointing to a link or item directly.
+>>>>>>> Stashed changes
