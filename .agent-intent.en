@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-OK, what content should I write?
-=======
-OK, what content will be written?
->>>>>>> Stashed changes
+If I ask them to test llm-gateway and middleware-service, will they know how to run the tests?

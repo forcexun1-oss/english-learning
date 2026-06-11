@@ -1678,3 +1678,4 @@
 =======
 - 2026-06-11 11:47 — Remove 'that' after 'what' in questions. Use 'what content will be written' instead of 'what content that will be written'.
 >>>>>>> Stashed changes
+- 2026-06-11 11:51 — Use 'and' between items in a list of two; for three or more, use commas with an 'and' before the last item.
