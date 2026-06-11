@@ -1661,3 +1661,4 @@
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
 >>>>>>> Stashed changes
+- 2026-06-11 11:15 — Add 'for' or 'of' after 'tests' to clarify what is being tested (e.g., 'tests for the middleware service'). Also consider capitalizing 'LLM' as it's usually an acronym.
