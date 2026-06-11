@@ -2152,3 +2152,4 @@
 =======
 - 2026-06-11 23:38 — Use 'yet' in questions about something expected to happen, like 'Do you have the skill yet?' It implies a change or completion over time.
 >>>>>>> Stashed changes
+- 2026-06-11 23:57 — Use complete words like 'screenshot' instead of abbreviations like 'ss'.
