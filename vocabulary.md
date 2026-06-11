@@ -1725,3 +1725,4 @@
 - 2026-06-11 13:24 — Use past tense 'did you remove' for an action that already happened.
 >>>>>>> Stashed changes
 - 2026-06-11 13:50 — Use 'is' instead of 'are' because 'test code' is singular (uncountable noun).
+- 2026-06-11 13:50 — Use 'is' instead of 'are' because 'code' is uncountable (singular).
