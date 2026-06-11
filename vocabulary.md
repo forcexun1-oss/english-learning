@@ -2102,4 +2102,8 @@
 =======
 - 2026-06-11 21:09 — In English, asking 'What model are you?' is natural. Note that '模型' is translated as 'model' in this context.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-11 21:09 — Use 'it' for inanimate objects like software (not '他/他'). In English, 'uninstall' is used as a verb with the object directly after.
+=======
+- 2026-06-11 21:09 — Use "it" (not "him") for objects or software. "卸载他" should be "卸载它" (uninstall it).
+>>>>>>> Stashed changes
