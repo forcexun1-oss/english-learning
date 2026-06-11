@@ -1802,3 +1802,4 @@
 =======
 - 2026-06-11 15:17 — Use a complete sentence instead of just a number to express your idea clearly.
 >>>>>>> Stashed changes
+- 2026-06-11 15:31 — Add 'the' before a specific directory name to sound more natural.
