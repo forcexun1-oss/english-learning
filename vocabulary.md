@@ -2084,3 +2084,4 @@
 - 2026-06-11 20:52 — "再看看" is often best translated as "Check again" when instructing an AI assistant, rather than "Look again" or "Take another look."
 >>>>>>> Stashed changes
 - 2026-06-11 20:54 — "重装" is short for "重新安装". In English, use "reinstall" (verb) or "reinstalling" (gerund) as the subject.
+- 2026-06-11 20:57 — Use 'reinstall' as a single verb (no need to say '重新安装' every time). In English, 'How do I reinstall?' is more natural than a direct word-for-word translation.
