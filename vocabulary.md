@@ -1983,3 +1983,4 @@
 - 2026-06-11 16:46 — Use 'locally' instead of 'on local' (e.g., 'store it locally').
 >>>>>>> Stashed changes
 - 2026-06-11 16:52 — Use 'does ... have' for questions about features or count, e.g., 'How many hooks does it have?'
+- 2026-06-11 16:52 — Use 'does' for questions about features or capabilities: 'How many hooks does codex CLI have?' instead of 'how many hooks in'.
