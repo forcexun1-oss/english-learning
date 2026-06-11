@@ -1621,6 +1621,7 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 10:06 — Use 'for' instead of 'on' when referring to tests covering code.
 =======
 - 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
@@ -1631,3 +1632,6 @@
 >>>>>>> Stashed changes
 - 2026-06-11 10:17 — Capitalize the first word after a period: 'should' → 'Should', and end the question with a '?'.
 - 2026-06-11 10:17 — Finish the question with a question mark and specify the alternative for clarity.
+=======
+- 2026-06-11 10:06 — Use 'tests for' (not 'on') when referring to tests covering code or features.
+>>>>>>> Stashed changes

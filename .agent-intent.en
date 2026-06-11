@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I want to introduce a test framework. Should we use a Rust one or a framework in another language?
+=======
+Are there existing tests for them?
+>>>>>>> Stashed changes
