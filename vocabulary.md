@@ -2321,3 +2321,4 @@
 - 2026-06-12 15:10 — "烧写" is commonly translated as "flashing" or "programming" when referring to writing firmware to flash memory.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:12 — Use 'please confirm' instead of 'confirm' to sound more polite.
