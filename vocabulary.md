@@ -2329,3 +2329,4 @@
 - 2026-06-12 15:15 — 了 (le) in Chinese indicates a change of state or completion. In English, use 'will' for future possibility or condition.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:19 — Use 'way' or 'method' to translate '方式' in technical contexts. For questions, remember to invert the subject and auxiliary verb: 'is there a better way'.
