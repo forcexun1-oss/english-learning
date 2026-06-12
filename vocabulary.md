@@ -2421,3 +2421,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 17:53 — Use 'shouldn't need conversion' (or 'shouldn't need to be converted') instead of '不用转' for a natural instruction.
+- 2026-06-12 17:56 — "不用转" here means "shouldn't need conversion" (expressing assumption), not "don't convert" (command). Adding "应该" makes it a natural speculation.
