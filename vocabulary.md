@@ -2182,3 +2182,4 @@
 =======
 - 2026-06-12 10:20 — Use 'has nothing to do with' or 'not related to' for '跟...没有关系'. Also, specify 'directory' or 'folder' after 'download' for clarity.
 >>>>>>> Stashed changes
+- 2026-06-12 10:21 — Use 'First, understand...' instead of '先了解' to sound natural in technical instructions.
