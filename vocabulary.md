@@ -2372,3 +2372,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 16:28 — "物理重启" can be expressed as "physically reboot" (verb) or "physical reboot" (noun). Here "physically reboot" is more natural as a verb phrase.
+- 2026-06-12 16:35 — “物理重启” translates to “physical restart” (power cycle), common in hardware troubleshooting.
