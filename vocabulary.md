@@ -2390,3 +2390,4 @@
 - 2026-06-12 16:51 — "验证一下" means 'verify' — '把' at the end softens the suggestion, like 'let me just...'. In English, use 'let me' or 'I'll'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 16:58 — In Chinese, '了' indicates a change of state ('became wrong'). In English, you can use 'not right' or 'wrong' without a tense marker.
