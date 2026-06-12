@@ -2282,3 +2282,4 @@
 - 2026-06-12 13:12 — Add 'the' before 'middleware service' and use 'is showing' instead of just 'why' for clarity.
 >>>>>>> Stashed changes
 - 2026-06-12 13:17 — Use present tense for ongoing issues: 'do they crash' instead of 'did they crash'.
+- 2026-06-12 13:22 — In English, we say 'port 8765' not '8765 port'.
