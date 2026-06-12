@@ -2313,3 +2313,4 @@
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:05 — Use 'brew trust' to trust a specific tap, or 'brew untap' to remove it. The 'command not found' suggests codex wasn't linked or the binary is not in PATH.
