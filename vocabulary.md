@@ -2170,4 +2170,8 @@
 =======
 - 2026-06-12 09:54 — Use 'reinstalled' for clarity, and present continuous 'are being registered' to describe the ongoing state.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 10:02 — Remove the comma before 'and' when connecting two related actions in a simple request.
+=======
+- 2026-06-12 10:02 — Use imperative mood ('Uninstall OMX') instead of 'Can we' for direct instructions to the AI.
+>>>>>>> Stashed changes
