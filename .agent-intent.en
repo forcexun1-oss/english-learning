@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Where does the npu_powerctrl tool come from?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Did you write npu_powerctrl? The other party said they normally use the rknn-smi tool.

@@ -2345,3 +2345,4 @@
 - 2026-06-12 15:34 — Use 'Where does ... come from?' to ask about the origin or source of something.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:35 — Use 'Did you write' instead of 'Is written by you' for a more natural question about authorship.
