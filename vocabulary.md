@@ -2426,3 +2426,4 @@
 - 2026-06-12 17:56 — In developer communication, use past tense (e.g., 'ended') instead of present perfect ('has ended') for concise status updates.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 18:05 — Use '吧' (ba) not '把' (ba) for suggestion. '方案' translates to 'plan' or 'solution'.
