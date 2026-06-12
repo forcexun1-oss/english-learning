@@ -2293,6 +2293,7 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 13:32 — Start a command sentence with a capital letter for clarity (e.g., 'Fix it' instead of 'fix it').
 =======
 - 2026-06-12 13:32 — Capitalize the first word of each sentence.
@@ -2300,6 +2301,9 @@
 - 2026-06-12 13:41 — In English, avoid a comma before 'and' when connecting two short actions with the same subject.
 - 2026-06-12 13:43 — Correct spelling: 'Option' (not 'Opton').
 - 2026-06-12 13:43 — Spelling: 'Opton' should be 'Option'.
+=======
+- 2026-06-12 13:32 — Capitalize the first word of each sentence.
+>>>>>>> Stashed changes
 =======
 - 2026-06-12 13:32 — Capitalize the first word of each sentence.
 >>>>>>> Stashed changes
