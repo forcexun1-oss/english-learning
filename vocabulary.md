@@ -2296,3 +2296,4 @@
 =======
 - 2026-06-12 13:32 — Capitalize the first word of each sentence.
 >>>>>>> Stashed changes
+- 2026-06-12 13:41 — In English, avoid a comma before 'and' when connecting two short actions with the same subject.
