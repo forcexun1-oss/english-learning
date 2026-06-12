@@ -2385,3 +2385,4 @@
 - 2026-06-12 16:44 — Use 'die' for programs crashing unexpectedly. '推理' is 'inference' in machine learning contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 16:50 — "Cross-compilation" is a compound noun; no hyphen needed as a noun (though hyphenated as an adjective like "cross-compilation toolchain").
