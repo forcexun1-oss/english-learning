@@ -2366,3 +2366,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 15:47 — Use 'inside' when referring to contents within an archive file.
+- 2026-06-12 16:02 — When asking about potential dangers, use 'risks' (plural) with 'with' (not 'of'): 'risks with these operations'.
