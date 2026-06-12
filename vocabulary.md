@@ -2357,3 +2357,4 @@
 - 2026-06-12 15:41 — In English, it's more natural to omit the word 'library' when referring to a .so file, as the extension implies it.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:45 — ‘板端’ can be translated as ‘on the board’ or ‘on the board side’ — in technical contexts, ‘on the board’ is enough.
