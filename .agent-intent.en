@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I tried to install codex with brew, but I got warnings about untrusted taps (messense/macos-cross-toolchains). The install seemed to succeed (latest version already installed), but running `codex --profile chatgpt` says command not found. I previously uninstalled codex and cleaned the config. How do I properly get codex installed and working?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Currently it's SPI FLASH flashing, right? That's their question.

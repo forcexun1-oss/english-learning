@@ -2317,3 +2317,4 @@
 - 2026-06-12 15:05 — Use 'brew trust' to trust a specific tap, or 'brew untap' to remove it. The 'command not found' suggests codex wasn't linked or the binary is not in PATH.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:10 — "烧写" is commonly translated as "flashing" or "programming" when referring to writing firmware to flash memory.
