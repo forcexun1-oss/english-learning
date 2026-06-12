@@ -2325,3 +2325,4 @@
 - 2026-06-12 15:12 — Use 'please confirm' instead of 'confirm' to sound more polite.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:15 — 了 (le) in Chinese indicates a change of state or completion. In English, use 'will' for future possibility or condition.
