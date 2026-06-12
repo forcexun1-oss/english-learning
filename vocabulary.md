@@ -2337,3 +2337,4 @@
 - 2026-06-12 15:24 — "要怎么弄" is informal; use "How to implement..." or "How do I...?" for a more natural technical question.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:26 — "还要" implies reluctant necessity ("have to"), and "算了" is a casual way to drop the idea ("forget it" or "never mind").
