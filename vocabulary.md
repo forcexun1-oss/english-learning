@@ -2361,3 +2361,4 @@
 - 2026-06-12 15:45 — ‘板端’ can be translated as ‘on the board’ or ‘on the board side’ — in technical contexts, ‘on the board’ is enough.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:45 — Use 'have you received' for asking if someone has obtained something, and 'after compiling' for '编译后'.

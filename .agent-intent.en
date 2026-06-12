@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-No need to make it so complicated. After compilation, there's an installation package. Just extract it on the board and run install.sh to replace everything.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Have you received the 1828 AI SDK? After compiling the 1828 SDK, it generates a compressed package.
