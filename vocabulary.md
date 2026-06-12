@@ -2208,3 +2208,4 @@
 =======
 - 2026-06-12 10:49 — For questions, use inversion: 'Are there multiple?' instead of 'There are multiple?'
 >>>>>>> Stashed changes
+- 2026-06-12 10:50 — '试试看' is a colloquial way to say 'give it a try' or 'try and see'.
