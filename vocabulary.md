@@ -2247,7 +2247,11 @@
 - 2026-06-12 11:37 — Use 'open' (adjective) instead of 'opened' (past participle) to describe the state of a port.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 11:38 — After 'did', use the base form of the verb (e.g., 'crash' not 'crashed').
+=======
+- 2026-06-12 11:38 — Use 'did' + base form (crash), not past tense (crashed).
+>>>>>>> Stashed changes
 =======
 - 2026-06-12 11:38 — Use 'did' + base form (crash), not past tense (crashed).
 >>>>>>> Stashed changes
