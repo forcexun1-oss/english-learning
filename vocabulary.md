@@ -2193,3 +2193,4 @@
 >>>>>>> Stashed changes
 - 2026-06-12 10:39 — “才能” often means "in order to" or "then can", but in a short question like this, using "to" is more natural in English.
 - 2026-06-12 10:39 — “所以” at the beginning of a sentence is naturally translated as “So” in English. Keep the question word order.
+- 2026-06-12 10:40 — "先看" can be translated as "first, see" (自然) or "first, check". Here "see" is more idiomatic for assessing a situation.
