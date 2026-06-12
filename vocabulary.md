@@ -2394,3 +2394,4 @@
 - 2026-06-12 16:58 — In Chinese, '了' indicates a change of state ('became wrong'). In English, you can use 'not right' or 'wrong' without a tense marker.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:11 — Use 'restarted' without a subject is common in casual tech chat. For clarity, add 'I've' before 'restarted'.
