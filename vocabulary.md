@@ -2410,3 +2410,4 @@
 - 2026-06-12 17:32 — In English questions, the verb 'is' comes before the subject ('what'). 'What is deployed' instead of 'what deployed is'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:36 — "看看" can be translated as "check" or "look at". In technical contexts, "check" is more natural and concise.
