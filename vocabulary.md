@@ -2241,3 +2241,4 @@
 =======
 - 2026-06-12 11:31 — Use 'port 9091 (LLM)' for clarity — the original could be read as 'llm port' which is slightly ambiguous.
 >>>>>>> Stashed changes
+- 2026-06-12 11:37 — Use 'open' (adjective) not 'opened' (past tense verb) to describe port status.
