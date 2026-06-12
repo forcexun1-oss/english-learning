@@ -2257,3 +2257,4 @@
 >>>>>>> Stashed changes
 - 2026-06-12 11:42 — Typo: 'servcie' -> 'service'. Also use 'restarts' (verb) for general condition.
 - 2026-06-12 11:42 — Use 'restarts' (third person singular) after 'the service', not 'restart'.
+- 2026-06-12 11:46 — Use 'Don't' instead of 'Do not' for more natural spoken English in instructions.
