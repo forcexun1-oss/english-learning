@@ -2221,3 +2221,4 @@
 =======
 - 2026-06-12 10:50 — "按" in this context is better translated as "try" (试一试) rather than "press", because "试试看" means "give it a try".
 >>>>>>> Stashed changes
+- 2026-06-12 11:08 — "不管了" is colloquial; use "Forget it" or "Never mind" to express "Let's drop it and move on."
