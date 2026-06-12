@@ -2226,3 +2226,4 @@
 =======
 - 2026-06-12 11:08 — "不管了" can be translated as "Never mind" or "Forget it" to indicate dropping the issue.
 >>>>>>> Stashed changes
+- 2026-06-12 11:31 — Capitalize acronyms like LLM for clarity.

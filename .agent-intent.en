@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-You got the IP wrong. That's not the IP of this board. Forget it, just start the bench test.
-=======
-You got the IP wrong. That's not this board's IP. Never mind, just start the bench test.
->>>>>>> Stashed changes
+Check if port 9091 (LLM) is open on the phone.
