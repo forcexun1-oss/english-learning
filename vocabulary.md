@@ -2402,3 +2402,4 @@
 - 2026-06-12 17:17 — "好了" can mean "It's done", "All set", or "OK" depending on context. Use "It's done" when you've completed an action.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:19 — Use 'start cross-compiling' (gerund after 'start') instead of 'start cross-compile'. Imperative form is natural for instructions.
