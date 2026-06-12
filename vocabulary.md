@@ -2380,3 +2380,4 @@
 - 2026-06-12 16:36 — Use present perfect to indicate a completed action that affects the current situation.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 16:43 — '哪行啊' is a colloquial expression of dissatisfaction. Use 'This is unacceptable' or 'This won't do' in formal contexts.
