@@ -2177,3 +2177,4 @@
 >>>>>>> Stashed changes
 - 2026-06-12 10:18 — You wrote '加是' but it should be just '加' (add) without '是'.
 - 2026-06-12 10:18 — The original '加是' appears to be a typo for '加上' (add on). In English, use 'add the cache for prompt prefill' rather than 'add prefill's cache' to sound more natural.
+- 2026-06-12 10:20 — Use 'It has nothing to do with X' or 'None of these are related' for '跟这些都没有关系'. '板子' is colloquial for 'board' (hardware). '资料' can be 'materials', 'documents', or 'resources'.
