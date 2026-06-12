@@ -2333,3 +2333,4 @@
 - 2026-06-12 15:19 — Use 'way' or 'method' to translate '方式' in technical contexts. For questions, remember to invert the subject and auxiliary verb: 'is there a better way'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:24 — "要怎么弄" is informal; use "How to implement..." or "How do I...?" for a more natural technical question.
