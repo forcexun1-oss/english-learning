@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["Did middleware service crash. why \"middleware is not running\"?", "Why did they crash frequently? How can we trace it?", "is 8765 port open?", "That must be the reason. fix it", "I unplugged the phone, and plugged it back in.", "Opton 3", "Opton 3"]
+=======
+["Did middleware service crash. why \"middleware is not running\"?", "Why did they crash frequently? How can we trace it?", "is 8765 port open?", "That must be the reason. fix it"]
+>>>>>>> Stashed changes
