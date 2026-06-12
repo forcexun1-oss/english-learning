@@ -2291,4 +2291,8 @@
 =======
 - 2026-06-12 13:22 — Place the word 'port' before the number, e.g., 'port 8765' instead of '8765 port'.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 13:32 — Start a command sentence with a capital letter for clarity (e.g., 'Fix it' instead of 'fix it').
+=======
+- 2026-06-12 13:32 — Capitalize the first word of each sentence.
+>>>>>>> Stashed changes
