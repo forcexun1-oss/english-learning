@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have you received the 1828 AI SDK? After compiling the 1828 SDK, it generates a compressed package.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Is the path './output/firmware/rknn3_rk182x_sodimm_installer_arm64.tgz' inside 'RK1820_RK1828_AI_SDK_V1.0.4.tgz'? Yes, there's a build script; after you run the build, this package will be generated.

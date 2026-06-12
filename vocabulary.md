@@ -2365,3 +2365,4 @@
 - 2026-06-12 15:45 — Use 'have you received' for asking if someone has obtained something, and 'after compiling' for '编译后'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:47 — Use 'inside' when referring to contents within an archive file.
