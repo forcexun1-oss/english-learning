@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Did you write npu_powerctrl? The other party said they normally use the rknn-smi tool.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Do you have SPI FLASH attached? Is the firmware written to DDR or FLASH?

@@ -2349,3 +2349,4 @@
 - 2026-06-12 15:35 — Use 'Did you write' instead of 'Is written by you' for a more natural question about authorship.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:38 — ‘贴’ in hardware context means ‘attached’ or ‘soldered’. Use ‘attached’ for a general question.
