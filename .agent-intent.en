@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I reinstalled OMX, and now all hooks are registered twice.
-=======
-I reinstalled OMX and now all hooks are being registered twice.
->>>>>>> Stashed changes
-=======
-I reinstalled OMX and now all hooks are being registered twice.
->>>>>>> Stashed changes
+Can we uninstall OMX and only install this skill: hud [Skill] [OMX] Show or configure the OMX HUD (two-layer statusline)?
