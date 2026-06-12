@@ -2226,4 +2226,8 @@
 =======
 - 2026-06-12 11:08 — "不管了" can be translated as "Never mind" or "Forget it" to indicate dropping the issue.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 11:31 — Capitalize acronyms like LLM for clarity.
+=======
+- 2026-06-12 11:31 — Use 'port 9091 (LLM)' for clarity — the original could be read as 'llm port' which is slightly ambiguous.
+>>>>>>> Stashed changes
