@@ -2376,3 +2376,4 @@
 - 2026-06-12 16:35 — “物理重启” translates to “physical restart” (power cycle), common in hardware troubleshooting.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 16:36 — Use present perfect to indicate a completed action that affects the current situation.
