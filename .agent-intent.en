@@ -1,1 +1,1 @@
-Check Qwen3-ASR-0.6B in the download folder, then review the deployment plan — is this how it should be deployed?
+No, is there official documentation? I now suspect this approach has issues. First, does Qwen3-ASR-0.6B only contain encoder components? Does it have to use omni for decoding? That's very strange.
