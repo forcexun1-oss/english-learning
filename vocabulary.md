@@ -2153,7 +2153,11 @@
 - 2026-06-11 23:38 — Use 'yet' in questions about something expected to happen, like 'Do you have the skill yet?' It implies a change or completion over time.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-11 23:57 — Use complete words like 'screenshot' instead of abbreviations like 'ss'.
+=======
+- 2026-06-11 23:54 — 试试 is the reduplicated form of 试 (to try), making it casual. Use 'Try it' or 'Give it a try'.
+>>>>>>> Stashed changes
 =======
 - 2026-06-11 23:54 — 试试 is the reduplicated form of 试 (to try), making it casual. Use 'Try it' or 'Give it a try'.
 >>>>>>> Stashed changes
