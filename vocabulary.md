@@ -2283,7 +2283,11 @@
 >>>>>>> Stashed changes
 - 2026-06-12 13:17 — Use present tense for ongoing issues: 'do they crash' instead of 'did they crash'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 13:22 — In English, we say 'port 8765' not '8765 port'.
+=======
+- 2026-06-12 13:22 — Place the word 'port' before the number, e.g., 'port 8765' instead of '8765 port'.
+>>>>>>> Stashed changes
 =======
 - 2026-06-12 13:22 — Place the word 'port' before the number, e.g., 'port 8765' instead of '8765 port'.
 >>>>>>> Stashed changes
