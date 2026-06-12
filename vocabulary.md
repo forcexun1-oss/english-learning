@@ -2334,6 +2334,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2423,3 +2424,5 @@
 - 2026-06-12 17:53 — Use 'shouldn't need conversion' (or 'shouldn't need to be converted') instead of '不用转' for a natural instruction.
 - 2026-06-12 17:56 — "不用转" here means "shouldn't need conversion" (expressing assumption), not "don't convert" (command). Adding "应该" makes it a natural speculation.
 - 2026-06-12 17:56 — In developer communication, use past tense (e.g., 'ended') instead of present perfect ('has ended') for concise status updates.
+=======
+>>>>>>> Stashed changes
