@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Do you have SPI FLASH attached? Is the firmware written to DDR or FLASH?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Do we have librknn3_api.so?

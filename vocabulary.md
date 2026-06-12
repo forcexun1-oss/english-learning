@@ -2353,3 +2353,4 @@
 - 2026-06-12 15:38 — ‘贴’ in hardware context means ‘attached’ or ‘soldered’. Use ‘attached’ for a general question.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:41 — In English, it's more natural to omit the word 'library' when referring to a .so file, as the extension implies it.
