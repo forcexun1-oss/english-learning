@@ -2198,3 +2198,4 @@
 =======
 - 2026-06-12 10:40 — "先看" often translates to "first, let's check/see" in instructions.
 >>>>>>> Stashed changes
+- 2026-06-12 10:48 — Use 'meaning' to paraphrase; '呗' can be translated as 'right?' to confirm understanding.
