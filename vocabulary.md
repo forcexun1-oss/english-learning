@@ -2276,4 +2276,8 @@
 =======
 - 2026-06-12 11:46 — Use 'Don't do that' instead of 'Do not do it' for a more natural command tone.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 13:12 — Use 'the' before 'middleware service' and complete the question with 'is it showing' instead of just the quoted string.
+=======
+- 2026-06-12 13:12 — Add 'the' before 'middleware service' and use 'is showing' instead of just 'why' for clarity.
+>>>>>>> Stashed changes
