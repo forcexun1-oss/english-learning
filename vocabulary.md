@@ -2259,6 +2259,7 @@
 - 2026-06-12 11:42 — Use 'restarts' (third person singular) after 'the service', not 'restart'.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 11:46 — Use 'Don't' instead of 'Do not' for more natural spoken English in instructions.
 =======
 - 2026-06-12 11:46 — Use 'Don't do that' instead of 'Do not do it' for a more natural command tone.
@@ -2268,3 +2269,6 @@
 >>>>>>> Stashed changes
 - 2026-06-12 13:01 — Typo: 'servcie' should be 'service'.
 - 2026-06-12 13:01 — Misspelled 'service' as 'servcie' - common typo.
+=======
+- 2026-06-12 11:46 — Use 'Don't do that' instead of 'Do not do it' for a more natural command tone.
+>>>>>>> Stashed changes

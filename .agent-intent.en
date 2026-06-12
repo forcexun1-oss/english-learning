@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Handle the middleware service
+=======
+Don't do that. Just add a max limit for the logs.
+>>>>>>> Stashed changes
