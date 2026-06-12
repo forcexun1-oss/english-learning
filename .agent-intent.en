@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Task biiujuotv failed: background command "Wait for transfer_proxy socket to be ready" exited with code 255.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+First, try to confirm if it works normally. Do I need to physically reboot?

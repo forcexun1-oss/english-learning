@@ -2371,3 +2371,4 @@
 - 2026-06-12 16:24 — Use "exited with code" instead of "failed with exit code" — it's more idiomatic for command-line output.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 16:28 — "物理重启" can be expressed as "physically reboot" (verb) or "physical reboot" (noun). Here "physically reboot" is more natural as a verb phrase.
