@@ -2313,6 +2313,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2330,3 +2331,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 15:19 — Use 'way' or 'method' to translate '方式' in technical contexts. For questions, remember to invert the subject and auxiliary verb: 'is there a better way'.
+=======
+>>>>>>> Stashed changes
