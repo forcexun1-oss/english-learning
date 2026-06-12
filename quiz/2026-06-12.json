@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T15:02:10.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Did llm proxy service crashed?\"",
+      "options": [
+        "A. Did the llm proxy service crash?",
+        "B. Did llm proxy service crashed?",
+        "C. Does the llm proxy service crashed?",
+        "D. Did the llm proxy service crashed?"
+      ],
+      "correctIndex": 0,
+      "explanation": "After \"Did,\" use the base verb \"crash,\" not the past tense \"crashed.\" Add the article \"the\" before the service name."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Are the logs cleared when the servcie restart?\"",
+      "options": [
+        "A. Are the logs cleared when the service restarts?",
+        "B. Are the logs cleared when the servcie restart?",
+        "C. Is the logs cleared when the service restarts?",
+        "D. Are the logs cleared when the service restart?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fix the typo \"servcie\" → \"service,\" and use third-person singular \"restarts\" because \"service\" is singular."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural way to ask whether a port is reachable?",
+      "options": [
+        "A. Is port 8765 open?",
+        "B. is the port 8765 opened.",
+        "C. Is the port 8765 opened?",
+        "D. Does port 8765 opened?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use \"open\" (not \"opened\") for port availability, capitalize the sentence, and end with a question mark."
+    },
+    {
+      "type": "mc",
+      "question": "In today's log, what problem occurred after reinstalling OMX?",
+      "options": [
+        "A. All hooks were registered twice",
+        "B. The llm proxy port changed to 9091",
+        "C. Prompt caching was disabled in llm-bench",
+        "D. The board firmware failed to flash over SPI"
+      ],
+      "correctIndex": 0,
+      "explanation": "The log notes that after reinstalling OMX, every hook was registered twice, causing a messy hook setup."
+    },
+    {
+      "type": "mc",
+      "question": "What does \"refactor session tests in llm-bench to support prompt caching\" refer to?",
+      "options": [
+        "A. Updating benchmark tests so repeated prompts can reuse cached prefill data",
+        "B. Removing all session tests from the llm-bench suite",
+        "C. Converting llm-bench from Rust to Python",
+        "D. Disabling the RK1828 NPU during benchmark runs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prompt caching stores precomputed key/value states for a prefix so later requests with the same prefix run faster."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Opton 3\"",
+      "options": [
+        "A. Option 3",
+        "B. Opton 3",
+        "C. Option three",
+        "D. Options 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word is spelled \"option,\" and when referring to a numbered choice in a list, capitalize it as \"Option 3.\""
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"我想在1828上加是prompt的prefill的cache,可以自己加吗\"",
+      "modelAnswer": "Can I add a prompt prefill cache on the 1828 board myself?",
+      "explanation": "This [ZH] line asks whether prompt prefill caching can be added manually on the RK1828 hardware."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"首先是他为什么推理一次就死了?\"",
+      "modelAnswer": "First of all, why does it die after just one inference?",
+      "explanation": "The speaker is debugging a service that crashes immediately after a single inference run on the board."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"你写个方案把, 后续如何验证, 正式方案要怎么设计\"",
+      "modelAnswer": "Write a plan covering how we will verify it going forward and how the production solution should be designed.",
+      "explanation": "This [ZH] request asks for a written plan with validation steps and a formal architecture design."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a clear technical instruction: \"That must be the reason. fix it\"",
+      "modelAnswer": "That must be the reason. Fix it.",
+      "explanation": "Capitalize the start of the second sentence and use a period or em dash to separate the diagnosis from the action."
+    }
+  ]
+}
