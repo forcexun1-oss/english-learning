@@ -2420,3 +2420,4 @@
 - 2026-06-12 17:46 — Use past tense 'ended' for completed events, which is idiomatic in log/notification messages.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:53 — Use 'shouldn't need conversion' (or 'shouldn't need to be converted') instead of '不用转' for a natural instruction.
