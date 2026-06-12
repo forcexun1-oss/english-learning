@@ -2416,3 +2416,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 17:45 — Use 'failed to start' instead of 'exiting due to model loading error' to describe the outcome more directly.
+- 2026-06-12 17:46 — Use past tense 'ended' for completed events, which is idiomatic in log/notification messages.
