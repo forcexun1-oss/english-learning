@@ -2398,3 +2398,4 @@
 - 2026-06-12 17:11 — Use 'restarted' without a subject is common in casual tech chat. For clarity, add 'I've' before 'restarted'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:17 — "好了" can mean "It's done", "All set", or "OK" depending on context. Use "It's done" when you've completed an action.
