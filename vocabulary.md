@@ -2341,3 +2341,4 @@
 - 2026-06-12 15:26 — "还要" implies reluctant necessity ("have to"), and "算了" is a casual way to drop the idea ("forget it" or "never mind").
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 15:34 — Use 'Where does ... come from?' to ask about the origin or source of something.
