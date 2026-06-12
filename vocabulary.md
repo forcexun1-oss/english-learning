@@ -2161,3 +2161,4 @@
 =======
 - 2026-06-11 23:54 — 试试 is the reduplicated form of 试 (to try), making it casual. Use 'Try it' or 'Give it a try'.
 >>>>>>> Stashed changes
+- 2026-06-12 09:54 — Use 'reinstalled' instead of 'installed again' for conciseness. 'And now' sounds more natural than 'then' for describing a resulting state.
