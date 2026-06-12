@@ -2430,3 +2430,4 @@
 - 2026-06-12 18:05 — Use '吧' (ba) not '把' (ba) for suggestion. '方案' translates to 'plan' or 'solution'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 18:08 — Use 'take over' for 接手. 'Additional notes' is natural for 补充 in this context.
