@@ -2406,3 +2406,4 @@
 - 2026-06-12 17:19 — Use 'start cross-compiling' (gerund after 'start') instead of 'start cross-compile'. Imperative form is natural for instructions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-12 17:32 — In English questions, the verb 'is' comes before the subject ('what'). 'What is deployed' instead of 'what deployed is'.
