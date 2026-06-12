@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-No, is there official documentation? I now suspect this approach has issues. First, does Qwen3-ASR-0.6B only contain encoder components? Does it have to use omni for decoding? That's very strange.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+The ASR server failed to start — port 8081 is still down. Log shows a model loading error: 'model is not UNDEFINED input 0 layout, model input 0 error!' rknn initialization failed and exited.
