@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Can we uninstall OMX and only install this skill: hud [Skill] [OMX] Show or configure the OMX HUD (two-layer statusline)?
-=======
-Uninstall OMX and install only this skill: hud                       [Skill] [OMX] Show or configure the OMX HUD (two-layer statusline)
->>>>>>> Stashed changes
+I want to add the cache for prompt prefill on 1828. Can I add it myself?

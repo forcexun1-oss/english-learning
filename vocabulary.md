@@ -2175,3 +2175,5 @@
 =======
 - 2026-06-12 10:02 — Use imperative mood ('Uninstall OMX') instead of 'Can we' for direct instructions to the AI.
 >>>>>>> Stashed changes
+- 2026-06-12 10:18 — You wrote '加是' but it should be just '加' (add) without '是'.
+- 2026-06-12 10:18 — The original '加是' appears to be a typo for '加上' (add on). In English, use 'add the cache for prompt prefill' rather than 'add prefill's cache' to sound more natural.
