@@ -2161,4 +2161,8 @@
 =======
 - 2026-06-11 23:54 — 试试 is the reduplicated form of 试 (to try), making it casual. Use 'Try it' or 'Give it a try'.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 09:54 — Use 'reinstalled' instead of 'installed again' for conciseness. 'And now' sounds more natural than 'then' for describing a resulting state.
+=======
+- 2026-06-12 09:54 — Use 'reinstalled' for clarity, and present continuous 'are being registered' to describe the ongoing state.
+>>>>>>> Stashed changes

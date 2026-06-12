@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I reinstalled OMX, and now all hooks are registered twice.
+=======
+I reinstalled OMX and now all hooks are being registered twice.
+>>>>>>> Stashed changes
