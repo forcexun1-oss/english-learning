@@ -2203,4 +2203,8 @@
 =======
 - 2026-06-12 10:48 — 语气词“呗”可以用 "right?" 或 "huh?" 来表达确认或轻微反问。
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-06-12 10:49 — When asking a question, invert the subject and verb: 'Are there multiple?' not 'There are multiple?'
+=======
+- 2026-06-12 10:49 — For questions, use inversion: 'Are there multiple?' instead of 'There are multiple?'
+>>>>>>> Stashed changes
