@@ -2209,7 +2209,11 @@
 - 2026-06-12 10:49 — For questions, use inversion: 'Are there multiple?' instead of 'There are multiple?'
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 10:50 — '试试看' is a colloquial way to say 'give it a try' or 'try and see'.
+=======
+- 2026-06-12 10:50 — "按" in this context is better translated as "try" (试一试) rather than "press", because "试试看" means "give it a try".
+>>>>>>> Stashed changes
 =======
 - 2026-06-12 10:50 — "按" in this context is better translated as "try" (试一试) rather than "press", because "试试看" means "give it a try".
 >>>>>>> Stashed changes
