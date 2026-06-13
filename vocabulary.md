@@ -2336,6 +2336,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2432,3 +2433,5 @@
 >>>>>>> Stashed changes
 - 2026-06-12 18:08 — Use 'take over' for 接手. 'Additional notes' is natural for 补充 in this context.
 - 2026-06-13 10:58 — In Chinese, '要' indicates intention or necessity, but in English 'anything else to add?' naturally conveys the same meaning without a direct equivalent.
+=======
+>>>>>>> Stashed changes
