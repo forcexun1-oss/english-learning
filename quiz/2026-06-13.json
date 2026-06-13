@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T15:01:49.706Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"还有什么要补充的\"?",
+      "options": [
+        "A. Is there anything else to add?",
+        "B. What else need to supplement?",
+        "C. Is there anything else want to add?",
+        "D. What other things to supplement?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chinese '要' signals intention, but English naturally expresses this with 'anything else to add?' without a direct 'want/need' verb."
+    },
+    {
+      "type": "mc",
+      "question": "In a code review, which follow-up question best matches the intent of \"还有什么要补充的\"?",
+      "options": [
+        "A. Anything else you'd like to add?",
+        "B. What supplement do you have?",
+        "C. Do you have supplement things?",
+        "D. Is there other supplement?"
+      ],
+      "correctIndex": 0,
+      "explanation": "In technical discussions, 'anything else you'd like to add?' is a natural, polite way to invite additional comments."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes: \"Is there others to add?\"",
+      "options": [
+        "A. Is there anything else to add?",
+        "B. Is there others to add?",
+        "C. Are there anything else to add?",
+        "D. Is there any other to add?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use 'anything else' (not 'others') when asking about unspecified additional items or comments."
+    },
+    {
+      "type": "mc",
+      "question": "Which word best translates 补充 in a technical context like adding missing test resources?",
+      "options": [
+        "A. add / supplement",
+        "B. supply / provide only",
+        "C. fill / complete only",
+        "D. attach / append only"
+      ],
+      "correctIndex": 0,
+      "explanation": "补充 can mean 'add,' 'supplement,' or 'provide additional notes' depending on context; 'add' is the most versatile in coding discussions."
+    },
+    {
+      "type": "mc",
+      "question": "Which is grammatically correct when asking if more documentation is needed?",
+      "options": [
+        "A. Do we need to add anything else to the doc?",
+        "B. Do we need add anything else to the doc?",
+        "C. Do we need to adding anything else to the doc?",
+        "D. Do we need anything else add to the doc?"
+      ],
+      "correctIndex": 0,
+      "explanation": "After 'need to,' use the base verb 'add.' The pattern mirrors the natural translation of 还有什么要补充的."
+    },
+    {
+      "type": "mc",
+      "question": "At the end of a design meeting, which closing question is most natural?",
+      "options": [
+        "A. Anything else to cover before we wrap up?",
+        "B. What supplement before we finish?",
+        "C. Have other supplement points?",
+        "D. Is there supplement content remaining?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Anything else to cover?' is a standard way to check for remaining topics, similar to 还有什么要补充的."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"还有什么要补充的\"",
+      "modelAnswer": "Is there anything else to add?",
+      "explanation": "This [ZH] line asks whether the other person has additional points or comments to contribute."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite as a polite question in a pull-request review: \"还有什么要补充的\"",
+      "modelAnswer": "Anything else you'd like to add?",
+      "explanation": "Adding 'you'd like' makes the follow-up question warmer and more appropriate in collaborative code review."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English for a stand-up meeting: \"还有什么要补充的\"",
+      "modelAnswer": "Anything else to share?",
+      "explanation": "In daily stand-ups, 'share' fits naturally when inviting teammates to add updates beyond their main report."
+    },
+    {
+      "type": "free",
+      "question": "Fix the grammar: \"What else need to supplement for this feature?\"",
+      "modelAnswer": "What else needs to be added for this feature?",
+      "explanation": "Use third-person singular 'needs,' the passive 'to be added' for clarity, and 'add' instead of the awkward literal 'supplement' as a verb here."
+    }
+  ]
+}
