@@ -2431,3 +2431,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-12 18:08 — Use 'take over' for 接手. 'Additional notes' is natural for 补充 in this context.
+- 2026-06-13 10:58 — In Chinese, '要' indicates intention or necessity, but in English 'anything else to add?' naturally conveys the same meaning without a direct equivalent.
