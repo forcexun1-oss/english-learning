@@ -2337,6 +2337,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2437,3 +2438,5 @@
 >>>>>>> Stashed changes
 - 2026-06-14 20:00 — "板子" here refers to a development board, so "board" is the correct translation.
 - 2026-06-14 20:02 — Use 'continue + gerund' (e.g., 'continue modifying') instead of 'continue + to-infinitive' for ongoing actions.
+=======
+>>>>>>> Stashed changes
