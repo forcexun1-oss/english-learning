@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T15:01:49.706Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"算了,板子已经断开连接了, 你能自己继续改吗\"?",
+      "options": [
+        "A. Never mind, the board has been disconnected — can you keep making changes on your own?",
+        "B. Calculate, the plate already break connect, you can self continue change?",
+        "C. Forget it, the board is disconnecting, can you continue to change yourself?",
+        "D. Never mind, the board already disconnected, you can continue edit by yourself?"
+      ],
+      "correctIndex": 0,
+      "explanation": "算了 means 'never mind' or 'forget it.' 板子 is a dev board; 断开连接 is 'disconnected.' The polite request uses 'can you keep making changes on your own?'"
+    },
+    {
+      "type": "mc",
+      "question": "In a coding session, which English best matches \"你能执行吗\"?",
+      "options": [
+        "A. Can you run it?",
+        "B. Can you execute?",
+        "C. You can execute?",
+        "D. Are you able execution?"
+      ],
+      "correctIndex": 0,
+      "explanation": "In technical contexts, 执行 often means 'run' or 'execute.' 'Can you run it?' is the most natural, complete question — include the object 'it.'"
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural translation of \"其他的都做完了?\"",
+      "options": [
+        "A. Is everything else done?",
+        "B. Are the others all finished doing?",
+        "C. Is other things all done finish?",
+        "D. Have the rest all completed done?"
+      ],
+      "correctIndex": 0,
+      "explanation": "其他的 means 'the rest' or 'everything else.' 都做完了 is present perfect in spirit — 'Is everything else done?' is concise and natural."
+    },
+    {
+      "type": "mc",
+      "question": "When a teammate replies with today's [EN] entry \"continue\" during a task, what are they most likely asking you to do?",
+      "options": [
+        "A. Keep working on the current task without waiting for them",
+        "B. Stop and wait for further instructions",
+        "C. Restart the entire project from scratch",
+        "D. Disconnect the development board immediately"
+      ],
+      "correctIndex": 0,
+      "explanation": "In context — the board disconnected but the user asked if you can keep editing — 'continue' means proceed with the work independently."
+    },
+    {
+      "type": "mc",
+      "question": "Which phrase correctly describes a hardware board that lost its connection?",
+      "options": [
+        "A. The board has been disconnected.",
+        "B. The board has disconnect.",
+        "C. The board is disconnect already.",
+        "D. The board was disconnecting now."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use present perfect passive 'has been disconnected' to describe a connection that is already lost, matching 已经断开连接了."
+    },
+    {
+      "type": "mc",
+      "question": "Which follow-up question best matches checking whether remaining tasks are finished, like \"其他的都做完了?\"",
+      "options": [
+        "A. Have you finished everything else?",
+        "B. Are other things done all?",
+        "C. Did the rest all complete?",
+        "D. Is remaining tasks all finished?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have you finished everything else?' is a natural status-check question in technical workflows, equivalent to asking if the rest is done."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"算了,板子已经断开连接了, 你能自己继续改吗\"",
+      "modelAnswer": "Never mind, the board has been disconnected — can you keep making changes on your own?",
+      "explanation": "This [ZH] line dismisses the hardware issue and asks whether you can proceed with edits independently."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English for a terminal or script context: \"你能执行吗\"",
+      "modelAnswer": "Can you run it?",
+      "explanation": "执行 in coding contexts usually means to run or execute a command, script, or build — 'Can you run it?' is the most natural phrasing."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"其他的都做完了?\"",
+      "modelAnswer": "Is everything else done?",
+      "explanation": "This [ZH] line checks whether all remaining tasks or items have been completed."
+    },
+    {
+      "type": "free",
+      "question": "Fix the grammar: \"Never mind, the board disconnect already, can you continue change by yourself?\"",
+      "modelAnswer": "Never mind, the board has already been disconnected — can you keep making changes on your own?",
+      "explanation": "Use present perfect passive 'has been disconnected' for 已经断开连接了, and 'keep making changes' instead of the ungrammatical 'continue change.'"
+    }
+  ]
+}
