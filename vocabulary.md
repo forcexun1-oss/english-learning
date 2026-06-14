@@ -2436,3 +2436,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-14 20:00 — "板子" here refers to a development board, so "board" is the correct translation.
+- 2026-06-14 20:02 — Use 'continue + gerund' (e.g., 'continue modifying') instead of 'continue + to-infinitive' for ongoing actions.
