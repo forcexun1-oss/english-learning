@@ -2444,3 +2444,4 @@
 - 2026-06-14 20:14 — 执行 is often translated as 'execute' in programming contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-14 20:50 — The phrase '都做完了?' means 'all done?' In English, use 'everything else' or 'others' with 'done' for a natural question.
