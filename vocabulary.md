@@ -2440,3 +2440,4 @@
 - 2026-06-14 20:02 — Use 'continue + gerund' (e.g., 'continue modifying') instead of 'continue + to-infinitive' for ongoing actions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-14 20:14 — 执行 is often translated as 'execute' in programming contexts.
