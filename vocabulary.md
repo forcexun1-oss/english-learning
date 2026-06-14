@@ -2435,3 +2435,4 @@
 - 2026-06-13 10:58 — In Chinese, '要' indicates intention or necessity, but in English 'anything else to add?' naturally conveys the same meaning without a direct equivalent.
 =======
 >>>>>>> Stashed changes
+- 2026-06-14 20:00 — "板子" here refers to a development board, so "board" is the correct translation.
