@@ -2497,3 +2497,4 @@
 - 2026-06-15 16:20 — Use 'since' or 'given that' to link the reason, not '和' (and). Also, '只commit不push' is clearer as 'commit without pushing' or 'commit locally without pushing'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 16:21 — '切分支' is informal Chinese; in English use 'switch branches' or 'checkout branches'.

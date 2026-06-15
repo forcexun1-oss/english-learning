@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Isn't that the same as just committing without pushing, since everything is on my machine?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Actually, making local commits is enough — you can still switch branches, so it's essentially the same thing.
