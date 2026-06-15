@@ -2460,3 +2460,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-15 09:34 — "交接文档" is "handover document" or "handoff document". "交接" is often translated as "handover" in technical/engineering contexts.
+- 2026-06-15 09:41 — "What does this do?" is more direct and common in developer contexts than "What is this for?".
