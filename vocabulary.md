@@ -2471,3 +2471,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 13:52 — Use 'git address' or 'git URL' to refer to a repository location.
