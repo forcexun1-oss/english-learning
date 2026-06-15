@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What's the best configuration for this?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Only update config: sandbox_mode = 'workspace-write'
