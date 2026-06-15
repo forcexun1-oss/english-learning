@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-I ran `codex --profile chatgpt` and got this error:
-Error loading config.toml: --profile `chatgpt` cannot be used while /Users/youxun/.codex/config.toml contains legacy `profile = "chatgpt"` or `[profiles.chatgpt]` config; move those settings into /Users/youxun/.codex/chatgpt.config.toml and remove the legacy profile selector/table. See https://developers.openai.com/codex/config-advanced#profiles for more information.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Write a clear handover document so someone else can pick up the remaining work.

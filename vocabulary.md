@@ -2459,3 +2459,4 @@
 - 2026-06-15 09:29 — Add context like 'I ran X and got Y' to make your message clearer.
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 09:34 — "交接文档" is "handover document" or "handoff document". "交接" is often translated as "handover" in technical/engineering contexts.
