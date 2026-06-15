@@ -2451,3 +2451,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 09:13 — "交接文档" translates to "handover document" or "transition document" in a work handoff context.
