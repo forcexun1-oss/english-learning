@@ -2489,3 +2489,4 @@
 - 2026-06-15 16:17 — “装” typically means 'install', but for a service like GitHub, 'set up' or 'deploy' is more natural. Also, remember to capitalize 'GitHub'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 16:18 — In coding context, '放' (put) is better translated as 'include' or 'contain' rather than 'place'.
