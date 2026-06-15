@@ -2455,3 +2455,4 @@
 - 2026-06-15 09:13 — "交接文档" translates to "handover document" or "transition document" in a work handoff context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 09:29 — Add context like 'I ran X and got Y' to make your message clearer.
