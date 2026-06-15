@@ -2464,3 +2464,4 @@
 - 2026-06-15 09:41 — "What does this do?" is more direct and common in developer contexts than "What is this for?".
 =======
 >>>>>>> Stashed changes
+- 2026-06-15 09:44 — Use 'What is' (or 'What's') instead of 'What the is'. The correct word order is: What + is + the + best + configuration.
