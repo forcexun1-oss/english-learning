@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T15:01:06.112Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"还是写一个清晰的交接文档,让别人来做剩下的事情吧\"?",
+      "options": [
+        "A. Let's write a clear handoff document so someone else can finish the rest.",
+        "B. Still write one clear connect document, let other people do remaining things.",
+        "C. Better write a clear handover paper, make others do the left work.",
+        "D. Or write a clear delivery document, let others to do the rest things."
+      ],
+      "correctIndex": 0,
+      "explanation": "交接文档 is a handoff document. 让别人来做剩下的事情 means letting someone else finish the remaining work — option A is natural and complete."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes the grammar in today's [EN] line \"What the is best configuration for this?\"",
+      "options": [
+        "A. What is the best configuration for this?",
+        "B. What the best configuration is for this?",
+        "C. What is best the configuration for this?",
+        "D. What are the best configuration for this?"
+      ],
+      "correctIndex": 0,
+      "explanation": "English question order is auxiliary + subject + main verb: 'What is the best configuration for this?' — 'the' and 'is' were swapped in the original."
+    },
+    {
+      "type": "mc",
+      "question": "How do you best express \"不能放第三方\" in a technical privacy context?",
+      "options": [
+        "A. I cannot host code on third-party services.",
+        "B. Cannot put third party.",
+        "C. Not allow third side to place.",
+        "D. I can't put it on the third people."
+      ],
+      "correctIndex": 0,
+      "explanation": "第三方 means third-party (external) services. In coding workflows, 'I cannot host code on third-party services' states the constraint clearly."
+    },
+    {
+      "type": "mc",
+      "question": "Which phrase best matches checking project health after a teammate finishes, like \"别人已经执行完了, 现在的项目状态都正常了吗, 还有什么需要调整的吗\"?",
+      "options": [
+        "A. They've finished running it — is the project in a good state now? Is anything else that needs adjusting?",
+        "B. Other people already execute finish, project state all normal now, what still need adjust?",
+        "C. They executed already — is the project status all normal? What else to adjustment?",
+        "D. Others have done execution — project states are normal? Anything need to adjust?"
+      ],
+      "correctIndex": 0,
+      "explanation": "执行完了 means the run/execution is done. A natural status check asks whether the project is in a good state and whether anything still needs adjusting."
+    },
+    {
+      "type": "mc",
+      "question": "In today's log you noted \"The board is connected.\" Which sentence correctly describes an active hardware connection?",
+      "options": [
+        "A. The board is connected.",
+        "B. The board has connect.",
+        "C. The board is connecting now.",
+        "D. The board was connected already."
+      ],
+      "correctIndex": 0,
+      "explanation": "Use simple present 'is connected' to state the current state of a dev board or edge device — the same phrasing you used in today's [EN] entry."
+    },
+    {
+      "type": "mc",
+      "question": "Which question best matches today's [EN] line about self-hosted Git: \"should I set up a lightweight git server for personal use?\"",
+      "options": [
+        "A. Should I set up a lightweight git server for personal use?",
+        "B. Should I setup lightweight git server for personal using?",
+        "C. Do I need install a light git server for myself use?",
+        "D. Should I build one light weight github server for personal?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Your original sentence is already clear and natural. 'Lightweight git server' refers to self-hosted options like Gitea, not GitHub itself."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"还是写一个清晰的交接文档,让别人来做剩下的事情吧\"",
+      "modelAnswer": "Let's write a clear handoff document so someone else can finish the rest.",
+      "explanation": "This [ZH] line suggests documenting remaining work so another person can complete it — a common pattern when handing off hardware or agent tasks."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"别人已经执行完了, 现在的项目状态都正常了吗, 还有什么需要调整的吗\"",
+      "modelAnswer": "They've finished running it — is the project in a good state now? Is anything else that needs adjusting?",
+      "explanation": "This [ZH] line checks execution status and asks whether the project is healthy and if further tweaks are needed."
+    },
+    {
+      "type": "free",
+      "question": "Fix the grammar: \"What the is best configuration for this?\"",
+      "modelAnswer": "What is the best configuration for this?",
+      "explanation": "Swap 'the' and 'is' to form a correct question: auxiliary verb 'is' comes right after the question word 'What.'"
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English for a Git workflow discussion: \"这和都在我的机器上,只commit不push有区别吗\"",
+      "modelAnswer": "How is that different from keeping everything on my machine and only committing without pushing?",
+      "explanation": "This [ZH] line compares a private git server with local-only Git — commit gives you history and branches locally; push sends copies to a remote."
+    }
+  ]
+}
