@@ -2343,6 +2343,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2461,3 +2462,5 @@
 >>>>>>> Stashed changes
 - 2026-06-15 09:34 — "交接文档" is "handover document" or "handoff document". "交接" is often translated as "handover" in technical/engineering contexts.
 - 2026-06-15 09:41 — "What does this do?" is more direct and common in developer contexts than "What is this for?".
+=======
+>>>>>>> Stashed changes
