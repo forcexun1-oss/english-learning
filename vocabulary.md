@@ -2345,6 +2345,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2466,5 +2467,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-15 09:44 — Use 'What is' (or 'What's') instead of 'What the is'. The correct word order is: What + is + the + best + configuration.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
