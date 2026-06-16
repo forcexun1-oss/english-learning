@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-And this kind of splitting is like assigning different modules to different developers. You can assume that each person will maintain their module long-term and will need to interact with others. This achieves high cohesion and low coupling, enabling long-term evolution.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Go through the contracts group by group, starting with Group A.

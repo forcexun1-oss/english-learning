@@ -2652,3 +2652,4 @@
 - 2026-06-16 11:49 — Note: '类似的...一样' is a common Chinese pattern meaning 'similar to' or 'like'. In English, use 'like + gerund' (e.g., 'like assigning') or 'similar to + gerund'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 13:47 — '逐组过一遍' means 'go through one group at a time'. '过一遍' is 'go over/review'.
