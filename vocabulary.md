@@ -2689,3 +2689,4 @@
 - 2026-06-16 14:36 — "继续" can be translated as "Continue" in imperative form, common in task instructions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:41 — "定过的" translates to "already defined/fixed". Use present perfect passive: "are already defined".
