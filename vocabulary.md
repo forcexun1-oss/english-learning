@@ -2592,3 +2592,4 @@
 - 2026-06-16 10:41 — Use 'at' (not 'in') when referring to a position in a hierarchy or layer.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:44 — '底层' translates to 'underlying' or 'low-level' depending on context. Here 'underlying library' is natural for a software design discussion.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is middleware-service at the top layer?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Agreed. The underlying library uses capabilities, and for LLM, choose (I).
