@@ -2702,3 +2702,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-16 14:57 — "Hit your session limit" is fine but sounds slightly informal. "Reached the session limit" or "exceeded the session limit" are more formal alternatives.
+- 2026-06-16 16:04 — In English, 'continue' is the standard way to ask for progress to be resumed in coding assistant conversations.
