@@ -2669,3 +2669,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-16 14:01 — Use 'it' instead of 'he' when referring to a component or module in English technical writing.
+- 2026-06-16 14:07 — Use "it" for components or objects, not "he" (他) — English doesn't personify software modules.
