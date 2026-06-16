@@ -2580,3 +2580,4 @@
 - 2026-06-16 10:24 — "包个http接口" means "wrap an HTTP interface" — use "wrap" rather than "package" when describing adding a thin layer over an existing API.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:30 — “理清” means “to sort out/clarify” — often used in technical discussions about architecture or design.

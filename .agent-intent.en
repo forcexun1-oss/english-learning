@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-First, let's clarify that middleware-service exposes all HTTP interfaces externally. That's bloated, and it's okay if it's bloated — but if we need to expose many HTTP ports externally, we can have many modules internally for good design, following proper modular separation. The internal implementation doesn't have to all be crammed into one place. However, for external HTTP and internal direct interfaces, we need to keep this principle in mind: there should be only one final implementation, and the design should prioritize internal use. The external layer is just wrapping that implementation in an HTTP interface.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+The essence of these two issues is that the layers and modules haven't been clearly sorted out. Let's first clarify the relevant layers and modules.
