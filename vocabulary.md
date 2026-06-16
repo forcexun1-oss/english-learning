@@ -2620,3 +2620,4 @@
 - 2026-06-16 11:10 — Use 'Put' instead of '放' for placing items in sections; '放' is often translated as 'put' or 'place' in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:16 — Use 'no longer' to indicate a change in status. 'POC or MVP' is more natural than 'POC MVP this'.
