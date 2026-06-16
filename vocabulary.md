@@ -2648,3 +2648,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-16 11:45 — Use 'plans' (plural) when referring to multiple plans, and maintain parallel structure: 'the plans we specify can be executed in parallel'.
+- 2026-06-16 11:49 — Note: '类似的...一样' is a common Chinese pattern meaning 'similar to' or 'like'. In English, use 'like + gerund' (e.g., 'like assigning') or 'similar to + gerund'.
