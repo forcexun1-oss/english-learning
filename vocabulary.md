@@ -2701,3 +2701,4 @@
 - 2026-06-16 14:55 — Use 'Let's' to propose a shared action (like 一起), and 'architect' as a verb is common in software.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:57 — "Hit your session limit" is fine but sounds slightly informal. "Reached the session limit" or "exceeded the session limit" are more formal alternatives.
