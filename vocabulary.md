@@ -2552,3 +2552,4 @@
 - 2026-06-16 09:30 — Use 'Let's review' instead of '看看' for a more professional tone in technical discussions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:40 — Use 'is now removed' to state the current status (adjective). '做什么用的' becomes 'what is this used for' or 'what does this do'.

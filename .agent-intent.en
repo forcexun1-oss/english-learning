@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let's review the technical solution for the edge-side agent, the adjustments to the layered architecture design that follow, and the interface design. Then discuss how to start implementing these features step by step. Before we begin, based on the later adjustments, let's first align on the overall design.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+D1 is now removed. D2 middleware-service is the latest design. D3 Action::Device — what is this used for?
