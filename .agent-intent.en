@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Organize by module, but don't slice it too finely — aim for high cohesion and low coupling.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
