@@ -2405,6 +2405,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2704,3 +2705,5 @@
 - 2026-06-16 14:57 — "Hit your session limit" is fine but sounds slightly informal. "Reached the session limit" or "exceeded the session limit" are more formal alternatives.
 - 2026-06-16 16:04 — In English, 'continue' is the standard way to ask for progress to be resumed in coding assistant conversations.
 - 2026-06-16 16:07 — "继续" is simply "Continue" in English. Use it to prompt the assistant to proceed with the previous task or conversation.
+=======
+>>>>>>> Stashed changes
