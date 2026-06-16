@@ -2525,3 +2525,4 @@
 - 2026-06-16 09:12 — "看看" is very casual. In English, adding "please" or specifying what to look at makes it clearer and more polite.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:16 — Use 'inside' or 'in' for 里面, but avoid literal 'inside of'. In tech contexts, 'What's in the RKNN?' is also natural.
