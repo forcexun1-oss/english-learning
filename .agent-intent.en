@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-Is the design that the bottom layer provides universal capabilities with unified interfaces, while the upper layer has multiple usage methods?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Write into SSOT:
+1. HTTP/uniffi adapters are decoupled from the capability crate — agree to write it in as a target direction (implementation is a later concern)?
+2. PyO3 converges to trait backend — write into the design now, or just note it as a TODO? How to phrase this?

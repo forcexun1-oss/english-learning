@@ -2564,3 +2564,4 @@
 - 2026-06-16 10:00 — Use 'provides' instead of 'is' to make the sentence more natural in English ('底层提供通用的能力' vs '底层是通用的能力').
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:02 — "Write into SSOT" is idiomatic for adding decisions to a Single Source of Truth document. "Decoupled from" means separated from, and "converges to" indicates consolidating into.
