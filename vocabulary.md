@@ -2664,3 +2664,4 @@
 - 2026-06-16 13:55 — "就是" can be translated as "it's just" or "that's simply" to clarify or emphasize something.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 13:57 — In English, question word order typically inverts the subject and verb: 'What is the scope...' (not 'Scope is what...').
