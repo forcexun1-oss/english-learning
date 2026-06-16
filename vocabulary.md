@@ -2544,3 +2544,4 @@
 - 2026-06-16 09:21 — When asking about the nature of something, use 'What is...?' rather than '...is a what?' which follows Chinese word order.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:25 — "整个排除" can be translated as "entirely excluded" or "completely excluded." Here "entire folder" is more natural than "whole folder."
