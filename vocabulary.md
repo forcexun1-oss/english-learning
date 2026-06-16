@@ -2596,3 +2596,4 @@
 - 2026-06-16 10:44 — '底层' translates to 'underlying' or 'low-level' depending on context. Here 'underlying library' is natural for a software design discussion.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:49 — Use 'start from' to indicate beginning at a point.
