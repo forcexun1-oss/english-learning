@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So essentially, both orchestration and HTTP are at the upper layer, while the implementations below are at the underlying layer. Regardless of how the underlying components are organized, they should be directly callable by the upper layers. Of course, this might affect packaging, but if we clarify the layering, packaging should be straightforward — we just need to make the dependency relationships clear.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Is middleware-service at the top layer?

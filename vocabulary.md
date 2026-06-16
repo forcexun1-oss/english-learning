@@ -2588,3 +2588,4 @@
 - 2026-06-16 10:35 — 用 "make ... clear" 或 "clarify" 来翻译 "把...搞清楚"，而不要直译 "把" 字结构。
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:41 — Use 'at' (not 'in') when referring to a position in a hierarchy or layer.
