@@ -2677,3 +2677,4 @@
 - 2026-06-16 14:12 — “改定”意思是“修改并确定”，这里用“finalize”就可以了。
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:20 — Use 'Continue' as a command. In English, we often add a period to make it a complete sentence.
