@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The essence of these two issues is that the layers and modules haven't been clearly sorted out. Let's first clarify the relevant layers and modules.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+So essentially, both orchestration and HTTP are at the upper layer, while the implementations below are at the underlying layer. Regardless of how the underlying components are organized, they should be directly callable by the upper layers. Of course, this might affect packaging, but if we clarify the layering, packaging should be straightforward — we just need to make the dependency relationships clear.
