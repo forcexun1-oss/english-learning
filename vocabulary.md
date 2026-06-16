@@ -2540,3 +2540,4 @@
 - 2026-06-16 09:20 — Use 'completed successfully' instead of just 'completed' for positive outcomes.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:21 — When asking about the nature of something, use 'What is...?' rather than '...is a what?' which follows Chinese word order.
