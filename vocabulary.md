@@ -2600,3 +2600,4 @@
 - 2026-06-16 10:49 — Use 'start from' to indicate beginning at a point.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:53 — Use 'Agreed' (adjective) to express approval, not 'Agree' (verb). 'Select B' is concise for choosing an option.
