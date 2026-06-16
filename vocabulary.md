@@ -2624,3 +2624,4 @@
 - 2026-06-16 11:16 — Use 'no longer' to indicate a change in status. 'POC or MVP' is more natural than 'POC MVP this'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:18 — In English, use commas and 'and' between list items (e.g., 'a, b, and c') instead of plus signs for clarity.
