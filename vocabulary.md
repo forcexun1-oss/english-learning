@@ -2572,3 +2572,4 @@
 - 2026-06-16 10:08 — Use 'approve' (not 'acknowledge') for 认可 in technical contexts. '转成' → 'convert into' or 'transform into'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:13 — "Review" is a common English verb for examining code/architecture; keep it as-is.
