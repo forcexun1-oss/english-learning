@@ -2697,3 +2697,4 @@
 - 2026-06-16 14:52 — Use plural 'skills' when referring to multiple techniques or abilities.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:55 — Use 'Let's' to propose a shared action (like 一起), and 'architect' as a verb is common in software.
