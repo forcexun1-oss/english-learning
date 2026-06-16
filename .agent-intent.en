@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-A, middleware-service only provides capabilities, while edge-agent handles orchestration. However, there's a problem: the current middleware design is really meant to expose HTTP interfaces so that the application layer can quickly start using and testing. First, it's HTTP, which I think has efficiency concerns for edge-side usage. Second, too many things are dumped directly into middleware-service, making it too bloated — this is a bad design.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Is the design that the bottom layer provides universal capabilities with unified interfaces, while the upper layer has multiple usage methods?

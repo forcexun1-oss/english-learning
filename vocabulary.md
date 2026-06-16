@@ -2560,3 +2560,4 @@
 - 2026-06-16 09:48 — Note: '编排' is commonly translated as 'orchestration' in software architecture contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:00 — Use 'provides' instead of 'is' to make the sentence more natural in English ('底层提供通用的能力' vs '底层是通用的能力').
