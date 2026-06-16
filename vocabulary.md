@@ -2548,3 +2548,4 @@
 - 2026-06-16 09:25 — "整个排除" can be translated as "entirely excluded" or "completely excluded." Here "entire folder" is more natural than "whole folder."
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:30 — Use 'Let's review' instead of '看看' for a more professional tone in technical discussions.
