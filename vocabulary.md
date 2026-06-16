@@ -2681,3 +2681,4 @@
 - 2026-06-16 14:20 — Use 'Continue' as a command. In English, we often add a period to make it a complete sentence.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:27 — Use 'by the way' or 'also' for '对了' when adding an afterthought.
