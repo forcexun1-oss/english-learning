@@ -2521,3 +2521,4 @@
 - 2026-06-16 09:10 — Use 'have been separated out' to express the passive perfect tense; '把' at the end was likely a typo for '了'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:12 — "看看" is very casual. In English, adding "please" or specifying what to look at makes it clearer and more polite.
