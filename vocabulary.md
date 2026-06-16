@@ -2616,3 +2616,4 @@
 - 2026-06-16 11:07 — Use 'Show me' to combine 'give me' and 'let me see' naturally.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:10 — Use 'Put' instead of '放' for placing items in sections; '放' is often translated as 'put' or 'place' in this context.
