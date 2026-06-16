@@ -2673,3 +2673,4 @@
 - 2026-06-16 14:07 — Use "it" for components or objects, not "he" (他) — English doesn't personify software modules.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:12 — “改定”意思是“修改并确定”，这里用“finalize”就可以了。
