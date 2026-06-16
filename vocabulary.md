@@ -2628,3 +2628,4 @@
 - 2026-06-16 11:18 — In English, use commas and 'and' between list items (e.g., 'a, b, and c') instead of plus signs for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:24 — Use 'review first without writing implementation' to clearly separate the two stages.
