@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T15:03:00.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"把git的状态都调整好,接下来要开始大量的写代码了\"?",
+      "options": [
+        "A. Get the git status sorted out — we're about to start writing a lot of code.",
+        "B. Adjust all git status good, next will start write many code.",
+        "C. Make git state all correct, then begin to do large amount coding.",
+        "D. Fix the git situations, after that we will start massive write codes."
+      ],
+      "correctIndex": 0,
+      "explanation": "调整好 means get things sorted out or cleaned up. 大量的写代码 means writing a lot of code — option A is natural and matches a pre-refactor workflow."
+    },
+    {
+      "type": "mc",
+      "question": "How do you best express today's architecture decision: \"middleware-service 只提供能力，edge-agent 负责编排\"?",
+      "options": [
+        "A. middleware-service only provides capabilities; edge-agent handles orchestration.",
+        "B. middleware-service only give ability, edge-agent responsible arrange.",
+        "C. middleware-service just offer powers, edge-agent do the compose work.",
+        "D. middleware-service provides all, edge-agent only orchestrate the middle."
+      ],
+      "correctIndex": 0,
+      "explanation": "能力 is capabilities (not generic 'ability'), and 编排 is orchestration — the division of responsibility between middleware and edge-agent."
+    },
+    {
+      "type": "mc",
+      "question": "In today's [EN] entry you wrote \"go ahead.\" What does this most naturally mean in a coding session?",
+      "options": [
+        "A. Proceed — continue with the planned work.",
+        "B. Go to the front of the line.",
+        "C. Move ahead in the git history.",
+        "D. Run the program forward."
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Go ahead\" is a common confirmation meaning proceed or continue — you used it to green-light the next step in the edge-agent refactor."
+    },
+    {
+      "type": "mc",
+      "question": "Which sentence best matches today's [EN] instruction \"generate the Stage-0 skeleton code\"?",
+      "options": [
+        "A. Generate the Stage-0 skeleton code.",
+        "B. Generate the stage zero skeleton codes.",
+        "C. Create the Stage-0 frame code structure.",
+        "D. Make skeleton for stage 0 coding."
+      ],
+      "correctIndex": 0,
+      "explanation": "Your original phrasing is already correct. 'Skeleton code' is standard for scaffold/stub implementations; Stage-0 keeps the hyphenated project phase name."
+    },
+    {
+      "type": "mc",
+      "question": "Which English phrase best translates the design principle from today's [ZH] line: \"按模块把, 也不要切的过细, 要高内聚低耦合\"?",
+      "options": [
+        "A. Organize by module — don't split too finely; aim for high cohesion and low coupling.",
+        "B. By module cut, not too thin, need high inside gather low mix.",
+        "C. Split by modules but not over small, want high cohesion and low couple.",
+        "D. Module by module, avoid too fine, high gather inside and low connect outside."
+      ],
+      "correctIndex": 0,
+      "explanation": "高内聚低耦合 is the standard software-design phrase high cohesion and low coupling. 不要切的过细 warns against over-fragmenting modules."
+    },
+    {
+      "type": "mc",
+      "question": "Which question best matches today's [EN] line: \"So, I can tell codex to implement the code on the left now?\"",
+      "options": [
+        "A. So, can I tell Codex to implement the code on the left now?",
+        "B. So, I can tell codex implement the left side code now?",
+        "C. So, should I let codex to do the left code implementation now?",
+        "D. So, I can say codex implement left code now, right?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Your sentence is already natural. Option A only adds a question mark and capitalizes Codex — confirming you're ready to hand off implementation to the AI agent."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"这个项目已经不是POC MVP这个, 项目有体现把\"",
+      "modelAnswer": "This project is no longer a POC or MVP — the codebase should reflect that.",
+      "explanation": "POC (proof of concept) and MVP (minimum viable product) are left as acronyms. 有体现 means the project itself should show or reflect the mature stage."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"给我一个整体的架构图,给我看看\"",
+      "modelAnswer": "Give me an overall architecture diagram — I want to take a look.",
+      "explanation": "整体的架构图 is an overall/high-level architecture diagram. The trailing 给我看看 softens the request: let me see it / I want to review it."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English for a design-doc workflow: \"写进文档,结构图放 SSOT §1,运行时图放 §4\"",
+      "modelAnswer": "Write it into the doc — put the structure diagram in SSOT §1 and the runtime diagram in §4.",
+      "explanation": "写进文档 means commit the content to the documentation. SSOT (single source of truth) section references stay as written in technical docs."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite today's [EN] line as a clear commit instruction: \"commit this and add the config scaffolding\"",
+      "modelAnswer": "Commit this and add the config scaffolding.",
+      "explanation": "Your original line is already a natural commit instruction. 'Config scaffolding' means the initial config file structure needed before full implementation."
+    }
+  ]
+}
