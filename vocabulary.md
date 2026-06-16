@@ -2685,3 +2685,4 @@
 - 2026-06-16 14:27 — Use 'by the way' or 'also' for '对了' when adding an afterthought.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:36 — "继续" can be translated as "Continue" in imperative form, common in task instructions.
