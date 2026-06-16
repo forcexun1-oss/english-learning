@@ -2556,3 +2556,4 @@
 - 2026-06-16 09:40 — Use 'is now removed' to state the current status (adjective). '做什么用的' becomes 'what is this used for' or 'what does this do'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:48 — Note: '编排' is commonly translated as 'orchestration' in software architecture contexts.
