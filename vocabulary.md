@@ -2656,3 +2656,4 @@
 - 2026-06-16 13:47 — '逐组过一遍' means 'go through one group at a time'. '过一遍' is 'go over/review'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 13:53 — "解析" can mean 'parsing' or 'resolution'. In context, make sure to clarify which meaning you intend.
