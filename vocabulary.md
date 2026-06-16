@@ -2568,3 +2568,4 @@
 - 2026-06-16 10:02 — "Write into SSOT" is idiomatic for adding decisions to a Single Source of Truth document. "Decoupled from" means separated from, and "converges to" indicates consolidating into.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:08 — Use 'approve' (not 'acknowledge') for 认可 in technical contexts. '转成' → 'convert into' or 'transform into'.

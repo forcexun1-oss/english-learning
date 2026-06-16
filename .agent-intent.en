@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-Write into SSOT:
-1. HTTP/uniffi adapters are decoupled from the capability crate — agree to write it in as a target direction (implementation is a later concern)?
-2. PyO3 converges to trait backend — write into the design now, or just note it as a TODO? How to phrase this?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Approved D4. Convert it into a phased implementation plan, then submit the document.
