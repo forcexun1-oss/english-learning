@@ -2604,3 +2604,4 @@
 - 2026-06-16 10:53 — Use 'Agreed' (adjective) to express approval, not 'Agree' (verb). 'Select B' is concise for choosing an option.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:57 — Use 'clean cut' for '干净切断' — it's common in software to mean a clean separation without side effects.
