@@ -2632,3 +2632,4 @@
 - 2026-06-16 11:24 — Use 'review first without writing implementation' to clearly separate the two stages.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:27 — "分阶段" can be translated as "phased delivery" or "phasing" — here "phased delivery" is more natural for software projects.
