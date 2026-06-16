@@ -2576,3 +2576,4 @@
 - 2026-06-16 10:13 — "Review" is a common English verb for examining code/architecture; keep it as-is.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 10:24 — "包个http接口" means "wrap an HTTP interface" — use "wrap" rather than "package" when describing adding a thin layer over an existing API.
