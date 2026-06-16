@@ -2529,3 +2529,4 @@
 - 2026-06-16 09:16 — Use 'inside' or 'in' for 里面, but avoid literal 'inside of'. In tech contexts, 'What's in the RKNN?' is also natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:18 — The Chinese '把' structure doesn't have a direct equivalent in English; use 'get something in order' or 'make sure something is done' instead.
