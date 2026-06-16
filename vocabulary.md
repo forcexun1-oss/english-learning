@@ -2660,3 +2660,4 @@
 - 2026-06-16 13:53 — "解析" can mean 'parsing' or 'resolution'. In context, make sure to clarify which meaning you intend.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 13:55 — "就是" can be translated as "it's just" or "that's simply" to clarify or emphasize something.
