@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the scope of Actuator?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+For A6, use Executor, delete Actuator, and apply the other suggested changes. In that case, what features will it ultimately be responsible for?

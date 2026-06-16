@@ -2668,3 +2668,4 @@
 - 2026-06-16 13:57 — In English, question word order typically inverts the subject and verb: 'What is the scope...' (not 'Scope is what...').
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 14:01 — Use 'it' instead of 'he' when referring to a component or module in English technical writing.
