@@ -2517,3 +2517,4 @@
 - 2026-06-16 09:10 — Use present perfect 'have been separated' to indicate a completed change that affects the current state. The particle '把' at the end is informal; in English, you can omit it.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 09:10 — Use 'have been separated out' to express the passive perfect tense; '把' at the end was likely a typo for '了'.
