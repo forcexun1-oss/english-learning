@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-These are two different dimensions, right?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Organize by module, but don't slice it too finely — aim for high cohesion and low coupling.
