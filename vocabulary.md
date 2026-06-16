@@ -2612,3 +2612,4 @@
 - 2026-06-16 11:03 — '做完' means 'complete/finish doing', and '做好' means 'do it well'. Together they emphasize both completion and quality.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:07 — Use 'Show me' to combine 'give me' and 'let me see' naturally.
