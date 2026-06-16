@@ -2647,3 +2647,4 @@
 - 2026-06-16 11:38 — Use 'slice it too finely' for 切的过细; 'by module' is more natural than 'according to module'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-16 11:45 — Use 'plans' (plural) when referring to multiple plans, and maintain parallel structure: 'the plans we specify can be executed in parallel'.

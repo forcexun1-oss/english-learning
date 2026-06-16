@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Organize by module, but don't slice it too finely — aim for high cohesion and low coupling.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+What I mean by 'parallel' is that the plans we specify can be executed in parallel. We should define all of them at once when making the plan.
