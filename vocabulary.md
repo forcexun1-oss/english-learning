@@ -2819,3 +2819,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 14:22 — Use 'everything except X' instead of 'everything else ... except X' for clarity.
