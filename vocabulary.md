@@ -2773,3 +2773,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 12:30 — Add 'the' before the chip model number (e.g., 'the RK3576') to make it sound more natural.
