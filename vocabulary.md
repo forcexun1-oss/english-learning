@@ -2766,3 +2766,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 11:47 — Use 'Just to clarify' instead of 'I just want to clarify' for a more direct tone.
