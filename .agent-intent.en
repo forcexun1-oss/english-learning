@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Run `gitnexus analyze`, then draft the Z1a handoff.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Qwen3-TTS-1.7B is downloaded to the downloads directory. Install it on the Rockchip board. Codex tried once, but it failed.

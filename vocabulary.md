@@ -2749,3 +2749,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 10:38 — Use 'downloaded to' (direction) instead of 'downloaded in' (location) for a directory. Also capitalize proper nouns like 'Rockchip'.
