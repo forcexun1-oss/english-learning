@@ -2781,3 +2781,4 @@
 - 2026-06-17 12:31 — "What about the VRAM" sounds vague. Use "What's the VRAM" or "How much VRAM does it have" for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 13:01 — Use 'should be deployed' (passive voice after modal) instead of 'should deployed'.
