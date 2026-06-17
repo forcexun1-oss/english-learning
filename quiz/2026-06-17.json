@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T15:00:53.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"看看他实现的怎么样, 然后,还留了这些问题看怎么处理\"?",
+      "options": [
+        "A. Take a look at how he implemented it, then figure out how to handle the remaining issues.",
+        "B. See his implement how, then leave these problems look how to process.",
+        "C. Look at how he did the implementation, then see these left problems how to deal.",
+        "D. Check his implementation situation, after that watch these problems how handle."
+      ],
+      "correctIndex": 0,
+      "explanation": "看看…怎么样 means review or assess how something was done. 还留了这些问题 means the remaining/open issues left in the work — option A captures both the review and follow-up planning."
+    },
+    {
+      "type": "mc",
+      "question": "Which correction fixes the grammar in today's [EN] line: \"So tts should deployed on the 3576\"?",
+      "options": [
+        "A. So TTS should be deployed on the 3576.",
+        "B. So TTS should deploy on the 3576.",
+        "C. So TTS should deploying on the 3576.",
+        "D. So TTS should to deploy on the 3576."
+      ],
+      "correctIndex": 0,
+      "explanation": "After modal verbs like should, use the base verb. Passive voice needs be + past participle: should be deployed."
+    },
+    {
+      "type": "mc",
+      "question": "Which question best corrects today's [EN] line: \"what the current status of this project?\"",
+      "options": [
+        "A. What is the current status of this project?",
+        "B. What the current status is of this project?",
+        "C. What current status of this project?",
+        "D. What are the current status of this project?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A wh-question needs an auxiliary verb: What is the current status… Status is singular, so use is, not are."
+    },
+    {
+      "type": "mc",
+      "question": "In today's [EN] entry you wrote \"hold off for now, just keep TTS on the 1828.\" What does \"hold off\" mean here?",
+      "options": [
+        "A. Delay or postpone the planned action for now.",
+        "B. Physically hold the device in place.",
+        "C. Stop the TTS service permanently.",
+        "D. Increase the priority of deployment."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hold off means wait or postpone — you decided not to move TTS to the 3576 yet and keep it on the 1828 board."
+    },
+    {
+      "type": "mc",
+      "question": "Which spelling fix is correct for today's [EN] question about rknn_model_zoo: \"Does it run on CPU or NPU after convertion?\"",
+      "options": [
+        "A. Does it run on CPU or NPU after conversion?",
+        "B. Does it run on CPU or NPU after convertation?",
+        "C. Does it run on CPU or NPU after converting?",
+        "D. Does it seems run on CPU or NPU after convertion?"
+      ],
+      "correctIndex": 0,
+      "explanation": "The noun form is conversion (from convert), not convertion. After conversion asks about runtime behavior once models are converted to RKNN format."
+    },
+    {
+      "type": "mc",
+      "question": "Which English question best translates today's [ZH] line: \"瑞芯微的板子上有Android系统吧\"?",
+      "options": [
+        "A. Rockchip boards run Android, right?",
+        "B. Rockchip board have Android system on it, yes?",
+        "C. On Rockchip's board there is Android system, isn't it?",
+        "D. The Rockchip plate has Android OS installed, correct?"
+      ],
+      "correctIndex": 0,
+      "explanation": "瑞芯微 is Rockchip. 吧 at the end seeks confirmation — run Android, right? is natural for asking whether the boards ship with Android."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"瑞芯微的板子上有Android系统吧\"",
+      "modelAnswer": "Rockchip boards run Android, right?",
+      "explanation": "瑞芯微 (Rockchip) boards commonly ship with Android. The particle 吧 turns the statement into a confirmation question."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite today's [EN] line as a clear deployment question: \"I just want to clarify: is it running on the 1828?\"",
+      "modelAnswer": "I just want to clarify: is it running on the 1828?",
+      "explanation": "Your original phrasing is already natural. Clarify signals you want a precise yes/no answer about which board the service is active on."
+    },
+    {
+      "type": "free",
+      "question": "Fix the grammar in today's [EN] instruction: \"let test\"",
+      "modelAnswer": "Let's test.",
+      "explanation": "Let test is incomplete. Let's (let us) test is the standard short instruction to run a test or try something."
+    },
+    {
+      "type": "free",
+      "question": "Write a natural English sentence expressing today's deployment decision: because of the 1828's memory limit, deploy everything else on the 3576 except the LLM.",
+      "modelAnswer": "Because of the 1828's memory limit, we should deploy everything else on the 3576, except the LLM.",
+      "explanation": "Because of introduces a constraint. Everything else on the 3576, except the LLM keeps the LLM on the 1828 while offloading other workloads to the more capable board."
+    }
+  ]
+}
