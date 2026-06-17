@@ -2847,3 +2847,4 @@
 - 2026-06-17 16:49 — Use 'there's no' instead of 'there is no' for a more natural spoken/written rhythm in informal technical communication.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 16:51 — Use 'actually' instead of 'for real'; avoid 'plz' in professional writing.
