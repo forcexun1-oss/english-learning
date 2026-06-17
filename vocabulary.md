@@ -2806,3 +2806,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 13:50 — Use 'also' at the beginning of a sentence for instructions like this, instead of 'too' at the end.
