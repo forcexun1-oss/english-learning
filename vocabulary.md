@@ -2831,3 +2831,4 @@
 - 2026-06-17 14:44 — The Chinese particle '吧' at the end of a sentence indicates a confirmation question. In English, we can use a tag question like 'right?' or 'isn’t it?'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 14:52 — "convertion" should be spelled "conversion" (noun form of convert).
