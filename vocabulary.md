@@ -2848,3 +2848,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-17 16:51 — Use 'actually' instead of 'for real'; avoid 'plz' in professional writing.
+- 2026-06-17 17:16 — Use 'let's' (let us) for suggestions, not 'let' which declares a variable.
