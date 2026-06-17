@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Due to the 1828's memory limit, we should deploy everything except the LLM on the 3576.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
