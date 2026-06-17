@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Qwen3-TTS-1.7B is downloaded to the downloads directory. Install it on the Rockchip board. Codex tried once, but it failed.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Yes, rerun it. Use qwen-asr as a reference.
