@@ -2777,3 +2777,4 @@
 - 2026-06-17 12:30 — Add 'the' before the chip model number (e.g., 'the RK3576') to make it sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 12:31 — "What about the VRAM" sounds vague. Use "What's the VRAM" or "How much VRAM does it have" for clarity.
