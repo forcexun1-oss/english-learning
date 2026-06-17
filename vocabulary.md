@@ -2843,3 +2843,4 @@
 - 2026-06-17 15:02 — Use 'does' instead of 'are' for a singular subject (the repo). 'Are there' is for plural, e.g., 'Are there any converted model files?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 16:49 — Use 'there's no' instead of 'there is no' for a more natural spoken/written rhythm in informal technical communication.
