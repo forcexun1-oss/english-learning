@@ -2823,3 +2823,4 @@
 - 2026-06-17 14:22 — Use 'everything except X' instead of 'everything else ... except X' for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 14:37 — 'Firstly' is formal; 'First' or 'First of all' is more common in technical writing.
