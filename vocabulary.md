@@ -2839,3 +2839,4 @@
 - 2026-06-17 14:56 — Add 'me' to clarify that you are offering to do the action.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 15:02 — Use 'does' instead of 'are' for a singular subject (the repo). 'Are there' is for plural, e.g., 'Are there any converted model files?'
