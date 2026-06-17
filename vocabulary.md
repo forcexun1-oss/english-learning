@@ -2742,3 +2742,4 @@
 - 2026-06-17 09:43 — Use the imperative mood for git commit messages, e.g., 'Add review fixes'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-17 09:46 — Use backticks around command names for clarity.
