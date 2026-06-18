@@ -2935,3 +2935,4 @@
 - 2026-06-18 13:32 — "吧" softens the suggestion; "Let's" is a natural English equivalent.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:35 — The Chinese '硬' here means 'insist on doing something (against the other's will)'. In English, use 'insist on' or 'go ahead and' to convey that tone.
