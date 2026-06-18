@@ -1,5 +1,6 @@
-<<<<<<< Updated upstream
-Okay, combine it into one sentence and send it to the TTS agent.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+ASR has stopped. I raised 3 questions:
+1. Should sensevoice-rknn2 continue to be opt-in, not switched to default?
+2. Can the official model path be models/asr-rknn2/?
+3. Is there a product command word manifest? If not, should we continue using existing open small sets/extended sets for validation?
+
+Let's check how it's going and how to proceed.

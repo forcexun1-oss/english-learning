@@ -3023,3 +3023,4 @@
 - 2026-06-18 16:19 — Use 'combine into one sentence' instead of 'organize into one sentence' for natural English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:20 — "看看他咋样了" is colloquial; use "check on its status" or "see how it's doing" for a more professional tone.
