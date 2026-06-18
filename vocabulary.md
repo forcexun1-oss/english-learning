@@ -2996,3 +2996,4 @@
 - 2026-06-18 15:28 — '停下来修好再继续' can be phrased as 'stop, fix, and then continue' or 'halt, fix, then resume'. '严重的问题' translates to 'serious issues'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:31 — 用 'has finished executing' 表示动作已完成，比 'is done' 更正式。'issues' 比 'problems' 更常用于代码审查场景。
