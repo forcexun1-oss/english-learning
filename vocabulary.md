@@ -2855,3 +2855,4 @@
 - 2026-06-18 10:13 — Use 'doesn't' (does not) instead of 'dont' for third-person singular subjects like 'code'.
 - 2026-06-18 10:13 — Use 'doesn't' (does not) with third-person singular 'code', not 'dont'.
 - 2026-06-18 10:13 — Use 'doesn't' (does not) because 'code' is singular.
+- 2026-06-18 10:16 — 'Check' is fine for brief instructions; you could also use 'review' for a more formal tone.
