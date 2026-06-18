@@ -2976,3 +2976,4 @@
 - 2026-06-18 15:05 — "提交法" is a colloquial way to say "commit process/method". Use "commit process" or "how commits are handled" in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:06 — "可以" here means "acceptable" or "works for me," not just "can." In casual approval, use "That works" or "That's fine."
