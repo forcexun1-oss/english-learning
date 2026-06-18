@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Chinese
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+First, write the TTS optimization plan, then write an ASR plan, and execute both in parallel.

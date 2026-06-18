@@ -2863,3 +2863,4 @@
 - 2026-06-18 10:18 — "中文" is a noun meaning the Chinese language. In a sentence, you might say "Let's use Chinese" or "I prefer Chinese."
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 10:22 — Use 'execute both in parallel' instead of '两者并行执行' directly. 'Both' replaces '两者' naturally in English.
