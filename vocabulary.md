@@ -2943,3 +2943,4 @@
 - 2026-06-18 13:37 — Use 'mention in the plan' instead of 'tell in the plan' for including information in a document.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:42 — '处理完' combines verb 'handle' with complement '完' (finish) to mean 'finish handling'.
