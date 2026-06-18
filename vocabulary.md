@@ -2880,3 +2880,4 @@
 - 2026-06-18 10:44 — '别的地方' can be translated as 'other areas' or 'other places' when referring to parts of the code or process.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 10:57 — Use 'let' + base verb (let someone do something) instead of 'make' + verb. 'Let codex execute' is correct.
