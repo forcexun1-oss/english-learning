@@ -2915,3 +2915,4 @@
 - 2026-06-18 11:46 — "TM" may be ambiguous. If it's short for "them" in Chinese, use "each person" or "they" for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:10 — 已经写好的 = 'already written'. In software, 提交 often translates to 'commit' (as in git commit).
