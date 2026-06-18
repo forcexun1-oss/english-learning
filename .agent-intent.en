@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 For TTS to be production-ready, first explain the current workflow to me — what each step does specifically, whether it runs on CPU or GPU, and which board it's running on.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
