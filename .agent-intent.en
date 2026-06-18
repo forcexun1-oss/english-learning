@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-For TTS to be production-ready, first explain the current workflow to me — what each step does specifically, whether it runs on CPU or GPU, and which board it's running on.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+We need to change it. And why is there Python code? Does the first step require Python? The fourth step also needs to be changed. Are these two steps currently the most time-consuming ones?

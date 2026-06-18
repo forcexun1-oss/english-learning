@@ -2872,3 +2872,4 @@
 - 2026-06-18 10:31 — "生产可用" is better translated as "production-ready" (adjective) rather than "production available". Also, "讲讲" implies a detailed explanation, so "explain" fits well here.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 10:37 — Use 'the first step' and 'the fourth step' instead of '第一' and '第四部' to refer to specific steps in a process.
