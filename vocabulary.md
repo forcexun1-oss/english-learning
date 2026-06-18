@@ -3043,3 +3043,4 @@
 - 2026-06-18 16:35 — Use 'on its own' instead of '自己去干' for natural English. '自己去干' is too literal and sounds like a command to a person.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:37 — ‘性能数据’ can be translated as 'performance data' or 'performance metrics'. Use 'metrics' for more specific measurements.
