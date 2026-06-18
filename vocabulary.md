@@ -2992,3 +2992,4 @@
 - 2026-06-18 15:24 — '怎么样' after a topic usually translates to 'how is ...' or 'what is ... like?' e.g., 'how is the code quality?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:28 — '停下来修好再继续' can be phrased as 'stop, fix, and then continue' or 'halt, fix, then resume'. '严重的问题' translates to 'serious issues'.
