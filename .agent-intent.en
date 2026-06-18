@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-That won't work either. When you commit, it will also commit other people's changes.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Let's use worktree.
