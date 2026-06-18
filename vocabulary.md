@@ -2980,3 +2980,4 @@
 - 2026-06-18 15:06 — "可以" here means "acceptable" or "works for me," not just "can." In casual approval, use "That works" or "That's fine."
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:10 — Chinese '把' at the end is like a tag question — use 'right?' or 'isn't it?' in English.
