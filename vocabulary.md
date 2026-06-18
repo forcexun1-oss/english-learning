@@ -2449,6 +2449,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2865,3 +2866,5 @@
 >>>>>>> Stashed changes
 - 2026-06-18 10:22 — Use 'execute both in parallel' instead of '两者并行执行' directly. 'Both' replaces '两者' naturally in English.
 - 2026-06-18 10:23 — Use 'one at a time' for sequential order; 'one by one' is also fine but 'at a time' emphasizes the order.
+=======
+>>>>>>> Stashed changes
