@@ -2964,3 +2964,4 @@
 - 2026-06-18 14:54 — "干得咋样" is colloquial; use "how ... are doing" in English for checking progress.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 14:59 — Use 'rule' for a configuration/policy and 'skill' for a plugin/module in developer tools.
