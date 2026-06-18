@@ -3031,3 +3031,4 @@
 - 2026-06-18 16:23 — Use 'currently deployed' instead of 'now deployed' for a more natural technical statement.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:28 — Use 'exactly' to emphasize the core question, matching the tone of '到底' in Chinese.
