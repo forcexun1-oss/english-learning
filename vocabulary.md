@@ -2850,3 +2850,8 @@
 - 2026-06-17 16:51 — Use 'actually' instead of 'for real'; avoid 'plz' in professional writing.
 - 2026-06-17 17:16 — Use 'let's' (let us) for suggestions, not 'let' which declares a variable.
 - 2026-06-17 17:17 — Start instructions directly with the verb (imperative) instead of 'and' — it's clearer and more natural for commands.
+- 2026-06-17 17:21 — Use 'doesn't' (not 'dont') and always capitalize 'I'.
+- 2026-06-17 17:21 — Use 'doesn't' for third-person singular; capitalize 'I'.
+- 2026-06-18 10:13 — Use 'doesn't' (does not) instead of 'dont' for third-person singular subjects like 'code'.
+- 2026-06-18 10:13 — Use 'doesn't' (does not) with third-person singular 'code', not 'dont'.
+- 2026-06-18 10:13 — Use 'doesn't' (does not) because 'code' is singular.
