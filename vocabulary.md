@@ -2968,3 +2968,4 @@
 - 2026-06-18 14:59 — Use 'rule' for a configuration/policy and 'skill' for a plugin/module in developer tools.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:01 — Use 'then' to indicate sequence. '给我过目' = 'show me for review' (not literally 'give me a look').
