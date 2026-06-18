@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
-How should we resolve his blocking issue?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+The bottleneck is the ORT frontend:
+- Short sentence "你好" (frontend) takes 1.88s
+- Medium sentence "weather" takes 4.46s
+- Slightly longer sentence "music" takes 10.66s
+This is the bottleneck reported by TTS. How do I resolve it?

@@ -3007,3 +3007,4 @@
 - 2026-06-18 15:37 — "阻塞" in a coding context is often translated as "blocking issue" or "blocker." Using "his blocking issue" is clear for developers.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:42 — Use 'takes' for time consumption (e.g., 'takes 1.88s') instead of '要' (which is more like 'needs' in Chinese).
