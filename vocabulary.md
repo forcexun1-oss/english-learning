@@ -2919,3 +2919,4 @@
 - 2026-06-18 13:10 — 已经写好的 = 'already written'. In software, 提交 often translates to 'commit' (as in git commit).
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:12 — "提交" in a coding context can mean 'commit and push' or simply 'submit'. Here it's fine as 'submit'. Also, '帮他' can be translated as 'help him' but in English it's more natural to say 'help him submit' or 'submit for him'.
