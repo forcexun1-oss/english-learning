@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Plans are written one at a time, but execution is parallel. First, finalize the TTS plan.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+For TTS to be production-ready, first explain the current workflow to me — what each step does specifically, whether it runs on CPU or GPU, and which board it's running on.

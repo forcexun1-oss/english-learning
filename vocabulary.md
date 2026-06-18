@@ -2868,3 +2868,4 @@
 - 2026-06-18 10:23 — Use 'one at a time' for sequential order; 'one by one' is also fine but 'at a time' emphasizes the order.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 10:31 — "生产可用" is better translated as "production-ready" (adjective) rather than "production available". Also, "讲讲" implies a detailed explanation, so "explain" fits well here.
