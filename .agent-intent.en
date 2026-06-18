@@ -1,10 +1,1 @@
-<<<<<<< Updated upstream
-ASR has stopped. I raised 3 questions:
-1. Should sensevoice-rknn2 continue to be opt-in, not switched to default?
-2. Can the official model path be models/asr-rknn2/?
-3. Is there a product command word manifest? If not, should we continue using existing open small sets/extended sets for validation?
-
-Let's check how it's going and how to proceed.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+What ASR is currently deployed?
