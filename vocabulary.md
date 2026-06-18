@@ -2927,3 +2927,4 @@
 - 2026-06-18 13:15 — "拉分支" here means "creating branches" (git branch).  Use "creating" instead of "pulling" since you're referring to making new branches, not fetching remote ones.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:17 — In English, '把...一起提交' can be translated as 'also commit' or 'commit...together'. Here, '也' is translated as 'also' placed before the verb.

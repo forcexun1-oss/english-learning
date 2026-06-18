@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Creating branches is also problematic because everyone is working locally and modifying the same files.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+That won't work either. When you commit, it will also commit other people's changes.
