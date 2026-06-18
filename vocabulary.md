@@ -2988,3 +2988,4 @@
 - 2026-06-18 15:17 — '重进' here means 'restart' or 'reload', not literally 're-enter'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:24 — '怎么样' after a topic usually translates to 'how is ...' or 'what is ... like?' e.g., 'how is the code quality?'
