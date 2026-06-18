@@ -3055,3 +3055,4 @@
 - 2026-06-18 16:57 — Use 'what is' instead of 'what's' for clarity in technical questions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 17:00 — "延迟可行" is more naturally expressed as "feasible in terms of latency" or "latency is acceptable" in English technical summaries.

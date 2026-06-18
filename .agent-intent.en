@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the 'gate' here?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Conclusion: The NPU frontend direction is feasible in terms of latency on the RK3576; but currently only the official English MMS probe has been verified. The public models facebook/mms-tts-cmn and facebook/mms-tts-yue are not available, so the Mandarin/Cantonese voice quality gate is not yet completed.
