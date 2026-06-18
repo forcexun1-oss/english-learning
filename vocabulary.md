@@ -2455,6 +2455,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2889,3 +2890,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-18 11:14 — Use 'performs better' or 'yields better results' instead of '效果好' (direct translation). Also, '不好说' is better as 'hard to judge' or 'uncertain' in this context.
+=======
+>>>>>>> Stashed changes
