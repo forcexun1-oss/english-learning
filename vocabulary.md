@@ -2947,3 +2947,4 @@
 - 2026-06-18 13:42 — '处理完' combines verb 'handle' with complement '完' (finish) to mean 'finish handling'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 14:01 — '板子' in a development context typically means 'board' (e.g., a hardware board). '一个问题' can be translated as 'issue' or 'problem' — 'issue' is more natural for technical discussions.
