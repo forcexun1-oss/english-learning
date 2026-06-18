@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-For evaluation, there is a dedicated test project called llm-bench. Was there already some part written in it before regarding ASR evaluation?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Alright, that's it for now. Later we need to refactor and move the evaluation stuff into a separate project.

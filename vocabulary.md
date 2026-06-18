@@ -2904,3 +2904,4 @@
 - 2026-06-18 11:36 — Use 'regarding' or 'for' to introduce the topic; '是' in Chinese often translates as a topic marker rather than 'is'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:41 — In Chinese, '讲评估的东西' literally means 'regarding/talking about evaluation stuff', but in English instructions, it's more natural to say 'move the evaluation stuff' without 'talking about'.
