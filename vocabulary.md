@@ -3051,3 +3051,4 @@
 - 2026-06-18 16:45 — Capitalize the first word of a new sentence ('Is' instead of 'is').
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:57 — Use 'what is' instead of 'what's' for clarity in technical questions.
