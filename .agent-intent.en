@@ -1,11 +1,1 @@
-Unfinished / Blockers:
-
-- Qwen3-ASR baseline failed to run: there's no available /v1/asr/transcribe Qwen3 service on this machine; the existing Qwen3 files are RKNN3 board-side runtime artifacts, not PC HuggingFace checkpoints. Attempting to pull Qwen/Qwen3-ASR-0.6B from Hugging Face timed out.
-- The product's real car voice command manifest isn't ready yet, so we can't prove SenseVoice is sufficient for the actual product scenario.
-- Because the handoff explicitly requires "bake-off conclusion + no changes to production migration code before user confirmation", I haven't continued modifying production paths like asr_rockchip.rs, middleware_service.rs, or rknn2.
-
-Suggestions:
-
-1. If you accept the "lightweight non-autoregressive path" first, confirm fork B and I'll continue implementing the SenseVoice/RKNN2 ASR migration.
-2. If you require a rigorous comparison with Qwen3, first provide a board-side Qwen3 /v1/asr/transcribe endpoint or a local HF checkpoint, and I'll re-run the baseline.
-3. If your top priority is the car voice commands, first provide a 50–200 utterance manifest, and I'll run comparison tests with SenseVoice/Paraformer/Zipformer before deciding.
+Have him go with option 1, then?

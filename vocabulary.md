@@ -2956,3 +2956,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-18 14:20 — Use 'timed out' instead of '超时' expressed as 'timeout' — 'timed out' is the correct verb form for past tense.
+- 2026-06-18 14:27 — Use '呗' to soften a suggestion, similar to adding 'then?' or 'right?' in English.
