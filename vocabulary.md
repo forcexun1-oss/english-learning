@@ -2859,3 +2859,4 @@
 - 2026-06-18 10:16 — 'Check' is fine for brief instructions; you could also use 'review' for a more formal tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 10:18 — "中文" is a noun meaning the Chinese language. In a sentence, you might say "Let's use Chinese" or "I prefer Chinese."
