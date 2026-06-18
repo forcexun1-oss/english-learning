@@ -2972,3 +2972,4 @@
 - 2026-06-18 15:01 — Use 'then' to indicate sequence. '给我过目' = 'show me for review' (not literally 'give me a look').
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:05 — "提交法" is a colloquial way to say "commit process/method". Use "commit process" or "how commits are handled" in English.
