@@ -1,5 +1,11 @@
-<<<<<<< Updated upstream
-Conclusion: The NPU frontend direction is feasible in terms of latency on the RK3576; but currently only the official English MMS probe has been verified. The public models facebook/mms-tts-cmn and facebook/mms-tts-yue are not available, so the Mandarin/Cantonese voice quality gate is not yet completed.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Core gate completed as per Fork A and stopped at the correct position.
+
+- MeloTTS full frontend RKNN2 conversion failed: stuck at SDP/flow dynamic section, error: `/sdp/flows.7/Transpose_2_output_0 shape (0, 3) abnormal`
+- Dynamic ops still present in the graph: NonZero=21, ScatterND=31, Range=41, CumSum=7, Where=80
+- Attempted freezing noise_scale_w=0 but it had no effect; failure point unchanged
+- Cross-check verification: trimming to text encoder/projection before SDP can convert to RKNN2 successfully, indicating the problem is concentrated in the duration predictor / flow dynamic reverse/update logic
+- Conclusion written to: `docs/rk3576-rk1828-tts-npu-frontend-results.md:145`
+- New gate script: `tools/rknn2-tts-smoke/convert_melotts_frontend_gate.py:1`
+- Commit: `23d770c test(tts): gate MeloTTS RKNN2 frontend conversion`
+
+Conclusion: Cannot proceed further with full pipeline / Chinese voice quality verification. Must first modify the dynamic patterns of NonZero/ScatterND in SDP/flow at the MeloTTS PyTorch/export source level to fixed-length Gather/mask, then re-export ONNX and re-run the gate.
