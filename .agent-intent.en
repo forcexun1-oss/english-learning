@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Alright, that's it for now. Later we need to refactor and move the evaluation stuff into a separate project.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+We have a problem. When multiple people are modifying code together, how do we commit? Should TM each create their own branch and merge later?
