@@ -2896,3 +2896,4 @@
 - 2026-06-18 11:20 — Use 'mainly' to translate '主要', and note the question structure '都是...的吗' becomes 'Are all of ...?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:33 — "评估的东西" is vague; use specific terms like "evaluation results" or "evaluation outputs" in technical contexts.
