@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the performance data for sensevoice?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+What's the memory usage? What's the execution flow? Is it running on NPU or CPU?

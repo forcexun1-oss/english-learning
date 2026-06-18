@@ -3047,3 +3047,4 @@
 - 2026-06-18 16:37 — ‘性能数据’ can be translated as 'performance data' or 'performance metrics'. Use 'metrics' for more specific measurements.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:45 — Capitalize the first word of a new sentence ('Is' instead of 'is').
