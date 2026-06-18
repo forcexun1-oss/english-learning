@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then I'll let codex execute the TTS plan first, and we can discuss the ASR one.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+BTW, why doesn't it support dynamic subgraphs? Is it possible to support them?

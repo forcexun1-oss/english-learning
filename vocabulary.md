@@ -2884,3 +2884,4 @@
 - 2026-06-18 10:57 — Use 'let' + base verb (let someone do something) instead of 'make' + verb. 'Let codex execute' is correct.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:03 — Use 'them' instead of 'it' when referring to plural 'subgraphs'.
