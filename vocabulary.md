@@ -3039,3 +3039,4 @@
 - 2026-06-18 16:32 — "都" in negative sentences like "都没有" emphasizes "none at all". You can simply say "I don't have any" or "I have none."
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:35 — Use 'on its own' instead of '自己去干' for natural English. '自己去干' is too literal and sounds like a command to a person.
