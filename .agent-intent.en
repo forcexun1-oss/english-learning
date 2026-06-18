@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Core gate completed as per Fork A and stopped at the correct position.
 
 - MeloTTS full frontend RKNN2 conversion failed: stuck at SDP/flow dynamic section, error: `/sdp/flows.7/Transpose_2_output_0 shape (0, 3) abnormal`
@@ -9,3 +10,6 @@ Core gate completed as per Fork A and stopped at the correct position.
 - Commit: `23d770c test(tts): gate MeloTTS RKNN2 frontend conversion`
 
 Conclusion: Cannot proceed further with full pipeline / Chinese voice quality verification. Must first modify the dynamic patterns of NonZero/ScatterND in SDP/flow at the MeloTTS PyTorch/export source level to fixed-length Gather/mask, then re-export ONNX and re-run the gate.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
