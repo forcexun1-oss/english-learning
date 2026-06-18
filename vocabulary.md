@@ -2888,3 +2888,4 @@
 - 2026-06-18 11:03 — Use 'them' instead of 'it' when referring to plural 'subgraphs'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:14 — Use 'performs better' or 'yields better results' instead of '效果好' (direct translation). Also, '不好说' is better as 'hard to judge' or 'uncertain' in this context.

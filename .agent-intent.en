@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-BTW, why doesn't it support dynamic subgraphs? Is it possible to support them?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+First, verify which of C and 0.6B performs better. The performance of 0.6B is hard to judge.
