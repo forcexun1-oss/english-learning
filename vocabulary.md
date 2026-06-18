@@ -2864,3 +2864,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-18 10:22 — Use 'execute both in parallel' instead of '两者并行执行' directly. 'Both' replaces '两者' naturally in English.
+- 2026-06-18 10:23 — Use 'one at a time' for sequential order; 'one by one' is also fine but 'at a time' emphasizes the order.

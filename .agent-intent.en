@@ -1,1 +1,1 @@
-First, write the TTS optimization plan, then write an ASR plan, and execute both in parallel.
+Plans are written one at a time, but execution is parallel. First, finalize the TTS plan.
