@@ -2900,3 +2900,4 @@
 - 2026-06-18 11:33 — "评估的东西" is vague; use specific terms like "evaluation results" or "evaluation outputs" in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:36 — Use 'regarding' or 'for' to introduce the topic; '是' in Chinese often translates as a topic marker rather than 'is'.
