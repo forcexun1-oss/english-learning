@@ -2939,3 +2939,4 @@
 - 2026-06-18 13:35 — The Chinese '硬' here means 'insist on doing something (against the other's will)'. In English, use 'insist on' or 'go ahead and' to convey that tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 13:37 — Use 'mention in the plan' instead of 'tell in the plan' for including information in a document.
