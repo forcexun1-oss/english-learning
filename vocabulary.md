@@ -3015,3 +3015,4 @@
 - 2026-06-18 16:08 — The particle '吧' at the end of a suggestion is often omitted or translated as 'let's' in English imperatives. '调研' is best rendered as 'investigate' or 'research' in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:16 — Use 'Then' instead of 'That' to indicate sequence. Also '搞' is very casual; 'handle' or 'carry out' is more professional in a work context.
