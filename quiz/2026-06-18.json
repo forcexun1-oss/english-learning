@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T15:03:00.000Z",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Which correction fixes the grammar in today's [EN] line: \"this code dont work no matter what i try\"?",
+      "options": [
+        "A. This code doesn't work no matter what I try.",
+        "B. This code don't work no matter what I try.",
+        "C. This code not work no matter what i try.",
+        "D. This code doesn't works no matter what I try."
+      ],
+      "correctIndex": 0,
+      "explanation": "Third-person singular needs doesn't (not don't). The main verb stays base form work. Capitalize sentence starts and the pronoun I."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the most natural English translation of today's [ZH] line: \"看看当前codex的tts实现如何\"?",
+      "options": [
+        "A. Take a look at how Codex currently implements TTS.",
+        "B. See current codex the tts implement how.",
+        "C. Look codex now TTS implementation situation.",
+        "D. Check how is codex TTS doing implement."
+      ],
+      "correctIndex": 0,
+      "explanation": "看看 means review or take a look. 当前 is currently. 如何 asks how something is done — option A is a natural technical request."
+    },
+    {
+      "type": "mc",
+      "question": "In today's log you discussed a \"quality gate\" for SenseVoice ASR (CER must pass before replacing the default). What does \"gate\" mean here?",
+      "options": [
+        "A. A checkpoint that must be passed before moving to the next stage.",
+        "B. A physical barrier on the RK3576 board.",
+        "C. A Git branch protection rule.",
+        "D. A type of neural network layer."
+      ],
+      "correctIndex": 0,
+      "explanation": "In engineering, a gate is a go/no-go checkpoint — e.g., CER must meet the baseline before production migration is allowed."
+    },
+    {
+      "type": "mc",
+      "question": "Which English best translates today's [ZH] suggestion: \"用worktree吧\"?",
+      "options": [
+        "A. Let's use worktrees.",
+        "B. Use the work tree please.",
+        "C. We should working tree it.",
+        "D. Put it in worktree folder now."
+      ],
+      "correctIndex": 0,
+      "explanation": "吧 softens a suggestion. Git worktree lets multiple branches be checked out in separate directories — Let's use worktrees is natural when proposing that workflow."
+    },
+    {
+      "type": "mc",
+      "question": "Which version correctly punctuates and capitalizes today's [EN] questions about runtime: \"What's the memory usage? What's the execution flow? is it running on NPU/CPU?\"",
+      "options": [
+        "A. What's the memory usage? What's the execution flow? Is it running on NPU/CPU?",
+        "B. What's the memory usage? What's the execution flow? is it running on NPU/CPU?",
+        "C. What's the memory usage, what's the execution flow, is it running on NPU/CPU",
+        "D. What's the memory usage? What's the execution flow? Is it running on npu/cpu?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each question is a separate sentence and must start with a capital letter. NPU and CPU are acronyms and stay uppercase."
+    },
+    {
+      "type": "mc",
+      "question": "Which English question best translates today's [ZH] line: \"我们的ASR目标到底是啥\"?",
+      "options": [
+        "A. What exactly is our ASR goal?",
+        "B. Our ASR target is what thing?",
+        "C. What ASR aim we have finally?",
+        "D. Which is our ASR purpose actually mean?"
+      ],
+      "correctIndex": 0,
+      "explanation": "到底 adds emphasis — what exactly or ultimately. 啥 is informal for 什么 (what). Option A captures the direct, goal-clarifying tone."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"先写TTS的优化方案, 然后,我们再写一个ASR的方案, 两者并行执行\"",
+      "modelAnswer": "First write the TTS optimization plan, then we'll write an ASR plan, and execute both in parallel.",
+      "explanation": "先…然后 structures the sequence of planning. 两者并行执行 means the two tracks run at the same time after their plans are drafted."
+    },
+    {
+      "type": "free",
+      "question": "Rewrite today's [EN] line with correct grammar and capitalization: \"this code dont work no matter what i try\"",
+      "modelAnswer": "This code doesn't work no matter what I try.",
+      "explanation": "Use doesn't for third-person singular. No matter what I try is a fixed phrase meaning every attempt fails."
+    },
+    {
+      "type": "free",
+      "question": "Translate into natural English: \"没有别的地方需要优化了吗\"",
+      "modelAnswer": "Isn't there anywhere else that needs optimization?",
+      "explanation": "没有别的地方 means no other places or areas. 了吗 turns it into a question checking whether optimization is complete."
+    },
+    {
+      "type": "free",
+      "question": "Write a natural English message asking a teammate to commit finished TTS work, based on today's [ZH] line: \"TTS那边都写完了, 代码帮他提交吧\"",
+      "modelAnswer": "TTS is done on their side — please commit the code for them.",
+      "explanation": "那边 refers to the other person's workstream. 帮他提交 means submit or commit on their behalf, common when coordinating parallel agent tasks."
+    }
+  ]
+}
