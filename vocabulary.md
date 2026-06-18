@@ -2984,3 +2984,4 @@
 - 2026-06-18 15:10 — Chinese '把' at the end is like a tag question — use 'right?' or 'isn't it?' in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 15:17 — '重进' here means 'restart' or 'reload', not literally 're-enter'.
