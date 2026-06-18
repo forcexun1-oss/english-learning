@@ -2458,6 +2458,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -2901,3 +2902,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-18 11:36 — Use 'regarding' or 'for' to introduce the topic; '是' in Chinese often translates as a topic marker rather than 'is'.
+=======
+>>>>>>> Stashed changes
