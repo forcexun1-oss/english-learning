@@ -3019,3 +3019,4 @@
 - 2026-06-18 16:16 — Use 'Then' instead of 'That' to indicate sequence. Also '搞' is very casual; 'handle' or 'carry out' is more professional in a work context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 16:19 — Use 'combine into one sentence' instead of 'organize into one sentence' for natural English.
