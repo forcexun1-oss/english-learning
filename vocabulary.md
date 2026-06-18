@@ -2892,3 +2892,4 @@
 - 2026-06-18 11:14 — Use 'performs better' or 'yields better results' instead of '效果好' (direct translation). Also, '不好说' is better as 'hard to judge' or 'uncertain' in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-18 11:20 — Use 'mainly' to translate '主要', and note the question structure '都是...的吗' becomes 'Are all of ...?'
