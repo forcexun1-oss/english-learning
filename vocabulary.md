@@ -3144,3 +3144,4 @@
 - 2026-06-22 17:08 — Use 'ask them to create' (infinitive with 'to'), not 'ask them create'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:10 — Use 'is completed' (passive) after 'when' for clarity.
