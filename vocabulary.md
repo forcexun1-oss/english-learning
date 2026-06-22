@@ -3091,3 +3091,4 @@
 - 2026-06-22 16:26 — Use 'whether' instead of 'if' for a more formal question structure after 'confirm'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:27 — Use 'connects to' instead of '接视觉的' — 'connect to' is the standard phrase for describing how one component interfaces with another.

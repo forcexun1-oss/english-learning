@@ -1,1 +1,1 @@
-["除了ASR和tts算法还在写, 其他的是不是都写完了", "确认下 VisionStub 那条路径还在被 runtime 调用吗"]
+["除了ASR和tts算法还在写, 其他的是不是都写完了", "确认下 VisionStub 那条路径还在被 runtime 调用吗", "查下 AgentContext 有没有 vision 字段，middleware 怎么接视觉的"]

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Confirm whether the VisionStub code path is still being called by the runtime.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Check if AgentContext has a vision field, and how middleware connects to vision.
