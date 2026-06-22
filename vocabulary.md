@@ -3174,3 +3174,4 @@
 - 2026-06-22 20:34 — Use 'remember to + infinitive' to remind someone to do something.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 20:59 — Use 'progress' as an uncountable noun (no 'a').
