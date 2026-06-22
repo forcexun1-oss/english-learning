@@ -3067,3 +3067,4 @@
 - 2026-06-22 11:26 — In everyday conversation, 'status' and 'state' are similar, but 'status' is more common for project progress. Use 'any suggestions' instead of 'what suggestions' to sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 11:38 — Use 'already' before past participles (e.g., 'already completed') for natural word order.
