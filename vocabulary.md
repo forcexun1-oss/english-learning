@@ -3209,3 +3209,4 @@
 - 2026-06-22 21:43 — '派某人做某事' - use 'have [someone] do [something]' for delegating tasks.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:44 — When responding with just a number, consider adding context to make your intent clear.
