@@ -2508,6 +2508,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3100,3 +3101,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-22 16:32 — Use 'for Codex to implement' instead of 'let Codex implement' — 'for' indicates purpose, 'let' would be imperative and change the tone.
+=======
+>>>>>>> Stashed changes
