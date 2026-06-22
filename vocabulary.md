@@ -3217,3 +3217,4 @@
 - 2026-06-22 21:48 — To make the intention clearer in a CI/CD context, you could say: 'What should happen every time we merge to main?' or 'What checks should run on each merge to main?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:52 — '不能手动' is better expressed as 'not manual' or 'must be automated'. Keep 'hook' as is — it's a standard term.
