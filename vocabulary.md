@@ -3213,3 +3213,4 @@
 - 2026-06-22 21:44 — When responding with just a number, consider adding context to make your intent clear.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:48 — To make the intention clearer in a CI/CD context, you could say: 'What should happen every time we merge to main?' or 'What checks should run on each merge to main?'
