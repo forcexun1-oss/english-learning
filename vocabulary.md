@@ -3083,3 +3083,4 @@
 - 2026-06-22 15:17 — “合并吧” is an imperative; in English, just say "Merge." without the softening particle.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:24 — In English, 'except for' introduces the exception before the main clause, and 'which are still being written' clarifies the ongoing status.
