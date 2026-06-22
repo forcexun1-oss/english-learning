@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Implement option 1. Every merge to main must go through a hook — no manual merges allowed. Cover everything: dispatch codex to execute all action items.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
 =======
 I reinstalled the codex CLI.
 >>>>>>> Stashed changes
