@@ -3158,3 +3158,4 @@
 - 2026-06-22 17:18 — In English questions, invert the subject and auxiliary verb: 'Does it stay?' not 'It stays?'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:24 — Use 'ultimate' instead of 'eventual' to mean 'primary' or 'overall'; 'eventual' suggests something later in time.
