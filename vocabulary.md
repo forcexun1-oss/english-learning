@@ -3095,3 +3095,4 @@
 - 2026-06-22 16:27 — Use 'connects to' instead of '接视觉的' — 'connect to' is the standard phrase for describing how one component interfaces with another.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:29 — "吧" is a confirmation-seeking particle, similar to "right?" or "aren't they?" in English.
