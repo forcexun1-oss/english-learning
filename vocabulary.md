@@ -3071,3 +3071,4 @@
 - 2026-06-22 11:38 — Use 'already' before past participles (e.g., 'already completed') for natural word order.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 14:11 — “算子” is a technical term for 'operator' in neural network contexts. Use 'custom operator' or just 'operator'.
