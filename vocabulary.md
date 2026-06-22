@@ -3162,3 +3162,4 @@
 - 2026-06-22 17:24 — Use 'ultimate' instead of 'eventual' to mean 'primary' or 'overall'; 'eventual' suggests something later in time.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:26 — In English questions, the auxiliary verb comes before the subject: 'Are ASR and TTS still executed...?' instead of 'ASR and TTS are...?'
