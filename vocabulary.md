@@ -3154,3 +3154,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:18 — In English questions, invert the subject and auxiliary verb: 'Does it stay?' not 'It stays?'.
