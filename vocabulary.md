@@ -3075,3 +3075,4 @@
 - 2026-06-22 14:11 — “算子” is a technical term for 'operator' in neural network contexts. Use 'custom operator' or just 'operator'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 15:13 — Use 'What's the status of...' to ask about progress or condition.
