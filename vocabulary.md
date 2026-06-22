@@ -3221,3 +3221,4 @@
 - 2026-06-22 21:52 — '不能手动' is better expressed as 'not manual' or 'must be automated'. Keep 'hook' as is — it's a standard term.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:58 — 全包 (quán bāo) literally means 'full package' — a concise way to say 'take care of everything'.
