@@ -3117,3 +3117,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:40 — In commands, 'no profile' is natural. '重跑' becomes 'rerun' (one word) in English.
