@@ -3182,3 +3182,4 @@
 - 2026-06-22 21:01 — Use 'dispatched' to mean 'sent out for execution', common in project management and CI/CD contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:02 — In developer notifications, it's common to omit articles (a/the) for brevity.
