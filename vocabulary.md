@@ -3205,3 +3205,4 @@
 - 2026-06-22 21:39 — “派” translates to “dispatch” or “assign” in this context, common in task delegation.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:43 — '派某人做某事' - use 'have [someone] do [something]' for delegating tasks.
