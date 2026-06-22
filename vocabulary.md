@@ -3166,3 +3166,4 @@
 - 2026-06-22 17:26 — In English questions, the auxiliary verb comes before the subject: 'Are ASR and TTS still executed...?' instead of 'ASR and TTS are...?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:28 — '按...边界去写' naturally translates to 'write according to this boundary' or 'implement following this boundary'. 'Handoff' is a technical term and left unchanged.
