@@ -3099,3 +3099,4 @@
 - 2026-06-22 16:29 — "吧" is a confirmation-seeking particle, similar to "right?" or "aren't they?" in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:32 — Use 'for Codex to implement' instead of 'let Codex implement' — 'for' indicates purpose, 'let' would be imperative and change the tone.
