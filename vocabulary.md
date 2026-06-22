@@ -3087,3 +3087,4 @@
 - 2026-06-22 16:24 — In English, 'except for' introduces the exception before the main clause, and 'which are still being written' clarifies the ongoing status.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:26 — Use 'whether' instead of 'if' for a more formal question structure after 'confirm'.

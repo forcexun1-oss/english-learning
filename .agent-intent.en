@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are all the other parts done, except for the ASR and TTS algorithms which are still being written?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Confirm whether the VisionStub code path is still being called by the runtime.
