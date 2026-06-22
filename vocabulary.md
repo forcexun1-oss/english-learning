@@ -3225,3 +3225,4 @@
 - 2026-06-22 21:58 — 全包 (quán bāo) literally means 'full package' — a concise way to say 'take care of everything'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 22:09 — 'Hook' here refers to a git hook or CI gate; '全包' means 'handle everything' (cover all items).

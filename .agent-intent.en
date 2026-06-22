@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Dispatch codex to handle everything.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Implement option 1. Every merge to main must go through a hook — no manual merges allowed. Cover everything: dispatch codex to execute all action items.
