@@ -3197,3 +3197,4 @@
 - 2026-06-22 21:33 — Use plain English instead of raw XML when communicating status.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:36 — "写的专业吗" is more natural as "written professionally" (adverb) or "professional" (adjective). Use "professionally written" for the verb phrase.
