@@ -3201,3 +3201,4 @@
 - 2026-06-22 21:36 — "写的专业吗" is more natural as "written professionally" (adverb) or "professional" (adjective). Use "professionally written" for the verb phrase.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:39 — “派” translates to “dispatch” or “assign” in this context, common in task delegation.
