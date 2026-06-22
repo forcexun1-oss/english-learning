@@ -1,1 +1,1 @@
-["除了ASR和tts算法还在写, 其他的是不是都写完了", "确认下 VisionStub 那条路径还在被 runtime 调用吗", "查下 AgentContext 有没有 vision 字段，middleware 怎么接视觉的", "LLM的都正确吧", "B. 写个方案让codex去实现吧", "派给 codex 执行"]
+["除了ASR和tts算法还在写, 其他的是不是都写完了", "确认下 VisionStub 那条路径还在被 runtime 调用吗", "查下 AgentContext 有没有 vision 字段，middleware 怎么接视觉的", "LLM的都正确吧", "B. 写个方案让codex去实现吧", "派给 codex 执行", "用的什么命令, 加 --profile chatgpt了吗"]
