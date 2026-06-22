@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Good results. The high issue (#1) looks straightforward — please fix it by adding `finalize_all()` to the Ollama path. Also take a look at the medium issues, especially #2 (`first_token_ms` timing) — fix that too if it's low effort. For #5, remove the dead code. Let me know when the changes are ready.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Commit these changes. Next time, ask them to create a feature branch when distributing tasks.
