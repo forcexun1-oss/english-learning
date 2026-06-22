@@ -3063,3 +3063,4 @@
 - 2026-06-18 17:24 — "已完成" translates to "completed" (past participle). Use "completing" for present participle. "按照分叉 A" is more naturally "as per Fork A" or "following Fork A".
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 11:26 — In everyday conversation, 'status' and 'state' are similar, but 'status' is more common for project progress. Use 'any suggestions' instead of 'what suggestions' to sound more natural.
