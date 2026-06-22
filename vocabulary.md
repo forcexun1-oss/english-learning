@@ -3103,3 +3103,4 @@
 - 2026-06-22 16:32 — Use 'for Codex to implement' instead of 'let Codex implement' — 'for' indicates purpose, 'let' would be imperative and change the tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:35 — "派给" translates to "assign to" or "delegate to", not "send to".
