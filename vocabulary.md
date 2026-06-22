@@ -3170,3 +3170,4 @@
 - 2026-06-22 17:28 — '按...边界去写' naturally translates to 'write according to this boundary' or 'implement following this boundary'. 'Handoff' is a technical term and left unchanged.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 20:34 — Use 'remember to + infinitive' to remind someone to do something.
