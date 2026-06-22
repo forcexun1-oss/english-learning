@@ -3132,3 +3132,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:56 — Use 'take a look at' instead of 'look at' when suggesting someone examine something — it sounds more natural in workplace English.
