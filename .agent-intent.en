@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-B7 workspace tests re-run with correct venv path completed (exit code 0).
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Yes, run `gitnexus reindex`.
