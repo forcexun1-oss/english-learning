@@ -3140,3 +3140,4 @@
 - 2026-06-22 17:06 — Add 'to' after 'ask': 'ask them to create'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 17:08 — Use 'ask them to create' (infinitive with 'to'), not 'ask them create'.
