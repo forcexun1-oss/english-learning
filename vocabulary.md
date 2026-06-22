@@ -3232,3 +3232,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 22:27 — "needs fixing" vs "need fixing" — with "that" as relative pronoun, use singular "needs" because the subject is the singular noun phrase "one serious circular validation issue". But "three issues" would be "need fixing".
