@@ -3178,3 +3178,4 @@
 - 2026-06-22 20:59 — Use 'progress' as an uncountable noun (no 'a').
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 21:01 — Use 'dispatched' to mean 'sent out for execution', common in project management and CI/CD contexts.
