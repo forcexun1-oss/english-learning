@@ -3121,3 +3121,4 @@
 - 2026-06-22 16:40 — In commands, 'no profile' is natural. '重跑' becomes 'rerun' (one word) in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-22 16:46 — Use 'still' to express something persists unexpectedly, as in '怎么还有' (how come there's still).
