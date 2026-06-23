@@ -3337,3 +3337,4 @@
 - 2026-06-23 16:57 — "查" here means "check" or "verify". Use "check" or "analysis" depending on context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 17:00 — In Chinese, '不到' is often short for '找不到' (can't find). Use 'can't find' or 'not in' in English.
