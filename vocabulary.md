@@ -3302,3 +3302,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-23 14:11 — "好差" is colloquial for "very bad"; use "really bad" or "very poor" in natural English.
+- 2026-06-23 14:20 — In technical contexts, "handoff brief" remains as a compound noun. Use "send ... to" for 发给.
