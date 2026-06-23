@@ -3326,3 +3326,4 @@
 - 2026-06-23 16:41 — Use 'there is/are' to state existence. '会话' translates to 'session' in this technical context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 16:50 — Use 'flag' instead of 'param' for CLI options.

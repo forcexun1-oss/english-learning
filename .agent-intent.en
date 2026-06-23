@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-There is usually only one user, but there may be multiple sessions.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Ask Codex to implement the plan, and include the --profile chatgpt flag.
