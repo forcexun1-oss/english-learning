@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are all the test-related tasks done?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+The audio quality of TTS is really bad. Why? Let's look at the code directly.

@@ -3301,3 +3301,4 @@
 - 2026-06-23 13:31 — "都写完了" here means 'are all done/finished'. Use "are all...done" instead of "have all been written" when asking if work is complete.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 14:11 — "好差" is colloquial for "very bad"; use "really bad" or "very poor" in natural English.
