@@ -3349,3 +3349,4 @@
 - 2026-06-23 17:04 — Use "exit code" (not "exit number") when referring to a process exit status. Also, include the task ID in parentheses for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 17:24 — Use 'the' before a specific noun like 'Codex progress' when referring to a known item.
