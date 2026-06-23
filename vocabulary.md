@@ -3371,3 +3371,4 @@
 - 2026-06-23 18:16 — After 'Did', use the base form of the verb: 'verify', not 'verified'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 18:17 — Capitalize the first letter for a complete sentence.
