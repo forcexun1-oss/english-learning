@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Any other optimization solutions for MeloTTS? Take a look at the code directly.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Long sentences will definitely be split rather than fed in as a whole. On this basis, what else can be optimized? How to further reduce the 271 ms? This is mainly the latency of the first sentence.

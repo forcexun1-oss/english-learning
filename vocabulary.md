@@ -3289,3 +3289,4 @@
 - 2026-06-23 10:08 — 使用 'take a look at' 比 'look at' 更口语化，加上 'directly' 表示直接操作。
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 10:14 — "切分" can be translated as "split" or "segmented." For latency optimization, "further reduce" is a common collocation.
