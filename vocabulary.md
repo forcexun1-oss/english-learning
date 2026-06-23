@@ -3297,3 +3297,4 @@
 - 2026-06-23 10:53 — "如何再将" likely meant "how to further reduce". Use "further reduce" or "bring down" for "再将" in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 13:31 — "都写完了" here means 'are all done/finished'. Use "are all...done" instead of "have all been written" when asking if work is complete.

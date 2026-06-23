@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Long sentences will definitely be split; they won't be fed in as a whole. On this basis, what else can be optimized? How to further reduce the 271ms? It's mainly the latency of the first sentence.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Are all the test-related tasks done?
