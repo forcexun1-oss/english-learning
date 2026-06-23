@@ -3309,3 +3309,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 14:41 — Use 'barely audible' instead of '勉强能听清' for more natural English.
