@@ -3242,3 +3242,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 08:58 — Use plural 'options' or 'settings' when referring to available configurations, not singular 'option' — it sounds like you're checking one specific option rather than the full config.
