@@ -1,1 +1,1 @@
-Firmware has been upgraded to V1.0.4. Write a plan to support multi-turn conversations using the '--n-session' flag.
+There is usually only one user, but there may be multiple sessions.

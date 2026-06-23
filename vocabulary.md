@@ -3322,3 +3322,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-23 16:00 — Use 'has been upgraded' (passive) or 'upgraded' (active past) instead of 'has upgraded'.
+- 2026-06-23 16:41 — Use 'there is/are' to state existence. '会话' translates to 'session' in this technical context.
