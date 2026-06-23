@@ -3274,3 +3274,4 @@
 - 2026-06-23 09:34 — '探一下冲突' is more naturally 'check for conflicts' than literal 'probe conflicts'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 09:37 — Use 'merge main into TTS' instead of '帮TTS merge main' for direct commands.
