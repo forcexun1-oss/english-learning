@@ -3353,3 +3353,4 @@
 - 2026-06-23 17:24 — Use 'the' before a specific noun like 'Codex progress' when referring to a known item.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 17:54 — Capitalize the first word of a sentence. Also, use a comma after 'If not' when it starts a conditional clause.
