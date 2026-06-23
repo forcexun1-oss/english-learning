@@ -3317,3 +3317,4 @@
 - 2026-06-23 14:47 — 中文的连动结构“改了发给他”用并列连词“and”连接两个动词短语：make the changes and send it to him.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 15:32 — Use 'on' after 'feedback' to indicate the subject of the feedback (e.g., 'feedback on X').
