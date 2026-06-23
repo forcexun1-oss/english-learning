@@ -3372,3 +3372,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-23 18:17 — Capitalize the first letter for a complete sentence.
+- 2026-06-23 18:20 — Use 'find' as a direct command; 'look for' is less direct.
