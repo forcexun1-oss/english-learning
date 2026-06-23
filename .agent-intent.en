@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Got the audit results. The agent found one serious circular validation issue (H2) that needs fixing before merging — the test oracle copies the production code logic line-for-line, so it can't catch bugs. There's also a misleading test name (H2) and a flaky test using sleep() instead of Notify (C1). The rest of the 7 new tests are solid, especially the barge-in, cancellation, and CJK proptest. Want me to fix those three issues now, or do you want to review the full report first?
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
 =======
 I reinstalled the codex CLI.
 >>>>>>> Stashed changes

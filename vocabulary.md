@@ -2545,6 +2545,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3235,6 +3236,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-22 22:27 — "needs fixing" vs "need fixing" — with "that" as relative pronoun, use singular "needs" because the subject is the singular noun phrase "one serious circular validation issue". But "three issues" would be "need fixing".
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
