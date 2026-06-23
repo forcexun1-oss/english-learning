@@ -3345,3 +3345,4 @@
 - 2026-06-23 17:01 — Use 'write it into' instead of just 'write in' for clarity when referring to adding content to a document.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 17:04 — Use "exit code" (not "exit number") when referring to a process exit status. Also, include the task ID in parentheses for clarity.
