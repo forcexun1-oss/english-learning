@@ -3341,3 +3341,4 @@
 - 2026-06-23 17:00 — In Chinese, '不到' is often short for '找不到' (can't find). Use 'can't find' or 'not in' in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 17:01 — Use 'write it into' instead of just 'write in' for clarity when referring to adding content to a document.
