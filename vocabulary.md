@@ -3262,3 +3262,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 09:22 — Use 'refactor' as a verb: 'Refactor X' sounds more natural than 'do the X refactor'.

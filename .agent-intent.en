@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Background command 'Run workspace coverage baseline' completed with exit code 0.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Refactor the `build_llm_backend_from_env` function.
