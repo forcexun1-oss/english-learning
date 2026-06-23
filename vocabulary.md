@@ -3373,3 +3373,4 @@
 >>>>>>> Stashed changes
 - 2026-06-23 18:17 — Capitalize the first letter for a complete sentence.
 - 2026-06-23 18:20 — Use 'find' as a direct command; 'look for' is less direct.
+- 2026-06-23 18:21 — Use '吧' (ba) instead of '把' for making a suggestion: '明天再说吧' means 'Let's talk about it tomorrow'.
