@@ -3285,3 +3285,4 @@
 - 2026-06-23 10:02 — In yes/no questions, remember to place the verb 'is' at the beginning: 'Is MeloTTS...?' rather than 'MeloTTS is...?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 10:08 — 使用 'take a look at' 比 'look at' 更口语化，加上 'directly' 表示直接操作。
