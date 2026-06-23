@@ -3363,3 +3363,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 18:13 — Use 'into' instead of 'to' after 'merge' when referring to the target branch.
