@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Read the feedback on codex's result; it seems to be a problem with hybrid.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Firmware has been upgraded to V1.0.4. Write a plan to support multi-turn conversations using the '--n-session' flag.

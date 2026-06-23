@@ -3321,3 +3321,4 @@
 - 2026-06-23 15:32 — Use 'on' after 'feedback' to indicate the subject of the feedback (e.g., 'feedback on X').
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 16:00 — Use 'has been upgraded' (passive) or 'upgraded' (active past) instead of 'has upgraded'.
