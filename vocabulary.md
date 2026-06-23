@@ -3266,3 +3266,4 @@
 - 2026-06-23 09:22 — Use 'refactor' as a verb: 'Refactor X' sounds more natural than 'do the X refactor'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 09:30 — “看看” is colloquial for 'take a look at.' In a technical context, use 'Check' or 'What’s the status of' for clarity.
