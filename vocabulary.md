@@ -3270,3 +3270,4 @@
 - 2026-06-23 09:30 — “看看” is colloquial for 'take a look at.' In a technical context, use 'Check' or 'What’s the status of' for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 09:34 — '探一下冲突' is more naturally 'check for conflicts' than literal 'probe conflicts'.
