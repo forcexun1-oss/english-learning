@@ -3333,3 +3333,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 16:57 — "查" here means "check" or "verify". Use "check" or "analysis" depending on context.
