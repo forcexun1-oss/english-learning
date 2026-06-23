@@ -3293,3 +3293,4 @@
 - 2026-06-23 10:14 — "切分" can be translated as "split" or "segmented." For latency optimization, "further reduce" is a common collocation.
 =======
 >>>>>>> Stashed changes
+- 2026-06-23 10:53 — "如何再将" likely meant "how to further reduce". Use "further reduce" or "bring down" for "再将" in this context.
