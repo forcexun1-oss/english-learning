@@ -3531,3 +3531,4 @@
 - 2026-06-24 17:30 — Use 'is done' to make a complete sentence, or use imperative mood directly like 'Merge it into main.'
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 17:38 — Use 'is finished' or 'is done' to state completion, rather than just stating the noun.
