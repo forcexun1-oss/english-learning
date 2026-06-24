@@ -3391,3 +3391,4 @@
 - 2026-06-24 09:37 — When asking '核心是...的问题吗', use 'Is the core issue that...' to start the question, not 'Core is... problem'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 09:53 — ‘把’ is a preposition, not a modal particle. Use ‘吧’ (ba) for suggestion.
