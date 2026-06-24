@@ -3461,3 +3461,4 @@
 - 2026-06-24 15:26 — Use "done" for completed tasks and "written in" for adding to a document or code. The original uses "都" twice for emphasis; in English, "all of them" works naturally.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 15:39 — Use 'What about' instead of 'What's about' for asking about a topic or next steps.
