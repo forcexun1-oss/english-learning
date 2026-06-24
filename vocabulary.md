@@ -3488,3 +3488,4 @@
 - 2026-06-24 16:20 — ‘好了’ here means ‘fixed/working’ (not ‘finished’). ‘看一下’ is informal — ‘take a look’ or ‘check it’ is more natural in English instructions.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:23 — "试试" is a reduplicated verb meaning 'give it a try' — in English, you can use 'Try it' or 'Give it a try'.
