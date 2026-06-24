@@ -3508,3 +3508,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-24 16:57 — In technical instructions, 'insufficient memory' is more formal than 'not enough memory'.
+- 2026-06-24 16:58 — '别的' translates to 'other', not 'else'. '可用' is 'available'.
