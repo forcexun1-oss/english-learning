@@ -2599,6 +2599,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3450,3 +3451,5 @@
 - 2026-06-24 13:52 — In commands, you can omit the object if clear from context, but 'Write it' is more natural than just '写'.
 - 2026-06-24 13:53 — Spelling: 'wirte' → 'write'.
 - 2026-06-24 15:20 — "效果可以了" is often translated as "the result is good enough" or "it's acceptable". Using "good enough" sounds more natural in this context.
+=======
+>>>>>>> Stashed changes
