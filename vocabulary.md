@@ -3399,3 +3399,4 @@
 - 2026-06-24 09:59 — "复现" means 'reproduce', not 'reappear'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 10:03 — "讲讲" is casual; use "walk me through" for step-by-step explanations. "结合...怎么跑的" becomes "including how it runs...".
