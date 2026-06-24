@@ -3479,3 +3479,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:19 — In English, we often ask 'Why is the screen black?' rather than using 'blackened' or 'black screen'. 'Black' here is an adjective.
