@@ -3427,3 +3427,4 @@
 - 2026-06-24 11:21 — Use 'Check' or 'Take a look at' to form a complete command instead of just the file reference.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 11:31 — Use 'different from' rather than 'different with' when comparing two things.
