@@ -3403,3 +3403,4 @@
 - 2026-06-24 10:03 — "讲讲" is casual; use "walk me through" for step-by-step explanations. "结合...怎么跑的" becomes "including how it runs...".
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 10:21 — In Chinese, you often omit the article 'the' before nouns like 'encoder' and 'CPU'. In English, use 'the encoder' and 'the CPU' when referring to specific ones.

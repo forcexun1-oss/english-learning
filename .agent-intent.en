@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Walk me through the entire process, including how it runs on the board — CPU or NPU?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Write a plan for the encoder to fall back to CPU and give it to Codex.
