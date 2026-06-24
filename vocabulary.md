@@ -3395,3 +3395,4 @@
 - 2026-06-24 09:53 — ‘把’ is a preposition, not a modal particle. Use ‘吧’ (ba) for suggestion.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 09:59 — "复现" means 'reproduce', not 'reappear'.
