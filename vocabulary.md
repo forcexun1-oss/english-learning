@@ -3472,3 +3472,4 @@
 - 2026-06-24 15:53 — Use full words for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:08 — Use 'worktree' (one word) in git contexts. Usually a noun phrase like 'clean up the worktree' is fine.
