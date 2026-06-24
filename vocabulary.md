@@ -3431,3 +3431,4 @@
 - 2026-06-24 11:31 — Use 'different from' rather than 'different with' when comparing two things.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 13:11 — '查' can mean 'check', 'look up', or 'verify' depending on context.
