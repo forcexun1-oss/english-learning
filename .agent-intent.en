@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Write a plan for the encoder to fall back to CPU and give it to Codex.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
