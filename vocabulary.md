@@ -3415,3 +3415,4 @@
 - 2026-06-24 10:40 — Use 'What about...?' or 'How about...?' to translate the Chinese particle '呢' when asking for an update or alternative option.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 11:01 — 差异这么大 is more naturally expressed as 'differ so much' or 'such a big difference' in English.
