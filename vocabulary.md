@@ -2582,6 +2582,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3376,6 +3377,8 @@
 - 2026-06-23 18:17 — Capitalize the first letter for a complete sentence.
 - 2026-06-23 18:20 — Use 'find' as a direct command; 'look for' is less direct.
 - 2026-06-23 18:21 — Use '吧' (ba) instead of '把' for making a suggestion: '明天再说吧' means 'Let's talk about it tomorrow'.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
