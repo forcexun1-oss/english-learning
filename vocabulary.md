@@ -3419,3 +3419,4 @@
 - 2026-06-24 11:01 — 差异这么大 is more naturally expressed as 'differ so much' or 'such a big difference' in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 11:08 — "补进" means "add into" or "include in". Use "add to" or "include in" here.
