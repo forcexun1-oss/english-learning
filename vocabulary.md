@@ -3383,3 +3383,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 09:32 — Use "Check" or "Look at" for 看看. The colon + number is natural for line references in English.
