@@ -3448,3 +3448,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-24 13:52 — In commands, you can omit the object if clear from context, but 'Write it' is more natural than just '写'.
+- 2026-06-24 13:53 — Spelling: 'wirte' → 'write'.
