@@ -3483,3 +3483,4 @@
 - 2026-06-24 16:19 — In English, we often ask 'Why is the screen black?' rather than using 'blackened' or 'black screen'. 'Black' here is an adjective.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:19 — "连上" means 'connect' (to a device/network), and "看看" is 'take a look' — in English, use the imperative mood with 'and' to combine two actions.
