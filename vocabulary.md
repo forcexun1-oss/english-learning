@@ -3411,3 +3411,4 @@
 - 2026-06-24 10:33 — Use a hyphen when combining 'friendly' with a noun: 'RKNN2-friendly'. Also consider plural 'models' when referring to a category.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 10:40 — Use 'What about...?' or 'How about...?' to translate the Chinese particle '呢' when asking for an update or alternative option.
