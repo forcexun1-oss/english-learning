@@ -3516,3 +3516,4 @@
 - 2026-06-24 17:02 — “先用” is commonly translated as 'use ... for now' or 'start with ...' rather than literal 'first use'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 17:04 — Use 'option 2' instead of just '2' to make your intent clear.
