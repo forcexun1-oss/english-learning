@@ -3435,3 +3435,4 @@
 - 2026-06-24 13:11 — '查' can mean 'check', 'look up', or 'verify' depending on context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 13:21 — '查一下' is commonly translated as 'look into' or 'check' in technical contexts.
