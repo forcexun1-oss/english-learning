@@ -3457,3 +3457,4 @@
 - 2026-06-24 15:24 — "Handoff" here is a noun meaning a handover document or task. You can use it directly in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 15:26 — Use "done" for completed tasks and "written in" for adding to a document or code. The original uses "都" twice for emphasis; in English, "all of them" works naturally.
