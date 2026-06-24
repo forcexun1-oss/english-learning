@@ -2608,6 +2608,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3485,3 +3486,5 @@
 >>>>>>> Stashed changes
 - 2026-06-24 16:19 — "连上" means 'connect' (to a device/network), and "看看" is 'take a look' — in English, use the imperative mood with 'and' to combine two actions.
 - 2026-06-24 16:20 — ‘好了’ here means ‘fixed/working’ (not ‘finished’). ‘看一下’ is informal — ‘take a look’ or ‘check it’ is more natural in English instructions.
+=======
+>>>>>>> Stashed changes
