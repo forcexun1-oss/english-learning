@@ -3496,3 +3496,4 @@
 - 2026-06-24 16:25 — Use 'Stop that' or 'Shut it down' for 停掉, depending on context. Here 'Stop that' is natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:31 — Use 'previously' instead of 'before' for a more formal tone, or keep 'before' for casual speech.
