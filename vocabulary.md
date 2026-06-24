@@ -3449,3 +3449,4 @@
 >>>>>>> Stashed changes
 - 2026-06-24 13:52 — In commands, you can omit the object if clear from context, but 'Write it' is more natural than just '写'.
 - 2026-06-24 13:53 — Spelling: 'wirte' → 'write'.
+- 2026-06-24 15:20 — "效果可以了" is often translated as "the result is good enough" or "it's acceptable". Using "good enough" sounds more natural in this context.
