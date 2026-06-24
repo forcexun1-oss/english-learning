@@ -3447,3 +3447,4 @@
 - 2026-06-24 13:49 — "可以接受" translates to "acceptable" or "passable". In technical contexts, "acceptable" is more common.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 13:52 — In commands, you can omit the object if clear from context, but 'Write it' is more natural than just '写'.
