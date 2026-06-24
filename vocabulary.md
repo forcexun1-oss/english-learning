@@ -3484,3 +3484,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-24 16:19 — "连上" means 'connect' (to a device/network), and "看看" is 'take a look' — in English, use the imperative mood with 'and' to combine two actions.
+- 2026-06-24 16:20 — ‘好了’ here means ‘fixed/working’ (not ‘finished’). ‘看一下’ is informal — ‘take a look’ or ‘check it’ is more natural in English instructions.
