@@ -3512,3 +3512,4 @@
 - 2026-06-24 16:58 — '别的' translates to 'other', not 'else'. '可用' is 'available'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 17:02 — “先用” is commonly translated as 'use ... for now' or 'start with ...' rather than literal 'first use'.
