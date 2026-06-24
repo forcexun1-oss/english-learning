@@ -3527,3 +3527,4 @@
 - 2026-06-24 17:18 — Add 'the' before 'default' to specify which default you're switching.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 17:30 — Use 'is done' to make a complete sentence, or use imperative mood directly like 'Merge it into main.'
