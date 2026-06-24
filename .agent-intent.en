@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-rk3576-rk1828-tts-npu-frontend-results.md: The result is good enough. Does this support streaming?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Write the TTS streaming handoff and send it to him.

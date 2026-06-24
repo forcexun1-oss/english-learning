@@ -3453,3 +3453,4 @@
 - 2026-06-24 15:20 — "效果可以了" is often translated as "the result is good enough" or "it's acceptable". Using "good enough" sounds more natural in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 15:24 — "Handoff" here is a noun meaning a handover document or task. You can use it directly in technical contexts.
