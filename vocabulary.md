@@ -3407,3 +3407,4 @@
 - 2026-06-24 10:21 — In Chinese, you often omit the article 'the' before nouns like 'encoder' and 'CPU'. In English, use 'the encoder' and 'the CPU' when referring to specific ones.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 10:33 — Use a hyphen when combining 'friendly' with a noun: 'RKNN2-friendly'. Also consider plural 'models' when referring to a category.
