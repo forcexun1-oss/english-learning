@@ -3492,3 +3492,4 @@
 - 2026-06-24 16:23 — "试试" is a reduplicated verb meaning 'give it a try' — in English, you can use 'Try it' or 'Give it a try'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 16:25 — Use 'Stop that' or 'Shut it down' for 停掉, depending on context. Here 'Stop that' is natural.
