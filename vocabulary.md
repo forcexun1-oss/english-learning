@@ -2614,6 +2614,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3509,3 +3510,5 @@
 >>>>>>> Stashed changes
 - 2026-06-24 16:57 — In technical instructions, 'insufficient memory' is more formal than 'not enough memory'.
 - 2026-06-24 16:58 — '别的' translates to 'other', not 'else'. '可用' is 'available'.
+=======
+>>>>>>> Stashed changes
