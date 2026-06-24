@@ -3387,3 +3387,4 @@
 - 2026-06-24 09:32 — Use "Check" or "Look at" for 看看. The colon + number is natural for line references in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-24 09:37 — When asking '核心是...的问题吗', use 'Is the core issue that...' to start the question, not 'Core is... problem'.
