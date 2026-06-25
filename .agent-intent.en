@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 If we force FIRST_CHARS=8, the command becomes:
 
 - 请帮我打开客厅的
@@ -5,3 +6,6 @@ If we force FIRST_CHARS=8, the command becomes:
 - 然后播放一首轻音乐。
 
 This is why you heard the streaming issue. So the current conclusion is not to enable FIRST_CHARS=8. Now the problem is this – how can we fix this?
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
