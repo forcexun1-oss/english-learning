@@ -3571,3 +3571,4 @@
 - 2026-06-25 13:42 — Use the present perfect "haven't been updated" (or "hasn't been updated" for singular doc) to describe something still incomplete.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 13:44 — Use 'audio quality' or 'perceptual quality' instead of '听感' (listening experience) in technical contexts; 'latency' is the standard term for '时延'.
