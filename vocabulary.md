@@ -3587,3 +3587,4 @@
 - 2026-06-25 13:57 — ‘流式’ is short for ‘流式处理’ (streaming processing). In technical contexts, ‘streaming’ alone is clear as a noun modifier.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:01 — "改做的" likely means "the things that need to be changed" (from 改+的). The structure "A 还是 B" is for alternatives: "A or B?"
