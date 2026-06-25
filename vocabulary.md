@@ -3628,3 +3628,4 @@
 - 2026-06-25 15:10 — Use "LLM" instead of "large model" — it's more natural in tech contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 15:13 — "奇怪" commonly translates to "strange," but for audio quality, native speakers often say "sounds off" or "sounds unnatural."
