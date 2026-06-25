@@ -3632,3 +3632,4 @@
 - 2026-06-25 15:13 — "奇怪" commonly translates to "strange," but for audio quality, native speakers often say "sounds off" or "sounds unnatural."
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 15:44 — 中文的“一下”表示轻松的语气，英文中通常省略，直接用动词原形即可。

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-No, the audio was generated, and it sounds strange to me.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Review the current results in docs/rk3576-rk1828-tts-npu-frontend-results.md, then review the code to see what other issues remain and address them from the root.
