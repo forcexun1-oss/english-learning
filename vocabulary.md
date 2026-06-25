@@ -3596,3 +3596,4 @@
 - 2026-06-25 14:03 — Use 'log into memory' (or 'record in memory') instead of literal 'write a note into memory'. 'Log' is common in developer contexts for persistent records.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:21 — "听起来很怪" can be "sounds strange/odd". "中间有英文" can be "English in the middle (of the sentence/utterance)".
