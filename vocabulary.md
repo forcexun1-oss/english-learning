@@ -3579,3 +3579,4 @@
 - 2026-06-25 13:47 — '关掉' here means 'eliminate' or 'remove', not literally 'turn off'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 13:50 — "强开" is colloquial; use "force enable" or "force on" in technical contexts.
