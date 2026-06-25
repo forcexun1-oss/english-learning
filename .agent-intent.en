@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 The root cause has been confirmed. It's not a playback/PCM concatenation issue; it's the first chunk splitting with FIRST_CHARS=8 that cuts the command into:
   - 请帮我打开客厅的
   - 灯，
   - 然后播放一首轻音乐。
 This causes the character '灯' to sound a bit awkward. Is there any good splitting strategy?
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
