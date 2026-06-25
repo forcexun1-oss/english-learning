@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 B2: English code-switch fallback.
 
 Here's my proposal:
@@ -15,3 +16,6 @@ Optional options:
 I recommend option 2. Once you confirm, I'll implement this and add regression test cases as well.
 
 How to proceed? I want it formal and complete, not just a quick hack.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
