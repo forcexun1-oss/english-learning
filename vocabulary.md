@@ -3567,3 +3567,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 13:42 — Use the present perfect "haven't been updated" (or "hasn't been updated" for singular doc) to describe something still incomplete.

@@ -1,5 +1,22 @@
-<<<<<<< Updated upstream
-Review docs/rk3576-rk1828-tts-npu-frontend-results.md and code.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+I reviewed it. The review conclusion in docs/rk3576-rk1828-tts-streaming-finish-handoff.md says:
+
+- Root cause of FIRST_CHARS=8: it blindly splits by character count, breaking "客厅的灯" and producing isolated short chunks like "灯，".
+- The review proposed fixes:
+    - Don't hard-split the first chunk by character count; soft-split by linguistic boundaries instead.
+    - Prioritize punctuation / clause boundaries.
+    - When no early punctuation exists, find word boundaries and avoid cutting in the middle of a word.
+    - Avoid isolated 1-2 character chunks.
+    - Goal: keep the first-response benefit while fixing boundary perception issues.
+
+- But after actual listening validation, we have an updated conclusion:
+    - The direction is theoretically correct, but the current implementation/experiment didn't verify successfully.
+    - You confirmed that "the fallback default streaming sounds fine."
+    - Although FIRST_CHARS=8 gives ~247ms first PCM, the streaming boundary perception is problematic and it should not be enabled by default.
+    - The current recommendation is still to use default chunking: MAX_CHARS=24, no FIRST_CHARS.
+
+So the "first-chunk splitting fix" in this handoff should now be treated as an unadopted / pending redesign review suggestion, not a current production conclusion.
+
+I've already written the actual final result into:
+- docs/rk3576-rk1828-tts-npu-frontend-results.md
+
+But the tts-streaming-finish-handoff.md hasn't been updated yet with the conclusion that "the review suggestion was overruled by listening tests — keep default streaming for now."
