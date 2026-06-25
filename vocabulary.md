@@ -3575,3 +3575,4 @@
 - 2026-06-25 13:44 — Use 'audio quality' or 'perceptual quality' instead of '听感' (listening experience) in technical contexts; 'latency' is the standard term for '时延'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 13:47 — '关掉' here means 'eliminate' or 'remove', not literally 'turn off'.
