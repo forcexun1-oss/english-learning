@@ -2658,6 +2658,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3673,3 +3674,5 @@
 >>>>>>> Stashed changes
 - 2026-06-25 17:32 — Use "still wrong" to indicate a recurring error, or "wrong again" if you want to emphasize repetition.
 - 2026-06-25 17:39 — In Chinese, '给' in '他给修好了' is a colloquial particle adding emphasis; it's often omitted in English. Also, 'review一下把' means 'please review' (把 is a casual imperative particle, not used in standard English).
+=======
+>>>>>>> Stashed changes
