@@ -3676,3 +3676,4 @@
 - 2026-06-25 17:39 — In Chinese, '给' in '他给修好了' is a colloquial particle adding emphasis; it's often omitted in English. Also, 'review一下把' means 'please review' (把 is a casual imperative particle, not used in standard English).
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 17:42 — Use 'needs to be done' instead of 'to do' for clarity on remaining tasks.
