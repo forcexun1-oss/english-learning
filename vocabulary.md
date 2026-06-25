@@ -3620,3 +3620,4 @@
 - 2026-06-25 14:50 — "都" translates to "all" or "both" in English. Make sure to include the object ("them") after the verb.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:53 — The Chinese '吧' softens a command into a suggestion. In English, 'go ahead' adds a similar friendly, encouraging tone.
