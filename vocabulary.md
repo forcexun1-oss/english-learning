@@ -3688,3 +3688,4 @@
 - 2026-06-25 18:11 — Add 'is' for a complete sentence, though 'ASR agent done' is common in commit messages.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 22:16 — Use 'fallback' for '兜底' in technical contexts; 'code-switch' stays as-is since it's a standard term.
