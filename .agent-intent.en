@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 I reviewed it. The review conclusion in docs/rk3576-rk1828-tts-streaming-finish-handoff.md says:
 
 - Root cause of FIRST_CHARS=8: it blindly splits by character count, breaking "客厅的灯" and producing isolated short chunks like "灯，".
@@ -20,3 +21,6 @@ I've already written the actual final result into:
 - docs/rk3576-rk1828-tts-npu-frontend-results.md
 
 But the tts-streaming-finish-handoff.md hasn't been updated yet with the conclusion that "the review suggestion was overruled by listening tests — keep default streaming for now."
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
