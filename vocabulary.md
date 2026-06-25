@@ -3667,3 +3667,4 @@
 - 2026-06-25 17:07 — Use 'approach' instead of '路' for '方案', and 'phones' is correct technical jargon for phonetic units.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 17:09 — '记进' is colloquial; use '记入' or '记录到' in formal writing. '写路B' means 'write route B' (keep 'route' as a technical term).
