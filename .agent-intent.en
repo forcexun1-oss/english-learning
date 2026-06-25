@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 I'll finalize the design first, not directly change the code.
 
 I suggest we follow this plan:
@@ -13,3 +14,6 @@ Why this approach:
 - After converging fallback sources, the pronunciation source becomes more consistent, making future audits easier.
 
 If you agree, I'll implement this plan.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
