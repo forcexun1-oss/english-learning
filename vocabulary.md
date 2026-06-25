@@ -3616,3 +3616,4 @@
 - 2026-06-25 14:48 — Use 'bit by bit' (or 'little by little') to express 一点点地 doing something. '靠自己在写' can be translated as 'writing it by myself'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:50 — "都" translates to "all" or "both" in English. Make sure to include the object ("them") after the verb.
