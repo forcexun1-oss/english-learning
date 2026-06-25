@@ -3624,3 +3624,4 @@
 - 2026-06-25 14:53 — The Chinese '吧' softens a command into a suggestion. In English, 'go ahead' adds a similar friendly, encouraging tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 15:10 — Use "LLM" instead of "large model" — it's more natural in tech contexts.
