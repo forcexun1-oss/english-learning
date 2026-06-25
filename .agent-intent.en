@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Use warmup to eliminate cold start, don't touch the chunking.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
