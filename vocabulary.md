@@ -3592,3 +3592,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-25 14:03 — '记一笔进记忆' is colloquial; use 'record this into memory' or 'save this to memory'.
+- 2026-06-25 14:03 — Use 'log into memory' (or 'record in memory') instead of literal 'write a note into memory'. 'Log' is common in developer contexts for persistent records.
