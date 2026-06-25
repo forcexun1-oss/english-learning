@@ -3639,3 +3639,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 15:52 — Note: "sandhi" is a linguistic term used unchanged. "Converge to" is more natural than "converge onto" in technical writing.

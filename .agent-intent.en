@@ -1,9 +1,15 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Review the current results in docs/rk3576-rk1828-tts-npu-frontend-results.md, then review the code to see what other issues remain and address them from the root.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+I'll finalize the design first, not directly change the code.
+
+I suggest we follow this plan:
+
+1. Add a unified sandhi pass at runtime: change the handling of 一/不/third-tone sandhi from "baked into entries" to "whole-sentence syllable-level processing".
+2. The generator only keeps basic pronunciations and neutral tones, no longer hardcodes 一/不 tone sandhi in entries.
+3. Gradually converge the OOV fallback to a single-character lexicon, with pinyin_converter as the last resort.
+
+Why this approach:
+
+- Modifying only the generator would continue to be overridden by long words, still whack-a-mole.
+- Unified runtime processing can cover issues like 一下 / 检查一下 / 很好 / 请你 / 为你 in one go.
+- After converging fallback sources, the pronunciation source becomes more consistent, making future audits easier.
+
+If you agree, I'll implement this plan.
