@@ -3671,3 +3671,4 @@
 - 2026-06-25 17:09 — '记进' is colloquial; use '记入' or '记录到' in formal writing. '写路B' means 'write route B' (keep 'route' as a technical term).
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 17:32 — Use "still wrong" to indicate a recurring error, or "wrong again" if you want to emphasize repetition.
