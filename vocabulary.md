@@ -3591,3 +3591,4 @@
 - 2026-06-25 14:01 — "改做的" likely means "the things that need to be changed" (from 改+的). The structure "A 还是 B" is for alternatives: "A or B?"
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:03 — '记一笔进记忆' is colloquial; use 'record this into memory' or 'save this to memory'.

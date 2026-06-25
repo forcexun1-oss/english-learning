@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Should we only do what needs to be changed, or do everything?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Record this into memory, then have the agent run warmup.
