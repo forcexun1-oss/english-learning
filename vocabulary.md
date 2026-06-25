@@ -3663,3 +3663,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 17:07 — Use 'approach' instead of '路' for '方案', and 'phones' is correct technical jargon for phonetic units.
