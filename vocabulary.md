@@ -3653,3 +3653,4 @@
 - 2026-06-25 16:40 — In English, an imperative like 'Write it.' often needs a direct object ('it') to be clear, unlike Chinese where '写' alone can suffice.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 16:59 — Use 'Does ... have' for questions about existence, not 'has'.
