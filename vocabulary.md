@@ -3684,3 +3684,4 @@
 - 2026-06-25 17:48 — Use 'unfinished items' or 'remaining tasks' instead of a literal translation of '没做的'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 18:11 — Add 'is' for a complete sentence, though 'ASR agent done' is common in commit messages.
