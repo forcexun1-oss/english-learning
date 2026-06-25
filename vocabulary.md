@@ -3680,3 +3680,4 @@
 - 2026-06-25 17:42 — Use 'needs to be done' instead of 'to do' for clarity on remaining tasks.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 17:48 — Use 'unfinished items' or 'remaining tasks' instead of a literal translation of '没做的'.
