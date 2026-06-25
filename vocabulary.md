@@ -3583,3 +3583,4 @@
 - 2026-06-25 13:50 — "强开" is colloquial; use "force enable" or "force on" in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 13:57 — ‘流式’ is short for ‘流式处理’ (streaming processing). In technical contexts, ‘streaming’ alone is clear as a noun modifier.
