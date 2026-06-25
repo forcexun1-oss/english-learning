@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Do task 1 first.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Let's fix this first. He wrote his own version, but the listening experience is still not good. Review the code at docs/rk3576-rk1828-tts-npu-frontend-results.md:2037.
