@@ -3604,3 +3604,4 @@
 - 2026-06-25 14:31 — In English, '车载的场景' is more naturally expressed as 'in an in-car scenario' or 'in an automotive scenario' — '车载' directly translates to 'vehicle-mounted', but idiomatic English prefers 'in-car' or 'automotive'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:34 — In English, it's clearer to say 'task 1' or '#1' rather than just '1' when referring to a numbered task.
