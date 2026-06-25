@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-Root cause confirmed. It's not a playback/PCM concatenation issue; it's the FIRST_CHARS=8 initial chunk splitting that splits the command into:
-
-  - 请帮我打开客厅的
-  - 灯，
-  - 然后播放一首轻音乐。
-
-This splitting causes the character '灯' to sound a bit odd. Is there a good splitting strategy?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Review docs/rk3576-rk1828-tts-npu-frontend-results.md and code.
