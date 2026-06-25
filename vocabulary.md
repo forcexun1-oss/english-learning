@@ -3556,3 +3556,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 11:06 — Use 'root cause' instead of the direct translation '根因' in English. Also, '字有点怪' is better expressed as 'sounds a bit awkward' or 'sounds off' in this context.
