@@ -3612,3 +3612,4 @@
 - 2026-06-25 14:42 — "听感" translates to "listening experience" or "audio quality". Here "听感还是不好" means the audio still sounds bad to the ear.
 =======
 >>>>>>> Stashed changes
+- 2026-06-25 14:48 — Use 'bit by bit' (or 'little by little') to express 一点点地 doing something. '靠自己在写' can be translated as 'writing it by myself'.
