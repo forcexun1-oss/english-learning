@@ -3721,3 +3721,4 @@
 - 2026-06-26 11:01 — Use "even more ... than" to emphasize a stronger comparison, as in 'even more costly than G2P'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:03 — Use 'essentially' or 'basically' to mean '其实/本质上' instead of overusing 'actually'.
