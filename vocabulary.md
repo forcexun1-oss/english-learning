@@ -3787,3 +3787,4 @@
 - 2026-06-26 13:01 — In English, 'integrate' is usually transitive: integrate something. You can specify what to integrate (e.g., 'Integrate the two modules').
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 13:09 — 统一把...补进去意态“add ... all at once”或“apply ... together”，强调一次性完成所有补充.
