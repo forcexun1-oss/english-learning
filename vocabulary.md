@@ -3734,3 +3734,4 @@
 - 2026-06-26 11:08 — Use 'what something does' to ask about its function.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:12 — '鸡毛用' is a colloquial Chinese expression meaning 'utterly useless' or 'what's the point'. In English, use 'what's the point of...' or 'it's pointless to...' to convey the same tone.
