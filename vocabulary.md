@@ -3704,3 +3704,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-26 10:36 — ‘实际没跑过’ means ‘hasn't actually been run’. Use ‘actually run’ or ‘actually executed’ for clarity.
+- 2026-06-26 10:37 — '上板' means 'run on the development board'. In tech contexts, 'board' refers to hardware like RK3576.
