@@ -2671,6 +2671,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3727,3 +3728,5 @@
 >>>>>>> Stashed changes
 - 2026-06-26 11:05 — 'Doing' here refers to the task's action or purpose before it was stopped. You could also say 'What is the purpose of the stopped task?' for clarity.
 - 2026-06-26 11:06 — "问" can mean "ask" (verb) or "question" (noun). Based on context, you likely meant "任务" (task), not "问题" (question). Use "task" or "question" explicitly to avoid confusion.
+=======
+>>>>>>> Stashed changes
