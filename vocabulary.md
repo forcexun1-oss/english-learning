@@ -3742,3 +3742,4 @@
 - 2026-06-26 11:14 — Use 'where do the sentences come from' instead of 'where do the sentences come from' – natural English uses 'come from' at the end of the question, not 'where from'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:17 — "不要再问我要了" 更自然的表达是 "Stop asking me for it" 或 "Don't ask me for it anymore"。
