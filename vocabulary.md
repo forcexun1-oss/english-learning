@@ -3833,3 +3833,4 @@
 - 2026-06-26 16:02 — "both" doesn't need "the" in front (say "both follow-ups", not "the both follow-ups"). Also fix the typo: "fllow-ups" → "follow-ups".
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 16:06 — 'X的话' is a Chinese topic marker meaning 'regarding X / as for X'. In English, you can often drop the repetition: just say 'For ASR, which one should we use?'
