@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-There's no existing solution online. Do we really have to do it this way?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+So first, we don't have tests. You need to figure out on your own whether the current ones are sufficient. The current test plan seems quite problematic. Do we need to specifically generate a test plan? Second, this can't be run on a Mac; it must actually be run on the board, right?

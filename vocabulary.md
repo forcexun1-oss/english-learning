@@ -3716,3 +3716,4 @@
 - 2026-06-26 10:46 — "现成的" in technical contexts is better translated as "existing solution" or "off-the-shelf", not literally "ready-made".
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 10:57 — "测试方案" can be translated as "test plan" or "test strategy" depending on context. Here "test plan" fits better since you're referring to the overall testing approach.
