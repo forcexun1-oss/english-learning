@@ -3783,3 +3783,4 @@
 - 2026-06-26 12:41 — Use 'wait for both to finish, then...' instead of a literal translation of '等...一起'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 13:01 — In English, 'integrate' is usually transitive: integrate something. You can specify what to integrate (e.g., 'Integrate the two modules').
