@@ -3746,3 +3746,4 @@
 - 2026-06-26 11:17 — "不要再问我要了" 更自然的表达是 "Stop asking me for it" 或 "Don't ask me for it anymore"。
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:22 — Use 'complete test plan' for '完整的测试方案', not 'test scheme'.
