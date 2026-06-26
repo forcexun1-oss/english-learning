@@ -3767,3 +3767,4 @@
 - 2026-06-26 11:41 — ''对把'' should be ''对吧'' — 吧 is a sentence-ending particle used to seek confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:42 — The Chinese '掉' after a verb indicates completing the action thoroughly. In English, this can be expressed with 'all of it' or 'everything'.
