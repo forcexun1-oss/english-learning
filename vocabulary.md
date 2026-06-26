@@ -3806,3 +3806,4 @@
 - 2026-06-26 14:47 — Use 'finished' or 'done' instead of 'completed' for a more natural developer tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 15:00 — Use plain English instead of pasting raw task notifications. Just state the result directly.
