@@ -3712,3 +3712,4 @@
 - 2026-06-26 10:40 — "调" here means "invoke/run" a command, not "adjust". "复核" means "review/verify".
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 10:46 — "现成的" in technical contexts is better translated as "existing solution" or "off-the-shelf", not literally "ready-made".
