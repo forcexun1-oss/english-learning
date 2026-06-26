@@ -2669,6 +2669,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3718,3 +3719,5 @@
 >>>>>>> Stashed changes
 - 2026-06-26 10:57 — "测试方案" can be translated as "test plan" or "test strategy" depending on context. Here "test plan" fits better since you're referring to the overall testing approach.
 - 2026-06-26 11:01 — Use "even more ... than" to emphasize a stronger comparison, as in 'even more costly than G2P'.
+=======
+>>>>>>> Stashed changes
