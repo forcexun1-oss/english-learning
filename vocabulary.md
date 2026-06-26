@@ -3738,3 +3738,4 @@
 - 2026-06-26 11:12 — '鸡毛用' is a colloquial Chinese expression meaning 'utterly useless' or 'what's the point'. In English, use 'what's the point of...' or 'it's pointless to...' to convey the same tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:14 — Use 'where do the sentences come from' instead of 'where do the sentences come from' – natural English uses 'come from' at the end of the question, not 'where from'.
