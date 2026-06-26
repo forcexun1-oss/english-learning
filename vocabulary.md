@@ -2665,6 +2665,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3700,3 +3701,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-26 10:23 — "干得咋样了" is casual; in English, use "how he's doing" or "his progress" for a similar tone.
+=======
+>>>>>>> Stashed changes
