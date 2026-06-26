@@ -3755,3 +3755,4 @@
 - 2026-06-26 11:33 — 只管 translates to "only care about" or "only focus on" — use 'only + verb' structure to express exclusivity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:36 — "依赖人" means "depend on people/others" - here it's informal, better phrased as "rely on others" or "require other people."
