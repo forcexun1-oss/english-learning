@@ -3791,3 +3791,4 @@
 - 2026-06-26 13:09 — 统一把...补进去意态“add ... all at once”或“apply ... together”，强调一次性完成所有补充.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 13:36 — Use active voice: 'is done' instead of 'has been completed' is more direct for developer chat.
