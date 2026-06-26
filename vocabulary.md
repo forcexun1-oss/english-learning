@@ -3771,3 +3771,4 @@
 - 2026-06-26 11:42 — The Chinese '掉' after a verb indicates completing the action thoroughly. In English, this can be expressed with 'all of it' or 'everything'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:45 — "同步实现" can be translated as "implement concurrently" or "implement in parallel". "重复实现" is "reimplement" or "duplicate the implementation".
