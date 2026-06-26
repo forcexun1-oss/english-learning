@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-For ASR, which one should we use?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+First, add whisper-large-v3. Is purpose 2 necessary?

@@ -3837,3 +3837,4 @@
 - 2026-06-26 16:06 — 'X的话' is a Chinese topic marker meaning 'regarding X / as for X'. In English, you can often drop the repetition: just say 'For ASR, which one should we use?'
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 16:09 — Use 'necessary' for '有必要'. '目的' translates to 'purpose' or 'objective' in technical contexts.
