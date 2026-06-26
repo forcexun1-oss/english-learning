@@ -3795,3 +3795,4 @@
 - 2026-06-26 13:36 — Use active voice: 'is done' instead of 'has been completed' is more direct for developer chat.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 14:24 — Use "let [someone] do [something]" for delegation. "Handle" is more natural than "do" in this context.
