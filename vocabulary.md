@@ -3817,3 +3817,4 @@
 - 2026-06-26 15:22 — Use "has completed" or "is done" for task status — avoid literal translations like "run finished".
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 15:27 — "两个都" can be translated as "both" — place it before the verb in English.
