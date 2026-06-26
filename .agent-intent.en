@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Don't just focus on polyphonic characters. I need a complete test plan. Not too many cases since we only have one board, but not too few either. Running for a few hours is acceptable.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Only care about TTS, not others.

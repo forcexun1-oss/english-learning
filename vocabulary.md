@@ -3751,3 +3751,4 @@
 - 2026-06-26 11:22 — '光针对' means 'focus only on' — 光 + verb = 'only do something'. '多音字' is 'polyphonic characters' in NLP contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:33 — 只管 translates to "only care about" or "only focus on" — use 'only + verb' structure to express exclusivity.
