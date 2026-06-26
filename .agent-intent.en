@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 The main branch in the main repo is not clean; there are uncommitted changes:
 - AGENTS.md
 - CLAUDE.md
 Handle it.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
