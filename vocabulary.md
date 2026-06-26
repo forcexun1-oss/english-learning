@@ -3763,3 +3763,4 @@
 - 2026-06-26 11:38 — '能不人工的就不要人工' uses the pattern '能...的就不要...' meaning 'if it can be X, then don't Y.' Here, '人工' is shorthand for '人工处理' (manual processing).
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:41 — ''对把'' should be ''对吧'' — 吧 is a sentence-ending particle used to seek confirmation.
