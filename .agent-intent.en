@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Then run codex --profile chatgpt to execute it, and let it self-review. For anything it's uncertain about, you review. If still uncertain, I'll review.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
