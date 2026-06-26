@@ -3708,3 +3708,4 @@
 - 2026-06-26 10:37 — '上板' means 'run on the development board'. In tech contexts, 'board' refers to hardware like RK3576.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 10:40 — "调" here means "invoke/run" a command, not "adjust". "复核" means "review/verify".
