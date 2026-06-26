@@ -3759,3 +3759,4 @@
 - 2026-06-26 11:36 — "依赖人" means "depend on people/others" - here it's informal, better phrased as "rely on others" or "require other people."
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:38 — '能不人工的就不要人工' uses the pattern '能...的就不要...' meaning 'if it can be X, then don't Y.' Here, '人工' is shorthand for '人工处理' (manual processing).
