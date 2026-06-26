@@ -3825,3 +3825,4 @@
 - 2026-06-26 15:38 — Use 'both' to refer to two items.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 15:50 — Use 'both' without 'the' when referring to two items generally, e.g., 'both follow-ups'.
