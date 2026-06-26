@@ -3821,3 +3821,4 @@
 - 2026-06-26 15:27 — "两个都" can be translated as "both" — place it before the verb in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 15:38 — Use 'both' to refer to two items.
