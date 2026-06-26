@@ -3813,3 +3813,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 15:22 — Use "has completed" or "is done" for task status — avoid literal translations like "run finished".
