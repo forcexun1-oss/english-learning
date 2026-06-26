@@ -1,1 +1,1 @@
-So first, we don't have tests. You need to figure out on your own whether the current ones are sufficient. The current test plan seems quite problematic. Do we need to specifically generate a test plan? Second, this can't be run on a Mac; it must actually be run on the board, right?
+A test set this large feels even more costly than G2P.

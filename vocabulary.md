@@ -3717,3 +3717,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-26 10:57 — "测试方案" can be translated as "test plan" or "test strategy" depending on context. Here "test plan" fits better since you're referring to the overall testing approach.
+- 2026-06-26 11:01 — Use "even more ... than" to emphasize a stronger comparison, as in 'even more costly than G2P'.
