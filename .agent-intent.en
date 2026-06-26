@@ -1,21 +1,4 @@
-<<<<<<< Updated upstream
-B2: English code-switch fallback.
-
-Here's my proposal:
-
-- Only add "front-end fallback", don't touch the verified Chinese main pipeline.
-- Order: common English word overrides → single-letter readings (A/B/C…) → pypinyin / existing English transcription as fallback.
-- Only activate when LLM actually outputs English and the current word is not in the Chinese lexicon; Chinese and already-covered words are unaffected.
-
-Optional options:
-
-1. Minimal: just one layer of English word overrides — lowest risk, but limited coverage.
-2. Recommended: overrides + letter names + pinyin fallback — balances intelligibility and robustness.
-3. Conservative: only detection and reporting for now, no auto-transcription — continue monitoring.
-
-I recommend option 2. Once you confirm, I'll implement this and add regression test cases as well.
-
-How to proceed? I want it formal and complete, not just a quick hack.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+The main branch in the main repo is not clean; there are uncommitted changes:
+- AGENTS.md
+- CLAUDE.md
+Handle it.

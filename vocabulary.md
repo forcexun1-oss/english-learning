@@ -3692,3 +3692,4 @@
 - 2026-06-25 22:16 — Use 'fallback' for '兜底' in technical contexts; 'code-switch' stays as-is since it's a standard term.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 09:16 — Use 'uncommitted changes' instead of '未提交改动' (literal: 'unsaved changes'). 'Handle it' is fine as a command.
