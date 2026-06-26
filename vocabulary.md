@@ -3829,3 +3829,4 @@
 - 2026-06-26 15:50 — Use 'both' without 'the' when referring to two items generally, e.g., 'both follow-ups'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 16:02 — "both" doesn't need "the" in front (say "both follow-ups", not "the both follow-ups"). Also fix the typo: "fllow-ups" → "follow-ups".
