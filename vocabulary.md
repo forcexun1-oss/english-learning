@@ -3779,3 +3779,4 @@
 - 2026-06-26 11:58 — Use 'completed with exit code 0' instead of 'completed (exit code 0)' for a more natural flow.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 12:41 — Use 'wait for both to finish, then...' instead of a literal translation of '等...一起'.
