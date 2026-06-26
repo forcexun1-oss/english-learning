@@ -3725,3 +3725,4 @@
 - 2026-06-26 11:03 — Use 'essentially' or 'basically' to mean '其实/本质上' instead of overusing 'actually'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:05 — 'Doing' here refers to the task's action or purpose before it was stopped. You could also say 'What is the purpose of the stopped task?' for clarity.
