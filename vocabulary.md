@@ -3730,3 +3730,4 @@
 - 2026-06-26 11:06 — "问" can mean "ask" (verb) or "question" (noun). Based on context, you likely meant "任务" (task), not "问题" (question). Use "task" or "question" explicitly to avoid confusion.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 11:08 — Use 'what something does' to ask about its function.
