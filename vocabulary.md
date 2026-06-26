@@ -3703,3 +3703,4 @@
 - 2026-06-26 10:23 — "干得咋样了" is casual; in English, use "how he's doing" or "his progress" for a similar tone.
 =======
 >>>>>>> Stashed changes
+- 2026-06-26 10:36 — ‘实际没跑过’ means ‘hasn't actually been run’. Use ‘actually run’ or ‘actually executed’ for clarity.

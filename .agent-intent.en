@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check how he's doing and review his work.
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+g2pw hasn't actually been run with the real model: the output format assumptions (e.g., tone numbers like "wei4", mapping u:/ü→v) were made based on a fake converter. The real g2pw with style="pinyin" — specifically its handling of ü and neutral tone output — hasn't been verified. The documentation honestly notes that the host doesn't have g2pw installed and the model hasn't been downloaded — this is a known caveat, not concealment, but before going live we need to validate the format with the real model. What does this mean? Has it never actually been run?
