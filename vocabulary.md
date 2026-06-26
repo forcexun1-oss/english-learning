@@ -3747,3 +3747,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-26 11:22 — Use 'complete test plan' for '完整的测试方案', not 'test scheme'.
+- 2026-06-26 11:22 — '光针对' means 'focus only on' — 光 + verb = 'only do something'. '多音字' is 'polyphonic characters' in NLP contexts.
