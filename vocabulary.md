@@ -3848,3 +3848,4 @@
 - 2026-06-27 21:12 — Omit 'so far' — 'status' already implies the current state.
 =======
 >>>>>>> Stashed changes
+- 2026-06-27 21:24 — Use "isn't here yet" instead of "is not here" to imply expected arrival. "Need" is more natural than "require" in casual developer talk.
