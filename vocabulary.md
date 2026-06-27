@@ -3844,3 +3844,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-27 21:12 — Omit 'so far' — 'status' already implies the current state.
