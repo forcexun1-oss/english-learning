@@ -3968,3 +3968,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 20:24 — "有害吗" is a yes/no question; in English, we typically invert the subject and verb: "Is it harmful?" (not "It is harmful?").
