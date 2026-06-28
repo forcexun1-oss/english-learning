@@ -4002,3 +4002,4 @@
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
 - 2026-06-28 21:51 — Use 'itself' for emphasis when you mean the subject is the cause of the problem.
+- 2026-06-28 21:55 — Use 'finished' or 'completed' to describe command execution. 'Completed' is fine, but 'finished' sounds more active.

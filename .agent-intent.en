@@ -1,1 +1,1 @@
-Monitor event: "corrected profiler run completes or hangs". Details: Still running after 61s — even with -no-cnv it hangs, so the profiler itself is the bug.
+The background command 'Stability A/B with correct /exit-piped llama-cli' finished with exit code 0.
