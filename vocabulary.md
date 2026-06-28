@@ -3914,3 +3914,4 @@
 - 2026-06-28 17:48 — The Chinese particle '啊' adds emphasis, similar to using 'just' in English imperatives.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 17:49 — Use present perfect passive 'has been downloaded' to ask about progress (progress achieved so far).
