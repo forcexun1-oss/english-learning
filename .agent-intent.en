@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background shell command from the previous session did not complete. It may have been stopped or the process exited before finishing. Check the output file for partial results before assuming it finished.
+=======
+The command was executed in my previous session, but I see there is no result. Could you check if there is any output or confirm why the command stopped earlier?
+>>>>>>> Stashed changes
