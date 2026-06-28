@@ -3943,3 +3943,4 @@
 - 2026-06-28 19:01 — "不够" means 'not enough' (negation of 够). In coding contexts, use 'the case where there's not enough' rather than 'the insufficient case' for natural phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 19:14 — Use active voice for instructions: 'Download the repo...' instead of '把...下载到'. Also, '写个方案' can be 'write a plan'.
