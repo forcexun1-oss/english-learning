@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is there a Qwen MoE model with an optimization method similar to this project, so it can run on my Mac?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+I just want the same optimization strategy applied to Qwen, where the model itself is larger than memory.
