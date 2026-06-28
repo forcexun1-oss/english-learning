@@ -3923,3 +3923,4 @@
 - 2026-06-28 18:02 — '下了多少了' asks about progress; use 'How much has been downloaded?' in English.
 - 2026-06-28 18:03 — The Chinese phrase '下了多少了' uses '了' to indicate a change of state or completion. In English, we use the present perfect passive 'has been downloaded' to ask about progress.
 - 2026-06-28 18:37 — In Chinese, '下了多少了' uses '了' to indicate a change and a question. In English, use present perfect: 'How much has been downloaded?'
+- 2026-06-28 18:43 — ‘走代理’ is Chinese tech slang; in English we say ‘use a proxy’ or ‘go through a proxy’.
