@@ -3991,3 +3991,4 @@
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
+- 2026-06-28 21:47 — Use 'issues' instead of 'trouble' for technical problems; also replace the comma with an em dash or semicolon to avoid a comma splice.
