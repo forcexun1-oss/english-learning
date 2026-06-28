@@ -4126,3 +4126,4 @@
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
 - 2026-06-29 01:38 — Use active voice: 'No completion record found' instead of 'No completion record was found' is more concise.
+- 2026-06-29 01:58 — Use active voice and direct statements instead of passive constructions like 'No completion record was found'.
