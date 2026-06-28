@@ -3886,3 +3886,4 @@
 - 2026-06-28 15:57 — Use 'pre-cache' with a hyphen for clarity. 'Inference-level optimizations' is a common term for optimizations at the inference stage.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 16:00 — Use 'it wastes money' (singular verb) to match the subject 'downloading' or 'using a proxy'.

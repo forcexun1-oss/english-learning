@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have you optimized pre-cache for multi-turn conversations, or does it have no inference-level optimizations at all?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+Create a plan: evaluate my local Mac's specifications to determine which model is most suitable, then have codex execute it. Important: do not use a proxy when downloading models — it wastes money.
