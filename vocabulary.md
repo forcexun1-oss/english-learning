@@ -4011,6 +4011,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
@@ -4110,3 +4111,6 @@
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
 - 2026-06-29 00:36 — Add a definite article ('the') before 'event' for natural English; also a dash clarifies the relationship between the event name and the log line.
+=======
+- 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
+>>>>>>> Stashed changes
