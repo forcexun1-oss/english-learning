@@ -4013,6 +4013,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
@@ -4121,3 +4122,6 @@
 >>>>>>> Stashed changes
 - 2026-06-29 00:40 — Use 'completed with exit code 0' or 'exited successfully' instead of wrapping the message in XML tags.
 - 2026-06-29 01:34 — "差" translates to "poor" for data or quality; "bad" is more informal but also acceptable.
+=======
+- 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
+>>>>>>> Stashed changes
