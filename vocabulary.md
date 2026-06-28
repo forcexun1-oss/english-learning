@@ -3919,3 +3919,4 @@
 - 2026-06-28 17:51 — Use 'hurry up' for urgent commands; 'proxy' is a countable noun in this context (use 'the proxy' or 'proxies').
 - 2026-06-28 17:54 — Use 'go ahead and do something' to urge someone to start or continue an action.
 - 2026-06-28 17:54 — '下了多少了' is colloquial Chinese for asking progress. In English, use present perfect: 'How much has been downloaded?' or 'What's the progress?'
+- 2026-06-28 17:58 — Use 'how much has been downloaded?' to ask about download progress. '走代理' translates to 'use a proxy'.
