@@ -3906,3 +3906,4 @@
 - 2026-06-28 16:13 — Use past tense ("finished") to describe completed tasks.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 17:45 — Use 'already' with present perfect or past tense to express '已经...过了'. For example, 'I have already downloaded it' or 'I already downloaded it.'
