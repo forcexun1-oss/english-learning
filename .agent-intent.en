@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check the metrics — have they all been loaded into memory, or only partially?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+So it can fully support larger models. How are the current TTFT and subsequent generation speed?

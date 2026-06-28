@@ -3931,3 +3931,4 @@
 - 2026-06-28 18:46 — In questions, '都' can mean 'all' (e.g., '都加载了' = 'all loaded'), and '还是' introduces an alternative (like 'or' in choices).
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 18:57 — "TTFT" is an acronym (Time to First Token); keep it uppercase and unchanged. Use "subsequent" instead of "后续的" to sound more natural.
