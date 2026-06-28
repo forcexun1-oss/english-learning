@@ -3947,3 +3947,4 @@
 - 2026-06-28 19:14 — Use active voice for instructions: 'Download the repo...' instead of '把...下载到'. Also, '写个方案' can be 'write a plan'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 19:25 — Use backticks for commands and paths. Avoid XML-like formatting in natural chat; use plain English.
