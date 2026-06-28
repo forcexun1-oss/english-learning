@@ -3927,3 +3927,4 @@
 - 2026-06-28 18:43 — ‘走代理’ is Chinese tech slang; in English we say ‘use a proxy’ or ‘go through a proxy’.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 18:46 — In questions, '都' can mean 'all' (e.g., '都加载了' = 'all loaded'), and '还是' introduces an alternative (like 'or' in choices).
