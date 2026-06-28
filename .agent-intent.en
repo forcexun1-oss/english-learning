@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Ollama is also open source, right? Can I modify Ollama to bypass this limitation?
-=======
-I reinstalled the codex CLI.
->>>>>>> Stashed changes
+But I have used it before. Did Ollama optimize the kv cache? It feels faster when running models. What has it added on top of llama.cpp?

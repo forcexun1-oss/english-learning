@@ -3878,3 +3878,4 @@
 - 2026-06-28 15:52 — Use '吧' (bā) instead of '把' (bǎ) when seeking confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 15:54 — In English, use "it" (not "he") for a software or tool like Ollama. Also, "在模型的运行上" is better expressed as "when running models" rather than a direct translation of position.
