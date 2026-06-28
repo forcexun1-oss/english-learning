@@ -3961,3 +3961,4 @@
 - 2026-06-28 20:05 — The XML-like task notification is a system format. In everyday developer communication, restate it as plain English with active voice and natural phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 20:08 — Use "completed successfully" instead of the verbose 'completed (exit code 0)' — exit code 0 implies success.
