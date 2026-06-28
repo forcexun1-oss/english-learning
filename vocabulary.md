@@ -2719,6 +2719,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-12 14:46 — Add a space after the image reference, capitalize the first word of a sentence, and end with a question mark for clarity.
 - 2026-06-12 15:03 — Use 'clean up' (phrasal verb) instead of 'clean away' or 'clear'. 'Related configuration' is more natural than 'the related config' in formal writing.
 =======
@@ -3924,3 +3925,5 @@
 - 2026-06-28 18:03 — The Chinese phrase '下了多少了' uses '了' to indicate a change of state or completion. In English, we use the present perfect passive 'has been downloaded' to ask about progress.
 - 2026-06-28 18:37 — In Chinese, '下了多少了' uses '了' to indicate a change and a question. In English, use present perfect: 'How much has been downloaded?'
 - 2026-06-28 18:43 — ‘走代理’ is Chinese tech slang; in English we say ‘use a proxy’ or ‘go through a proxy’.
+=======
+>>>>>>> Stashed changes
