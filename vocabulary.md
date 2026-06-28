@@ -3986,3 +3986,4 @@
 - 2026-06-28 21:38 — Use "with" instead of "about" when asking if there is a problem with something.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
