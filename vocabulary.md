@@ -4019,3 +4019,4 @@
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
+- 2026-06-28 22:18 — Use 'completed successfully' instead of a passive structure like 'was completed' for more direct communication.
