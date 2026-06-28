@@ -3939,3 +3939,4 @@
 - 2026-06-28 19:00 — Use "on the hard drive" for storage location. For "很大一部分", "a large part" is more precise than "most".
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 19:01 — "不够" means 'not enough' (negation of 够). In coding contexts, use 'the case where there's not enough' rather than 'the insufficient case' for natural phrasing.
