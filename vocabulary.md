@@ -3902,3 +3902,4 @@
 - 2026-06-28 16:04 — 要加 means 'need to add' or 'should add'. In instructions, use 'Add it' to be concise and clear.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 16:13 — Use past tense ("finished") to describe completed tasks.
