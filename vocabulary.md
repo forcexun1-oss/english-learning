@@ -3910,3 +3910,4 @@
 - 2026-06-28 17:45 — Use 'already' with present perfect or past tense to express '已经...过了'. For example, 'I have already downloaded it' or 'I already downloaded it.'
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 17:48 — The Chinese particle '啊' adds emphasis, similar to using 'just' in English imperatives.
