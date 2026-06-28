@@ -3916,3 +3916,4 @@
 >>>>>>> Stashed changes
 - 2026-06-28 17:49 — Use present perfect passive 'has been downloaded' to ask about progress (progress achieved so far).
 - 2026-06-28 17:50 — "How much has been downloaded" is clearer for asking download progress than "how much left".
+- 2026-06-28 17:51 — Use 'hurry up' for urgent commands; 'proxy' is a countable noun in this context (use 'the proxy' or 'proxies').
