@@ -3972,3 +3972,4 @@
 - 2026-06-28 20:24 — "有害吗" is a yes/no question; in English, we typically invert the subject and verb: "Is it harmful?" (not "It is harmful?").
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 20:33 — Add a subject like 'this' when asking 'Is this harmful?' instead of just '有害吗'.
