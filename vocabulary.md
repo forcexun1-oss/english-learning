@@ -4095,3 +4095,4 @@
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
+- 2026-06-29 00:27 — Remove XML tags and state the result directly like a status update.
