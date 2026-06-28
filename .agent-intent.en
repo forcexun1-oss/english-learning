@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Download the llama.cpp GitHub repository to the project directory, then write a plan based on that project for the optimization items, and have codex --profile chatgpt execute it.
+=======
+I reinstalled the codex CLI.
+>>>>>>> Stashed changes
