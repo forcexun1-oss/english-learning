@@ -3987,8 +3987,12 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
 - 2026-06-28 21:47 — Use 'issues' instead of 'trouble' for technical problems; also replace the comma with an em dash or semicolon to avoid a comma splice.
+=======
+- 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
+>>>>>>> Stashed changes
