@@ -3890,3 +3890,4 @@
 - 2026-06-28 16:00 — Use 'it wastes money' (singular verb) to match the subject 'downloading' or 'using a proxy'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 16:02 — In English, clarify questions by placing the verb (e.g., 'add') before the subject, and use 'run' for executing commands instead of 'execute'.
