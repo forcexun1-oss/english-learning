@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What's the download speed? Do the pending tasks in parallel without waiting.
-=======
-The profiler's 16-token run is still running after 41s and shows as HUNG — expected time is ~20s. Is that normal or is something wrong?
->>>>>>> Stashed changes
+What's the status?
