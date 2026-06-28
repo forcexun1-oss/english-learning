@@ -4114,3 +4114,4 @@
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
+- 2026-06-29 00:38 — Use 'Monitoring' (present participle) as a heading or 'Currently monitoring' for a complete sentence. 'Status is' sounds more natural than just listing the raw line.
