@@ -3870,3 +3870,4 @@
 - 2026-06-28 15:42 — Use 'where' to introduce a condition or circumstance about the model, e.g., 'where the model is larger than memory'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 15:47 — The Chinese particle '呢' is often used to ask 'What about...?' or 'And...?' in this context.
