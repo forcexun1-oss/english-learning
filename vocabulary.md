@@ -3898,3 +3898,4 @@
 - 2026-06-28 16:03 — "不是要加" means "don't add" (negation + 要 for intention). Use "don't add" or "no need to add" in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 16:04 — 要加 means 'need to add' or 'should add'. In instructions, use 'Add it' to be concise and clear.
