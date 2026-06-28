@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor timeout, or agent teardown) or still running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
+=======
+The command was executed in my previous session, but I see there is no result. Could you check if there is any output or confirm why the command stopped earlier?
+>>>>>>> Stashed changes
 =======
 The command was executed in my previous session, but I see there is no result. Could you check if there is any output or confirm why the command stopped earlier?
 >>>>>>> Stashed changes
