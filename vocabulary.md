@@ -3862,3 +3862,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 15:40 — Use 'MoE' (Mixture of Experts) instead of 'MOE' as it's a proper noun. Also, 'run on my Mac' is more natural than '跑在我这台mac上'.
