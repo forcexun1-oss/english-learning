@@ -3991,6 +3991,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
@@ -4015,3 +4016,6 @@
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
 - 2026-06-28 22:12 — Use 'Did something wrong occur?' or 'Did something go wrong?' instead of 'is there something wrong occurred'.
+=======
+- 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
+>>>>>>> Stashed changes
