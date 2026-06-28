@@ -3989,6 +3989,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-28 21:40 — Use "exited with code" instead of "script failed" to be more precise about exit status.
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
@@ -4005,3 +4006,6 @@
 - 2026-06-28 21:55 — Use 'finished' or 'completed' to describe command execution. 'Completed' is fine, but 'finished' sounds more active.
 - 2026-06-28 21:55 — Use active verbs like 'ends' instead of 'end' for singular subjects, and concise phrasing like 'both output files' instead of repeating numbers.
 - 2026-06-28 21:55 — Use natural English sentences instead of raw XML for readability.
+=======
+- 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
+>>>>>>> Stashed changes
