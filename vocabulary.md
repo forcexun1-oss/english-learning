@@ -3935,3 +3935,4 @@
 - 2026-06-28 18:57 — "TTFT" is an acronym (Time to First Token); keep it uppercase and unchanged. Use "subsequent" instead of "后续的" to sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 19:00 — Use "on the hard drive" for storage location. For "很大一部分", "a large part" is more precise than "most".
