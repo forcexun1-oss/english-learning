@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-CPU-RUN still hung after 51s — profiler is broken on CPU too, not just Metal
-=======
-The profiler's 16-token run is still running after 41s and shows as HUNG — expected time is ~20s. Is that normal or is something wrong?
->>>>>>> Stashed changes
+Monitor event: "corrected profiler run completes or hangs". Details: Still running after 61s — even with -no-cnv it hangs, so the profiler itself is the bug.
