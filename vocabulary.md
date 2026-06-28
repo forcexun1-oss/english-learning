@@ -3957,3 +3957,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-28 20:05 — The XML-like task notification is a system format. In everyday developer communication, restate it as plain English with active voice and natural phrasing.
