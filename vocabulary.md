@@ -4072,3 +4072,4 @@
 =======
 - 2026-06-28 21:40 — When sharing system logs, rephrase them as a clear observation or question so the reader knows what action or answer you need.
 >>>>>>> Stashed changes
+- 2026-06-29 00:06 — '干完为止' is an informal way to say 'until it's done'. Use 'until [task] is complete/finished' for clarity.
