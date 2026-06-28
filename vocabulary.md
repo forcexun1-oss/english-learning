@@ -4004,3 +4004,4 @@
 - 2026-06-28 21:51 — Use 'itself' for emphasis when you mean the subject is the cause of the problem.
 - 2026-06-28 21:55 — Use 'finished' or 'completed' to describe command execution. 'Completed' is fine, but 'finished' sounds more active.
 - 2026-06-28 21:55 — Use active verbs like 'ends' instead of 'end' for singular subjects, and concise phrasing like 'both output files' instead of repeating numbers.
+- 2026-06-28 21:55 — Use natural English sentences instead of raw XML for readability.

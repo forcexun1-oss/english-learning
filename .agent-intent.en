@@ -1,8 +1,1 @@
-Monitor stability test result:
-- Duration: ~10s
-- A ends at 21:55:06, B ends at 21:55:13
-- Both output files have 6151 lines: /tmp/hot_A.txt, /tmp/hot_B.txt
-- Layers compared: 48
-- Mean per-layer top-8 overlap: 86.7%
-- Min/max layer overlap: 62% / 100%
-- Global hottest-50 overlap: 47/50
+The stability test result monitor stream has ended — task completed.
