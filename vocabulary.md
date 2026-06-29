@@ -4294,3 +4294,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:31 — Use 'compared to' for comparisons; '比' translates to 'compared to' or 'than'.
