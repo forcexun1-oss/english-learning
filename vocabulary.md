@@ -4363,3 +4363,4 @@
 - 2026-06-30 01:07 — Use a complete sentence instead of a structured XML block for natural communication.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 01:37 — Developer comms often skip XML tags. Use the summary line directly.
