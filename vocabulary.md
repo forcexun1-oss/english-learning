@@ -4168,3 +4168,4 @@
 - 2026-06-29 10:42 — "试试" is a reduplication of the verb "试" to soften the request. In English, just use "Try" + noun/phrase for the same effect.
 - 2026-06-29 10:46 — Use plain English instead of raw XML for better readability.
 - 2026-06-29 10:47 — Use 'New ... result:' to introduce a data point naturally instead of pasting a raw notification.
+- 2026-06-29 10:47 — In developer communication, you can present results directly as a label instead of writing a full sentence.
