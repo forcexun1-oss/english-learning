@@ -4153,3 +4153,4 @@
 - 2026-06-29 09:49 — Capitalize 'Yes' and add a comma after it as an interjection.
 - 2026-06-29 09:54 — When sharing log events, you can drop the XML tags and just state the key info.
 - 2026-06-29 09:54 — Use a colon to introduce the event details, and separate metrics with a comma for readability.
+- 2026-06-29 09:54 — Use single quotes or backticks for event names instead of double quotes in running text — it's more idiomatic in developer writing.
