@@ -4161,3 +4161,4 @@
 - 2026-06-29 09:57 — Use plain sentences instead of XML tags when reporting command results in developer chat.
 - 2026-06-29 10:01 — Use "put to sleep" instead of "make sleep" for computers. "让" here implies causing an action, so "put to sleep" is more natural.
 - 2026-06-29 10:02 — "了" at the end of a command in Chinese adds a sense of "anymore". In English, we can just say "stop auto-sleep" or "don't auto-sleep anymore."
+- 2026-06-29 10:06 — '41x3s' = 41 attempts spaced 3 seconds apart.
