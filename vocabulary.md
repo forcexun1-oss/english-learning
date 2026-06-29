@@ -4146,3 +4146,4 @@
 - 2026-06-29 09:23 — Use 'reported' to describe system events; it's more natural than 'said' or 'showed' in technical contexts.
 - 2026-06-29 09:24 — Use complete sentences for clarity instead of raw log format.
 - 2026-06-29 09:39 — Use 'Stop bringing up' instead of '不要再提' (literally 'don't mention again') for a more natural, slightly impatient command tone.
+- 2026-06-29 09:40 — Use 'Stop mentioning' instead of 'don't mention anymore' for a more natural imperative tone.
