@@ -4171,3 +4171,4 @@
 - 2026-06-29 10:47 — In developer communication, you can present results directly as a label instead of writing a full sentence.
 - 2026-06-29 10:47 — Use a colon to introduce results instead of pasting raw data.
 - 2026-06-29 10:47 — Remove the XML tags and format the event data as a clean key=value pair in plain English.
+- 2026-06-29 10:47 — Use a colon or dash to introduce the result instead of leaving raw key-value pairs.
