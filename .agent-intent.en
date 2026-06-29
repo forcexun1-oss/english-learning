@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitoring event: 'copy-in codex tripwire: compressor/reboot/progress' — event: ⚠️ compressor=5GB at 13:20:52.
-=======
-Async prefetch result: t=8x5s, compressor=3GB.
->>>>>>> Stashed changes
+Background command "Dispatch codex to implement CPU copy-in cache" completed (exit code 0).

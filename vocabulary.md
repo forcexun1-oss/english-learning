@@ -4217,3 +4217,4 @@
 - 2026-06-29 13:21 — Add 'at' before a specific time for natural phrasing (e.g., 'at 13:20:52').
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:22 — Use plain English to describe events; XML tags are not needed in human communication.
