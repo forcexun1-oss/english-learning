@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 All have been submitted. What is this "sensevoice full-chain roundtrip" thing?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
