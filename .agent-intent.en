@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why can't we just fully follow the plan ds4 mentioned earlier and implement it?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Implement it completely, no unnecessary comments.

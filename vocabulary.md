@@ -4327,3 +4327,4 @@
 - 2026-06-29 22:59 — Use 'follow' instead of 'refer to' for plans or approaches; it's more natural in coding contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 23:02 — Use 'implement' for coding tasks; '废话' translates as 'unnecessary comments' or 'fluff' in this context.
