@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ⚠️ compressor=5GB at 13:12:41 — monitor event from copy-in codex tripwire (compressor/reboot/progress)
+=======
+Async prefetch result: t=8x5s, compressor=3GB.
+>>>>>>> Stashed changes

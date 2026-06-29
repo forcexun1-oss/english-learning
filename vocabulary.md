@@ -4179,6 +4179,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 10:47 — Use a colon or dash to introduce the result instead of leaving raw key-value pairs.
 - 2026-06-29 10:48 — '试试' means 'try' in Chinese — use English for CLI commands.
 =======
@@ -4206,3 +4207,5 @@
 - 2026-06-29 13:11 — Use 'after using both' instead of 'after doing these two' — 'using' sounds more natural for functions.
 - 2026-06-29 13:12 — Use 'at' to connect a timestamp to a value, e.g., 'measured at 13:12:31'.
 - 2026-06-29 13:13 — In logs, '=' is common; in conversation, use 'is at' or 'reaches' instead.
+=======
+>>>>>>> Stashed changes
