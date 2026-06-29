@@ -4323,3 +4323,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 22:55 — Use 'modify it to run on GPU' instead of '改为跑在GPU上' for a more natural technical instruction.
+- 2026-06-29 22:59 — Use 'follow' instead of 'refer to' for plans or approaches; it's more natural in coding contexts.
