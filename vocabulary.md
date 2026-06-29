@@ -4191,3 +4191,4 @@
 - 2026-06-29 11:47 — Use 'is there a cost to + verb-ing' to ask if something has a downside or overhead.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 11:51 — When asking if something (like code) holds an opinion, use 'does it also consider' or 'does it also think' rather than directly translating '他也认为' as 'he also thinks'.

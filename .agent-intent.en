@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So is there a cost to using madvise?
-=======
-Async prefetch result: t=8x5s, compressor=3GB.
->>>>>>> Stashed changes
+In ds4 Step A, it mentions 'deeper surgery' — this is from the ds4 source code. Does it also consider this a better approach?
