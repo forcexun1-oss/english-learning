@@ -4166,3 +4166,4 @@
 - 2026-06-29 10:14 — Use a colon to separate the event label from the data — common in log-style updates.
 - 2026-06-29 10:14 — You can omit the XML tags and just state the event details naturally.
 - 2026-06-29 10:42 — "试试" is a reduplication of the verb "试" to soften the request. In English, just use "Try" + noun/phrase for the same effect.
+- 2026-06-29 10:46 — Use plain English instead of raw XML for better readability.
