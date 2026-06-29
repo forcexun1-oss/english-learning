@@ -4152,3 +4152,4 @@
 - 2026-06-29 09:48 — Separate event description and data with a colon or em dash for readability.
 - 2026-06-29 09:49 — Capitalize 'Yes' and add a comma after it as an interjection.
 - 2026-06-29 09:54 — When sharing log events, you can drop the XML tags and just state the key info.
+- 2026-06-29 09:54 — Use a colon to introduce the event details, and separate metrics with a comma for readability.

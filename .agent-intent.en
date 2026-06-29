@@ -1,1 +1,1 @@
-Monitor event from madvise-only cache test: t=2x5s compressor=2GB.
+Monitor event for madvise-only cache test: t=3x5s, compressor=2GB
