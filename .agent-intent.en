@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command "Get copy-in flag and run madvise correctness baseline" completed (exit code 0)
+=======
+Async prefetch result: t=8x5s, compressor=3GB.
+>>>>>>> Stashed changes
