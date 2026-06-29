@@ -4302,3 +4302,4 @@
 - 2026-06-29 22:35 — Use 'compute' instead of 'calculate' for CPU operations; 'compute' is more natural for digital processing.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:38 — "整个没有GPU在参与" can be clarified as "no GPU is involved at all" — use "involved" instead of "participating" for technical contexts.
