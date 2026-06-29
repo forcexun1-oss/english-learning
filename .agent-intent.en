@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Sure, we'll work on both directions.
-=======
-Async prefetch result: t=8x5s, compressor=3GB.
->>>>>>> Stashed changes
+So, after using both mlock and madvise, is there still a difference between them?

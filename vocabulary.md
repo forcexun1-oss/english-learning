@@ -4203,3 +4203,4 @@
 - 2026-06-29 13:02 — "要的" is a casual way to say "sure" or "okay" in Chinese. Use "Sure" or "Yes" in English.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:11 — Use 'after using both' instead of 'after doing these two' — 'using' sounds more natural for functions.
