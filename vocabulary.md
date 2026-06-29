@@ -4156,3 +4156,4 @@
 - 2026-06-29 09:54 — Use single quotes or backticks for event names instead of double quotes in running text — it's more idiomatic in developer writing.
 - 2026-06-29 09:54 — Use colons and commas instead of line breaks to present structured data in a single sentence — more natural for verbal updates.
 - 2026-06-29 09:55 — Say "stream ended" instead of the XML format — developers use plain sentences to report events.
+- 2026-06-29 09:56 — Add 'the' before specific events; 'event' is implied and can be dropped.
