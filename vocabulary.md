@@ -4209,3 +4209,4 @@
 - 2026-06-29 13:13 — In logs, '=' is common; in conversation, use 'is at' or 'reaches' instead.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:17 — Use colons to separate event name from details, and 'at' for timestamps.
