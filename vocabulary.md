@@ -4310,3 +4310,4 @@
 - 2026-06-29 22:41 — Use 'running on the CPU' or 'computed by the CPU' instead of direct translation of 'CPU在算'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:43 — Use 'What is' instead of 'How much is' when asking about metrics or values like TTFT.

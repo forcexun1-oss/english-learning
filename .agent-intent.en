@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Do you mean the entire inference process is running on the CPU?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+What is the TTFT?
