@@ -1,1 +1,1 @@
-Monitor event 'sustained numa test monitor': t=6x5s compressor=2GB
+Monitor event from sustained numa test monitor: t=11x5s, compressor=2GB.
