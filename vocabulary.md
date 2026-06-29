@@ -4359,3 +4359,4 @@
 - 2026-06-30 00:50 — Instead of pasting raw XML output, write a plain English summary like: 'Monitor codex-p3 finished with exit code 0.'
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 01:07 — Use a complete sentence instead of a structured XML block for natural communication.
