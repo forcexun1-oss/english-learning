@@ -4137,3 +4137,4 @@
 - 2026-06-29 09:18 — Use 'exit code 0' to mean successful completion; 'exit code non-zero' indicates failure.
 - 2026-06-29 09:18 — Use simple past tense ('ended', 'completed') for finished tasks instead of passive or descriptive phrasing.
 - 2026-06-29 09:19 — Use a plain sentence instead of XML-like tags for readability.
+- 2026-06-29 09:20 — Use a colon to introduce the event details, and separate fields with commas for readability.
