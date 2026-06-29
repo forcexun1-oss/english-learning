@@ -4176,6 +4176,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 10:47 — Use a colon or dash to introduce the result instead of leaving raw key-value pairs.
 - 2026-06-29 10:48 — '试试' means 'try' in Chinese — use English for CLI commands.
 =======
@@ -4192,3 +4193,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 11:51 — When asking if something (like code) holds an opinion, use 'does it also consider' or 'does it also think' rather than directly translating '他也认为' as 'he also thinks'.
+=======
+>>>>>>> Stashed changes
