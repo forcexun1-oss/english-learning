@@ -4199,3 +4199,4 @@
 - 2026-06-29 11:55 — Use 'copy in' or 'copy into' instead of 'copy into inside' - '进去' often maps to 'in' or 'into' in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:02 — "要的" is a casual way to say "sure" or "okay" in Chinese. Use "Sure" or "Yes" in English.
