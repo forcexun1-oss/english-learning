@@ -1,17 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-So you didn't achieve your goal, did you? You forgot about full memory usage? That wasn't your goal.
-=======
-The command was executed in my previous session, but I see there is no result. Could you check if there is any output or confirm why the command stopped earlier?
->>>>>>> Stashed changes
-=======
-No completion record was found for this background shell command from the previous session. It may have been stopped (via UI, Monitor timeout, or agent teardown — these leave no transcript marker) or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
->>>>>>> Stashed changes
-=======
-No completion record was found for this background shell command from the previous session. It may have been stopped (via UI, Monitor timeout, or agent teardown — these leave no transcript marker) or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
->>>>>>> Stashed changes
-=======
-No completion record was found for this background shell command from the previous session. It may have been stopped (via UI, Monitor timeout, or agent teardown — these leave no transcript marker) or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
->>>>>>> Stashed changes
+What is cached in virtual memory? Is everything cached there?
