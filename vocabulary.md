@@ -4205,3 +4205,4 @@
 >>>>>>> Stashed changes
 - 2026-06-29 13:11 — Use 'after using both' instead of 'after doing these two' — 'using' sounds more natural for functions.
 - 2026-06-29 13:12 — Use 'at' to connect a timestamp to a value, e.g., 'measured at 13:12:31'.
+- 2026-06-29 13:13 — In logs, '=' is common; in conversation, use 'is at' or 'reaches' instead.
