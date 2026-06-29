@@ -4149,3 +4149,4 @@
 - 2026-06-29 09:40 — Use 'Stop mentioning' instead of 'don't mention anymore' for a more natural imperative tone.
 - 2026-06-29 09:43 — Use present continuous 'is crashing' to describe an ongoing problem in the current state.
 - 2026-06-29 09:46 — No space before a comma.
+- 2026-06-29 09:48 — Separate event description and data with a colon or em dash for readability.
