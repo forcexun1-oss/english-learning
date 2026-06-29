@@ -4237,6 +4237,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4274,3 +4275,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 18:03 — Use 'power off' as a verb phrase, e.g., 'power off the board'. Here the passive voice 'be powered off' is natural because the board is the object receiving the action.
+=======
+>>>>>>> Stashed changes
