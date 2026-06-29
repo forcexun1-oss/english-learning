@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitor event 'copy-in codex tripwire: compressor/reboot/progress'. Event details: compressor=5GB at 13:17:52.
-=======
-Async prefetch result: t=8x5s, compressor=3GB.
->>>>>>> Stashed changes
+Monitoring event: 'copy-in codex tripwire: compressor/reboot/progress' — event: ⚠️ compressor=5GB at 13:20:52.

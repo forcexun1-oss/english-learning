@@ -4213,3 +4213,4 @@
 - 2026-06-29 13:17 — Use colons to separate event name from details, and 'at' for timestamps.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:21 — Add 'at' before a specific time for natural phrasing (e.g., 'at 13:20:52').
