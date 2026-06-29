@@ -4136,3 +4136,4 @@
 - 2026-06-29 09:17 — In developer notifications, use a colon or dash to separate the event name from its data, and list key-value pairs with commas.
 - 2026-06-29 09:18 — Use 'exit code 0' to mean successful completion; 'exit code non-zero' indicates failure.
 - 2026-06-29 09:18 — Use simple past tense ('ended', 'completed') for finished tasks instead of passive or descriptive phrasing.
+- 2026-06-29 09:19 — Use a plain sentence instead of XML-like tags for readability.

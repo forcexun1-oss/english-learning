@@ -1,1 +1,1 @@
-Monitor "numa test survival monitor" (task bw8emdit6) has completed successfully — the stream ended. Output: /private/tmp/claude-501/-Users-youxun-project-ds4/5b8c7c36-52aa-4ae9-a21a-b2e1e56b87e1/tasks/bw8emdit6.output
+Monitor event from 'sustained numa test monitor': t=4x5s, compressor=2GB.
