@@ -4159,3 +4159,4 @@
 - 2026-06-29 09:56 — Add 'the' before specific events; 'event' is implied and can be dropped.
 - 2026-06-29 09:57 — Use colons and commas to separate fields instead of XML tags.
 - 2026-06-29 09:57 — Use plain sentences instead of XML tags when reporting command results in developer chat.
+- 2026-06-29 10:01 — Use "put to sleep" instead of "make sleep" for computers. "让" here implies causing an action, so "put to sleep" is more natural.
