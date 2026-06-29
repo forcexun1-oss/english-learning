@@ -4141,3 +4141,4 @@
 - 2026-06-29 09:20 — Omitted XML wrapper for readability
 - 2026-06-29 09:21 — Use a colon to introduce details after a label (e.g., 'Monitor event: ...').
 - 2026-06-29 09:22 — Use a colon to separate the monitor name from the event data for clarity.
+- 2026-06-29 09:23 — Use a colon to introduce event details rather than pasting raw XML.
