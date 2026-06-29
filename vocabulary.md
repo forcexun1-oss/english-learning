@@ -4187,3 +4187,4 @@
 - 2026-06-29 11:24 — Use 'compared to' instead of '和...的差异' for natural phrasing. 'Compared to' directly translates the idea of comparing two items.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 11:47 — Use 'is there a cost to + verb-ing' to ask if something has a downside or overhead.
