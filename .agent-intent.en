@@ -1,1 +1,1 @@
-Monitor 'fix validation result + compressor watch' stream ended.
+Monitor event from madvise-only cache test: t=2x5s compressor=2GB.
