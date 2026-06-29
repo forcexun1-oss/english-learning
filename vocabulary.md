@@ -4144,3 +4144,4 @@
 - 2026-06-29 09:23 — Use a colon to introduce event details rather than pasting raw XML.
 - 2026-06-29 09:23 — Use natural sentences instead of raw XML tags when describing events to Claude Code.
 - 2026-06-29 09:23 — Use 'reported' to describe system events; it's more natural than 'said' or 'showed' in technical contexts.
+- 2026-06-29 09:24 — Use complete sentences for clarity instead of raw log format.
