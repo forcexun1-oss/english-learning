@@ -4228,3 +4228,4 @@
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 14:04 — "停掉" here is conversational filler like "Well" or "So" — it doesn't mean 'stop' literally in this context.

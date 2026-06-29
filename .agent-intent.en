@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Continue. What's the current status?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Well, that means our model selection was too aggressive. The memory-to-cache ratio has issues. Let's find a reasonable model, and we should continue optimizing in this direction.
