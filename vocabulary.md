@@ -4173,6 +4173,7 @@
 - 2026-06-29 10:47 — Remove the XML tags and format the event data as a clean key=value pair in plain English.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 10:47 — Use a colon or dash to introduce the result instead of leaving raw key-value pairs.
 - 2026-06-29 10:48 — '试试' means 'try' in Chinese — use English for CLI commands.
 =======
@@ -4180,3 +4181,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 11:16 — Use 'what optimizations there are' for '有哪些优化'; avoid omitting 'there are'.
+=======
+>>>>>>> Stashed changes
