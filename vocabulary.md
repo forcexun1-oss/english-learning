@@ -4306,3 +4306,4 @@
 - 2026-06-29 22:38 — "整个没有GPU在参与" can be clarified as "no GPU is involved at all" — use "involved" instead of "participating" for technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:41 — Use 'running on the CPU' or 'computed by the CPU' instead of direct translation of 'CPU在算'.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I don't understand — is it that no GPU is involved at all, or just a certain step/process isn't?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Do you mean the entire inference process is running on the CPU?
