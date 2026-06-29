@@ -4226,6 +4226,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4233,6 +4234,8 @@
 - 2026-06-29 14:04 — "停掉" here is conversational filler like "Well" or "So" — it doesn't mean 'stop' literally in this context.
 - 2026-06-29 14:16 — In English, we say 'use a proxy' or 'go through a proxy', not 'walk proxy'.
 - 2026-06-29 14:25 — Use '又...了' to indicate an action happening again, often with a tone of frustration or complaint.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
