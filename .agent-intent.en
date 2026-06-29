@@ -1,1 +1,1 @@
-Monitor event "30GB madvise budget result": t=8x5s, compressor=2GB
+Background command "Record win + test 30GB madvise budget for more speed" completed with exit code 0.

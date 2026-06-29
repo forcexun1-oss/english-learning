@@ -4158,3 +4158,4 @@
 - 2026-06-29 09:55 — Say "stream ended" instead of the XML format — developers use plain sentences to report events.
 - 2026-06-29 09:56 — Add 'the' before specific events; 'event' is implied and can be dropped.
 - 2026-06-29 09:57 — Use colons and commas to separate fields instead of XML tags.
+- 2026-06-29 09:57 — Use plain sentences instead of XML tags when reporting command results in developer chat.
