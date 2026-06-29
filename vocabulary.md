@@ -4131,3 +4131,4 @@
 - 2026-06-29 09:04 — Use 'these actions leave' or 'they leave' instead of 'these leave' to make the subject clearer.
 - 2026-06-29 09:13 — Use 'cached in' for something stored inside a cache, and 'cached there' or 'in there' to refer to the location. Avoid directly translating '在' as 'at'.
 - 2026-06-29 09:17 — Use a colon or equals sign consistently to separate metric names and values. For readability, consider adding a label like 'count=' before the bare number.
+- 2026-06-29 09:17 — Use complete sentences to describe events instead of raw log format.
