@@ -4181,6 +4181,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 10:47 — Use a colon or dash to introduce the result instead of leaving raw key-value pairs.
 - 2026-06-29 10:48 — '试试' means 'try' in Chinese — use English for CLI commands.
 =======
@@ -4214,3 +4215,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 13:21 — Add 'at' before a specific time for natural phrasing (e.g., 'at 13:20:52').
+=======
+>>>>>>> Stashed changes
