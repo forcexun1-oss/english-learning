@@ -4179,3 +4179,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 11:16 — Use 'what optimizations there are' for '有哪些优化'; avoid omitting 'there are'.
