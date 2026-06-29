@@ -4314,3 +4314,4 @@
 - 2026-06-29 22:43 — Use 'What is' instead of 'How much is' when asking about metrics or values like TTFT.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:46 — Use 'approach' instead of 'road' (这条路) to mean a method or strategy. Also, 'why ds4 works' is more natural than 'why ds4 can'.

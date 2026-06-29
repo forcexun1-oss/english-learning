@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the TTFT?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Why doesn't the GPU approach work? Check the ds4 code to see why ds4 works.
