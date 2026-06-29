@@ -4222,3 +4222,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-29 13:25 — Use declarative sentences instead of raw XML tags for clearer communication.
+- 2026-06-29 13:29 — Use 'Don't' with an apostrophe for contractions (do not → don't).

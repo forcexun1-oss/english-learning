@@ -1,1 +1,1 @@
-Background command 'Clean correctness comparison madvise vs copy-in' failed with exit code 1. Task ID: b7vgeip2i, tool-use ID: toolu_01QSKGP1HmCxoq3Mm9qHcgLB, output file: /private/tmp/claude-501/-Users-youxun-project-ds4/5b8c7c36-52aa-4ae9-a21a-b2e1e56b87e1/tasks/b7vgeip2i.output
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
