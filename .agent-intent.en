@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Try async prefetch.
+=======
+Async prefetch result: t=8x5s, compressor=3GB.
+>>>>>>> Stashed changes
 =======
 Async prefetch result: t=8x5s, compressor=3GB.
 >>>>>>> Stashed changes
