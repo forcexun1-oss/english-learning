@@ -4223,5 +4223,8 @@
 >>>>>>> Stashed changes
 - 2026-06-29 13:25 — Use declarative sentences instead of raw XML tags for clearer communication.
 - 2026-06-29 13:29 — Use 'Don't' with an apostrophe for contractions (do not → don't).
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
+=======
+>>>>>>> Stashed changes
