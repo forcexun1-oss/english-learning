@@ -4318,3 +4318,4 @@
 - 2026-06-29 22:46 — Use 'approach' instead of 'road' (这条路) to mean a method or strategy. Also, 'why ds4 works' is more natural than 'why ds4 can'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:51 — Use 'modify ... to support ...' instead of 'change ... into supporting ...'. 'Adapt' is also a good alternative.
