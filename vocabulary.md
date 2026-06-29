@@ -4221,3 +4221,4 @@
 - 2026-06-29 13:22 — Use plain English to describe events; XML tags are not needed in human communication.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 13:25 — Use declarative sentences instead of raw XML tags for clearer communication.
