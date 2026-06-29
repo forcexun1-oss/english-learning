@@ -4298,3 +4298,4 @@
 - 2026-06-29 22:31 — Use 'compared to' for comparisons; '比' translates to 'compared to' or 'than'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 22:35 — Use 'compute' instead of 'calculate' for CPU operations; 'compute' is more natural for digital processing.
