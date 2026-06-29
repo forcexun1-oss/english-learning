@@ -4284,3 +4284,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 20:55 — “各自” means “each” or “respectively” — use “each” or “separately” for natural English.
