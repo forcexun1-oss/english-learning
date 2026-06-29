@@ -4164,3 +4164,4 @@
 - 2026-06-29 10:06 — '41x3s' = 41 attempts spaced 3 seconds apart.
 - 2026-06-29 10:13 — Use plain English to describe events instead of XML-style markup.
 - 2026-06-29 10:14 — Use a colon to separate the event label from the data — common in log-style updates.
+- 2026-06-29 10:14 — You can omit the XML tags and just state the event details naturally.
