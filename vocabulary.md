@@ -4148,3 +4148,4 @@
 - 2026-06-29 09:39 — Use 'Stop bringing up' instead of '不要再提' (literally 'don't mention again') for a more natural, slightly impatient command tone.
 - 2026-06-29 09:40 — Use 'Stop mentioning' instead of 'don't mention anymore' for a more natural imperative tone.
 - 2026-06-29 09:43 — Use present continuous 'is crashing' to describe an ongoing problem in the current state.
+- 2026-06-29 09:46 — No space before a comma.
