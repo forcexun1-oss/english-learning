@@ -4351,3 +4351,4 @@
 - 2026-06-30 00:13 — Use plain English instead of raw XML to describe system events.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 00:36 — Use a complete sentence instead of raw XML for clearer communication.
