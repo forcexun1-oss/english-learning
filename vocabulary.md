@@ -4273,3 +4273,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-29 18:03 — Use 'power off' as a verb phrase, e.g., 'power off the board'. Here the passive voice 'be powered off' is natural because the board is the object receiving the action.
