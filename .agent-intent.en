@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 So is there a cost to using madvise?
+=======
+Async prefetch result: t=8x5s, compressor=3GB.
+>>>>>>> Stashed changes
