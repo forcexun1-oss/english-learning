@@ -4381,3 +4381,4 @@
 - 2026-06-30 09:18 — A single letter is ambiguous. Use 'B.' for a list item, or expand the abbreviation for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 09:34 — Use 'does not return' (or 'doesn't return') instead of 'not returns'.
