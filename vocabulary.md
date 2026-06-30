@@ -4389,3 +4389,4 @@
 - 2026-06-30 09:37 — Use simple past 'completed' instead of 'has completed' for concise, direct reporting in status updates.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 10:03 — Use 'caused by' instead of '受...导致' (e.g., 'caused by hardware characteristics'). Also, '输出一个文档' is more natural as 'generate/write a document'.

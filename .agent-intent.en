@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command 'Monitor codex-opt until it actually exits, then read sweep results' completed with exit code 0.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+I still don't quite understand. Please generate a document that explains both approaches in detail, with a full flowchart for each. Also cover some basic concepts. It seems that many things are actually caused by hardware characteristics.
