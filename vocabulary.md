@@ -4457,3 +4457,4 @@
 - 2026-06-30 23:03 — Use 'newer than' for comparisons: 'A 比 B 新' becomes 'A is newer than B'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:05 — In yes/no questions, move the auxiliary verb 'does' before the subject (MLX).
