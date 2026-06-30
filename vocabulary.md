@@ -4473,3 +4473,4 @@
 - 2026-06-30 23:16 — Use 'redo' instead of 'do again' for a more natural, concise command.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:19 — '仓库' in a tech context is 'repository', not 'warehouse'.
