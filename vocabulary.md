@@ -4490,3 +4490,4 @@
 - 2026-06-30 23:49 — Use 'put the computer to sleep' for '让电脑休眠'. 'Credits' is the correct term for API usage limits.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 00:53 — Use 'as for' to reference a previous topic, and 'switch' is more precise than 'cut' in this context.
