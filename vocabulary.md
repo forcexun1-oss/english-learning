@@ -4453,3 +4453,4 @@
 - 2026-06-30 23:00 — "底层" can be translated as "under the hood" or "at the low level" — "under the hood" is more natural for software contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:03 — Use 'newer than' for comparisons: 'A 比 B 新' becomes 'A is newer than B'.
