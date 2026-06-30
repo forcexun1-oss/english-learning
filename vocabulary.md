@@ -4433,3 +4433,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 22:14 — Use "completed with exit code" instead of "completed (exit code)" for a more natural reading flow.
