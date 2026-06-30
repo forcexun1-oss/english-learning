@@ -4423,3 +4423,4 @@
 - 2026-06-30 18:58 — Use 'take another look at' for 再看看 instead of 'look again at' — it's more natural for reviewing code.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 20:46 — '看看' is colloquial Chinese meaning 'take a look' or 'figure out'. In English instructions, 'figure out' or 'check' is more natural than a literal 'look see'.
