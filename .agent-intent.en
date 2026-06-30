@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Take another look at the ds4 code. Why is ds4 so fast?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
