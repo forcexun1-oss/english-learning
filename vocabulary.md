@@ -4498,3 +4498,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 01:24 — Use past tense 'wrote' for completed actions; 'long-time task' should be 'long-running task'.
