@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 If we want to modify it, what should we change to achieve the same benefit as he did?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
