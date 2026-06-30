@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does MLX support 3.6?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Does Qwen3.6 have an 80B version? Find a suitable one to perform the memory transformation we did earlier.

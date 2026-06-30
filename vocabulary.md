@@ -4461,3 +4461,4 @@
 - 2026-06-30 23:05 — In yes/no questions, move the auxiliary verb 'does' before the subject (MLX).
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:08 — Use 'Does [model] have [version]?' for existence questions instead of directly translating '有' as 'has'.
