@@ -4268,6 +4268,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4390,3 +4391,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-30 10:03 — Use 'caused by' instead of '受...导致' (e.g., 'caused by hardware characteristics'). Also, '输出一个文档' is more natural as 'generate/write a document'.
+=======
+>>>>>>> Stashed changes
