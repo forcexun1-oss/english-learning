@@ -4292,6 +4292,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4483,3 +4484,5 @@
 >>>>>>> Stashed changes
 - 2026-06-30 23:36 — '把' in your sentence is a colloquial filler; in English, just use 'the' before the package.
 - 2026-06-30 23:37 — Use 'the 70G one' instead of '70G的' — 'one' replaces the noun. Also, '把' at the end is colloquial in Chinese but not needed in English; use 'just ... directly' instead.
+=======
+>>>>>>> Stashed changes
