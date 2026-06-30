@@ -4437,3 +4437,4 @@
 - 2026-06-30 22:14 — Use "completed with exit code" instead of "completed (exit code)" for a more natural reading flow.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 22:39 — In Chinese, '有什么不一样' literally means 'what has not the same', but in English, 'what makes it different?' is more natural. Use 'what makes + noun + adjective' to ask about distinguishing features.
