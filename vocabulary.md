@@ -4481,3 +4481,4 @@
 - 2026-06-30 23:21 — In Chinese, '下好的模型' means 'downloaded model'. Use 'downloaded model' or 'pre-trained model'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:36 — '把' in your sentence is a colloquial filler; in English, just use 'the' before the package.
