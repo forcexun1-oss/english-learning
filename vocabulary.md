@@ -4288,6 +4288,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4466,3 +4467,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-30 23:13 — In English, when asking for an opinion on something, use 'What about this one?' instead of 'This how?' — '怎么样' translates to 'how is it?' but 'What about...' is more natural here.
+=======
+>>>>>>> Stashed changes
