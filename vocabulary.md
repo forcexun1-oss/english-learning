@@ -4445,3 +4445,4 @@
 - 2026-06-30 22:49 — "收益" here means 'benefit' or 'gains' in a technical context.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 22:53 — Use 'Are there any...' for yes/no questions about existence. 'Has someone already done this?' is more natural than 'has someone already done this thing?'.
