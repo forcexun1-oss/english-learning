@@ -4284,6 +4284,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4450,3 +4451,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-30 23:00 — "底层" can be translated as "under the hood" or "at the low level" — "under the hood" is more natural for software contexts.
+=======
+>>>>>>> Stashed changes
