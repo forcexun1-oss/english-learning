@@ -4291,6 +4291,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4478,3 +4479,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-30 23:21 — In Chinese, '下好的模型' means 'downloaded model'. Use 'downloaded model' or 'pre-trained model'.
+=======
+>>>>>>> Stashed changes
