@@ -4367,3 +4367,4 @@
 - 2026-06-30 01:37 — Developer comms often skip XML tags. Use the summary line directly.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 08:58 — Use 'it' as the subject instead of omitting it. 'Why is it 0?' is clearer than 'Why is 0?'.
