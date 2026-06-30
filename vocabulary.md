@@ -4486,3 +4486,4 @@
 - 2026-06-30 23:37 — Use 'the 70G one' instead of '70G的' — 'one' replaces the noun. Also, '把' at the end is colloquial in Chinese but not needed in English; use 'just ... directly' instead.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:49 — Use 'put the computer to sleep' for '让电脑休眠'. 'Credits' is the correct term for API usage limits.
