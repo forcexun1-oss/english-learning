@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What are their TTFT values? Did they actually activate the cache? For all of them?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Check whether the output is correct or just nonsense. Also, find a longer prompt to test TTFT – something that truly works.
