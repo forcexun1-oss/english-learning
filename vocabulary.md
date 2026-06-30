@@ -4393,3 +4393,4 @@
 - 2026-06-30 10:03 — Use 'caused by' instead of '受...导致' (e.g., 'caused by hardware characteristics'). Also, '输出一个文档' is more natural as 'generate/write a document'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 14:26 — Use 'actually' instead of 'really' for a more natural inquiry about factual activation.
