@@ -4401,3 +4401,4 @@
 - 2026-06-30 14:32 — '胡乱' here means 'nonsense/random' – in tech contexts, 'producing nonsense' or 'garbage output' is natural.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 16:45 — "首token" translates to "first token" in English. Use "first token" directly.
