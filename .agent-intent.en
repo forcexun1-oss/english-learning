@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Monitor codex-hybrid2" completed with exit code 0.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Take another look at the ds4 code. Why is ds4 so fast?
