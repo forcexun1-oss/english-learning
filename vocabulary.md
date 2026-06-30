@@ -4385,3 +4385,4 @@
 - 2026-06-30 09:34 — Use 'does not return' (or 'doesn't return') instead of 'not returns'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 09:37 — Use simple past 'completed' instead of 'has completed' for concise, direct reporting in status updates.
