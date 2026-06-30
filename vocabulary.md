@@ -4405,3 +4405,4 @@
 - 2026-06-30 16:45 — "首token" translates to "first token" in English. Use "first token" directly.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 17:04 — "干吧" is informal; use "handle it" or "do the work" for a professional tone. Keep technical terms like "--profile chatgpt" unchanged.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why is the first token generation slow on CPU?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Write a plan to let codex --profile chatgpt handle it.
