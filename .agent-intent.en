@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command 'Monitor codex-pipefix until exit, max 45min' completed with exit code 0.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
