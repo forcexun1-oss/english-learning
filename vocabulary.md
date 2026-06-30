@@ -4477,3 +4477,4 @@
 - 2026-06-30 23:19 — '仓库' in a tech context is 'repository', not 'warehouse'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:21 — In Chinese, '下好的模型' means 'downloaded model'. Use 'downloaded model' or 'pre-trained model'.
