@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What about this one? https://ollama.com/library/qwen3.6:35b-a3b-mlx-bf16
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+I want to use MLX to redo the previous transformation. Understand?

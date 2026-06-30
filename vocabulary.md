@@ -4469,3 +4469,4 @@
 - 2026-06-30 23:13 — In English, when asking for an opinion on something, use 'What about this one?' instead of 'This how?' — '怎么样' translates to 'how is it?' but 'What about...' is more natural here.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:16 — Use 'redo' instead of 'do again' for a more natural, concise command.
