@@ -4465,3 +4465,4 @@
 - 2026-06-30 23:08 — Use 'Does [model] have [version]?' for existence questions instead of directly translating '有' as 'has'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:13 — In English, when asking for an opinion on something, use 'What about this one?' instead of 'This how?' — '怎么样' translates to 'how is it?' but 'What about...' is more natural here.
