@@ -4449,3 +4449,4 @@
 - 2026-06-30 22:53 — Use 'Are there any...' for yes/no questions about existence. 'Has someone already done this?' is more natural than 'has someone already done this thing?'.
 =======
 >>>>>>> Stashed changes
+- 2026-06-30 23:00 — "底层" can be translated as "under the hood" or "at the low level" — "under the hood" is more natural for software contexts.
