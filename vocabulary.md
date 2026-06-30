@@ -4281,6 +4281,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4438,3 +4439,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-06-30 22:39 — In Chinese, '有什么不一样' literally means 'what has not the same', but in English, 'what makes it different?' is more natural. Use 'what makes + noun + adjective' to ask about distinguishing features.
+=======
+>>>>>>> Stashed changes
