@@ -4560,3 +4560,4 @@
 - 2026-07-01 11:31 — "核心问题" translates to "core issue" (not "core problem" in this technical context). Also, you can say "Please analyze" or "Can you analyze" for a polite request.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 11:37 — Use the imperative mood for direct commands, like 'Do it.' instead of the literal 'Do (it) ba'.

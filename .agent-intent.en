@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I'm not sure if loading everything into memory would be faster... I want to run better models, aiming for model performance. What is the core issue causing MLX to be so slow right now? Please analyze.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Do it.
