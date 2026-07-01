@@ -4652,3 +4652,4 @@
 - 2026-07-01 18:01 — Add a subject and verb to form a complete sentence.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 18:05 — '展示给我看看' can be shortened to 'show me' in English. Adding 'with actual data' specifies the method.
