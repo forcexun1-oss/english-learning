@@ -4511,3 +4511,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 09:12 — Add 'to' before the verb after 'ask': 'ask Codex to do it' (or restructure as a command).
