@@ -4615,3 +4615,4 @@
 - 2026-07-01 16:41 — Use past tense 'skipped' instead of base form 'skip' when describing an event that already occurred.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 16:43 — Use active voice instead of passive ('is deselected'). It's more direct for technical descriptions.
