@@ -4607,3 +4607,4 @@
 - 2026-07-01 16:11 — Use 'proceed to' instead of 'pursue' for moving to the next task.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 16:37 — Add 'the' before 'translation panel' — it's a specific feature.
