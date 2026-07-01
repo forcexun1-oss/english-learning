@@ -4574,3 +4574,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 13:23 — Use 'disk space' for storage capacity; 'desk space' is for a physical desk.
