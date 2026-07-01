@@ -4611,3 +4611,4 @@
 - 2026-07-01 16:37 — Add 'the' before 'translation panel' — it's a specific feature.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 16:41 — Use past tense 'skipped' instead of base form 'skip' when describing an event that already occurred.
