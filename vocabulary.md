@@ -4581,3 +4581,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 14:18 — Use introductory phrases like 'I'm seeing this error' to frame a technical log in natural developer communication.

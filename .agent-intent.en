@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Remove unused models; disk space is running low.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+I'm seeing this xcodebuild error: 'Failed fetching catalog for assetType (com.apple.MobileAsset.MetalToolchain), serverParameters ({ RequestedBuild = 17F113; })'. It also wrote an error result bundle to /var/folders/tk/gc73v1wn4_gckg_7jgms77zw0000gn/T/ResultBundle_2026-01-07_14-17-0036.xcresult. What does this mean and how can I fix it?
