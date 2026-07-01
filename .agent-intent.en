@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-This has nothing to do with mac-assistant. It's normal except in Claude Code.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Now in Claude Code, pressing Cmd+C doesn't copy anything. How do I fix this?

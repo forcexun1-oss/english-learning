@@ -4627,3 +4627,4 @@
 - 2026-07-01 17:08 — Capitalize 'Code' as part of the product name 'Claude Code' (proper noun).
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 17:09 — Use 'Cmd+C' (capital C) for keyboard shortcuts; also 'doesn't copy' is more natural than 'cannot copy' in this context.
