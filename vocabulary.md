@@ -4623,3 +4623,4 @@
 - 2026-07-01 16:47 — Use 'Cmd+C' (capital C, no spaces around +) for key combinations, not 'cmd + c'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 17:08 — Capitalize 'Code' as part of the product name 'Claude Code' (proper noun).
