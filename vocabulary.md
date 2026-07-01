@@ -4641,3 +4641,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 17:32 — Use 'to a higher precision' (not 'a higher precision') because 'quantize to' is a phrasal verb indicating the target precision. Also, '为什么不...' is best translated as 'Why not...' for suggestions.
