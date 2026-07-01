@@ -4518,3 +4518,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 10:13 — Use 'the' before 'Mac' (or any specific device name) to make it grammatically complete.
