@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Focus on the following:
 
 Handoff files:
@@ -27,3 +28,6 @@ Integration package:
 - 80 patches: /tmp/edgeagent-asr-command-gate-integration/patches/
 
 Verify it and review the relevant code.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
