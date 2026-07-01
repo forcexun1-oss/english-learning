@@ -4556,3 +4556,4 @@
 - 2026-07-01 11:25 — Use 'native speed of MLX' instead of 'MLX 原生的快' — place the adjective before the noun in English.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 11:31 — "核心问题" translates to "core issue" (not "core problem" in this technical context). Also, you can say "Please analyze" or "Can you analyze" for a polite request.
