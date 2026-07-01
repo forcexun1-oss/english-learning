@@ -4619,3 +4619,4 @@
 - 2026-07-01 16:43 — Use active voice instead of passive ('is deselected'). It's more direct for technical descriptions.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 16:47 — Use 'Cmd+C' (capital C, no spaces around +) for key combinations, not 'cmd + c'.
