@@ -4552,3 +4552,4 @@
 - 2026-07-01 11:21 — Use 'stand for' when asking about an acronym meaning.
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 11:25 — Use 'native speed of MLX' instead of 'MLX 原生的快' — place the adjective before the noun in English.
