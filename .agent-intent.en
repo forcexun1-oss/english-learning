@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Can't trigger the translation panel in Claude Code right now.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
