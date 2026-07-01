@@ -4538,3 +4538,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-01 10:50 — "bake-off" is a compound noun meaning a comparative evaluation of different approaches; keep technical file paths and terms unchanged in translation.
