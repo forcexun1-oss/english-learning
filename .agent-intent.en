@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Show me with actual data. I still don't quite understand.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
