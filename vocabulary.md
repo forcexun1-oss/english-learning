@@ -4728,3 +4728,4 @@
 - 2026-07-02 10:56 — In English, commands often start with a verb. Add 'Use' or 'Consider' to make it clear.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 11:00 — Use 'completed with exit code 0' instead of 'completed (exit code 0)' for a more natural, technical phrasing.
