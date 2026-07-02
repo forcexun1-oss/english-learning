@@ -4992,3 +4992,4 @@
 - 2026-07-03 00:23 — Use clear subject-verb structure instead of raw XML tags.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 05:30 — '拉起来' means 'ramp up' or 'fully utilize'. Use 'utilized' or 'ramped up' in technical contexts.

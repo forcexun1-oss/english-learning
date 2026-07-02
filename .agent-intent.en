@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command 'Dispatch codex to add prefix KV caching' completed (exit code 0).
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+It can be loaded at startup, but there's still an issue: 74 seconds is way too long. Is the disk IO not being utilized at all?
