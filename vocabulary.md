@@ -4837,3 +4837,4 @@
 - 2026-07-02 16:36 — In English, use the imperative form for direct commands, e.g., 'Pull' instead of 'Go pull'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:40 — "先" means "first" in this context, so you can drop the "a" or use it as a list marker (e.g., "Step a:"). "跑通" is colloquial; use "get ... working" or "successfully run" for clarity.
