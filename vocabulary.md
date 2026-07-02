@@ -4875,3 +4875,4 @@
 - 2026-07-02 17:18 — "还原成" can be translated as "revert to" or "convert back to." In technical contexts, "revert" implies returning to a previous state.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:20 — "让...去做" can be translated as "let ... handle it" or "have ... do it". Here "handle it" sounds more natural in a technical context.
