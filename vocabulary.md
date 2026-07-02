@@ -4754,3 +4754,4 @@
 - 2026-07-02 13:34 — Use 'optimizations to be made' to express items that still need optimizing.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 14:06 — Use 'them' instead of 'it' for plural 'tasks'.
