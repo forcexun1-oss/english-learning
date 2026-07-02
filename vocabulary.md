@@ -4988,3 +4988,4 @@
 - 2026-07-02 23:55 — Use 'put the computer to sleep' instead of 'let computer sleep' — 'put to sleep' is the idiomatic phrase.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 00:23 — Use clear subject-verb structure instead of raw XML tags.
