@@ -4817,3 +4817,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-02 16:14 — The particle '呢' is used to ask 'what about?' a previously mentioned topic. Capitalize 'Gemma' as a proper noun.
+- 2026-07-02 16:15 — "我你妹" is a vulgar exclamation. In English coding chats, you can use "WTF" or "Oh come on" but better keep it polite. Consider: "Wait, it's gemma4, not gemma."
