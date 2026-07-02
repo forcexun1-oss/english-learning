@@ -4871,3 +4871,4 @@
 - 2026-07-02 17:13 — “变回”对应 "changes back to" 或 "reverts to"，注意介词 "to" 不能省略。
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:18 — "还原成" can be translated as "revert to" or "convert back to." In technical contexts, "revert" implies returning to a previous state.
