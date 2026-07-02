@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is the existing Gemma 4-26B-A4B in MLX format? Do I need to redownload it? Also, when running on Mac, don't load everything into memory. I want to use this approach to let my mac-assistant app access it and avoid high memory usage.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes

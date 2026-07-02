@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["已有的是MLX格式吗Gemma 4-26B-A4B, 是否需要重新下载, 另外mac上启动, 不要全都加载进内存, 我想使用这种方案来让我mac-assistant应用来访问它,避免占用大量内存"]
+=======
+["<task-notification>\n<task-id>b7vgeip2i</task-id>\n<tool-use-id>toolu_01QSKGP1HmCxoq3Mm9qHcgLB</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-ds4/5b8c7c36-52aa-4ae9-a21a-b2e1e56b87e1/tasks/b7vgeip2i.output</output-file>\n<status>failed</status>\n<summary>Background command \"Clean correctness comparison madvise vs copy-in\" failed with exit code 1</summary>\n</task-notification>", "<task-notification>\n<task-id>bmxr48ci1</task-id>\n<summary>Monitor event: \"correctness comparison result\"</summary>\n<event>still running 61x5s</event>\n</task-notification>"]
+>>>>>>> Stashed changes
