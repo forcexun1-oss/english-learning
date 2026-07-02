@@ -4682,3 +4682,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:04 — "Activity" is a noun; use "activate" (verb) to mean 'make active'.
