@@ -4897,3 +4897,4 @@
 - 2026-07-02 18:39 — Use past tense 'completed' for finished actions.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 18:52 — Remove XML tags and format system notifications as plain English sentences for clarity.
