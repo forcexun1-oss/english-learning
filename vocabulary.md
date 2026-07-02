@@ -4825,3 +4825,4 @@
 - 2026-07-02 16:23 — "按" (àn) often means 'according to' but in technical contexts, 'based on' or 'using' is more natural. Also, '端侧设备' translates to 'edge device'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:27 — In Chinese, '内存' usually refers to RAM, not storage. In English, use 'RAM' for clarity, and remember to include the article 'the' before the model name.
