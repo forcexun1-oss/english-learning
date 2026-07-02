@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Why does it take 70 seconds? None of the previous solutions required 70 seconds.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
