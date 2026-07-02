@@ -4808,3 +4808,4 @@
 - 2026-07-02 15:10 — '不在讨论之列' translates to 'not under discussion' or 'out of scope'. Use 'under discussion' to mean 'currently being considered'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:06 — 超出内存的设备 is unclear; consider using 'memory-constrained devices' or 'devices with limited memory' instead.
