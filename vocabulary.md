@@ -4950,3 +4950,4 @@
 - 2026-07-02 23:23 — Use 'the optimal cache' (with 'the') to specify which cache; '最优' translates to 'optimal'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:29 — Use "with exit code 0" instead of "(exit code 0)" for a more natural reading.
