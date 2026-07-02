@@ -4690,3 +4690,4 @@
 - 2026-07-02 10:07 — Use 'go ahead and + verb' (e.g., 'go ahead and revert') instead of 'go ahead with + noun' for a more natural, active command.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:10 — Use 'start investigating' instead of 'start the investigation' for a more active, direct tone.
