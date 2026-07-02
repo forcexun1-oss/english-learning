@@ -4724,3 +4724,4 @@
 - 2026-07-02 10:39 — Use past tense 'completed' for finished actions, not present tense 'complete'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:56 — In English, commands often start with a verb. Add 'Use' or 'Consider' to make it clear.
