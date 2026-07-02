@@ -4804,3 +4804,4 @@
 - 2026-07-02 15:01 — The original '把' is likely a typo for '吧' (ba), which softens a suggestion. Also, '效果最好, 速度最快' would be more natural as 'the best results and the fastest speed' in English.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 15:10 — '不在讨论之列' translates to 'not under discussion' or 'out of scope'. Use 'under discussion' to mean 'currently being considered'.
