@@ -4409,6 +4409,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4913,3 +4914,5 @@
 >>>>>>> Stashed changes
 - 2026-07-02 21:29 — Use 'let' (or 'have') to express '让' in commands. '让' in Chinese often maps to 'let' or 'have' in English.
 - 2026-07-02 21:30 — Use 'configure all to' instead of 'all configured into' for clarity.
+=======
+>>>>>>> Stashed changes
