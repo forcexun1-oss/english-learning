@@ -4984,3 +4984,4 @@
 - 2026-07-02 23:55 — "执行完了吗" uses 完了 for completion; in English, use present perfect tense "Has it finished..." to ask about a completed action.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:55 — Use 'put the computer to sleep' instead of 'let computer sleep' — 'put to sleep' is the idiomatic phrase.
