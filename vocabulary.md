@@ -4848,3 +4848,4 @@
 - 2026-07-02 16:52 — Use past tense 'completed' for finished actions.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:56 — Use 'with cache limited to' to describe the setting, rather than translating '跑 cache 限制到' literally.
