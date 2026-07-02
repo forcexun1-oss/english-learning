@@ -4350,6 +4350,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4692,3 +4693,5 @@
 >>>>>>> Stashed changes
 - 2026-07-02 10:10 — Use 'start investigating' instead of 'start the investigation' for a more active, direct tone.
 - 2026-07-02 10:12 — Use 'either' at the end of a negative sentence to mean 'also not'. '也没有' translates to 'didn't... either'.
+=======
+>>>>>>> Stashed changes
