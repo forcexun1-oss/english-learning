@@ -4946,3 +4946,4 @@
 - 2026-07-02 23:20 — "调大" is literally "adjust up" but in tech context, use "increase" or "enlarge" for size; "优化" is "optimize" here.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:23 — Use 'the optimal cache' (with 'the') to specify which cache; '最优' translates to 'optimal'.
