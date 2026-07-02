@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Does the GPU revert to bf16 inside its registers for computation?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
