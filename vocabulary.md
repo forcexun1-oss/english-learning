@@ -4844,3 +4844,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:52 — Use past tense 'completed' for finished actions.

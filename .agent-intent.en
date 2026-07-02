@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-First, confirm the top-k, then get the quantization streaming prototype working. Let codex --profile chatgpt do it.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Background command 'Independent streaming generate on local Gemma model' completed successfully (exit code 0).
