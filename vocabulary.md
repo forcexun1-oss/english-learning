@@ -4893,3 +4893,4 @@
 - 2026-07-02 18:38 — In Chinese, '全都' means 'all' or 'everything'. In English, use 'don't load everything into memory' or 'don't load the entire model into memory'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 18:39 — Use past tense 'completed' for finished actions.
