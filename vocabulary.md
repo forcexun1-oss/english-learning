@@ -4962,3 +4962,4 @@
 - 2026-07-02 23:40 — Use 'does it take' for questions about duration, not 'why 70 seconds'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:42 — Use 'fetch' for retrieving data from storage, and 'execute' for running code or commands.
