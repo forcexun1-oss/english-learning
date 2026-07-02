@@ -4720,3 +4720,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:39 — Use past tense 'completed' for finished actions, not present tense 'complete'.
