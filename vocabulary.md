@@ -4958,3 +4958,4 @@
 - 2026-07-02 23:37 — Use 'full in-memory' or 'all in memory' for '全量内存' in this technical context.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:40 — Use 'does it take' for questions about duration, not 'why 70 seconds'.
