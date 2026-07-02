@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command 'Guarded run, packed compute + prefetch' completed successfully (exit code 0).
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Run it with real data and see.

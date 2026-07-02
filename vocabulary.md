@@ -4740,3 +4740,4 @@
 - 2026-07-02 11:09 — Use a full sentence instead of raw XML for status updates.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 11:39 — 跑 can mean 'run' as in execute code or tests; here '跑一下' becomes 'run it with' or simply 'run'.
