@@ -4418,6 +4418,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4943,3 +4944,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-02 23:20 — "调大" is literally "adjust up" but in tech context, use "increase" or "enlarge" for size; "优化" is "optimize" here.
+=======
+>>>>>>> Stashed changes
