@@ -4732,3 +4732,4 @@
 - 2026-07-02 11:00 — Use 'completed with exit code 0' instead of 'completed (exit code 0)' for a more natural, technical phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 11:08 — Remove XML tags and state the result plainly, like a status update.
