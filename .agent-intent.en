@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Add the prefix 'KV cache optimization agent latency' and have codex --profile chatgpt execute it.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Has it finished executing?

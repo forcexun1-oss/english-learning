@@ -4980,3 +4980,4 @@
 - 2026-07-02 23:49 — Consider using 'prepend' instead of 'add prefix' for more concise instruction.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:55 — "执行完了吗" uses 完了 for completion; in English, use present perfect tense "Has it finished..." to ask about a completed action.
