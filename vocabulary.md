@@ -4691,3 +4691,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-02 10:10 — Use 'start investigating' instead of 'start the investigation' for a more active, direct tone.
+- 2026-07-02 10:12 — Use 'either' at the end of a negative sentence to mean 'also not'. '也没有' translates to 'didn't... either'.
