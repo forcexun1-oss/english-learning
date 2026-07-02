@@ -4916,3 +4916,4 @@
 - 2026-07-02 21:30 — Use 'configure all to' instead of 'all configured into' for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 21:37 — "跑通" is colloquial; use "get something working" or "make something run" in technical contexts.
