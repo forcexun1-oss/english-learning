@@ -4942,3 +4942,4 @@
 - 2026-07-02 22:45 — Use past tense 'completed' for finished background commands. Remove XML tags when writing a plain English message.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:20 — "调大" is literally "adjust up" but in tech context, use "increase" or "enlarge" for size; "优化" is "optimize" here.
