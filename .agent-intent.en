@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Do we still need the quantized code? Is it harmful?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Why do we need to write quantization code? Doesn't MLX natively support quantized models?

@@ -4863,3 +4863,4 @@
 - 2026-07-02 17:04 — "还要吗" can be translated as "Do we still need" for a more natural question format.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:09 — Use 'quantization code' to refer to code that performs quantization, not 'quantized code'.
