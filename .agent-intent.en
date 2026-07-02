@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Measure native (non-streamed) prefill for the 2000-token prompt" completed with exit code 0.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+What does 'native (non-streamed)' mean? Does it mean full in-memory?

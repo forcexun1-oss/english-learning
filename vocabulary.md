@@ -4954,3 +4954,4 @@
 - 2026-07-02 23:29 — Use "with exit code 0" instead of "(exit code 0)" for a more natural reading.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 23:37 — Use 'full in-memory' or 'all in memory' for '全量内存' in this technical context.
