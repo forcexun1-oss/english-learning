@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Measure disk IO throughput during cold prefill" completed (exit code 0)
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+No, with this plan, the iPhone prefill will still be slow. Prefill can definitely max out the disk, but it was never this slow in previous modifications.

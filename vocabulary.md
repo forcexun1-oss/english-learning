@@ -5002,3 +5002,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 05:37 — Use 'max out' (informal) to mean 'use to full capacity' — it's natural for disk usage.
