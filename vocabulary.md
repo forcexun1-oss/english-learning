@@ -4821,3 +4821,4 @@
 - 2026-07-02 16:15 — "我你妹" is a vulgar exclamation. In English coding chats, you can use "WTF" or "Oh come on" but better keep it polite. Consider: "Wait, it's gemma4, not gemma."
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:23 — "按" (àn) often means 'according to' but in technical contexts, 'based on' or 'using' is more natural. Also, '端侧设备' translates to 'edge device'.
