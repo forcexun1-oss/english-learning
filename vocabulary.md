@@ -4907,3 +4907,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 21:23 — Use 'Verify' (confirm correctness) rather than 'Validate' (check validity) for a concise command.
