@@ -4761,3 +4761,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 14:17 — Use present tense 'completes' or past 'completed' for status updates; here 'completed' is correct.
