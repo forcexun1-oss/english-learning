@@ -4867,3 +4867,4 @@
 - 2026-07-02 17:09 — Use 'quantization code' to refer to code that performs quantization, not 'quantized code'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:13 — “变回”对应 "changes back to" 或 "reverts to"，注意介词 "to" 不能省略。
