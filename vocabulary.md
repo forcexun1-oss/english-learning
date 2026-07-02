@@ -4672,3 +4672,4 @@
 - 2026-07-02 09:32 — Use 'then' to show sequence of actions. 'Let' is fine, but 'have' is also common: 'have codex implement it'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 09:47 — Use 'with exit code 0' to specify the result.
