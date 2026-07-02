@@ -4686,3 +4686,4 @@
 - 2026-07-02 10:04 — "Activity" is a noun; use "activate" (verb) to mean 'make active'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:07 — Use 'go ahead and + verb' (e.g., 'go ahead and revert') instead of 'go ahead with + noun' for a more natural, active command.
