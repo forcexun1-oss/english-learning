@@ -4938,3 +4938,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 22:45 — Use past tense 'completed' for finished background commands. Remove XML tags when writing a plain English message.
