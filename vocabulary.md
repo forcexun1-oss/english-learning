@@ -4703,3 +4703,4 @@
 - 2026-07-02 10:27 — Use 'run' instead of 'do' for actions like measurements or tests.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:29 — Drop the XML wrapper and state the result directly in plain English.
