@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Which project were these code changes made on?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Do we still need the quantized code? Is it harmful?

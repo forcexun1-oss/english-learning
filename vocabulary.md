@@ -4859,3 +4859,4 @@
 - 2026-07-02 16:59 — '改的' means 'modified' or 'changed', often used in spoken Chinese to ask about where changes were made.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:04 — "还要吗" can be translated as "Do we still need" for a more natural question format.
