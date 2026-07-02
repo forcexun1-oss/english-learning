@@ -4389,6 +4389,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4838,3 +4839,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-02 16:40 — "先" means "first" in this context, so you can drop the "a" or use it as a list marker (e.g., "Step a:"). "跑通" is colloquial; use "get ... working" or "successfully run" for clarity.
+=======
+>>>>>>> Stashed changes
