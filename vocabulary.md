@@ -4816,3 +4816,4 @@
 - 2026-07-02 16:10 — Use '5GB of memory' instead of '内存5g' — 'GB' is the correct unit abbreviation, and 'of' is needed before 'memory'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:14 — The particle '呢' is used to ask 'what about?' a previously mentioned topic. Capitalize 'Gemma' as a proper noun.
