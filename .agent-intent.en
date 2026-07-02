@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>b34as2pz1</task-id>
 <tool-use-id>toolu_011VjPGQZuBckg67qQ4Enn4E</tool-use-id>
@@ -7,6 +8,9 @@
 <status>completed</status>
 <summary>Background command "Same coherence prompt with packing off to isolate the bug" completed (exit code 0)</summary>
 </task-notification>
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
 =======
 Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
 >>>>>>> Stashed changes
