@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Update memory and start the investigation.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+yes, instrument it and run the measurement

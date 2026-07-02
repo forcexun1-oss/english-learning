@@ -4699,3 +4699,4 @@
 - 2026-07-02 10:15 — Use 'the' instead of 'that' for specific references.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:27 — Use 'run' instead of 'do' for actions like measurements or tests.
