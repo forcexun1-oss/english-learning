@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 First, let me reiterate: loading the full model into memory is not under discussion. The model must have a large number of parameters to achieve good results, and the TTFT (Time to First Token) must be fast. That means there is a certain ratio between total cache and model size. Additionally, for a large parameter count, what quantization level yields the best performance? Roughly estimate — find a Qwen 3.6 model overall.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
