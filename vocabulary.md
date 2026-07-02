@@ -4911,3 +4911,4 @@
 - 2026-07-02 21:23 — Use 'Verify' (confirm correctness) rather than 'Validate' (check validity) for a concise command.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 21:29 — Use 'let' (or 'have') to express '让' in commands. '让' in Chinese often maps to 'let' or 'have' in English.
