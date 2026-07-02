@@ -4768,3 +4768,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 14:26 — Omit XML tags when writing messages — just state the result directly.
