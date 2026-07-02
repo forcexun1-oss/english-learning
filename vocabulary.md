@@ -4879,3 +4879,4 @@
 - 2026-07-02 17:20 — "让...去做" can be translated as "let ... handle it" or "have ... do it". Here "handle it" sounds more natural in a technical context.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 17:33 — Remove XML tags and describe the notification as a plain English sentence. Use 'completed' (past tense) instead of 'completed' within XML.
