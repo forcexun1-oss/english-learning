@@ -4736,3 +4736,4 @@
 - 2026-07-02 11:08 — Remove XML tags and state the result plainly, like a status update.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 11:09 — Use a full sentence instead of raw XML for status updates.
