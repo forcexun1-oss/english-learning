@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command 'Real-data test: native packed gather_qmm vs masked loop prefill on aligned Gemma layer' completed with exit code 0.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
