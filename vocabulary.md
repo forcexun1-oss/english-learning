@@ -4855,3 +4855,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:59 — '改的' means 'modified' or 'changed', often used in spoken Chinese to ask about where changes were made.
