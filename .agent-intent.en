@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 It can be loaded at startup, but there's still an issue: 74 seconds is way too long. Is the disk IO not being utilized at all?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
 =======
 Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
 >>>>>>> Stashed changes
