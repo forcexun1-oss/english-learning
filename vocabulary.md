@@ -4812,3 +4812,4 @@
 - 2026-07-02 16:06 — 超出内存的设备 is unclear; consider using 'memory-constrained devices' or 'devices with limited memory' instead.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:10 — Use '5GB of memory' instead of '内存5g' — 'GB' is the correct unit abbreviation, and 'of' is needed before 'memory'.
