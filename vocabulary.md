@@ -4664,3 +4664,4 @@
 - 2026-07-01 18:11 — '后面' can mean 'later' or 'after' — clarify whether it refers to a position or a following part.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 09:12 — Spelling: 'latency' not 'lantency'.
