@@ -4833,3 +4833,4 @@
 - 2026-07-02 16:30 — The Chinese pattern '不是A就是B' means 'either A or B' (or 'if not A then B'). In English, use 'either...or...' or 'if not A then B'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 16:36 — In English, use the imperative form for direct commands, e.g., 'Pull' instead of 'Go pull'.
