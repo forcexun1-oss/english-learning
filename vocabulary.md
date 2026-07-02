@@ -4781,3 +4781,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 14:38 — Use 'issue' or 'problem' interchangeably here; 'core' emphasizes the most important part.
