@@ -4789,3 +4789,4 @@
 - 2026-07-02 14:42 — '提前量化好的' means 'pre-quantized' (quantized in advance). In English, we often use the prefix 'pre-' to indicate something done beforehand, e.g., 'pre-trained', 'pre-processed'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 14:48 — Use 'modify' for 改 (to change/alter) and 'rerun' for 重跑 (to run again). Keep technical identifiers like 'q8' unchanged.
