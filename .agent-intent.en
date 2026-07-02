@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 For full memory, is it fetched and loaded, or is it loaded again upon execution?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
 =======
 Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
 >>>>>>> Stashed changes
