@@ -4707,3 +4707,4 @@
 - 2026-07-02 10:29 — Drop the XML wrapper and state the result directly in plain English.
 =======
 >>>>>>> Stashed changes
+- 2026-07-02 10:31 — Use 'have' instead of 'let' for giving instructions to an AI assistant — 'have' sounds more direct and task-oriented.

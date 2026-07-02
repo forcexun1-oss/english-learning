@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Run guarded 70GB probe with profiling" completed (exit code 0).
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Write the spec and have Claude Code implement it.
