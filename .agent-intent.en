@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 First, forget the previous work — it's likely that some parts of it are wrong. Second, the core objectives of this task are: 1) MOE must run on memory-constrained devices; 2) it must run agents; 3) later we will definitely need to do model-specific optimization like ds4. Therefore, let's choose a family of models where even the small ones have MOE. Let's first finalize the model.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
