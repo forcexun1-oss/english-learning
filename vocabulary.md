@@ -4361,6 +4361,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -4733,3 +4734,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-02 11:08 — Remove XML tags and state the result plainly, like a status update.
+=======
+>>>>>>> Stashed changes
