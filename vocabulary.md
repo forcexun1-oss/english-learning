@@ -5121,3 +5121,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 11:50 — Use 'ones' to avoid repeating 'ones' (e.g., 'identical ones' instead of 'identical kv').
+- 2026-07-03 11:52 — Use 'once' instead of 'after' for a more natural sequence. 'Compress the context' is a standard term for reducing the conversation window.
