@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why weren't there any of these issues before? Is it caused by an update?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Run `codex --profile chatgpt` with 4 commits. Is the current model in MLX format?

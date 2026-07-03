@@ -5100,3 +5100,4 @@
 - 2026-07-03 11:23 — '怎么都没' is a colloquial way to say 'how come there were no...' or 'why weren't there any...'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 11:37 — In English, questions often start with the verb (e.g., 'Is...') rather than placing the question word at the end like in Chinese ('...的吗').
