@@ -5109,3 +5109,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 11:42 — Use 'with' or 'that isolates' for clarity: 'the same model with isolated KV cache' or 'the same model that isolates the KV cache'.
+- 2026-07-03 11:44 — "写死" means "hardcode" in developer slang; use "hardcode" in English.

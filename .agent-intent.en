@@ -1,1 +1,1 @@
-It's the same model, isolating the KV cache.
+The solution needs to be general — don't hardcode a single one, using a sessionID is fine.
