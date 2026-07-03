@@ -5157,3 +5157,4 @@
 - 2026-07-03 13:44 — Use 'Another question' instead of '还有个问题' for a natural flow. Also, keep the question word order: 'can he' not 'he can'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 13:50 — '同步' means 'simultaneously' (at the same time), not 'synchronously' (in sync). Use 'simultaneously' or 'in parallel' here.
