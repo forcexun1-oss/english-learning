@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Once everything is done, compress the context.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Background command "Verify agent turn2 KV reuse is much faster than turn1" completed (exit code 0)
