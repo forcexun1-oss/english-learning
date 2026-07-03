@@ -5108,3 +5108,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 11:42 — Use 'with' or 'that isolates' for clarity: 'the same model with isolated KV cache' or 'the same model that isolates the KV cache'.
