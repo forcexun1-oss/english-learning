@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-But the translated key-value pairs are not incremental. How did you handle that?
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Not like this. Is there another solution? The previous identical ones still need to be cached.

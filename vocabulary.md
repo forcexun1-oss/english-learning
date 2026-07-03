@@ -5120,3 +5120,4 @@
 - 2026-07-03 11:47 — Use 'incremental' or 'cumulative' for '累加式'. In tech contexts, 'incremental' is more common for accumulating data over steps.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 11:50 — Use 'ones' to avoid repeating 'ones' (e.g., 'identical ones' instead of 'identical kv').
