@@ -5141,3 +5141,4 @@
 - 2026-07-03 13:11 — Use 'decode speed' (noun) instead of 'decode的速度' to match English word order.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 13:14 — "跑一下" is colloquial; use "run" in English. "尤其" translates to "especially" or "particularly".
