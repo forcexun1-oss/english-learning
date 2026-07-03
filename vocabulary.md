@@ -5066,3 +5066,4 @@
 - 2026-07-03 09:45 — Use 'implement' instead of 'do/make' for technical features. '有做' directly translates to 'have done', but in English, we say 'implemented' or 'added'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 09:52 — In English, 'translation request' (no 的) is a compound noun. '做了这些' can be 'do these', but 'handle these' or 'cover these' is more natural for tasks.
