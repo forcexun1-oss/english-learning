@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Pull the E4B drafter and run a real test of MTP speculation.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes

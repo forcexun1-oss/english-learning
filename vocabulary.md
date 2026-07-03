@@ -4477,6 +4477,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -5166,3 +5167,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 14:17 — Use 'Pull' for '拉' (as in 'git pull'), and 'run a real test' for '真测一把' (informal 'do a real test'). Keep technical terms like 'E4B drafter' and 'MTP' unchanged.
+=======
+>>>>>>> Stashed changes
