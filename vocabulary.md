@@ -5095,3 +5095,4 @@
 - 2026-07-03 10:51 — "上下滑动" translates to "scroll up and down" as a verb phrase. "导致" is often expressed as "caused by" in passive constructions.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 10:57 — Use 'to copy, I have to' instead of '拷贝要'. The structure '要...才能...' translates to 'have to ... before ... can'.
