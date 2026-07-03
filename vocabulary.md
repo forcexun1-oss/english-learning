@@ -4458,6 +4458,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -5092,3 +5093,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 10:51 — "上下滑动" translates to "scroll up and down" as a verb phrase. "导致" is often expressed as "caused by" in passive constructions.
+=======
+>>>>>>> Stashed changes
