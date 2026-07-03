@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>b0eqtorha</task-id>
 <tool-use-id>toolu_019SJr5iYbnayLuVNmUTmvHJ</tool-use-id>
@@ -6,6 +7,9 @@
 <status>completed</status>
 <summary>Background command 'Dispatch codex for M0 Swift toolchain proof (background)' finished with exit code 0</summary>
 </task-notification>
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
 =======
 Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
 >>>>>>> Stashed changes
