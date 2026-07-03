@@ -5161,3 +5161,4 @@
 - 2026-07-03 13:50 — '同步' means 'simultaneously' (at the same time), not 'synchronously' (in sync). Use 'simultaneously' or 'in parallel' here.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 14:11 — Use 'does this mean' (not 'does this mean that') when asking about implications.
