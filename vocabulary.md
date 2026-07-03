@@ -5091,3 +5091,4 @@
 - 2026-07-03 10:39 — Use 'walk me through' instead of 'tell me about' to sound more natural when asking someone to explain a step-by-step process.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 10:51 — "上下滑动" translates to "scroll up and down" as a verb phrase. "导致" is often expressed as "caused by" in passive constructions.
