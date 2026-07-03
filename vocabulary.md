@@ -5173,3 +5173,4 @@
 - 2026-07-03 14:31 — Use 'commit' instead of 'submit' for git actions. 'Have [someone] do [something]' is the correct structure for asking someone to perform an action.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 15:04 — Use 'with' instead of parentheses for clarity: 'with exit code 0' rather than '(exit code 0)'.
