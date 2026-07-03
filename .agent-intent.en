@@ -1,15 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<task-notification>
-<task-id>b0eqtorha</task-id>
-<tool-use-id>toolu_019SJr5iYbnayLuVNmUTmvHJ</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-ds4/5b8c7c36-52aa-4ae9-a21a-b2e1e56b87e1/tasks/b0eqtorha.output</output-file>
-<status>completed</status>
-<summary>Background command 'Dispatch codex for M0 Swift toolchain proof (background)' finished with exit code 0</summary>
-</task-notification>
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Background command "Dispatch codex for M1b-1 gemma4 resident port (background)" completed with exit code 0.
