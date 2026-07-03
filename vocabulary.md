@@ -4482,6 +4482,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -5186,3 +5187,5 @@
 >>>>>>> Stashed changes
 - 2026-07-03 16:38 — The original repeated 'background' unnecessarily. A single mention is clear.
 - 2026-07-03 16:43 — Use 'too' at the end for 'also' in questions, or rephrase as 'Do I also need...?'
+=======
+>>>>>>> Stashed changes
