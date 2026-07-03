@@ -5070,3 +5070,4 @@
 - 2026-07-03 09:52 — In English, 'translation request' (no 的) is a compound noun. '做了这些' can be 'do these', but 'handle these' or 'cover these' is more natural for tasks.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 10:04 — Use 'over 1 second' instead of '1s多' for clarity in formal technical writing.
