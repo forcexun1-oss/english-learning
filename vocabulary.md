@@ -5101,3 +5101,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 11:37 — In English, questions often start with the verb (e.g., 'Is...') rather than placing the question word at the end like in Chinese ('...的吗').
+- 2026-07-03 11:39 — When sharing command output, present it as plain text instead of raw XML tags for readability.
