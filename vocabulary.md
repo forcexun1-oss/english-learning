@@ -5185,3 +5185,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 16:38 — The original repeated 'background' unnecessarily. A single mention is clear.
+- 2026-07-03 16:43 — Use 'too' at the end for 'also' in questions, or rephrase as 'Do I also need...?'
