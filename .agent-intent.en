@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Pull the E4B drafter and run a real test of MTP speculation.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Commit the prompt_lookup_proto.py file, then have codex --profile chatgpt write the code and test it on the phone. Do we need to create a new repository?

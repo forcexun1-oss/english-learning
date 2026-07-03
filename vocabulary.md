@@ -5169,3 +5169,4 @@
 - 2026-07-03 14:17 — Use 'Pull' for '拉' (as in 'git pull'), and 'run a real test' for '真测一把' (informal 'do a real test'). Keep technical terms like 'E4B drafter' and 'MTP' unchanged.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 14:31 — Use 'commit' instead of 'submit' for git actions. 'Have [someone] do [something]' is the correct structure for asking someone to perform an action.
