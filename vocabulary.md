@@ -5153,3 +5153,4 @@
 - 2026-07-03 13:28 — When expressing '试试 doing something', use 'try + verb-ing' (e.g., 'try reducing') to suggest an experiment, not 'try to reduce' which implies effort.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 13:44 — Use 'Another question' instead of '还有个问题' for a natural flow. Also, keep the question word order: 'can he' not 'he can'.
