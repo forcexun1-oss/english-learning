@@ -5083,3 +5083,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 10:28 — In English questions, invert the subject and verb: 'Why is [subject] [adjective]?' not 'Why [subject] is [adjective]?'.
