@@ -5145,3 +5145,4 @@
 - 2026-07-03 13:14 — "跑一下" is colloquial; use "run" in English. "尤其" translates to "especially" or "particularly".
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 13:18 — '对比' is often translated as 'compare' or 'contrast'. 'Compare' is more common in technical contexts.
