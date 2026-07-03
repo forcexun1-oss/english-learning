@@ -5149,3 +5149,4 @@
 - 2026-07-03 13:18 — '对比' is often translated as 'compare' or 'contrast'. 'Compare' is more common in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 13:28 — When expressing '试试 doing something', use 'try + verb-ing' (e.g., 'try reducing') to suggest an experiment, not 'try to reduce' which implies effort.
