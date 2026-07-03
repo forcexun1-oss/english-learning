@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Commit the prompt_lookup_proto.py file, then have codex --profile chatgpt write the code and test it on the phone. Do we need to create a new repository?
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
