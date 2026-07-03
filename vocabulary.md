@@ -5054,3 +5054,4 @@
 - 2026-07-03 09:05 — Use 'on commit 5ca0ae8' for clarity if referring to a specific Git commit.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 09:29 — Use "any issues" (plural) instead of "some issue" (singular) when checking for potential problems. Also "is complete" is more natural than "is completed" for a finished task.
