@@ -5046,3 +5046,4 @@
 - 2026-07-03 08:57 — When asking about duration or current value, use 'What is the current [noun] time?' instead of directly translating '时间是多少'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 08:59 — Use 'completed with exit code 0' instead of 'completed (exit code 0)' for a more natural flow.
