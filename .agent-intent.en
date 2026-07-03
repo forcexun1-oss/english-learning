@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 What optimizations have been done so far? Walk me through the entire process.
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes

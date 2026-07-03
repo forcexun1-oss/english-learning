@@ -4457,6 +4457,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-06-29 13:57 — '状态' translates to 'status' or 'state' in technical contexts. '什么状态了' → 'what's the status?'
 - 2026-06-29 14:01 — "状况" can be translated as "status" (more technical) or "situation". In this context, "status" is more natural.
 =======
@@ -5088,3 +5089,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 10:39 — Use 'walk me through' instead of 'tell me about' to sound more natural when asking someone to explain a step-by-step process.
+=======
+>>>>>>> Stashed changes
