@@ -5058,3 +5058,4 @@
 - 2026-07-03 09:29 — Use "any issues" (plural) instead of "some issue" (singular) when checking for potential problems. Also "is complete" is more natural than "is completed" for a finished task.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 09:31 — Use backticks or quotes around command names for clarity.
