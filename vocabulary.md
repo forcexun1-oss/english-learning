@@ -5087,3 +5087,4 @@
 - 2026-07-03 10:28 — In English questions, invert the subject and verb: 'Why is [subject] [adjective]?' not 'Why [subject] is [adjective]?'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 10:39 — Use 'walk me through' instead of 'tell me about' to sound more natural when asking someone to explain a step-by-step process.
