@@ -5196,3 +5196,4 @@
 - 2026-07-03 16:44 — Use 'an' before 'iPhone' because it starts with a vowel sound ('eye-phone').
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 17:01 — Remember: 'sign' is the verb (to sign), 'signature' is the noun (the result). For example: 'How do I sign a file?' vs 'How do I generate a digital signature?'
