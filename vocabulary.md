@@ -5192,3 +5192,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 16:44 — Use 'an' before 'iPhone' because it starts with a vowel sound ('eye-phone').
