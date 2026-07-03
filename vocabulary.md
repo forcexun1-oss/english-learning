@@ -5184,3 +5184,4 @@
 - 2026-07-03 16:02 — Use 'completed' as an intransitive verb: 'The command completed' (not 'was completed').
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 16:38 — The original repeated 'background' unnecessarily. A single mention is clear.
