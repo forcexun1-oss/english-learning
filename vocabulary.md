@@ -5096,3 +5096,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-03 10:57 — Use 'to copy, I have to' instead of '拷贝要'. The structure '要...才能...' translates to 'have to ... before ... can'.
+- 2026-07-03 11:23 — '怎么都没' is a colloquial way to say 'how come there were no...' or 'why weren't there any...'.
