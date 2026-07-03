@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command 'Measure current prefill time turn-1 cold vs turn-2 KV reuse' completed with exit code 0.
-=======
-Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
->>>>>>> Stashed changes
+Rework packed native prefill on 5ca0ae8 with a coherence acceptance gate.

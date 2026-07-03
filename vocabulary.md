@@ -5050,3 +5050,4 @@
 - 2026-07-03 08:59 — Use 'completed with exit code 0' instead of 'completed (exit code 0)' for a more natural flow.
 =======
 >>>>>>> Stashed changes
+- 2026-07-03 09:05 — Use 'on commit 5ca0ae8' for clarity if referring to a specific Git commit.
