@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Background command 'Verify small gemma-4-e2b model loads and translates fast' completed (exit code 0). Output file: /private/tmp/claude-501/-Users-youxun-project-ds4/5b8c7c36-52aa-4ae9-a21a-b2e1e56b87e1/tasks/bcfsfp1hz.output
+=======
+Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
+>>>>>>> Stashed changes
 =======
 Don't monitor a task that's already done. The missing event from the previous task means it was broken and too slow.
 >>>>>>> Stashed changes
