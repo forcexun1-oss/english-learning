@@ -1,1 +1,1 @@
-I want to first customize the inference engine specifically for Gemma MOE to achieve the best results, and then, for different hardware, bind the corresponding hardware optimizations.
+Isn't llama.cpp a general inference engine? How can it be customized for Gemma to achieve the highest efficiency on Gemma?
