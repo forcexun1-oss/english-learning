@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["我要让推理引擎先针对gemma MOE定制,跑出最好的效果, 然后 出现不同的硬件,再绑定硬件优化", "llama.cpp不是通用的推理引擎吗, 后续怎么定制成gemma的推理引擎, 达到在gemma上效率最高"]
+=======
+["我iphone连上了,看看, xcode 设置"]
+>>>>>>> Stashed changes
