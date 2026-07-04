@@ -5358,3 +5358,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 19:45 — Use simple past ('completed') to describe a finished action, and present exit codes in parentheses for conciseness.
