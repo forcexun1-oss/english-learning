@@ -5378,3 +5378,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 21:00 — Use 'applied to' + verb (infinitive) or 'applied to' + gerund (e.g., 'decoding'). Both are fine, but 'to decode' is common in technical contexts.
