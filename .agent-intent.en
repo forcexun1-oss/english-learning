@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It's normal now. 2.27 tok/s, footprint 1911 available 1465.
-=======
-My iPhone is connected. Let me check the Xcode settings.
->>>>>>> Stashed changes
+To achieve the highest inference performance, would LiteRT-LM or https://github.com/google/gemma.cpp be better? Can I use codex --profile chatgpt to compare and test them?
