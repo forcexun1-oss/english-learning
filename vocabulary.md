@@ -5314,3 +5314,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 17:28 — Use a colon or separate sentence after 'now running' for clarity. 'Under simulated 8GB' is fine, but 'in a simulated 8GB environment' sounds more natural.
