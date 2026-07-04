@@ -5393,3 +5393,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 21:11 — Use 'make sure' or 'confirm' for 确认. 'clear' is a command and can stay as is, but adding an object like 'the terminal' makes it clearer.
