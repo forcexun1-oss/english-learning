@@ -5285,3 +5285,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 14:27 — Consider using 'lacks' or 'is missing' instead of 'doesn't have' for a more natural expression.
