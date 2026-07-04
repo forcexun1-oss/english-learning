@@ -5245,6 +5245,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-03 17:15 — '了' indicates past tense or completion; '信任' means 'trust'.
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
@@ -5404,3 +5405,6 @@
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
 - 2026-07-04 21:16 — Add spaces around 'vs' for readability: '33 vs 57' not '33-vs-57'.
+=======
+- 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
+>>>>>>> Stashed changes
