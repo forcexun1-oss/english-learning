@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["要推理效果最高是否 LiteRT-LM 和https://github.com/google/gemma.cpp 更好, 是否可以让 codex --profile chatgpt 去对比测试一下"]
-=======
-["我iphone连上了,看看, xcode 设置"]
->>>>>>> Stashed changes
+["我要的是端侧最好的推理引擎, 不是模型, 不是一个改变其他变量凑出来的结果, 而且, 现在指定gemma模型, 还要moe, 大于内存, 这是目标, 所以先选择一个合适的推理引擎, 再改造"]
