@@ -5473,3 +5473,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-05 01:27 — Use 'quota' for 额度 when referring to usage limits. Also, '让...去做' can be simplified to 'let ... handle it' or 'have ... do it'.
