@@ -5363,3 +5363,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 19:46 — Use "and" to combine two related actions. "You can verify" is polite but indirect; for a command, use the imperative "verify".
