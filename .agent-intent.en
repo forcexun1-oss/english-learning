@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I want the best on-device inference engine — not a model, not a result cobbled together by tweaking other variables. Also, we're now targeting the Gemma model, which needs MoE and exceeds memory capacity — that's the goal. So first select a suitable inference engine, then modify it.
-=======
-My iPhone is connected. Let me check the Xcode settings.
->>>>>>> Stashed changes
+First, decide whether to run on Mac. Should we refer to LiteRT-LM and adapt MLX to be a model specifically for running Gemma, or refer to MLX and adapt LiteRT-LM to an architecture suitable for Mac's NPU and MOE? There's also a problem here: the future model is tentatively set to Gemma, but the device is uncertain—definitely not an Apple device.

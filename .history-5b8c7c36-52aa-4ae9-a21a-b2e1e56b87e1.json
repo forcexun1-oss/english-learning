@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["我要的是端侧最好的推理引擎, 不是模型, 不是一个改变其他变量凑出来的结果, 而且, 现在指定gemma模型, 还要moe, 大于内存, 这是目标, 所以先选择一个合适的推理引擎, 再改造"]
-=======
-["我iphone连上了,看看, xcode 设置"]
->>>>>>> Stashed changes
+["先说在mac上跑, 参考 LiteRT-LM 将 MLX改造成 专门跑gemma的模型还是, 参考MLX 将 LiteRT-LM改造成适合mac NPU和MOE的架构, 这里还有一个问题, 未来模型暂时定为了gemma, 但设备不确定, 但肯定不是苹果设备"]
