@@ -5300,3 +5300,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-04 14:51 — Use single quotes for command names in technical text.
