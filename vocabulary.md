@@ -5544,3 +5544,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-05 15:48 — "状况" (zhuàngkuàng) means 'situation/status.' In technical contexts, 'status' is more common.
