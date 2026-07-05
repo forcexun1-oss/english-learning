@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are all the previous optimizations specifically tailored to Gemma's model characteristics?
-=======
-My iPhone is connected. Let me check the Xcode settings.
->>>>>>> Stashed changes
+Have all the optimizations done so far been specific to the characteristics of the Gemma model? Also, are the MLX optimizations useful on iPhone?
