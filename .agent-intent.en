@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Have all the optimizations done so far been specific to the characteristics of the Gemma model? Also, are the MLX optimizations useful on iPhone?
-=======
-My iPhone is connected. Let me check the Xcode settings.
->>>>>>> Stashed changes
-=======
-My iPhone is connected. Let me check the Xcode settings.
->>>>>>> Stashed changes
+This project aims to run Gemma4's MoE large model on edge devices where memory is smaller than the model size. The first optimization is to make llama.cpp support this feature by leveraging ds4. Next, we will perform custom optimizations based on Gemma4's model characteristics. Finally, we will optimize for MLX's features. Please review the current results first, then figure out how to proceed with the three approaches. Write a plan without modifying the code.
