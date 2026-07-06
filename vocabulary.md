@@ -5621,7 +5621,11 @@
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-06 20:33 — In Chinese, adding '一下' softens a request. In English, you can simply use the imperative 'Review...' or add 'Please review' for politeness.
+=======
+- 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
+>>>>>>> Stashed changes
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
