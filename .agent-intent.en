@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Is there any further optimization possible? What's the next step?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Read docs/ds4/EDGE_GEMMA4_ROADMAP.md for the appended content, then have codex (--profile chatgpt) implement it.
