@@ -5593,3 +5593,4 @@
 =======
 - 2026-07-03 17:13 — Use 'is connected' (present perfect or simple present) for the result of connecting. '看看' becomes 'let me check' or 'let me take a look'.
 >>>>>>> Stashed changes
+- 2026-07-06 17:49 — Use active voice to describe events: 'command completed' instead of the passive XML format.
