@@ -5764,3 +5764,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-07 23:17 — Use plain English sentences instead of XML-style notifications. Start with the subject (e.g., 'Background command ...'), then state the result.
