@@ -5698,3 +5698,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-07 09:37 — Use 'the' before singular countable nouns like 'iPhone' when referring to a specific one.
