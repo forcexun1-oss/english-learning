@@ -5712,3 +5712,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-07 10:48 — In developer English, paths are often referenced without an article (e.g., 'use path b', not 'use the path b').
