@@ -5693,3 +5693,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-07 09:16 — Use 'with exit code 0' instead of '(exit code 0)' for a more natural, active phrasing.
