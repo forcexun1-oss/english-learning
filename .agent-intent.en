@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Will the current code have issues running Qwen 3.6, since it was customized for Gemma 4?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Write a separate proposal in English. Additionally, place all documentation (project plans, technical designs related to the proposal) under the docs/ directory, organized by folder. Also, add this guideline to the global Claude.md and agent.md files so that both Claude Code and Codex are aware of it.
