@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Task b20w74f4e failed: the background command `xcrun devicectl device process launch --device 68697B5B-AEC5-597C-8BBC-70745A6DA00A --console dev.local.Gemma4Stream` exited with code 1.
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+The download of BF16 split file 1 of 2 (~49.9GB) completed successfully.
