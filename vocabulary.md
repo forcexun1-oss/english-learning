@@ -5880,3 +5880,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 13:11 — Use 'via' instead of 'through' for network connections (e.g., 'via proxy' sounds more natural).
