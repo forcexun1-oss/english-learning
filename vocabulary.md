@@ -5904,3 +5904,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 13:29 — Use 'figure out how to' instead of '看看如何解决' for a more natural instruction.
