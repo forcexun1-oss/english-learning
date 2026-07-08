@@ -5841,3 +5841,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 11:20 — Use 'search [location] for [thing]' instead of just 'search [location]' without 'for' — it makes the object clearer.
