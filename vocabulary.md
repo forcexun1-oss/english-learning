@@ -5702,6 +5702,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-06 20:33 — In Chinese, adding '一下' softens a request. In English, you can simply use the imperative 'Review...' or add 'Please review' for politeness.
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
@@ -6003,3 +6004,6 @@
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
 - 2026-07-08 16:53 — “跑完了”在编程上下文中常用"run finished"或"done running"，注意用过去时或完成时表示动作已完成。
+=======
+- 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
+>>>>>>> Stashed changes
