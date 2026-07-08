@@ -5803,3 +5803,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 09:50 — "Dig deeper" is more idiomatic than "dig further" in this context. "Further" is for abstract distance/duration, "deeper" is better for investigation.
