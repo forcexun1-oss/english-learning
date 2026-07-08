@@ -5923,3 +5923,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 14:03 — Add a verb like 'show' to make the request complete.
