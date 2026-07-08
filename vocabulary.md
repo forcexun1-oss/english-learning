@@ -5870,3 +5870,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 13:07 — Use 'output' instead of 'result' when referring to command logs for clarity.
