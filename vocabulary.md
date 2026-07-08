@@ -6017,3 +6017,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 17:08 — "跑通过了" means "passed / ran fine" in a testing context. Use "把" at the end for a confirmation tag like "right?" or "didn't it?"
