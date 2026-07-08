@@ -6002,3 +6002,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 16:53 — “跑完了”在编程上下文中常用"run finished"或"done running"，注意用过去时或完成时表示动作已完成。
