@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Read docs/ds4/A6_IOS_BINDLESS_CORRUPTION.md, how to proceed?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Read proposals/A6_IOS_BINDLESS_COHERENCY_FIX.md and ask codex (--profile chatgpt) to implement it.
