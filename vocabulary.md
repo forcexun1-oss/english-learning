@@ -5856,3 +5856,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 11:49 — "failed with exit code 1" → "exited with code 1" is more idiomatic for command failures in developer context.
