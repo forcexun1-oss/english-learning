@@ -5822,3 +5822,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 10:42 — 要求 can mean 'ask' or 'require'. Here '要求他重构' means 'ask him to refactor'.
