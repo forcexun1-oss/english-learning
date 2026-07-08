@@ -5847,3 +5847,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-08 11:30 — Use 'the' before model names when referring to a specific one (e.g., 'the actual Qwen3.6-35B-A3B').
