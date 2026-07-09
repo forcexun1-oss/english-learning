@@ -6298,3 +6298,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 19:00 — Use 'supposed to' to ask about the intended purpose or function of something.
