@@ -5786,6 +5786,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-06 20:33 — In Chinese, adding '一下' softens a request. In English, you can simply use the imperative 'Review...' or add 'Please review' for politeness.
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
@@ -6381,6 +6382,9 @@
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
 - 2026-07-09 21:35 — Use 'completed' (active verb) instead of 'is completed' (passive) for concise status updates.
+=======
+- 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
+>>>>>>> Stashed changes
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
