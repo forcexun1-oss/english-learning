@@ -6225,3 +6225,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 15:11 — Use 'test' as a verb: 'What did Q2.4 test?' instead of '测试的什么' which is a noun phrase ('what of testing').
