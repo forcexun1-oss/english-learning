@@ -6052,3 +6052,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 09:19 — "Completed with exit code 0" is the standard way to say it finished without errors. You can also say "finished successfully".
