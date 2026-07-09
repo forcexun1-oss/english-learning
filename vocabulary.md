@@ -6188,3 +6188,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:41 — Use 'the budget' instead of just 'budget' when referring to a specific budget already mentioned in context.
