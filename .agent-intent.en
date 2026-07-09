@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Check the RKNN2 decoder bucket conversion Docker container (293797535ed0, task bdxrz92ka) for the chaowen Piper voice worktree at /Users/youxun/project/edgeAgent-tts-chaowen. Run `docker logs --tail 100 293797535ed0` and `docker ps` to see if it finished or if it's still installing the rknn-toolkit2 wheel (it's slow due to x86_64 emulation on this arm64 Mac). If it finished, verify that the 7 .rknn bucket files exist under build/piper-decoder-npu-gate/chaowen-fp/rknn/, run the decoder parity check (ONNX vs RKNN2 using z_f32.raw and onnx_decoder_audio_f32.raw already generated under build/piper-decoder-npu-gate/chaowen-fp/), then continue with Step 5 (G2P/lexicon check on standard validation set) and Step 6 (asset landing skeleton) per docs/rk3576-rk1828-tts-piper-chaowen-voice-handoff.md. Commit progress incrementally with explicit file paths, conventional commits, Co-Authored-By: Claude <noreply@anthropic.com>. If it's still installing, just wait longer and schedule another wakeup.
+=======
+So B is our only lever.
+>>>>>>> Stashed changes
 =======
 So B is our only lever.
 >>>>>>> Stashed changes
