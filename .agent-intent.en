@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why doesn't Q8 have KM?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Write a plan: quantize to Q8_0. There should be many optimizations that haven't been done yet — Gemma has been optimized. Write a plan (in English) and I'll have someone else implement it.
