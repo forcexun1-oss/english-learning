@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Which approach was implemented? Where is the overall file?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Look at docs/ds4/proposals/Q1_QWEN3_MOE_SUPPORT.md. The implementation is complete. Check the results. Why is it so slow?
