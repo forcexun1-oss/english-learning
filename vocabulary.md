@@ -6250,3 +6250,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 16:47 — Note: '修好' means 'fix (completely)', but in this context we just say 'fix it' — the '好' is implied.
