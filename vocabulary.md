@@ -6425,3 +6425,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 22:48 — “结论” translates to 'conclusion', but in technical discussions, 'bottom line' or 'takeaway' is also common.
