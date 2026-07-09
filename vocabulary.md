@@ -6095,3 +6095,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 10:40 — Use 'completed' (not 'finished') for background tasks — it's the standard term in CI/CD and tooling.
