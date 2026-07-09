@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 Check if the Docker image build (task b3f3f8u8e, tag edgeagent-rknn2-toolkit:2.3.2) has finished: run `docker images | grep rknn2-toolkit` and check /private/tmp/claude-501/-Users-youxun-project-edgeAgent/ee82bf2a-3a86-47b1-82d0-89615beb5128/tasks/b3f3f8u8e.output. If the image exists, run the parity check script I wrote at /private/tmp/claude-501/-Users-youxun-project-edgeAgent/ee82bf2a-3a86-47b1-82d0-89615beb5128/scratchpad/rknn2_piper_chaowen_parity.py inside the container, mounting /Users/youxun/project/edgeAgent-tts-chaowen as /workspace:
 
 docker run --rm --platform linux/amd64 -v /Users/youxun/project/edgeAgent-tts-chaowen:/workspace -v /private/tmp/claude-501/-Users-youxun-project-edgeAgent/ee82bf2a-3a86-47b1-82d0-89615beb5128/scratchpad/rknn2_piper_chaowen_parity.py:/tmp/parity.py:ro edgeagent-rknn2-toolkit:2.3.2 python3 /tmp/parity.py
 
 Report mean_abs_err per bucket. If parity looks good (mean abs err ~1e-4 to 1e-3, consistent with xiao_ya's accepted standard), proceed to Step 5 (G2P/lexicon check: run the standard validation set short/command/polyphone/numeric/long through the chaowen frontend+decoder pipeline, e.g., via a small ORT-based script using piper-chaowen-frontend.onnx + tokens.txt/lexicon.txt, and check for OOV or missing phonemes) and Step 6 (asset landing: create the models/tts-rknn2/piper-chaowen-* and models/tts/piper-chaowen/ directory skeleton per the doc's Step 6, without committing actual binaries) per docs/rk3576-rk1828-tts-piper-chaowen-voice-handoff.md in the edgeAgent-tts-chaowen worktree. Commit progress incrementally (explicit file paths, conventional commits, Co-Authored-By: Claude <noreply@anthropic.com>). Update the doc's Implementation update section with real verified data. If the image build is still running, wait longer and schedule another wakeup.
+=======
+So B is our only lever.
+>>>>>>> Stashed changes
