@@ -6178,3 +6178,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:37 — Use 'flag' instead of 'flagging' — 'flagging' is the act of marking; 'flag' is the marker itself.
