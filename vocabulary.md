@@ -6307,3 +6307,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 19:01 — "是把" is colloquial for "是吧?" (right?/isn't it?). In English, use "So it's about...?" or "You mean...?" for confirmation.
