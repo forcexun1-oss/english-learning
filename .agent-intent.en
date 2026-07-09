@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Look at docs/ds4/proposals/Q1_QWEN3_MOE_SUPPORT.md. The implementation is complete. Check the results. Why is it so slow?
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+With 20GB of cache, to balance speed and quality, what model size and quantization level should I choose?

@@ -6139,3 +6139,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 11:29 — Use '20GB of cache' to clearly specify the memory size; '量化' translates to 'quantization' in this context.
