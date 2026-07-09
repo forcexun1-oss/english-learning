@@ -6288,3 +6288,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 17:51 — Use 'when k=8' (not 'at k=8') to introduce a condition in a question.
