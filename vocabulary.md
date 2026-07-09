@@ -6396,3 +6396,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 21:47 — Use 'exit code' instead of 'exit status' when referring to command-line errors.
