@@ -5741,6 +5741,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-06 20:33 — In Chinese, adding '一下' softens a request. In English, you can simply use the imperative 'Review...' or add 'Please review' for politeness.
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
@@ -6184,3 +6185,6 @@
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
 - 2026-07-09 13:40 — Use 'parameters for' when asking about the configuration that produced a specific number, rather than 'parameters of'.
+=======
+- 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
+>>>>>>> Stashed changes
