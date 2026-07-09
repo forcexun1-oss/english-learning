@@ -6316,3 +6316,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 19:10 — Use English consistently: '改文档是把, 改吧' → 'Update the documentation, then continue.'
