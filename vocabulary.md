@@ -6261,3 +6261,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 17:18 — For '为什么建议fp32', add 'is' before 'recommended' to form a passive voice: 'Why is fp32 recommended?'
