@@ -6144,3 +6144,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 11:34 — Use 'doesn't' for third-person singular negative (Q8 is singular).
