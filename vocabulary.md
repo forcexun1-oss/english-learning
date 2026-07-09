@@ -6430,3 +6430,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 22:51 — Use 'expect' instead of 'run at what level' for natural English.
