@@ -6169,3 +6169,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:19 — Use 'to diagnose' (infinitive) instead of 'Launch' to describe the purpose of the command.

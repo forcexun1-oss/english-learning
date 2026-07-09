@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Yes, go ahead.
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+The background command to diagnose and fix the Q2.2 bindless mul_mat_id crash on Q8_0 completed (exit code 0).
