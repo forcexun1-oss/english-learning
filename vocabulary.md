@@ -6283,3 +6283,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 17:48 — When referring to a limit, use 'limit of N tokens' or 'N-token limit' (e.g., '1152-token limit'). Avoid writing '1152-token' alone as a noun.
