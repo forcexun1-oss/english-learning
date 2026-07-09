@@ -6061,3 +6061,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 09:41 — Replace raw XML with a plain English summary for readability.
