@@ -6124,3 +6124,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 11:17 — "把...写到...里面" is often simplified to "write ... to ..." in English. The "吧" softens the suggestion but is usually omitted in commands.
