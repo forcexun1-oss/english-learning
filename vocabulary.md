@@ -5764,6 +5764,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-06 20:33 — In Chinese, adding '一下' softens a request. In English, you can simply use the imperative 'Review...' or add 'Please review' for politeness.
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
@@ -6289,3 +6290,6 @@
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
 - 2026-07-09 17:51 — Use 'when k=8' (not 'at k=8') to introduce a condition in a question.
+=======
+- 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
+>>>>>>> Stashed changes
