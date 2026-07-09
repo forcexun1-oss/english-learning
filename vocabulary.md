@@ -6198,3 +6198,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:43 — In Chinese, '跑' (literally 'run') is commonly used to mean 'execute' or 'run' a program, process, or benchmark, similar to 'run' in English.
