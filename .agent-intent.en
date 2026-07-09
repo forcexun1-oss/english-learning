@@ -1,1 +1,1 @@
-I downloaded a male voice for Piper TTS to downloads/zh-CN. Write a plan to add it, and let codex (--profile chatgpt) implement it.
+This is the one, right? https://huggingface.co/rhasspy/piper-voices/tree/main/zh/zh_CN/chaowen/medium
