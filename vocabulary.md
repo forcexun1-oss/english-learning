@@ -6164,3 +6164,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:00 — Capitalize the first word and add a space after the comma.
