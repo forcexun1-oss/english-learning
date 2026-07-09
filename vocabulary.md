@@ -6207,3 +6207,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-09 13:59 — Use 'completed successfully' instead of 'completed with exit code 0' — it's more natural. Exit codes are technical, but the message is readable without them.
