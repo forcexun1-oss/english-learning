@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Task bt1ut1jws completed: 'Measure current download throughput and check shard completion log'.
-=======
-No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
->>>>>>> Stashed changes
+Task notification: the background command 'Download remaining 4 shards from ModelScope with resume support' completed successfully (exit code 0).
