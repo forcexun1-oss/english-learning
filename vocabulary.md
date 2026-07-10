@@ -6725,3 +6725,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 03:21 — Use 'completed/committed' (adjectives) instead of 'done/committed' for a more technical, precise instruction.
