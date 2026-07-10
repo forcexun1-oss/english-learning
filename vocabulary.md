@@ -6639,3 +6639,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-10 20:30 — When sharing command results, use a natural sentence instead of pasting raw notification XML.
