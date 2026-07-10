@@ -6485,3 +6485,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 10:09 — Use commas to separate sequential actions: 'merge, commit, clean up, and finalize'.
