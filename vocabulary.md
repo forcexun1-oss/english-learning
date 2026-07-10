@@ -6570,6 +6570,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6581,5 +6582,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-10 14:46 — Remove the hyphen in 'Task-1' — task numbering typically uses a space (e.g., 'Task 1'). Hyphens are used for compound adjectives like 'Task-1-related' but not for the task label itself.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
