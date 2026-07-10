@@ -6587,6 +6587,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6641,5 +6642,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-10 20:30 — When sharing command results, use a natural sentence instead of pasting raw notification XML.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
