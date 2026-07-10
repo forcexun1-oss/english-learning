@@ -6628,3 +6628,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-10 20:17 — Use 'URL' instead of 'address' for web links; also use 'on this WiFi' (preposition 'on').
