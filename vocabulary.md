@@ -6586,3 +6586,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-10 14:58 — MoE stands for 'Mixture of Experts' and is pronounced starting with a vowel sound, so use 'an' instead of 'a'. Also, the standard casing is 'MoE' (lowercase 'o').
