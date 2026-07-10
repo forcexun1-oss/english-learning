@@ -6564,3 +6564,4 @@
 - 2026-07-10 13:39 — Use quotes or backticks for command names.
 - 2026-07-10 13:57 — 'Teardown' here means the process of ending a session or shutting down an agent. It's a common technical term in software.
 - 2026-07-10 13:57 — Use 'not using' instead of 'not going through' for proxy contexts — it's more direct and common in technical writing.
+- 2026-07-10 13:58 — Use active voice for clarity: 'No completion record found' is more direct than 'No completion record was found'.
