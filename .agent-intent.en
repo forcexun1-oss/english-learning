@@ -1,1 +1,1 @@
-Background command "Relaunch codex without proxy env vars" completed (exit code 0).
+I received a task-notification saying that no completion record was found for a background shell command from the previous session. It may have been stopped via the UI, Monitor timeout, or agent teardown, or it might have been running when the previous Claude Code process exited. I need to check the output file for partial results before assuming it completed.

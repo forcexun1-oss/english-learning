@@ -6562,3 +6562,4 @@
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
 - 2026-07-10 13:39 — Use quotes or backticks for command names.
+- 2026-07-10 13:57 — 'Teardown' here means the process of ending a session or shutting down an agent. It's a common technical term in software.
