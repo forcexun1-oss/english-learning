@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Refer to the llama.cpp project in the same directory regarding the MOE streaming optimization. I want to apply the same optimization to this project—would that be better? Using the qwen3.6 model on a Mac, theoretically the gains should be higher, right?
+=======
+So B is our only lever.
+>>>>>>> Stashed changes
