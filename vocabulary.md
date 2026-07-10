@@ -6712,3 +6712,4 @@
 - 2026-07-11 00:46 — Use 'let [someone] handle [something]' instead of a direct translation of '让...去做'. 'Finalize the plan' is more natural than '最终形成方案'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 00:56 — Use consistent quoting for model names (e.g., "gpt-5.6-terra") and avoid colons in the middle of a sentence.
