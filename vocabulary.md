@@ -6703,3 +6703,4 @@
 - 2026-07-11 00:22 — 效果 often translates as 'performance' when discussing technical results like speed or accuracy.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 00:24 — Use 'Current goal' instead of 'Goal active' for a more natural start. Also separate check items with line breaks for clarity.
