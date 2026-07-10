@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Read docs/specs/2026-07-10-qwen36-q6-expert-slab-design.md and docs/plans/2026-07-10-qwen36-q6-expert-slab.md, then ask codex (with --profile chatgpt) to implement it.
+=======
+So B is our only lever.
+>>>>>>> Stashed changes
