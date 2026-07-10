@@ -6500,3 +6500,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 10:31 — "听一下" in natural English can be "Let me listen to it" or "I'd like to hear it". Here, "Let me listen to it" sounds more natural in a request.
