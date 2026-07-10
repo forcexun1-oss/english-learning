@@ -6707,3 +6707,4 @@
 - 2026-07-11 00:24 — Use 'Current goal' instead of 'Goal active' for a more natural start. Also separate check items with line breaks for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 00:32 — The Chinese structure '这不是……导致的' is best translated as 'This is not caused by ...' rather than 'This is not due to ...' in technical analysis to clearly indicate cause-and-effect.
