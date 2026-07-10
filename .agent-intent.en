@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Where is the latest generated male voice audio file? Let me listen to it.
-=======
-So B is our only lever.
->>>>>>> Stashed changes
-=======
-So B is our only lever.
->>>>>>> Stashed changes
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+Refer to the llama.cpp project in the same directory regarding the MOE streaming optimization. I want to apply the same optimization to this project—would that be better? Using the qwen3.6 model on a Mac, theoretically the gains should be higher, right?
