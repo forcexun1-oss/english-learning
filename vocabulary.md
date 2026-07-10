@@ -6495,3 +6495,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 10:23 — '你就直接' can be translated as 'you just went ahead and' or 'you simply' to sound more natural.
