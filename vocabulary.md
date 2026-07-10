@@ -6475,3 +6475,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 10:05 — "不要自己合成" can use 'synthesize' (technical term) instead of 'generate' when referring to audio generation from models.
