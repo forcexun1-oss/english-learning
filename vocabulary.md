@@ -6609,6 +6609,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6715,6 +6716,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 00:56 — Use consistent quoting for model names (e.g., "gpt-5.6-terra") and avoid colons in the middle of a sentence.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
