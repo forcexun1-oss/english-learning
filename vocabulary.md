@@ -6556,3 +6556,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 13:30 — Add 'the' before 'model' to specify which model.
