@@ -6605,6 +6605,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6704,3 +6705,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 00:24 — Use 'Current goal' instead of 'Goal active' for a more natural start. Also separate check items with line breaks for clarity.
+=======
+>>>>>>> Stashed changes
