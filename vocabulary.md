@@ -6574,6 +6574,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6599,3 +6600,5 @@
 >>>>>>> Stashed changes
 - 2026-07-10 15:20 — In Chinese, '用drawIO画一个...图' translates to 'Use drawIO to draw a ... diagram'. Note that '架构图' is 'architecture diagram' in technical contexts.
 - 2026-07-10 15:24 — Use past tense 'completed' (active verb) instead of 'completion' or 'completed status' for natural phrasing.
+=======
+>>>>>>> Stashed changes
