@@ -6551,3 +6551,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 13:06 — Use 'then' to connect sequential actions instead of a comma.
