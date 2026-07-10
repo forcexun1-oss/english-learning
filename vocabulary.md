@@ -6585,6 +6585,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6634,5 +6635,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-10 20:19 — Use the imperative 'check' for instructions. Also, 'on this WiFi' is more natural than 'from this WiFi' when referring to network conditions.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
