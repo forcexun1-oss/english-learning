@@ -6611,6 +6611,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6726,3 +6727,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 03:21 — Use 'completed/committed' (adjectives) instead of 'done/committed' for a more technical, precise instruction.
+=======
+>>>>>>> Stashed changes
