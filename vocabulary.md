@@ -6451,3 +6451,4 @@
 =======
 - 2026-07-06 20:31 — Use 'our only lever' or 'the only lever we have' for more natural phrasing.
 >>>>>>> Stashed changes
+- 2026-07-10 09:48 — "板上" is best translated as "on the board" (referring to the development board / hardware). "拉下来" is colloquial for "download" or "pull it down" in a technical context.
