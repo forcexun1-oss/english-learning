@@ -6632,3 +6632,4 @@
 - 2026-07-10 20:17 — Use 'URL' instead of 'address' for web links; also use 'on this WiFi' (preposition 'on').
 =======
 >>>>>>> Stashed changes
+- 2026-07-10 20:19 — Use the imperative 'check' for instructions. Also, 'on this WiFi' is more natural than 'from this WiFi' when referring to network conditions.
