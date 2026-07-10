@@ -6615,3 +6615,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-10 17:03 — Use 'specifically optimize MLX for [model]' instead of '让mlx针对...做特异优化'. 'Specify' + verb is more natural here than 'make ... do specific optimization'.
