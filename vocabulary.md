@@ -6591,6 +6591,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6653,6 +6654,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-10 20:39 — Use 'completed successfully' instead of just 'completed' for a more natural developer status update.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
