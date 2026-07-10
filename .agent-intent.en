@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I want to do experimental out-of-core optimization to prepare for future edge devices. Theoretically, there should be a point where the expert hit rate is almost 100%, making it run close to a fully loaded model in memory.
-=======
-So B is our only lever.
->>>>>>> Stashed changes
+C as Phase 0 and A as the main body, these are all fine. But it must be q6, since I'll be using it on my Mac too. I need it to be fast and effective.
