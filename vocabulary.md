@@ -6838,3 +6838,4 @@
 - 2026-07-11 17:56 — Prefer a plain English sentence over raw XML for readability.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 18:03 — In Chinese, '看看结果' uses repetition of the verb for a casual tone. In English, 'let's see the results' is more natural than 'see see the results'.
