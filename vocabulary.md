@@ -7008,3 +7008,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 00:15 — Capitalize 'Codex' if it's a tool name. Also, 'ask Codex to implement' is fine, but 'instruct Codex to implement' is more precise for a command.
