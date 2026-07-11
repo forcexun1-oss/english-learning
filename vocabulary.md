@@ -6649,6 +6649,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6860,3 +6861,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 18:36 — "写成方案" can be translated as "write it up as a plan". "让...干" is naturally expressed as "have someone do it" (e.g., "have codex do it").
+=======
+>>>>>>> Stashed changes
