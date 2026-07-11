@@ -6932,3 +6932,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-11 20:49 — Use 'write it up as a plan' instead of 'write into a plan' — 'write up' implies creating a formal document or plan.
