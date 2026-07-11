@@ -6751,3 +6751,4 @@
 - 2026-07-11 11:22 — Use 'Use jq to check' instead of 'Check via jq' — software engineers typically say 'use [tool] to [action]'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 12:21 — Use 'Check that' instead of 'Check' when followed by a clause (e.g., 'Check that vm_stat compressor stored is safe').
