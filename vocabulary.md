@@ -6659,6 +6659,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6894,3 +6895,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 19:49 — "得出的" is a shortened form of "得出的结果" (the obtained result). In English, it's clearer to explicitly say "the result".
+=======
+>>>>>>> Stashed changes

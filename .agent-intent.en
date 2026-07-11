@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Are you sure? What is the cache size for this data? Then let codex (--profile chatgpt) verify the result.
+=======
+No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
+>>>>>>> Stashed changes
