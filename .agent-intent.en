@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command completed: `codex exec --profile chatgpt < .codex_logs/codex_bufcost_debug_prompt.md > .codex_logs/runs/bufcost_codex_run_debug_20260711.log 2>&1` (exit code 0, task blpy48csg).
+=======
+No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
+>>>>>>> Stashed changes
