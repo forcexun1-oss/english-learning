@@ -6629,6 +6629,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6785,3 +6786,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 16:06 — "干" (gàn) is a colloquial verb meaning 'to do'; in English, use 'handle', 'execute', or 'take care of' for clarity in professional contexts.
+=======
+>>>>>>> Stashed changes
