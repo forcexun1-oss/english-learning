@@ -7028,3 +7028,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 00:44 — Use 'How about...' or 'What if we...' to translate '如果...呢' when suggesting an action.
