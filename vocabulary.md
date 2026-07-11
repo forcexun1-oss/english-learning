@@ -6640,6 +6640,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6826,5 +6827,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 16:56 — Use 'follow these steps' or 'proceed with' instead of '按照这个执行' (execute according to this) for clearer instructions.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
