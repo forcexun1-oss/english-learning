@@ -6904,3 +6904,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 20:36 — '开了多少内存' is colloquial; use 'what memory configuration/setting' or 'how much memory was allocated'.
