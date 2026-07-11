@@ -6654,6 +6654,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6870,6 +6871,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 18:44 — Use plain English sentences instead of raw XML/JSON notifications when communicating with an AI assistant.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
