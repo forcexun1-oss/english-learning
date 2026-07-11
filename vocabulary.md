@@ -6897,3 +6897,4 @@
 - 2026-07-11 19:49 — "得出的" is a shortened form of "得出的结果" (the obtained result). In English, it's clearer to explicitly say "the result".
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 19:54 — Remove parentheses around command flags; write `--profile chatgpt` directly.
