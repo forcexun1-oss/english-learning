@@ -6662,6 +6662,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6905,3 +6906,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 20:36 — '开了多少内存' is colloquial; use 'what memory configuration/setting' or 'how much memory was allocated'.
+=======
+>>>>>>> Stashed changes
