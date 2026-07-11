@@ -6808,3 +6808,4 @@
 - 2026-07-11 16:37 — "干" is informal; use "handle" or "do" in technical context.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:41 — Use 'run' for CLI commands instead of 'ask' to sound more natural (e.g., 'run codex --profile chatgpt').
