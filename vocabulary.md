@@ -6804,3 +6804,4 @@
 - 2026-07-11 16:32 — "执行完了" can be translated as "Execution finished" or "Done". Using "Execution finished" is more formal and clear in a coding context.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:37 — "干" is informal; use "handle" or "do" in technical context.
