@@ -6820,3 +6820,4 @@
 - 2026-07-11 16:52 — Use natural language to report command output instead of raw XML — say what happened, not the markup.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:53 — Use 'What's the situation?' or 'What's going on?' instead of '什么情况' in English.
