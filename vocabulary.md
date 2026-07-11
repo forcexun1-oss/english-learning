@@ -6800,3 +6800,4 @@
 - 2026-07-11 16:31 — Use 'exit code' (not 'exit status') for program termination values.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:32 — "执行完了" can be translated as "Execution finished" or "Done". Using "Execution finished" is more formal and clear in a coding context.
