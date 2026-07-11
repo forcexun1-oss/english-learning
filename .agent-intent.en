@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 What is the root cause of it being only 30? Why is the total memory usage so much higher?
+=======
+No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
+>>>>>>> Stashed changes

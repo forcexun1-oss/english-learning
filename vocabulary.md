@@ -6646,6 +6646,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6849,3 +6850,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 18:11 — Note: '根本原因' = 'root cause'; '全量内存' = 'full/total memory usage'.
+=======
+>>>>>>> Stashed changes
