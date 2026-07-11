@@ -6796,3 +6796,4 @@
 - 2026-07-11 16:11 — Use 'with' or a direct flag like '--profile chatgpt' instead of parentheses for CLI arguments.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:31 — Use 'exit code' (not 'exit status') for program termination values.
