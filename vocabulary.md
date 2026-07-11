@@ -6780,3 +6780,4 @@
 - 2026-07-11 15:56 — 'yourself right now' is slightly redundant. Use 'directly' or just 'now' for brevity.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:01 — "并没有" can be translated as "after all" or "at all" to emphasize that the outcome contradicts expectations. Here "并不是很好" becomes "aren't very good after all".
