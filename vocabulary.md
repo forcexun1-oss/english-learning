@@ -6747,3 +6747,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 11:22 — Use 'Use jq to check' instead of 'Check via jq' — software engineers typically say 'use [tool] to [action]'.
