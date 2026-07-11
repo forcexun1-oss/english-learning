@@ -6998,3 +6998,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-11 23:56 — "看看" is a reduplication of the verb 看 (kàn) to soften the tone, meaning "take a look" or "check it out."
