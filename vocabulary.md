@@ -6628,6 +6628,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6781,3 +6782,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 16:01 — "并没有" can be translated as "after all" or "at all" to emphasize that the outcome contradicts expectations. Here "并不是很好" becomes "aren't very good after all".
+=======
+>>>>>>> Stashed changes
