@@ -6866,3 +6866,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 18:44 — Use plain English sentences instead of raw XML/JSON notifications when communicating with an AI assistant.
