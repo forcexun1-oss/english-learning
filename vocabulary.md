@@ -6893,3 +6893,4 @@
 - 2026-07-11 19:40 — In Chinese, '有' + verb (有实现) emphasizes the action, but in English, we use the present perfect tense directly without '有'. Also, '看看' is often translated as 'let's take a look' or 'check it out'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 19:49 — "得出的" is a shortened form of "得出的结果" (the obtained result). In English, it's clearer to explicitly say "the result".
