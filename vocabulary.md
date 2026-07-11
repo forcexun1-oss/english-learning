@@ -6621,6 +6621,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6754,6 +6755,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 12:21 — Use 'Check that' instead of 'Check' when followed by a clause (e.g., 'Check that vm_stat compressor stored is safe').
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
