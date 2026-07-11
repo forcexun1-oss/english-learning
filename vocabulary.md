@@ -6633,6 +6633,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-07-10 14:16 — Use a plain English summary instead of raw XML to describe task notifications.
 =======
 >>>>>>> Stashed changes
@@ -6801,3 +6802,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-07-11 16:32 — "执行完了" can be translated as "Execution finished" or "Done". Using "Execution finished" is more formal and clear in a coding context.
+=======
+>>>>>>> Stashed changes
