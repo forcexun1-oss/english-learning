@@ -6812,3 +6812,4 @@
 - 2026-07-11 16:41 — Use 'run' for CLI commands instead of 'ask' to sound more natural (e.g., 'run codex --profile chatgpt').
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:49 — Use 'check the progress of' instead of 'check on ... progress' for a more direct, natural instruction.
