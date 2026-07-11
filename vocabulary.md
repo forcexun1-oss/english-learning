@@ -6776,3 +6776,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 15:56 — 'yourself right now' is slightly redundant. Use 'directly' or just 'now' for brevity.
