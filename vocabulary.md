@@ -6980,3 +6980,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-11 23:10 — In Chinese, '看看' alone can mean 'let me check/look', but in English it's clearer to add 'let me' or 'let's' to express the same intention.
