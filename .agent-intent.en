@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The codex run finished and is genuinely stuck — this isn't a code bug, it's a real constraint the plan didn't anticipate. What's the situation?
+=======
+No completion record found for the background shell command from the previous session. It may have been stopped (via UI, Monitor, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.
+>>>>>>> Stashed changes
