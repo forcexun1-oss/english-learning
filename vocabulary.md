@@ -6848,3 +6848,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 18:11 — Note: '根本原因' = 'root cause'; '全量内存' = 'full/total memory usage'.
