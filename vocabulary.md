@@ -6834,3 +6834,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 17:56 — Prefer a plain English sentence over raw XML for readability.
