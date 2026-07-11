@@ -6788,3 +6788,4 @@
 - 2026-07-11 16:06 — "干" (gàn) is a colloquial verb meaning 'to do'; in English, use 'handle', 'execute', or 'take care of' for clarity in professional contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:09 — Use 'has' with the singular subject 'everything', not 'have'.
