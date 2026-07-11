@@ -6816,3 +6816,4 @@
 - 2026-07-11 16:49 — Use 'check the progress of' instead of 'check on ... progress' for a more direct, natural instruction.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:52 — Use natural language to report command output instead of raw XML — say what happened, not the markup.
