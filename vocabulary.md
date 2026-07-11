@@ -6792,3 +6792,4 @@
 - 2026-07-11 16:09 — Use 'has' with the singular subject 'everything', not 'have'.
 =======
 >>>>>>> Stashed changes
+- 2026-07-11 16:11 — Use 'with' or a direct flag like '--profile chatgpt' instead of parentheses for CLI arguments.
