@@ -7216,3 +7216,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 13:29 — Use 'for' instead of 'of' when asking about the result of a specific test or experiment. '的' in this context translates more naturally to 'for'.
