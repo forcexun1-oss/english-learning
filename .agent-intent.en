@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is the top-2 tree validation still worth trying?
-=======
-How much total memory does this data actually consume?
->>>>>>> Stashed changes
+Why is verification so expensive? Check if https://github.com/deepseek-ai/DeepSpec can help.
