@@ -7166,3 +7166,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 13:07 — "单独执行" means "execute independently" or "run on its own". Use "on its own" when you want a task to run without being combined with other tasks.
