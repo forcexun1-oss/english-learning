@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why is verification so expensive? Check if https://github.com/deepseek-ai/DeepSpec can help.
-=======
-How much total memory does this data actually consume?
->>>>>>> Stashed changes
+Do we need to find a full-memory MOE model to verify MTP?
