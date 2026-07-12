@@ -7157,3 +7157,4 @@
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
 - 2026-07-12 12:49 — “单独执行” can be translated as 'execute only' or 'run alone' to emphasize excluding other tasks.
+- 2026-07-12 12:57 — Turn a raw notification into a clear sentence. Use "Task completed" instead of pasting the entire block.
