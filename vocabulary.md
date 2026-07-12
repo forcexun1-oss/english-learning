@@ -7060,3 +7060,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 10:20 — "看看" can be translated as "let me see" or "let's check". Use "let's" to suggest a shared action.
