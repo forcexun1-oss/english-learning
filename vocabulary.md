@@ -7278,3 +7278,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-12 18:37 — "值得试" is "worth trying". In English, use "worth + verb-ing" (e.g., "worth trying") not "worth to try".
