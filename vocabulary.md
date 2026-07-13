@@ -7305,3 +7305,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-13 10:44 — "跑完了" here means "finished running" (like test runs or builds). Use "runs" as a noun for such processes.
