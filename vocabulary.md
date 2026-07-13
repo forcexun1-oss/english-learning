@@ -7357,3 +7357,4 @@
 - 2026-07-13 16:01 — Use 'tested' (past tense) instead of 'test了'. The particle '吧' can be translated as 'right?' for confirmation.
 - 2026-07-13 16:03 — "搞成" is casual for 'make it into'; consider 'make it standard' or 'standardize it'.
 - 2026-07-13 16:12 — Use 'instruct the subagent to' instead of the direct '给subagent' for clearer imperative commands in English.
+- 2026-07-13 16:24 — Use 'resets at [time]' (with 'at') instead of just 'resets [time]' for natural timing expressions.
