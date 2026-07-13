@@ -7330,3 +7330,4 @@
 =======
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
+- 2026-07-13 11:53 — The phrase '追平' means 'to catch up' or 'to equalize'. Use 'catch up' in this context; '追' is 'chase', '平' is 'level'.
