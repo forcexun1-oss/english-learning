@@ -1,1 +1,1 @@
-We've connected it before. Can you check if there are any records? The Ethernet cable is already plugged in.
+Test it using sshpass with password root; the command `ssh root@192.168.1.104` is correct.
