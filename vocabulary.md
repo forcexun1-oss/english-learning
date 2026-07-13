@@ -7345,3 +7345,4 @@
 - 2026-07-13 14:30 — Use 'current directory' for clarity, but 'dir' is common shorthand in dev contexts.
 - 2026-07-13 14:33 — "之前连过的" uses the past tense to indicate a previous action. "网线" is specifically 'Ethernet cable' in technical contexts, not just any network cable.
 - 2026-07-13 14:36 — Use "using" instead of "via" for clarity. Also, wrap commands in backticks for readability.
+- 2026-07-13 14:38 — Use a period to separate independent clauses instead of a comma.
