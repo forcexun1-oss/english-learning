@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Compare what optimizations this project has added on top of llama.cpp, and write a plan for llama.cpp to catch up. Write the plan in English only, and only write the plan first.
+=======
+How much total memory does this data actually consume?
+>>>>>>> Stashed changes
