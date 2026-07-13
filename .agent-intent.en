@@ -1,1 +1,1 @@
-Let's make it standard; our current self-made ones are too crude.
+Instruct the subagent to implement using the sonnet5 model, and pause when appropriate because tokens are nearly exhausted.
