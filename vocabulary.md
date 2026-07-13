@@ -7358,3 +7358,4 @@
 - 2026-07-13 16:03 — "搞成" is casual for 'make it into'; consider 'make it standard' or 'standardize it'.
 - 2026-07-13 16:12 — Use 'instruct the subagent to' instead of the direct '给subagent' for clearer imperative commands in English.
 - 2026-07-13 16:24 — Use 'resets at [time]' (with 'at') instead of just 'resets [time]' for natural timing expressions.
+- 2026-07-13 18:09 — Use 'exit code' (or 'exit status') instead of 'error code' for command return values. 'Exit code 2' indicates a problem (e.g., host unreachable).
