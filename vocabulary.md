@@ -7348,3 +7348,4 @@
 - 2026-07-13 14:38 — Use a period to separate independent clauses instead of a comma.
 - 2026-07-13 15:06 — Add 'the' before 'cable' for specificity.
 - 2026-07-13 15:34 — Add 'the' before 'master board' for natural English.
+- 2026-07-13 15:38 — Start commands/instructions with a capital letter.
