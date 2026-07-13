@@ -7354,3 +7354,4 @@
 - 2026-07-13 15:54 — "补充进来" can be translated as "added to" or "incorporated into". "Supplement" is more formal but also works.
 - 2026-07-13 15:57 — In English, avoid repeating 'test' (测试) as in the original. Use 'how were ... tested' instead of 'how was testing of ... done'.
 - 2026-07-13 15:58 — Use 'does' for third-person singular questions in present tense ('how does it test?'). '测' can mean 'test' as a verb.
+- 2026-07-13 16:01 — Use 'tested' (past tense) instead of 'test了'. The particle '吧' can be translated as 'right?' for confirmation.
