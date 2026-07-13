@@ -7342,3 +7342,4 @@
 >>>>>>> Stashed changes
 - 2026-07-13 13:41 — Use 'for deploying' instead of 'of deploying' to indicate purpose.
 - 2026-07-13 14:28 — Use active voice ('I've downloaded') instead of passive ('is downloaded') for natural developer communication.
+- 2026-07-13 14:30 — Use 'current directory' for clarity, but 'dir' is common shorthand in dev contexts.
