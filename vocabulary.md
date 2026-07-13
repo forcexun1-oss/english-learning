@@ -7343,3 +7343,4 @@
 - 2026-07-13 13:41 — Use 'for deploying' instead of 'of deploying' to indicate purpose.
 - 2026-07-13 14:28 — Use active voice ('I've downloaded') instead of passive ('is downloaded') for natural developer communication.
 - 2026-07-13 14:30 — Use 'current directory' for clarity, but 'dir' is common shorthand in dev contexts.
+- 2026-07-13 14:33 — "之前连过的" uses the past tense to indicate a previous action. "网线" is specifically 'Ethernet cable' in technical contexts, not just any network cable.
