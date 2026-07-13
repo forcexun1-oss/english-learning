@@ -7341,3 +7341,4 @@
 - 2026-07-11 20:39 — In English, avoid starting a question with a comma. Use 'consume' or 'occupy' for '占' in a technical context.
 >>>>>>> Stashed changes
 - 2026-07-13 13:41 — Use 'for deploying' instead of 'of deploying' to indicate purpose.
+- 2026-07-13 14:28 — Use active voice ('I've downloaded') instead of passive ('is downloaded') for natural developer communication.
