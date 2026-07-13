@@ -7359,3 +7359,4 @@
 - 2026-07-13 16:12 — Use 'instruct the subagent to' instead of the direct '给subagent' for clearer imperative commands in English.
 - 2026-07-13 16:24 — Use 'resets at [time]' (with 'at') instead of just 'resets [time]' for natural timing expressions.
 - 2026-07-13 18:09 — Use 'exit code' (or 'exit status') instead of 'error code' for command return values. 'Exit code 2' indicates a problem (e.g., host unreachable).
+- 2026-07-13 22:50 — Use present perfect 'has stalled' or simple past 'stalled' for completed actions; 'stalling' is a present participle, better rephrase as 'it stalled' here.

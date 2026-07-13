@@ -1,1 +1,1 @@
-Background command failed with exit code 2: `arp -a 2>&1` then `ping -c 3 -t 2 192.168.1.104 2>&1`.
+The agent "Close llama.cpp streaming-decode gap" failed again — it stalled for 600s with no progress. The last thing it logged was: "Let me find where `make_resident` is called..." Let me resume this task and fix the issue.
