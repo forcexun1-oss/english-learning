@@ -7350,3 +7350,4 @@
 - 2026-07-13 15:34 — Add 'the' before 'master board' for natural English.
 - 2026-07-13 15:38 — Start commands/instructions with a capital letter.
 - 2026-07-13 15:43 — Use 'again' instead of 'once more' for a more natural instruction.
+- 2026-07-13 15:47 — Place 'physically' before the verb for natural adverb positioning: 'physically restarted'.
