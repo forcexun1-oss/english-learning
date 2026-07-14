@@ -7387,3 +7387,4 @@
 - 2026-07-14 17:23 — Use 'seems wrong' or 'doesn't seem right' instead of 'seems not right' — English prefers 'seems wrong' or 'seems incorrect'.
 - 2026-07-14 17:24 — In English, use 'it' instead of 'he' when referring to a system or process, not a person.
 - 2026-07-14 17:30 — Use 'lag' (verb) for '卡' when describing slowness or delay. 'Stall' is also possible, but 'lag' is more common for latency in AI/agent contexts.
+- 2026-07-14 21:34 — "试试看" can be translated as "try it out" or "give it a try". "交给" here means "assign to" in a technical context.
