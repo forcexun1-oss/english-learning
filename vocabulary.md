@@ -7389,3 +7389,4 @@
 - 2026-07-14 17:30 — Use 'lag' (verb) for '卡' when describing slowness or delay. 'Stall' is also possible, but 'lag' is more common for latency in AI/agent contexts.
 - 2026-07-14 21:34 — "试试看" can be translated as "try it out" or "give it a try". "交给" here means "assign to" in a technical context.
 - 2026-07-14 21:37 — Use 'but' to contrast two ideas; also add 'the' before 'agent' for specificity.
+- 2026-07-14 21:50 — Use a period after 'Done' to separate the statement from the command.
