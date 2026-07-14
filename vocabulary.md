@@ -7375,3 +7375,4 @@
 - 2026-07-14 10:28 — "合入" means "merge into". Use "wrap things up" or "finalize" for the idea of finishing loose ends.
 - 2026-07-14 10:37 — Use 'is it enough to just run this?' instead of '只执行这个就行了?' which directly translates the Chinese structure. English prefers an explicit question word order with 'is it'.
 - 2026-07-14 10:40 — "全" here means "all" or "everything", and "写到...里面去" translates to "write into" in commands.
+- 2026-07-14 10:44 — Instead of 'should be incorrect' (应该不对), use 'is incorrect' or 'seems incorrect' to state the current problem directly.

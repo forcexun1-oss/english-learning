@@ -1,1 +1,1 @@
-Write everything into the single script ./run-mac-assistant.sh.
+After switching to the qwen3.6-35b-mlx-q6-aligned model, the function call parsing is now incorrect.
