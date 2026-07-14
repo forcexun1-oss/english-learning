@@ -1,1 +1,1 @@
-How come there is a qwen3.6-35b-mlx-q6-aligned? Which one should I use?
+I also use the agent occasionally, so 512 max tokens is not enough. Why is it 28-30 tok/s instead of 77?
