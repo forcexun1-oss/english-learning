@@ -7361,3 +7361,4 @@
 - 2026-07-13 18:09 — Use 'exit code' (or 'exit status') instead of 'error code' for command return values. 'Exit code 2' indicates a problem (e.g., host unreachable).
 - 2026-07-13 22:50 — Use present perfect 'has stalled' or simple past 'stalled' for completed actions; 'stalling' is a present participle, better rephrase as 'it stalled' here.
 - 2026-07-14 08:51 — Use 'numbers' or 'metrics' instead of 'data' when asking for performance values.
+- 2026-07-14 08:53 — Use 'worth continuing' instead of 'necessary to continue' to sound more natural and conversational.
