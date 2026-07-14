@@ -7384,3 +7384,4 @@
 - 2026-07-14 16:18 — The phrase '怎么会' expresses disbelief or rhetorical questioning; use 'how could' or 'how would' in English.
 - 2026-07-14 16:34 — Add 'file' after the filename for clarity, or it's fine as is. Use 'Where is' (not 'where is') since it's a question.
 - 2026-07-14 17:20 — "只有一半吗" can mean "is it only half?" — clarify if you mean size, incomplete data, or partial model.
+- 2026-07-14 17:23 — Use 'seems wrong' or 'doesn't seem right' instead of 'seems not right' — English prefers 'seems wrong' or 'seems incorrect'.
