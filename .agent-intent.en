@@ -1,1 +1,1 @@
-If time is at the end, why not just not cache it?
+Also, for cache generation, we could just add an interface and pass in the characters to be cached directly, right?

@@ -7393,3 +7393,4 @@
 - 2026-07-14 22:00 — Use 'cold start' (noun) instead of 'cold starting' (verb).
 - 2026-07-14 22:11 — '不要动手' here means 'don't actually make the changes' (i.e., just propose, don't execute).
 - 2026-07-14 22:23 — Use 'why not just + verb' to suggest a simple solution, like 'why not just exclude it from the cache?'
+- 2026-07-14 22:24 — The Chinese pattern '不就好了吗' expresses a rhetorical suggestion. In English, use 'wouldn't that be fine/okay?' or 'isn't that enough?' to convey the same casual, corrective tone.
