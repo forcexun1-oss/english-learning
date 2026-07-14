@@ -7392,3 +7392,4 @@
 - 2026-07-14 21:50 — Use a period after 'Done' to separate the statement from the command.
 - 2026-07-14 22:00 — Use 'cold start' (noun) instead of 'cold starting' (verb).
 - 2026-07-14 22:11 — '不要动手' here means 'don't actually make the changes' (i.e., just propose, don't execute).
+- 2026-07-14 22:23 — Use 'why not just + verb' to suggest a simple solution, like 'why not just exclude it from the cache?'
