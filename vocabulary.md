@@ -7391,3 +7391,4 @@
 - 2026-07-14 21:37 — Use 'but' to contrast two ideas; also add 'the' before 'agent' for specificity.
 - 2026-07-14 21:50 — Use a period after 'Done' to separate the statement from the command.
 - 2026-07-14 22:00 — Use 'cold start' (noun) instead of 'cold starting' (verb).
+- 2026-07-14 22:11 — '不要动手' here means 'don't actually make the changes' (i.e., just propose, don't execute).
