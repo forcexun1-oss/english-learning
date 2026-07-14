@@ -7362,3 +7362,4 @@
 - 2026-07-13 22:50 — Use present perfect 'has stalled' or simple past 'stalled' for completed actions; 'stalling' is a present participle, better rephrase as 'it stalled' here.
 - 2026-07-14 08:51 — Use 'numbers' or 'metrics' instead of 'data' when asking for performance values.
 - 2026-07-14 08:53 — Use 'worth continuing' instead of 'necessary to continue' to sound more natural and conversational.
+- 2026-07-14 09:21 — “差这么多”在英文中更自然的表达是 "such a big gap" 或 "differ so much"，直接用 "差" 翻译成 "differ" 即可。
