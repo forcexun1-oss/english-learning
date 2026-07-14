@@ -7370,3 +7370,4 @@
 - 2026-07-14 10:07 — Use 'full-memory approach' (or 'full in-memory approach') for '全量内存的方案', and 'streaming approach' for '流式的方案'. The phrase '你好好看看' is naturally rendered as 'take a closer look'.
 - 2026-07-14 10:08 — Use "stream-based solution" instead of "stream solution" for clarity when referring to a method or approach.
 - 2026-07-14 10:10 — When referring to a method that processes data in a stream, use 'streaming' as an adjective (e.g., 'streaming solution'). 'Stream' alone is a noun or verb.
+- 2026-07-14 10:12 — Use 'merged into main' instead of '合入到main'; 'launch parameters' is more natural than '启动参数' in English.
