@@ -1,1 +1,1 @@
-Is it loading into memory each time a request is made? I feel like it's released after the request finishes.
+What is the currently configured model?
