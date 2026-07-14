@@ -7376,3 +7376,4 @@
 - 2026-07-14 10:37 — Use 'is it enough to just run this?' instead of '只执行这个就行了?' which directly translates the Chinese structure. English prefers an explicit question word order with 'is it'.
 - 2026-07-14 10:40 — "全" here means "all" or "everything", and "写到...里面去" translates to "write into" in commands.
 - 2026-07-14 10:44 — Instead of 'should be incorrect' (应该不对), use 'is incorrect' or 'seems incorrect' to state the current problem directly.
+- 2026-07-14 14:14 — '啊' is a modal particle expressing doubt or surprise. In English, you can simply say 'That's not right' or 'Something's off' without an equivalent.
