@@ -7383,3 +7383,4 @@
 - 2026-07-14 16:17 — In technical instructions, '清理' often translates better as 'remove' or 'delete' rather than 'clean up', especially when referring to variables or configurations.
 - 2026-07-14 16:18 — The phrase '怎么会' expresses disbelief or rhetorical questioning; use 'how could' or 'how would' in English.
 - 2026-07-14 16:34 — Add 'file' after the filename for clarity, or it's fine as is. Use 'Where is' (not 'where is') since it's a question.
+- 2026-07-14 17:20 — "只有一半吗" can mean "is it only half?" — clarify if you mean size, incomplete data, or partial model.
