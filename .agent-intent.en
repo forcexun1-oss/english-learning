@@ -1,1 +1,1 @@
-Done, check the log. Can't you just directly initiate a request? It's definitely not a panel rendering issue.
+Every time you clear the session and start a new request, the first one is slow. Can't you just call the API to check it?

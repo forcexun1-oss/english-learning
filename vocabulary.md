@@ -7402,3 +7402,4 @@
 - 2026-07-14 22:57 — In Chinese, '字' can mean 'character' or 'word'. In this context (translation input), 'character' is more precise.
 - 2026-07-14 23:04 — Use 'every time' instead of 'each time' for naturalness in this context.
 - 2026-07-14 23:08 — Use 'initiate a request' or 'make a request' for 发起请求. 'Panel rendering' is correct for 面板渲染.
+- 2026-07-14 23:14 — Use 'the first one' instead of 'the first time' to refer to the first request, and 'call the API' is more natural than '调接口' in English.
