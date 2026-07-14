@@ -1,1 +1,1 @@
-Also, for cache generation, we could just add an interface and pass in the characters to be cached directly, right?
+Plan 2
