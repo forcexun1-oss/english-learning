@@ -7399,3 +7399,4 @@
 - 2026-07-14 22:51 — In informal Chinese, '咋' is used like 'how'. In English, use 'how' or 'how come' for a similar tone.
 - 2026-07-14 22:53 — "先这样吧" is often translated as "Let's leave it at that for now" or "That's it for now."
 - 2026-07-14 22:54 — In English, '跑了' can be translated as 'ran it' (past tense of run). Use 'the first time' instead of just '第一次' to clarify the noun.
+- 2026-07-14 22:57 — In Chinese, '字' can mean 'character' or 'word'. In this context (translation input), 'character' is more precise.
