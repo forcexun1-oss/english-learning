@@ -1,1 +1,1 @@
-Let's go with this: pre-warm. When the service starts, pre-warm one instance. When clearing, besides cleaning up the old one, also start a new one at the same time.
+When cleaning up, asynchronously warm up one.
