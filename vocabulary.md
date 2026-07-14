@@ -7378,3 +7378,4 @@
 - 2026-07-14 10:44 — Instead of 'should be incorrect' (应该不对), use 'is incorrect' or 'seems incorrect' to state the current problem directly.
 - 2026-07-14 14:14 — '啊' is a modal particle expressing doubt or surprise. In English, you can simply say 'That's not right' or 'Something's off' without an equivalent.
 - 2026-07-14 14:49 — '常驻内存' translates to 'resident in memory' — 'resident' here is an adjective meaning continuously loaded.
+- 2026-07-14 14:52 — In your sentence, '现加载' means 'load on the fly' or 'load in real time'. You can express it as 'loading each time a request is made'.
