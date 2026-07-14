@@ -7381,3 +7381,4 @@
 - 2026-07-14 14:52 — In your sentence, '现加载' means 'load on the fly' or 'load in real time'. You can express it as 'loading each time a request is made'.
 - 2026-07-14 16:05 — In English, place 'currently' before 'configured' to modify the adjective.
 - 2026-07-14 16:17 — In technical instructions, '清理' often translates better as 'remove' or 'delete' rather than 'clean up', especially when referring to variables or configurations.
+- 2026-07-14 16:18 — The phrase '怎么会' expresses disbelief or rhetorical questioning; use 'how could' or 'how would' in English.
