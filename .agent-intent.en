@@ -1,1 +1,1 @@
-I also use the agent occasionally, so 512 max tokens is not enough. Why is it 28-30 tok/s instead of 77?
+After the optimization, isn't streaming also around 77 tok/s?

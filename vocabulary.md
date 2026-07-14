@@ -7366,3 +7366,4 @@
 - 2026-07-14 09:40 — “启动参数” is commonly "startup parameters" or "launch arguments". “全命中缓存” can be translated as "fully hit the cache".
 - 2026-07-14 09:45 — 怎么有 is often used to express surprise or confusion about existence. In English, 'How come there is...' is natural for this tone.
 - 2026-07-14 09:54 — Use 'shouldn't it be 77?' instead of '不是77吗' to express a rhetorical question about an expected value.
+- 2026-07-14 09:59 — Use 'isn't' to confirm a shared understanding, or 'should be' for expectation.
