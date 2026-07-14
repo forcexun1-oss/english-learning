@@ -7372,3 +7372,4 @@
 - 2026-07-14 10:10 — When referring to a method that processes data in a stream, use 'streaming' as an adjective (e.g., 'streaming solution'). 'Stream' alone is a noun or verb.
 - 2026-07-14 10:12 — Use 'merged into main' instead of '合入到main'; 'launch parameters' is more natural than '启动参数' in English.
 - 2026-07-14 10:24 — In Chinese, '都可以' means 'either is fine' or 'anything works'. Here '一起做' implies 'do it as well' rather than 'do together'.
+- 2026-07-14 10:28 — "合入" means "merge into". Use "wrap things up" or "finalize" for the idea of finishing loose ends.
