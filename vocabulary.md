@@ -7371,3 +7371,4 @@
 - 2026-07-14 10:08 — Use "stream-based solution" instead of "stream solution" for clarity when referring to a method or approach.
 - 2026-07-14 10:10 — When referring to a method that processes data in a stream, use 'streaming' as an adjective (e.g., 'streaming solution'). 'Stream' alone is a noun or verb.
 - 2026-07-14 10:12 — Use 'merged into main' instead of '合入到main'; 'launch parameters' is more natural than '启动参数' in English.
+- 2026-07-14 10:24 — In Chinese, '都可以' means 'either is fine' or 'anything works'. Here '一起做' implies 'do it as well' rather than 'do together'.
