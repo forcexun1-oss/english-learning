@@ -7373,3 +7373,4 @@
 - 2026-07-14 10:12 — Use 'merged into main' instead of '合入到main'; 'launch parameters' is more natural than '启动参数' in English.
 - 2026-07-14 10:24 — In Chinese, '都可以' means 'either is fine' or 'anything works'. Here '一起做' implies 'do it as well' rather than 'do together'.
 - 2026-07-14 10:28 — "合入" means "merge into". Use "wrap things up" or "finalize" for the idea of finishing loose ends.
+- 2026-07-14 10:37 — Use 'is it enough to just run this?' instead of '只执行这个就行了?' which directly translates the Chinese structure. English prefers an explicit question word order with 'is it'.
