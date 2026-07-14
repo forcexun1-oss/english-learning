@@ -1,1 +1,1 @@
-Why didn't it respond with OK?
+Why does the agent always lag for several seconds when asking a question? I asked the MLX team, they said the model's TTFT is very fast. But it still lags after calling a tool, and lags again when asking a new question. So where is the bottleneck? Does multi-turn conversation have KV cache?

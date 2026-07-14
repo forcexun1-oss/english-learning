@@ -1,1 +1,1 @@
-["qwen3.6-35b-mlx-q6-aligned 现在用了这个模型之后, function call的的解析应该不对了", "当前配置的模型是什么", "把这个MODEL=deepseek-v4清理了", "不对, 加回去, 我们怎么会共用同一个变量"]
+["qwen3.6-35b-mlx-q6-aligned 现在用了这个模型之后, function call的的解析应该不对了", "当前配置的模型是什么", "把这个MODEL=deepseek-v4清理了", "不对, 加回去, 我们怎么会共用同一个变量", "为什么agent提问,每次都要卡,好几秒, 在mlx那边问了,他说模型TTFT很快的, 而且调完工具也卡, 再提问也卡, 那么是哪里卡, 多轮对话有kv cache吗"]
