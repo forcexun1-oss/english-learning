@@ -7396,3 +7396,4 @@
 - 2026-07-14 22:24 — The Chinese pattern '不就好了吗' expresses a rhetorical suggestion. In English, use 'wouldn't that be fine/okay?' or 'isn't that enough?' to convey the same casual, corrective tone.
 - 2026-07-14 22:26 — 方案 can be translated as 'plan', 'scheme', or 'option' depending on context. Here, 'Plan 2' is natural.
 - 2026-07-14 22:49 — Use 'translation prefix' (compound noun) instead of 'translation's prefix' (possessive).
+- 2026-07-14 22:51 — In informal Chinese, '咋' is used like 'how'. In English, use 'how' or 'how come' for a similar tone.
