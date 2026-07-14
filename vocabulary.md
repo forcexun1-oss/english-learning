@@ -7368,3 +7368,4 @@
 - 2026-07-14 09:54 — Use 'shouldn't it be 77?' instead of '不是77吗' to express a rhetorical question about an expected value.
 - 2026-07-14 09:59 — Use 'isn't' to confirm a shared understanding, or 'should be' for expectation.
 - 2026-07-14 10:07 — Use 'full-memory approach' (or 'full in-memory approach') for '全量内存的方案', and 'streaming approach' for '流式的方案'. The phrase '你好好看看' is naturally rendered as 'take a closer look'.
+- 2026-07-14 10:08 — Use "stream-based solution" instead of "stream solution" for clarity when referring to a method or approach.

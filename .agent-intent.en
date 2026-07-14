@@ -1,1 +1,1 @@
-No, there's a full-memory approach and a streaming approach. It's just that the streaming approach has a lot of cached data in memory. Take a closer look.
+Is there a stream-based solution that eventually reached 77 tok/s?
