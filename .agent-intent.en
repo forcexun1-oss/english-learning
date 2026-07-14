@@ -1,1 +1,1 @@
-Done. Check the log.
+The second time is fast, but the first time is too slow. Cache the prefix during server startup — cold start is too slow.
