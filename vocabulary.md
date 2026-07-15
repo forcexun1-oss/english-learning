@@ -7447,3 +7447,4 @@
 - 2026-07-15 20:49 — "请" becomes "please" at the front of the request, and "继续" translates to "resume" (not "continue") since the task was paused.
 - 2026-07-15 21:09 — Use '吧' (ba) for tag questions/suggestions, not '把' (bǎ) which marks the object. Also, '由...引起的' correctly expresses 'caused by'.
 - 2026-07-15 21:35 — Chinese '把' is a confirmation particle; in English use a tag question or 'right?' instead.
+- 2026-07-15 21:37 — "Can we just not use it" → more natural as "Can we just disable it?" when referring to a feature in code.
