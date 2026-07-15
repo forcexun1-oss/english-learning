@@ -7426,3 +7426,4 @@
 - 2026-07-15 13:20 — “跑”在技术上下文中翻译为 “run” 或 “execute”，这里用 “run” 更自然。
 - 2026-07-15 14:48 — "装上" means 'install' in Chinese, but in English we use 'install' directly.
 - 2026-07-15 14:53 — "Set up" means to configure or install something. To assign a value, use "set ... to ..." (e.g., set the key to ...).
+- 2026-07-15 15:26 — Use 'get stuck' instead of 'get stucked' — 'stuck' is the past participle of 'stick'.
