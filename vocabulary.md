@@ -7442,3 +7442,4 @@
 - 2026-07-15 17:08 — '借鉴' is commonly translated as 'learn from' or 'borrow from' in technical contexts, e.g., 'learn from someone's approach'.
 - 2026-07-15 17:18 — Use 'port' as a verb meaning to adapt code from one context to another; 'run a session' is idiomatic for executing a test or comparison.
 - 2026-07-15 17:41 — Use "proceed with" instead of "run" to continue a multi-step plan. "Proceed with the next task" is more natural than "run the next task" in this context.
+- 2026-07-15 17:59 — Use the imperative mood for instructions: 'Translate...return' instead of 'you translate...you return.'
