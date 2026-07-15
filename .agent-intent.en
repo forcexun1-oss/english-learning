@@ -1,1 +1,1 @@
-Then port points 1, 2, and 3, run a clean final A/B session, write the plan in English, and have the subagent execute it using the Sonnet model.
+The subagent finished Tasks 1-3. Let's review the report and proceed with Task 4 (real-model correctness gate) and Task 5 (final A/B session). Write an English plan for the A/B session and have the subagent execute it using Sonnet. Also review the deviations — especially the tolerance widening and fixture changes — before merging.
