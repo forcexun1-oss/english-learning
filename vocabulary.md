@@ -7417,3 +7417,4 @@
 - 2026-07-15 11:10 — "差异有多大" can be translated as "how big is the difference" — more natural than "how large the difference is".
 - 2026-07-15 11:21 — Remember: '架构' translates to 'architecture' in technical contexts.
 - 2026-07-15 11:31 — The Chinese phrase '...的话' introduces a topic; in English, you can simply use 'for' or 'regarding'.
+- 2026-07-15 11:38 — Use 'also have' for '也是' and 'such a big difference' for '差别这么大'.
