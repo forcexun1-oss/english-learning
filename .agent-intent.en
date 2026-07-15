@@ -1,1 +1,1 @@
-The results of tool calls on the panel sometimes get stuck. The results should have already finished running. Sometimes, when running in parallel, when the results come back, they are incorrectly output starting from the current position.
+But I recall the agent has a prompt, right? Update that too, so it uses this skill to search.
