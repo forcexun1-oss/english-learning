@@ -7433,3 +7433,4 @@
 - 2026-07-15 15:46 — In English yes/no questions with 'is', move the verb before the subject: 'Why is the search tool...' instead of 'Why the search tool is...'.
 - 2026-07-15 15:52 — Use 'calling one called' to specify the name of the tool; 'called' is past participle used as an adjective.
 - 2026-07-15 16:02 — Use 'stuck' (not 'stucked') for '卡住'. 'Stuck' is the past participle of 'stick'.
+- 2026-07-15 16:19 — 的 (de) indicates possession; when the noun is omitted, English often adds 'one' (e.g., 'agent's one') or repeats the noun for clarity.
