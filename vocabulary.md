@@ -7416,3 +7416,4 @@
 - 2026-07-15 11:09 — Use 'in the end' or 'ultimately' to summarize a final conclusion. 'Size' here refers to model size (parameters), which is clear from context.
 - 2026-07-15 11:10 — "差异有多大" can be translated as "how big is the difference" — more natural than "how large the difference is".
 - 2026-07-15 11:21 — Remember: '架构' translates to 'architecture' in technical contexts.
+- 2026-07-15 11:31 — The Chinese phrase '...的话' introduces a topic; in English, you can simply use 'for' or 'regarding'.
