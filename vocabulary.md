@@ -7412,3 +7412,4 @@
 - 2026-07-15 09:58 — "先不管大小" means 'setting aside the size for now' or 'regardless of size'. In English, 'Regardless of size' is a concise way to express this.
 - 2026-07-15 10:11 — In GitHub context, '父仓库' is better translated as 'parent organization' or 'parent repo' rather than literally 'father warehouse'.
 - 2026-07-15 10:58 — Use 'has' (singular) with 'anyone' or 'someone' because they are treated as singular pronouns.
+- 2026-07-15 11:08 — '剩下' means 'remaining' or 'left over' — here it's natural to say 'last remaining issue'.
