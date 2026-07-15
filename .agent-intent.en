@@ -1,1 +1,1 @@
-Restart it.
+PR #990 has implemented native MTP speculative decoding for Qwen3.5/3.6. Can we learn from it? Our previous MTP was never completed.

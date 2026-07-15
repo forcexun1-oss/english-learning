@@ -7439,3 +7439,4 @@
 - 2026-07-15 16:25 — '之前好了的' emphasizes a past state that was fine; use 'was working' (past continuous) to describe that ongoing state before the change.
 - 2026-07-15 16:49 — Use 'cached' as an adjective (e.g., 'the earlier part was cached').
 - 2026-07-15 16:53 — In Chinese, '一下' softens the request, but in English, a direct imperative is natural for commands.
+- 2026-07-15 17:08 — '借鉴' is commonly translated as 'learn from' or 'borrow from' in technical contexts, e.g., 'learn from someone's approach'.
