@@ -7405,3 +7405,4 @@
 - 2026-07-14 23:14 — Use 'the first one' instead of 'the first time' to refer to the first request, and 'call the API' is more natural than '调接口' in English.
 - 2026-07-14 23:19 — Use 'pre-warm' as a verb (e.g., 'pre-warm the service') to mean warming up before use. 'Besides' can be replaced with 'in addition to' for a more formal tone.
 - 2026-07-14 23:22 — In tech contexts, 'warmup' is used as a verb; 'warm up one' is natural.
+- 2026-07-15 09:20 — Use 'get stuck' instead of 'become stuck' in informal technical contexts. Also, place the adverb 'erroneously' before 'output' to clearly modify the action.

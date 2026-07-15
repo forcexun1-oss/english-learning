@@ -1,1 +1,1 @@
-When cleaning up, asynchronously warm up one.
+Sometimes the results of tool calls on the panel get stuck, even though the results should have finished. Occasionally, when running in parallel, the results are erroneously output starting from the current position when they come back.
