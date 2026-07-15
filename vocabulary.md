@@ -7424,3 +7424,4 @@
 - 2026-07-15 13:11 — Use 'way too' instead of 'too' to emphasize the degree, like '太' in Chinese.
 - 2026-07-15 13:19 — Use 'As for' to introduce a topic, similar to '关于' in Chinese.
 - 2026-07-15 13:20 — “跑”在技术上下文中翻译为 “run” 或 “execute”，这里用 “run” 更自然。
+- 2026-07-15 14:48 — "装上" means 'install' in Chinese, but in English we use 'install' directly.
