@@ -1,1 +1,1 @@
-It was working before, but I just broke it. Check where the problem is.
+The earlier part was cached, so opening a new one won't be slow either. Check what caused the cache to be lost.
