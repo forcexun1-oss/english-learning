@@ -7431,3 +7431,4 @@
 - 2026-07-15 15:44 — '搞一下' is colloquial; in English, use a specific verb like 'make the change' for clarity.
 - 2026-07-15 15:45 — "把" should be "吧" (ba) for suggestion; 'stop' is a command, 'I'll start' is natural for future action.
 - 2026-07-15 15:46 — In English yes/no questions with 'is', move the verb before the subject: 'Why is the search tool...' instead of 'Why the search tool is...'.
+- 2026-07-15 15:52 — Use 'calling one called' to specify the name of the tool; 'called' is past participle used as an adjective.
