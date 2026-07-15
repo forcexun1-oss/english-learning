@@ -7414,3 +7414,4 @@
 - 2026-07-15 10:58 — Use 'has' (singular) with 'anyone' or 'someone' because they are treated as singular pronouns.
 - 2026-07-15 11:08 — '剩下' means 'remaining' or 'left over' — here it's natural to say 'last remaining issue'.
 - 2026-07-15 11:09 — Use 'in the end' or 'ultimately' to summarize a final conclusion. 'Size' here refers to model size (parameters), which is clear from context.
+- 2026-07-15 11:10 — "差异有多大" can be translated as "how big is the difference" — more natural than "how large the difference is".
