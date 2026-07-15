@@ -7420,3 +7420,4 @@
 - 2026-07-15 11:38 — Use 'also have' for '也是' and 'such a big difference' for '差别这么大'.
 - 2026-07-15 11:52 — 注意“借鉴”可以用“draw from”或“learn from”，而“方案”在技术语境中常用“approach”或“solution”。
 - 2026-07-15 12:28 — Use 'run on' for running on a board/hardware, e.g., 'Which board does it run on?'
+- 2026-07-15 13:05 — "Prove" fits here, but "demonstrate" is more natural when showing a capability or performance. Use "prove" for logical proof, "demonstrate" for showing something works.
