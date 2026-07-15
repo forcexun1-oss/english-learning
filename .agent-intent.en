@@ -1,1 +1,1 @@
-web_search works, but calling one called 'search' doesn't work. So that means it can't access that skill?
+It fixed itself, but why is the panel still stuck waiting for the result when the result has actually already been produced?
