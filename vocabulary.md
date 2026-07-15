@@ -7409,3 +7409,4 @@
 - 2026-07-15 09:43 — Use 'MoE' (Mixture of Experts) rather than 'MOE' for standard capitalization.
 - 2026-07-15 09:50 — Use 'after completing' or 'after finishing' for '做完...' (the 完 indicates completion of an action).
 - 2026-07-15 09:55 — Use 'convert [something] myself' instead of the Chinese pattern '转一个呢'. 'Myself' is an emphatic reflexive pronoun here.
+- 2026-07-15 09:58 — "先不管大小" means 'setting aside the size for now' or 'regardless of size'. In English, 'Regardless of size' is a concise way to express this.
