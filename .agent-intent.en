@@ -1,1 +1,1 @@
-The agent's first request became slower. Is it because of the modified prompt?
+First token — is the KV cache not working? Check the logs.
