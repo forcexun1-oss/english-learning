@@ -7429,3 +7429,4 @@
 - 2026-07-15 15:26 — Use 'get stuck' instead of 'get stucked' — 'stuck' is the past participle of 'stick'.
 - 2026-07-15 15:41 — "把" at the end of a sentence is a softener in Chinese; in English, you can use "right?" or just omit it.
 - 2026-07-15 15:44 — '搞一下' is colloquial; in English, use a specific verb like 'make the change' for clarity.
+- 2026-07-15 15:45 — "把" should be "吧" (ba) for suggestion; 'stop' is a command, 'I'll start' is natural for future action.
