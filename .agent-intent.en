@@ -1,1 +1,1 @@
-We want to implement running Qwen3.0 MoE on the 1828, while also drawing from the approaches of llama.cpp and mlx (peer projects) for handling models larger than memory, and design a solution.
+Which board does S1 run on?
