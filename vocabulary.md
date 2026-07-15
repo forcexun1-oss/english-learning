@@ -7440,3 +7440,4 @@
 - 2026-07-15 16:49 — Use 'cached' as an adjective (e.g., 'the earlier part was cached').
 - 2026-07-15 16:53 — In Chinese, '一下' softens the request, but in English, a direct imperative is natural for commands.
 - 2026-07-15 17:08 — '借鉴' is commonly translated as 'learn from' or 'borrow from' in technical contexts, e.g., 'learn from someone's approach'.
+- 2026-07-15 17:18 — Use 'port' as a verb meaning to adapt code from one context to another; 'run a session' is idiomatic for executing a test or comparison.

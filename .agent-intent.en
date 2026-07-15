@@ -1,1 +1,1 @@
-PR #990 has implemented native MTP speculative decoding for Qwen3.5/3.6. Can we learn from it? Our previous MTP was never completed.
+Then port points 1, 2, and 3, run a clean final A/B session, write the plan in English, and have the subagent execute it using the Sonnet model.
