@@ -1,1 +1,1 @@
-First token — is the KV cache not working? Check the logs.
+It was working before, but I just broke it. Check where the problem is.

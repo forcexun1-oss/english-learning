@@ -7436,3 +7436,4 @@
 - 2026-07-15 16:19 — 的 (de) indicates possession; when the noun is omitted, English often adds 'one' (e.g., 'agent's one') or repeats the noun for clarity.
 - 2026-07-15 16:21 — Use 'the first request' (with 'the') to refer to a specific instance. 'Became slower' is natural; you could also say 'slowed down'.
 - 2026-07-15 16:23 — "首token" is translated as 'first token' (a common term in LLM inference). Use a dash or colon for clarity.
+- 2026-07-15 16:25 — '之前好了的' emphasizes a past state that was fine; use 'was working' (past continuous) to describe that ongoing state before the change.
