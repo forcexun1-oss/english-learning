@@ -7407,3 +7407,4 @@
 - 2026-07-14 23:22 — In tech contexts, 'warmup' is used as a verb; 'warm up one' is natural.
 - 2026-07-15 09:20 — Use 'get stuck' instead of 'become stuck' in informal technical contexts. Also, place the adverb 'erroneously' before 'output' to clearly modify the action.
 - 2026-07-15 09:43 — Use 'MoE' (Mixture of Experts) rather than 'MOE' for standard capitalization.
+- 2026-07-15 09:50 — Use 'after completing' or 'after finishing' for '做完...' (the 完 indicates completion of an action).

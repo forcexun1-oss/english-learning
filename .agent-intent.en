@@ -1,1 +1,1 @@
-Can Rockchip's RK1828 run large models with a MoE architecture? If so, how?
+The thinking after the tool call seems wrong. After completing the normal reply, it output something.
