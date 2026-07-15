@@ -7411,3 +7411,4 @@
 - 2026-07-15 09:55 — Use 'convert [something] myself' instead of the Chinese pattern '转一个呢'. 'Myself' is an emphatic reflexive pronoun here.
 - 2026-07-15 09:58 — "先不管大小" means 'setting aside the size for now' or 'regardless of size'. In English, 'Regardless of size' is a concise way to express this.
 - 2026-07-15 10:11 — In GitHub context, '父仓库' is better translated as 'parent organization' or 'parent repo' rather than literally 'father warehouse'.
+- 2026-07-15 10:58 — Use 'has' (singular) with 'anyone' or 'someone' because they are treated as singular pronouns.
