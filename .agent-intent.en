@@ -1,1 +1,1 @@
-The main problem is caused by linear attention, right? Can we avoid using it?
+The main issue is caused by linear attention, right? Can we just not use it?

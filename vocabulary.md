@@ -7446,3 +7446,4 @@
 - 2026-07-15 20:23 — "Gate_agent" → "gate agent" (no underscore in natural English). "This will take ~7-10 minutes for the agent prompt" → "the agent prompt estimates ~7-10 minutes" is clearer: the prompt itself says that, not your opinion.
 - 2026-07-15 20:49 — "请" becomes "please" at the front of the request, and "继续" translates to "resume" (not "continue") since the task was paused.
 - 2026-07-15 21:09 — Use '吧' (ba) for tag questions/suggestions, not '把' (bǎ) which marks the object. Also, '由...引起的' correctly expresses 'caused by'.
+- 2026-07-15 21:35 — Chinese '把' is a confirmation particle; in English use a tag question or 'right?' instead.
