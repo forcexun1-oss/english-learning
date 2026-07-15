@@ -7421,3 +7421,4 @@
 - 2026-07-15 11:52 — 注意“借鉴”可以用“draw from”或“learn from”，而“方案”在技术语境中常用“approach”或“solution”。
 - 2026-07-15 12:28 — Use 'run on' for running on a board/hardware, e.g., 'Which board does it run on?'
 - 2026-07-15 13:05 — "Prove" fits here, but "demonstrate" is more natural when showing a capability or performance. Use "prove" for logical proof, "demonstrate" for showing something works.
+- 2026-07-15 13:11 — Use 'way too' instead of 'too' to emphasize the degree, like '太' in Chinese.
