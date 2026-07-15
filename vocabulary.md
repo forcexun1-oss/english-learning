@@ -7422,3 +7422,4 @@
 - 2026-07-15 12:28 — Use 'run on' for running on a board/hardware, e.g., 'Which board does it run on?'
 - 2026-07-15 13:05 — "Prove" fits here, but "demonstrate" is more natural when showing a capability or performance. Use "prove" for logical proof, "demonstrate" for showing something works.
 - 2026-07-15 13:11 — Use 'way too' instead of 'too' to emphasize the degree, like '太' in Chinese.
+- 2026-07-15 13:19 — Use 'As for' to introduce a topic, similar to '关于' in Chinese.
