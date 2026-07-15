@@ -7444,3 +7444,4 @@
 - 2026-07-15 17:41 — Use "proceed with" instead of "run" to continue a multi-step plan. "Proceed with the next task" is more natural than "run the next task" in this context.
 - 2026-07-15 17:59 — Use the imperative mood for instructions: 'Translate...return' instead of 'you translate...you return.'
 - 2026-07-15 20:23 — "Gate_agent" → "gate agent" (no underscore in natural English). "This will take ~7-10 minutes for the agent prompt" → "the agent prompt estimates ~7-10 minutes" is clearer: the prompt itself says that, not your opinion.
+- 2026-07-15 20:49 — "请" becomes "please" at the front of the request, and "继续" translates to "resume" (not "continue") since the task was paused.
