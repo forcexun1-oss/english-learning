@@ -7418,3 +7418,4 @@
 - 2026-07-15 11:21 — Remember: '架构' translates to 'architecture' in technical contexts.
 - 2026-07-15 11:31 — The Chinese phrase '...的话' introduces a topic; in English, you can simply use 'for' or 'regarding'.
 - 2026-07-15 11:38 — Use 'also have' for '也是' and 'such a big difference' for '差别这么大'.
+- 2026-07-15 11:52 — 注意“借鉴”可以用“draw from”或“learn from”，而“方案”在技术语境中常用“approach”或“solution”。
