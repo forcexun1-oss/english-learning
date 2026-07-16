@@ -1,1 +1,1 @@
-Try the top-2/tree verification to see if it can amortize C2. Write a plan for the subagent to execute using the sonnet model.
+Let's try top-2/tree verification to see if it can amortize C2. Write a plan for the subagent to use the Sonnet model.
