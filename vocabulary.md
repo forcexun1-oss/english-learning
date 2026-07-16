@@ -7453,3 +7453,4 @@
 - 2026-07-16 11:10 — Use 'has' with 'been' for present perfect passive; 'did' is for simple past active.
 - 2026-07-16 11:46 — Use 'first access' instead of 'first visit' for a technical context; 'robust' is correct for 鲁棒.
 - 2026-07-16 13:15 — Use 'shared' instead of 'public' for caches or resources.
+- 2026-07-16 13:22 — Use 'too long' for duration, but 'so slow' sounds more natural for describing performance issues.
