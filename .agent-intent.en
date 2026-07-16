@@ -1,1 +1,1 @@
-Does the KV of linear attention also increase with tokens?
+Why not save the linear attention of previous tokens? If we keep it, we can roll back, right?
