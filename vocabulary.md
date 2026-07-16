@@ -7464,3 +7464,4 @@
 - 2026-07-16 16:14 — Use 'Is there no...' to ask about absence, or 'Is the session_key missing when...'
 - 2026-07-16 16:16 — "独立" can be translated as "independent" or "separate"; here "independent cache slot" sounds more natural.
 - 2026-07-16 16:21 — Use 'does' to form a yes/no question in present tense.
+- 2026-07-16 16:23 — '占用内存' is typically 'memory usage' or 'memory footprint' in English.
