@@ -7468,3 +7468,4 @@
 - 2026-07-16 16:30 — 'KV' is short for 'key-value cache' in transformer contexts. Use 'increase with' to describe something that grows proportionally to another factor.
 - 2026-07-16 16:33 — Use 'roll back' or 'revert' for '回退' in technical contexts. '存下来' can be 'store' or 'save'.
 - 2026-07-16 16:38 — Use 'store' for saving data, and 'up to the previous three' instead of '最多先前3个'.
+- 2026-07-16 16:53 — In performance contexts, '收益' translates to 'benefit' or 'gain', not 'profit'. '回退' in speculative decoding is 'rollback' (reverting to a previous state), not 'fallback'.
