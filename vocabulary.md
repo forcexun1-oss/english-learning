@@ -7448,3 +7448,4 @@
 - 2026-07-15 21:09 — Use '吧' (ba) for tag questions/suggestions, not '把' (bǎ) which marks the object. Also, '由...引起的' correctly expresses 'caused by'.
 - 2026-07-15 21:35 — Chinese '把' is a confirmation particle; in English use a tag question or 'right?' instead.
 - 2026-07-15 21:37 — "Can we just not use it" → more natural as "Can we just disable it?" when referring to a feature in code.
+- 2026-07-16 10:13 — Use present perfect tense ('have been made') for actions with current relevance.
