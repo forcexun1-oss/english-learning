@@ -7449,3 +7449,4 @@
 - 2026-07-15 21:35 — Chinese '把' is a confirmation particle; in English use a tag question or 'right?' instead.
 - 2026-07-15 21:37 — "Can we just not use it" → more natural as "Can we just disable it?" when referring to a feature in code.
 - 2026-07-16 10:13 — Use present perfect tense ('have been made') for actions with current relevance.
+- 2026-07-16 10:34 — '响应' here is best translated as 'responding' (adjective) rather than 'response' (noun). Use 'is not responding' for a service that fails to reply.
