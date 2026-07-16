@@ -7455,3 +7455,4 @@
 - 2026-07-16 13:15 — Use 'shared' instead of 'public' for caches or resources.
 - 2026-07-16 13:22 — Use 'too long' for duration, but 'so slow' sounds more natural for describing performance issues.
 - 2026-07-16 13:36 — In coding contexts, '提交' typically translates to 'commit' (as in git commit) rather than 'submit'.
+- 2026-07-16 13:50 — Use 'still' for an ongoing situation (prefill still slow), and 'already' for a completed action (models already loaded).
