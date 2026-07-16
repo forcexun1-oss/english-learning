@@ -1,1 +1,1 @@
-Has the server been restarted?
+The mac-assistant agent is still slow on first access. Why? It was working before. I just fixed a bug and restarted mac-assistant, but it's still slow. The kv cache seems incorrect. Please take a look and make it more robust.

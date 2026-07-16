@@ -7451,3 +7451,4 @@
 - 2026-07-16 10:13 — Use present perfect tense ('have been made') for actions with current relevance.
 - 2026-07-16 10:34 — '响应' here is best translated as 'responding' (adjective) rather than 'response' (noun). Use 'is not responding' for a service that fails to reply.
 - 2026-07-16 11:10 — Use 'has' with 'been' for present perfect passive; 'did' is for simple past active.
+- 2026-07-16 11:46 — Use 'first access' instead of 'first visit' for a technical context; 'robust' is correct for 鲁棒.

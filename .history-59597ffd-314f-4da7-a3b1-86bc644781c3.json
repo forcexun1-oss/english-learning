@@ -1,0 +1,1 @@
+["mac-assistant 的agent首次访问的时候还是很慢, 为什么, 之前好了的, 刚修了个bug, mac-assistant我都重启过, 还是慢,kv cache的缓存应该是不对了, 看一下, 改鲁棒一点"]
