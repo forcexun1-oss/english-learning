@@ -1,1 +1,1 @@
-Write a detailed plan for the subagent to investigate. The subagent uses the Sonnet model, so make your plan more detailed.
+The agent panel just encountered a bug where it was calling web_search in an infinite loop. Please check if there are any logs left. I think it's a code bug, not a model issue, because the loop was triggered instantly.
