@@ -1,1 +1,1 @@
-["看看现在prefill的时候还是很慢为什么, decode很快啊, 8000token 70s太离谱了, 内存其实都已经加载了所有模型了"]
+["看看现在prefill的时候还是很慢为什么, decode很快啊, 8000token 70s太离谱了, 内存其实都已经加载了所有模型了", "写方案让subagent去查,subagent用sonnet模型,所以你方案详细一些"]

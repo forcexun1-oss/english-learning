@@ -7456,3 +7456,4 @@
 - 2026-07-16 13:22 — Use 'too long' for duration, but 'so slow' sounds more natural for describing performance issues.
 - 2026-07-16 13:36 — In coding contexts, '提交' typically translates to 'commit' (as in git commit) rather than 'submit'.
 - 2026-07-16 13:50 — Use 'still' for an ongoing situation (prefill still slow), and 'already' for a completed action (models already loaded).
+- 2026-07-16 14:05 — Use 'make your plan more detailed' instead of '你方案详细一些' — in English, you need a verb like 'make' or 'ensure' before the adjective.

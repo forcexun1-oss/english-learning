@@ -1,1 +1,1 @@
-Why is the prefill still so slow? Decode is fast, but 8000 tokens in 70 seconds is ridiculous. Actually, all models have already been loaded into memory.
+Write a detailed plan for the subagent to investigate. The subagent uses the Sonnet model, so make your plan more detailed.
