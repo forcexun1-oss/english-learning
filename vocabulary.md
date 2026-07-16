@@ -7465,3 +7465,4 @@
 - 2026-07-16 16:16 — "独立" can be translated as "independent" or "separate"; here "independent cache slot" sounds more natural.
 - 2026-07-16 16:21 — Use 'does' to form a yes/no question in present tense.
 - 2026-07-16 16:23 — '占用内存' is typically 'memory usage' or 'memory footprint' in English.
+- 2026-07-16 16:30 — 'KV' is short for 'key-value cache' in transformer contexts. Use 'increase with' to describe something that grows proportionally to another factor.
