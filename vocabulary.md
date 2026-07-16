@@ -7461,3 +7461,4 @@
 - 2026-07-16 14:30 — Use 'let + object + verb' to allow someone to do something (e.g., 'let the subagent do it').
 - 2026-07-16 14:38 — Both '是否' and '是不是' introduce yes/no questions. '是否' is more formal, while '是不是' is colloquial. Use 'should I' or 'should we' to express '是否要更新' naturally.
 - 2026-07-16 15:42 — '卡在' means 'stuck on'; '报错了' means 'throwing an error' (not 'reporting error'). Use present continuous for ongoing actions like 'is stuck'.
+- 2026-07-16 16:14 — Use 'Is there no...' to ask about absence, or 'Is the session_key missing when...'
