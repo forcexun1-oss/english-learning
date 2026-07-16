@@ -1,1 +1,1 @@
-So is all the code written? Have you actually run and verified it on the current model?
+Try the top-2/tree verification to see if it can amortize C2. Write a plan for the subagent to execute using the sonnet model.
