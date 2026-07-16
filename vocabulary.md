@@ -7458,3 +7458,4 @@
 - 2026-07-16 13:50 — Use 'still' for an ongoing situation (prefill still slow), and 'already' for a completed action (models already loaded).
 - 2026-07-16 14:05 — Use 'make your plan more detailed' instead of '你方案详细一些' — in English, you need a verb like 'make' or 'ensure' before the adjective.
 - 2026-07-16 14:19 — Use 'encountered' instead of 'appeared' for bugs; 'bug出现了' typically translates to 'a bug occurred/encountered'.
+- 2026-07-16 14:30 — Use 'let + object + verb' to allow someone to do something (e.g., 'let the subagent do it').

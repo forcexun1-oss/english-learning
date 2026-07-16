@@ -1,1 +1,1 @@
-The agent panel just encountered a bug where it was calling web_search in an infinite loop. Please check if there are any logs left. I think it's a code bug, not a model issue, because the loop was triggered instantly.
+Fix it directly, or let the subagent do it using the Sonnet model?
