@@ -1,1 +1,1 @@
-Why not save the linear attention of previous tokens? If we keep it, we can roll back, right?
+I mean, during MTP, you can store up to the previous three, right? Store three copies.
