@@ -7463,3 +7463,4 @@
 - 2026-07-16 15:42 — '卡在' means 'stuck on'; '报错了' means 'throwing an error' (not 'reporting error'). Use present continuous for ongoing actions like 'is stuck'.
 - 2026-07-16 16:14 — Use 'Is there no...' to ask about absence, or 'Is the session_key missing when...'
 - 2026-07-16 16:16 — "独立" can be translated as "independent" or "separate"; here "independent cache slot" sounds more natural.
+- 2026-07-16 16:21 — Use 'does' to form a yes/no question in present tense.

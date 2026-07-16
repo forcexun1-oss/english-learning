@@ -1,1 +1,1 @@
-Add session_id so each session uses an independent cache slot.
+Does the KV cache currently have an expiration mechanism?
