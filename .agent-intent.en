@@ -1,1 +1,1 @@
-should we restart the server
+The scrollbar solution for the agent is too poor — it still jumps, and when generating, you can't scroll. After changing to scroll, it follows to the bottom. When you scroll to the bottom, it should automatically show the latest.

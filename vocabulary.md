@@ -7492,3 +7492,4 @@
 - 2026-07-17 11:44 — "一下" softens Chinese requests; in English, a direct imperative is fine.
 - 2026-07-17 11:52 — "收尾" is often translated as "wrap up" in English, meaning to finish or conclude.
 - 2026-07-17 11:53 — 'sever' is a typo; the correct word is 'server'.
+- 2026-07-17 12:30 — Use 'scrollbar' instead of '下拉条' in technical contexts.
