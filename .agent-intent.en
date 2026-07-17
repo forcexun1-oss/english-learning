@@ -1,1 +1,1 @@
-Is the expert now fully loaded into memory? Try with MLX without loading everything into memory. I want to see what the speed is like.
+How is streaming measured? Is the model actually already mmap'd to memory?
