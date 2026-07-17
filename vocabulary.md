@@ -7490,3 +7490,4 @@
 - 2026-07-17 11:39 — In Chinese, '那' often translates to 'those' for specific items. So 'those 5 remote commits' is more natural than 'the 5 remote commits' here.
 - 2026-07-17 11:43 — "什么" means "what" in questions. Add a subject if needed, e.g. "What failed?" is natural here.
 - 2026-07-17 11:44 — "一下" softens Chinese requests; in English, a direct imperative is fine.
+- 2026-07-17 11:52 — "收尾" is often translated as "wrap up" in English, meaning to finish or conclude.
