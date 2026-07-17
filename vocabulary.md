@@ -7503,3 +7503,4 @@
 - 2026-07-17 13:58 — Use the active verb 'was killed' instead of 'was stopped' for clarity in technical contexts.
 - 2026-07-17 14:19 — In English, avoid repeating '的' as in Chinese. Use possessive 'of' or just a compound noun like 'mac-assistant agent'.
 - 2026-07-17 14:30 — Use 'the' before specific model names (e.g., 'the Sonnet model').
+- 2026-07-17 14:59 — In English, we don't use '有' before verbs to indicate past action; use present perfect or simple past tense instead.
