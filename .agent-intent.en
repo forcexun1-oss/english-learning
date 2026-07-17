@@ -1,1 +1,1 @@
-Let's try top-2/tree verification to see if it can amortize C2. Write a plan for the subagent to use the Sonnet model.
+How does the rolling fold work? Does it just update all values?

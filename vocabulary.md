@@ -7472,3 +7472,4 @@
 - 2026-07-16 16:57 — Use present perfect ('Have you run...') to ask about past action with relevance to the present, rather than past simple ('Did you run...').
 - 2026-07-16 17:03 — "摊薄" in this context means "amortize" (spread the cost/overhead), not "dilute" or "thin out". In performance optimization, "amortize C2" is the natural phrasing.
 - 2026-07-16 17:44 — Use 'amortize' (spread cost over multiple steps) instead of '摊薄' — it's the standard term in this context.
+- 2026-07-17 09:09 — Use 'How does... work?' to ask about a mechanism. '滚动折叠' is a technical term; keep it as 'rolling fold' if that's the agreed term in your context.
