@@ -7474,3 +7474,4 @@
 - 2026-07-16 17:44 — Use 'amortize' (spread cost over multiple steps) instead of '摊薄' — it's the standard term in this context.
 - 2026-07-17 09:09 — Use 'How does... work?' to ask about a mechanism. '滚动折叠' is a technical term; keep it as 'rolling fold' if that's the agreed term in your context.
 - 2026-07-17 09:20 — '看看' is a reduplication of the verb '看' to soften the tone, similar to 'have a look' in English.
+- 2026-07-17 09:25 — Use active voice and remove unnecessary markup — a plain status summary is more readable.

@@ -1,1 +1,1 @@
-Test MTP under full memory conditions and see what the data looks like.
+Background task `bld19ju6y` completed. The command waited for the Ollama server to start (checking for errors or the "Serving Ollama" line), then printed vm_stat memory usage. Exit code 0.
