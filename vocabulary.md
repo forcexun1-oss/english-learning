@@ -7487,3 +7487,4 @@
 - 2026-07-17 11:18 — Use 'still running' instead of 'still there' — it's more precise when describing a process.
 - 2026-07-17 11:19 — “该合并合并” is a colloquial way of saying 'merge what should be merged'; in English, use 'merge the code that needs to be merged' or 'merge as needed'.
 - 2026-07-17 11:37 — "和进去" is likely a typo for "合进去" (merge in). '和' means 'and', while '合' means 'combine/merge'.
+- 2026-07-17 11:39 — In Chinese, '那' often translates to 'those' for specific items. So 'those 5 remote commits' is more natural than 'the 5 remote commits' here.
