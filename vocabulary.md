@@ -7508,3 +7508,4 @@
 - 2026-07-17 15:19 — Use 'thoroughly' (adv.) to mean 'completely and carefully'. Also capitalize proper nouns like 'Mermaid' and 'Sonnet'.
 - 2026-07-17 15:28 — Use 'finished' instead of 'finish' after 'has' (present perfect).
 - 2026-07-17 15:33 — Use 'timed out' as a verb phrase for timeout events.
+- 2026-07-17 16:50 — Use 'modifications for this project' instead of '做这个项目做过的改造' — the Chinese structure '做...做过的' is redundant in English.
