@@ -7493,3 +7493,4 @@
 - 2026-07-17 11:52 — "收尾" is often translated as "wrap up" in English, meaning to finish or conclude.
 - 2026-07-17 11:53 — 'sever' is a typo; the correct word is 'server'.
 - 2026-07-17 12:30 — Use 'scrollbar' instead of '下拉条' in technical contexts.
+- 2026-07-17 13:25 — In Chinese, '老' can mean 'always' or 'keeps' in informal contexts. In English, use 'always' or 'keeps' to convey the same meaning.

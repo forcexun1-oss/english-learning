@@ -1,1 +1,1 @@
-The scrollbar solution for the agent is too poor — it still jumps, and when generating, you can't scroll. After changing to scroll, it follows to the bottom. When you scroll to the bottom, it should automatically show the latest.
+How are the search queries in the agent's web_search generated? Are they model-generated? Why does it always treat today as 2025?
