@@ -1,1 +1,1 @@
-Now, are the experts all loaded into memory? For MLX, try without loading everything into memory — I want to see what the speed is like.
+Is the expert now fully loaded into memory? Try with MLX without loading everything into memory. I want to see what the speed is like.

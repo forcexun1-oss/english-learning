@@ -7512,3 +7512,4 @@
 - 2026-07-17 16:52 — Use 'As I said' or 'I already told you' to express the emphatic tone of '我不是说了吗' in English.
 - 2026-07-17 16:56 — Use 'have done' for completed actions, but 'has already done' emphasizes it's already finished. 'Referencing' is clearer than '参考了个啥' in English.
 - 2026-07-17 17:09 — Use 'try without loading' instead of 'try not to load' to express a test where loading is omitted.
+- 2026-07-17 17:10 — ‘全进内存’ is informal; use ‘fully loaded into memory’ or ‘load everything into memory’ for clarity.
