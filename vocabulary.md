@@ -7504,3 +7504,4 @@
 - 2026-07-17 14:19 — In English, avoid repeating '的' as in Chinese. Use possessive 'of' or just a compound noun like 'mac-assistant agent'.
 - 2026-07-17 14:30 — Use 'the' before specific model names (e.g., 'the Sonnet model').
 - 2026-07-17 14:59 — In English, we don't use '有' before verbs to indicate past action; use present perfect or simple past tense instead.
+- 2026-07-17 15:10 — Use 'scrolled to the bottom' instead of '拉到最底下' (pulled to the bottom). Also, 'panel turns white' is more natural than '面板就白了'.

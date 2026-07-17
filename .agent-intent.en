@@ -1,1 +1,1 @@
-Check it out, I have executed some commands.
+Check the agent's scrollbar behavior. When the system generates new content, it should show the latest automatically. But if the user manually scrolls, the auto-scroll should stop. When scrolled to the bottom, it should resume showing the latest. I don't want the scrollbar to keep jumping. Also, after multiple rounds, the panel sometimes turns white after input. Can you check if this is a component issue? Is there an existing component I can use without having to modify it from scratch?
