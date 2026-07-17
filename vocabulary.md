@@ -7484,3 +7484,4 @@
 - 2026-07-17 10:55 — '重复的' can mean 'duplicated' or 'repeated'; here it suggests the same memory content reappears.
 - 2026-07-17 10:57 — Use 'then' to sequence actions: 'first ... then ...'.
 - 2026-07-17 11:17 — “停不下了” is naturally expressed as "can't stop" or "keeps going forever." For an AI stuck in a loop, "it won't stop reasoning" is also idiomatic.
+- 2026-07-17 11:18 — Use 'still running' instead of 'still there' — it's more precise when describing a process.
