@@ -7494,3 +7494,4 @@
 - 2026-07-17 11:53 — 'sever' is a typo; the correct word is 'server'.
 - 2026-07-17 12:30 — Use 'scrollbar' instead of '下拉条' in technical contexts.
 - 2026-07-17 13:25 — In Chinese, '老' can mean 'always' or 'keeps' in informal contexts. In English, use 'always' or 'keeps' to convey the same meaning.
+- 2026-07-17 13:30 — "看看" translates to "check" or "take a look at". In this context, "check" is more natural and concise.
