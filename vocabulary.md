@@ -7480,3 +7480,4 @@
 - 2026-07-17 09:48 — In English, we often say 'try a long test' or 'run a long test' instead of directly translating 长的测试一下. The word 'long' here refers to the duration or length of the test.
 - 2026-07-17 10:05 — "改坏" is colloquial — use "mess up" or "break" rather than the literal "change badly".
 - 2026-07-17 10:06 — "没关系" in this context means "it doesn't matter" or "not important." Use "rough idea" instead of "大概结果" to sound more natural.
+- 2026-07-17 10:52 — 死循环 (sǐ xúnhuán) is commonly translated as 'infinite loop' in programming.
