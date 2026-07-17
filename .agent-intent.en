@@ -1,1 +1,1 @@
-Look into the current multi-turn conversation of the mac-assistant agent. The KV cache appears not to be working. Analyze why and how to fix it.
+Ask the subagent to implement it using the Sonnet model.
