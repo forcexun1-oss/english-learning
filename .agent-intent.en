@@ -1,1 +1,1 @@
-I have an RTX 4060 Ti with 8GB VRAM. I also want to run 35b-a3b, and I've done the modifications for this project. Which inference engine should I choose?
+As I said, we need to do code modifications. Which inference engine would give the best performance when modified?
