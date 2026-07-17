@@ -1,1 +1,1 @@
-This project has already done the MoE transformation for models larger than memory — that's why I'm asking here. What are you referencing? Ignoring all other factors, purely from a performance standpoint, which inference engine should I use for the transformation?
+Now, are the experts all loaded into memory? For MLX, try without loading everything into memory — I want to see what the speed is like.
