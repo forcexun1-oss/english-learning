@@ -7501,3 +7501,4 @@
 - 2026-07-17 13:51 — Use 'in an infinite loop' (not 'infinite loops') to describe a single continuous problem. 'While thinking' is natural here.
 - 2026-07-17 13:56 — In Chinese, '吧' softens a request. In English, adding 'please' or using a question form like 'Could you fix it?' achieves a similar tone.
 - 2026-07-17 13:58 — Use the active verb 'was killed' instead of 'was stopped' for clarity in technical contexts.
+- 2026-07-17 14:19 — In English, avoid repeating '的' as in Chinese. Use possessive 'of' or just a compound noun like 'mac-assistant agent'.
