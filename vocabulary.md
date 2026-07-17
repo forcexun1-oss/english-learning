@@ -7499,3 +7499,4 @@
 - 2026-07-17 13:37 — Note: '出入' is likely a typo for '输入' (input).
 - 2026-07-17 13:45 — "顺手" means "while you're at it" or "as a convenience". Use "while you're at it" for a casual request to do something extra.
 - 2026-07-17 13:51 — Use 'in an infinite loop' (not 'infinite loops') to describe a single continuous problem. 'While thinking' is natural here.
+- 2026-07-17 13:56 — In Chinese, '吧' softens a request. In English, adding 'please' or using a question form like 'Could you fix it?' achieves a similar tone.
