@@ -7486,3 +7486,4 @@
 - 2026-07-17 11:17 — “停不下了” is naturally expressed as "can't stop" or "keeps going forever." For an AI stuck in a loop, "it won't stop reasoning" is also idiomatic.
 - 2026-07-17 11:18 — Use 'still running' instead of 'still there' — it's more precise when describing a process.
 - 2026-07-17 11:19 — “该合并合并” is a colloquial way of saying 'merge what should be merged'; in English, use 'merge the code that needs to be merged' or 'merge as needed'.
+- 2026-07-17 11:37 — "和进去" is likely a typo for "合进去" (merge in). '和' means 'and', while '合' means 'combine/merge'.
