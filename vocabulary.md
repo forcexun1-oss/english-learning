@@ -7475,3 +7475,4 @@
 - 2026-07-17 09:09 — Use 'How does... work?' to ask about a mechanism. '滚动折叠' is a technical term; keep it as 'rolling fold' if that's the agreed term in your context.
 - 2026-07-17 09:20 — '看看' is a reduplication of the verb '看' to soften the tone, similar to 'have a look' in English.
 - 2026-07-17 09:25 — Use active voice and remove unnecessary markup — a plain status summary is more readable.
+- 2026-07-17 09:36 — "全量内存" means "full memory" or "all memory". In English, you can say "full memory" or "the entire memory".

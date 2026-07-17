@@ -1,1 +1,1 @@
-Background task `bld19ju6y` completed. The command waited for the Ollama server to start (checking for errors or the "Serving Ollama" line), then printed vm_stat memory usage. Exit code 0.
+Is it using the full memory?
