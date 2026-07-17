@@ -7507,3 +7507,4 @@
 - 2026-07-17 15:10 — Use 'scrolled to the bottom' instead of '拉到最底下' (pulled to the bottom). Also, 'panel turns white' is more natural than '面板就白了'.
 - 2026-07-17 15:19 — Use 'thoroughly' (adv.) to mean 'completely and carefully'. Also capitalize proper nouns like 'Mermaid' and 'Sonnet'.
 - 2026-07-17 15:28 — Use 'finished' instead of 'finish' after 'has' (present perfect).
+- 2026-07-17 15:33 — Use 'timed out' as a verb phrase for timeout events.

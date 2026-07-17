@@ -1,1 +1,1 @@
-The subagent has finished implementing the Mermaid render support and panel fixes. The result is quite detailed — it covers all the file changes, the vendored mermaid.min.js, how the WebView integration works, and the scroll-anchor behavior. Let me know if you want a summary or if anything needs adjustment.
+The Pi agent's tool call timed out or failed. Why can't the model handle it, instead of just failing directly?
