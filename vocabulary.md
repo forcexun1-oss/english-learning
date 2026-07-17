@@ -7496,3 +7496,4 @@
 - 2026-07-17 13:25 — In Chinese, '老' can mean 'always' or 'keeps' in informal contexts. In English, use 'always' or 'keeps' to convey the same meaning.
 - 2026-07-17 13:30 — "看看" translates to "check" or "take a look at". In this context, "check" is more natural and concise.
 - 2026-07-17 13:30 — Use 'in the prompt' instead of 'inside the prompt' for natural phrasing. '提示词' is typically translated as 'prompt' in this context.
+- 2026-07-17 13:37 — Note: '出入' is likely a typo for '输入' (input).
