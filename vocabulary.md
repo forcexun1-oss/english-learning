@@ -7514,3 +7514,4 @@
 - 2026-07-17 17:09 — Use 'try without loading' instead of 'try not to load' to express a test where loading is omitted.
 - 2026-07-17 17:10 — ‘全进内存’ is informal; use ‘fully loaded into memory’ or ‘load everything into memory’ for clarity.
 - 2026-07-17 17:19 — Use 'mmap' as a verb: 'mmap''d' or 'memory-mapped'.
+- 2026-07-17 17:22 — "裸 CLI" = "bare CLI" — meaning using the command line directly without any extra tools or wrappers.

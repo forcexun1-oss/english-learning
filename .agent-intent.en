@@ -1,1 +1,1 @@
-How is streaming measured? Is the model actually already mmap'd to memory?
+Try a comparison with bare CLI.
