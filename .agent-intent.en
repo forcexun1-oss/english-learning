@@ -1,1 +1,1 @@
-I want it to support Mermaid rendering, so handle it thoroughly, and ask a subagent to implement it using the Sonnet model.
+The subagent has finished implementing the Mermaid render support and panel fixes. The result is quite detailed — it covers all the file changes, the vendored mermaid.min.js, how the WebView integration works, and the scroll-anchor behavior. Let me know if you want a summary or if anything needs adjustment.
