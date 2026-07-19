@@ -7516,3 +7516,4 @@
 - 2026-07-17 17:19 — Use 'mmap' as a verb: 'mmap''d' or 'memory-mapped'.
 - 2026-07-17 17:22 — "裸 CLI" = "bare CLI" — meaning using the command line directly without any extra tools or wrappers.
 - 2026-07-19 22:24 — Use 'make' or 'have' instead of 'let' for direct commands. 'Let' suggests permission, not instruction.
+- 2026-07-19 23:47 — Use 'with a' to specify the hardware configuration, e.g., 'a laptop with a GTX 1650Ti'.
