@@ -7519,3 +7519,4 @@
 - 2026-07-19 23:47 — Use 'with a' to specify the hardware configuration, e.g., 'a laptop with a GTX 1650Ti'.
 - 2026-07-20 08:46 — Use 'append' to mean 'add to the end of a file' – it's more precise than 'add' in this context.
 - 2026-07-20 17:48 — Use 'VRAM' for 显存. '在机器上测试' can be 'test on the machine' or 'run the test on the machine'.
+- 2026-07-20 17:49 — "4G显存" should be "4GB VRAM" (or "4GB of VRAM") in English. Use "GB" instead of "G" and specify "VRAM" for graphics memory.
