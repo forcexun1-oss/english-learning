@@ -7522,3 +7522,4 @@
 - 2026-07-20 17:49 — "4G显存" should be "4GB VRAM" (or "4GB of VRAM") in English. Use "GB" instead of "G" and specify "VRAM" for graphics memory.
 - 2026-07-20 19:48 — "内存" = RAM, "显存" = VRAM (video memory). Use 'or' to ask for clarification between two options.
 - 2026-07-20 19:48 — "三级缓存" is commonly translated as "L3 cache" (for Level 3 cache) or "three-level cache" in technical contexts.
+- 2026-07-20 19:57 — "coda" should be "code" (spelling error).
