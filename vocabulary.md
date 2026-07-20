@@ -7517,3 +7517,4 @@
 - 2026-07-17 17:22 — "裸 CLI" = "bare CLI" — meaning using the command line directly without any extra tools or wrappers.
 - 2026-07-19 22:24 — Use 'make' or 'have' instead of 'let' for direct commands. 'Let' suggests permission, not instruction.
 - 2026-07-19 23:47 — Use 'with a' to specify the hardware configuration, e.g., 'a laptop with a GTX 1650Ti'.
+- 2026-07-20 08:46 — Use 'append' to mean 'add to the end of a file' – it's more precise than 'add' in this context.
