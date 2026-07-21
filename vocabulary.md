@@ -7523,3 +7523,4 @@
 - 2026-07-20 19:48 — "内存" = RAM, "显存" = VRAM (video memory). Use 'or' to ask for clarification between two options.
 - 2026-07-20 19:48 — "三级缓存" is commonly translated as "L3 cache" (for Level 3 cache) or "three-level cache" in technical contexts.
 - 2026-07-20 19:57 — "coda" should be "code" (spelling error).
+- 2026-07-21 10:40 — Use a question mark or 'and' to separate two questions for clarity.
