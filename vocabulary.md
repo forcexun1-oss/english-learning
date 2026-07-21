@@ -7524,3 +7524,4 @@
 - 2026-07-20 19:48 — "三级缓存" is commonly translated as "L3 cache" (for Level 3 cache) or "three-level cache" in technical contexts.
 - 2026-07-20 19:57 — "coda" should be "code" (spelling error).
 - 2026-07-21 10:40 — Use a question mark or 'and' to separate two questions for clarity.
+- 2026-07-21 10:47 — Use 'onto' instead of 'on' when copying files to a device, and make sure the pronoun ('them') agrees with the plural 'these'.
