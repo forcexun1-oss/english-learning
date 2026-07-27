@@ -7553,3 +7553,4 @@
 - 2026-07-27 17:49 — Use 'debug logging' (uncountable) or 'debug logs' (countable plural) — both are fine. 'Appendix' is capitalized as a section name.
 - 2026-07-27 20:57 — When listing multiple actions (compile, install, execute), use commas and add 'and' before the last item for natural parallel structure.
 - 2026-07-27 21:16 — Use 'check the local codex with ...' instead of '看看本机的codex' — 'with' is needed before the command flag.
+- 2026-07-27 21:37 — Use 'connect them with' instead of 'connect together with' — 'together' is redundant here.
