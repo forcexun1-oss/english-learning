@@ -7533,3 +7533,4 @@
 - 2026-07-27 13:46 — Use 'no longer' or 'not... anymore' to express '没有...了' (a change of state). '看看' here is better translated as 'The agent...' rather than 'Look...'.
 - 2026-07-27 14:00 — Use past tense 'did ... crash' for a past event, not '崩溃了' (present perfect).
 - 2026-07-27 14:03 — Use 'allow it to run' instead of 'can run' to match the passive design intent. Also, 'memory is less than the model size' is more natural than '内存小于模型' without 'size'.
+- 2026-07-27 14:05 — "把" is likely a typo for "吧" (ba) which softens the statement. In English, you can just state the fact directly.
