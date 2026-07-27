@@ -1,1 +1,1 @@
-Revise everything to address the root cause, and have the subagent use the Sonnet model for modifications.
+Add it back, still using the sonnet sub-agent.
