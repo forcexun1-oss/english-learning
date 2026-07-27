@@ -1,1 +1,1 @@
-["当前mac-assistant在启动这个服务的时候,设置有问题吗, 为什么当内存不够的时候就跑不了呢,应该可以才对的啊,不够就从硬盘加载嘛, 不要全加载到内存", "都按治本的方向改掉, 让subagent用sonnet模型来修改", "补上，还是用 sonnet 子代理", "现在重启?", "改，然后起 bridge 验证", "API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 用了很长一段时间杀掉了, 看看为什么"]
+["当前mac-assistant在启动这个服务的时候,设置有问题吗, 为什么当内存不够的时候就跑不了呢,应该可以才对的啊,不够就从硬盘加载嘛, 不要全加载到内存", "都按治本的方向改掉, 让subagent用sonnet模型来修改", "补上，还是用 sonnet 子代理", "现在重启?", "改，然后起 bridge 验证", "API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 用了很长一段时间杀掉了, 看看为什么", "改，还是 sonnet 子代理"]

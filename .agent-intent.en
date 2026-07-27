@@ -1,1 +1,1 @@
-API error: SSE error: unexpected EOF reading chunk size (transient connection drop). It was killed after running for a long time. Check why.
+Change it, still use the sonnet subagent.
