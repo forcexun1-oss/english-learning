@@ -1,1 +1,1 @@
-Could you prepare all the relevant scripts and models, put them into a single folder, so I can run the script to compile, install, and execute the entire pipeline, and write the results to a file?
+Also add the Windows version of codex. Download it, write a script to directly install and configure it, then check the local codex with --profile chatgpt.
