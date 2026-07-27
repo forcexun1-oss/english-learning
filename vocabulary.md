@@ -7528,3 +7528,4 @@
 - 2026-07-21 10:58 — Use 'Docker' without 'the' when referring to the platform.
 - 2026-07-27 10:25 — "代码" is uncountable; use "uncommitted changes" or "uncommitted code" instead of "codes".
 - 2026-07-27 13:38 — Use 'run' instead of 'be run' for active capability; 'the most advanced Qwen model' is a natural noun phrase.
+- 2026-07-27 13:39 — In tech contexts, '跑' translates to 'run' (e.g., run a model on a device).
