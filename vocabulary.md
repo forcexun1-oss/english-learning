@@ -7546,3 +7546,4 @@
 - 2026-07-27 16:28 — "杀掉了" in a computing context is translated as "was killed" or "got killed", not "killed" actively.
 - 2026-07-27 16:30 — 子代理 is commonly translated as 'subagent' (compound word, no hyphen). Use 'still use' for imperative tone.
 - 2026-07-27 17:20 — "还是" here means 'still' or 'again' indicating repetition of the same approach.
+- 2026-07-27 17:28 — Use 'consecutive polls' instead of 'consecutive-poll count' — it's more natural.

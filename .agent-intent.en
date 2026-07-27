@@ -1,1 +1,1 @@
-Fix it, still using the Sonnet sub-agent.
+Task completed. The `avail_floor` gate now has a sustain requirement (3 consecutive polls) before killing, and the counters are independent of other gates. Tests pass (26/26). You can verify with `bash tests/test_serve_watchdog.sh` or start the bridge to test live.
