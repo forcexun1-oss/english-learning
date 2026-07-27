@@ -7547,3 +7547,4 @@
 - 2026-07-27 16:30 — 子代理 is commonly translated as 'subagent' (compound word, no hyphen). Use 'still use' for imperative tone.
 - 2026-07-27 17:20 — "还是" here means 'still' or 'again' indicating repetition of the same approach.
 - 2026-07-27 17:28 — Use 'consecutive polls' instead of 'consecutive-poll count' — it's more natural.
+- 2026-07-27 17:29 — "起" here means "start" (启动). Use "start" or "launch" for initiating a service.
