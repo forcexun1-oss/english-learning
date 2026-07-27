@@ -7542,3 +7542,4 @@
 - 2026-07-27 15:00 — "起" is colloquial for "start/launch" in this context; use "start" or "launch" in English.
 - 2026-07-27 15:22 — Use 'goes white' (adjective) instead of 'white screen' (noun) to describe the state change naturally.
 - 2026-07-27 16:11 — Use 'restarted' (past tense) for '重启了'. '还是不行' translates to 'still doesn't work' or 'still not working'.
+- 2026-07-27 16:22 — Use 'before finally' to express the sequence: 'jumps before finally displaying' is more natural than 'jump then finally display'.
