@@ -7539,3 +7539,4 @@
 - 2026-07-27 14:37 — "治本" translates to "root cause" or "fundamental solution" — in software contexts, "address the root cause" is common.
 - 2026-07-27 14:48 — '补上' means 'fill in the missing part' or 'add it back' in a coding context.
 - 2026-07-27 14:59 — In English, questions often start with a verb or auxiliary. 'Restart now?' is natural for a short question, but you could also say 'Should I restart now?' for clarity.
+- 2026-07-27 15:00 — "起" is colloquial for "start/launch" in this context; use "start" or "launch" in English.
