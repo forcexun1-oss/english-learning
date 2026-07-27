@@ -7550,3 +7550,4 @@
 - 2026-07-27 17:29 — "起" here means "start" (启动). Use "start" or "launch" for initiating a service.
 - 2026-07-27 17:35 — Use 'Go ahead and make the changes' instead of just 'Go ahead and change' to sound more natural for a command.
 - 2026-07-27 17:40 — '改完' means 'finished' or 'done' in this context.
+- 2026-07-27 17:49 — Use 'debug logging' (uncountable) or 'debug logs' (countable plural) — both are fine. 'Appendix' is capitalized as a section name.
