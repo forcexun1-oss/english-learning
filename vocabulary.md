@@ -7543,3 +7543,4 @@
 - 2026-07-27 15:22 — Use 'goes white' (adjective) instead of 'white screen' (noun) to describe the state change naturally.
 - 2026-07-27 16:11 — Use 'restarted' (past tense) for '重启了'. '还是不行' translates to 'still doesn't work' or 'still not working'.
 - 2026-07-27 16:22 — Use 'before finally' to express the sequence: 'jumps before finally displaying' is more natural than 'jump then finally display'.
+- 2026-07-27 16:28 — "杀掉了" in a computing context is translated as "was killed" or "got killed", not "killed" actively.
