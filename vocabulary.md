@@ -7545,3 +7545,4 @@
 - 2026-07-27 16:22 — Use 'before finally' to express the sequence: 'jumps before finally displaying' is more natural than 'jump then finally display'.
 - 2026-07-27 16:28 — "杀掉了" in a computing context is translated as "was killed" or "got killed", not "killed" actively.
 - 2026-07-27 16:30 — 子代理 is commonly translated as 'subagent' (compound word, no hyphen). Use 'still use' for imperative tone.
+- 2026-07-27 17:20 — "还是" here means 'still' or 'again' indicating repetition of the same approach.
