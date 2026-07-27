@@ -1,1 +1,1 @@
-When mac-assistant starts this service, is there something wrong with the settings? Why can't it run when memory is insufficient? It should be able to, right? If memory is low, just load from disk — don't load everything into memory.
+Revise everything to address the root cause, and have the subagent use the Sonnet model for modifications.

@@ -7536,3 +7536,4 @@
 - 2026-07-27 14:05 — "把" is likely a typo for "吧" (ba) which softens the statement. In English, you can just state the fact directly.
 - 2026-07-27 14:20 — Use 'occurring' instead of 'happening' for a more precise technical tone.
 - 2026-07-27 14:30 — Use 'should be able to' instead of 'should can' — 'can' is already a modal verb, so it doesn't combine with 'should' directly.
+- 2026-07-27 14:37 — "治本" translates to "root cause" or "fundamental solution" — in software contexts, "address the root cause" is common.
