@@ -7527,3 +7527,4 @@
 - 2026-07-21 10:47 — Use 'onto' instead of 'on' when copying files to a device, and make sure the pronoun ('them') agrees with the plural 'these'.
 - 2026-07-21 10:58 — Use 'Docker' without 'the' when referring to the platform.
 - 2026-07-27 10:25 — "代码" is uncountable; use "uncommitted changes" or "uncommitted code" instead of "codes".
+- 2026-07-27 13:38 — Use 'run' instead of 'be run' for active capability; 'the most advanced Qwen model' is a natural noun phrase.
