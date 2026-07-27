@@ -7532,3 +7532,4 @@
 - 2026-07-27 13:41 — "最多到那个模型" can be translated as "the most advanced model" or "the maximum model (version)" — use "most advanced" for capability, "maximum" for version number.
 - 2026-07-27 13:46 — Use 'no longer' or 'not... anymore' to express '没有...了' (a change of state). '看看' here is better translated as 'The agent...' rather than 'Look...'.
 - 2026-07-27 14:00 — Use past tense 'did ... crash' for a past event, not '崩溃了' (present perfect).
+- 2026-07-27 14:03 — Use 'allow it to run' instead of 'can run' to match the passive design intent. Also, 'memory is less than the model size' is more natural than '内存小于模型' without 'size'.

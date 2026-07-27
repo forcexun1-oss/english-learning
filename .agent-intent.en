@@ -1,1 +1,1 @@
-Why did the llm server crash?
+Doesn't the current design of LLM startup allow it to run even when the memory is less than the model size?
