@@ -7592,3 +7592,4 @@
 - 2026-07-28 19:29 — "腾出内存" is better translated as "free up memory" rather than "vacate memory".
 - 2026-07-28 19:35 — 日常用 is more naturally expressed as 'used daily' (adverb) or 'for everyday use' (adjective phrase). Here 'not used daily' is clearer.
 - 2026-07-28 19:37 — '拷贝' translates to 'copy', and '移动硬盘' is commonly 'external hard drive'.
+- 2026-07-28 19:51 — Use 'not currently needed' instead of '暂时不用的' for clarity. 'Also' can be replaced with 'as well' at the end of the sentence.
