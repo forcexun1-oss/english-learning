@@ -7586,3 +7586,4 @@
 - 2026-07-28 16:52 — Use 'commit' instead of 'submit' for version control actions.
 - 2026-07-28 17:17 — Use 'doesn't match expectations' instead of 'doesn't conform to the expected' to sound more natural. Also, 'the structure Hermes expects' is clearer than 'his required structure'.
 - 2026-07-28 17:27 — '吧' is a particle suggesting a suggestion or command; '都' means 'all'.
+- 2026-07-28 18:58 — Use 'copy ... to ...' for transferring files. 'Portable hard drive' is more natural than 'mobile hard disk'.
