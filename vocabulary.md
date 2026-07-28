@@ -7575,3 +7575,4 @@
 - 2026-07-28 11:00 — Use 'WSL' (all caps) instead of 'wsl' as it's an acronym for Windows Subsystem for Linux.
 - 2026-07-28 11:03 — Use 'Isn't' instead of 'Is not' to sound more natural in a question. Also, specify 'login password' for clarity.
 - 2026-07-28 11:09 — Use 'or' in a negative sentence to mean 'neither...nor' (both are not the case).
+- 2026-07-28 14:23 — Use 'doesn't seem to be hit' to express uncertainty about the cache miss.

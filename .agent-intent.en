@@ -1,1 +1,1 @@
-Doesn't this project use streaming or support Intel GPUs?
+Check why the kv cache doesn't seem to be hit on the first request of mac-assistant.
