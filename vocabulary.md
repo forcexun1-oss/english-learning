@@ -7557,3 +7557,4 @@
 - 2026-07-28 08:52 — '起' is a colloquial way to say 'start' or 'launch'.
 - 2026-07-28 09:11 — Use present perfect ('Has changed') to ask about a change that has happened.
 - 2026-07-28 09:17 — Use 'extract' or 'unzip' for '解压' (decompressing archives). 'Extract' is more general.
+- 2026-07-28 09:18 — Keep acronyms like 'WSL' unchanged; for '是什么', use 'What is' instead of 'what is what'.
