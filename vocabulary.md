@@ -7574,3 +7574,4 @@
 - 2026-07-28 10:55 — Use 'set up an HTTP download' or 'make it available via HTTP' instead of '开个http下载'.
 - 2026-07-28 11:00 — Use 'WSL' (all caps) instead of 'wsl' as it's an acronym for Windows Subsystem for Linux.
 - 2026-07-28 11:03 — Use 'Isn't' instead of 'Is not' to sound more natural in a question. Also, specify 'login password' for clarity.
+- 2026-07-28 11:09 — Use 'or' in a negative sentence to mean 'neither...nor' (both are not the case).
