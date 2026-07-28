@@ -7569,3 +7569,4 @@
 - 2026-07-28 10:13 — '先' translates to 'first' when indicating sequence, typically placed after the verb or at the end of the sentence.
 - 2026-07-28 10:15 — The phrase '放大' should be '放到' (put into) or '合并' (combine). '放大' means 'enlarge'.
 - 2026-07-28 10:18 — Use 'Delete it first' instead of 'First delete it' for more natural word order. Also, the rhetorical question '不都...了吗' is best expressed as 'Weren't...already?' in English.
+- 2026-07-28 10:42 — 显存 = VRAM; 集成显卡 = integrated graphics.
