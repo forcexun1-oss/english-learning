@@ -7580,3 +7580,4 @@
 - 2026-07-28 15:31 — Use 'as soon as' for the '一...就...' structure (as soon as I input, it becomes...).
 - 2026-07-28 15:44 — In English, '吐着吐着' is colloquial; use 'as the text is being generated' or 'while typing' for clarity.
 - 2026-07-28 15:47 — Use 'to' or 'for' after 'add' to indicate the target: 'add a shortcut key to/for the clear button'.
+- 2026-07-28 15:49 — Use 'also' for '同时' in questions like this, rather than 'at the same time'.
