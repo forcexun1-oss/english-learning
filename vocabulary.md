@@ -7560,3 +7560,4 @@
 - 2026-07-28 09:18 — Keep acronyms like 'WSL' unchanged; for '是什么', use 'What is' instead of 'what is what'.
 - 2026-07-28 09:19 — "直接Windows不行吗" 可用 "Can't we just use Windows directly?" 表达，"just" 表示“直接”或“干脆”。
 - 2026-07-28 09:21 — Use 'do I need to' to express a polite confirmation question. '先装' translates to 'install first' — note the adverb placement in English.
+- 2026-07-28 09:26 — The Chinese '搞麻烦了' is informal; in English, use 'This is getting complicated' or 'I've made a mess of things.'
