@@ -7565,3 +7565,4 @@
 - 2026-07-28 09:36 — In English questions, the verb 'is' comes before the subject. 'IP现在是什么' becomes 'What is the IP now?'
 - 2026-07-28 10:00 — Remember to capitalize 'Windows' (proper noun). Also, 'curl' is a command name, so no article needed.
 - 2026-07-28 10:04 — In Chinese, '呢' at the end of a question softens it and can mean 'how about...'. In English, we can use 'How about...' or 'What about...' for a similar effect.
+- 2026-07-28 10:06 — '用户目录' is best translated as 'user's home directory' or simply 'home directory'.
