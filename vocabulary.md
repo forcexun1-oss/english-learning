@@ -7563,3 +7563,4 @@
 - 2026-07-28 09:26 — The Chinese '搞麻烦了' is informal; in English, use 'This is getting complicated' or 'I've made a mess of things.'
 - 2026-07-28 09:27 — The phrase '不是...吗' is a rhetorical question in Chinese, often translated as 'Isn't it...?' or 'Can't we...?' in English. Here it implies 'Can't we just modify the code?'.
 - 2026-07-28 09:36 — In English questions, the verb 'is' comes before the subject. 'IP现在是什么' becomes 'What is the IP now?'
+- 2026-07-28 10:00 — Remember to capitalize 'Windows' (proper noun). Also, 'curl' is a command name, so no article needed.
