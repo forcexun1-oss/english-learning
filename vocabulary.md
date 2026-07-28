@@ -7576,3 +7576,4 @@
 - 2026-07-28 11:03 — Use 'Isn't' instead of 'Is not' to sound more natural in a question. Also, specify 'login password' for clarity.
 - 2026-07-28 11:09 — Use 'or' in a negative sentence to mean 'neither...nor' (both are not the case).
 - 2026-07-28 14:23 — Use 'doesn't seem to be hit' to express uncertainty about the cache miss.
+- 2026-07-28 15:18 — The Chinese particle '吧' softens a command into a suggestion. In English, you can use 'go ahead and' or 'just' to convey a similar casual tone.
