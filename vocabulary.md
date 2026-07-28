@@ -7596,3 +7596,4 @@
 - 2026-07-28 20:20 — Use 'run' instead of 'execute' for commands; it's more natural in this context.
 - 2026-07-28 20:21 — Use 'restart' or 'reboot' for '重启'; 'says' is fine for '提示' in casual English.
 - 2026-07-28 20:28 — Use 'eject' for removable drives, not 'pop out'.
+- 2026-07-28 20:35 — Use "How do I" instead of "怎么" for a complete sentence.
