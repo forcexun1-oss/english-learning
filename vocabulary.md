@@ -7558,3 +7558,4 @@
 - 2026-07-28 09:11 — Use present perfect ('Has changed') to ask about a change that has happened.
 - 2026-07-28 09:17 — Use 'extract' or 'unzip' for '解压' (decompressing archives). 'Extract' is more general.
 - 2026-07-28 09:18 — Keep acronyms like 'WSL' unchanged; for '是什么', use 'What is' instead of 'what is what'.
+- 2026-07-28 09:19 — "直接Windows不行吗" 可用 "Can't we just use Windows directly?" 表达，"just" 表示“直接”或“干脆”。
