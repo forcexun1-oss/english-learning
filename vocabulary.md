@@ -7571,3 +7571,4 @@
 - 2026-07-28 10:18 — Use 'Delete it first' instead of 'First delete it' for more natural word order. Also, the rhetorical question '不都...了吗' is best expressed as 'Weren't...already?' in English.
 - 2026-07-28 10:42 — 显存 = VRAM; 集成显卡 = integrated graphics.
 - 2026-07-28 10:46 — Use 'a different computer' instead of 'another computer' to avoid ambiguity when specifying it's not the same machine.
+- 2026-07-28 10:55 — Use 'set up an HTTP download' or 'make it available via HTTP' instead of '开个http下载'.
