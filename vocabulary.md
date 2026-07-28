@@ -7572,3 +7572,4 @@
 - 2026-07-28 10:42 — 显存 = VRAM; 集成显卡 = integrated graphics.
 - 2026-07-28 10:46 — Use 'a different computer' instead of 'another computer' to avoid ambiguity when specifying it's not the same machine.
 - 2026-07-28 10:55 — Use 'set up an HTTP download' or 'make it available via HTTP' instead of '开个http下载'.
+- 2026-07-28 11:00 — Use 'WSL' (all caps) instead of 'wsl' as it's an acronym for Windows Subsystem for Linux.
