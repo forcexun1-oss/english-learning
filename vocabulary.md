@@ -7590,3 +7590,4 @@
 - 2026-07-28 19:01 — Use 'after modifying' instead of 'after modified' for correct participle usage.
 - 2026-07-28 19:25 — 什么情况 is literally 'what situation', but in English 'What's going on?' is more natural. 'Current situation' is a bit formal but also clear.
 - 2026-07-28 19:29 — "腾出内存" is better translated as "free up memory" rather than "vacate memory".
+- 2026-07-28 19:35 — 日常用 is more naturally expressed as 'used daily' (adverb) or 'for everyday use' (adjective phrase). Here 'not used daily' is clearer.
