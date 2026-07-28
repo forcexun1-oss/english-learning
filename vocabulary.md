@@ -7595,3 +7595,4 @@
 - 2026-07-28 19:51 — Use 'not currently needed' instead of '暂时不用的' for clarity. 'Also' can be replaced with 'as well' at the end of the sentence.
 - 2026-07-28 20:20 — Use 'run' instead of 'execute' for commands; it's more natural in this context.
 - 2026-07-28 20:21 — Use 'restart' or 'reboot' for '重启'; 'says' is fine for '提示' in casual English.
+- 2026-07-28 20:28 — Use 'eject' for removable drives, not 'pop out'.
