@@ -7581,3 +7581,4 @@
 - 2026-07-28 15:44 — In English, '吐着吐着' is colloquial; use 'as the text is being generated' or 'while typing' for clarity.
 - 2026-07-28 15:47 — Use 'to' or 'for' after 'add' to indicate the target: 'add a shortcut key to/for the clear button'.
 - 2026-07-28 15:49 — Use 'also' for '同时' in questions like this, rather than 'at the same time'.
+- 2026-07-28 15:55 — “槽位”直接翻译为 slot 是合适的，但也可以考虑用 field 或 parameter，取决于上下文。
