@@ -7599,3 +7599,4 @@
 - 2026-07-28 20:35 — Use "How do I" instead of "怎么" for a complete sentence.
 - 2026-07-28 21:30 — Use 'Did you break something?' instead of '你改坏什么了吗' for a natural question. Also, 'the first time after mlx starts up' is clearer than 'mlx起来之后, 首次'.
 - 2026-07-28 21:35 — "根因" is a common Chinese abbreviation for "root cause". In English, use "root cause" rather than "root reason".
+- 2026-07-28 21:46 — In git contexts, '提交' is typically translated as 'commit'.
