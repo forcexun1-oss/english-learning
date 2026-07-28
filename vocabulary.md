@@ -7579,3 +7579,4 @@
 - 2026-07-28 15:18 — The Chinese particle '吧' softens a command into a suggestion. In English, you can use 'go ahead and' or 'just' to convey a similar casual tone.
 - 2026-07-28 15:31 — Use 'as soon as' for the '一...就...' structure (as soon as I input, it becomes...).
 - 2026-07-28 15:44 — In English, '吐着吐着' is colloquial; use 'as the text is being generated' or 'while typing' for clarity.
+- 2026-07-28 15:47 — Use 'to' or 'for' after 'add' to indicate the target: 'add a shortcut key to/for the clear button'.
