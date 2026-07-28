@@ -7567,3 +7567,4 @@
 - 2026-07-28 10:04 — In Chinese, '呢' at the end of a question softens it and can mean 'how about...'. In English, we can use 'How about...' or 'What about...' for a similar effect.
 - 2026-07-28 10:06 — '用户目录' is best translated as 'user's home directory' or simply 'home directory'.
 - 2026-07-28 10:13 — '先' translates to 'first' when indicating sequence, typically placed after the verb or at the end of the sentence.
+- 2026-07-28 10:15 — The phrase '放大' should be '放到' (put into) or '合并' (combine). '放大' means 'enlarge'.
