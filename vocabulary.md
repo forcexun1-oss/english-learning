@@ -7583,3 +7583,4 @@
 - 2026-07-28 15:49 — Use 'also' for '同时' in questions like this, rather than 'at the same time'.
 - 2026-07-28 15:55 — “槽位”直接翻译为 slot 是合适的，但也可以考虑用 field 或 parameter，取决于上下文。
 - 2026-07-28 16:43 — The particle '把' at the end signals a suggestion; in English, use a direct imperative or 'Let's'.
+- 2026-07-28 16:52 — Use 'commit' instead of 'submit' for version control actions.
