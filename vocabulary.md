@@ -7578,3 +7578,4 @@
 - 2026-07-28 14:23 — Use 'doesn't seem to be hit' to express uncertainty about the cache miss.
 - 2026-07-28 15:18 — The Chinese particle '吧' softens a command into a suggestion. In English, you can use 'go ahead and' or 'just' to convey a similar casual tone.
 - 2026-07-28 15:31 — Use 'as soon as' for the '一...就...' structure (as soon as I input, it becomes...).
+- 2026-07-28 15:44 — In English, '吐着吐着' is colloquial; use 'as the text is being generated' or 'while typing' for clarity.
