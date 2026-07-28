@@ -7597,3 +7597,4 @@
 - 2026-07-28 20:21 — Use 'restart' or 'reboot' for '重启'; 'says' is fine for '提示' in casual English.
 - 2026-07-28 20:28 — Use 'eject' for removable drives, not 'pop out'.
 - 2026-07-28 20:35 — Use "How do I" instead of "怎么" for a complete sentence.
+- 2026-07-28 21:30 — Use 'Did you break something?' instead of '你改坏什么了吗' for a natural question. Also, 'the first time after mlx starts up' is clearer than 'mlx起来之后, 首次'.
