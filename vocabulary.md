@@ -7556,3 +7556,4 @@
 - 2026-07-27 21:37 — Use 'connect them with' instead of 'connect together with' — 'together' is redundant here.
 - 2026-07-28 08:52 — '起' is a colloquial way to say 'start' or 'launch'.
 - 2026-07-28 09:11 — Use present perfect ('Has changed') to ask about a change that has happened.
+- 2026-07-28 09:17 — Use 'extract' or 'unzip' for '解压' (decompressing archives). 'Extract' is more general.
