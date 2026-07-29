@@ -7651,3 +7651,4 @@
 - 2026-07-29 16:38 — Use 'want to' for 要 when expressing intention.
 - 2026-07-29 16:49 — Use 'low-cost verification' for '小成本验证'.
 - 2026-07-29 17:15 — The Chinese word '让' in commands is often translated as 'have' (e.g., 'have someone do something') rather than 'let' when giving a direct instruction.
+- 2026-07-29 18:36 — In English, the adverb 'first' usually comes at the end of a command: 'Write it first.'
