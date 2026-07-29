@@ -7616,3 +7616,4 @@
 - 2026-07-29 11:17 — In English, avoid a comma between the subject and verb. Use 'Is this solution secure?' instead of 'This solution, secure?'.
 - 2026-07-29 11:22 — "Portable hard drive" is more natural than "mobile hard disk" in English. Also, "create a solution" is preferred over "make a solution" in this context.
 - 2026-07-29 11:34 — Use 'does' to form questions in the simple present tense for third-person singular subjects.
+- 2026-07-29 13:24 — Use 'only' before the verb ('only provide') to emphasize restriction, rather than after the verb.
