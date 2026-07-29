@@ -7639,3 +7639,4 @@
 - 2026-07-29 15:56 — "落地" here means "implement" or "put into practice". "Sort out" is a natural way to say 梳理.
 - 2026-07-29 16:02 — '裁剪' can mean 'trim', 'prune', or 'crop' depending on context. In software, 'prune' is common for reducing model size or code.
 - 2026-07-29 16:03 — ‘裁剪’ means ‘trim’ or ‘cut’ here. Use ‘trim’ for removing parts of data or code.
+- 2026-07-29 16:04 — '的话' is a conditional marker meaning 'if it comes to...' or 'regarding...'. '隔离' can be used as both a verb (to isolate) and a noun (isolation).
