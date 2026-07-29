@@ -7655,3 +7655,4 @@
 - 2026-07-29 20:18 — Use 'support writing' or 'be writable' instead of 'can write' for clearer instructions.
 - 2026-07-29 21:19 — '不厅' should be '不停' (bù tíng), meaning 'non-stop' or 'continuously'. In English, use 'repeatedly' or 'over and over'.
 - 2026-07-29 23:30 — Use 'the MLX one' to refer to a previously mentioned item. '那个' can be translated as 'that one' or 'the one'.
+- 2026-07-29 23:34 — Use 'X Y' (compound noun) instead of 'X的Y' in English technical terms, e.g., 'mac-assistant agent' rather than 'mac-assistant's agent'.
