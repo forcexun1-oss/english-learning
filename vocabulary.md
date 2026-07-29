@@ -7648,3 +7648,4 @@
 - 2026-07-29 16:32 — Use 'Is the current version...' instead of a direct translation. Also, 'latest' is the standard term for software versions, not 'newest'.
 - 2026-07-29 16:34 — Use 'it' instead of 'him' for objects/tools; 'real JS' is natural here.
 - 2026-07-29 16:37 — '没太懂' uses '没 + 太 + verb' to mean 'didn't quite understand.' In English, use 'didn't quite get/understand'.
+- 2026-07-29 16:38 — Use 'want to' for 要 when expressing intention.
