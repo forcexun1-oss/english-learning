@@ -7636,3 +7636,4 @@
 - 2026-07-29 15:38 — "复刻" means "replicate" (copy features), while "移植" is "port" (move code to another language). "重新" here implies "re-implement" rather than just "rewrite".
 - 2026-07-29 15:42 — "移植" in software contexts is typically "port" (e.g., port a feature) rather than "transplant" or "move."
 - 2026-07-29 15:47 — Use 'read through' or just 'read the core implementation' for a more natural request. '给我讲讲' translates well to 'explain it to me'.
+- 2026-07-29 15:56 — "落地" here means "implement" or "put into practice". "Sort out" is a natural way to say 梳理.
