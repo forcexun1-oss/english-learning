@@ -7605,3 +7605,4 @@
 - 2026-07-29 09:22 — "generate a snapshot" is more natural than "make a snapshot" in technical contexts.
 - 2026-07-29 09:32 — '改动' translates to 'changes'. You can say 'let me see them' instead of repeating 'your changes'.
 - 2026-07-29 09:34 — Use 'entries' to clarify that 'think' refers to a specific type of log item.
+- 2026-07-29 10:00 — The Chinese particle '啊' adds emphasis or clarification, but is often omitted in natural English.
