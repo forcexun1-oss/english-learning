@@ -7602,3 +7602,4 @@
 - 2026-07-28 21:46 — In git contexts, '提交' is typically translated as 'commit'.
 - 2026-07-29 09:02 — In software development, '提交' often translates to 'commit' (as in git commit).
 - 2026-07-29 09:16 — Use 'Delete' for '删掉' in this context (removing a file). 'Remove' is also possible but 'delete' is more common for files.
+- 2026-07-29 09:22 — "generate a snapshot" is more natural than "make a snapshot" in technical contexts.
