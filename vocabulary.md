@@ -7638,3 +7638,4 @@
 - 2026-07-29 15:47 — Use 'read through' or just 'read the core implementation' for a more natural request. '给我讲讲' translates well to 'explain it to me'.
 - 2026-07-29 15:56 — "落地" here means "implement" or "put into practice". "Sort out" is a natural way to say 梳理.
 - 2026-07-29 16:02 — '裁剪' can mean 'trim', 'prune', or 'crop' depending on context. In software, 'prune' is common for reducing model size or code.
+- 2026-07-29 16:03 — ‘裁剪’ means ‘trim’ or ‘cut’ here. Use ‘trim’ for removing parts of data or code.
