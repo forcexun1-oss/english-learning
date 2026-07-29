@@ -7627,3 +7627,4 @@
 - 2026-07-29 14:32 — Use 'yourself' for emphasis when telling someone to do something personally.
 - 2026-07-29 14:40 — When asking about two alternatives, use 'Is it A or B?' instead of a direct translation of '替换还是补充'.
 - 2026-07-29 14:45 — In English, use 'how do I choose' or 'how should I choose' instead of 'how to choose' for a complete question.
+- 2026-07-29 14:51 — '采用云端的方式连接' is more naturally expressed as 'connected via the cloud' rather than a literal 'using cloud method'.
