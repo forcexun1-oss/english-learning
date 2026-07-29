@@ -7650,3 +7650,4 @@
 - 2026-07-29 16:37 — '没太懂' uses '没 + 太 + verb' to mean 'didn't quite understand.' In English, use 'didn't quite get/understand'.
 - 2026-07-29 16:38 — Use 'want to' for 要 when expressing intention.
 - 2026-07-29 16:49 — Use 'low-cost verification' for '小成本验证'.
+- 2026-07-29 17:15 — The Chinese word '让' in commands is often translated as 'have' (e.g., 'have someone do something') rather than 'let' when giving a direct instruction.

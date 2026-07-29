@@ -1,1 +1,1 @@
-There are two options now: either make Rust able to run this extension with a low-cost verification, or completely rewrite it in Rust. Let's see if the low-cost verification approach is feasible.
+Have the subagent use the sonnet model to write.
