@@ -7624,3 +7624,4 @@
 - 2026-07-29 13:54 — LSTM is a common abbreviation for Long Short-Term Memory, often used in deep learning contexts.
 - 2026-07-29 14:07 — "给我看看" translates to "Show me" in English, a common way to request a demonstration.
 - 2026-07-29 14:26 — Use 'end up after' instead of '跑到后面去了' (literal 'run to the back') for natural English.
+- 2026-07-29 14:32 — Use 'yourself' for emphasis when telling someone to do something personally.
