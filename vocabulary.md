@@ -7633,3 +7633,4 @@
 - 2026-07-29 15:29 — Use 'Rust version' (capital R) instead of 'rust版'. Also, the question structure 'Does this project have...' is more natural than direct translation.
 - 2026-07-29 15:30 — "开源" as a verb is "open-source" (past tense: "open-sourced"). In questions, use "Has anyone open-sourced..." instead of "Has someone open source...".
 - 2026-07-29 15:35 — "靠谱" (kào pǔ) means 'reliable' or 'trustworthy' — common in casual tech discussions.
+- 2026-07-29 15:38 — "复刻" means "replicate" (copy features), while "移植" is "port" (move code to another language). "重新" here implies "re-implement" rather than just "rewrite".
