@@ -1,1 +1,1 @@
-The goal is to make everything OpenAI-compatible. Wherever it's not compatible, change that part.
+I want to know your real-time local modifications, not the git diff.
