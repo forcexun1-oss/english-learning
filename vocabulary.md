@@ -7643,3 +7643,4 @@
 - 2026-07-29 16:07 — '整体' can be 'overall' or 'whole'; when used as a command, use a verb like 'isolate' instead of the noun 'isolation'.
 - 2026-07-29 16:08 — In English, '自动跑' is often expressed as 'run automatically' (adverb after verb).
 - 2026-07-29 16:09 — Use 'what does ... mean' to ask for clarification about a term or phrase.
+- 2026-07-29 16:13 — Using '再说' after a verb phrase means 'do that first, then discuss it later.'
