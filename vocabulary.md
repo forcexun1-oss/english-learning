@@ -7613,3 +7613,4 @@
 - 2026-07-29 10:35 — Use 'heavy' to describe resource-intensive software. 'IDEs' is correctly capitalized as an acronym.
 - 2026-07-29 11:08 — Use 'Should we...' for suggestions; '搞一个' is informal, better as 'set up a'.
 - 2026-07-29 11:13 — '出内网' means 'go outside the internal network' (i.e., no internet access).
+- 2026-07-29 11:17 — In English, avoid a comma between the subject and verb. Use 'Is this solution secure?' instead of 'This solution, secure?'.
