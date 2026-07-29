@@ -7629,3 +7629,4 @@
 - 2026-07-29 14:45 — In English, use 'how do I choose' or 'how should I choose' instead of 'how to choose' for a complete question.
 - 2026-07-29 14:51 — '采用云端的方式连接' is more naturally expressed as 'connected via the cloud' rather than a literal 'using cloud method'.
 - 2026-07-29 14:52 — 自进化 (zì jìnhuà) is 'self-evolution', a compound noun. 'So-called' (所谓的) adds a nuance of questioning or skepticism, which is fine here.
+- 2026-07-29 15:15 — Use 'the same thing' to ask if two terms refer to the same concept. 'Skill' is a common English loanword in Chinese tech contexts.
