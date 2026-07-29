@@ -7611,3 +7611,4 @@
 - 2026-07-29 10:16 — Use 'OpenAI-compatible' as a compound adjective, and capitalize 'OpenAI' properly.
 - 2026-07-29 10:34 — In English, possessive adjectives like 'your' come before the location (local), not after it.
 - 2026-07-29 10:35 — Use 'heavy' to describe resource-intensive software. 'IDEs' is correctly capitalized as an acronym.
+- 2026-07-29 11:08 — Use 'Should we...' for suggestions; '搞一个' is informal, better as 'set up a'.
