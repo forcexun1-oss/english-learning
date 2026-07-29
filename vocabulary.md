@@ -7630,3 +7630,4 @@
 - 2026-07-29 14:51 — '采用云端的方式连接' is more naturally expressed as 'connected via the cloud' rather than a literal 'using cloud method'.
 - 2026-07-29 14:52 — 自进化 (zì jìnhuà) is 'self-evolution', a compound noun. 'So-called' (所谓的) adds a nuance of questioning or skepticism, which is fine here.
 - 2026-07-29 15:15 — Use 'the same thing' to ask if two terms refer to the same concept. 'Skill' is a common English loanword in Chinese tech contexts.
+- 2026-07-29 15:29 — Use 'Rust version' (capital R) instead of 'rust版'. Also, the question structure 'Does this project have...' is more natural than direct translation.
