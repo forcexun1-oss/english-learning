@@ -7645,3 +7645,4 @@
 - 2026-07-29 16:09 — Use 'what does ... mean' to ask for clarification about a term or phrase.
 - 2026-07-29 16:13 — Using '再说' after a verb phrase means 'do that first, then discuss it later.'
 - 2026-07-29 16:30 — Use 'unable to' instead of '加入不了' for 'cannot add' in English.
+- 2026-07-29 16:32 — Use 'Is the current version...' instead of a direct translation. Also, 'latest' is the standard term for software versions, not 'newest'.
