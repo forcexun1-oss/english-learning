@@ -7620,3 +7620,4 @@
 - 2026-07-29 13:41 — "搞" is very colloquial; use "use" or "proceed with" in technical contexts.
 - 2026-07-29 13:46 — "Check if there is" is more natural than "Check if there is any" for this context.
 - 2026-07-29 13:52 — Use 'repository URLs' instead of '仓库地址' (literal 'warehouse address') — 'URLs' is more natural for developers.
+- 2026-07-29 13:52 — Use 'record into it' when the target file is already clear from context; otherwise specify the file name.

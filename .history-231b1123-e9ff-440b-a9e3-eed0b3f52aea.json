@@ -1,1 +1,1 @@
-["瑞芯微的大模型提供的都只有权重相关的文件,那代码在哪里呢", "https://github.com/airockchip/rknn-llm/releases 这个不是说支持3.5了吗, 能搞了吗", "检查一下有没有更新的 SDK 版本", "更新一下 rockchip/CLAUDE.md,把这两个仓库地址记录进去"]
+["瑞芯微的大模型提供的都只有权重相关的文件,那代码在哪里呢", "https://github.com/airockchip/rknn-llm/releases 这个不是说支持3.5了吗, 能搞了吗", "检查一下有没有更新的 SDK 版本", "更新一下 rockchip/CLAUDE.md,把这两个仓库地址记录进去", "把 RK1820_RK1828_AI_SDK 的下载路径也记录进去"]
