@@ -7606,3 +7606,4 @@
 - 2026-07-29 09:32 — '改动' translates to 'changes'. You can say 'let me see them' instead of repeating 'your changes'.
 - 2026-07-29 09:34 — Use 'entries' to clarify that 'think' refers to a specific type of log item.
 - 2026-07-29 10:00 — The Chinese particle '啊' adds emphasis or clarification, but is often omitted in natural English.
+- 2026-07-29 10:07 — "这啥啊" is informal; use "What's this?" for clarity. "搞到云端" can be "push to the cloud" (git) or "upload to the cloud" (general).
