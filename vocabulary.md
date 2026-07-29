@@ -7601,3 +7601,4 @@
 - 2026-07-28 21:35 — "根因" is a common Chinese abbreviation for "root cause". In English, use "root cause" rather than "root reason".
 - 2026-07-28 21:46 — In git contexts, '提交' is typically translated as 'commit'.
 - 2026-07-29 09:02 — In software development, '提交' often translates to 'commit' (as in git commit).
+- 2026-07-29 09:16 — Use 'Delete' for '删掉' in this context (removing a file). 'Remove' is also possible but 'delete' is more common for files.
