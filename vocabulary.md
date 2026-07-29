@@ -7654,3 +7654,4 @@
 - 2026-07-29 18:36 — In English, the adverb 'first' usually comes at the end of a command: 'Write it first.'
 - 2026-07-29 20:18 — Use 'support writing' or 'be writable' instead of 'can write' for clearer instructions.
 - 2026-07-29 21:19 — '不厅' should be '不停' (bù tíng), meaning 'non-stop' or 'continuously'. In English, use 'repeatedly' or 'over and over'.
+- 2026-07-29 23:30 — Use 'the MLX one' to refer to a previously mentioned item. '那个' can be translated as 'that one' or 'the one'.
