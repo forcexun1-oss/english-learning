@@ -7618,3 +7618,4 @@
 - 2026-07-29 11:34 — Use 'does' to form questions in the simple present tense for third-person singular subjects.
 - 2026-07-29 13:24 — Use 'only' before the verb ('only provide') to emphasize restriction, rather than after the verb.
 - 2026-07-29 13:41 — "搞" is very colloquial; use "use" or "proceed with" in technical contexts.
+- 2026-07-29 13:46 — "Check if there is" is more natural than "Check if there is any" for this context.
