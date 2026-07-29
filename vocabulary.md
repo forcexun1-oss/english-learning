@@ -7617,3 +7617,4 @@
 - 2026-07-29 11:22 — "Portable hard drive" is more natural than "mobile hard disk" in English. Also, "create a solution" is preferred over "make a solution" in this context.
 - 2026-07-29 11:34 — Use 'does' to form questions in the simple present tense for third-person singular subjects.
 - 2026-07-29 13:24 — Use 'only' before the verb ('only provide') to emphasize restriction, rather than after the verb.
+- 2026-07-29 13:41 — "搞" is very colloquial; use "use" or "proceed with" in technical contexts.
