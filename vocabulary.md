@@ -7634,3 +7634,4 @@
 - 2026-07-29 15:30 — "开源" as a verb is "open-source" (past tense: "open-sourced"). In questions, use "Has anyone open-sourced..." instead of "Has someone open source...".
 - 2026-07-29 15:35 — "靠谱" (kào pǔ) means 'reliable' or 'trustworthy' — common in casual tech discussions.
 - 2026-07-29 15:38 — "复刻" means "replicate" (copy features), while "移植" is "port" (move code to another language). "重新" here implies "re-implement" rather than just "rewrite".
+- 2026-07-29 15:42 — "移植" in software contexts is typically "port" (e.g., port a feature) rather than "transplant" or "move."
