@@ -7642,3 +7642,4 @@
 - 2026-07-29 16:04 — '的话' is a conditional marker meaning 'if it comes to...' or 'regarding...'. '隔离' can be used as both a verb (to isolate) and a noun (isolation).
 - 2026-07-29 16:07 — '整体' can be 'overall' or 'whole'; when used as a command, use a verb like 'isolate' instead of the noun 'isolation'.
 - 2026-07-29 16:08 — In English, '自动跑' is often expressed as 'run automatically' (adverb after verb).
+- 2026-07-29 16:09 — Use 'what does ... mean' to ask for clarification about a term or phrase.
