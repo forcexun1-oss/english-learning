@@ -7610,3 +7610,4 @@
 - 2026-07-29 10:10 — For '改成', use 'change to' + adjective. Also, '兼容的' becomes a hyphenated compound adjective 'OpenAI-compatible' before the noun, or after 'to be'.
 - 2026-07-29 10:16 — Use 'OpenAI-compatible' as a compound adjective, and capitalize 'OpenAI' properly.
 - 2026-07-29 10:34 — In English, possessive adjectives like 'your' come before the location (local), not after it.
+- 2026-07-29 10:35 — Use 'heavy' to describe resource-intensive software. 'IDEs' is correctly capitalized as an acronym.
