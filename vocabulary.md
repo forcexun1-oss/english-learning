@@ -7682,3 +7682,4 @@
 - 2026-07-30 13:15 — In English commands, you can omit '一下' (a bit) for directness. 'Fix this bug' is more natural than 'fix this bug a bit'.
 - 2026-07-30 13:23 — '不可用' is often translated as 'unavailable' or 'not working'.
 - 2026-07-30 13:50 — 行不行啊 is a colloquial way to ask 'Is it working or not?' — it's repetitive for emphasis.
+- 2026-07-30 14:18 — '收窄' here means 'narrow down' (scope).
