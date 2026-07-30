@@ -7687,3 +7687,4 @@
 - 2026-07-30 15:20 — Use 'set it to auto' instead of 'set to auto' for clarity when the object is implied.
 - 2026-07-30 15:32 — Use 'changes' for 改动 (not 'modifications' in this context), and the present perfect passive 'been committed' is natural for asking about git commits.
 - 2026-07-30 15:32 — Use 'commit' as a verb for Git operations. '提交' in a coding context usually means 'commit' (as in git commit).
+- 2026-07-30 16:43 — "好长时间" translates to "a long time", but in English you need the preposition "for": "for a long time".
