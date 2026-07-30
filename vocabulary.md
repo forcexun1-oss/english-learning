@@ -7680,3 +7680,4 @@
 - 2026-07-30 13:12 — Use 'or' for alternative questions. '模型本身' can be translated as 'the model itself' to avoid repetition.
 - 2026-07-30 13:15 — Use 'who made this commit' instead of 'who committed this commit' to avoid redundancy.
 - 2026-07-30 13:15 — In English commands, you can omit '一下' (a bit) for directness. 'Fix this bug' is more natural than 'fix this bug a bit'.
+- 2026-07-30 13:23 — '不可用' is often translated as 'unavailable' or 'not working'.
