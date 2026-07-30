@@ -7658,3 +7658,4 @@
 - 2026-07-29 23:34 — Use 'X Y' (compound noun) instead of 'X的Y' in English technical terms, e.g., 'mac-assistant agent' rather than 'mac-assistant's agent'.
 - 2026-07-29 23:39 — "改掉" means to fix or change something completely.
 - 2026-07-30 08:56 — Use 'hasn't been changed' (present perfect passive) instead of '没改为' to indicate a state that hasn't been altered.
+- 2026-07-30 09:08 — In Chinese, '装' often means 'install', but it's unclear what to install. Adding an object (e.g., 'install it') makes the instruction more natural.
