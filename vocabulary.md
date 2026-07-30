@@ -7665,3 +7665,4 @@
 - 2026-07-30 10:03 — "补上" means 'add' or 'fill in' when something is missing.
 - 2026-07-30 10:14 — Use 'won't start' to express that something fails to start, which is more natural than 'can't come up'.
 - 2026-07-30 10:25 — "你编的" can be translated as "something you made up" or "fabricated by you." Avoid using "edit" here; "made up" implies falsehood.
+- 2026-07-30 10:27 — Use 'into' instead of '进' as a preposition to indicate direction. 'Vendor' here is used as a verb meaning to copy dependencies into the project's vendor directory.
