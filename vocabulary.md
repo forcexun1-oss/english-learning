@@ -7668,3 +7668,4 @@
 - 2026-07-30 10:27 — Use 'into' instead of '进' as a preposition to indicate direction. 'Vendor' here is used as a verb meaning to copy dependencies into the project's vendor directory.
 - 2026-07-30 10:29 — "干吧" is a casual imperative, similar to 'Go ahead' or 'Let's do it'. In English, use 'Go ahead' for a natural tone.
 - 2026-07-30 10:41 — Use 'caused by' to indicate the source of problems, not 'resulted from' which is less common in questions.
+- 2026-07-30 10:43 — "不要...就别..." is a colloquial pattern meaning 'if you don't want to do X, then don't do X'. In English, you can simplify: 'If you don't want to isolate, then don't.' Or 'Just don't isolate if it's not needed.'
