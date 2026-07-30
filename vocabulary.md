@@ -7671,3 +7671,4 @@
 - 2026-07-30 10:43 — "不要...就别..." is a colloquial pattern meaning 'if you don't want to do X, then don't do X'. In English, you can simplify: 'If you don't want to isolate, then don't.' Or 'Just don't isolate if it's not needed.'
 - 2026-07-30 10:45 — The pattern '好不好 + verb' asks 'Is it okay to verb?'.
 - 2026-07-30 10:48 — Use 'let ... make the changes' instead of a literal translation of '让...去改'. The '去' (go) is often omitted in English imperatives.
+- 2026-07-30 11:06 — Use 'confused about where' instead of 'mistaken about where' for more natural English when describing an AI misidentifying a location.
