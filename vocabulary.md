@@ -7693,3 +7693,4 @@
 - 2026-07-30 17:03 — "都没生成出来" can be translated as "still didn't generate" or "didn't generate anything". In English, we often add "anything" for clarity.
 - 2026-07-30 17:07 — '补好' here means 'improve' or 'fix' (补全/完善), not just 'repair'.
 - 2026-07-30 17:16 — Use 'has started' (present perfect) to ask if an action has begun, not 'is writing' (present continuous).
+- 2026-07-30 17:35 — 得 (děi) here means 'must' or 'need to', not 'get'.
