@@ -7667,3 +7667,4 @@
 - 2026-07-30 10:25 — "你编的" can be translated as "something you made up" or "fabricated by you." Avoid using "edit" here; "made up" implies falsehood.
 - 2026-07-30 10:27 — Use 'into' instead of '进' as a preposition to indicate direction. 'Vendor' here is used as a verb meaning to copy dependencies into the project's vendor directory.
 - 2026-07-30 10:29 — "干吧" is a casual imperative, similar to 'Go ahead' or 'Let's do it'. In English, use 'Go ahead' for a natural tone.
+- 2026-07-30 10:41 — Use 'caused by' to indicate the source of problems, not 'resulted from' which is less common in questions.
