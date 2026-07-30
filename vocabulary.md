@@ -7661,3 +7661,4 @@
 - 2026-07-30 09:08 — In Chinese, '装' often means 'install', but it's unclear what to install. Adding an object (e.g., 'install it') makes the instruction more natural.
 - 2026-07-30 09:14 — '查' can mean 'check' or 'look up'. As a command, 'Check.' is natural.
 - 2026-07-30 09:32 — "试试" uses verb repetition to soften the request. In English, a simple "Try it" or "Give it a try" is natural.
+- 2026-07-30 09:55 — Use 'still not fixed' instead of '没修好' for a natural question about a bug.
