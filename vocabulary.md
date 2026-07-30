@@ -7663,3 +7663,4 @@
 - 2026-07-30 09:32 — "试试" uses verb repetition to soften the request. In English, a simple "Try it" or "Give it a try" is natural.
 - 2026-07-30 09:55 — Use 'still not fixed' instead of '没修好' for a natural question about a bug.
 - 2026-07-30 10:03 — "补上" means 'add' or 'fill in' when something is missing.
+- 2026-07-30 10:14 — Use 'won't start' to express that something fails to start, which is more natural than 'can't come up'.
