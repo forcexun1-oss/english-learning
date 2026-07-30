@@ -7689,3 +7689,4 @@
 - 2026-07-30 15:32 — Use 'commit' as a verb for Git operations. '提交' in a coding context usually means 'commit' (as in git commit).
 - 2026-07-30 16:43 — "好长时间" translates to "a long time", but in English you need the preposition "for": "for a long time".
 - 2026-07-30 16:53 — '这么慢' translates to 'so slow' in this context. Use 'high memory usage' instead of 'memory占用很多' for a more natural technical expression.
+- 2026-07-30 16:57 — Use 'timed out' (past tense) instead of '超时了' in this context. 'Shown' is the past participle of 'show' for passive voice.
