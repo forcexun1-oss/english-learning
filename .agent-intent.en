@@ -1,1 +1,1 @@
-Commit, the agent now seems to be confused about where its config file is.
+I directly talked to the agent and asked it to change the Gemini search key, but it modified the configuration in /Users/youxun/.pi/web-search.json.

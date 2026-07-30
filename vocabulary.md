@@ -7672,3 +7672,4 @@
 - 2026-07-30 10:45 — The pattern '好不好 + verb' asks 'Is it okay to verb?'.
 - 2026-07-30 10:48 — Use 'let ... make the changes' instead of a literal translation of '让...去改'. The '去' (go) is often omitted in English imperatives.
 - 2026-07-30 11:06 — Use 'confused about where' instead of 'mistaken about where' for more natural English when describing an AI misidentifying a location.
+- 2026-07-30 11:21 — Use "it" (not "he") to refer to an AI agent in English.
