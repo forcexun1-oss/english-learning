@@ -7678,3 +7678,4 @@
 - 2026-07-30 13:01 — "嗯" is a casual acknowledgment; "Okay" or "Mm-hmm" is natural in English.
 - 2026-07-30 13:08 — "思考的内容" can be translated as "thinking content" or "reasoning content". Here, "thinking" is a gerund acting as an adjective.
 - 2026-07-30 13:12 — Use 'or' for alternative questions. '模型本身' can be translated as 'the model itself' to avoid repetition.
+- 2026-07-30 13:15 — Use 'who made this commit' instead of 'who committed this commit' to avoid redundancy.
