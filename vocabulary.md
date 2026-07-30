@@ -7675,3 +7675,4 @@
 - 2026-07-30 11:21 — Use "it" (not "he") to refer to an AI agent in English.
 - 2026-07-30 11:26 — "Skill for drawing architecture diagrams" can be shortened to "architecture diagram drawing skill" for conciseness.
 - 2026-07-30 11:47 — "了" indicates a change of state. Use "anymore" or "no longer" to express that something stopped working.
+- 2026-07-30 13:01 — "嗯" is a casual acknowledgment; "Okay" or "Mm-hmm" is natural in English.
