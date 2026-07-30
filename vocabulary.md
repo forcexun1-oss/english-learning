@@ -7684,3 +7684,4 @@
 - 2026-07-30 13:50 — 行不行啊 is a colloquial way to ask 'Is it working or not?' — it's repetitive for emphasis.
 - 2026-07-30 14:18 — '收窄' here means 'narrow down' (scope).
 - 2026-07-30 14:33 — "改成" means "change to". In English, you can say "change it to [X]" or "switch to [X]".
+- 2026-07-30 15:20 — Use 'set it to auto' instead of 'set to auto' for clarity when the object is implied.
