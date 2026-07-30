@@ -7674,3 +7674,4 @@
 - 2026-07-30 11:06 — Use 'confused about where' instead of 'mistaken about where' for more natural English when describing an AI misidentifying a location.
 - 2026-07-30 11:21 — Use "it" (not "he") to refer to an AI agent in English.
 - 2026-07-30 11:26 — "Skill for drawing architecture diagrams" can be shortened to "architecture diagram drawing skill" for conciseness.
+- 2026-07-30 11:47 — "了" indicates a change of state. Use "anymore" or "no longer" to express that something stopped working.
