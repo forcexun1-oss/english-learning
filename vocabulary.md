@@ -7709,3 +7709,4 @@
 - 2026-07-31 11:31 — 用反问句 'shouldn't it' 比 'should it not' 更自然。
 - 2026-07-31 11:34 — "逐 chunk" means "chunk by chunk". In English, you can say "per chunk" or "each chunk individually".
 - 2026-07-31 11:36 — "要就是" here means "the point is" or "it's about". "一开始就要" = "must at the very start".
+- 2026-07-31 11:42 — '绘制' = 'draw/render' in UI context; '单独' = 'separate'.
