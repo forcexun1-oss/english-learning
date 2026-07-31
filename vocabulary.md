@@ -7743,3 +7743,4 @@
 - 2026-07-31 16:24 — Use 'at a time' to mean 'each time' or 'per session'.
 - 2026-07-31 16:25 — Typo: '清楚' should be '清除' (clear). '占用了mlx' means 'mlx is occupied' — use 'occupies' or 'takes up'.
 - 2026-07-31 16:29 — The Chinese word '抢' (qiǎng) means 'to grab/compete for'. In English, we often say 'access' or 'get' in this context, e.g., 'won't be able to access the model service'.
+- 2026-07-31 16:37 — Use 'how many' for countable nouns like 'resources', but 'how much' for uncountable nouns like 'CPU usage'.
