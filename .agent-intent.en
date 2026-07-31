@@ -1,1 +1,1 @@
-After thinking, it means calling the tool, right? And when a tool is called, shouldn't it be drawn on the panel?
+First check if pi_agent_rust is sending chunk by chunk.
