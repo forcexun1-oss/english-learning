@@ -7715,3 +7715,4 @@
 - 2026-07-31 13:20 — "卡住不动" is naturally translated as "stuck" or "frozen". Use "stuck" for temporary pauses, "frozen" for complete unresponsiveness.
 - 2026-07-31 13:26 — Use 'tell from' instead of 'see from' when analyzing data or logs to infer meaning.
 - 2026-07-31 13:41 — Use 'How do I' for questions about actions, instead of '怎么' directly translated.
+- 2026-07-31 13:53 — 用 'still not hitting' 表示'又没命中'，比 'cannot be hit again' 更自然。
