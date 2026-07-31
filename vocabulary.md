@@ -7730,3 +7730,4 @@
 - 2026-07-31 15:11 — Use 'brief' or 'short' to mean 简短.
 - 2026-07-31 15:12 — Use 'except' to indicate exclusion. '删了' is imperative 'delete'.
 - 2026-07-31 15:12 — In Chinese, '吗' turns a statement into a yes/no question. In English, you need to invert the subject and verb (e.g., 'Is this...' instead of 'This is...').
+- 2026-07-31 15:13 — Use 'its' (not 'his') when referring to software or configuration settings.
