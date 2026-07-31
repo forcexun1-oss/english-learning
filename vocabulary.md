@@ -7724,3 +7724,4 @@
 - 2026-07-31 14:21 — Use 'persist to disk' or 'save to disk' for '落盘' in technical contexts. Also, 'should not be aware of' is clearer than 'should not perceive'.
 - 2026-07-31 14:43 — Use 'every time' + present tense for habitual actions (e.g., 'every time I start').
 - 2026-07-31 14:45 — The particle '把' is likely a typo for '吧' (suggestion). Use '吧' to soften commands.
+- 2026-07-31 14:49 — Use 'takes a long time' to describe the duration of an action, rather than 'waits a long time' which would imply a person waiting.
