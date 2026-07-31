@@ -7757,3 +7757,4 @@
 - 2026-07-31 18:29 — 发起请求: 'initiate a request' or 'send a request'. '发起' implies starting a new request.
 - 2026-07-31 18:35 — Use 'roll back' or 'revert' for '回滚' in a technical context. '修改' can be 'changes' or 'modifications'.
 - 2026-07-31 18:39 — Use ellipsis (...) to show frustration or confusion in informal English.
+- 2026-07-31 18:40 — The phrase '就行了' means 'that's enough/just do it'. In English, 'that's all' or 'that's it' sounds more natural than a literal translation.
