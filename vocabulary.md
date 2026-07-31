@@ -7729,3 +7729,4 @@
 - 2026-07-31 15:05 — "啊" in Chinese is a particle indicating emphasis or confirmation; you can omit it or use "currently" for a natural tone.
 - 2026-07-31 15:11 — Use 'brief' or 'short' to mean 简短.
 - 2026-07-31 15:12 — Use 'except' to indicate exclusion. '删了' is imperative 'delete'.
+- 2026-07-31 15:12 — In Chinese, '吗' turns a statement into a yes/no question. In English, you need to invert the subject and verb (e.g., 'Is this...' instead of 'This is...').
