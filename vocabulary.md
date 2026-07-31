@@ -7767,3 +7767,4 @@
 - 2026-07-31 21:41 — Use 'Run' instead of 'Run 一下' — English doesn't use '一下' for a quick action.
 - 2026-07-31 21:46 — The phrase '在最后面' means 'at the very end'. Using '不是...了' turns it into a rhetorical question expecting confirmation.
 - 2026-07-31 21:47 — Use 'move ... to the end' to express changing the position of something. 'Put ... at the end' is also correct but less natural for rearranging.
+- 2026-07-31 21:54 — "不变" can be translated as "unchanged" or "the same". Here "unchanged" is more precise for technical contexts.
