@@ -7698,3 +7698,4 @@
 - 2026-07-31 09:26 — 用 'as long as' 表示条件，'whenever' 表示每次。这里用 'as long as' 更准确。
 - 2026-07-31 09:29 — Use 'window itself' to clarify that the scroll action applies to the entire page, not just the canvas.
 - 2026-07-31 09:35 — '就是...吧' expresses resignation or acceptance: 'then it's fine' or 'that's just it'.
+- 2026-07-31 09:50 — '配成' here means 'configure to match' or 'set up as', not 'equip'.
