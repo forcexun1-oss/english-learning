@@ -1,1 +1,1 @@
-It's not just the timeout issue. Shouldn't it draw an executing tool from the very beginning?
+After thinking, it means calling the tool, right? And when a tool is called, shouldn't it be drawn on the panel?

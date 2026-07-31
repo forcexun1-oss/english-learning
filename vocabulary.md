@@ -7706,3 +7706,4 @@
 - 2026-07-31 11:22 — '吐结果' is a casual Chinese expression; in English, use 'output results' or 'produce results' for clarity.
 - 2026-07-31 11:27 — Use 'notify [someone] to [verb]' (e.g., 'notify the panel to draw') instead of '通知面板绘制' directly. 'Draw' is fine for graphical rendering, but 'update' or 'redraw' might be more natural in UI contexts.
 - 2026-07-31 11:29 — "不光是" means "not only" or "not just" — use "not just" for a more natural tone in this context.
+- 2026-07-31 11:31 — 用反问句 'shouldn't it' 比 'should it not' 更自然。
