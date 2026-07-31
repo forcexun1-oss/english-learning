@@ -7741,3 +7741,4 @@
 - 2026-07-31 16:13 — Use 'cache hit' as a noun phrase for clarity. 'Instead' at the end indicates contrast; you could also say 'but the opposite happens'.
 - 2026-07-31 16:18 — '清除' here is a noun meaning a clear operation. In English, 'clearing' can be used as a noun (e.g., 'my clearing') to refer to the action of clearing.
 - 2026-07-31 16:24 — Use 'at a time' to mean 'each time' or 'per session'.
+- 2026-07-31 16:25 — Typo: '清楚' should be '清除' (clear). '占用了mlx' means 'mlx is occupied' — use 'occupies' or 'takes up'.
