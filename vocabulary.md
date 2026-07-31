@@ -7699,3 +7699,4 @@
 - 2026-07-31 09:29 — Use 'window itself' to clarify that the scroll action applies to the entire page, not just the canvas.
 - 2026-07-31 09:35 — '就是...吧' expresses resignation or acceptance: 'then it's fine' or 'that's just it'.
 - 2026-07-31 09:50 — '配成' here means 'configure to match' or 'set up as', not 'equip'.
+- 2026-07-31 10:06 — Use 'isn't it' for a rhetorical question confirming something is already the case. 'Version' is often used without 'the' when referring to a specific number.
