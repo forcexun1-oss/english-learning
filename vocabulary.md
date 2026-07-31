@@ -7735,3 +7735,4 @@
 - 2026-07-31 15:19 — “什么样的” translates to "what does ... look like" or "what is the format of ..." — you can also say "what is the complete prompt" for brevity.
 - 2026-07-31 15:26 — Use 'What is' instead of '是什么样的' for asking about content/structure. 'What is the complete prompt' is more natural than '怎样的prompt'.
 - 2026-07-31 15:49 — '没有了' in this context means 'it's gone' (disappeared), not 'there isn't any'. Use 'it's gone' or 'it's not there'.
+- 2026-07-31 15:53 — Use 'Never mind' to say '别管', and 'ready' for '好了' in code contexts (e.g., 'Is the code ready?').
