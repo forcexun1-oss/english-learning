@@ -1,1 +1,1 @@
-Is the KV cache for the first round of conversation still not hitting?
+Regarding this MLX project, how is it currently added? It seems the KV cache is not hitting again, and the initial wait time is very long.
