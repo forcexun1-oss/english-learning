@@ -7717,3 +7717,4 @@
 - 2026-07-31 13:41 — Use 'How do I' for questions about actions, instead of '怎么' directly translated.
 - 2026-07-31 13:53 — 用 'still not hitting' 表示'又没命中'，比 'cannot be hit again' 更自然。
 - 2026-07-31 13:54 — In caching contexts, '命中' is commonly translated as 'hit' (verb) or 'cache hit' (noun). '不能命中' = 'not hit' or 'miss'.
+- 2026-07-31 14:01 — Use 'specifically' or 'intentionally' for '特意'. '特异' means 'peculiar/unique' — it's likely a typo here.

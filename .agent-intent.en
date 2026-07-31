@@ -1,1 +1,1 @@
-Regarding this MLX project, how is it currently added? It seems the KV cache is not hitting again, and the initial wait time is very long.
+I specifically cached the KV at startup. Check the previously effective one.
