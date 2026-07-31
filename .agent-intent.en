@@ -1,1 +1,1 @@
-Should we add its configuration? Otherwise, it might fall back to the default configuration.
+I mean, its configuration is no longer in the default location since we've isolated it. Should we add the real path to memory?
