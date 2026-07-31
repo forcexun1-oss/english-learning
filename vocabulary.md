@@ -7694,3 +7694,4 @@
 - 2026-07-30 17:07 — '补好' here means 'improve' or 'fix' (补全/完善), not just 'repair'.
 - 2026-07-30 17:16 — Use 'has started' (present perfect) to ask if an action has begun, not 'is writing' (present continuous).
 - 2026-07-30 17:35 — 得 (děi) here means 'must' or 'need to', not 'get'.
+- 2026-07-31 09:09 — "触发不了" can be translated as "not triggering" or "unable to trigger." Use "still" to indicate the situation persists.
