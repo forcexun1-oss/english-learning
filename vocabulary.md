@@ -7745,3 +7745,4 @@
 - 2026-07-31 16:29 — The Chinese word '抢' (qiǎng) means 'to grab/compete for'. In English, we often say 'access' or 'get' in this context, e.g., 'won't be able to access the model service'.
 - 2026-07-31 16:37 — Use 'how many' for countable nouns like 'resources', but 'how much' for uncountable nouns like 'CPU usage'.
 - 2026-07-31 16:39 — Use 'resource' (uncountable) for general usage like CPU/memory, or 'resources' (plural) for specific countable items.
+- 2026-07-31 16:40 — In English, 'how many' usually comes before the verb. Also, 'simultaneously' sounds more formal; 'at the same time' is more common in casual conversation.
