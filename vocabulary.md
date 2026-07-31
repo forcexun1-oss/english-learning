@@ -7720,3 +7720,4 @@
 - 2026-07-31 14:01 — Use 'specifically' or 'intentionally' for '特意'. '特异' means 'peculiar/unique' — it's likely a typo here.
 - 2026-07-31 14:08 — Use 'logic to + verb' or 'logic of + gerund' to describe purpose.
 - 2026-07-31 14:09 — Use '吧' (ba) at the end of a sentence to indicate a confirmation or suggestion, like 'right?' or 'shall we?'.
+- 2026-07-31 14:12 — "擦" is a mild expletive; "Damn" is a natural English equivalent. "到底是不是" translates to "is this really" for emphasis.
