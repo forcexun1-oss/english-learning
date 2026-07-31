@@ -7758,3 +7758,4 @@
 - 2026-07-31 18:35 — Use 'roll back' or 'revert' for '回滚' in a technical context. '修改' can be 'changes' or 'modifications'.
 - 2026-07-31 18:39 — Use ellipsis (...) to show frustration or confusion in informal English.
 - 2026-07-31 18:40 — The phrase '就行了' means 'that's enough/just do it'. In English, 'that's all' or 'that's it' sounds more natural than a literal translation.
+- 2026-07-31 19:06 — Use 'spikes' (verb) for '暴涨' (sudden increase) rather than 'rises'.
