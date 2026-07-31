@@ -7760,3 +7760,4 @@
 - 2026-07-31 18:40 — The phrase '就行了' means 'that's enough/just do it'. In English, 'that's all' or 'that's it' sounds more natural than a literal translation.
 - 2026-07-31 19:06 — Use 'spikes' (verb) for '暴涨' (sudden increase) rather than 'rises'.
 - 2026-07-31 19:48 — Use 'include' instead of 'have' for containing elements in a prompt.
+- 2026-07-31 21:26 — Use 'whether' (not 'if') when the clause is the object of 'check' and presents two alternatives (injected or not).
