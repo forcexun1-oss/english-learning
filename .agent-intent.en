@@ -1,1 +1,1 @@
-I mean, its configuration is no longer in the default location since we've isolated it. Should we add the real path to memory?
+What does the full prompt that the agent is currently requesting look like?

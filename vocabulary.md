@@ -7732,3 +7732,4 @@
 - 2026-07-31 15:12 — In Chinese, '吗' turns a statement into a yes/no question. In English, you need to invert the subject and verb (e.g., 'Is this...' instead of 'This is...').
 - 2026-07-31 15:13 — Use 'its' (not 'his') when referring to software or configuration settings.
 - 2026-07-31 15:16 — Use 'its' for inanimate objects (like a tool or system), not 'his'.
+- 2026-07-31 15:19 — “什么样的” translates to "what does ... look like" or "what is the format of ..." — you can also say "what is the complete prompt" for brevity.
