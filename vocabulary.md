@@ -7753,3 +7753,4 @@
 - 2026-07-31 17:23 — “还是有” here means “it still has (the problem)” or “it still occurs.” Use “still” + verb to indicate persistence.
 - 2026-07-31 17:25 — Use "can't you" for a rhetorical question expressing frustration. "Just" adds emphasis.
 - 2026-07-31 17:33 — Use 'spike' for 暴涨 (sudden increase) and 'freeze' for 卡住 (stuck/unresponsive).
+- 2026-07-31 18:22 — Use 'What are you talking about?' to express confusion or disagreement. 'mlx' is a technical term, keep it unchanged.
