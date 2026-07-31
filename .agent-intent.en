@@ -1,1 +1,1 @@
-Which project implemented the logic to remove time?
+It should not be in that project. It should be an external request. It only manages the global cache. This cache is global, right?

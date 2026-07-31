@@ -7719,3 +7719,4 @@
 - 2026-07-31 13:54 — In caching contexts, '命中' is commonly translated as 'hit' (verb) or 'cache hit' (noun). '不能命中' = 'not hit' or 'miss'.
 - 2026-07-31 14:01 — Use 'specifically' or 'intentionally' for '特意'. '特异' means 'peculiar/unique' — it's likely a typo here.
 - 2026-07-31 14:08 — Use 'logic to + verb' or 'logic of + gerund' to describe purpose.
+- 2026-07-31 14:09 — Use '吧' (ba) at the end of a sentence to indicate a confirmation or suggestion, like 'right?' or 'shall we?'.
