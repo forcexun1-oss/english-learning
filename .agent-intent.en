@@ -1,1 +1,1 @@
-Okay, I see. After clearing, running a memory summary occupies mlx.
+There's a problem: you shouldn't summarize while I'm clearing things. Otherwise, real requests won't be able to access the model service. It's better to do the summarization when I'm idle, like when the screen is locked.
