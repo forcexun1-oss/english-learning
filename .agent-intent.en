@@ -1,1 +1,1 @@
-Damn, is this really how it's implemented?
+Don't do it this way. mlx should not be aware of the time logic — remove it. mlx should only handle the kv cache. mac-assistant should request it at startup. Remove the specific time operation here. Add a unique key. When a request comes again, the other side can regenerate and persist it to disk. When mlx restarts, load it.
