@@ -1,1 +1,1 @@
-First, find the problem: was a tool called at the end without notifying the panel to draw?
+It's not just the timeout issue. Shouldn't it draw an executing tool from the very beginning?

@@ -7705,3 +7705,4 @@
 - 2026-07-31 11:18 — '聊太多了' can be translated as 'chatting too much' or 'talking too much'. Use present perfect continuous for an action that started in the past and continues to the present.
 - 2026-07-31 11:22 — '吐结果' is a casual Chinese expression; in English, use 'output results' or 'produce results' for clarity.
 - 2026-07-31 11:27 — Use 'notify [someone] to [verb]' (e.g., 'notify the panel to draw') instead of '通知面板绘制' directly. 'Draw' is fine for graphical rendering, but 'update' or 'redraw' might be more natural in UI contexts.
+- 2026-07-31 11:29 — "不光是" means "not only" or "not just" — use "not just" for a more natural tone in this context.
