@@ -1,1 +1,1 @@
-Can we create a process manager that, when cleaning up, does not kill the process immediately, but waits until idle, finishes the summary, and then kills it?
+Go ahead, launch two agents so that switching is faster. When clearing, asynchronously launch another agent. Do you understand what I mean?

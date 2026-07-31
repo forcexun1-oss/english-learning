@@ -7747,3 +7747,4 @@
 - 2026-07-31 16:39 — Use 'resource' (uncountable) for general usage like CPU/memory, or 'resources' (plural) for specific countable items.
 - 2026-07-31 16:40 — In English, 'how many' usually comes before the verb. Also, 'simultaneously' sounds more formal; 'at the same time' is more common in casual conversation.
 - 2026-07-31 16:42 — Use 'kill' for terminating a process. 'Summary' is a noun; you can also say 'finish summarizing' for the verb form.
+- 2026-07-31 16:46 — "启动的起" should be "启动两个" (launch two). Use "asynchronously" for "异步地".
