@@ -7764,3 +7764,4 @@
 - 2026-07-31 21:30 — Use 'place' or 'put' for '把' in this context. '调整一下' can be 'tweak it' or 'adjust it'.
 - 2026-07-31 21:37 — Use 'how could' to express surprise or disbelief, like '怎么会有' in Chinese.
 - 2026-07-31 21:39 — '固定到' can be translated as 'pin to' or 'set to' in a coding context.
+- 2026-07-31 21:41 — Use 'Run' instead of 'Run 一下' — English doesn't use '一下' for a quick action.
