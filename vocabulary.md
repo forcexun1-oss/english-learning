@@ -7750,3 +7750,4 @@
 - 2026-07-31 16:46 — "启动的起" should be "启动两个" (launch two). Use "asynchronously" for "异步地".
 - 2026-07-31 17:09 — Use 'triggers' (verb, third person singular) instead of 'triggering' to describe the action that happens each time.
 - 2026-07-31 17:20 — Use "skyrocketed" or "surged" to translate "暴涨" (sharp increase). Also add "usage" after "memory and CPU" for clarity.
+- 2026-07-31 17:23 — “还是有” here means “it still has (the problem)” or “it still occurs.” Use “still” + verb to indicate persistence.
