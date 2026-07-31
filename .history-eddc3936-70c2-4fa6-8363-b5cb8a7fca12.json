@@ -1,1 +1,1 @@
-["agent的 prompt里面有时间吗", "帮我查一下 pi_agent_rust 里是否注入时间", "这种可变的字符串,放在后面把,调整一下, 我们是不是还加入,memory, user这些", "怎么会有3", "加上，固定到 pi_home", "跑一下 ./run-mac-assistant.sh 验证一下", "现在时间不是在最后面了?"]
+["agent的 prompt里面有时间吗", "帮我查一下 pi_agent_rust 里是否注入时间", "这种可变的字符串,放在后面把,调整一下, 我们是不是还加入,memory, user这些", "怎么会有3", "加上，固定到 pi_home", "跑一下 ./run-mac-assistant.sh 验证一下", "现在时间不是在最后面了?", "是否有办法把时间放到最后"]
