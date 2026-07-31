@@ -7736,3 +7736,4 @@
 - 2026-07-31 15:26 — Use 'What is' instead of '是什么样的' for asking about content/structure. 'What is the complete prompt' is more natural than '怎样的prompt'.
 - 2026-07-31 15:49 — '没有了' in this context means 'it's gone' (disappeared), not 'there isn't any'. Use 'it's gone' or 'it's not there'.
 - 2026-07-31 15:53 — Use 'Never mind' to say '别管', and 'ready' for '好了' in code contexts (e.g., 'Is the code ready?').
+- 2026-07-31 15:54 — ‘那要做啊’ is a casual way to say ‘Then we should do it.’ In English, you can use ‘Let’s do it then.’
