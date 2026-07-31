@@ -7714,3 +7714,4 @@
 - 2026-07-31 13:18 — "卡住不动了" translates to "stuck" or "frozen". Use "stuck" for a process that has stopped progressing, and "still running" to contrast that it's actually still executing.
 - 2026-07-31 13:20 — "卡住不动" is naturally translated as "stuck" or "frozen". Use "stuck" for temporary pauses, "frozen" for complete unresponsiveness.
 - 2026-07-31 13:26 — Use 'tell from' instead of 'see from' when analyzing data or logs to infer meaning.
+- 2026-07-31 13:41 — Use 'How do I' for questions about actions, instead of '怎么' directly translated.
