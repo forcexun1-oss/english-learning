@@ -7761,3 +7761,4 @@
 - 2026-07-31 19:06 — Use 'spikes' (verb) for '暴涨' (sudden increase) rather than 'rises'.
 - 2026-07-31 19:48 — Use 'include' instead of 'have' for containing elements in a prompt.
 - 2026-07-31 21:26 — Use 'whether' (not 'if') when the clause is the object of 'check' and presents two alternatives (injected or not).
+- 2026-07-31 21:30 — Use 'place' or 'put' for '把' in this context. '调整一下' can be 'tweak it' or 'adjust it'.
