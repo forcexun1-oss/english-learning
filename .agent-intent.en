@@ -1,1 +1,1 @@
-Do you mean that as long as I reset it, it will trigger reflection?
+Since the Mermaid canvas is full screen, scrolling up/down within its area should scroll the window itself.
