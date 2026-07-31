@@ -7701,3 +7701,4 @@
 - 2026-07-31 09:50 — '配成' here means 'configure to match' or 'set up as', not 'equip'.
 - 2026-07-31 10:06 — Use 'isn't it' for a rhetorical question confirming something is already the case. 'Version' is often used without 'the' when referring to a specific number.
 - 2026-07-31 11:01 — "记忆" is often translated as "memory" in technical contexts, and "写入" is "written into" or "recorded".
+- 2026-07-31 11:18 — In English, the verb comes before the subject in questions: 'What's the situation now?' not 'What the situation now is?'
