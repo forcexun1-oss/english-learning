@@ -7755,3 +7755,4 @@
 - 2026-07-31 17:33 — Use 'spike' for 暴涨 (sudden increase) and 'freeze' for 卡住 (stuck/unresponsive).
 - 2026-07-31 18:22 — Use 'What are you talking about?' to express confusion or disagreement. 'mlx' is a technical term, keep it unchanged.
 - 2026-07-31 18:29 — 发起请求: 'initiate a request' or 'send a request'. '发起' implies starting a new request.
+- 2026-07-31 18:35 — Use 'roll back' or 'revert' for '回滚' in a technical context. '修改' can be 'changes' or 'modifications'.

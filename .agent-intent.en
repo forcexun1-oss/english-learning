@@ -1,1 +1,1 @@
-It must have initiated another request. Check the logs. Don't suspect anything else. Look into why.
+Roll back the previous changes, you didn't understand the problem at all.
