@@ -1,1 +1,1 @@
-Why is the model stuck here? It's still running — let me check what it's outputting.
+Why is it stuck here? The model is still running. There should be output from the MLX side — go check the logs.
