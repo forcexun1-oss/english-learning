@@ -1,1 +1,1 @@
-Check why after the agent clicks 'clear', the memory, CPU, and GPU usage on the MLX side spikes sharply.
+Does the agent's prompt include time?
