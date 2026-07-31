@@ -7727,3 +7727,4 @@
 - 2026-07-31 14:49 — Use 'takes a long time' to describe the duration of an action, rather than 'waits a long time' which would imply a person waiting.
 - 2026-07-31 15:00 — Use quotes around command names to make them clear in text.
 - 2026-07-31 15:05 — "啊" in Chinese is a particle indicating emphasis or confirmation; you can omit it or use "currently" for a natural tone.
+- 2026-07-31 15:11 — Use 'brief' or 'short' to mean 简短.
