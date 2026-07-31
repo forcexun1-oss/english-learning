@@ -1,1 +1,1 @@
-Why is it stuck here? The model is still running. There should be output from the MLX side — go check the logs.
+Logs, really? How much text can there be? Just set a 500MB limit and a cleanup mechanism. What can you tell from 300 logs?
