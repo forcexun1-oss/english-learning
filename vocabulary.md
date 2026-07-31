@@ -7702,3 +7702,4 @@
 - 2026-07-31 10:06 — Use 'isn't it' for a rhetorical question confirming something is already the case. 'Version' is often used without 'the' when referring to a specific number.
 - 2026-07-31 11:01 — "记忆" is often translated as "memory" in technical contexts, and "写入" is "written into" or "recorded".
 - 2026-07-31 11:18 — In English, the verb comes before the subject in questions: 'What's the situation now?' not 'What the situation now is?'
+- 2026-07-31 11:18 — '聊太多了' can be translated as 'chatting too much' or 'talking too much'. Use present perfect continuous for an action that started in the past and continues to the present.
