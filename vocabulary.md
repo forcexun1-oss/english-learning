@@ -7772,3 +7772,4 @@
 - 2026-08-01 22:42 — "命中" in cache context is "hit" (e.g., "cache hit"), and "missed" is the opposite. Also, "首次" is more naturally "first run" or "first time" here.
 - 2026-08-01 22:53 — Use 'think of it as' instead of 'calculate by' for conceptual explanations.
 - 2026-08-01 22:54 — The Chinese '把' structure is often dropped in English; use 'it' as the object directly.
+- 2026-08-01 22:56 — In Chinese, '跑' (run) is commonly used for executing code or tests. In English, 'run' is the natural equivalent.
