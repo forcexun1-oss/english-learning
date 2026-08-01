@@ -1,1 +1,1 @@
-So you mean the kv cache hit, but it's a cold prefill, so it's slow?
+You know it's slow, but the kv cache hit?
