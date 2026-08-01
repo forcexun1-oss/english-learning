@@ -1,1 +1,1 @@
-I ran it again, please take a look.
+Why is it working again? Look at the previous runs that took a long time. For the first run that didn't hit the cache, add a warning log on the MLX side so it's easier to investigate later.

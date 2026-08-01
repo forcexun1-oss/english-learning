@@ -7773,3 +7773,4 @@
 - 2026-08-01 22:53 — Use 'think of it as' instead of 'calculate by' for conceptual explanations.
 - 2026-08-01 22:54 — The Chinese '把' structure is often dropped in English; use 'it' as the object directly.
 - 2026-08-01 22:56 — In Chinese, '跑' (run) is commonly used for executing code or tests. In English, 'run' is the natural equivalent.
+- 2026-08-01 22:58 — "怎么又好了" is a rhetorical question expressing frustration — "好了" here means "working again" (not "good"). "后面好查" uses "好" as "easy to", so "easier to investigate later".
