@@ -1,1 +1,1 @@
-Check why the agent's first run missed the KV cache again. Is the robustness really that poor?
+Of course, part of it is in memory. You can think of it as 15+8; if that doesn't work, put some more onto disk.

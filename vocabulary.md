@@ -7770,3 +7770,4 @@
 - 2026-07-31 21:54 — "不变" can be translated as "unchanged" or "the same". Here "unchanged" is more precise for technical contexts.
 - 2026-07-31 21:56 — ‘这一块’ is often translated as ‘this part’ or ‘this area’. In technical contexts, ‘this part’ works well.
 - 2026-08-01 22:42 — "命中" in cache context is "hit" (e.g., "cache hit"), and "missed" is the opposite. Also, "首次" is more naturally "first run" or "first time" here.
+- 2026-08-01 22:53 — Use 'think of it as' instead of 'calculate by' for conceptual explanations.
