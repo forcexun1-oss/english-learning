@@ -7776,3 +7776,4 @@
 - 2026-08-01 22:58 — "怎么又好了" is a rhetorical question expressing frustration — "好了" here means "working again" (not "good"). "后面好查" uses "好" as "easy to", so "easier to investigate later".
 - 2026-08-01 22:58 — In Chinese, rhetorical questions like '他还问你?' use '还' to mean 'still' or 'would...still'. In English, we add 'why would I be' to express the same implied frustration.
 - 2026-08-01 22:59 — Use 'download the file' instead of '下文件' (literally 'down file'). '效果' is often 'performance' in tech contexts.
+- 2026-08-01 23:03 — '我擦' is an exclamation of frustration; in English, 'Damn' or 'Geez' is appropriate.
