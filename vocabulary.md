@@ -7769,3 +7769,4 @@
 - 2026-07-31 21:47 — Use 'move ... to the end' to express changing the position of something. 'Put ... at the end' is also correct but less natural for rearranging.
 - 2026-07-31 21:54 — "不变" can be translated as "unchanged" or "the same". Here "unchanged" is more precise for technical contexts.
 - 2026-07-31 21:56 — ‘这一块’ is often translated as ‘this part’ or ‘this area’. In technical contexts, ‘this part’ works well.
+- 2026-08-01 22:42 — "命中" in cache context is "hit" (e.g., "cache hit"), and "missed" is the opposite. Also, "首次" is more naturally "first run" or "first time" here.
