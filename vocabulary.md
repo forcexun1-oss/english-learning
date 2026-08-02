@@ -7781,3 +7781,4 @@
 - 2026-08-01 23:32 — 注意“命中”在英文中常用“hit”作为名词，比如“the kv cache hit”表示命中事件。也可以说“was hit”，但更简洁的说法是直接用“hit”作名词。
 - 2026-08-01 23:33 — Note: 'cache' (storage) not 'catch' (capture). Also consider: 'the kv cache hit' is fine, but 'did the kv cache hit?' is more natural for a question.
 - 2026-08-02 12:00 — Use 'first verify that' instead of '注意先验证' for a more natural instruction.
+- 2026-08-02 21:20 — Use 'as git commits' instead of '按git提交' to mean 'in the form of git commits'.
