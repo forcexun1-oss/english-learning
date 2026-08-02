@@ -7783,3 +7783,4 @@
 - 2026-08-02 12:00 — Use 'first verify that' instead of '注意先验证' for a more natural instruction.
 - 2026-08-02 21:20 — Use 'as git commits' instead of '按git提交' to mean 'in the form of git commits'.
 - 2026-08-02 22:27 — Use 'or' to present alternatives in a question. 'Might have issues' is a natural way to express potential problems.
+- 2026-08-02 22:34 — In Chinese, '看看' is a casual way to say 'take a look at' or 'check'. In English, 'check' is concise and natural for such instructions.
