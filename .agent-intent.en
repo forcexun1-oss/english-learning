@@ -1,1 +1,1 @@
-You know it's slow, but the kv cache hit?
+They need the expert weights to also be the q4_k version. Download the q4_k_m version, but first verify that the expert is q4k.
