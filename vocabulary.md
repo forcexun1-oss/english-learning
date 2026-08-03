@@ -7812,3 +7812,4 @@
 - 2026-08-03 14:11 — "本来" can be translated as 'natively' or 'built-in'; "加的" can be 'added' (past tense).
 - 2026-08-03 14:14 — Use 'parameters' instead of '参数' in English. 'Parameter' is the technical term for command-line flags.
 - 2026-08-03 14:16 — "没太懂" is informal; "don't quite understand" is more natural in English. Keep technical flags unchanged.
+- 2026-08-03 14:18 — You can say 'contradictory' or 'conflicting' in this context; both work.
