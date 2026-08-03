@@ -7839,3 +7839,4 @@
 - 2026-08-03 21:11 — The Chinese '不...吗' is a rhetorical question; in English, use a tag question like 'haven't I?' or 'didn't I?' to convey the same meaning.
 - 2026-08-03 21:41 — The phrase '跑完了吗' as a rhetorical question (= 'I already ran them, didn't I?') uses a tag-question structure. In English, add a negative tag like 'didn't I?' to match the tone.
 - 2026-08-03 21:55 — "感觉不对啊" is a casual way to express doubt. In English, say "That doesn't seem right" or "Something feels off" — both are natural in developer conversation.
+- 2026-08-03 22:16 — "卡点" (kǎ diǎn) is a common term in standups/meetings — translates to "blockers" or "bottlenecks" in English.
