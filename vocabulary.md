@@ -7809,3 +7809,4 @@
 - 2026-08-03 14:03 — Use 'mean' instead of 'is the meaning of' for a more natural question structure.
 - 2026-08-03 14:06 — 效果 (xiàoguǒ) often translates to 'effect', but in technical contexts like token/s, 'performance' or 'speed' might be more natural.
 - 2026-08-03 14:10 — Use 'computed' instead of 'counted' for '算' in technical contexts (calculating vs. counting).
+- 2026-08-03 14:11 — "本来" can be translated as 'natively' or 'built-in'; "加的" can be 'added' (past tense).
