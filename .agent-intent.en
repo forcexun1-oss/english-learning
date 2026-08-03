@@ -1,1 +1,1 @@
-Check if the reflection and summary trigger was activated when the screen was locked.
+The reason for changing this configuration is to disable other trigger methods; the lock screen is triggered by separate code.
