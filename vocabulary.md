@@ -7788,3 +7788,4 @@
 - 2026-08-02 22:41 — “都要” means "want all"; “管理好” can be translated as "manage properly" or "keep them organized."
 - 2026-08-03 09:01 — Use 'when the screen was locked' instead of 'lock screen when' to clarify the time condition.
 - 2026-08-03 09:28 — Be careful with homophones: '出发' (chūfā) means 'depart', but you likely meant '触发' (chùfā) meaning 'trigger'.
+- 2026-08-03 09:30 — The phrase '加了要反思' is informal; 'include reflection' or 'add the requirement to reflect' is clearer in English.
