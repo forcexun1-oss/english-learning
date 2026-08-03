@@ -7807,3 +7807,4 @@
 - 2026-08-03 13:54 — Use 'where' to introduce a clause describing the scenario, and ensure parallel structure: 'half of the computation is done by the CPU'.
 - 2026-08-03 13:59 — Use 'achieve' or 'reach' with a rate (e.g., 'achieve 15 tok/s'). In English, the auxiliary verb 'does' is needed for third-person singular in questions.
 - 2026-08-03 14:03 — Use 'mean' instead of 'is the meaning of' for a more natural question structure.
+- 2026-08-03 14:06 — 效果 (xiàoguǒ) often translates to 'effect', but in technical contexts like token/s, 'performance' or 'speed' might be more natural.
