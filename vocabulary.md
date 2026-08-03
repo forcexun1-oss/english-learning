@@ -7790,3 +7790,4 @@
 - 2026-08-03 09:28 — Be careful with homophones: '出发' (chūfā) means 'depart', but you likely meant '触发' (chùfā) meaning 'trigger'.
 - 2026-08-03 09:30 — The phrase '加了要反思' is informal; 'include reflection' or 'add the requirement to reflect' is clearer in English.
 - 2026-08-03 09:31 — Use 'should be triggered' (passive) instead of '要触发' (active) to match the meaning of 'things that need to be triggered'.
+- 2026-08-03 09:37 — 毛线啊 is a colloquial expression of frustration. In English, use "what's the point of" or "why bother" to convey the same meaning.

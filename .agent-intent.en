@@ -1,1 +1,1 @@
-Also trigger the actions that should be triggered when reviewEnabled is true, at the lock screen as well.
+Don't use one switch to control two features. If closing the conversation already triggers a summary, what's the point of summarizing again later?
