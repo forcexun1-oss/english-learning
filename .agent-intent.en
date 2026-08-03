@@ -1,1 +1,1 @@
-How to enable both streaming and repack at the same time?
+Option B: persist to disk when executing cleanup, then the agent process can be shut down. Perform summarization and other operations during idle time. After completion, the persisted data can be cleared. This doesn't affect long/short-term memory, right?
