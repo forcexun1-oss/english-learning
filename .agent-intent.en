@@ -1,1 +1,1 @@
-The summary has never been triggered so far.
+Evaluate the effort needed to modify the LSTM plugin we've introduced — changing the summary and reflection features to read from persisted data. It shouldn't be too much work, right? It's just a different data source; the data extraction logic needs updating.
