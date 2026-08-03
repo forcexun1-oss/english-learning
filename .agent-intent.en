@@ -1,1 +1,1 @@
-Evaluate the effort needed to modify the LSTM plugin we've introduced — changing the summary and reflection features to read from persisted data. It shouldn't be too much work, right? It's just a different data source; the data extraction logic needs updating.
+What about a different approach? Couldn't we just reload the persisted data as a pi agent, and then trigger summarization and other actions?

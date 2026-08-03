@@ -7824,3 +7824,4 @@
 - 2026-08-03 16:15 — "大部分时候" translates to "most of the time" with the definite article "the".
 - 2026-08-03 16:16 — Use '从来没有' (never have) instead of '重来没有'. '重来' means 'do it again'.
 - 2026-08-03 16:18 — Use 'how much effort' or 'how big of a change' instead of 'how big' to sound more natural about work scope.
+- 2026-08-03 16:25 — “换个思路” means “thinking from a different angle” — use “a different approach” or “another way” in English.
