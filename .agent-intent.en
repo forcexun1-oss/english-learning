@@ -1,1 +1,1 @@
-Has the lock screen been updated to include reflection?
+Also trigger the actions that should be triggered when reviewEnabled is true, at the lock screen as well.
