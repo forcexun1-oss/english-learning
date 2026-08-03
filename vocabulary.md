@@ -7799,3 +7799,4 @@
 - 2026-08-03 12:25 — Use 'triggered' (past tense) instead of 'trigger' when asking about a completed action.
 - 2026-08-03 13:09 — Use 'logs' (plural) for log entries. 'No logs?' is a common short question.
 - 2026-08-03 13:10 — '里' after a noun can mean 'into' or 'in'. Here, 'into' is more natural for writing content to a file.
+- 2026-08-03 13:12 — "看看" can be translated as "check if" or "see if" in commands.
