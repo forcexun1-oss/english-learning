@@ -7816,3 +7816,4 @@
 - 2026-08-03 14:20 — "跑出...的效果" can be translated as "achieving ... performance" or "reaching ... speed". Here "configuration" is the right word for "配置".
 - 2026-08-03 14:23 — Use 'disable' instead of 'turn off' for CLI flags.
 - 2026-08-03 14:29 — ‘兜底’ is often translated as ‘fallback’ (a backup plan or default behavior) in technical contexts.
+- 2026-08-03 14:34 — Use 'threw an error' for past tense of 'throw an error' (not '报错了吧' literally).
