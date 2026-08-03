@@ -7805,3 +7805,4 @@
 - 2026-08-03 13:25 — "内容" translates to 'content' in this context. Also note the word order: 'in memory and user'.
 - 2026-08-03 13:42 — You wrote '出发' (depart/start) but likely meant '触发' (trigger). They sound similar but '触发' is the correct term for 'trigger'.
 - 2026-08-03 13:54 — Use 'where' to introduce a clause describing the scenario, and ensure parallel structure: 'half of the computation is done by the CPU'.
+- 2026-08-03 13:59 — Use 'achieve' or 'reach' with a rate (e.g., 'achieve 15 tok/s'). In English, the auxiliary verb 'does' is needed for third-person singular in questions.
