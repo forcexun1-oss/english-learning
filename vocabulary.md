@@ -7804,3 +7804,4 @@
 - 2026-08-03 13:19 — In English, '对' is often translated as 'Yes' or 'Right'.
 - 2026-08-03 13:25 — "内容" translates to 'content' in this context. Also note the word order: 'in memory and user'.
 - 2026-08-03 13:42 — You wrote '出发' (depart/start) but likely meant '触发' (trigger). They sound similar but '触发' is the correct term for 'trigger'.
+- 2026-08-03 13:54 — Use 'where' to introduce a clause describing the scenario, and ensure parallel structure: 'half of the computation is done by the CPU'.
