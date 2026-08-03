@@ -1,1 +1,1 @@
-Is the cost of data conversion high? Can it be converted on the fly when reading into GPU memory?
+Let the subagent use the Sonnet model to execute.
