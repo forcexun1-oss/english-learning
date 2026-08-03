@@ -7837,3 +7837,4 @@
 - 2026-08-03 19:19 — Add 'the' before 'Sonnet model' and use 'for' instead of treating the Chinese word order literally.
 - 2026-08-03 19:30 — When sharing a task notification, just state the key result in plain English. The XML block is machine-readable but not natural for human conversation.
 - 2026-08-03 21:11 — The Chinese '不...吗' is a rhetorical question; in English, use a tag question like 'haven't I?' or 'didn't I?' to convey the same meaning.
+- 2026-08-03 21:41 — The phrase '跑完了吗' as a rhetorical question (= 'I already ran them, didn't I?') uses a tag-question structure. In English, add a negative tag like 'didn't I?' to match the tone.
