@@ -7841,3 +7841,4 @@
 - 2026-08-03 21:55 — "感觉不对啊" is a casual way to express doubt. In English, say "That doesn't seem right" or "Something feels off" — both are natural in developer conversation.
 - 2026-08-03 22:16 — "卡点" (kǎ diǎn) is a common term in standups/meetings — translates to "blockers" or "bottlenecks" in English.
 - 2026-08-03 22:19 — The Chinese phrase '把' at the end of a command like '你写方案把' is a softened imperative tone — in English, we'd say 'Write the plan' or 'Go ahead and write the plan' without a direct equivalent.
+- 2026-08-03 23:08 — Use 'any' in questions about existence: 'Are there any duplicates?' (not '有重复吗' directly translated as 'have duplicates').
