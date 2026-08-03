@@ -7791,3 +7791,4 @@
 - 2026-08-03 09:30 — The phrase '加了要反思' is informal; 'include reflection' or 'add the requirement to reflect' is clearer in English.
 - 2026-08-03 09:31 — Use 'should be triggered' (passive) instead of '要触发' (active) to match the meaning of 'things that need to be triggered'.
 - 2026-08-03 09:37 — 毛线啊 is a colloquial expression of frustration. In English, use "what's the point of" or "why bother" to convey the same meaning.
+- 2026-08-03 09:56 — "好像" can be translated as "it seems" or "looks like" — both are natural in English.
