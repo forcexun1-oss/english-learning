@@ -7821,3 +7821,4 @@
 - 2026-08-03 15:14 — Use '开与不开' (on vs off) instead of '开于不开'.
 - 2026-08-03 16:05 — Use 'didn't trigger' (past tense) for events that failed to happen.
 - 2026-08-03 16:13 — Use 'was generated' to clarify that the summary was not produced, rather than just 'no summary' which is a bit vague.
+- 2026-08-03 16:15 — "大部分时候" translates to "most of the time" with the definite article "the".
