@@ -7802,3 +7802,4 @@
 - 2026-08-03 13:12 — "看看" can be translated as "check if" or "see if" in commands.
 - 2026-08-03 13:15 — The phrase '让你给弄的' uses '让' to express 'you caused this (negative outcome)'. In English, use 'you've made a mess of it' or 'you've screwed it up' for a similar tone.
 - 2026-08-03 13:19 — In English, '对' is often translated as 'Yes' or 'Right'.
+- 2026-08-03 13:25 — "内容" translates to 'content' in this context. Also note the word order: 'in memory and user'.
