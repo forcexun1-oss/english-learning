@@ -7817,3 +7817,4 @@
 - 2026-08-03 14:23 — Use 'disable' instead of 'turn off' for CLI flags.
 - 2026-08-03 14:29 — ‘兜底’ is often translated as ‘fallback’ (a backup plan or default behavior) in technical contexts.
 - 2026-08-03 14:34 — Use 'threw an error' for past tense of 'throw an error' (not '报错了吧' literally).
+- 2026-08-03 14:46 — Use 'enable' or 'turn on' instead of 'open' for software toggles.
