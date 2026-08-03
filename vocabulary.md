@@ -7797,3 +7797,4 @@
 - 2026-08-03 10:14 — You can use 'trigger' as a verb ('Did it trigger?') or in passive voice ('Was it triggered?'). Both are natural.
 - 2026-08-03 10:56 — ‘重复输出’ can be translated as ‘duplicate output’ or ‘repeated output’ depending on context. Here ‘duplicates’ is more natural for code output.
 - 2026-08-03 12:25 — Use 'triggered' (past tense) instead of 'trigger' when asking about a completed action.
+- 2026-08-03 13:09 — Use 'logs' (plural) for log entries. 'No logs?' is a common short question.
