@@ -7831,3 +7831,4 @@
 - 2026-08-03 16:51 — "on the fly" means doing something dynamically or in real-time, e.g., converting data as it is being read.
 - 2026-08-03 17:01 — Capitalize model names like 'Sonnet' as proper nouns.
 - 2026-08-03 17:13 — Use 'unpack' or 'reverse' for '反解' in this context. 'Unpack back' is understandable but slightly redundant; 'reversed' or 'unpacked' alone is sufficient.
+- 2026-08-03 17:27 — Use 'computed' or 'processed' instead of 'calculated' for model inference. '分开算' and '一起算' translate to 'separately' and 'together'.

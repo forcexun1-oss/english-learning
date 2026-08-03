@@ -1,1 +1,1 @@
-What I mean is: after repack, store it in memory. If the GPU needs it, can it be unpacked back? Is the cost high?
+Are the 8+1 experts computed separately or together?
