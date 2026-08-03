@@ -7793,3 +7793,4 @@
 - 2026-08-03 09:37 — 毛线啊 is a colloquial expression of frustration. In English, use "what's the point of" or "why bother" to convey the same meaning.
 - 2026-08-03 09:56 — "好像" can be translated as "it seems" or "looks like" — both are natural in English.
 - 2026-08-03 10:11 — Use 'just locked' for '锁屏了一下' to indicate a recent action. '看看怎么回事' can be translated as 'check what's going on' in informal contexts.
+- 2026-08-03 10:14 — ‘看好了’ here means ‘have you checked/looked at it?’, not ‘watch carefully’. Use ‘check’ for verifying a state.
