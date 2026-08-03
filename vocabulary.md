@@ -7814,3 +7814,4 @@
 - 2026-08-03 14:16 — "没太懂" is informal; "don't quite understand" is more natural in English. Keep technical flags unchanged.
 - 2026-08-03 14:18 — You can say 'contradictory' or 'conflicting' in this context; both work.
 - 2026-08-03 14:20 — "跑出...的效果" can be translated as "achieving ... performance" or "reaching ... speed". Here "configuration" is the right word for "配置".
+- 2026-08-03 14:23 — Use 'disable' instead of 'turn off' for CLI flags.
