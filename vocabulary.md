@@ -7819,3 +7819,4 @@
 - 2026-08-03 14:34 — Use 'threw an error' for past tense of 'throw an error' (not '报错了吧' literally).
 - 2026-08-03 14:46 — Use 'enable' or 'turn on' instead of 'open' for software toggles.
 - 2026-08-03 15:14 — Use '开与不开' (on vs off) instead of '开于不开'.
+- 2026-08-03 16:05 — Use 'didn't trigger' (past tense) for events that failed to happen.
