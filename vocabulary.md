@@ -7795,3 +7795,4 @@
 - 2026-08-03 10:11 — Use 'just locked' for '锁屏了一下' to indicate a recent action. '看看怎么回事' can be translated as 'check what's going on' in informal contexts.
 - 2026-08-03 10:14 — ‘看好了’ here means ‘have you checked/looked at it?’, not ‘watch carefully’. Use ‘check’ for verifying a state.
 - 2026-08-03 10:14 — You can use 'trigger' as a verb ('Did it trigger?') or in passive voice ('Was it triggered?'). Both are natural.
+- 2026-08-03 10:56 — ‘重复输出’ can be translated as ‘duplicate output’ or ‘repeated output’ depending on context. Here ‘duplicates’ is more natural for code output.

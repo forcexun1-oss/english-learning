@@ -1,1 +1,1 @@
-I just locked the screen. Did it trigger?
+Check if mlx is starting to output duplicates. See if it's an input parameter issue or an mlx issue.
