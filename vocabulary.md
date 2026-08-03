@@ -7828,3 +7828,4 @@
 - 2026-08-03 16:39 — "打开" in software contexts usually translates to "enable" or "turn on", not "open".
 - 2026-08-03 16:43 — Use 'persist to disk' instead of '落盘' (a technical term). 'Clear' vs 'clean' — 'clear' is more natural for data removal.
 - 2026-08-03 16:48 — Use '吧' (ba) for suggestions, not '把' (bǎ) which is a preposition.
+- 2026-08-03 16:51 — "on the fly" means doing something dynamically or in real-time, e.g., converting data as it is being read.
