@@ -1,1 +1,1 @@
-Let the subagent use the Sonnet model to execute.
+What I mean is: after repack, store it in memory. If the GPU needs it, can it be unpacked back? Is the cost high?
