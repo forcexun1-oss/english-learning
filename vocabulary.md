@@ -7786,3 +7786,4 @@
 - 2026-08-02 22:34 — In Chinese, '看看' is a casual way to say 'take a look at' or 'check'. In English, 'check' is concise and natural for such instructions.
 - 2026-08-02 22:40 — Use '不在' (not in) instead of '不' alone for negation of location. E.g., '不在git里'.
 - 2026-08-02 22:41 — “都要” means "want all"; “管理好” can be translated as "manage properly" or "keep them organized."
+- 2026-08-03 09:01 — Use 'when the screen was locked' instead of 'lock screen when' to clarify the time condition.
