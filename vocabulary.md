@@ -7861,3 +7861,4 @@
 - 2026-08-04 16:54 — Use 'run' as a verb directly (e.g., 'flash-moe run Qwen models') instead of '跑'.
 - 2026-08-04 17:00 — Use 'borrow' or 'adopt' instead of the literal translation of '借鉴过去' in this context.
 - 2026-08-04 17:02 — Use 'No, it's X doing Y' to correct a previous statement.
+- 2026-08-04 17:32 — Use 'quantized' (past participle) for describing how a model is quantized.
