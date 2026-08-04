@@ -7843,3 +7843,4 @@
 - 2026-08-03 22:19 — The Chinese phrase '把' at the end of a command like '你写方案把' is a softened imperative tone — in English, we'd say 'Write the plan' or 'Go ahead and write the plan' without a direct equivalent.
 - 2026-08-03 23:08 — Use 'any' in questions about existence: 'Are there any duplicates?' (not '有重复吗' directly translated as 'have duplicates').
 - 2026-08-04 09:04 — Use the present tense 'are there' for questions about existence or state. '有重复吗' maps to 'are there (any) duplicates' in natural English.
+- 2026-08-04 13:24 — Use 'if' after 'know' for indirect questions, e.g., 'How do we know if it succeeded?'
