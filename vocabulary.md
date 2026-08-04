@@ -7849,3 +7849,4 @@
 - 2026-08-04 13:28 — Use 'won't' (will not) for future negatives. '把' should be '吧' (ba) to form a tag question like 'right?'.
 - 2026-08-04 13:29 — Use 'session' for '会话' in this technical context.
 - 2026-08-04 13:29 — In Chinese, '不让他' is elliptical. In English, specify what 'it' shouldn't do (e.g., 'don't delete them') for clarity.
+- 2026-08-04 13:30 — Use 'delete' directly instead of the '把...删了' structure — English doesn't have a disposal construction.
