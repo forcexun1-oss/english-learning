@@ -7904,3 +7904,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-04 20:35 — "做" alone can mean "do it" or "proceed" — in this context, "just go ahead" is more natural.
