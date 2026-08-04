@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How exactly is the q6-stream model quantized internally?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Look at the optimizations in this project. Which ones can be applied to mlx? Rank them by potential benefit from highest to lowest.
