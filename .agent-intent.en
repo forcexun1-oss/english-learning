@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Why is prefill slow now? Do you know where the bottleneck is?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
