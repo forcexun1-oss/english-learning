@@ -7844,3 +7844,4 @@
 - 2026-08-03 23:08 — Use 'any' in questions about existence: 'Are there any duplicates?' (not '有重复吗' directly translated as 'have duplicates').
 - 2026-08-04 09:04 — Use the present tense 'are there' for questions about existence or state. '有重复吗' maps to 'are there (any) duplicates' in natural English.
 - 2026-08-04 13:24 — Use 'if' after 'know' for indirect questions, e.g., 'How do we know if it succeeded?'
+- 2026-08-04 13:26 — Use 'from when' to ask about the time of logs, e.g., 'Logs from when?' or 'When are the logs from?'
