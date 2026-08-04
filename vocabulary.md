@@ -7857,3 +7857,4 @@
 - 2026-08-04 15:06 — You wrote '以外' but likely meant '意外' (unexpectedly). '以外' means 'other than/outside', while '意外' means 'unexpected'.
 - 2026-08-04 15:09 — Use 'as you suggested' or 'as you mentioned' instead of 'as you said' for a more natural instruction tone.
 - 2026-08-04 16:35 — Use 'its' for inanimate objects like code or tools, not 'he'.
+- 2026-08-04 16:38 — In English, 'his project' is fine if the person is clear from context. For more clarity, you could say 'that project' or 'the other project'.
