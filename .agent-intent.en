@@ -1,1 +1,1 @@
-Just kill it directly. digest won't be using this process, right?
+Add logging to the digest: show the total count and how many have been summarized.
