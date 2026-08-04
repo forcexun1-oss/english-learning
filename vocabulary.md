@@ -7988,3 +7988,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 00:17 — Use 'see if' instead of 'try to see if' (which is a direct translation of 试试). It's more natural in English.

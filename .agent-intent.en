@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Rebase, then calculate.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+First recompile and restart the service to see if there's any improvement?
