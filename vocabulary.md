@@ -7851,3 +7851,4 @@
 - 2026-08-04 13:29 — In Chinese, '不让他' is elliptical. In English, specify what 'it' shouldn't do (e.g., 'don't delete them') for clarity.
 - 2026-08-04 13:30 — Use 'delete' directly instead of the '把...删了' structure — English doesn't have a disposal construction.
 - 2026-08-04 13:35 — Use 'right?' or a tag question like 'is it?' to confirm assumptions in English.
+- 2026-08-04 13:37 — Use 'right?' at the end of a sentence to confirm or seek agreement, similar to '吧' in Chinese.

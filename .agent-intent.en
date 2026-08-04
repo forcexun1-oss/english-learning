@@ -1,1 +1,1 @@
-When you click to clear the agent's process, it gets killed in the pool, right? It's not retained, is it?
+Just kill it directly. digest won't be using this process, right?
