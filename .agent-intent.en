@@ -1,1 +1,1 @@
-First, manually delete the empty ones. Normally there shouldn't be any empty ones.
+When you click to clear the agent's process, it gets killed in the pool, right? It's not retained, is it?
