@@ -7859,3 +7859,4 @@
 - 2026-08-04 16:35 — Use 'its' for inanimate objects like code or tools, not 'he'.
 - 2026-08-04 16:38 — In English, 'his project' is fine if the person is clear from context. For more clarity, you could say 'that project' or 'the other project'.
 - 2026-08-04 16:54 — Use 'run' as a verb directly (e.g., 'flash-moe run Qwen models') instead of '跑'.
+- 2026-08-04 17:00 — Use 'borrow' or 'adopt' instead of the literal translation of '借鉴过去' in this context.
