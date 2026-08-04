@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 First recompile and restart the service to see if there's any improvement?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
 =======
 What quantization is the model currently using in mlx-lm?
 >>>>>>> Stashed changes
