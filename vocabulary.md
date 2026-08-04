@@ -7848,3 +7848,4 @@
 - 2026-08-04 13:27 — 掉 (diào) is a resultative complement indicating completion or removal, e.g., 标记掉 = mark as removed, 清理掉 = clean up.
 - 2026-08-04 13:28 — Use 'won't' (will not) for future negatives. '把' should be '吧' (ba) to form a tag question like 'right?'.
 - 2026-08-04 13:29 — Use 'session' for '会话' in this technical context.
+- 2026-08-04 13:29 — In Chinese, '不让他' is elliptical. In English, specify what 'it' shouldn't do (e.g., 'don't delete them') for clarity.
