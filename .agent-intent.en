@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 First, write a plan and have the subagent use Sonnet to do it.
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
 =======
 What quantization is the model currently using in mlx-lm?
 >>>>>>> Stashed changes
