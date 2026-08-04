@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 How exactly is the q6-stream model quantized internally?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
