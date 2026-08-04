@@ -7855,3 +7855,4 @@
 - 2026-08-04 13:39 — Use 'Add logging to [feature]' instead of '[feature] add logging' for natural English word order.
 - 2026-08-04 14:17 — Use 'even though' or 'when' to show contrast: 'Why is it still green even though the tool execution failed?'
 - 2026-08-04 15:06 — You wrote '以外' but likely meant '意外' (unexpectedly). '以外' means 'other than/outside', while '意外' means 'unexpected'.
+- 2026-08-04 15:09 — Use 'as you suggested' or 'as you mentioned' instead of 'as you said' for a more natural instruction tone.
