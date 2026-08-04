@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-2, we already have the mlx library, right?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Rebase, then calculate.
