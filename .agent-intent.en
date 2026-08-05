@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-How do I summarize the missed content?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Change it so that it keeps summarizing as long as it is not unlocked.
