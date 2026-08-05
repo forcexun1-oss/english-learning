@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Did this branch only change the prompt?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
