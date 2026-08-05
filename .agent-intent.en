@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Revert it. Keep a record of the changes.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Rebuild MLX after revert completed (exit code 0).
