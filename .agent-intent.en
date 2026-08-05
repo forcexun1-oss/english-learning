@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 After I clicked stop and then sent a message, I got an error: Provider error: mlx-local: OpenAI API error (HTTP 400): {"error": "tool_call.function.name must be a non-empty string"}
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
