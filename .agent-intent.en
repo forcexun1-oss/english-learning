@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-So if execution exceeds 4 minutes, it just gets killed directly?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+As long as it's actively outputting, it should not be killed due to the total duration. The notification message should also be updated.
