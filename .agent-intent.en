@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The code wasn't committed? Please organize and commit everything. Why wasn't it committed? How can we make future runs auto-commit changes as they happen, instead of batching them all together? Is GitNexus broken too?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+The background task "Check mlx-lm index status and retry analyze" completed successfully (exit code 0).
