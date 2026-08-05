@@ -7961,6 +7961,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-04 17:32 — Use 'quantized' (past participle) for describing how a model is quantized.
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
@@ -8324,6 +8325,9 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 21:09 — Use '把' (bǎ) correctly: '怎么把错过的总结一下' — '把' marks the object, not '吧' which is a suggestion particle.
+=======
+- 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
+>>>>>>> Stashed changes
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
