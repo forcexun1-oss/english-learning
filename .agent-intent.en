@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Additionally, should we pull a branch before making changes, open a new workspace, and ensure that GitNexus doesn't expire?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+I mean this as a long-term rule, not something to do right now. Let's formalize it as a standard. Also, let's just have the entire gitnexus header managed by the tool and add it to .gitignore.
