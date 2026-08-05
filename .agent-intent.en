@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Check if it can be safely changed to fall back to the cache_prompt boundary instead of clearing everything.
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
