@@ -1,1 +1,1 @@
-After stopping and restarting the chat, why is there no KV cache? Is it because the ending characters are not aligned?
+Both Codex investigations (transcripts + MLX server audit) finished with exit code 0. Since this is routine success, no push notification needed.

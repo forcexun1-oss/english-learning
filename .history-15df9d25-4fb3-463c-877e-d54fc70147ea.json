@@ -1,1 +1,1 @@
-["看看最近的agent对话,对话一长,模型老是重复思考,重复的调用同一个工具,看看是模型的问题吗,还是我们在mlx那边的改造的改出问题了,需要大量调查交给codex去做,你来形成结论"]
+["看看最近的agent对话,对话一长,模型老是重复思考,重复的调用同一个工具,看看是模型的问题吗,还是我们在mlx那边的改造的改出问题了,需要大量调查交给codex去做,你来形成结论", "<task-notification>\n<task-id>by3viol83</task-id>\n<summary>Monitor event: \"Both Codex investigations (transcripts + MLX server audit) completion\"</summary>\n<event>BOTH CODEX RUNS FINISHED: A=EXIT:0 B=EXIT:0</event>\nIf this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.\n</task-notification>"]

@@ -8257,3 +8257,4 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 16:28 — Use 'stop and restart' instead of 'stop and then restart' for conciseness. Also, 'not aligned' is correct; 'misaligned' is another option.
+- 2026-08-05 16:32 — Use 'exit code 0' instead of 'EXIT:0' in prose. 'Routine' means normal/expected, while 'benign' implies harmless but potentially abnormal.
