@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-If we tune --memory-limit-gb a bit, does that mean there's absolutely no benefit?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+So even after adjusting --memory-limit-gb, there's zero benefit?
