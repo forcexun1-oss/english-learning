@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 When clicking the stop button on the agent panel, will it clear the session's KV cache?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
