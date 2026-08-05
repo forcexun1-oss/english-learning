@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So even after adjusting --memory-limit-gb, there's zero benefit?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Production config comparison finished.
