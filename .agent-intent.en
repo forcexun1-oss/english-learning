@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Rebuild MLX after revert completed (exit code 0).
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
