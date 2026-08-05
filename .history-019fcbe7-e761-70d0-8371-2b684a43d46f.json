@@ -83,7 +83,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["他的主要优化是什么", "我们在mlx-lm项目的优化和他项目有什么差异,各有什么优缺点,有项目共同的地方", "flash-moe跑qwen的模型会更快吗", "有没有mlx-lm可以借鉴过去,获得大幅提升的优化", "不是,是mlx-lm借鉴flash-moe", "q6-stream这个模型,具体里面怎么量化的"]
+=======
+["他的主要优化是什么", "我们在mlx-lm项目的优化和他项目有什么差异,各有什么优缺点,有项目共同的地方", "flash-moe跑qwen的模型会更快吗", "有没有mlx-lm可以借鉴过去,获得大幅提升的优化", "不是,是mlx-lm借鉴flash-moe", "mlx-lm正在使用的模型的量化是多少"]
+>>>>>>> Stashed changes
 =======
 ["他的主要优化是什么", "我们在mlx-lm项目的优化和他项目有什么差异,各有什么优缺点,有项目共同的地方", "flash-moe跑qwen的模型会更快吗", "有没有mlx-lm可以借鉴过去,获得大幅提升的优化", "不是,是mlx-lm借鉴flash-moe", "mlx-lm正在使用的模型的量化是多少"]
 >>>>>>> Stashed changes
