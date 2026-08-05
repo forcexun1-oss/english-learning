@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Below the question, it only expanded a little, and there's still no content — it's blank.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+When I switch between historical agents, do you kill the old pi agent process, or how do you handle it?
