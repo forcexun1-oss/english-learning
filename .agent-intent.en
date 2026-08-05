@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Both Codex investigations (transcripts + MLX server audit) finished with exit code 0. Since this is routine success, no push notification needed.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Check if it can be safely changed to fall back to the cache_prompt boundary instead of clearing everything.

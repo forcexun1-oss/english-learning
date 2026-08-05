@@ -1,1 +1,1 @@
-["agent面板点击停止按钮,会清楚session的kv catch吗", "但是停止之后再重新聊天,就没有kv cache是为什么,结尾的字符没对齐吗"]
+["agent面板点击停止按钮,会清楚session的kv catch吗", "但是停止之后再重新聊天,就没有kv cache是为什么,结尾的字符没对齐吗", "看下能不能安全地改成回退到 cache_prompt 边界而不是整体清空"]
