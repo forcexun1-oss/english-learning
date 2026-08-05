@@ -7891,6 +7891,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-04 17:32 — Use 'quantized' (past participle) for describing how a model is quantized.
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
@@ -8003,3 +8004,6 @@
 >>>>>>> Stashed changes
 - 2026-08-05 09:10 — Use 'seem to have' for '好像有' (appear to have) when stating an observation.
 - 2026-08-05 09:17 — Use 'for [someone] to try [doing something]' to express '让...去试试...'.
+=======
+- 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
+>>>>>>> Stashed changes

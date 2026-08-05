@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Write an optimization plan for the subagent to try using Sonnet.
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
