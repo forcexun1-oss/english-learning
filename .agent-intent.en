@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Try it.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Revert it. Keep a record of the changes.
