@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 So if execution exceeds 4 minutes, it just gets killed directly?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
