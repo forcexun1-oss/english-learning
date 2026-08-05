@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Are the production server parameters tuned to optimal values? Also, is preserve_thinking enabled?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
 =======
 What quantization is the model currently using in mlx-lm?
 >>>>>>> Stashed changes
