@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I mean this as a long-term rule, not something to do right now. Let's formalize it as a standard. Also, let's just have the entire gitnexus header managed by the tool and add it to .gitignore.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Change the default size of the agent's panel, and add a history conversation list on the side. The list should support pinning, with pinned items appearing at the top, and the most recent ones at the top.
