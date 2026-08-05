@@ -8224,3 +8224,4 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 15:58 — 挂掉 is informal; use 'terminate' in technical contexts.
+- 2026-08-05 15:59 — "杀了" is informal; in technical contexts, use "kill" or "terminate" (e.g., "the process gets killed").
