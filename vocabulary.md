@@ -8199,3 +8199,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 15:14 — Use 'modifications' instead of 'changes' for a more formal and precise technical term, though 'changes' is also fine.
