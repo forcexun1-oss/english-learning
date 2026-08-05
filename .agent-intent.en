@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-You also misunderstood the problem. First, revert it.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+Damn, don't touch the previous parts, just restore the previous prompt.
