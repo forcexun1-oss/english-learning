@@ -8083,3 +8083,4 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 10:41 — Use 'is ... enabled?' instead of '有开吗' for a more natural question about a setting.
+- 2026-08-05 10:44 — "Preserve" is a verb; "preserved" is the adjective. Here "preserve_thinking" is a config flag, so it's fine to keep as-is. Use "is ... enabled" to ask if a feature is turned on.
