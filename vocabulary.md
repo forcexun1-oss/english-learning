@@ -8184,3 +8184,4 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 15:09 — 堵洞 (dǔ dòng) = 'plug a hole', meaning a temporary workaround.
+- 2026-08-05 15:11 — Use 'revert' to mean 'undo changes' or 'go back to previous state'.
