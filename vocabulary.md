@@ -8238,3 +8238,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 16:13 — Use 'repeatedly calling' instead of 'repeatedly call' after 'keeps' (gerund after 'keep'). Also 'assign to Codex' is more natural than 'hand over to Codex' for delegation.
