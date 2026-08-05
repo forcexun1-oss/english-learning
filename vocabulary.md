@@ -8251,3 +8251,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 16:26 — Note: 'catch' should be 'cache' (a temporary storage). '清楚' should be '清除' (clear), not 'clear' as in 'understand'.

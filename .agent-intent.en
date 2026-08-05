@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Look at recent agent conversations. When conversations get long, the model keeps repeating its thinking and repeatedly calling the same tool. Check whether it's a model issue or if our modifications on the MLX side introduced a bug. The heavy investigation should be assigned to Codex, and you should form the conclusions.
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+When clicking the stop button on the agent panel, will it clear the session's KV cache?
