@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Are the production server parameters tuned to optimal values? Also, is preserve_thinking enabled?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+The code wasn't committed? Please organize and commit everything. Why wasn't it committed? How can we make future executions automatically commit each time, without accumulating? Is gitNexus also broken?

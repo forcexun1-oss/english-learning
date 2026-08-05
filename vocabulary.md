@@ -8092,3 +8092,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 11:34 — Use 'wasn't committed' (passive) for code that hasn't been pushed/submitted. 'Commit' is the verb: 'commit the code'. '累在一起' = 'accumulate' or 'pile up'.
