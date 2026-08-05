@@ -8271,3 +8271,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-05 17:15 — Use 'won't stop' instead of 'doesn't stop' to express frustration about a process that is not stopping as expected.
