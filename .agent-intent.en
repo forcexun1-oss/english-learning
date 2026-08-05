@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Clicking to restore doesn't work properly; the panel only shows the query input.
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
