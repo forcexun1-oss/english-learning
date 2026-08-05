@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Change the default size of the agent's panel, and add a history conversation list on the side. The list should support pinning, with pinned items appearing at the top, and the most recent ones at the top.
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
