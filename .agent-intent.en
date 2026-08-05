@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Additionally, should we pull a branch before making changes, open a new workspace, and ensure that GitNexus doesn't expire?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes

@@ -7914,6 +7914,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-04 17:32 — Use 'quantized' (past participle) for describing how a model is quantized.
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
@@ -8108,3 +8109,6 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-05 11:43 — In Chinese, '改动前' uses '前' to mean 'before', but in English we say 'before making changes' or 'before changes'.
+=======
+- 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
+>>>>>>> Stashed changes
