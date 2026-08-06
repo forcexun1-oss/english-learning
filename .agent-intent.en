@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-First check the problems, then fix them all together.
-=======
-The event is just a routine exit output ('pong') from the backgrounded process. No action needed.
->>>>>>> Stashed changes
+Check the pi_agent_rust lib-only test run (task bmmt3wlyz). If we haven't been notified yet, check the status; otherwise, no-op. Once confirmed, verify the installed pi binary (pi --version) and restart the mlx-lm server to deploy the generation-stall fix, then report full status to the user.

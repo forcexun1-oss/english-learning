@@ -8407,3 +8407,4 @@
 - 2026-08-06 10:49 — ‘一起’ here can mean ‘all at once’ or ‘together’ — in a coding context, ‘fix them all together’ implies fixing all issues in one go.
 =======
 >>>>>>> Stashed changes
+- 2026-08-06 11:18 — "no-op" is a noun meaning an operation that does nothing; saying "no-op" alone is clearer than "no-op fallback."
