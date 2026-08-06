@@ -8462,3 +8462,4 @@
 - 2026-08-06 20:04 — In Chinese, '把' indicates handling an object; in English, just use the verb directly (e.g., 'delete mark' instead of 'put mark deleted').
 - 2026-08-06 22:28 — Use 'not making progress' or 'stuck' instead of '跑不出来' (can't run out) to describe the process not completing.
 - 2026-08-06 22:49 — For yes/no questions in English, invert the subject and verb: 'Is the context too long?' instead of 'Is it that the context is too long?'.
+- 2026-08-06 23:06 — In English, “查” as a command is often “Check.” or “Check it.”
