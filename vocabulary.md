@@ -8408,3 +8408,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-06 11:18 — "no-op" is a noun meaning an operation that does nothing; saying "no-op" alone is clearer than "no-op fallback."
+- 2026-08-06 11:28 — Use active voice and simpler phrasing: 'the monitor stream ended' is clearer than 'wait for ... stream ended'.

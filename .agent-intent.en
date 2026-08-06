@@ -1,1 +1,1 @@
-Check on pi_agent_rust lib-only test run (task bmmt3wlyz) — if not yet notified, check status; otherwise no-op fallback. Once confirmed, verify the installed pi binary (pi --version) and proceed with restarting the mlx-lm server to deploy the generation-stall fix, then report full status to the user.
+The mlx server restart task (bngz7o3p0) has completed — the monitor stream for it has ended.
