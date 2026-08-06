@@ -8423,3 +8423,4 @@
 - 2026-08-06 14:46 — Use 'list' (noun) instead of '盘点' (inventory); 'think through' is more natural than '思考一下' in this context.
 - 2026-08-06 14:47 — Use 'review' as a verb directly, similar to Chinese 'review一下'.
 - 2026-08-06 14:48 — Use the active voice ('Task 5 is done') instead of just pasting the raw notification raw. It's clearer.
+- 2026-08-06 14:56 — "检查一下" translates to "check" (imperative), not "check a little". Omit filler words like "一下" for a more direct developer tone.
