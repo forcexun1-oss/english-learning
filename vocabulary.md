@@ -8442,3 +8442,4 @@
 - 2026-08-06 16:12 — "把" at the end softens the request, similar to "吧" (suggestion/imperative tone).
 - 2026-08-06 16:18 — Use "stored there" instead of "written in" for clarity when referring to a directory.
 - 2026-08-06 16:24 — "清掉" is informal — use "clear" or "delete" instead. "混" here means "get mixed up/confused," not literal mixing.
+- 2026-08-06 16:28 — Use 'also' before the verb when adding another item. '还有' can mean 'also' or 'still' — here 'also' fits better.
