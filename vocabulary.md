@@ -8450,3 +8450,4 @@
 - 2026-08-06 16:52 — "Context window" is the correct term. Use "how large" for size, but "check the size" is more natural as an instruction.
 - 2026-08-06 16:54 — '消耗' here means 'consumed' or 'used' (e.g., tokens or budget). '看不到吗' is a rhetorical question, often translated as 'Can't you see it?' or 'Isn't it visible?'.
 - 2026-08-06 16:55 — Use "No, I mean" to correct a misunderstanding, not "not I said".
+- 2026-08-06 17:28 — ‘玩意’ is informal; use ‘thing’ or ‘feature’ in professional contexts.
