@@ -8471,3 +8471,4 @@
 - 2026-08-06 23:48 — In Chinese, the object ('代码') can come before the subject for emphasis, but English questions require subject-verb inversion: 'Did you fix...'
 - 2026-08-06 23:49 — In English, '加' often needs an object like 'it' or 'the configuration' to make the sentence complete.
 - 2026-08-06 23:55 — "看看" can be translated as "look into" or "see how to" in this context, implying investigation.
+- 2026-08-07 00:06 — Use 'those' to refer to specific items previously mentioned, like 'those garbage sessions'.
