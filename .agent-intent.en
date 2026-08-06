@@ -1,1 +1,1 @@
-The mlx server restart task (bngz7o3p0) has completed — the monitor stream for it has ended.
+Check if the mlx-lm server (task bngz7o3p0) is back up after restart. If it's up, run a digest-shaped repro to confirm the generation-stall fix is deployed and working, then report the full final status to the user covering all 4 fixes: stale pi binary rebuilt+installed, reviewNow sandbox-path fixed, mlx server stall-timeout fixed and restarted, and the poison-pill session with an empty tool_call name that gives up after MAX_DIGEST_ATTEMPTS. If not up yet, check its status.
