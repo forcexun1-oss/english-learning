@@ -8463,3 +8463,4 @@
 - 2026-08-06 22:28 — Use 'not making progress' or 'stuck' instead of '跑不出来' (can't run out) to describe the process not completing.
 - 2026-08-06 22:49 — For yes/no questions in English, invert the subject and verb: 'Is the context too long?' instead of 'Is it that the context is too long?'.
 - 2026-08-06 23:06 — In English, “查” as a command is often “Check.” or “Check it.”
+- 2026-08-06 23:31 — Use 'during the summary' instead of 'when summarizing' to be more precise in a technical context. Also, 'session ID' is a compound noun; no article is needed before it.
