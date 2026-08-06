@@ -1,1 +1,1 @@
-Refactor this project: extract all configuration into a directory that can be managed by the agent panel, and update the prompt to indicate where it's placed. Also, should the configuration documentation and the configuration itself be separated?
+My goal is to enable the agent to self-manage.
