@@ -8461,3 +8461,4 @@
 - 2026-08-06 19:05 — The '了' at the end indicates a change of state or to stop doing something, so '不要...了' means 'don't do ... anymore'.
 - 2026-08-06 20:04 — In Chinese, '把' indicates handling an object; in English, just use the verb directly (e.g., 'delete mark' instead of 'put mark deleted').
 - 2026-08-06 22:28 — Use 'not making progress' or 'stuck' instead of '跑不出来' (can't run out) to describe the process not completing.
+- 2026-08-06 22:49 — For yes/no questions in English, invert the subject and verb: 'Is the context too long?' instead of 'Is it that the context is too long?'.
