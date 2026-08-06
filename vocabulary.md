@@ -8455,3 +8455,4 @@
 - 2026-08-06 18:00 — The Chinese particle '吧' softens a suggestion, often translated as 'let's' or a gentle command.
 - 2026-08-06 18:02 — Use 'merged into' (not 'merged to') when referring to branches.
 - 2026-08-06 18:32 — Use 'didn't work' instead of '没删掉' to express that an action failed.
+- 2026-08-06 18:36 — Use 'can't' to express inability, not 'no'.
