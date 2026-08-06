@@ -8414,3 +8414,4 @@
 - 2026-08-06 11:50 — Use 'self-manage' as a verb (e.g., 'to self-manage') or 'self-management' as a noun. Here, 'enable the agent to self-manage' is natural.
 - 2026-08-06 13:00 — Use 'self-managing' (adjective) or 'self-manage' (verb) to describe an agent that manages itself.
 - 2026-08-06 13:04 — The '了' at the end indicates a change of state, so 'not responding' becomes 'is not responding' (present state).
+- 2026-08-06 13:11 — Use a complete sentence instead of just a number to make your intent clear.
