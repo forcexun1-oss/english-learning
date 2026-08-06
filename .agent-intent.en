@@ -1,1 +1,1 @@
-I'm seeing repeated errors in the logs — processes failing with 'generation stalled', a provider error about 'tool_call.function.name must be a non-empty string', and multiple cold start timeouts. Any idea what's going wrong?
+Check if it's deadlocked again.
