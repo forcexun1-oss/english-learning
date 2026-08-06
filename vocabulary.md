@@ -8432,3 +8432,4 @@
 - 2026-08-06 15:26 — "停了" uses the particle 了 to indicate a change of state; in English, "Did it stop?" or "Has it stopped?" would be more precise, but "Stopped?" works conversationally.
 - 2026-08-06 15:30 — "停了" is a question about whether something stopped, so use "Did it stop?" instead of the literal "Stopped?".
 - 2026-08-06 15:35 — Use imperative mood ('Fix the bug') instead of '你先解决bug' — it's direct and natural for developer instructions.
+- 2026-08-06 16:02 — Use 'the session list read by digest' instead of 'digest读的session列表' to sound more natural.
