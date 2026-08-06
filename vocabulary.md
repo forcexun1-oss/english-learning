@@ -8446,3 +8446,4 @@
 - 2026-08-06 16:37 — In this context, 'polluted' is understandable but 'contaminated' or 'corrupted' is more common for data.
 - 2026-08-06 16:41 — "串" in this context means "cross-contaminate" or "get mixed up". Use "cross-contaminate" for technical contexts.
 - 2026-08-06 16:48 — Use 'is quantized' instead of 'has quantization' for technical features like KV cache.
+- 2026-08-06 16:50 — '听了' should be '停了' (stopped), not 'listened'.
