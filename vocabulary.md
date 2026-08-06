@@ -8356,3 +8356,4 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-06 09:22 — "挂掉" in tech context means "crash" or "fail". Use past tense "crashed" because it already happened.
+- 2026-08-06 09:24 — Use 'commit' for git actions, not 'submit'.
