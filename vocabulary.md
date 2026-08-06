@@ -8469,3 +8469,4 @@
 - 2026-08-06 23:40 — 串了 is colloquial; in technical English, use 'mixed up' or 'crossed' to describe data getting confused.
 - 2026-08-06 23:47 — '删掉' translates to 'delete' in technical contexts.
 - 2026-08-06 23:48 — In Chinese, the object ('代码') can come before the subject for emphasis, but English questions require subject-verb inversion: 'Did you fix...'
+- 2026-08-06 23:49 — In English, '加' often needs an object like 'it' or 'the configuration' to make the sentence complete.
