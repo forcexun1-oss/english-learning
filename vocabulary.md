@@ -8443,3 +8443,4 @@
 - 2026-08-06 16:18 — Use "stored there" instead of "written in" for clarity when referring to a directory.
 - 2026-08-06 16:24 — "清掉" is informal — use "clear" or "delete" instead. "混" here means "get mixed up/confused," not literal mixing.
 - 2026-08-06 16:28 — Use 'also' before the verb when adding another item. '还有' can mean 'also' or 'still' — here 'also' fits better.
+- 2026-08-06 16:37 — In this context, 'polluted' is understandable but 'contaminated' or 'corrupted' is more common for data.
