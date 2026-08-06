@@ -8459,3 +8459,4 @@
 - 2026-08-06 18:38 — Use 'a bit' or 'slightly' before adjectives to express 'a little' (e.g., 'a bit smaller').
 - 2026-08-06 19:04 — "可以" can mean "okay", "can", or "alright" depending on context. Here it's a simple acknowledgment.
 - 2026-08-06 19:05 — The '了' at the end indicates a change of state or to stop doing something, so '不要...了' means 'don't do ... anymore'.
+- 2026-08-06 20:04 — In Chinese, '把' indicates handling an object; in English, just use the verb directly (e.g., 'delete mark' instead of 'put mark deleted').
