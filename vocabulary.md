@@ -8403,4 +8403,7 @@
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
 - 2026-08-06 10:39 — 'Routine' means normal/expected; 'benign' means harmless.
+<<<<<<< Updated upstream
 - 2026-08-06 10:49 — ‘一起’ here can mean ‘all at once’ or ‘together’ — in a coding context, ‘fix them all together’ implies fixing all issues in one go.
+=======
+>>>>>>> Stashed changes
