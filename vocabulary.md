@@ -8427,3 +8427,4 @@
 - 2026-08-06 15:00 — Use 'What about now?' to ask for the current status after changes.
 - 2026-08-06 15:08 — Use 'appear' instead of 'show' for intransitive actions: 'the hover appears after 2 seconds'.
 - 2026-08-06 15:15 — "改坏了" means 'broke it' or 'messed it up'; the final "把" is a filler word, not needed in English.
+- 2026-08-06 15:18 — The structure '还是...才' means 'still... only after'. '弹' is short for '弹窗' (pop-up).
