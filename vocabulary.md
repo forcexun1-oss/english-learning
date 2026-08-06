@@ -8434,3 +8434,4 @@
 - 2026-08-06 15:35 — Use imperative mood ('Fix the bug') instead of '你先解决bug' — it's direct and natural for developer instructions.
 - 2026-08-06 16:02 — Use 'the session list read by digest' instead of 'digest读的session列表' to sound more natural.
 - 2026-08-06 16:04 — 相同 means 'same'; in English we often ask 'Are they the same?' or 'Are they identical?'
+- 2026-08-06 16:05 — "混淆" here means "get mixed up" (for data/items), not "become confused" (for a person).
