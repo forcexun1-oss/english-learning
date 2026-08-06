@@ -8466,3 +8466,4 @@
 - 2026-08-06 23:31 — Use 'during the summary' instead of 'when summarizing' to be more precise in a technical context. Also, 'session ID' is a compound noun; no article is needed before it.
 - 2026-08-06 23:33 — Use 'summarized memory' to refer to memory that was summarized, or 'memory that was summarized' for clarity.
 - 2026-08-06 23:36 — "串了" here means data or signals are crossing/mixing up (e.g., cross-contaminated). Use 'mixed up' or 'crossed'.
+- 2026-08-06 23:40 — 串了 is colloquial; in technical English, use 'mixed up' or 'crossed' to describe data getting confused.
