@@ -8472,3 +8472,4 @@
 - 2026-08-06 23:49 — In English, '加' often needs an object like 'it' or 'the configuration' to make the sentence complete.
 - 2026-08-06 23:55 — "看看" can be translated as "look into" or "see how to" in this context, implying investigation.
 - 2026-08-07 00:06 — Use 'those' to refer to specific items previously mentioned, like 'those garbage sessions'.
+- 2026-08-07 00:12 — “追溯” here means “trace back” or “track the origin of”. Use “trace the source of” for clarity.
