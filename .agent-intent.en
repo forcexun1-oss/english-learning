@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Let's fundamentally solve the mechanism that causes deadlock. First, check whether this lock is appropriate — should it be added this way? Is the root cause fundamentally wrong?
+=======
+What quantization is the model currently using in mlx-lm?
+>>>>>>> Stashed changes
 =======
 What quantization is the model currently using in mlx-lm?
 >>>>>>> Stashed changes
