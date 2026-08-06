@@ -8417,3 +8417,4 @@
 - 2026-08-06 13:11 — Use a complete sentence instead of just a number to make your intent clear.
 - 2026-08-06 13:16 — Use 'in [time]' for future duration, e.g., 'in 33 minutes' instead of 'after 33 minutes'.
 - 2026-08-06 13:18 — "33分钟之后" = "in 33 minutes" (future time). Use "in" not "after" for durations from now.
+- 2026-08-06 13:25 — "看看" translates to "check" or "look at". Use "history dialog panel" to match the technical context.
