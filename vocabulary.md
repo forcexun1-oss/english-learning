@@ -8448,3 +8448,4 @@
 - 2026-08-06 16:48 — Use 'is quantized' instead of 'has quantization' for technical features like KV cache.
 - 2026-08-06 16:50 — '听了' should be '停了' (stopped), not 'listened'.
 - 2026-08-06 16:52 — "Context window" is the correct term. Use "how large" for size, but "check the size" is more natural as an instruction.
+- 2026-08-06 16:54 — '消耗' here means 'consumed' or 'used' (e.g., tokens or budget). '看不到吗' is a rhetorical question, often translated as 'Can't you see it?' or 'Isn't it visible?'.
