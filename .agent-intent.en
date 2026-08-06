@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Let's fundamentally solve the mechanism that causes deadlock. First, check whether this lock is appropriate — should it be added this way? Is the root cause fundamentally wrong?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+I'm seeing repeated errors in the logs — processes failing with 'generation stalled', a provider error about 'tool_call.function.name must be a non-empty string', and multiple cold start timeouts. Any idea what's going wrong?
