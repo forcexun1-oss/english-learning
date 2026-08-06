@@ -8392,3 +8392,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-06 10:28 — Use 'dig deeper' instead of 'dig further' — 'deeper' is more idiomatic for this context.
