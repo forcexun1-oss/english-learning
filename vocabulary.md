@@ -8425,3 +8425,4 @@
 - 2026-08-06 14:48 — Use the active voice ('Task 5 is done') instead of just pasting the raw notification raw. It's clearer.
 - 2026-08-06 14:56 — "检查一下" translates to "check" (imperative), not "check a little". Omit filler words like "一下" for a more direct developer tone.
 - 2026-08-06 15:00 — Use 'What about now?' to ask for the current status after changes.
+- 2026-08-06 15:08 — Use 'appear' instead of 'show' for intransitive actions: 'the hover appears after 2 seconds'.
