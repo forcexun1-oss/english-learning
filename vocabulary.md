@@ -8452,3 +8452,4 @@
 - 2026-08-06 16:55 — Use "No, I mean" to correct a misunderstanding, not "not I said".
 - 2026-08-06 17:28 — ‘玩意’ is informal; use ‘thing’ or ‘feature’ in professional contexts.
 - 2026-08-06 17:29 — "看看" is informal; use "check" or "look into" for a more professional tone.
+- 2026-08-06 18:00 — The Chinese particle '吧' softens a suggestion, often translated as 'let's' or a gentle command.
