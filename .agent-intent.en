@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Will MLX keep generating indefinitely once it starts?
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
-=======
-What quantization is the model currently using in mlx-lm?
->>>>>>> Stashed changes
+The event is just a routine exit output ('pong') from the backgrounded process. No action needed.
