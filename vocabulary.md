@@ -7975,6 +7975,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-04 17:32 — Use 'quantized' (past participle) for describing how a model is quantized.
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
@@ -8394,3 +8395,6 @@
 >>>>>>> Stashed changes
 - 2026-08-06 10:28 — Use 'dig deeper' instead of 'dig further' — 'deeper' is more idiomatic for this context.
 - 2026-08-06 10:29 — Use 'once it starts' instead of 'as long as it is generating' to sound more natural; the Chinese '只要...就' is often best translated as 'once' or 'if' for conditional behavior.
+=======
+- 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
+>>>>>>> Stashed changes
