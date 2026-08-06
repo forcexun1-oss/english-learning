@@ -8373,3 +8373,4 @@
 =======
 - 2026-08-04 17:31 — "量化" is typically translated as "quantization" in English, but for clarity, consider specifying "quantization level" or "quantization bit width" (e.g., int4, int8).
 >>>>>>> Stashed changes
+- 2026-08-06 09:39 — '根子上' means 'at the root' or 'fundamentally'. Use 'fundamentally' or 'at the root' for natural English.
