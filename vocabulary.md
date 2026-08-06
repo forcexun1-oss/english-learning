@@ -8422,3 +8422,4 @@
 - 2026-08-06 13:59 — In git context, '提交' translates to 'commit'. Use 'correctly' (adverb) for actions: 'Did he commit correctly?'
 - 2026-08-06 14:46 — Use 'list' (noun) instead of '盘点' (inventory); 'think through' is more natural than '思考一下' in this context.
 - 2026-08-06 14:47 — Use 'review' as a verb directly, similar to Chinese 'review一下'.
+- 2026-08-06 14:48 — Use the active voice ('Task 5 is done') instead of just pasting the raw notification raw. It's clearer.
