@@ -1,1 +1,1 @@
-My question is: will the sources of sessions get mixed up, causing the content to be incorrect?
+Looking at the current conversation, it seems like the long context is causing the model to repeatedly call tools. Check if the KV cache is quantized.

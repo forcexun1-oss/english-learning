@@ -8445,3 +8445,4 @@
 - 2026-08-06 16:28 — Use 'also' before the verb when adding another item. '还有' can mean 'also' or 'still' — here 'also' fits better.
 - 2026-08-06 16:37 — In this context, 'polluted' is understandable but 'contaminated' or 'corrupted' is more common for data.
 - 2026-08-06 16:41 — "串" in this context means "cross-contaminate" or "get mixed up". Use "cross-contaminate" for technical contexts.
+- 2026-08-06 16:48 — Use 'is quantized' instead of 'has quantization' for technical features like KV cache.
