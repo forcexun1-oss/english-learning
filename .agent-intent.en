@@ -1,1 +1,1 @@
-I mean, which programming tool works best with this model, specifically the CLI one?
+1. Keep everything local. Handle all of it, regardless of whether it's part of this change.
