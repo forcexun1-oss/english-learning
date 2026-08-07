@@ -8512,3 +8512,4 @@
 - 2026-08-07 16:09 — "配" is short for "配置" (configure). In informal contexts, use "help me configure/set up".
 - 2026-08-07 16:15 — Use 'don't push' (imperative) instead of 'don't push them' if the object is clear, but keeping 'them' is fine for clarity.
 - 2026-08-07 16:21 — '异地备份' translates to 'off-site backup' or 'remote backup'.
+- 2026-08-07 16:22 — Use 'anymore' to indicate a change in status (previously needed, now not). '这个' can be translated as 'it' or 'this one'.
