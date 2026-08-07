@@ -8481,3 +8481,4 @@
 - 2026-08-07 10:00 — The phrase '用哪个最好' is commonly translated as 'which one is best' (no 'the' needed before 'best' in this context).
 - 2026-08-07 10:09 — "配置话的" should be "可配置的" → "configurable". "Project prompt" refers to the AI instruction file (e.g., CLAUDE.md) in the repo.
 - 2026-08-07 10:16 — 用 "merge them all into main" 表达“都合并到main”，比 "merge all into main" 更自然。
+- 2026-08-07 10:27 — Use 'pre-select' or 'choose in advance' to express '预先选'.
