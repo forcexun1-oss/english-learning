@@ -1,1 +1,1 @@
-Fix the failed ones.
+For linear attention, wouldn't it be better to store a complete copy at the branching point instead of having to rollback?
