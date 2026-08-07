@@ -8548,3 +8548,4 @@
 - 2026-08-07 23:36 — "合入" means "merge into" (as in merging code). Keep branch names like "main" unchanged.
 - 2026-08-07 23:37 — '合入' is short for 'merged into a branch'. '写盘' means 'write to disk' — use 'write to disk' rather than 'disk write'.
 - 2026-08-07 23:54 — Use 'recalculates' to imply redoing previous work, which is more precise than 'calculates'.
+- 2026-08-08 00:06 — Use "spike" or "surge" to describe a sudden increase (暴涨) in memory/CPU.
