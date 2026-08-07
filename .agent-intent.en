@@ -1,1 +1,1 @@
-Review this plan. The linear attention part is wrong, right? What I want is that at the tree's branching point, just store a complete copy. Isn't that sufficient?
+That's not right, the same string should produce the same tokens, right?
