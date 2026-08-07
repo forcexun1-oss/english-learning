@@ -1,1 +1,1 @@
-1. Keep everything local. Handle all of it, regardless of whether it's part of this change.
+I previously asked that before modifying code in any project, we should create a branch, open a worktree, auto-commit, and maintain gitnexus properly. Also, move the line numbers out of gitnexus so that no extra changes appear after committing. Have these been added to the overall control, or have they only been applied to one project?
