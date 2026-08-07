@@ -8544,3 +8544,4 @@
 - 2026-08-07 22:47 — "下好了" is colloquial for 'finished downloading'. Use 'download is complete' or 'download is done' in formal/informal English.
 - 2026-08-07 23:15 — Use 'trigger a recalculation' for more natural phrasing: 'Does restart trigger a recalculation?'
 - 2026-08-07 23:16 — ‘落库’ (luò kù) is Chinese tech slang for ‘persist to the database’ or ‘save to the database’. In English, use ‘persist’, ‘save to the database’, or ‘commit’.
+- 2026-08-07 23:30 — Use 'done' + verb-ing to mean 'finished doing something' (e.g., 'done downloading').
