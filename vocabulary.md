@@ -8530,3 +8530,4 @@
 - 2026-08-07 17:05 — Use 'if it's quick' for the pattern '快就...' meaning 'if it's fast, then...'.
 - 2026-08-07 17:13 — Capitalize 'Codex' as it's a proper noun.
 - 2026-08-07 17:26 — Use 'broken' for '坏了' (malfunctioning). 'FTS' stands for Full-Text Search, a common tech acronym.
+- 2026-08-07 17:36 — ‘再看看’ means ‘check again’ or ‘take another look’. In English, you can say ‘check again’ or ‘try again’.
