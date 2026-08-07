@@ -8542,3 +8542,4 @@
 - 2026-08-07 21:28 — Use 'Is it running?' to ask if a process or task is currently in progress.
 - 2026-08-07 21:29 — Use 'how come' for a casual 'why', or 'why' for a more direct question. '在跑' here means 'running' (in progress).
 - 2026-08-07 22:47 — "下好了" is colloquial for 'finished downloading'. Use 'download is complete' or 'download is done' in formal/informal English.
+- 2026-08-07 23:15 — Use 'trigger a recalculation' for more natural phrasing: 'Does restart trigger a recalculation?'
