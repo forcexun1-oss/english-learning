@@ -8493,3 +8493,4 @@
 - 2026-08-07 13:57 — In Chinese, '这类' means 'this kind of', but in this context it's more natural to just refer to the class directly.
 - 2026-08-07 14:03 — Use '还是' for alternative questions (choice between two options), not '或者'.
 - 2026-08-07 14:06 — When asking about code origins, 'inherited from' is fine, but 'based on' or 'derived from' is more common for software projects.
+- 2026-08-07 14:08 — Use 'currently' for '现在' in this context. 'Recorded' is correct, but 'logged' is more common for system logs.

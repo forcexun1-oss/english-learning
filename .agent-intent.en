@@ -1,1 +1,1 @@
-Is serve_ollama_stream.py completely new, or is it inherited from mlx_lm/server.py?
+Are the request prompts currently being recorded?
