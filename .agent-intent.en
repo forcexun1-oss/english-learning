@@ -1,1 +1,1 @@
-For the 30 layers, we use the linear attention approach with full storage at fork points, and for the 10 layers with standard attention, we keep the original tree structure, right?
+Review this plan. The linear attention part is wrong, right? What I want is that at the tree's branching point, just store a complete copy. Isn't that sufficient?
