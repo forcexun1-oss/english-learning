@@ -1,1 +1,1 @@
-1. Save to disk; even if not in memory, it can be read from disk. 2. For the Qwen 3.6 architecture, all models have 40 layers, right? 10 layers can be pruned, and for the other 30 layers, when pruning, is it necessary to store more data?
+Is PrefixKVCachePool something we wrote ourselves, or did it already exist?
