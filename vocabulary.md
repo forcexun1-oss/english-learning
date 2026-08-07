@@ -8520,3 +8520,4 @@
 - 2026-08-07 16:26 — Use 'did you include' instead of 'did you bring' for API fields.
 - 2026-08-07 16:28 — 嘛 adds a casual tone in Chinese. In English, you can omit it or use 'then'.
 - 2026-08-07 16:30 — "抓包" is typically translated as "packet capture" or "capture packets".
+- 2026-08-07 16:30 — Use 'by default' to mean '默认情况下'.
