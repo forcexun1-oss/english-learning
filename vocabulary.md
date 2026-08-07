@@ -8522,3 +8522,4 @@
 - 2026-08-07 16:30 — "抓包" is typically translated as "packet capture" or "capture packets".
 - 2026-08-07 16:30 — Use 'by default' to mean '默认情况下'.
 - 2026-08-07 16:31 — Use 'automatically' or 'on its own' instead of 'by himself' when referring to a tool or AI.
+- 2026-08-07 16:33 — "用量" translates to "usage"; "查看" translates to "check" or "view".
