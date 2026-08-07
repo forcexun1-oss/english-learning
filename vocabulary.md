@@ -8496,3 +8496,4 @@
 - 2026-08-07 14:08 — Use 'currently' for '现在' in this context. 'Recorded' is correct, but 'logged' is more common for system logs.
 - 2026-08-07 14:10 — '打得稀烂' is a colloquial way to say 'done terribly' or 'a mess'. For logging, you can say 'the logging is a mess' or 'the logging is poorly done.'
 - 2026-08-07 14:14 — Use 'integrate' instead of 'connect' when talking about combining systems. Also, 'standard' (as an adjective) is fine here, but 'standardized' is more common for enforced formats.
+- 2026-08-07 14:31 — Use 'from before' instead of 'quantization之前的' to sound more natural in English.
