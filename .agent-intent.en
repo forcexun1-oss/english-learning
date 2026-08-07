@@ -1,1 +1,1 @@
-Merged. How does restart trigger writing to disk?
+Have you tried it? Now every time it restarts, it recalculates a whole bunch of stuff.
