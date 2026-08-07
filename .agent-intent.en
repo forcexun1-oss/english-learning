@@ -1,1 +1,1 @@
-Also, isn't this data persisted to disk?
+Does the service I'm currently using also utilize PrefixKVCachePool._slots? But isn't it true that Qwen cannot be pruned?
