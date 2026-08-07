@@ -1,1 +1,1 @@
-For linear attention, wouldn't it be better to store a complete copy at the branching point instead of having to rollback?
+For example, a tree: one root node, two child nodes — that's three copies, right?
