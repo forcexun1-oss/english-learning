@@ -1,1 +1,1 @@
-Does restart mean recalculating?
+Why did the restart trigger recalculation without persisting to the database? When will it be persisted?
