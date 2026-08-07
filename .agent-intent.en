@@ -1,1 +1,1 @@
-1. Start with linear attention. 2. Add a parameter with a default value of 2. So by the third request, there will be a cache, right?
+What does '2' mean?
