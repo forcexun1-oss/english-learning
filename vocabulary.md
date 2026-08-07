@@ -8550,3 +8550,4 @@
 - 2026-08-07 23:54 — Use 'recalculates' to imply redoing previous work, which is more precise than 'calculates'.
 - 2026-08-08 00:06 — Use "spike" or "surge" to describe a sudden increase (暴涨) in memory/CPU.
 - 2026-08-08 00:11 — Use 'recompute' for technical processes (e.g., caching, builds); 'recalculate' is more general.
+- 2026-08-08 00:45 — Use 'hit the cache' (not 'hit cache') as a fixed phrase. '命中' = 'hit' in this context.
