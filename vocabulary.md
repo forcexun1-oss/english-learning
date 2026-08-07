@@ -8531,3 +8531,4 @@
 - 2026-08-07 17:13 — Capitalize 'Codex' as it's a proper noun.
 - 2026-08-07 17:26 — Use 'broken' for '坏了' (malfunctioning). 'FTS' stands for Full-Text Search, a common tech acronym.
 - 2026-08-07 17:36 — ‘再看看’ means ‘check again’ or ‘take another look’. In English, you can say ‘check again’ or ‘try again’.
+- 2026-08-07 17:49 — ‘咋样了’ is a very casual way to ask ‘How’s it going?’ In English, you can use ‘How’s it going?’ or ‘What’s the status?’ in a work context.
