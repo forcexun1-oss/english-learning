@@ -8518,3 +8518,4 @@
 - 2026-08-07 16:24 — '走了' is colloquial; in technical English, use 'use' or 'utilize' instead.
 - 2026-08-07 16:25 — Use 'it' instead of 'he' for non-human subjects like cache. Also, 'hit the cache' is the correct collocation.
 - 2026-08-07 16:26 — Use 'did you include' instead of 'did you bring' for API fields.
+- 2026-08-07 16:28 — 嘛 adds a casual tone in Chinese. In English, you can omit it or use 'then'.
