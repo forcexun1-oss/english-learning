@@ -8514,3 +8514,4 @@
 - 2026-08-07 16:21 — '异地备份' translates to 'off-site backup' or 'remote backup'.
 - 2026-08-07 16:22 — Use 'anymore' to indicate a change in status (previously needed, now not). '这个' can be translated as 'it' or 'this one'.
 - 2026-08-07 16:23 — "干活" is colloquial for 'work'; use "start working" or "get to work" in formal/informal English.
+- 2026-08-07 16:23 — "就这样了" means 'that's it' or 'this is fine as is'. '干活' is colloquial for 'work/busy'.
