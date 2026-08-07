@@ -8491,3 +8491,4 @@
 - 2026-08-07 13:24 — Use 'isn't it true that' to rhetorically confirm a fact, or 'isn't it the case that' for a more formal tone.
 - 2026-08-07 13:42 — Use 'save to disk' instead of '存盘' (literal translation). '存得多一些' can be expressed as 'store more data' or 'store more information'.
 - 2026-08-07 13:57 — In Chinese, '这类' means 'this kind of', but in this context it's more natural to just refer to the class directly.
+- 2026-08-07 14:03 — Use '还是' for alternative questions (choice between two options), not '或者'.
