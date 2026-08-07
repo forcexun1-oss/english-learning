@@ -8539,3 +8539,4 @@
 - 2026-08-07 20:32 — "让" can be translated as 'let' or 'have' in commands.
 - 2026-08-07 20:59 — Use 'until it's done' for '修好为止' and 'stop asking' for '别再问了'.
 - 2026-08-07 21:07 — Use past tense 'completed' to describe finished actions. 'Exit code 0' is standard terminology for success.
+- 2026-08-07 21:28 — Use 'Is it running?' to ask if a process or task is currently in progress.
