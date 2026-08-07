@@ -8510,3 +8510,4 @@
 - 2026-08-07 15:56 — "杀" here is slang for "kill" (terminate a process). In technical contexts, use "kill" or "terminate."
 - 2026-08-07 16:07 — 移动硬盘 is usually 'external hard drive' or 'portable hard drive' in English. '建个' is casual for 'set up' or 'create'.
 - 2026-08-07 16:09 — "配" is short for "配置" (configure). In informal contexts, use "help me configure/set up".
+- 2026-08-07 16:15 — Use 'don't push' (imperative) instead of 'don't push them' if the object is clear, but keeping 'them' is fine for clarity.
