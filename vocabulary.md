@@ -8535,3 +8535,4 @@
 - 2026-08-07 17:50 — Use 'have it' + verb to mean 'tell it to do something'.
 - 2026-08-07 18:21 — Use 'let someone do something' for giving instructions.
 - 2026-08-07 19:02 — '自己干吧' can mean 'do it yourself' or 'let it work on its own'. Here, based on context, it means letting the assistant proceed independently.
+- 2026-08-07 19:28 — Use a complete sentence instead of just a noun to make the command clear.
