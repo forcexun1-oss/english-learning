@@ -8474,3 +8474,4 @@
 - 2026-08-07 00:06 — Use 'those' to refer to specific items previously mentioned, like 'those garbage sessions'.
 - 2026-08-07 00:12 — “追溯” here means “trace back” or “track the origin of”. Use “trace the source of” for clarity.
 - 2026-08-07 00:26 — Use 'merge into' rather than 'merge to' for Git branches.
+- 2026-08-07 09:06 — In Chinese, 有没有 can be used to ask 'is there or not'. In English, 'Are there any...' is more natural for yes/no questions about existence.
