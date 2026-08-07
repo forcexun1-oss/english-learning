@@ -8521,3 +8521,4 @@
 - 2026-08-07 16:28 — 嘛 adds a casual tone in Chinese. In English, you can omit it or use 'then'.
 - 2026-08-07 16:30 — "抓包" is typically translated as "packet capture" or "capture packets".
 - 2026-08-07 16:30 — Use 'by default' to mean '默认情况下'.
+- 2026-08-07 16:31 — Use 'automatically' or 'on its own' instead of 'by himself' when referring to a tool or AI.
