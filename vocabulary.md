@@ -8525,3 +8525,4 @@
 - 2026-08-07 16:33 — "用量" translates to "usage"; "查看" translates to "check" or "view".
 - 2026-08-07 16:34 — You wrote '把' (bǎ) but likely meant '吧' (ba), which is a sentence-final particle used for confirmation or suggestion.
 - 2026-08-07 16:36 — Use 'quantized' (not '量化的' directly) as the past participle adjective for model formats.
+- 2026-08-07 16:42 — Use 'Have [someone] do [something]' to give a direct instruction, like 'Have Codex fix it'.
