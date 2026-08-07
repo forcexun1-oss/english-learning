@@ -8533,3 +8533,4 @@
 - 2026-08-07 17:36 — ‘再看看’ means ‘check again’ or ‘take another look’. In English, you can say ‘check again’ or ‘try again’.
 - 2026-08-07 17:49 — ‘咋样了’ is a very casual way to ask ‘How’s it going?’ In English, you can use ‘How’s it going?’ or ‘What’s the status?’ in a work context.
 - 2026-08-07 17:50 — Use 'have it' + verb to mean 'tell it to do something'.
+- 2026-08-07 18:21 — Use 'let someone do something' for giving instructions.
