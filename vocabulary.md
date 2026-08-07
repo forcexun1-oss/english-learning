@@ -8551,3 +8551,4 @@
 - 2026-08-08 00:06 — Use "spike" or "surge" to describe a sudden increase (暴涨) in memory/CPU.
 - 2026-08-08 00:11 — Use 'recompute' for technical processes (e.g., caching, builds); 'recalculate' is more general.
 - 2026-08-08 00:45 — Use 'hit the cache' (not 'hit cache') as a fixed phrase. '命中' = 'hit' in this context.
+- 2026-08-08 00:48 — In Chinese, '去修' uses '去' to indicate 'go do', but in English commands, you can omit 'go' and just use the verb directly.
