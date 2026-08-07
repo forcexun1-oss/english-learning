@@ -8545,3 +8545,4 @@
 - 2026-08-07 23:15 — Use 'trigger a recalculation' for more natural phrasing: 'Does restart trigger a recalculation?'
 - 2026-08-07 23:16 — ‘落库’ (luò kù) is Chinese tech slang for ‘persist to the database’ or ‘save to the database’. In English, use ‘persist’, ‘save to the database’, or ‘commit’.
 - 2026-08-07 23:30 — Use 'done' + verb-ing to mean 'finished doing something' (e.g., 'done downloading').
+- 2026-08-07 23:36 — "合入" means "merge into" (as in merging code). Keep branch names like "main" unchanged.
