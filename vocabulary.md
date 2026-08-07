@@ -8509,3 +8509,4 @@
 - 2026-08-07 15:46 — In English, the adverb 'first' usually comes after the verb or at the end of the sentence.
 - 2026-08-07 15:56 — "杀" here is slang for "kill" (terminate a process). In technical contexts, use "kill" or "terminate."
 - 2026-08-07 16:07 — 移动硬盘 is usually 'external hard drive' or 'portable hard drive' in English. '建个' is casual for 'set up' or 'create'.
+- 2026-08-07 16:09 — "配" is short for "配置" (configure). In informal contexts, use "help me configure/set up".
