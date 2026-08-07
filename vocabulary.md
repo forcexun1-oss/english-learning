@@ -8477,3 +8477,4 @@
 - 2026-08-07 09:06 — In Chinese, 有没有 can be used to ask 'is there or not'. In English, 'Are there any...' is more natural for yes/no questions about existence.
 - 2026-08-07 09:25 — Use ‘两个方向’ (both directions) instead of ‘另个方向’. ‘另个’ is a contraction that is not standard in written Chinese.
 - 2026-08-07 09:46 — Use 'What does ... do?' to ask about the purpose or function of something, instead of the literal 'is doing what?'.
+- 2026-08-07 09:47 — In Chinese, '他' is often used to refer to an object or code, but in English, use 'it' instead.
