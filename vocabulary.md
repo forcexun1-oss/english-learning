@@ -8528,3 +8528,4 @@
 - 2026-08-07 16:42 — Use 'Have [someone] do [something]' to give a direct instruction, like 'Have Codex fix it'.
 - 2026-08-07 16:43 — Use 'completed successfully' instead of 'completed (exit code 0)' in natural conversation.
 - 2026-08-07 17:05 — Use 'if it's quick' for the pattern '快就...' meaning 'if it's fast, then...'.
+- 2026-08-07 17:13 — Capitalize 'Codex' as it's a proper noun.
