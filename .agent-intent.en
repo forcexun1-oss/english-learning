@@ -1,1 +1,1 @@
-That's not right, the same string should produce the same tokens, right?
+This design is about a common prefix and KV cache. The session's cache remains session-specific. Also, I understand your issue: if the first input is 'ABCDED', you don't need to save the KV cache right away. You can start saving only when the second input 'ABCFHE' comes in. As for the fork point, the first one can also be excluded. What do you think?

@@ -8503,3 +8503,4 @@
 - 2026-08-07 14:57 — In Chinese, '还是' can mean 'still' or 'or'. Here it likely means 'still' (referring to the original tree). In English, 'still' is placed before the main verb or after 'be'.
 - 2026-08-07 15:08 — In English, 'review' can be used directly as a verb (e.g., 'Review this plan') without the Chinese filler '一下'.
 - 2026-08-07 15:15 — Use '吧' (ba) for confirmation, not '把' (ba).
+- 2026-08-07 15:25 — The phrase 'session的还是session' is a bit informal. Consider clarifying: 'The session's cache remains session-specific' or 'The session's cache is still per-session'.
