@@ -8489,3 +8489,4 @@
 - 2026-08-07 11:45 — ‘命中’ in this context translates to ‘hit’ – ‘cache hit’ is the standard term for a cache lookup success.
 - 2026-08-07 13:23 — The phrase '落盘' literally means 'fall to disk', but in tech it means 'persist to disk' or 'save to disk'.
 - 2026-08-07 13:24 — Use 'isn't it true that' to rhetorically confirm a fact, or 'isn't it the case that' for a more formal tone.
+- 2026-08-07 13:42 — Use 'save to disk' instead of '存盘' (literal translation). '存得多一些' can be expressed as 'store more data' or 'store more information'.
