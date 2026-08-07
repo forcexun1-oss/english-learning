@@ -8517,3 +8517,4 @@
 - 2026-08-07 16:23 — "就这样了" means 'that's it' or 'this is fine as is'. '干活' is colloquial for 'work/busy'.
 - 2026-08-07 16:24 — '走了' is colloquial; in technical English, use 'use' or 'utilize' instead.
 - 2026-08-07 16:25 — Use 'it' instead of 'he' for non-human subjects like cache. Also, 'hit the cache' is the correct collocation.
+- 2026-08-07 16:26 — Use 'did you include' instead of 'did you bring' for API fields.
