@@ -8486,3 +8486,4 @@
 - 2026-08-07 10:38 — In Chinese, '搞定' means 'take care of' or 'handle'. Use 'handle' or 'take care of' in English. Also, '保持本地' is a bit vague; in coding context, 'keep local' or 'do it locally' is clearer.
 - 2026-08-07 10:42 — Use 'have these been added' (present perfect passive) to ask about a completed action with relevance to now. 'Overall control' is clearer than '总控制' in this context; consider 'global configuration' or 'master setup'.
 - 2026-08-07 11:29 — '收拾残局' is an idiom meaning 'clean up the mess' or 'tidy up the aftermath'. In a technical context, 'clean up' works well.
+- 2026-08-07 11:45 — ‘命中’ in this context translates to ‘hit’ – ‘cache hit’ is the standard term for a cache lookup success.
