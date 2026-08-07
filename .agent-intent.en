@@ -1,1 +1,1 @@
-I'm currently using OpenCode to connect to this model service, using the OpenAI protocol. How can I ensure cache hits?
+Also, isn't this data persisted to disk?

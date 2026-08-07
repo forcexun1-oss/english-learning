@@ -8487,3 +8487,4 @@
 - 2026-08-07 10:42 — Use 'have these been added' (present perfect passive) to ask about a completed action with relevance to now. 'Overall control' is clearer than '总控制' in this context; consider 'global configuration' or 'master setup'.
 - 2026-08-07 11:29 — '收拾残局' is an idiom meaning 'clean up the mess' or 'tidy up the aftermath'. In a technical context, 'clean up' works well.
 - 2026-08-07 11:45 — ‘命中’ in this context translates to ‘hit’ – ‘cache hit’ is the standard term for a cache lookup success.
+- 2026-08-07 13:23 — The phrase '落盘' literally means 'fall to disk', but in tech it means 'persist to disk' or 'save to disk'.
