@@ -8595,3 +8595,4 @@
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
+- 2026-08-09 00:41 — Use 'check' instead of 'look see' for a natural command. '了' indicates a change of state.
