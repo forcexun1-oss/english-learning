@@ -1,1 +1,1 @@
-What does RELEASE=1 mean?
+mac-assistant: agent did not generate a final response (tool call failed or model ended early). The model call returned an error.

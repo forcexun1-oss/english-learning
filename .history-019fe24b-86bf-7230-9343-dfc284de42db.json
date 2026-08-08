@@ -1,1 +1,1 @@
-["看看RESUME_AFTER_REBOOT.md的工作到什么程度了,结果应该写在MLX_RESULTS.md了", "还没有完成让subagent用gpt-5.6-terra模型去做吧", "我可以直接重启了中了?配置都配好了吗,mac-assistant的启动脚本上", "RELEASE=1什么意思"]
+["看看RESUME_AFTER_REBOOT.md的工作到什么程度了,结果应该写在MLX_RESULTS.md了", "还没有完成让subagent用gpt-5.6-terra模型去做吧", "我可以直接重启了中了?配置都配好了吗,mac-assistant的启动脚本上", "RELEASE=1什么意思", "mac-assistant : agent 未生成最终回答（工具调用失败或模型提前结束） 调用模型报错了"]
