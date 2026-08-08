@@ -8569,3 +8569,4 @@
 - 2026-08-08 16:29 — 'Review一下' is casual; in English, just say 'review' or 'take a look at'. '写的不好' → 'poorly written'.
 - 2026-08-08 16:38 — Use 'switch' for changing models in this context, and 'cache misses' is more idiomatic than 'cache didn't hit'.
 - 2026-08-08 19:45 — Use 'that fragile' (informal) to express disbelief, like 'so fragile' but more natural in this context.
+- 2026-08-08 20:45 — Use 'killed' (not 'killeded') to describe a process or task that was forcibly terminated. 'Killed' is the past tense of 'kill' in this context.
