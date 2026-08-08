@@ -8571,3 +8571,4 @@
 - 2026-08-08 19:45 — Use 'that fragile' (informal) to express disbelief, like 'so fragile' but more natural in this context.
 - 2026-08-08 20:45 — Use 'killed' (not 'killeded') to describe a process or task that was forcibly terminated. 'Killed' is the past tense of 'kill' in this context.
 - 2026-08-08 21:35 — Use 'shut down' for stopping a service, and 'have [someone] execute it' is more natural than 'let [someone] do it' for assigning tasks.
+- 2026-08-08 22:03 — Use plain English sentences instead of copying raw system notifications.
