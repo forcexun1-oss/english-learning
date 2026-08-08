@@ -8573,3 +8573,4 @@
 - 2026-08-08 21:35 — Use 'shut down' for stopping a service, and 'have [someone] execute it' is more natural than 'let [someone] do it' for assigning tasks.
 - 2026-08-08 22:03 — Use plain English sentences instead of copying raw system notifications.
 - 2026-08-08 22:11 — Use past tense "completed" to describe finished tasks, and omit redundant tags like <task-notification> for clarity.
+- 2026-08-08 22:30 — Use 'completed' (not 'finished') to describe task status in developer contexts.
