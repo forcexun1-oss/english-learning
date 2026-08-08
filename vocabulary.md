@@ -8575,3 +8575,4 @@
 - 2026-08-08 22:11 — Use past tense "completed" to describe finished tasks, and omit redundant tags like <task-notification> for clarity.
 - 2026-08-08 22:30 — Use 'completed' (not 'finished') to describe task status in developer contexts.
 - 2026-08-08 22:36 — Use 'Task completed' (active verb) instead of listing fields like a status label.
+- 2026-08-08 22:41 — Use 'exit code 0' instead of 'status completed' — it's more precise in developer contexts.
