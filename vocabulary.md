@@ -8572,3 +8572,4 @@
 - 2026-08-08 20:45 — Use 'killed' (not 'killeded') to describe a process or task that was forcibly terminated. 'Killed' is the past tense of 'kill' in this context.
 - 2026-08-08 21:35 — Use 'shut down' for stopping a service, and 'have [someone] execute it' is more natural than 'let [someone] do it' for assigning tasks.
 - 2026-08-08 22:03 — Use plain English sentences instead of copying raw system notifications.
+- 2026-08-08 22:11 — Use past tense "completed" to describe finished tasks, and omit redundant tags like <task-notification> for clarity.
