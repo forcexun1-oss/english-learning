@@ -8577,8 +8577,12 @@
 - 2026-08-08 22:36 — Use 'Task completed' (active verb) instead of listing fields like a status label.
 - 2026-08-08 22:41 — Use 'exit code 0' instead of 'status completed' — it's more precise in developer contexts.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-08 23:07 — "修好为止" expresses a condition; in English, use "until it's fixed" or "until it's done."
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
 - 2026-08-08 23:11 — In English, 'kill' is often used informally to mean 'do extremely well', but 'handle' or 'crush' is more common in tech contexts.
+=======
+- 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
+>>>>>>> Stashed changes
