@@ -8554,3 +8554,4 @@
 - 2026-08-08 00:48 — In Chinese, '去修' uses '去' to indicate 'go do', but in English commands, you can omit 'go' and just use the verb directly.
 - 2026-08-08 00:52 — Use active voice and concise phrasing instead of passive XML-style notifications.
 - 2026-08-08 01:08 — Use 'finish it completely' or 'keep working until it's done' to express '搞完为止'.
+- 2026-08-08 13:28 — Use 'might have been' instead of 'should be' to express possibility in English.
