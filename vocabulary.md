@@ -8581,3 +8581,4 @@
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
+- 2026-08-08 23:11 — In English, 'kill' is often used informally to mean 'do extremely well', but 'handle' or 'crush' is more common in tech contexts.
