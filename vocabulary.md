@@ -8609,3 +8609,5 @@
 - 2026-08-09 01:29 — In Chinese, '他' is often used for inanimate objects, but in English, use 'it' instead of 'he' for non-human entities.
 - 2026-08-09 01:30 — Use 'It's not that I want to...' to deny intention, matching the Chinese pattern '不是我要...'.
 - 2026-08-09 01:35 — Use 'sounds like' to express a perception. 'Fix the bug' is more specific than 'fix bugs'.
+- 2026-08-09 01:36 — Use 'about money' instead of emoji in formal text.
+- 2026-08-09 01:36 — '换个模型' = 'switching models' (or 'changing the model'); '出问题' = 'cause problems' or 'break'.
