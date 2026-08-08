@@ -8603,3 +8603,4 @@
 - 2026-08-09 00:47 — Use 'Codex' as a proper noun (capitalized) if referring to the AI tool, and separate sentences with periods for clarity.
 - 2026-08-09 00:56 — Use 'how far along' to ask about progress, and note that 'the results should be written' is passive voice for clarity.
 - 2026-08-09 01:00 — Use 'let/have + agent + do' for instructions. '让' can be translated as 'let' or 'have'.
+- 2026-08-09 01:17 — "重启了中了" is a typo; use "重启了吗" (restart) instead. Also, "on the startup script" is natural for referring to settings within a script file.
