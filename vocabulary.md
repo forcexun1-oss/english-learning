@@ -8556,3 +8556,4 @@
 - 2026-08-08 01:08 — Use 'finish it completely' or 'keep working until it's done' to express '搞完为止'.
 - 2026-08-08 13:28 — Use 'might have been' instead of 'should be' to express possibility in English.
 - 2026-08-08 13:57 — "他妈的" is a strong expletive. In English, "what the hell" expresses similar frustration without being overly vulgar.
+- 2026-08-08 14:48 — Use 'when it starts' or 'after restart' instead of '起来' (qǐlái), which is colloquial. 'Restart' is the standard term for services.
