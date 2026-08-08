@@ -8601,3 +8601,4 @@
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
 - 2026-08-09 00:47 — Use 'Codex' as a proper noun (capitalized) if referring to the AI tool, and separate sentences with periods for clarity.
+- 2026-08-09 00:56 — Use 'how far along' to ask about progress, and note that 'the results should be written' is passive voice for clarity.
