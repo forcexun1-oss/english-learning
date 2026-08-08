@@ -1,1 +1,1 @@
-This configuration uses three-level caching and a streaming approach, so why does it consume so much memory?
+Configure it well so the watchdog doesn't kill it easily; it's okay if it's a bit slower.

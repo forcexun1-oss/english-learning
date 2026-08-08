@@ -8565,3 +8565,4 @@
 - 2026-08-08 16:09 — Use 'reverts back' to describe something returning to its previous state. 'Refresh' is a common verb for reloading a page.
 - 2026-08-08 16:17 — "换成" can be translated as "change to" or "replace with". Here "change the model to ..." is concise.
 - 2026-08-08 16:21 — '圈' is colloquial for '占用' (occupy/consume). Use '占用' or '消耗' in technical writing.
+- 2026-08-08 16:28 — "Watch dog" is usually written as one word "watchdog" in technical contexts.
