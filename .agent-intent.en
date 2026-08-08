@@ -1,2 +1,1 @@
-How should I restart the service now? pkill -TERM -f serve_ollama_stream.py                                                                                                                                            v1.95.0
-  ./run-mac-assistant.sh, but it still gives IO error: Connection refused (os error 61)
+Add a parameter to ./run-mac-assistant.sh to control whether to restart the model service.
