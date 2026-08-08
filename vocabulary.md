@@ -8580,6 +8580,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-08 23:07 — "修好为止" expresses a condition; in English, use "until it's fixed" or "until it's done."
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
@@ -8596,3 +8597,6 @@
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
 - 2026-08-09 00:41 — Use 'check' instead of 'look see' for a natural command. '了' indicates a change of state.
+=======
+- 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
+>>>>>>> Stashed changes
