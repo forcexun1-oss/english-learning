@@ -8561,3 +8561,4 @@
 - 2026-08-08 15:16 — Use 'hit the cache' instead of '命中缓存' (a literal translation). 'Hit' is the standard term for cache behavior.
 - 2026-08-08 15:19 — Use past tense 'did you let' to ask about a completed action.
 - 2026-08-08 15:33 — '调大' means 'increase' (literally 'adjust larger'). In English, use 'increase' or 'raise'.
+- 2026-08-08 15:51 — Use 'merge into' for branches (e.g., merge feature into main).
