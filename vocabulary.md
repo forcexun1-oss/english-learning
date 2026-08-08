@@ -8600,3 +8600,4 @@
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
+- 2026-08-09 00:47 — Use 'Codex' as a proper noun (capitalized) if referring to the AI tool, and separate sentences with periods for clarity.
