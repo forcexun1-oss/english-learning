@@ -8607,3 +8607,4 @@
 - 2026-08-09 01:20 — Use 'mean' (verb) after 'does', not 'meaning'. 'What does ... mean?' is the correct structure.
 - 2026-08-09 01:22 — Use 'reported an error' or 'returned an error' instead of 'reported error' for clarity.
 - 2026-08-09 01:29 — In Chinese, '他' is often used for inanimate objects, but in English, use 'it' instead of 'he' for non-human entities.
+- 2026-08-09 01:30 — Use 'It's not that I want to...' to deny intention, matching the Chinese pattern '不是我要...'.
