@@ -1,1 +1,1 @@
-mac-assistant: agent did not generate a final response (tool call failed or model ended early). The model call returned an error.
+The mac-assistant: agent didn't generate a final answer (tool call failed or model ended early). The model call returned an error. Fix it using an OpenAI-compatible API approach.
