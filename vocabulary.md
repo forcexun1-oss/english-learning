@@ -8563,3 +8563,4 @@
 - 2026-08-08 15:33 — '调大' means 'increase' (literally 'adjust larger'). In English, use 'increase' or 'raise'.
 - 2026-08-08 15:51 — Use 'merge into' for branches (e.g., merge feature into main).
 - 2026-08-08 16:09 — Use 'reverts back' to describe something returning to its previous state. 'Refresh' is a common verb for reloading a page.
+- 2026-08-08 16:17 — "换成" can be translated as "change to" or "replace with". Here "change the model to ..." is concise.
