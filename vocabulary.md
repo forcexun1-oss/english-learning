@@ -8567,3 +8567,4 @@
 - 2026-08-08 16:21 — '圈' is colloquial for '占用' (occupy/consume). Use '占用' or '消耗' in technical writing.
 - 2026-08-08 16:28 — "Watch dog" is usually written as one word "watchdog" in technical contexts.
 - 2026-08-08 16:29 — 'Review一下' is casual; in English, just say 'review' or 'take a look at'. '写的不好' → 'poorly written'.
+- 2026-08-08 16:38 — Use 'switch' for changing models in this context, and 'cache misses' is more idiomatic than 'cache didn't hit'.
