@@ -1,1 +1,1 @@
-It had a thinking mode when it was q6, so why did switching models cause issues?
+Have the subagent do the actual work using the terra model.

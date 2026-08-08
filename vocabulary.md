@@ -8611,3 +8611,4 @@
 - 2026-08-09 01:35 — Use 'sounds like' to express a perception. 'Fix the bug' is more specific than 'fix bugs'.
 - 2026-08-09 01:36 — Use 'about money' instead of emoji in formal text.
 - 2026-08-09 01:36 — '换个模型' = 'switching models' (or 'changing the model'); '出问题' = 'cause problems' or 'break'.
+- 2026-08-09 01:45 — Use 'have/let someone do something' for the structure '让...做'.
