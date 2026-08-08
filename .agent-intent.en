@@ -1,1 +1,1 @@
-The task to restart the bridge was killed — what happened and how should I handle it?
+Shut down the current model service, write a plan, and have Codex execute it.
