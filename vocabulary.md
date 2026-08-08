@@ -8586,3 +8586,4 @@
 =======
 - 2026-08-08 23:07 — "修好" means "fix" or "repair." Use "fix" for code or configuration issues.
 >>>>>>> Stashed changes
+- 2026-08-08 23:23 — Use active voice: 'completed' instead of 'is completed'.
