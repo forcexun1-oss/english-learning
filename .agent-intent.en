@@ -1,1 +1,1 @@
-Add a parameter to ./run-mac-assistant.sh to control whether to restart the model service.
+Check the current opencode requests for the same session — did it hit the cache?

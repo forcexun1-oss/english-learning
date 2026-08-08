@@ -8558,3 +8558,4 @@
 - 2026-08-08 13:57 — "他妈的" is a strong expletive. In English, "what the hell" expresses similar frustration without being overly vulgar.
 - 2026-08-08 14:48 — Use 'when it starts' or 'after restart' instead of '起来' (qǐlái), which is colloquial. 'Restart' is the standard term for services.
 - 2026-08-08 14:51 — Use 'whether to' to express a choice between two options. 'Control whether to restart' is more natural than 'control if restart'.
+- 2026-08-08 15:16 — Use 'hit the cache' instead of '命中缓存' (a literal translation). 'Hit' is the standard term for cache behavior.
