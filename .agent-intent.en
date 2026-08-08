@@ -1,1 +1,1 @@
-Have the subagent do the actual work using the terra model.
+Don't poll so frequently. Can't we use notifications instead?
