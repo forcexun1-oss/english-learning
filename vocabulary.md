@@ -8645,3 +8645,4 @@
 - 2026-08-09 20:17 — Use 'benefit' for non-financial advantages; 'profit' is usually for money.
 - 2026-08-09 20:43 — "开始吧" translates to "Let's start" or "Go ahead." It's a common way to initiate an action.
 - 2026-08-09 20:52 — In Chinese, '在跑吗' is a casual way to ask 'Is it running?'. In English, use 'Is it running?' for clarity.
+- 2026-08-09 21:47 — "从大往小了测" is a colloquial way to say 'test from large to small'. In English, we often use 'from large to small sizes' or 'from larger to smaller sizes'. Also, '拐点' is 'inflection point' (or 'turning point') in technical contexts.
