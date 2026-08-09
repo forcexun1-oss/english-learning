@@ -8618,3 +8618,4 @@
 - 2026-08-09 12:06 — Use 'hasn't moved' to describe that something is not progressing or responding.
 - 2026-08-09 12:19 — '乱掉了' is colloquial for 'messed up' or 'disordered'. In tech contexts, 'is incorrect' or 'is broken' also works. Also, '重启名字' may be clearer as 'the name after restart'.
 - 2026-08-09 12:22 — "改掉" means to fix or rectify, not just change. Use "fix" for correcting issues.
+- 2026-08-09 12:39 — Use "Did you fix it?" for past tense asking about a fix, and "Go ahead and fix it" to urge action naturally.
