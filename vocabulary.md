@@ -8655,3 +8655,4 @@
 - 2026-08-09 22:35 — Capitalize the first word and add a question mark for proper punctuation.
 - 2026-08-09 22:44 — Use 'try' directly for commands, or 'What about trying q6?' for a softer suggestion.
 - 2026-08-09 23:15 — In English, use 'Stop' as a command. '停' is a verb meaning 'stop/halt'.
+- 2026-08-09 23:44 — Use 'are much higher than' instead of '比这高太多了' (literal translation). Also, '之前全量内存的数值' is more naturally 'the previous full memory values'.
