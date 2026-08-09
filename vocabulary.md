@@ -8616,3 +8616,4 @@
 - 2026-08-09 11:36 — In technical contexts, '情况' often translates to 'status' or 'progress' rather than 'situation'.
 - 2026-08-09 11:39 — Use 'What should I do' to ask for the next action — '那要做什么' is often shortened to this in English.
 - 2026-08-09 12:06 — Use 'hasn't moved' to describe that something is not progressing or responding.
+- 2026-08-09 12:19 — '乱掉了' is colloquial for 'messed up' or 'disordered'. In tech contexts, 'is incorrect' or 'is broken' also works. Also, '重启名字' may be clearer as 'the name after restart'.
