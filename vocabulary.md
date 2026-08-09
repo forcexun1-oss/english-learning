@@ -8628,3 +8628,4 @@
 - 2026-08-09 13:40 — Use "so much" (uncountable) for budget, not "so many". "Fully cached" is natural for '全缓存了'.
 - 2026-08-09 14:41 — The Chinese phrase '对了吗' implies checking a result. In English, use 'Is ... correct?' for a direct question.
 - 2026-08-09 14:57 — "配置" translates to "configuration" here; "内存" to "memory". Use "allocate" instead of "configure" when talking about memory size.
+- 2026-08-09 15:51 — "瓶颈" is a noun meaning 'bottleneck'; "看一下" is a colloquial way to say 'have a look at'.
