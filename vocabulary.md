@@ -8647,4 +8647,8 @@
 - 2026-08-09 20:52 — In Chinese, '在跑吗' is a casual way to ask 'Is it running?'. In English, use 'Is it running?' for clarity.
 - 2026-08-09 21:47 — "从大往小了测" is a colloquial way to say 'test from large to small'. In English, we often use 'from large to small sizes' or 'from larger to smaller sizes'. Also, '拐点' is 'inflection point' (or 'turning point') in technical contexts.
 - 2026-08-09 21:47 — 全量 often means 'full scan' or 'full data load' in coding contexts.
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
