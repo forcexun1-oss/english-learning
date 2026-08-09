@@ -8653,3 +8653,4 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-09 22:35 — Capitalize the first word and add a question mark for proper punctuation.
+- 2026-08-09 22:44 — Use 'try' directly for commands, or 'What about trying q6?' for a softer suggestion.
