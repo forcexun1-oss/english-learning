@@ -8621,3 +8621,4 @@
 - 2026-08-09 12:39 — Use "Did you fix it?" for past tense asking about a fix, and "Go ahead and fix it" to urge action naturally.
 - 2026-08-09 12:57 — Use '它' (it) instead of '他' (he) when referring to an AI or non-human object.
 - 2026-08-09 12:59 — Use 'perform' or 'work' instead of '效果好' (effect good) — in English, we say 'work well' or 'perform well'.
+- 2026-08-09 13:30 — "在测吗" uses the particle 在 to indicate an ongoing action. In English, use the present continuous 'Are you testing?' to express the same.
