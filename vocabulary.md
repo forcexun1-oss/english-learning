@@ -8642,3 +8642,4 @@
 - 2026-08-09 17:26 — Capitalize the first word and add a question mark for proper punctuation.
 - 2026-08-09 17:28 — "在跑吗" is a colloquial way to ask if something is currently running. In English, use the present continuous: "Is it running?" or "Is it still running?"
 - 2026-08-09 20:15 — Use 'How's the progress?' instead of 'What's the progress?' for a more natural question.
+- 2026-08-09 20:17 — Use 'benefit' for non-financial advantages; 'profit' is usually for money.
