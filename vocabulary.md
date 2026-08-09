@@ -8634,3 +8634,4 @@
 - 2026-08-09 16:09 — “有意义”可以翻译为“make sense”或“be meaningful”，但“make sense”更自然。注意介词用“for”而不是“to”。
 - 2026-08-09 16:10 — "中间方案" can be translated as "intermediate solution" or "transitional solution". "Intermediate" is more common in technical contexts.
 - 2026-08-09 16:12 — "一刀切" (yīdāoqiē) is a Chinese idiom meaning "one-size-fits-all" or "uniform" — it literally translates to "cut with one knife."
+- 2026-08-09 16:22 — In Chinese, '把' is a particle for object-fronting; in English, just use the verb + object directly.
