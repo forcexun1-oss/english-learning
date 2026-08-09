@@ -8648,6 +8648,7 @@
 - 2026-08-09 21:47 — "从大往小了测" is a colloquial way to say 'test from large to small'. In English, we often use 'from large to small sizes' or 'from larger to smaller sizes'. Also, '拐点' is 'inflection point' (or 'turning point') in technical contexts.
 - 2026-08-09 21:47 — 全量 often means 'full scan' or 'full data load' in coding contexts.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -8659,3 +8660,6 @@
 - 2026-08-09 23:49 — Use 'should it be' for questions of uncertainty. '还是' in questions translates to 'or'.
 - 2026-08-09 23:52 — Use 'that' instead of 'that one' when referring to a general concept or situation.
 - 2026-08-09 23:54 — The Chinese '复现对比为什么' can be rephrased as 'reproduce and compare — why?' using an em dash to indicate the reason is questioned.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
