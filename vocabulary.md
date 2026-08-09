@@ -8627,3 +8627,4 @@
 - 2026-08-09 13:33 — Use '是...导致的' to express 'is caused by'. Also, '不一样' means 'different' or 'difference'.
 - 2026-08-09 13:40 — Use "so much" (uncountable) for budget, not "so many". "Fully cached" is natural for '全缓存了'.
 - 2026-08-09 14:41 — The Chinese phrase '对了吗' implies checking a result. In English, use 'Is ... correct?' for a direct question.
+- 2026-08-09 14:57 — "配置" translates to "configuration" here; "内存" to "memory". Use "allocate" instead of "configure" when talking about memory size.
