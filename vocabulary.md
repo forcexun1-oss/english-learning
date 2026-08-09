@@ -8630,3 +8630,4 @@
 - 2026-08-09 14:57 — "配置" translates to "configuration" here; "内存" to "memory". Use "allocate" instead of "configure" when talking about memory size.
 - 2026-08-09 15:51 — "瓶颈" is a noun meaning 'bottleneck'; "看一下" is a colloquial way to say 'have a look at'.
 - 2026-08-09 16:01 — 结 is likely short for 解决 (resolve). Use 'resolve' or 'fix' for issues.
+- 2026-08-09 16:02 — Use 'have someone do something' to indicate delegation, which is more natural than 'let someone do' in this context.
