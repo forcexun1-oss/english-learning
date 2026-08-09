@@ -8615,3 +8615,4 @@
 - 2026-08-09 01:48 — "轮训" should be "轮询" (polling). "通知" is "notification" — a push-based alternative to polling.
 - 2026-08-09 11:36 — In technical contexts, '情况' often translates to 'status' or 'progress' rather than 'situation'.
 - 2026-08-09 11:39 — Use 'What should I do' to ask for the next action — '那要做什么' is often shortened to this in English.
+- 2026-08-09 12:06 — Use 'hasn't moved' to describe that something is not progressing or responding.
