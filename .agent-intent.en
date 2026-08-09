@@ -1,1 +1,1 @@
-Fix the q8 issue already — we've compared and found the differences.
+Is the difference caused by memory? The streaming approach shouldn't have this problem. First, fix the memory issue.

@@ -8624,3 +8624,4 @@
 - 2026-08-09 13:30 — "在测吗" uses the particle 在 to indicate an ongoing action. In English, use the present continuous 'Are you testing?' to express the same.
 - 2026-08-09 13:32 — In Chinese, '老子' is a colloquial and somewhat rude way to refer to yourself. In English, simply using 'I' is appropriate; adding 'the hell' can convey a similar tone, but it's better to keep it polite in a professional setting.
 - 2026-08-09 13:32 — "啊" at the end adds urgency or impatience. Use "already" or an exclamation mark to convey that tone in English.
+- 2026-08-09 13:33 — Use '是...导致的' to express 'is caused by'. Also, '不一样' means 'different' or 'difference'.
