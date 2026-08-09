@@ -8613,3 +8613,4 @@
 - 2026-08-09 01:36 — '换个模型' = 'switching models' (or 'changing the model'); '出问题' = 'cause problems' or 'break'.
 - 2026-08-09 01:45 — Use 'have/let someone do something' for the structure '让...做'.
 - 2026-08-09 01:48 — "轮训" should be "轮询" (polling). "通知" is "notification" — a push-based alternative to polling.
+- 2026-08-09 11:36 — In technical contexts, '情况' often translates to 'status' or 'progress' rather than 'situation'.
