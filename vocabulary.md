@@ -8658,3 +8658,4 @@
 - 2026-08-09 23:44 — Use 'are much higher than' instead of '比这高太多了' (literal translation). Also, '之前全量内存的数值' is more naturally 'the previous full memory values'.
 - 2026-08-09 23:49 — Use 'should it be' for questions of uncertainty. '还是' in questions translates to 'or'.
 - 2026-08-09 23:52 — Use 'that' instead of 'that one' when referring to a general concept or situation.
+- 2026-08-09 23:54 — The Chinese '复现对比为什么' can be rephrased as 'reproduce and compare — why?' using an em dash to indicate the reason is questioned.
