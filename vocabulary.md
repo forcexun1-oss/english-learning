@@ -8620,3 +8620,4 @@
 - 2026-08-09 12:22 — "改掉" means to fix or rectify, not just change. Use "fix" for correcting issues.
 - 2026-08-09 12:39 — Use "Did you fix it?" for past tense asking about a fix, and "Go ahead and fix it" to urge action naturally.
 - 2026-08-09 12:57 — Use '它' (it) instead of '他' (he) when referring to an AI or non-human object.
+- 2026-08-09 12:59 — Use 'perform' or 'work' instead of '效果好' (effect good) — in English, we say 'work well' or 'perform well'.
