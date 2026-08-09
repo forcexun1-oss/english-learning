@@ -8636,3 +8636,4 @@
 - 2026-08-09 16:12 — "一刀切" (yīdāoqiē) is a Chinese idiom meaning "one-size-fits-all" or "uniform" — it literally translates to "cut with one knife."
 - 2026-08-09 16:22 — In Chinese, '把' is a particle for object-fronting; in English, just use the verb + object directly.
 - 2026-08-09 16:26 — In English, 'exceed' is used for '超过', but a more natural phrasing could be 'is limited to under' or 'is capped at'.
+- 2026-08-09 16:29 — Add 'the' before 'subagent' and capitalize 'Terra' (model name).
