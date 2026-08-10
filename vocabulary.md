@@ -8724,3 +8724,4 @@
 - 2026-08-10 17:14 — Use "tell someone to do something" (e.g., "Tell Terra to fix it") instead of directly translating "让...去修".
 - 2026-08-10 17:14 — '方案' can mean 'plan' or 'solution'; here, 'write the plan' is direct and natural.
 - 2026-08-10 17:15 — “就行了” can be translated as "just do it" for a natural, casual instruction.
+- 2026-08-10 17:19 — Use 'let + agent + verb' to express '让某人做某事'.
