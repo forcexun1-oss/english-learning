@@ -8676,3 +8676,4 @@
 - 2026-08-10 10:37 — Use 'Is ... the ...?' to confirm a fact, instead of directly translating '是...的...?'.
 - 2026-08-10 10:42 — Use 'was...or' (past tense) for the '是...还是' structure. '很早之前' = 'a long time ago'.
 - 2026-08-10 10:44 — "只最对" should be "只针对", which means "only targeted at" or "specific to".
+- 2026-08-10 10:52 — Use an article (a/the) before singular countable nouns: 'What is a bundle?' not 'What is bundle?'.
