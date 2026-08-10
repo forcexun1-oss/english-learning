@@ -8702,3 +8702,4 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-10 14:59 — Capitalize the first letter of a sentence.
+- 2026-08-10 15:17 — 挂载 (guàzài) is used for 'mount' in computing, like mounting a drive or filesystem.
