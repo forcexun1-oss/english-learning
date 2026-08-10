@@ -8692,3 +8692,4 @@
 - 2026-08-10 14:03 — "跑" here means a process/script is running, not physical running. Use "running" for programs.
 - 2026-08-10 14:06 — Use 'strictly equivalent' for '严格等价' in technical contexts.
 - 2026-08-10 14:16 — 改 in this context is better translated as 'fixed' rather than 'changed'.
+- 2026-08-10 14:36 — 轮训 is a common typo for 轮询 (polling).

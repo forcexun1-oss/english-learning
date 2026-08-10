@@ -1,1 +1,1 @@
-Then this must be fixed, right? Otherwise, if some parts are not in cache, it will throw errors.
+Change the polling interval to 5 minutes.
