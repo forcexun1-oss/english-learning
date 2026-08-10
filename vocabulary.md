@@ -8723,3 +8723,4 @@
 - 2026-08-10 17:13 — "修" in this context means "fix" or "repair" (e.g., code issues). Use "fix" for software bugs.
 - 2026-08-10 17:14 — Use "tell someone to do something" (e.g., "Tell Terra to fix it") instead of directly translating "让...去修".
 - 2026-08-10 17:14 — '方案' can mean 'plan' or 'solution'; here, 'write the plan' is direct and natural.
+- 2026-08-10 17:15 — “就行了” can be translated as "just do it" for a natural, casual instruction.
