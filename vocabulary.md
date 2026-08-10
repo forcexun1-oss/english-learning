@@ -8677,3 +8677,4 @@
 - 2026-08-10 10:42 — Use 'was...or' (past tense) for the '是...还是' structure. '很早之前' = 'a long time ago'.
 - 2026-08-10 10:44 — "只最对" should be "只针对", which means "only targeted at" or "specific to".
 - 2026-08-10 10:52 — Use an article (a/the) before singular countable nouns: 'What is a bundle?' not 'What is bundle?'.
+- 2026-08-10 10:55 — In English, 'C code' is typically written with a capital 'C' (as in the programming language). The phrase '不...了?' can be expressed as 'No...?' for confirmation.
