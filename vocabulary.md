@@ -8684,3 +8684,4 @@
 - 2026-08-10 11:04 — "把" is likely a typo for "吧" (a suggestion particle). In English, use "then" or "let's" to convey the suggestion tone.
 - 2026-08-10 11:22 — In Chinese, '验证不了' means 'can't verify'; use 'verify' for testing or confirming functionality.
 - 2026-08-10 11:24 — Use 'Should we do...?' for making suggestions or asking about necessity, instead of directly translating '要做...吗'.
+- 2026-08-10 11:26 — In Chinese, 讲讲 is a reduplication of 讲 (to speak/explain) for a casual tone. In English, use 'explain' or 'tell me about' without reduplication.
