@@ -8708,3 +8708,4 @@
 - 2026-08-10 15:24 — Keep 'aligned' as a technical term; it refers to a model version that has been fine-tuned (e.g., RLHF).
 - 2026-08-10 15:26 — Use present perfect ('Has it started...') for asking about an action that began in the past but is relevant now.
 - 2026-08-10 15:37 — 过于 (guòyú) means 'overly' or 'too much' — it indicates an excessive degree.
+- 2026-08-10 15:52 — In English, 'why' often needs a context (e.g., 'Check why it failed'). Consider adding a brief reference to what you're investigating.
