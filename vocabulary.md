@@ -8683,3 +8683,4 @@
 - 2026-08-10 11:03 — Use 'mean by' to ask for clarification of a term, instead of directly translating '是什么' as 'is what'.
 - 2026-08-10 11:04 — "把" is likely a typo for "吧" (a suggestion particle). In English, use "then" or "let's" to convey the suggestion tone.
 - 2026-08-10 11:22 — In Chinese, '验证不了' means 'can't verify'; use 'verify' for testing or confirming functionality.
+- 2026-08-10 11:24 — Use 'Should we do...?' for making suggestions or asking about necessity, instead of directly translating '要做...吗'.
