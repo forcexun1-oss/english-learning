@@ -8703,3 +8703,4 @@
 >>>>>>> Stashed changes
 - 2026-08-10 14:59 — Capitalize the first letter of a sentence.
 - 2026-08-10 15:17 — 挂载 (guàzài) is used for 'mount' in computing, like mounting a drive or filesystem.
+- 2026-08-10 15:19 — Use 'stored' or 'placed' to clarify the meaning of '在...上' in this context.
