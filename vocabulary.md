@@ -8712,3 +8712,4 @@
 - 2026-08-10 15:52 — Use 'clearly' or 'obviously' before 'is' to emphasize certainty.
 - 2026-08-10 16:00 — Use 'it' for AI tools like Claude Code, not 'him/her'.
 - 2026-08-10 16:06 — 在跑吗 is a casual way to ask 'Is it running?' Note the use of 吗 for yes/no questions.
+- 2026-08-10 16:10 — Use 'still' to imply continuation from a previous state. '在跑吗' can be translated as 'Is it running?' but adding 'still' matches the context better.
