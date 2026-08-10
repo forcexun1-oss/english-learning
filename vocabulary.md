@@ -8718,3 +8718,4 @@
 - 2026-08-10 16:29 — "开始吧" can be translated as 'Let's start' or 'Go ahead.' Use 'Let's start' for a collaborative tone.
 - 2026-08-10 16:37 — '跑' in this context means 'run' (as in a process/command). Use 'run' or 'start running' in English.
 - 2026-08-10 16:40 — Use 'it looks like' or 'it seems like' to express an observation.
+- 2026-08-10 17:06 — 挂了 is colloquial for 'crashed/hung'; 把 adds a confirmatory tone.
