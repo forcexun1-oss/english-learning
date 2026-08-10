@@ -8688,3 +8688,4 @@
 - 2026-08-10 11:52 — "让" can mean "let" or "tell" depending on context. Here, it's an instruction, so "tell" is more natural.
 - 2026-08-10 12:31 — '怎么' here means 'why' (questioning a lack of action), not 'how'.
 - 2026-08-10 13:49 — Use 'How is ... designed?' for the pattern '是怎么设计的', and 'progressively disclosed' is the natural phrase for '渐进式的披露'.
+- 2026-08-10 13:50 — Use 'dumped into the context' instead of '全丢到上下文' (literal translation). 'Progressively disclosed' is clearer than '渐进式的披露'.
