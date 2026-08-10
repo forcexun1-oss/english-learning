@@ -8679,3 +8679,4 @@
 - 2026-08-10 10:52 — Use an article (a/the) before singular countable nouns: 'What is a bundle?' not 'What is bundle?'.
 - 2026-08-10 10:55 — In English, 'C code' is typically written with a capital 'C' (as in the programming language). The phrase '不...了?' can be expressed as 'No...?' for confirmation.
 - 2026-08-10 10:58 — The Chinese pattern '不是说要...吗' is often translated as 'Didn't you say we need to...?' to express a reminder or confirmation.
+- 2026-08-10 10:59 — In Chinese, '啊' at the end indicates a question seeking confirmation. In English, use tag questions like 'isn't it?' or 'right?' for the same effect.
