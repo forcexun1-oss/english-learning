@@ -8674,3 +8674,4 @@
 - 2026-08-10 09:41 — Use 'just' instead of 'only' to sound more natural in casual technical questions.
 - 2026-08-10 09:49 — '随便说的数值' can be translated as 'a random number I threw out' or 'just a random number I said'. Also, note the use of 'doesn't' for negative present tense.
 - 2026-08-10 10:37 — Use 'Is ... the ...?' to confirm a fact, instead of directly translating '是...的...?'.
+- 2026-08-10 10:42 — Use 'was...or' (past tense) for the '是...还是' structure. '很早之前' = 'a long time ago'.
