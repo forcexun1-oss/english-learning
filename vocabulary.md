@@ -8728,3 +8728,4 @@
 - 2026-08-10 17:32 — 把 is a typo for 吧, a question particle.
 - 2026-08-10 18:09 — "咋样" is a colloquial contraction of "怎么样". Use 'How's it going?' or 'What's the status?' for clarity.
 - 2026-08-10 19:58 — Use 'Wasn't it...?' to express the Chinese rhetorical question pattern '不是...吗'.
+- 2026-08-10 20:22 — Use 'wasn't it' for confirmation questions (e.g., 'Wasn't it 70?') instead of '不是70吗' — it's a more natural tag question in English.
