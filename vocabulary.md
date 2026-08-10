@@ -8666,3 +8666,4 @@
 - 2026-08-10 00:26 — Add 'so far' to clarify you're asking about the current status.
 - 2026-08-10 00:35 — In Chinese, '在等' uses the progressive aspect (正在), which is often translated as 'waiting for' in English. The simple '等' would be 'wait'.
 - 2026-08-10 00:37 — Use the imperative 'Pause' instead of 'You pause' for a direct instruction.
+- 2026-08-10 09:07 — "吧" softens a command in Chinese; in English, a direct imperative like "Continue." is natural.
