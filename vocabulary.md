@@ -8669,3 +8669,4 @@
 - 2026-08-10 09:07 — "吧" softens a command in Chinese; in English, a direct imperative like "Continue." is natural.
 - 2026-08-10 09:20 — Use 'long/short-term memory' instead of '长短记忆' (no need for 'and' between 'long' and 'short').
 - 2026-08-10 09:36 — Use present continuous tense ('are you working on') to ask about current activity.
+- 2026-08-10 09:37 — Use 'Does ... require ...?' to ask if something is necessary. '全量缓存' translates to 'full caching'.
