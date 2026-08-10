@@ -1,1 +1,1 @@
-Is it still running?
+The prefill for M>=2 is not yet strictly equivalent, because on the current device the regular gather_qmm uses the NAX reduction family, and the NAX wrapper, which was temporarily disabled, failed to reproduce the same floating-point reduction order.
