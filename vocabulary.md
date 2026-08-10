@@ -8686,3 +8686,4 @@
 - 2026-08-10 11:24 — Use 'Should we do...?' for making suggestions or asking about necessity, instead of directly translating '要做...吗'.
 - 2026-08-10 11:26 — In Chinese, 讲讲 is a reduplication of 讲 (to speak/explain) for a casual tone. In English, use 'explain' or 'tell me about' without reduplication.
 - 2026-08-10 11:52 — "让" can mean "let" or "tell" depending on context. Here, it's an instruction, so "tell" is more natural.
+- 2026-08-10 12:31 — '怎么' here means 'why' (questioning a lack of action), not 'how'.
