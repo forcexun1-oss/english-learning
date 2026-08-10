@@ -8681,3 +8681,4 @@
 - 2026-08-10 10:58 — The Chinese pattern '不是说要...吗' is often translated as 'Didn't you say we need to...?' to express a reminder or confirmation.
 - 2026-08-10 10:59 — In Chinese, '啊' at the end indicates a question seeking confirmation. In English, use tag questions like 'isn't it?' or 'right?' for the same effect.
 - 2026-08-10 11:03 — Use 'mean by' to ask for clarification of a term, instead of directly translating '是什么' as 'is what'.
+- 2026-08-10 11:04 — "把" is likely a typo for "吧" (a suggestion particle). In English, use "then" or "let's" to convey the suggestion tone.
