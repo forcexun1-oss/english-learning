@@ -8707,3 +8707,4 @@
 - 2026-08-10 15:22 — In English, negative questions like 'isn't there' are common for expressing surprise or suggesting an alternative. You used '不是有个' which translates well to 'isn't there a'.
 - 2026-08-10 15:24 — Keep 'aligned' as a technical term; it refers to a model version that has been fine-tuned (e.g., RLHF).
 - 2026-08-10 15:26 — Use present perfect ('Has it started...') for asking about an action that began in the past but is relevant now.
+- 2026-08-10 15:37 — 过于 (guòyú) means 'overly' or 'too much' — it indicates an excessive degree.
