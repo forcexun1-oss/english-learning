@@ -8721,3 +8721,4 @@
 - 2026-08-10 17:06 — 挂了 is colloquial for 'crashed/hung'; 把 adds a confirmatory tone.
 - 2026-08-10 17:11 — '把' at the end of a sentence can express uncertainty or a guess, similar to 'right?' or 'I guess' in English.
 - 2026-08-10 17:13 — "修" in this context means "fix" or "repair" (e.g., code issues). Use "fix" for software bugs.
+- 2026-08-10 17:14 — Use "tell someone to do something" (e.g., "Tell Terra to fix it") instead of directly translating "让...去修".
