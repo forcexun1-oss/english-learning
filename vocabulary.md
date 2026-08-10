@@ -8687,3 +8687,4 @@
 - 2026-08-10 11:26 — In Chinese, 讲讲 is a reduplication of 讲 (to speak/explain) for a casual tone. In English, use 'explain' or 'tell me about' without reduplication.
 - 2026-08-10 11:52 — "让" can mean "let" or "tell" depending on context. Here, it's an instruction, so "tell" is more natural.
 - 2026-08-10 12:31 — '怎么' here means 'why' (questioning a lack of action), not 'how'.
+- 2026-08-10 13:49 — Use 'How is ... designed?' for the pattern '是怎么设计的', and 'progressively disclosed' is the natural phrase for '渐进式的披露'.
