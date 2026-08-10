@@ -8714,3 +8714,4 @@
 - 2026-08-10 16:06 — 在跑吗 is a casual way to ask 'Is it running?' Note the use of 吗 for yes/no questions.
 - 2026-08-10 16:10 — Use 'still' to imply continuation from a previous state. '在跑吗' can be translated as 'Is it running?' but adding 'still' matches the context better.
 - 2026-08-10 16:17 — "确认一下" translates to "Confirm it." or "Check it." In English, the subject is often implied in commands.
+- 2026-08-10 16:19 — 了 indicates a completed action; use present perfect 'have asked' in English.
