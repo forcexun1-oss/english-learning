@@ -1,1 +1,1 @@
-The prefill for M>=2 is not yet strictly equivalent, because on the current device the regular gather_qmm uses the NAX reduction family, and the NAX wrapper, which was temporarily disabled, failed to reproduce the same floating-point reduction order.
+Then this must be fixed, right? Otherwise, if some parts are not in cache, it will throw errors.
