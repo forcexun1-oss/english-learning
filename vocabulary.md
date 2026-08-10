@@ -8649,6 +8649,7 @@
 - 2026-08-09 21:47 — 全量 often means 'full scan' or 'full data load' in coding contexts.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -8693,3 +8694,6 @@
 - 2026-08-10 14:06 — Use 'strictly equivalent' for '严格等价' in technical contexts.
 - 2026-08-10 14:16 — 改 in this context is better translated as 'fixed' rather than 'changed'.
 - 2026-08-10 14:36 — 轮训 is a common typo for 轮询 (polling).
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
