@@ -8710,3 +8710,4 @@
 - 2026-08-10 15:37 — 过于 (guòyú) means 'overly' or 'too much' — it indicates an excessive degree.
 - 2026-08-10 15:52 — In English, 'why' often needs a context (e.g., 'Check why it failed'). Consider adding a brief reference to what you're investigating.
 - 2026-08-10 15:52 — Use 'clearly' or 'obviously' before 'is' to emphasize certainty.
+- 2026-08-10 16:00 — Use 'it' for AI tools like Claude Code, not 'him/her'.
