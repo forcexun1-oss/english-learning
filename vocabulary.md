@@ -8729,3 +8729,4 @@
 - 2026-08-10 18:09 — "咋样" is a colloquial contraction of "怎么样". Use 'How's it going?' or 'What's the status?' for clarity.
 - 2026-08-10 19:58 — Use 'Wasn't it...?' to express the Chinese rhetorical question pattern '不是...吗'.
 - 2026-08-10 20:22 — Use 'wasn't it' for confirmation questions (e.g., 'Wasn't it 70?') instead of '不是70吗' — it's a more natural tag question in English.
+- 2026-08-10 22:32 — Use 'plan' for 方案 in this context. 'not in' can be contracted to 'aren't in' for a more natural question: 'Aren't your plan and results in the project docs?'
