@@ -1,1 +1,1 @@
-Why can't we just cache 30 experts?
+30 is just a random number I threw out; we can decide based on the actual hit rate. Also, since we have the MLX source code, we can modify the C part — not all changes have to be in Python. Is there a feasible solution? And why doesn't the fast path support partial caching? Explain it to me clearly.

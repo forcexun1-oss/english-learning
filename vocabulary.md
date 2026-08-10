@@ -8672,3 +8672,4 @@
 - 2026-08-10 09:37 — Use 'Does ... require ...?' to ask if something is necessary. '全量缓存' translates to 'full caching'.
 - 2026-08-10 09:39 — Use 'isn't it' or 'right?' for rhetorical questions like '不就是...嘛'.
 - 2026-08-10 09:41 — Use 'just' instead of 'only' to sound more natural in casual technical questions.
+- 2026-08-10 09:49 — '随便说的数值' can be translated as 'a random number I threw out' or 'just a random number I said'. Also, note the use of 'doesn't' for negative present tense.
