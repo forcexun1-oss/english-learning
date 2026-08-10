@@ -8705,3 +8705,4 @@
 - 2026-08-10 15:17 — 挂载 (guàzài) is used for 'mount' in computing, like mounting a drive or filesystem.
 - 2026-08-10 15:19 — Use 'stored' or 'placed' to clarify the meaning of '在...上' in this context.
 - 2026-08-10 15:22 — In English, negative questions like 'isn't there' are common for expressing surprise or suggesting an alternative. You used '不是有个' which translates well to 'isn't there a'.
+- 2026-08-10 15:24 — Keep 'aligned' as a technical term; it refers to a model version that has been fine-tuned (e.g., RLHF).
