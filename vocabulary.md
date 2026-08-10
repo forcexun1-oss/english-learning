@@ -8727,3 +8727,4 @@
 - 2026-08-10 17:19 — Use 'let + agent + verb' to express '让某人做某事'.
 - 2026-08-10 17:32 — 把 is a typo for 吧, a question particle.
 - 2026-08-10 18:09 — "咋样" is a colloquial contraction of "怎么样". Use 'How's it going?' or 'What's the status?' for clarity.
+- 2026-08-10 19:58 — Use 'Wasn't it...?' to express the Chinese rhetorical question pattern '不是...吗'.
