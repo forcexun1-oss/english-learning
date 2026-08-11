@@ -8652,6 +8652,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -8740,3 +8741,6 @@
 - 2026-08-11 09:52 — "怎么查" translates to "how to check" but in a question, use "how do you want to check" to sound more natural.
 - 2026-08-11 10:07 — 别动了 (bié dòng le) is a casual command meaning 'stop moving/doing that' — often used to tell someone to stop modifying or touching something.
 - 2026-08-11 15:09 — "镜像源" translates to "mirror source" or "mirror registry". "不走代理" means "without using a proxy" or "without going through a proxy".
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
