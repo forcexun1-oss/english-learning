@@ -8816,3 +8816,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 00:12 — Use 'already tells us' instead of 'itself explains...' for a more natural phrasing. Also, '把' should be '吧' (rhetorical particle), but in English, we can just drop it.
