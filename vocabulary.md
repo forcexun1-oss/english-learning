@@ -8759,3 +8759,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-11 21:13 — "What's the situation?" is a common natural way to ask for an update. Avoid the literal translation "What's the case?" which sounds unnatural.
