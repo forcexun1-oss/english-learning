@@ -8749,3 +8749,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-11 20:34 — Use 'ask' instead of 'let' when instructing someone to perform an action — 'let' implies permission, while 'ask' is a direct request.
