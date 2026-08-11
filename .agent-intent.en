@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does this (ollama pull muse-glimmer:30b-q8_0-dflash) have a domestic mirror source, without using a proxy?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Analyze how to do it. The difference between the full cache and the partial cache is too large. Use the full cache to do a reverse lookup.
