@@ -8831,3 +8831,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 00:34 — Use 'after the run finishes' for '跑完'.
