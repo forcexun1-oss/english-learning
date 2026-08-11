@@ -8656,6 +8656,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -8760,3 +8761,6 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-11 21:13 — "What's the situation?" is a common natural way to ask for an update. Avoid the literal translation "What's the case?" which sounds unnatural.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
