@@ -8754,3 +8754,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-11 20:59 — "什么情况了" is a casual way to ask for an update. In English, use "What's the status?" or "How's it going?" for a similar tone.
