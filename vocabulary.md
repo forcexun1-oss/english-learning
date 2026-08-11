@@ -8737,3 +8737,4 @@
 - 2026-08-10 22:37 — "帮" is often dropped in English; "put into" is preferred for directories over "put under".
 - 2026-08-11 09:44 — ‘啊’ is often translated as 'Ah' or 'Oh' in English, used as an interjection.
 - 2026-08-11 09:50 — "查" in this context means "check" or "look up" (e.g., a file or record). Use "check" for a quick lookup, or "query" for a database search.
+- 2026-08-11 09:52 — "怎么查" translates to "how to check" but in a question, use "how do you want to check" to sound more natural.
