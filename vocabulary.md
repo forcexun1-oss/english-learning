@@ -8925,3 +8925,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 13:09 — Use '吧' (ba) for confirmation questions, not '把' (ba).
