@@ -8759,6 +8759,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -9240,3 +9241,6 @@
 >>>>>>> Stashed changes
 - 2026-08-13 00:42 — Use 'How many' for countable units like tokens per second.
 - 2026-08-13 00:42 — The Chinese structure '找个...放到...' is a command sequence: 'find X and put it into Y'. Use 'so I can' to express purpose.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
