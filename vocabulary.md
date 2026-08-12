@@ -8959,3 +8959,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 13:39 — The Chinese 把 structure (把差异对齐) emphasizes the object. In English, just use the verb directly: 'align the differences'.
