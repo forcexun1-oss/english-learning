@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Find a reasonable configuration and put it into the mac-assistant startup script, so I can start and use it directly.
-=======
-It's the full amount.
->>>>>>> Stashed changes
-=======
-It's the full amount.
->>>>>>> Stashed changes
+What the hell, why did you enable B? Doesn't A just lock up the memory? I need it to be reclaimable.
