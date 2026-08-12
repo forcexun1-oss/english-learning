@@ -8871,3 +8871,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 10:38 — In English, rhetorical questions like 'Can't X do Y?' are common. Use 'support' or 'do' with a noun phrase like 'on-demand loading' (not '做按需加载'). '全量缓存' translates to 'cache everything' or 'full caching'.

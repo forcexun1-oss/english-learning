@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have codex do it.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Can't mmap support on-demand loading? Does it have to cache everything?
