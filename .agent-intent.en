@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is 79 the effect of full memory?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+So the part that maps 24.375 GiB is actually fully resident in memory?
