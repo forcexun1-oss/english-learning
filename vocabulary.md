@@ -8940,3 +8940,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 13:25 — The Chinese pattern '不是...吗' is often a rhetorical question. In English, 'shouldn't it be...?' or 'isn't it...?' captures that tone.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-We should go ahead and pin all experts to memory.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Only about 8 routed experts are bound per layer—each ~0.86 MB, so one layer ~21 MB, 40 layers ~830 MB. But the packed path binds the whole block at once: 220 MB × 120 = 24 GiB total. So according to this, shouldn't it be only 8?
