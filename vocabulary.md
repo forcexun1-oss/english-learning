@@ -8721,6 +8721,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -9068,3 +9069,6 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-12 17:17 — '抬高点' is a colloquial way to say 'raise/increase it a bit'. In technical instructions, 'increase' or 'raise' is more standard.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
