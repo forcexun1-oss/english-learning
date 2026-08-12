@@ -8935,3 +8935,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 13:23 — “定死在内存” translates to “pin to memory” in technical contexts; “pinned memory” is a common term.
