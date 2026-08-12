@@ -8915,3 +8915,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 12:35 — In English, '做什么' is often phrased as 'What should we do?' or 'What's next?' to sound more natural. Use 'should' for suggestions or next steps.
