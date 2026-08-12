@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So the part that maps 24.375 GiB is actually fully resident in memory?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Then A is enough, right? But I want to know whether the memory can really be squeezed out, and what is the decode performance drop after squeezing it out?

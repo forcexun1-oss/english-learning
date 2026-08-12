@@ -8901,3 +8901,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 11:46 — Use 'decode performance drop' or 'decode degradation' instead of 'decode下降取消'. '取消' usually means 'cancel', not 'drop'.
