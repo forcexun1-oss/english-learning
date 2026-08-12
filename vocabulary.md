@@ -8691,6 +8691,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -8927,3 +8928,6 @@
 >>>>>>> Stashed changes
 - 2026-08-12 13:09 — Use '吧' (ba) for confirmation questions, not '把' (ba).
 - 2026-08-12 13:10 — "开展" here means "proceed" or "move forward"; it's a more formal way to ask about next steps.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
