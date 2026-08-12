@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Add a model selection option to the agent. The current one uses a local model; add another one for Volcano Engine. The relevant endpoint and API key should already be available.
-=======
-It's the full amount.
->>>>>>> Stashed changes
-=======
-It's the full amount.
->>>>>>> Stashed changes
+The background command "Dispatch wired-limit confirmation" completed successfully (exit code 0).
