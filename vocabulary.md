@@ -9034,3 +9034,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 16:38 — Use 'of course' to express certainty; '问的是' means 'asking about'.
