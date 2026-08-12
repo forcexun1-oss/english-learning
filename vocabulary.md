@@ -9125,3 +9125,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 20:38 — "差分" translates to "differential"; you can also use "diff profiling" for short in technical contexts.
