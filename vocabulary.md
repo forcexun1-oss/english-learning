@@ -8993,3 +8993,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 14:51 — In technical contexts, use 'endpoint' instead of 'address' for API URLs. Also, 'should already be available' is more natural than 'should already have'.
