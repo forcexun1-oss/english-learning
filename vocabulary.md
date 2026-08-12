@@ -9067,3 +9067,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 17:17 — '抬高点' is a colloquial way to say 'raise/increase it a bit'. In technical instructions, 'increase' or 'raise' is more standard.
