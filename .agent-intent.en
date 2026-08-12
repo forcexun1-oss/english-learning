@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 So the part that maps 24.375 GiB is actually fully resident in memory?
+=======
+It's the full amount.
+>>>>>>> Stashed changes
