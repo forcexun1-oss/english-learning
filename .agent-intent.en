@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Stop Part B, keep Part C, and let the A path's resident sweep take over.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Stop Part B, keep Part C, and promote the A-path residency sweep to the top.
