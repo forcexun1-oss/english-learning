@@ -8906,3 +8906,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 12:05 — "挤出去" → "evicted" (standard term for memory management). "下降取消" is likely a mix-up; use "degradation" or "drop" for performance impact.

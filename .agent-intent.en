@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then A is enough, right? But I want to know whether the memory can really be squeezed out, and what is the decode performance drop after squeezing it out?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+I need to know whether memory can actually be evicted, and how much decode performance degrades after eviction.
