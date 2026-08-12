@@ -9044,3 +9044,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 16:42 — Use present perfect tense ('Have you reviewed') to ask about a past action relevant to the present.
