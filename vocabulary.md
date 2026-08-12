@@ -9162,3 +9162,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 22:16 — 死磕 means to stubbornly persist or bang your head against a problem. 'Get stuck on' is a natural English equivalent.
