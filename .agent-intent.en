@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is this Path A or Path B?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Switch to q8, set a reasonable memory limit, leave some memory for the KV cache, and confirm that it can be reclaimed.
