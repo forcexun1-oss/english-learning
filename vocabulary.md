@@ -9107,3 +9107,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 19:19 — Use past tense for completed actions: 'completed' not 'has completed' unless emphasizing current relevance.
