@@ -9253,3 +9253,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 00:57 — Use 'squeeze out' (挤出来) for memory, or 'free up' (释放). '挤压' alone is more like physically squeezing.

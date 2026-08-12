@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What the hell, why did you enable B? Doesn't A just lock up the memory? I need it to be reclaimable.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Can we squeeze some memory out? If there's not enough memory, can it still run?
