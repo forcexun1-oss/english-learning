@@ -24,7 +24,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["帮相关的方案和结果都放到项目docs下了吗", "现在还能查吗", "你要怎么查", "哎,别动了,把信息都写到项目的docs的文件中吧"]
+=======
+["看一下瓶颈在哪里", "先结瓶颈1", "先写方案,让subagent用Terra模型去实现", "这个对最终方案是否有意义", "我不需要一个中间方案", "还有应该先测试常驻内存cache的值,现在是一刁切的?要么全量加载,要么很小?", "写方案,先把这个做了把", "为什么expert cache不超过6G", "let subagent implement it using terra model", "当然是读最新内容", "is is running now", "what's the status", "在跑吗", "what's the progress", "机会没有收益了", "开始吧", "在跑吗,为什么内存看不到变化", "缓存测试从大往小了测, 看拐点在哪里", "全量是很快的", "就是全量"]
+>>>>>>> Stashed changes
 =======
 ["看一下瓶颈在哪里", "先结瓶颈1", "先写方案,让subagent用Terra模型去实现", "这个对最终方案是否有意义", "我不需要一个中间方案", "还有应该先测试常驻内存cache的值,现在是一刁切的?要么全量加载,要么很小?", "写方案,先把这个做了把", "为什么expert cache不超过6G", "let subagent implement it using terra model", "当然是读最新内容", "is is running now", "what's the status", "在跑吗", "what's the progress", "机会没有收益了", "开始吧", "在跑吗,为什么内存看不到变化", "缓存测试从大往小了测, 看拐点在哪里", "全量是很快的", "就是全量"]
 >>>>>>> Stashed changes
