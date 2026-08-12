@@ -8755,6 +8755,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -9210,6 +9211,9 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-12 23:33 — "当然要修啊" uses "要" to express necessity. In English, "need to" or "have to" is natural here.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
