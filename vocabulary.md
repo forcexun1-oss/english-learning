@@ -8745,6 +8745,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-09 21:48 — In English, use 'the' before 'app' when referring to a specific instance: 'kill the app'.
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
@@ -9170,6 +9171,9 @@
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
 - 2026-08-12 22:17 — The Chinese phrase '还找出问题' is missing a modal verb like '要' (need). In English, use 'still need to' to express that further investigation is required.
+=======
+- 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
+>>>>>>> Stashed changes
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
