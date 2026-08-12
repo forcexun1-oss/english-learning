@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Differential profiling — continue investigating the 5.6 ms.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+How come there are things being computed on the CPU?

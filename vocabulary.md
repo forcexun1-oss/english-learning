@@ -9135,3 +9135,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 21:05 — 用 'How come...' 表示惊讶或不解，比 'Why...' 更口语化。
