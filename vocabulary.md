@@ -9206,3 +9206,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 23:33 — "当然要修啊" uses "要" to express necessity. In English, "need to" or "have to" is natural here.
