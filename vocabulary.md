@@ -9157,3 +9157,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 22:14 — 行不行 is a colloquial way to ask 'Is it okay/working?' The particle 啊 adds a tone of impatience or emphasis.
