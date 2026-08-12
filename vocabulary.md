@@ -9140,3 +9140,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 21:11 — Use 'why is there' to express surprise about something unexpected, rather than a direct translation of '怎么会有'.
