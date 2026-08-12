@@ -8881,3 +8881,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 10:51 — 驻留 means 'resident' (staying in memory), 顶上来 means 'take over' or 'move up to replace'.
