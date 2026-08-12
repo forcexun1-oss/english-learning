@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I need to know whether memory can actually be evicted, and how much decode performance degrades after eviction.
+=======
+It's the full amount.
+>>>>>>> Stashed changes
 =======
 It's the full amount.
 >>>>>>> Stashed changes
