@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-packed (current) │ binds entire block mmap tensor │ wired file pages, returned on exit │ 12.5–13.5, not 70-something or 80?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+What is the current goal? Is it still to get close to 70 tok/s with all data in memory?
