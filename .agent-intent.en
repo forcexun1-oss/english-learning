@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Can't mmap support on-demand loading? Does it have to cache everything?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+Then we can just go with Plan A, right? I just need to gradually reduce the memory from the full memory usage to find an optimal point. But we need to clarify whether Plan A is truly on-demand, or does it actually load and cache data into memory?

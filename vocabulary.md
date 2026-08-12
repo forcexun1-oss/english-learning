@@ -8876,3 +8876,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 10:46 — "Go with Plan A" is more natural than "do Plan A" in this context. Also, use "whether...or" for clarity when asking about two alternatives.
