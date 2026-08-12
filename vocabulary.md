@@ -8840,3 +8840,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 09:01 — '方案' already means 'solution'. You can say 'is there a solution' instead of '方案解决'.
