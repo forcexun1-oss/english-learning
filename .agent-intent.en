@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How does running the session help us investigate this problem?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+My current goal is to find out why B is so slow under full memory conditions.

@@ -8988,3 +8988,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-12 14:19 — "聚焦到" can be simplified to "is to" in English. "全量内存" is naturally expressed as "full memory conditions" or "full memory usage".
