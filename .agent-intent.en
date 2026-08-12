@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Switch to q8, set a reasonable memory limit, leave some memory for the KV cache, and confirm that it can be reclaimed.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+How many tok/s for decode?
