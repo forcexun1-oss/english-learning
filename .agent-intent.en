@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command 'Run Codex on fill_all sequential-read brief' has completed with exit code 0.
+=======
+Why did Codex start three MCP servers for gitnexus?
+>>>>>>> Stashed changes
