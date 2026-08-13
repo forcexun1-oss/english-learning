@@ -9539,3 +9539,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 20:13 — Use 'handle' instead of 'do' for tasks – sounds more natural in a developer context.
+- 2026-08-13 20:13 — Use 'requires immediate action' instead of 'is something the user would act on now' for more direct and idiomatic developer language.
