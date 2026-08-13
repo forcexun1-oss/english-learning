@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The B route used by mac-assistant has a problem: it doesn't limit memory, causing blind full loading and resulting in insufficient machine memory. Please configure a limit on the number of experts and provide the optimal configuration.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+--memory-limit-gb 32. Can this be changed to a smaller value?
