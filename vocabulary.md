@@ -9320,6 +9320,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-13 10:40 — Use 'globally' (adverb) when describing how to save, not 'global' (adjective). E.g., 'save globally' means save in a global scope.
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
@@ -9354,3 +9355,5 @@
 - 2026-08-13 14:25 — '盘好了' is informal Chinese for 'all set' or 'ready'. Use 'All set' or 'Ready' in English.
 - 2026-08-13 14:26 — “盘好了” is informal; use “done reviewing” or “I've reviewed it” in English.
 - 2026-08-13 14:44 — Use 'keep becoming unresponsive' to express '动不动就不响应' (frequently stops responding).
+=======
+>>>>>>> Stashed changes
