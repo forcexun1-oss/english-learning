@@ -9542,3 +9542,4 @@
 - 2026-08-13 20:13 — Use 'requires immediate action' instead of 'is something the user would act on now' for more direct and idiomatic developer language.
 - 2026-08-13 20:58 — "配成" can be translated as "set to" or "configure as". In English, we often say "set X to Y" or "configure X as Y".
 - 2026-08-13 21:08 — 别再管 means 'stop worrying about' or 'don't bother with'.
+- 2026-08-13 21:39 — In English questions, the verb comes before the subject: 'Is the prefill...' rather than 'The prefill is...?'
