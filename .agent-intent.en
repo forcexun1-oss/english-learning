@@ -1,1 +1,1 @@
-Only send a PushNotification if the event requires immediate action. Routine or benign output can be ignored.
+Set mac-assistant to this.
