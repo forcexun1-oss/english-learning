@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Can A limit memory? If not, change to B.
-=======
-It's the full amount.
->>>>>>> Stashed changes
+The current configuration has caused the Mac to crash. Before the crash, the memory was full (red), and the A path couldn't reclaim memory, right?

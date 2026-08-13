@@ -9278,3 +9278,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 09:47 — Instead of 'memory was red', use 'memory was running low' or 'memory was full'.
