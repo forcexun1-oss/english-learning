@@ -9415,3 +9415,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 16:11 — '做什么sync' sounds like 'do what sync'. In English, pair 'what' with a noun directly: 'what sync'.
