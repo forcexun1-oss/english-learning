@@ -9357,3 +9357,4 @@
 - 2026-08-13 14:44 — Use 'keep becoming unresponsive' to express '动不动就不响应' (frequently stops responding).
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 14:59 — “干吧” is a colloquial way to say 'just do it' or 'go ahead'. “就完了” here means 'that's it, problem solved' (not 'it's over').
