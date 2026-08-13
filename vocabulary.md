@@ -9315,3 +9315,4 @@
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 10:41 — '走cli' means 'use/go through CLI' in informal technical Chinese.
