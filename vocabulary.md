@@ -9352,6 +9352,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-13 10:40 — Use 'globally' (adverb) when describing how to save, not 'global' (adjective). E.g., 'save globally' means save in a global scope.
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
@@ -9475,3 +9476,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 17:06 — Use 'always resident' instead of '常驻' in this context. 'Resident' means staying in memory.
+=======
+>>>>>>> Stashed changes
