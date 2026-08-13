@@ -9340,3 +9340,4 @@
 - 2026-08-13 11:39 — '掉' in Chinese often indicates completion of an action. 'Commit all' is a natural equivalent.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 11:42 — Use 'proceed with' or 'continue with' to translate '继续' when referring to a task.
