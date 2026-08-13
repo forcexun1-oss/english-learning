@@ -9490,3 +9490,4 @@
 - 2026-08-13 17:26 — Use '吧' (ba) instead of '把' to form a tag question seeking confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:28 — Note: '一层一层' is translated as 'layer by layer' (adverbial phrase). '循环预加载' can be 'preload in a loop' or 'iteratively preload'.
