@@ -9548,3 +9548,4 @@
 - 2026-08-13 22:02 — 思考 here means 'thinking' (the thought process output). Use 'thinking' as a noun.
 - 2026-08-13 22:16 — In English, '改' alone is vague; add an object ('Change it/that') for clarity.
 - 2026-08-13 22:27 — Use 'take a look' or 'have a look' for a quick check.
+- 2026-08-13 22:53 — Use 'let + object + verb' to give a suggestion or command, as in 'Let Codex handle it.'
