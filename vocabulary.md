@@ -9443,3 +9443,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 16:43 — "满驻" is short for "full residency" (满驻留). Use "full resident" or "full-residency" depending on context.
