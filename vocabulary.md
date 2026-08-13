@@ -9312,6 +9312,7 @@
 - 2026-08-13 10:39 — '起了' is colloquial for 'started' or 'launched'; '怎么' can mean 'why' or 'how' depending on context.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-13 10:40 — Use 'globally' (adverb) when describing how to save, not 'global' (adjective). E.g., 'save globally' means save in a global scope.
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
@@ -9320,5 +9321,7 @@
 - 2026-08-13 10:44 — Use 'impact' for consequences; 'effect' is also fine but 'impact' is more direct. 'What would be' is a polite conditional.
 - 2026-08-13 10:47 — '垃圾' can be translated as 'terrible' or 'crappy', but be careful with tone in professional settings.
 - 2026-08-13 10:49 — "请求" can be translated as "request" (verb). "正常的" is naturally expressed as "working normally" or "functioning normally."
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
