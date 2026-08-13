@@ -9513,3 +9513,4 @@
 - 2026-08-13 18:38 — Use a complete sentence like 'has completed' instead of the raw XML notification format.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 18:44 — 'sync' is a technical term; keep it unchanged. '...不做吗' is a negative question expecting confirmation, so 'Aren't we doing...?' is natural.
