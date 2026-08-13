@@ -9325,3 +9325,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 11:07 — Use 'when making requests to' instead of 'when requesting' for clarity.
