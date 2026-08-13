@@ -9545,3 +9545,4 @@
 - 2026-08-13 21:39 — In English questions, the verb comes before the subject: 'Is the prefill...' rather than 'The prefill is...?'
 - 2026-08-13 21:40 — '热好' here means 'warm up' or 'preheat' (like preloading data into memory). Use 'warm up' for a simple instruction.
 - 2026-08-13 21:56 — "挂了" here means "hanging" (not responding) rather than "crashed". Use "hanging" for requests that are stuck.
+- 2026-08-13 22:02 — 思考 here means 'thinking' (the thought process output). Use 'thinking' as a noun.
