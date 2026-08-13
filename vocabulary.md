@@ -9385,3 +9385,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:40 — Use plain English to summarize system notifications instead of pasting raw XML.
