@@ -9361,3 +9361,4 @@
 - 2026-08-13 14:59 — “干吧” is a colloquial way to say 'just do it' or 'go ahead'. “就完了” here means 'that's it, problem solved' (not 'it's over').
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:07 — Instead of pasting the raw XML notification, write a natural sentence summarizing the result.
