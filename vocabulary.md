@@ -9369,3 +9369,4 @@
 - 2026-08-13 15:14 — Use 'run' instead of 'execute' for commands/scripts in casual developer talk.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:27 — Use 'instead of' to contrast actions: 'instead of implementing... you are exploring...'
