@@ -9534,3 +9534,4 @@
 - 2026-08-13 19:23 — Use plain English instead of pasting raw XML notifications.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 19:48 — Use 'let someone do something' to express delegating a task. '让...去做' maps naturally to 'let ... handle it' or 'have ... do it'.
