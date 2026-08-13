@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 For hot expert caching, what is the caching logic? Is it per-layer LRU or global LRU?
+=======
+Why did Codex start three MCP servers for gitnexus?
+>>>>>>> Stashed changes
