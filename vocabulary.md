@@ -9268,3 +9268,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 09:21 — Use 'not responding' instead of '不动' to describe a system that has frozen or become unresponsive.
