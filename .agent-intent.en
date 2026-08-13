@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 --memory-limit-gb 32. Can this be changed to a smaller value?
+=======
+It's the full amount.
+>>>>>>> Stashed changes
