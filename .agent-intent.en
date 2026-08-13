@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Does the agent include kv cache parameters when making requests to the Volcano Engine API?
-=======
-Why did Codex start three MCP servers for gitnexus?
->>>>>>> Stashed changes
-=======
-Why did Codex start three MCP servers for gitnexus?
->>>>>>> Stashed changes
+The background command failed. Check the logs for the error, analyze it, then tell me the conclusion and a fix.
