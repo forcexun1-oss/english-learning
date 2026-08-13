@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Profile per-layer working sets, uniform 24 GiB" completed (exit code 0).
-=======
-Why did Codex start three MCP servers for gitnexus?
->>>>>>> Stashed changes
+I don't quite understand why loading by layer has better performance.
