@@ -9538,3 +9538,4 @@
 - 2026-08-13 19:48 — Use 'let someone do something' to express delegating a task. '让...去做' maps naturally to 'let ... handle it' or 'have ... do it'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 20:13 — Use 'handle' instead of 'do' for tasks – sounds more natural in a developer context.
