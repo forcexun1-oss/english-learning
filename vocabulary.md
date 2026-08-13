@@ -9356,6 +9356,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-13 10:40 — Use 'globally' (adverb) when describing how to save, not 'global' (adjective). E.g., 'save globally' means save in a global scope.
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
@@ -9491,3 +9492,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 17:28 — Note: '一层一层' is translated as 'layer by layer' (adverbial phrase). '循环预加载' can be 'preload in a loop' or 'iteratively preload'.
+=======
+>>>>>>> Stashed changes
