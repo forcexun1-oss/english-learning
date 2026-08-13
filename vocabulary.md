@@ -9352,3 +9352,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 14:25 — '盘好了' is informal Chinese for 'all set' or 'ready'. Use 'All set' or 'Ready' in English.
+- 2026-08-13 14:26 — “盘好了” is informal; use “done reviewing” or “I've reviewed it” in English.
