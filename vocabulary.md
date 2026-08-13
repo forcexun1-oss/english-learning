@@ -9303,3 +9303,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 10:11 — "方案" can be translated as "approach", "plan", or "solution". "Approach" is often best for technical strategies.
