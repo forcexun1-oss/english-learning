@@ -9436,3 +9436,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 16:34 — Use 'wouldn't' instead of '不就没有用了吗' to form a rhetorical question in English.
