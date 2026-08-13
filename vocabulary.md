@@ -9544,3 +9544,4 @@
 - 2026-08-13 21:08 — 别再管 means 'stop worrying about' or 'don't bother with'.
 - 2026-08-13 21:39 — In English questions, the verb comes before the subject: 'Is the prefill...' rather than 'The prefill is...?'
 - 2026-08-13 21:40 — '热好' here means 'warm up' or 'preheat' (like preloading data into memory). Use 'warm up' for a simple instruction.
+- 2026-08-13 21:56 — "挂了" here means "hanging" (not responding) rather than "crashed". Use "hanging" for requests that are stuck.
