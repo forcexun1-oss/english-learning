@@ -9505,3 +9505,4 @@
 - 2026-08-13 17:39 — "要多久" is a common Chinese pattern for asking duration. In English, use "How long does it take to..." followed by the action.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 18:33 — Capitalize proper nouns like 'Codex' (tool name).
