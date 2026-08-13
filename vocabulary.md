@@ -9419,3 +9419,4 @@
 - 2026-08-13 16:11 — '做什么sync' sounds like 'do what sync'. In English, pair 'what' with a noun directly: 'what sync'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 16:14 — "把" is often used in Chinese to form a '把' construction, but here it's incomplete. Use 'do it directly' for a clear command.
