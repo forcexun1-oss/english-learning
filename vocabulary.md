@@ -9401,3 +9401,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:53 — "打" in developer slang often means "execute" or "run" (e.g., 打sync = run sync).
