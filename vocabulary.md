@@ -9450,3 +9450,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 16:47 — In Chinese, '先' (first) comes before the verb; in English, 'first' often follows the verb.
