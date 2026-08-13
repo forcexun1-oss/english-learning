@@ -9550,3 +9550,4 @@
 - 2026-08-13 22:27 — Use 'take a look' or 'have a look' for a quick check.
 - 2026-08-13 22:53 — Use 'let + object + verb' to give a suggestion or command, as in 'Let Codex handle it.'
 - 2026-08-13 23:29 — For technical contexts, 'it seems like' or 'I think' is more objective than 'I feel like'.
+- 2026-08-13 23:38 — Use 'configured as' (主动语态) 或 'set to' 表示配置状态，比直译'配的'更自然。
