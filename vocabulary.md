@@ -9293,3 +9293,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 10:04 — 在...的情况下 translates to 'when...' or 'in the case of...'. For example, 在内存不够的情况下 = 'when memory is insufficient'.
