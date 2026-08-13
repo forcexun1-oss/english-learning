@@ -9509,3 +9509,4 @@
 - 2026-08-13 18:33 — Capitalize proper nouns like 'Codex' (tool name).
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 18:38 — Use a complete sentence like 'has completed' instead of the raw XML notification format.
