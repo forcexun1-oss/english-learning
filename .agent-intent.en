@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are the experts in each of the 40 layers all complete?
-=======
-Why did Codex start three MCP servers for gitnexus?
->>>>>>> Stashed changes
+For hot expert caching, what is the caching logic? Is it per-layer LRU or global LRU?

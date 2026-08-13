@@ -9482,3 +9482,4 @@
 - 2026-08-13 17:16 — Use 'complete' to mean 'all experts present' in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:18 — '按层' can be translated as 'per-layer' or 'layer-wise', and '整个' as 'global' or 'overall' in this context.
