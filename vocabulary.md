@@ -9316,3 +9316,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 10:41 — '走cli' means 'use/go through CLI' in informal technical Chinese.
+- 2026-08-13 10:44 — Use 'impact' for consequences; 'effect' is also fine but 'impact' is more direct. 'What would be' is a polite conditional.
