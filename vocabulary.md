@@ -9330,6 +9330,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-13 10:40 — Use 'globally' (adverb) when describing how to save, not 'global' (adjective). E.g., 'save globally' means save in a global scope.
 - 2026-08-13 10:41 — The particle '啊' at the end softens the tone, often used to express a realization or seek confirmation.
 =======
@@ -9395,3 +9396,5 @@
 - 2026-08-13 15:46 — "全量内存" means "full memory" — here it refers to loading the entire model into memory (vs. quantized or partial loading).
 - 2026-08-13 15:48 — 全量内存 translates to 'full-residency memory' in this context, meaning all model parameters loaded into memory.
 - 2026-08-13 15:48 — Use active voice and omit the raw XML wrapper. A developer would just state the result directly.
+=======
+>>>>>>> Stashed changes
