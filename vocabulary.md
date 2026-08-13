@@ -9478,3 +9478,4 @@
 - 2026-08-13 17:06 — Use 'always resident' instead of '常驻' in this context. 'Resident' means staying in memory.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:16 — Use 'complete' to mean 'all experts present' in this context.
