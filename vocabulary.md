@@ -9365,3 +9365,4 @@
 - 2026-08-13 15:07 — Instead of pasting the raw XML notification, write a natural sentence summarizing the result.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:14 — Use 'run' instead of 'execute' for commands/scripts in casual developer talk.
