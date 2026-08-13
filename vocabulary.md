@@ -9405,3 +9405,4 @@
 - 2026-08-13 15:53 — "打" in developer slang often means "execute" or "run" (e.g., 打sync = run sync).
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:57 — In English, the language comes after the verb (e.g., 'use Chinese for...'), while in Chinese the pattern is often 'language + 用 + verb'.
