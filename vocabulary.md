@@ -9378,3 +9378,4 @@
 - 2026-08-13 15:38 — Use 'no action needed' instead of 'not need to act' for natural developer phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:38 — Use 'received' instead of just repeating the raw notification; it makes your intent clear.
