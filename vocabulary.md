@@ -9470,3 +9470,4 @@
 - 2026-08-13 17:01 — Use 'What does X do?' to ask about the purpose of a command or tool. 'What is X doing?' asks about current activity.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:04 — "一共" translates to "in total" or "altogether" when asking about a total count.
