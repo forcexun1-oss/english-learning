@@ -9258,3 +9258,4 @@
 =======
 - 2026-08-09 21:48 — 全量 means 'full amount' or 'full set' in computing contexts.
 >>>>>>> Stashed changes
+- 2026-08-13 09:11 — "盲目全量加载" can be translated as "blind full loading" — more natural would be "indiscriminate full loading" or simply "loading everything without limits".

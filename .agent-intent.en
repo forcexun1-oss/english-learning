@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Can we squeeze some memory out? If there's not enough memory, can it still run?
-=======
-It's the full amount.
->>>>>>> Stashed changes
+The B route used by mac-assistant has a problem: it doesn't limit memory, causing blind full loading and resulting in insufficient machine memory. Please configure a limit on the number of experts and provide the optimal configuration.
