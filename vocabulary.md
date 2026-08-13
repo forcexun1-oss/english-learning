@@ -9520,3 +9520,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 19:09 — "跟...有什么关系" 可以用 "What does ... have to do with ...?" 来表达，更自然口语化。
