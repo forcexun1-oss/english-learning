@@ -9373,3 +9373,4 @@
 - 2026-08-13 15:27 — Use 'instead of' to contrast actions: 'instead of implementing... you are exploring...'
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:33 — Use a capital S and remove the backtick.
