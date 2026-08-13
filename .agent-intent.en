@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What about discarding each layer after computing it, then loading the next one, keeping 5 layers resident? So after layer 1 is done, discard it and load layer 6?
-=======
-Why did Codex start three MCP servers for gitnexus?
->>>>>>> Stashed changes
+How long does it take to load a layer?
