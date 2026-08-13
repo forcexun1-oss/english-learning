@@ -9393,3 +9393,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-13 15:46 — "全量内存" means "full memory" — here it refers to loading the entire model into memory (vs. quantized or partial loading).
+- 2026-08-13 15:48 — 全量内存 translates to 'full-residency memory' in this context, meaning all model parameters loaded into memory.
