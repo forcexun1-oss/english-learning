@@ -9497,3 +9497,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:35 — Use 'discard' (not 'drop') to mean 'remove from memory'. 'Resident' is the correct term for layers staying in memory.
