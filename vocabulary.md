@@ -9474,3 +9474,4 @@
 - 2026-08-13 17:04 — "一共" translates to "in total" or "altogether" when asking about a total count.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 17:06 — Use 'always resident' instead of '常驻' in this context. 'Resident' means staying in memory.
