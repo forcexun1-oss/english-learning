@@ -9344,3 +9344,4 @@
 - 2026-08-13 11:42 — Use 'proceed with' or 'continue with' to translate '继续' when referring to a task.
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 12:32 — "干" is casual; "handle" or "do" is more natural in English.
