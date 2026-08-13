@@ -9318,3 +9318,4 @@
 - 2026-08-13 10:41 — '走cli' means 'use/go through CLI' in informal technical Chinese.
 - 2026-08-13 10:44 — Use 'impact' for consequences; 'effect' is also fine but 'impact' is more direct. 'What would be' is a polite conditional.
 - 2026-08-13 10:47 — '垃圾' can be translated as 'terrible' or 'crappy', but be careful with tone in professional settings.
+- 2026-08-13 10:49 — "请求" can be translated as "request" (verb). "正常的" is naturally expressed as "working normally" or "functioning normally."
