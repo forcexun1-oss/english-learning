@@ -9392,3 +9392,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-13 15:46 — "全量内存" means "full memory" — here it refers to loading the entire model into memory (vs. quantized or partial loading).
