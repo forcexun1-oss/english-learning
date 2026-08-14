@@ -9565,3 +9565,4 @@
 - 2026-08-14 13:08 — Use '没' to negate past actions (didn't hit) instead of '不'. '又' indicates repetition (again).
 - 2026-08-14 13:14 — "还是不行" is commonly translated as "still not working" or "still doesn't work". Use "fix it yourself" to emphasize the user doing it.
 - 2026-08-14 13:37 — In English, avoid 'he' for AI; use 'it' or 'the response'.
+- 2026-08-14 13:53 — Use 'hit the cache' (verb) to mean '命中缓存' in English. Keep compound terms like 'prefix cache' unchanged.
