@@ -1,1 +1,1 @@
-Go ahead and fix F1 and F2 together, and add tests.
+Error: Tool error: fetch_content: Extension error: Could not find export 'resizeImage' in module '@earendil-works/pi-coding-agent'. The fetch_content tool threw an exception.

@@ -9567,3 +9567,4 @@
 - 2026-08-14 13:37 — In English, avoid 'he' for AI; use 'it' or 'the response'.
 - 2026-08-14 13:53 — Use 'hit the cache' (verb) to mean '命中缓存' in English. Keep compound terms like 'prefix cache' unchanged.
 - 2026-08-14 14:01 — Use 'go ahead and' to convey the soft imperative tone of '吧' in English.
+- 2026-08-14 14:13 — Use past tense 'threw' instead of 'throw' to describe a past event, and add the article 'an' before 'exception'.
