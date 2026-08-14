@@ -9589,3 +9589,4 @@
 - 2026-08-14 16:35 — Use 'dynamic' instead of 'displayed dynamically' for brevity, e.g., 'Is the page dynamic?'
 - 2026-08-14 16:35 — Use 'according to' for '按...来' in this context. 'Downstream' is often used as a noun in tech (e.g., 'pass to the downstream').
 - 2026-08-14 16:42 — The particle '的' in '原先的模型' indicates possession/attribute: 'the previous model'. Use 'right?' or 'shouldn't it?' as tag questions to confirm.
+- 2026-08-14 16:50 — "狗屎代码" is strong slang; in code reviews, you might say "terrible code" or "awful code" instead.
