@@ -9591,3 +9591,4 @@
 - 2026-08-14 16:42 — The particle '的' in '原先的模型' indicates possession/attribute: 'the previous model'. Use 'right?' or 'shouldn't it?' as tag questions to confirm.
 - 2026-08-14 16:50 — "狗屎代码" is strong slang; in code reviews, you might say "terrible code" or "awful code" instead.
 - 2026-08-14 16:54 — Use 'roll back' (or 'revert') instead of 'rollback' as a verb. Also, '变掉' is colloquial; 'change' is clearer here.
+- 2026-08-15 00:29 — ˈ换行ˈ is commonly translated as ˈline breaksˈ or ˈnewlinesˈ in coding contexts.
