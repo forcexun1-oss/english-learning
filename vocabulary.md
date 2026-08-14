@@ -9564,3 +9564,4 @@
 - 2026-08-14 11:44 — The Chinese particle '吧' at the end of a statement softens the assertion. In English, a tag question like 'isn't it?' or 'right?' serves a similar function.
 - 2026-08-14 13:08 — Use '没' to negate past actions (didn't hit) instead of '不'. '又' indicates repetition (again).
 - 2026-08-14 13:14 — "还是不行" is commonly translated as "still not working" or "still doesn't work". Use "fix it yourself" to emphasize the user doing it.
+- 2026-08-14 13:37 — In English, avoid 'he' for AI; use 'it' or 'the response'.
