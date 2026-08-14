@@ -1,1 +1,1 @@
-The shared KV cache is not being hit. The service has been running continuously since the change.
+The shared KV cache is no longer being hit. The service has been running non-stop since the change.
