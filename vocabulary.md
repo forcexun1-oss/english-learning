@@ -9553,3 +9553,4 @@
 - 2026-08-13 23:38 — Use 'configured as' (主动语态) 或 'set to' 表示配置状态，比直译'配的'更自然。
 - 2026-08-13 23:40 — 没做的事情 translates to 'things left to do' or 'remaining tasks'. Use 'left' or 'remaining' for unfinished items.
 - 2026-08-14 08:58 — Note: '可以不留' literally means 'can not keep', but in context it's better as 'can be omitted' or 'can be left out'.
+- 2026-08-14 09:06 — In tech, '公共的' is often 'shared' (not 'public'), and '命中' translates to 'hit' (cache hit).
