@@ -9576,3 +9576,4 @@
 - 2026-08-14 15:59 — "乱了" is colloquial for 'messed up' or 'out of order.' Use 'got messed up' or 'became garbled' for clarity.
 - 2026-08-14 16:03 — '修好了吗' can be translated as 'Is it fixed?' or 'Has it been fixed?' — use the simple present or present perfect for checking status.
 - 2026-08-14 16:04 — "那修啊" uses "啊" to urge or confirm. In English, “Then” or “Go ahead and” conveys a similar tone.
+- 2026-08-14 16:06 — "哪里来的" can be translated as "Where did this come from?" or "Where did this arise from?" Use "issue" or "problem" depending on context.
