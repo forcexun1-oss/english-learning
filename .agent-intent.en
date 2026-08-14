@@ -1,1 +1,1 @@
-Check why the current prefix cache isn't hitting again.
+The ones at the front should have the least chance of being evicted, right?

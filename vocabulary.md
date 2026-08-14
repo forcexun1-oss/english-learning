@@ -9559,3 +9559,4 @@
 - 2026-08-14 09:36 — Use 'split into' for dividing items into groups.
 - 2026-08-14 09:43 — Use 'completed with exit code 0' instead of repeating the notification structure — it's more natural in developer chat.
 - 2026-08-14 11:27 — "又" means "again" here; "没命中" means "not hitting" or "missed" for cache.
+- 2026-08-14 11:37 — Use 'least likely' instead of 'smallest possibility' for natural English: 'should be the least likely to be evicted.'
