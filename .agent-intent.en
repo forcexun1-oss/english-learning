@@ -1,1 +1,1 @@
-Please review the code related to prefix cache. After the latest restart, the queries are not hitting the cache again.
+Go ahead and fix F1 and F2 together, and add tests.
