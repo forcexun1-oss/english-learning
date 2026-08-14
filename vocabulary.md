@@ -9572,3 +9572,4 @@
 - 2026-08-14 14:43 — "合入" is commonly translated as "merge into" in Git contexts.
 - 2026-08-14 15:45 — Use 'line breaks' instead of '换行' (literally 'new lines'). 'Output' is more natural than 'data' in this context.
 - 2026-08-14 15:45 — The word '会话' can be translated as 'session' (common in AI tools) or 'conversation'. 'Session' is more technical and matches the context of Claude Code.
+- 2026-08-14 15:48 — Use 'appended' or 'added' instead of 'brought up' for '带上去' when referring to data being attached during reception.
