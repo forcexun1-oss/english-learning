@@ -9587,3 +9587,4 @@
 - 2026-08-14 16:28 — "就去修吧" can be translated as "go ahead and fix it" for a natural, encouraging tone.
 - 2026-08-14 16:34 — The Chinese '操' is a strong expletive. In English, 'damn' is a mild equivalent. For professional contexts, consider 'Seriously, why aren't the other ones added?'
 - 2026-08-14 16:35 — Use 'dynamic' instead of 'displayed dynamically' for brevity, e.g., 'Is the page dynamic?'
+- 2026-08-14 16:35 — Use 'according to' for '按...来' in this context. 'Downstream' is often used as a noun in tech (e.g., 'pass to the downstream').
