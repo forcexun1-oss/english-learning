@@ -1,1 +1,1 @@
-["\"text\": \"Error: Tool error: fetch_content: Extension error: Could not find export 'resizeImage' in module '@earendil-works/pi-coding-agent'\",\nfetch_content tool throw exception", "pi_agent_rust 更新到最新了吗"]
+["\"text\": \"Error: Tool error: fetch_content: Extension error: Could not find export 'resizeImage' in module '@earendil-works/pi-coding-agent'\",\nfetch_content tool throw exception", "pi_agent_rust 更新到最新了吗", "把远程提交拉下来,本地合入到main"]

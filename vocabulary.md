@@ -9569,3 +9569,4 @@
 - 2026-08-14 14:01 — Use 'go ahead and' to convey the soft imperative tone of '吧' in English.
 - 2026-08-14 14:13 — Use past tense 'threw' instead of 'throw' to describe a past event, and add the article 'an' before 'exception'.
 - 2026-08-14 14:41 — Use present perfect tense ('has been updated') to ask if an action is completed.
+- 2026-08-14 14:43 — "合入" is commonly translated as "merge into" in Git contexts.
