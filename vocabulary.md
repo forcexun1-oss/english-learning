@@ -9582,3 +9582,4 @@
 - 2026-08-14 16:21 — “胡说八道” is a strong dismissal; "nonsense" or "rubbish" works. “看看” here means "check" or "look into".
 - 2026-08-14 16:22 — 带过去 = 'passed along' in this context.
 - 2026-08-14 16:23 — Use 'yourself' for emphasis when telling someone to do something on their own.
+- 2026-08-14 16:25 — "鬼话" (guǐ huà) literally means 'ghost talk' but is used to express disbelief or annoyance. More natural English alternatives: 'nonsense', 'rubbish', or 'are you kidding me?'
