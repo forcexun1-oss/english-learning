@@ -9586,3 +9586,4 @@
 - 2026-08-14 16:28 — Use 'shouldn't we' to form a rhetorical question. Alternatively, 'Why not compare...' is more direct for suggestions.
 - 2026-08-14 16:28 — "就去修吧" can be translated as "go ahead and fix it" for a natural, encouraging tone.
 - 2026-08-14 16:34 — The Chinese '操' is a strong expletive. In English, 'damn' is a mild equivalent. For professional contexts, consider 'Seriously, why aren't the other ones added?'
+- 2026-08-14 16:35 — Use 'dynamic' instead of 'displayed dynamically' for brevity, e.g., 'Is the page dynamic?'
