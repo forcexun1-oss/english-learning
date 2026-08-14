@@ -1,1 +1,1 @@
-The shared KV cache is no longer being hit. The service has been running non-stop since the change.
+1. Adjust the time order: put the fixed parts like year-month-day in front. 2. On the mlx side, the prefix has become shorter, so it should be rebuilt. 3. Freeze the tool table. 4. Catch exceptions.
