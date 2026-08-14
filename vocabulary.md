@@ -9583,3 +9583,4 @@
 - 2026-08-14 16:22 — 带过去 = 'passed along' in this context.
 - 2026-08-14 16:23 — Use 'yourself' for emphasis when telling someone to do something on their own.
 - 2026-08-14 16:25 — "鬼话" (guǐ huà) literally means 'ghost talk' but is used to express disbelief or annoyance. More natural English alternatives: 'nonsense', 'rubbish', or 'are you kidding me?'
+- 2026-08-14 16:28 — Use 'shouldn't we' to form a rhetorical question. Alternatively, 'Why not compare...' is more direct for suggestions.
