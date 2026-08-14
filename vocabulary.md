@@ -9593,3 +9593,4 @@
 - 2026-08-14 16:54 — Use 'roll back' (or 'revert') instead of 'rollback' as a verb. Also, '变掉' is colloquial; 'change' is clearer here.
 - 2026-08-15 00:29 — ˈ换行ˈ is commonly translated as ˈline breaksˈ or ˈnewlinesˈ in coding contexts.
 - 2026-08-15 00:40 — Use 'why' (原因) instead of 'how' (方式) when asking for a reason.
+- 2026-08-15 00:44 — "修" translates to "fix" or "repair". Use "fix" for code issues; add "the" before the noun.
