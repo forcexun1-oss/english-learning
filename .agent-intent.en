@@ -1,4 +1,1 @@
-1444 +        case "qwen": "百炼"
-    1445 +        case "volcengine": "火山引擎"
-    1446 +        case "mlx-local": "本地"
-What the hell is this crap code?
+Why are you displaying it on the list? Roll it back. I obviously want the model selection in the top-right corner to change. And it looks like it was saved before.
