@@ -1,1 +1,1 @@
-Let codex do both.
+The algorithm you're using is wrong, isn't it? The tail gets +1, but the head doesn't.
