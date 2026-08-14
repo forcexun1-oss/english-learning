@@ -9579,3 +9579,4 @@
 - 2026-08-14 16:06 — "哪里来的" can be translated as "Where did this come from?" or "Where did this arise from?" Use "issue" or "problem" depending on context.
 - 2026-08-14 16:13 — When reporting errors, summarize the key issue in plain language rather than just pasting the raw JSON.
 - 2026-08-14 16:16 — Use 'works' for '可以' in technical contexts; '报错' can be 'throw errors' or 'report errors'.
+- 2026-08-14 16:21 — “胡说八道” is a strong dismissal; "nonsense" or "rubbish" works. “看看” here means "check" or "look into".
