@@ -9578,3 +9578,4 @@
 - 2026-08-14 16:04 — "那修啊" uses "啊" to urge or confirm. In English, “Then” or “Go ahead and” conveys a similar tone.
 - 2026-08-14 16:06 — "哪里来的" can be translated as "Where did this come from?" or "Where did this arise from?" Use "issue" or "problem" depending on context.
 - 2026-08-14 16:13 — When reporting errors, summarize the key issue in plain language rather than just pasting the raw JSON.
+- 2026-08-14 16:16 — Use 'works' for '可以' in technical contexts; '报错' can be 'throw errors' or 'report errors'.
