@@ -9594,3 +9594,4 @@
 - 2026-08-15 00:29 — ˈ换行ˈ is commonly translated as ˈline breaksˈ or ˈnewlinesˈ in coding contexts.
 - 2026-08-15 00:40 — Use 'why' (原因) instead of 'how' (方式) when asking for a reason.
 - 2026-08-15 00:44 — "修" translates to "fix" or "repair". Use "fix" for code issues; add "the" before the noun.
+- 2026-08-15 01:21 — Use 'fixed' for software issues; 'repaired' is for physical objects.
