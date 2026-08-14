@@ -1,1 +1,1 @@
-What's left to do?
+The 32 GiB sidecar duplicates the original model. For long-term use, the switch_mlp part of the original model can actually be omitted, but that is irreversible, so I didn't touch it. What does this mean?
