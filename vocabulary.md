@@ -9556,3 +9556,4 @@
 - 2026-08-14 09:06 — In tech, '公共的' is often 'shared' (not 'public'), and '命中' translates to 'hit' (cache hit).
 - 2026-08-14 09:09 — "命中" means "hit" (cache hit). "没停过服务" means "the service has never stopped running".
 - 2026-08-14 09:28 — In English instructions, omit '一下' (a bit) — 'catch exceptions' is more direct.
+- 2026-08-14 09:36 — Use 'split into' for dividing items into groups.
