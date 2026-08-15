@@ -9595,3 +9595,4 @@
 - 2026-08-15 00:40 — Use 'why' (原因) instead of 'how' (方式) when asking for a reason.
 - 2026-08-15 00:44 — "修" translates to "fix" or "repair". Use "fix" for code issues; add "the" before the noun.
 - 2026-08-15 01:21 — Use 'fixed' for software issues; 'repaired' is for physical objects.
+- 2026-08-15 14:02 — In technical contexts, 'consume' or 'use' is more natural than 'take up' for memory usage.
