@@ -9602,3 +9602,4 @@
 - 2026-08-15 19:58 — '死循环' literally means 'dead loop' — in programming, it's 'infinite loop'.
 - 2026-08-15 19:58 — '把...给我启动起来' is a colloquial command. Use imperative 'Start ollama' instead. '这个请求' = 'This request'.
 - 2026-08-15 19:59 — Use 'the provider for qwen' instead of 'qwen's provider' to avoid ambiguity with possessive form for software names.
+- 2026-08-15 20:01 — "又开始" (yòu kāishǐ) means 'starting again' — use 'you're repeating' (present continuous) for ongoing action, or 'you started repeating' for past.
