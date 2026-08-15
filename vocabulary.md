@@ -9598,3 +9598,4 @@
 - 2026-08-15 14:02 — In technical contexts, 'consume' or 'use' is more natural than 'take up' for memory usage.
 - 2026-08-15 14:05 — In Chinese, '把' is often used as a particle to mark the object before the verb, but in English imperatives, we simply place the object after the verb (e.g., 'Change this port').
 - 2026-08-15 15:57 — Use 'download the model' instead of 'in ollama downloaded' — word order: subject + verb + object.
+- 2026-08-15 19:41 — '回车' in coding contexts is often translated as 'line break' or 'carriage return' (abbreviated as CR). 'Line break' is more common in modern usage.
