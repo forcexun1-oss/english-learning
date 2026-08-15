@@ -9603,3 +9603,4 @@
 - 2026-08-15 19:58 — '把...给我启动起来' is a colloquial command. Use imperative 'Start ollama' instead. '这个请求' = 'This request'.
 - 2026-08-15 19:59 — Use 'the provider for qwen' instead of 'qwen's provider' to avoid ambiguity with possessive form for software names.
 - 2026-08-15 20:01 — "又开始" (yòu kāishǐ) means 'starting again' — use 'you're repeating' (present continuous) for ongoing action, or 'you started repeating' for past.
+- 2026-08-15 20:02 — After 'tell someone', use the infinitive form (to + verb), e.g., 'tell you to start' instead of 'tell you start'.
