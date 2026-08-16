@@ -9615,3 +9615,4 @@
 - 2026-08-16 15:15 — "重头到位" is likely a typo for "从头到尾" (from start to finish). Use 'from start to finish' or 'from beginning to end'.
 - 2026-08-16 15:24 — Use 'What is ...' to ask for a definition of a term.
 - 2026-08-16 15:49 — Use 'scroll back' or 'scroll to the top' instead of 'slide to the front' for natural English.
+- 2026-08-16 16:00 — "死循环" is a technical term meaning 'infinite loop' or 'dead loop'. In English, we say 'stuck in an infinite loop'.
