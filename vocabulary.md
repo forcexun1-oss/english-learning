@@ -9620,3 +9620,4 @@
 - 2026-08-16 16:03 — 按工作集 translates to 'by working set' or 'in terms of working set', a common phrase in system performance analysis.
 - 2026-08-16 16:05 — 呗 is a colloquial particle implying a natural conclusion or obviousness. Use 'right?' or 'huh?' to convey that tone.
 - 2026-08-16 16:06 — Use 'concentrated' (or 'focused') to describe experts with higher selection probability. 'More concentrated' is correct here.
+- 2026-08-16 16:10 — "更差" translates to "worse" (comparative of bad), not "more bad".
