@@ -1,1 +1,1 @@
-What does 'GPU overlap' mean?
+Do you mean that when computing the tokens for this layer, there is no way to predict the next layer in parallel?
