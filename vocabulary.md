@@ -9632,3 +9632,4 @@
 - 2026-08-16 16:52 — Use 'What does this mean?' or 'What do you mean?' depending on context. This is a common way to ask for clarification.
 - 2026-08-16 16:53 — Use 'achieve' instead of 'arrive at' for performance metrics like tok/s.
 - 2026-08-16 16:57 — “跑一下看看” is casual; in English, use ‘run it and see’ or ‘give it a try’ for similar effect.
+- 2026-08-16 17:03 — "取值的" 在这里更自然的说法是 "check/retrieve the values"，而不是直接 "take the values"。
