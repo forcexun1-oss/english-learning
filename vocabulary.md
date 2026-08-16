@@ -9645,3 +9645,4 @@
 - 2026-08-16 22:28 — "共享修改" can be expressed as "shared and modifiable" (more natural) or "shared for modification". "一层一个队列" is "one queue per layer".
 - 2026-08-16 22:35 — "做吧" is an imperative. Use "Do it." or "Go ahead." to give a direct instruction.
 - 2026-08-16 22:52 — "是啥" is casual for "是什么". In English, use "What's" or "What is" naturally.
+- 2026-08-16 22:54 — "写" alone can be translated as "Write" (imperative), but in developer context, it's clearer to say "Go ahead and write it" or "Write the code."
