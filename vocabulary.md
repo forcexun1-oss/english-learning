@@ -9626,3 +9626,4 @@
 - 2026-08-16 16:31 — "死循环" in Chinese literally means "dead loop" — in English tech contexts, say "infinite loop" or "get stuck in a loop". Also note: "either...or..." is used for two alternatives.
 - 2026-08-16 16:33 — '特异' here means 'intentionally' or 'deliberately', not 'specifically'.
 - 2026-08-16 16:36 — In English, when asking about the meaning of a word, use 'What does ... mean?' instead of '...是什么'.
+- 2026-08-16 16:40 — A tip: The Chinese phrase '一定要...才行' means 'must... before/for it to work'. In English, you can use 'only after' or 'requires that' to express the dependency.

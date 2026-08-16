@@ -1,1 +1,1 @@
-What does 'seen' mean?
+Is sync needed because the lower layer can only know which experts are needed after the upper layer has finished computing?
