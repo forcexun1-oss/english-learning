@@ -9639,3 +9639,4 @@
 - 2026-08-16 17:42 — ‘重叠’ translates to 'overlap' (noun/verb); here it's a technical term, keep it as 'GPU overlap'.
 - 2026-08-16 17:48 — "算这一层的token" → "computing the tokens for this layer" (use "computing" instead of "calculating" for ML contexts).
 - 2026-08-16 17:50 — Use 'So' to connect to the previous discussion naturally, like 'So what's the conclusion?'.
+- 2026-08-16 21:46 — “整层缓存” is naturally translated as 'full-layer cache' (or 'whole-layer cache'). 'Synchronization issues' is the standard term for 同步问题.
