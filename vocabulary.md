@@ -9605,3 +9605,4 @@
 - 2026-08-15 20:01 — "又开始" (yòu kāishǐ) means 'starting again' — use 'you're repeating' (present continuous) for ongoing action, or 'you started repeating' for past.
 - 2026-08-15 20:02 — After 'tell someone', use the infinitive form (to + verb), e.g., 'tell you to start' instead of 'tell you start'.
 - 2026-08-15 20:14 — The Chinese particle '把' is used to front the object, but here it's likely a typo for '吧' (softening suggestion). In English, simply say 'Change all of them.'
+- 2026-08-16 13:58 — Use 'models that can be configured' or 'available models' instead of '可以和模型'.
