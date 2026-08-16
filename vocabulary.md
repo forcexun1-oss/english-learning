@@ -9653,3 +9653,4 @@
 - 2026-08-16 23:32 — Use present perfect ('has ended') for completed actions relevant to the current moment.
 - 2026-08-17 00:00 — Use 'theirs' (possessive pronoun) instead of 'his' for a company/product.
 - 2026-08-17 00:07 — Consider using 'performance' instead of 'effect' for technical contexts: 'Does this precision perform better or worse?'
+- 2026-08-17 00:26 — “光看” can be translated as “just look at” or more concisely as “alone” — e.g., “Is RMSE alone enough?”
