@@ -1,1 +1,1 @@
-Background command 'Relaunch codex with corrected flags' completed (exit code 0)
+Why are we using q8_0? Ollama's quantization uses mxfp8 — theirs is probably the most suitable. We can look at their code.

@@ -9651,3 +9651,4 @@
 - 2026-08-16 23:24 — '抽风' is a colloquial way to say 'acting up' or 'glitching'.
 - 2026-08-16 23:29 — 把 is a typo of 吧 (suggestion particle). '开干' is colloquial for 'start working'.
 - 2026-08-16 23:32 — Use present perfect ('has ended') for completed actions relevant to the current moment.
+- 2026-08-17 00:00 — Use 'theirs' (possessive pronoun) instead of 'his' for a company/product.
