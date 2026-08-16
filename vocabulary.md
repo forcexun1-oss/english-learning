@@ -9613,3 +9613,4 @@
 - 2026-08-16 14:45 — In Chinese, '呢' is a softener; in English, you can omit it or use 'just' to indicate the narrowed scope.
 - 2026-08-16 14:51 — Use 'pipeline' to refer to a line of development or optimization work, rather than a literal 'line'.
 - 2026-08-16 15:15 — "重头到位" is likely a typo for "从头到尾" (from start to finish). Use 'from start to finish' or 'from beginning to end'.
+- 2026-08-16 15:24 — Use 'What is ...' to ask for a definition of a term.
