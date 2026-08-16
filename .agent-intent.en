@@ -1,1 +1,1 @@
-Can we keep the mapping table unchanged?
+What about not having one queue per layer? The mapping table's values can set the memory to be shared and modifiable, right?

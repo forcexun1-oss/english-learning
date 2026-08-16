@@ -9642,3 +9642,4 @@
 - 2026-08-16 21:46 — “整层缓存” is naturally translated as 'full-layer cache' (or 'whole-layer cache'). 'Synchronization issues' is the standard term for 同步问题.
 - 2026-08-16 22:06 — Use 'obtain' for a more formal tone, but 'get' is also fine in casual conversation.
 - 2026-08-16 22:20 — "映射表" translates to "mapping table". You can also say "constant" instead of "unchanged" for a more technical tone.
+- 2026-08-16 22:28 — "共享修改" can be expressed as "shared and modifiable" (more natural) or "shared for modification". "一层一个队列" is "one queue per layer".
