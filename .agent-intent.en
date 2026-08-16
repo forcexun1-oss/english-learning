@@ -1,1 +1,1 @@
-Is sync needed because the lower layer can only know which experts are needed after the upper layer has finished computing?
+This is related to speculative decoding, right? There are corresponding methods. With so many approaches, there should be one that seems feasible.

@@ -9627,3 +9627,4 @@
 - 2026-08-16 16:33 — '特异' here means 'intentionally' or 'deliberately', not 'specifically'.
 - 2026-08-16 16:36 — In English, when asking about the meaning of a word, use 'What does ... mean?' instead of '...是什么'.
 - 2026-08-16 16:40 — A tip: The Chinese phrase '一定要...才行' means 'must... before/for it to work'. In English, you can use 'only after' or 'requires that' to express the dependency.
+- 2026-08-16 16:44 — '关联上' can be translated as 'relate to' or 'be associated with'. '感觉可以的' means 'seems feasible'.
