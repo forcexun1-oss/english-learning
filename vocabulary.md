@@ -9648,3 +9648,4 @@
 - 2026-08-16 22:54 — "写" alone can be translated as "Write" (imperative), but in developer context, it's clearer to say "Go ahead and write it" or "Write the code."
 - 2026-08-16 22:57 — '量一下' is often translated as 'measure' or 'benchmark' in technical contexts.
 - 2026-08-16 23:21 — Use 'let codex implement it' to express asking an AI tool to implement something. 'Let' is more natural than 'make' here.
+- 2026-08-16 23:24 — '抽风' is a colloquial way to say 'acting up' or 'glitching'.
