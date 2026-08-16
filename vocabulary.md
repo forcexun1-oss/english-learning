@@ -9606,3 +9606,4 @@
 - 2026-08-15 20:02 — After 'tell someone', use the infinitive form (to + verb), e.g., 'tell you to start' instead of 'tell you start'.
 - 2026-08-15 20:14 — The Chinese particle '把' is used to front the object, but here it's likely a typo for '吧' (softening suggestion). In English, simply say 'Change all of them.'
 - 2026-08-16 13:58 — Use 'models that can be configured' or 'available models' instead of '可以和模型'.
+- 2026-08-16 14:14 — Use 'Configure' instead of '把...配上去' for a more natural English instruction. Also, '模型' is 'model', and proper nouns like 'Codex' and 'DeepSeek' should be capitalized.
