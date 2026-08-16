@@ -9650,3 +9650,4 @@
 - 2026-08-16 23:21 — Use 'let codex implement it' to express asking an AI tool to implement something. 'Let' is more natural than 'make' here.
 - 2026-08-16 23:24 — '抽风' is a colloquial way to say 'acting up' or 'glitching'.
 - 2026-08-16 23:29 — 把 is a typo of 吧 (suggestion particle). '开干' is colloquial for 'start working'.
+- 2026-08-16 23:32 — Use present perfect ('has ended') for completed actions relevant to the current moment.
