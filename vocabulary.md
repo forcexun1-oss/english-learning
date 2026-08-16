@@ -9616,3 +9616,4 @@
 - 2026-08-16 15:24 — Use 'What is ...' to ask for a definition of a term.
 - 2026-08-16 15:49 — Use 'scroll back' or 'scroll to the top' instead of 'slide to the front' for natural English.
 - 2026-08-16 16:00 — "死循环" is a technical term meaning 'infinite loop' or 'dead loop'. In English, we say 'stuck in an infinite loop'.
+- 2026-08-16 16:01 — Use 'fully cached' as an adjective phrase before the noun, or reverse the order: 'Which layers are fully cached?' is natural.
