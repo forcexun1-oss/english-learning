@@ -9607,3 +9607,4 @@
 - 2026-08-15 20:14 — The Chinese particle '把' is used to front the object, but here it's likely a typo for '吧' (softening suggestion). In English, simply say 'Change all of them.'
 - 2026-08-16 13:58 — Use 'models that can be configured' or 'available models' instead of '可以和模型'.
 - 2026-08-16 14:14 — Use 'Configure' instead of '把...配上去' for a more natural English instruction. Also, '模型' is 'model', and proper nouns like 'Codex' and 'DeepSeek' should be capitalized.
+- 2026-08-16 14:16 — Notice: '都是这个连接' is better translated as 'All use this connection' or 'All connections are this URL' rather than a literal 'all are this connection'. Also, '展示' is often 'displayed as' in technical contexts.
