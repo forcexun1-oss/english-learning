@@ -9611,3 +9611,4 @@
 - 2026-08-16 14:16 — Use 'underneath' or 'below' to indicate a hierarchical structure (e.g., models grouped under a parent).
 - 2026-08-16 14:35 — "实现路线" translates to "implementation approach" or "implementation strategy" here, not "roadmap."
 - 2026-08-16 14:45 — In Chinese, '呢' is a softener; in English, you can omit it or use 'just' to indicate the narrowed scope.
+- 2026-08-16 14:51 — Use 'pipeline' to refer to a line of development or optimization work, rather than a literal 'line'.
