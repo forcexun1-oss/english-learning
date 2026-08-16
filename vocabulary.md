@@ -9624,3 +9624,4 @@
 - 2026-08-16 16:14 — In English, 'miss' as a noun often refers to a cache miss in computing, not a failure.
 - 2026-08-16 16:18 — Use 'make up names' to mean 'invent names arbitrarily' (乱取). 'Randomly' emphasizes the lack of logic.
 - 2026-08-16 16:31 — "死循环" in Chinese literally means "dead loop" — in English tech contexts, say "infinite loop" or "get stuck in a loop". Also note: "either...or..." is used for two alternatives.
+- 2026-08-16 16:33 — '特异' here means 'intentionally' or 'deliberately', not 'specifically'.
