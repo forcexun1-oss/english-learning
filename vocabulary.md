@@ -9622,3 +9622,4 @@
 - 2026-08-16 16:06 — Use 'concentrated' (or 'focused') to describe experts with higher selection probability. 'More concentrated' is correct here.
 - 2026-08-16 16:10 — "更差" translates to "worse" (comparative of bad), not "more bad".
 - 2026-08-16 16:14 — In English, 'miss' as a noun often refers to a cache miss in computing, not a failure.
+- 2026-08-16 16:18 — Use 'make up names' to mean 'invent names arbitrarily' (乱取). 'Randomly' emphasizes the lack of logic.
