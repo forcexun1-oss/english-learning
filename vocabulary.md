@@ -9630,3 +9630,4 @@
 - 2026-08-16 16:44 — '关联上' can be translated as 'relate to' or 'be associated with'. '感觉可以的' means 'seems feasible'.
 - 2026-08-16 16:49 — In English, 'Let's try it' is a natural way to suggest an action. The Chinese '吧' softens the suggestion, but English often uses 'let's' or 'let me'.
 - 2026-08-16 16:52 — Use 'What does this mean?' or 'What do you mean?' depending on context. This is a common way to ask for clarification.
+- 2026-08-16 16:53 — Use 'achieve' instead of 'arrive at' for performance metrics like tok/s.
