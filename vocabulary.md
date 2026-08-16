@@ -9635,3 +9635,4 @@
 - 2026-08-16 17:03 — "取值的" 在这里更自然的说法是 "check/retrieve the values"，而不是直接 "take the values"。
 - 2026-08-16 17:13 — Use 'via' to mean 'by means of' in technical contexts.
 - 2026-08-16 17:29 — Use "run it" as a concise command. Adding "please" makes it polite.
+- 2026-08-16 17:33 — Use 'ended' (simple past) for a completed event; 'has ended' (present perfect) is also fine but slightly more formal. In developer logs, simple past is common.
