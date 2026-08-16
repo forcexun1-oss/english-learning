@@ -9609,3 +9609,4 @@
 - 2026-08-16 14:14 — Use 'Configure' instead of '把...配上去' for a more natural English instruction. Also, '模型' is 'model', and proper nouns like 'Codex' and 'DeepSeek' should be capitalized.
 - 2026-08-16 14:16 — Notice: '都是这个连接' is better translated as 'All use this connection' or 'All connections are this URL' rather than a literal 'all are this connection'. Also, '展示' is often 'displayed as' in technical contexts.
 - 2026-08-16 14:16 — Use 'underneath' or 'below' to indicate a hierarchical structure (e.g., models grouped under a parent).
+- 2026-08-16 14:35 — "实现路线" translates to "implementation approach" or "implementation strategy" here, not "roadmap."
