@@ -9636,3 +9636,4 @@
 - 2026-08-16 17:13 — Use 'via' to mean 'by means of' in technical contexts.
 - 2026-08-16 17:29 — Use "run it" as a concise command. Adding "please" makes it polite.
 - 2026-08-16 17:33 — Use 'ended' (simple past) for a completed event; 'has ended' (present perfect) is also fine but slightly more formal. In developer logs, simple past is common.
+- 2026-08-16 17:42 — ‘重叠’ translates to 'overlap' (noun/verb); here it's a technical term, keep it as 'GPU overlap'.
