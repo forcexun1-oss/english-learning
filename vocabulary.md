@@ -9638,3 +9638,4 @@
 - 2026-08-16 17:33 — Use 'ended' (simple past) for a completed event; 'has ended' (present perfect) is also fine but slightly more formal. In developer logs, simple past is common.
 - 2026-08-16 17:42 — ‘重叠’ translates to 'overlap' (noun/verb); here it's a technical term, keep it as 'GPU overlap'.
 - 2026-08-16 17:48 — "算这一层的token" → "computing the tokens for this layer" (use "computing" instead of "calculating" for ML contexts).
+- 2026-08-16 17:50 — Use 'So' to connect to the previous discussion naturally, like 'So what's the conclusion?'.
