@@ -9625,3 +9625,4 @@
 - 2026-08-16 16:18 — Use 'make up names' to mean 'invent names arbitrarily' (乱取). 'Randomly' emphasizes the lack of logic.
 - 2026-08-16 16:31 — "死循环" in Chinese literally means "dead loop" — in English tech contexts, say "infinite loop" or "get stuck in a loop". Also note: "either...or..." is used for two alternatives.
 - 2026-08-16 16:33 — '特异' here means 'intentionally' or 'deliberately', not 'specifically'.
+- 2026-08-16 16:36 — In English, when asking about the meaning of a word, use 'What does ... mean?' instead of '...是什么'.
