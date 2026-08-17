@@ -9698,3 +9698,4 @@
 - 2026-08-17 17:25 — In Chinese, '有办法...吗' means 'Is there a way to...?' Use 'handle' or 'fix' depending on context.
 - 2026-08-17 17:31 — In Chinese, '把' marks the object being acted upon, but in English we simply place the object after the verb (e.g., 'put it on...'). Also, '吧' softens the suggestion, but in English imperatives can be used directly.
 - 2026-08-17 18:06 — In English, 'display' is often used for UI elements, while 'show' is more general. For a conditional display, you can say 'Does it only show when there is a value?'
+- 2026-08-17 18:07 — Use 'concurrent' as an adjective to describe the changes. 'Concurrency' is the noun form.
