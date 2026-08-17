@@ -1,1 +1,1 @@
-Look at the agent panel. During streaming generation, if you scroll up, it gets forced to the bottom. The scrollbar can't stay still. It probably broke after adding the history conversation panel; it was working fine before.
+The version is unknown.
