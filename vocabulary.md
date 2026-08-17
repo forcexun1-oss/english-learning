@@ -9681,3 +9681,4 @@
 - 2026-08-17 16:12 — ELK is an acronym (Eclipse Layout Kernel) and is typically written in uppercase.
 - 2026-08-17 16:17 — “滑动条” is “scrollbar”, not “sliding bar”. Also “拉上去” in this context means “scroll up”, not “pull up”.
 - 2026-08-17 16:18 — Use 'The' before singular countable nouns like 'version'.
+- 2026-08-17 16:19 — Use 'natively' instead of 'directly' to mean built-in support. 'have to' emphasizes obligation, while 'need to' is also fine.
