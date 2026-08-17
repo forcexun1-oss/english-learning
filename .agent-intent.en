@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It's a problem with the agent panel, nothing to do with anything else.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Look at the question in the recent conversation: "What is H2D an abbreviation for?" When the model answered, it output many line numbers. Didn't we add compatibility handling in the provider, the Bailian one? Why did it still output to the page?

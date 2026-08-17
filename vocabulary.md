@@ -9694,3 +9694,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-17 17:19 — Use 'compatibility handling' (noun) or 'made it compatible' (verb). 'Compatibility' alone is an adjective; 'compatibility handling' is a common phrase.
