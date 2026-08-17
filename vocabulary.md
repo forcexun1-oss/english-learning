@@ -9666,3 +9666,4 @@
 - 2026-08-17 14:38 — '怎么又听了' can be translated as 'Why mention again' or 'Why did I hear again'.
 - 2026-08-17 15:05 — Use 'fail with the error' instead of 'report' for a more natural technical description of an error message.
 - 2026-08-17 15:18 — When asking someone to continue, you can say 'Please go ahead' or 'I'm ready for the next one.'
+- 2026-08-17 15:54 — Use 'It often fails to render' instead of '很容易渲染不出来' — 'fails to render' is more natural in technical contexts.
