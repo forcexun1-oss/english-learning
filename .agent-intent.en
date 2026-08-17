@@ -1,1 +1,1 @@
-The rendering failure is most likely caused by the '/' in the quoted title of the subgraph LAYER["主干 40/48/60 层循环"]. Fix it and resend: The model said it fixed it like this — check the last conversation, is that correct?
+Show the Mermaid version at the rendering area so we can determine whose fault it is. Also, does it have a compatibility mode parameter that can be adjusted?
