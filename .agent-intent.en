@@ -1,1 +1,1 @@
-What is this? Mermaid rendering failed: Parse error on line 4: ...ph<br/>构建 ggml 计算图] C --> D{后端调度} -----------------------^ Expecting 'SEMI', 'NEWLINE', 'EOF', 'AMP', 'START_LINK', 'LINK', 'LINK_ID', got 'NODE_STRING'
+The rendering failure is most likely caused by the '/' in the quoted title of the subgraph LAYER["主干 40/48/60 层循环"]. Fix it and resend: The model said it fixed it like this — check the last conversation, is that correct?
