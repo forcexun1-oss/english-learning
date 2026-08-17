@@ -9668,3 +9668,4 @@
 - 2026-08-17 15:18 — When asking someone to continue, you can say 'Please go ahead' or 'I'm ready for the next one.'
 - 2026-08-17 15:54 — Use 'It often fails to render' instead of '很容易渲染不出来' — 'fails to render' is more natural in technical contexts.
 - 2026-08-17 16:00 — "版本" (bǎnběn) translates to "version" in English. Use "latest version" to refer to the most recent release.
+- 2026-08-17 16:01 — In UI contexts, 面板 translates to 'panel', not 'dashboard' or 'faceplate'.
