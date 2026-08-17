@@ -9660,3 +9660,4 @@
 - 2026-08-17 14:01 — "换了" can be translated as "switched to" when changing to a different model.
 - 2026-08-17 14:06 — Use 'whether' for yes/no conditions; 'KV cache' is a technical term and should remain uppercase.
 - 2026-08-17 14:11 — Use 'not just... but also...' to emphasize inclusion of both.
+- 2026-08-17 14:15 — 搞这么费劲 means 'to go through so much trouble/effort'. Use 'struggling' or 'putting in so much effort' in English.
