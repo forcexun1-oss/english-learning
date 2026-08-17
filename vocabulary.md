@@ -9663,3 +9663,4 @@
 - 2026-08-17 14:15 — 搞这么费劲 means 'to go through so much trouble/effort'. Use 'struggling' or 'putting in so much effort' in English.
 - 2026-08-17 14:18 — "老是" is colloquial for "always" (often with annoyance). In English, use "seems to be stuck in" instead of literal "always in".
 - 2026-08-17 14:36 — "听了" 可能是 "停了" (stopped) 的笔误。注意区分 tīng (listen) 和 tíng (stop)。
+- 2026-08-17 14:38 — '怎么又听了' can be translated as 'Why mention again' or 'Why did I hear again'.
