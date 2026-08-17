@@ -9657,3 +9657,4 @@
 - 2026-08-17 13:46 — "命中缓存" translates to "cache hit" or "the cache was hit/not hit." Use "cache miss" for no hit.
 - 2026-08-17 13:50 — ‘死循环’ translates to 'infinite loop'. Use 'in an infinite loop' or 'stuck in an infinite loop'.
 - 2026-08-17 13:58 — "再请求一条" -> "another request" (instead of "one more request") sounds more natural when asking to resend.
+- 2026-08-17 14:01 — "换了" can be translated as "switched to" when changing to a different model.
