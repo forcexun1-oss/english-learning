@@ -9700,3 +9700,4 @@
 - 2026-08-17 18:06 — In English, 'display' is often used for UI elements, while 'show' is more general. For a conditional display, you can say 'Does it only show when there is a value?'
 - 2026-08-17 18:07 — Use 'concurrent' as an adjective to describe the changes. 'Concurrency' is the noun form.
 - 2026-08-17 18:11 — Use 'is this data not saved?' instead of the literal 'this data, not saved?' to form a proper question.
+- 2026-08-17 18:14 — Use spaces around operators and a question word for clarity.
