@@ -9695,3 +9695,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-17 17:19 — Use 'compatibility handling' (noun) or 'made it compatible' (verb). 'Compatibility' alone is an adjective; 'compatibility handling' is a common phrase.
+- 2026-08-17 17:25 — In Chinese, '有办法...吗' means 'Is there a way to...?' Use 'handle' or 'fix' depending on context.
