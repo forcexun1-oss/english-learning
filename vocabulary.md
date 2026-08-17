@@ -9679,3 +9679,4 @@
 - 2026-08-17 16:09 — '显示一下' can be translated as 'show' or 'display'; '兼容模式' is 'compatibility mode'.
 - 2026-08-17 16:10 — Use 'What is...?' to ask for the meaning of a term. 'Elk' is likely a proper noun, so keep it as is.
 - 2026-08-17 16:12 — ELK is an acronym (Eclipse Layout Kernel) and is typically written in uppercase.
+- 2026-08-17 16:17 — “滑动条” is “scrollbar”, not “sliding bar”. Also “拉上去” in this context means “scroll up”, not “pull up”.
