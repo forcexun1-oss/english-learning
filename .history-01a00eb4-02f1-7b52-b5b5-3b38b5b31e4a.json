@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["agent面板集成的mermaid插件是比较旧吗,很容易渲染不出来", "最新的版本是什么", "面板上实际用的是什么", "那为什么渲染失败呢, 我想问的是"]
-=======
-["agent面板集成的mermaid插件是比较旧吗,很容易渲染不出来", "最新的版本是什么", "面板上实际用的是什么", "“classDef、Unicode、圆角、复杂 subgraph 容易失败”等, 这些不支持,怎么解释呢"]
->>>>>>> Stashed changes
+["这种是什么呢? Mermaid 渲染失败: Parse error on line 4: ...ph<br/>构建 ggml 计算图] C --> D{后端调度} -----------------------^ Expecting 'SEMI', 'NEWLINE', 'EOF', 'AMP', 'START_LINK', 'LINK', 'LINK_ID', got 'NODE_STRING'"]

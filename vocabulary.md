@@ -9674,3 +9674,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-17 16:04 — Use 'What is this?' instead of '这种是什么呢?' for a direct and natural question.

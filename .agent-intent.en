@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then why did the rendering fail? What I want to ask is...
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+What is this? Mermaid rendering failed: Parse error on line 4: ...ph<br/>构建 ggml 计算图] C --> D{后端调度} -----------------------^ Expecting 'SEMI', 'NEWLINE', 'EOF', 'AMP', 'START_LINK', 'LINK', 'LINK_ID', got 'NODE_STRING'
