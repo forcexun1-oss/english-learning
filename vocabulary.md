@@ -9678,3 +9678,4 @@
 - 2026-08-17 16:06 — Use 'caused by' (not 'caused from') when referring to the source of a problem. Also, note that 'most likely' is more natural than 'high probability' in this context.
 - 2026-08-17 16:09 — '显示一下' can be translated as 'show' or 'display'; '兼容模式' is 'compatibility mode'.
 - 2026-08-17 16:10 — Use 'What is...?' to ask for the meaning of a term. 'Elk' is likely a proper noun, so keep it as is.
+- 2026-08-17 16:12 — ELK is an acronym (Eclipse Layout Kernel) and is typically written in uppercase.
