@@ -9661,3 +9661,4 @@
 - 2026-08-17 14:06 — Use 'whether' for yes/no conditions; 'KV cache' is a technical term and should remain uppercase.
 - 2026-08-17 14:11 — Use 'not just... but also...' to emphasize inclusion of both.
 - 2026-08-17 14:15 — 搞这么费劲 means 'to go through so much trouble/effort'. Use 'struggling' or 'putting in so much effort' in English.
+- 2026-08-17 14:18 — "老是" is colloquial for "always" (often with annoyance). In English, use "seems to be stuck in" instead of literal "always in".
