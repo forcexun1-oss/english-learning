@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Then why did the rendering fail? What I want to ask is...
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
