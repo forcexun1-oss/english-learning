@@ -1,1 +1,1 @@
-Restarted the request and switched to the ChatGPT model.
+Add logging for whether the KV cache is hit, and also add on the panel the context size and how many hits occurred.
