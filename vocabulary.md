@@ -9654,3 +9654,4 @@
 - 2026-08-17 00:00 — Use 'theirs' (possessive pronoun) instead of 'his' for a company/product.
 - 2026-08-17 00:07 — Consider using 'performance' instead of 'effect' for technical contexts: 'Does this precision perform better or worse?'
 - 2026-08-17 00:26 — “光看” can be translated as “just look at” or more concisely as “alone” — e.g., “Is RMSE alone enough?”
+- 2026-08-17 13:46 — "命中缓存" translates to "cache hit" or "the cache was hit/not hit." Use "cache miss" for no hit.
