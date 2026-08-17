@@ -9665,3 +9665,4 @@
 - 2026-08-17 14:36 — "听了" 可能是 "停了" (stopped) 的笔误。注意区分 tīng (listen) 和 tíng (stop)。
 - 2026-08-17 14:38 — '怎么又听了' can be translated as 'Why mention again' or 'Why did I hear again'.
 - 2026-08-17 15:05 — Use 'fail with the error' instead of 'report' for a more natural technical description of an error message.
+- 2026-08-17 15:18 — When asking someone to continue, you can say 'Please go ahead' or 'I'm ready for the next one.'
