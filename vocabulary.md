@@ -9659,3 +9659,4 @@
 - 2026-08-17 13:58 — "再请求一条" -> "another request" (instead of "one more request") sounds more natural when asking to resend.
 - 2026-08-17 14:01 — "换了" can be translated as "switched to" when changing to a different model.
 - 2026-08-17 14:06 — Use 'whether' for yes/no conditions; 'KV cache' is a technical term and should remain uppercase.
+- 2026-08-17 14:11 — Use 'not just... but also...' to emphasize inclusion of both.
