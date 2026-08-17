@@ -9696,3 +9696,4 @@
 >>>>>>> Stashed changes
 - 2026-08-17 17:19 — Use 'compatibility handling' (noun) or 'made it compatible' (verb). 'Compatibility' alone is an adjective; 'compatibility handling' is a common phrase.
 - 2026-08-17 17:25 — In Chinese, '有办法...吗' means 'Is there a way to...?' Use 'handle' or 'fix' depending on context.
+- 2026-08-17 17:31 — In Chinese, '把' marks the object being acted upon, but in English we simply place the object after the verb (e.g., 'put it on...'). Also, '吧' softens the suggestion, but in English imperatives can be used directly.
