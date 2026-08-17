@@ -9670,6 +9670,7 @@
 - 2026-08-17 16:00 — "版本" (bǎnběn) translates to "version" in English. Use "latest version" to refer to the most recent release.
 - 2026-08-17 16:01 — In UI contexts, 面板 translates to 'panel', not 'dashboard' or 'faceplate'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -9685,3 +9686,6 @@
 - 2026-08-17 16:20 — ‘显式’ means explicit; you likely meant ‘显示’ (display).
 - 2026-08-17 16:24 — "Closed" is the past tense of "close" (关闭). You wrote "小时" (hours) which might be a typo for "关闭".
 - 2026-08-17 16:29 — In English, technical terms like 'agent panel' keep the original order, but note that Chinese often places the modifier before the noun, same as English here.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
