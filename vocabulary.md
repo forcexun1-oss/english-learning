@@ -9683,3 +9683,4 @@
 - 2026-08-17 16:18 — Use 'The' before singular countable nouns like 'version'.
 - 2026-08-17 16:19 — Use 'natively' instead of 'directly' to mean built-in support. 'have to' emphasizes obligation, while 'need to' is also fine.
 - 2026-08-17 16:20 — ‘显式’ means explicit; you likely meant ‘显示’ (display).
+- 2026-08-17 16:24 — "Closed" is the past tense of "close" (关闭). You wrote "小时" (hours) which might be a typo for "关闭".
