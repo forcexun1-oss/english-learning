@@ -9903,3 +9903,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 20:10 — Use 'swap' for 交换 when referring to moving data between CPU and GPU memory. Also, the structure '是...还是...' translates to 'Is it... or...'.
