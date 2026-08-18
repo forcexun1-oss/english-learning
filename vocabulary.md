@@ -9839,3 +9839,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 19:18 — Use 'commit history' instead of '提交记录' directly. Also, '不是' at the beginning corrects a misunderstanding, naturally translated as 'No'.
