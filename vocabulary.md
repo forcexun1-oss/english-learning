@@ -9708,3 +9708,4 @@
 - 2026-08-18 09:13 — Use 'from 10 PM to 8 AM' for time ranges instead of '22:00 to 8:00' for natural English.
 - 2026-08-18 09:31 — Use 'into' for entering a document, 'in' is also acceptable but less precise.
 - 2026-08-18 09:34 — The Chinese phrase '就...就完了' is a colloquial way to say 'just do X and be done with it'. In English, a simple imperative suffices.
+- 2026-08-18 09:40 — '交接文档' is 'handoff document'. '看看' can be 'take a look at' or 'check out'.
