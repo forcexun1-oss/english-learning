@@ -9672,6 +9672,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -9701,3 +9702,6 @@
 - 2026-08-17 18:07 — Use 'concurrent' as an adjective to describe the changes. 'Concurrency' is the noun form.
 - 2026-08-17 18:11 — Use 'is this data not saved?' instead of the literal 'this data, not saved?' to form a proper question.
 - 2026-08-17 18:14 — Use spaces around operators and a question word for clarity.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
