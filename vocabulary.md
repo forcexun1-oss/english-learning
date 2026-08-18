@@ -9744,3 +9744,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 10:19 — Use 'open-sourced' (as a verb) or 'is it open source' (as a noun/adjective). Both are common in technical contexts.
