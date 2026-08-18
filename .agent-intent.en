@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have you pulled all the remote changes?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+ds4 should be based on the latest master.
