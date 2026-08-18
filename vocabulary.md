@@ -9944,3 +9944,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 21:35 — For '盘' in this context, use 'remote repo' or 'remote' (colloquial for 远程仓库). Also, '把' should be '吧' (question particle).
