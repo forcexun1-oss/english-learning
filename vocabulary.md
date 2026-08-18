@@ -9854,3 +9854,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 19:33 — "把...说清楚" translates to "explain ... clearly" or "make ... clear".
