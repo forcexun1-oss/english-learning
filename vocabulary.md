@@ -9924,3 +9924,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 20:46 — 拉下来 is colloquial for 'pull' in git. Use 'pull' directly in English.
