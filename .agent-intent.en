@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How could there be a scheme that puts entire layers on the CPU? Would that even run?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+So this approach performs poorly, right?
