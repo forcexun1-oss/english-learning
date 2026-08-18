@@ -9705,3 +9705,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 09:13 — Use 'from 10 PM to 8 AM' for time ranges instead of '22:00 to 8:00' for natural English.
