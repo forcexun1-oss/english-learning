@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Was this actually run? I recall the real solution was that part of the data was computed on the CPU.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Does the 'ngl' parameter represent the non-expert layers?
