@@ -9934,3 +9934,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 21:30 — "删了把" is informal; "把" is a particle. In English, simply say "Delete it." without an equivalent.
