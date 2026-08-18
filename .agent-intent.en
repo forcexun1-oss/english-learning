@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are there any good open-source alternatives in the ecosystem to replace this?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Why isn't browser_fetch_content used as the default tool first?
