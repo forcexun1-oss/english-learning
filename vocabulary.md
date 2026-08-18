@@ -9673,6 +9673,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -9710,3 +9711,6 @@
 - 2026-08-18 09:34 — The Chinese phrase '就...就完了' is a colloquial way to say 'just do X and be done with it'. In English, a simple imperative suffices.
 - 2026-08-18 09:40 — '交接文档' is 'handoff document'. '看看' can be 'take a look at' or 'check out'.
 - 2026-08-18 09:49 — Use 'check which' instead of 'look at where' for clarity. Also, 'deployed to' is the correct preposition, not 'deployed onto'.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes

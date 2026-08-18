@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Check which middleware in the current project has been deployed to the current RK board.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
