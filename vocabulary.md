@@ -9879,3 +9879,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 19:55 — Use 'rough' to describe a solution that is not polished or refined. 'So you also think...' is a natural way to confirm agreement.

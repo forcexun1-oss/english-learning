@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does the 'ngl' parameter represent the non-expert layers?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+So you also think the solution is rough, and the non-expert parts should all be on GPU?
