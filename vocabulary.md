@@ -9919,3 +9919,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-18 20:42 — “理顺” (literally “straighten out”) is often translated as “organize” or “sort out” in a task context.
+- 2026-08-18 20:42 — '理顺一下' is a colloquial way to say 'sort out' or 'straighten out'. In a development context, 'organize' or 'tidy up' also works.
