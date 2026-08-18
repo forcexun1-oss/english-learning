@@ -9723,3 +9723,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 09:53 — In Chinese, '做一下' softens the command. In English, use 'Do' or 'Handle' followed by the items.
