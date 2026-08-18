@@ -9949,3 +9949,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 21:47 — Use "pull" for fetching updates, or "clone" if you mean copying the repository for the first time.
