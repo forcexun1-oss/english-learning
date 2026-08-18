@@ -9733,3 +9733,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 10:09 — Use 'what' for open-ended questions about available options instead of 'which' when not specifying a limited set.
