@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What does this approach mean? Is it computing on the CPU, or swapping into the GPU?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+What is the -ncmoe parameter?
