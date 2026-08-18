@@ -9954,3 +9954,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 21:48 — In Chinese, '不要这个项目' literally means 'don't want this project', but in English commands, use 'remove' or 'delete' for clarity.
