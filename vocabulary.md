@@ -9959,3 +9959,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 21:51 — "无可装载的文件系统" translates to "no mountable file system". In computing, 装载 is commonly used for 'mount'.

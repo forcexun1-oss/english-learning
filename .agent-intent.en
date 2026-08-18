@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-Remove the ds4-laptop project.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+hdiutil attach "/Volumes/SANDISK ELE/git-backup.sparsebundle"
+v3.9.6
+hdiutil: attach failed - no mountable file system
