@@ -9913,3 +9913,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 20:15 — In '怎么来做', the '来' is often optional. You can simply say '怎么做' (how to do).
