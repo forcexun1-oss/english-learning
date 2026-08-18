@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I'm asking about the overall plan of the line that actually ran on the NVIDIA card on the Windows machine earlier.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Was this actually run? I recall the real solution was that part of the data was computed on the CPU.
