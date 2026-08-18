@@ -9829,3 +9829,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-18 19:12 — "看看" can be translated as "check out" or "take a look at" for a more natural instruction.
