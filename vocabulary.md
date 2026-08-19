@@ -10096,3 +10096,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 13:59 — “拿什么装” = “用什么工具/介质安装”，用 "What should I use to install it?" 更自然。"移动硬盘" 是 portable hard drive 或 external hard drive。
