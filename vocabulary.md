@@ -9991,3 +9991,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 12:22 — 开干吧 is informal; 'Let's get started' is a natural English equivalent.
