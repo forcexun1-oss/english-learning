@@ -9727,6 +9727,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -9977,3 +9978,6 @@
 - 2026-08-19 11:46 — Use 'this' instead of '这' for 'this page'. Also, '就行了是把' is colloquial; 'right?' at the end is a natural tag question.
 - 2026-08-19 11:47 — In Chinese, '参看demo新写' is a bit compressed. In English, it's clearer to say 'refer to the demo and write new code' vs 'use it directly'.
 - 2026-08-19 11:57 — Use 'check if' instead of 'look at' to express asking whether something is possible.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
