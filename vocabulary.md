@@ -10161,3 +10161,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 14:44 — "我听听" is a casual way to say 'let me listen' or 'play it for me.' In English, 'let me hear them' is natural.
