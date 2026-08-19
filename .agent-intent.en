@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 v1.0.5b2 — are you saying this is wrong? To run on the board, do I need this?
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
