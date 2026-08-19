@@ -10142,3 +10142,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 14:31 — Use 'finished successfully' instead of 'completed' for a more natural developer tone. 'Completed' is fine but less common in casual chat.
