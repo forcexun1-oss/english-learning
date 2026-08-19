@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Task 4 (RKNN2 conversion + parity check) and Task 6 (HTTP wiring) have completed.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
