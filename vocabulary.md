@@ -10022,3 +10022,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 13:07 — Use 'assign tasks to someone' instead of '派活给' to sound more natural.
