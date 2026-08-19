@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-My machine with an NVIDIA card is running Windows. I've noticed that the command line on it is very unstable, and the VRAM is 8GB, but it takes up 2GB right away. Is it necessary for me to install a dual-boot Linux?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Doesn't this board have Linux? I see there's a display screen on it.
