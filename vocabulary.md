@@ -9986,3 +9986,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-19 12:21 — “连着的” is informal; use “It's connected” or “The board is connected” for clarity.
+- 2026-08-19 12:22 — The particle '把' at the end of a sentence is colloquial Chinese for seeking confirmation (like 'right?' or 'I guess'). In English, use a tag question or just 'right?'.
