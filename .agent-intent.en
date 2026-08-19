@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Eject the disk.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Can I install this OCR from the GitHub repo onto the current board? I need to input images and output recognized content. Is it enough to just install the two items on this page? As for the related code, should I refer to the demo and write new code, or can I use it directly?
