@@ -10046,3 +10046,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 13:19 — '跑' translates to 'run' in software/hardware contexts (e.g., 'run on the board').
