@@ -10197,3 +10197,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 15:14 — '在...方案中' translates to 'in the ... solution' or 'regarding the ... solution'. Use 'these' for multiple items.
