@@ -9760,6 +9760,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -10134,3 +10135,6 @@
 - 2026-08-19 14:19 — Use 'merge into' for '合入' in English. '板子' translates to 'board' (the hardware device).
 - 2026-08-19 14:19 — "合入 main" translates to "merge into main" — "main" is the branch name and stays lowercase.
 - 2026-08-19 14:24 — '搞一下' is colloquial; use 'do it' or 'set it up' for a more natural instruction.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
