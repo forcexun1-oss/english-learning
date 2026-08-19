@@ -10087,3 +10087,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 13:55 — In Chinese, '把' here is a casual decision marker (like '吧'). In English, start with 'I'll go with' or 'Let's' to convey the same intention.
