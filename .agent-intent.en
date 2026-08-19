@@ -1,1 +1,1 @@
-Merge both into main, then formally deploy to the board.
+Let's use balenaEtcher to do it. First, get all the preparations ready, but don't touch the portable hard drive yet.

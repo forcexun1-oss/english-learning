@@ -10133,3 +10133,4 @@
 >>>>>>> Stashed changes
 - 2026-08-19 14:19 — Use 'merge into' for '合入' in English. '板子' translates to 'board' (the hardware device).
 - 2026-08-19 14:19 — "合入 main" translates to "merge into main" — "main" is the branch name and stays lowercase.
+- 2026-08-19 14:24 — '搞一下' is colloquial; use 'do it' or 'set it up' for a more natural instruction.
