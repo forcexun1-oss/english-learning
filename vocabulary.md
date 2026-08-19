@@ -10156,3 +10156,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 14:42 — "Copy" here refers to text content in a UI (e.g., button labels, prompts). It's uncountable, so we say "the copy" not "a copy".
