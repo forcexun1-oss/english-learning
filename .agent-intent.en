@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The result after the change seems worse. Please regenerate it.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Both have the character '当', which is a bit weird.
