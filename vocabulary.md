@@ -10202,3 +10202,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 15:15 — In Chinese, '吧' (ba) at the end of a sentence softens the tone, often seeking confirmation or making a suggestion. In English, you can use 'right?' or 'I think' to convey a similar effect.
