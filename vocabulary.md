@@ -10068,3 +10068,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-19 13:37 — Use present perfect ('have completed') for recent events.
