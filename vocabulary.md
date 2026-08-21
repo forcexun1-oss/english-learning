@@ -10046,6 +10046,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11344,3 +11345,6 @@
 - 2026-08-22 01:19 — "感受" here is best translated as "side" or "experience" — saying "mainly on the list side" sounds natural in English.
 - 2026-08-22 01:21 — 失效在描述 UI 行为时通常用“stopped working”或“is broken”，而不用“invalid”。
 - 2026-08-22 01:23 — Use present continuous "How's it going?" for checking on progress — it's more natural than "How did it go?" here.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
