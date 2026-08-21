@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What's the big deal? Isn't it just adding a few views and their corresponding PI bindings?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Why did the order change when clicking previously? A single click should not modify its modified time.
