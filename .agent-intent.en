@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Wait, didn't we just refactor? After the refactor, does the kv get written to disk or not?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+The current data has changed, right? We need to handle that.
