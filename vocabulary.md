@@ -10014,6 +10014,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11165,3 +11166,6 @@
 >>>>>>> Stashed changes
 - 2026-08-21 15:24 — "咋样了" is colloquial for asking about progress/status. "How's it going?" is the natural English equivalent in a casual work context.
 - 2026-08-21 15:27 — "确定有缓存" = "make sure/confirm caching is in place"; "卡" in a technical context is best translated as "laggy" or "slow," not "stuck."
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
