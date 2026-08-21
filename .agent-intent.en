@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Verify it.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Still slow. Add tracing points everywhere to pin down where the slowness is.
