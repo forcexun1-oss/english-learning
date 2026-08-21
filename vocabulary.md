@@ -11290,3 +11290,4 @@
 - 2026-08-21 17:21 — 'Whether' sounds more formal than 'if' when checking status.
 - 2026-08-21 17:29 — Use '吧' (not '把') for question tags; '没搞错吧' is more natural as 'Did we get it right?' or 'We didn't mess up, did we?'
 - 2026-08-21 22:06 — "怎么样了" asks about current status/progress — "How's it going?" or "What's the status?" both work. The particle 了 here signals you're asking about how things have turned out so far.
+- 2026-08-21 22:15 — 吧 is a softener in Chinese; in English, a plain imperative like "Continue." sounds natural in this context.
