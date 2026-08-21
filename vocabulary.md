@@ -10021,6 +10021,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11200,3 +11201,6 @@
 >>>>>>> Stashed changes
 - 2026-08-21 15:41 — You wrote 把 (bǎ) but likely meant 吧 (ba), which softens the request. 'Let me...' captures the casual tone of 验证一下.
 - 2026-08-21 15:44 — '开日志' is better as 'enable logging' — 'enable' is the standard term for turning on features. Also, '还有' at the start is usually just 'also' or 'it also' in English.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
