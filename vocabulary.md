@@ -11327,3 +11327,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 00:39 — '把' should be '吧' (ba) for a confirmation question; '也还是' means 'also still'.
