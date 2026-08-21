@@ -11340,3 +11340,4 @@
 - 2026-08-22 01:05 — “改” alone is a terse command; in English, adding an object like “it” sounds more natural.
 - 2026-08-22 01:06 — “切换模型” can be expressed as “switch the model”, and “卡住我的操作” naturally translates to “block my operations” or “freeze my actions”.
 - 2026-08-22 01:08 — Use 'rendering finishes' rather than 'rendered complete' for natural phrasing. '秒切' translates well as 'switch instantly'.
+- 2026-08-22 01:11 — Use “There's still something blocking” instead of “It still has something blocking” — for 有 in this sense, English prefers the “there is” construction.
