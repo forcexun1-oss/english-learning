@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It also affected the delete functionality. How do I enable logging, and what are the startup parameters?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Take a look at the logs first.
