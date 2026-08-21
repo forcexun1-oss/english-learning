@@ -11273,3 +11273,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-21 16:42 — "继续吧" is casual; "Go ahead" or "Carry on" sounds more natural than a literal "You continue".
