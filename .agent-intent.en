@@ -1,1 +1,1 @@
-Check the logs. It's still a bit laggy — there's a slight stutter after clicking. What is it doing?
+push_history_refresh should be triggered selectively. Why does clicking the list trigger it?

@@ -11333,3 +11333,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-22 00:44 — '卡一下' = a brief UI freeze; use 'stutter' or 'stall' instead of 'freeze' to sound more natural.
+- 2026-08-22 00:47 — '有限触发' is best rendered as 'triggered selectively' or 'triggered only when needed' — 'limited' sounds awkward for event triggers.
