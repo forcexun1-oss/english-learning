@@ -10018,6 +10018,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11185,3 +11186,6 @@
 >>>>>>> Stashed changes
 - 2026-08-21 15:33 — “没有把” should be “没有吧” (ba) — 吧 is a modal particle for confirmation, while 把 is a preposition. Also, “要么就是” here is better translated as “then it must be” rather than “or else.”
 - 2026-08-21 15:34 — 重来吧 is naturally rendered as "Let's start over." Note 重来 (chóng lái) means "do again from scratch," not "come again" (which would be 再来).
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
