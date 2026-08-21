@@ -11218,3 +11218,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-21 16:04 — 验证一下 (verb + 一下) maps naturally to a direct imperative in English: "Verify it."
