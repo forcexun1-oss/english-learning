@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Commit the changes from 11434 to 11435.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
