@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The KV isn't persisted to disk yet — we need to add that feature.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
