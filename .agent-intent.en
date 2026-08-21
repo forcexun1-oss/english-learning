@@ -1,1 +1,1 @@
-What does that mean? Is it because of a KV cache hit?
+Check the logs — the hit rate looks a bit better, but it's not the main issue.

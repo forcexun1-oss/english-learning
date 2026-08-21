@@ -11233,3 +11233,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-21 16:13 — Use 'What does that mean?' to ask for clarification. 'Hit' is the standard verb for cache access (e.g., 'cache hit').
+- 2026-08-21 16:15 — "大头" here is colloquial for "the main part"; use "main issue" or "main culprit" in English. Also, "命中" is "hit rate" when talking about cache hits.
