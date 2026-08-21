@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Look, when switching back, the page scroll is moving — clearly it's repainting.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
