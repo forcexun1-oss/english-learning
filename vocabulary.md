@@ -10017,6 +10017,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11179,3 +11180,6 @@
 >>>>>>> Stashed changes
 - 2026-08-21 15:32 — '层面' can be translated as 'level' or 'layer'; 'level' is more natural here when referring to a programming language stack.
 - 2026-08-21 15:32 — "层面" translates to "level" here — note the word order: "at the Swift level" (adverb phrases come after the verb in English).
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
