@@ -11177,3 +11177,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-21 15:32 — '层面' can be translated as 'level' or 'layer'; 'level' is more natural here when referring to a programming language stack.
