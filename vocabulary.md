@@ -11338,3 +11338,4 @@
 - 2026-08-22 00:58 — The particle 吧 here softens the command into a suggestion; use 'go ahead and...' to convey that natural tone.
 - 2026-08-22 01:01 — '再看看' literally means 'look again' — 'Take another look' is a natural way to ask for another review.
 - 2026-08-22 01:05 — “改” alone is a terse command; in English, adding an object like “it” sounds more natural.
+- 2026-08-22 01:06 — “切换模型” can be expressed as “switch the model”, and “卡住我的操作” naturally translates to “block my operations” or “freeze my actions”.
