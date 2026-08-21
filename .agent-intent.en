@@ -1,1 +1,1 @@
-Also, the model needs to be switched, but do it asynchronously — don't block my operations.
+Also, is the list switching triggered only after rendering finishes? The list elements should switch instantly — that would feel much better.
