@@ -11312,3 +11312,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 00:24 — Note: 'explain' requires 'to me' after the object — say 'explain the plan to me', not 'explain me the plan'.
