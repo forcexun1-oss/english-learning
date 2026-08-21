@@ -11391,3 +11391,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 01:41 — '改好' means 'fix it properly/well' — use 'need to' for '要' here (expressing necessity).
