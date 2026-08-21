@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Don't worry about that for now. The kv cache is very prone to corruption, and right now it's already corrupted. After the restart, there was no kv cache to begin with, and even now that it's running, it still isn't there.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+When the same client starts a new conversation, there's no concurrency either.
