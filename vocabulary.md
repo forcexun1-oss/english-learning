@@ -11336,3 +11336,4 @@
 - 2026-08-22 00:47 — '有限触发' is best rendered as 'triggered selectively' or 'triggered only when needed' — 'limited' sounds awkward for event triggers.
 - 2026-08-22 00:52 — “还差点点感觉” is colloquial; use “missing a bit of the feel” or “not quite right” for a more natural English expression.
 - 2026-08-22 00:58 — The particle 吧 here softens the command into a suggestion; use 'go ahead and...' to convey that natural tone.
+- 2026-08-22 01:01 — '再看看' literally means 'look again' — 'Take another look' is a natural way to ask for another review.
