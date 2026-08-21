@@ -11342,3 +11342,4 @@
 - 2026-08-22 01:08 — Use 'rendering finishes' rather than 'rendered complete' for natural phrasing. '秒切' translates well as 'switch instantly'.
 - 2026-08-22 01:11 — Use “There's still something blocking” instead of “It still has something blocking” — for 有 in this sense, English prefers the “there is” construction.
 - 2026-08-22 01:19 — "感受" here is best translated as "side" or "experience" — saying "mainly on the list side" sounds natural in English.
+- 2026-08-22 01:21 — 失效在描述 UI 行为时通常用“stopped working”或“is broken”，而不用“invalid”。
