@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I've restarted, but the current one keeps running and looks wrong.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
