@@ -11396,3 +11396,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 01:45 — "很容易就坏了" can be translated as "very prone to corruption" or "fragile". Note: "跑了在跑也没有" means "even after running, it still doesn't exist," so use "even now that it's running... still isn't there."
