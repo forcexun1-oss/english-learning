@@ -11296,3 +11296,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-21 22:57 — Use 'How's it going?' for a casual status check. It's the natural equivalent of 怎么样了.
+- 2026-08-21 22:57 — Use "What's the status?" instead of "How's it going?" when checking progress on a task — it's more specific in a work context.
