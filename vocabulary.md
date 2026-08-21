@@ -11348,3 +11348,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 01:25 — “怎么个意思” is colloquial for “what does that mean?” — in English, you can say “What do you mean?” or “What's that about?” Also, “存盘” often simply means “save,” so “save to disk” works but sounds a bit literal.
