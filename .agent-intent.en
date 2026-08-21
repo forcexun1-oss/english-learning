@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Look, why is it also cached at the Swift level?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Did Swift cache it? No, right? Then it must be redrawn.
