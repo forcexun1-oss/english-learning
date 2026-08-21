@@ -11283,3 +11283,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-21 16:57 — Use 'finished' or 'complete' instead of 'written done' — '写完' here means 'completed', not literally 'written'.
+- 2026-08-21 16:58 — Use 'yet' with the present perfect ('has been written') to emphasize that something hasn't happened up to now.
