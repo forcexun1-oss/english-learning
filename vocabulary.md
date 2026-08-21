@@ -10034,6 +10034,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11264,3 +11265,6 @@
 >>>>>>> Stashed changes
 - 2026-08-21 16:31 — In a debugging context, 查 is usually 'investigate' or 'look into' rather than just 'check'.
 - 2026-08-21 16:33 — "大手术" is metaphorical—"major surgery" works, but "what's the big deal" sounds more natural for expressing that something shouldn't be complicated.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
