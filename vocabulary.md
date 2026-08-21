@@ -11334,3 +11334,4 @@
 >>>>>>> Stashed changes
 - 2026-08-22 00:44 — '卡一下' = a brief UI freeze; use 'stutter' or 'stall' instead of 'freeze' to sound more natural.
 - 2026-08-22 00:47 — '有限触发' is best rendered as 'triggered selectively' or 'triggered only when needed' — 'limited' sounds awkward for event triggers.
+- 2026-08-22 00:52 — “还差点点感觉” is colloquial; use “missing a bit of the feel” or “not quite right” for a more natural English expression.
