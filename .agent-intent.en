@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Linear attention also has caching, right?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Check the logs. It's still a bit laggy — there's a slight stutter after clicking. What is it doing?
