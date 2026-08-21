@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Don't worry about the existing tests—they need to be redefined as well. If there are tests and still a pile of bugs, the test design is clearly flawed. We need to fully replicate the ones from over there.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
