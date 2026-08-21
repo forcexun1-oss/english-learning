@@ -11284,3 +11284,4 @@
 >>>>>>> Stashed changes
 - 2026-08-21 16:57 — Use 'finished' or 'complete' instead of 'written done' — '写完' here means 'completed', not literally 'written'.
 - 2026-08-21 16:58 — Use 'yet' with the present perfect ('has been written') to emphasize that something hasn't happened up to now.
+- 2026-08-21 17:00 — "拆解任务" is naturally expressed as "break down the tasks" (or "decompose the tasks"). For "一个一个完成", use "complete them one by one" or "one at a time".
