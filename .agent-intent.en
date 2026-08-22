@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check out my hi API — it's a cache hit, so why does it still take 1–2 seconds?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Check the recent two requests — they hit the KV cache, right? Why is the TTFT still 2-3 seconds?
