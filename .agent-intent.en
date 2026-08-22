@@ -1,1 +1,1 @@
-There are currently 4 conversations that can't be deleted. Figure out why.
+Take a look at the last few sessions — the first token feels a bit slow. It's already hitting the KV cache, but I just sent 'hi', so why is there still a stutter?
