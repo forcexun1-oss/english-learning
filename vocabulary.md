@@ -11459,3 +11459,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 20:20 — '如何了' implies asking about the current situation or progress, not just 'how'. Use 'what's the status' or 'how is it going'.
