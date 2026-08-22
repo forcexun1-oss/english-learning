@@ -11474,3 +11474,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 20:37 — In English, 'why is that?' sounds more natural than 'why this?' because you need a verb and subject.
