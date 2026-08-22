@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-When the same client starts a new conversation, there's no concurrency either.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+There are currently 4 conversations that can't be deleted. Figure out why.

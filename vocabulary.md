@@ -11406,3 +11406,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 09:53 — '删不掉' can be translated as 'can't be deleted' or 'won't delete'. '看看为什么' is naturally rendered as 'figure out why' or 'look into why'.
