@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-No matter how you calculate it, the root node of the tree will always be eliminated last.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Change it so that when switching sessions, mac-assistant doesn't send evict anymore.

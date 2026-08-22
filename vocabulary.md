@@ -11469,3 +11469,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 20:30 — Use 'doesn't' (does not) for third-person singular subjects like 'mac-assistant'.
