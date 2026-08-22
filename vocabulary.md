@@ -10071,6 +10071,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11465,3 +11466,6 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-22 20:24 — Use "the last to be + past participle" to express "最后一个被...的" (e.g., the last to be eliminated, the last to be updated).
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
