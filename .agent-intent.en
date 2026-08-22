@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Did you test it? It seems like you didn't include it.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
