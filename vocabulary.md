@@ -11464,3 +11464,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 20:24 — Use "the last to be + past participle" to express "最后一个被...的" (e.g., the last to be eliminated, the last to be updated).

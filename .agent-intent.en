@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check the logs, what's the status now?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+No matter how you calculate it, the root node of the tree will always be eliminated last.
