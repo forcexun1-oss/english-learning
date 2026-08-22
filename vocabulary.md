@@ -11479,3 +11479,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 20:52 — '后面的' can be translated as 'the rest' when referring to the remaining part. Use 'still' to convey the '还' in the original.
