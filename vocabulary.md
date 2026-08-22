@@ -11417,3 +11417,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 10:45 — '命中cache' is a literal translation; in English we say 'it's a cache hit' or 'it hits the cache.' Also, keep the question structure: 'why does it still take...' instead of 'why still 1-2秒'.
