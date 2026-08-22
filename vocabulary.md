@@ -11450,3 +11450,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-22 19:42 — "命中缓存" is naturally expressed as "hitting the cache" in English, and "看看怎么" can be rendered as "Let's check why" for a more natural phrasing.
