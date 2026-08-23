@@ -11625,3 +11625,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:41 — "追查" in a debugging context is best translated as "trace" (追踪排查) rather than "investigate" — it implies following the call chain step by step.
