@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-How does the model stay fixed at 27-28 (GB)? We're streaming, so only part should be in memory. Why isn't it being evicted? Isn't there a maximum limit that should trigger eviction?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Run it and set a reasonable value based on the current memory usage.
