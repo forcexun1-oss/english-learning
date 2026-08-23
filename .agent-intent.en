@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So what exactly is causing the first character to be slow?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Let's update the logging first — align the metrics between the two sides. Log both the prefill time and the first-token time, then run a test.
