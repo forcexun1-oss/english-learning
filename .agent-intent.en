@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does this mean the memory stayed under control?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+The logs will be preserved across service restarts, right?
