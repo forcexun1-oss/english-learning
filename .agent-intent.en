@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Start tracing from the mac-assistant side.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Should we clear the cache now? Also, my request should be returned to me first — cache rebuild should be asynchronous.

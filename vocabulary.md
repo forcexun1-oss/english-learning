@@ -11630,3 +11630,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:44 — Use 'should' for suggestions or questions about what is proper, like 'should we clear' or 'should be'.
