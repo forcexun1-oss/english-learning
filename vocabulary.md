@@ -11489,3 +11489,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 10:21 — "试一下" is often best as "give it a try" or "try it out" — a natural phrasal verb for casual attempts.
