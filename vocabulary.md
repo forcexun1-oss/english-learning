@@ -10094,6 +10094,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11574,3 +11575,6 @@
 >>>>>>> Stashed changes
 - 2026-08-23 12:04 — Use 'research results' for 调研结果; 'recorded' or 'documented' for 记录下来.
 - 2026-08-23 12:05 — Use 'previous one' to refer back to a session; note that '之前的' already means 'previous', so you don't need to add an extra '的'.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
