@@ -11732,3 +11732,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 14:50 — Use 'What is' when asking about a metric/acronym like TTFT, rather than 'how much'.
