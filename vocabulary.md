@@ -11664,3 +11664,4 @@
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
 - 2026-08-23 13:11 — '还是' translates to 'still' to emphasize the ongoing situation. '这边' can be omitted or rendered as 'side' if needed.
+- 2026-08-23 13:12 — "那到" is a typo for "那到底" (so what exactly). In English, "到底" adds emphasis — use "exactly" or "on earth" to convey that emphasis.
