@@ -11674,3 +11674,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 13:26 — Use 'what about' to ask for a specific item's value, and 'from that end' to mean 'from that side/service'.
