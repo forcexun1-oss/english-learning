@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why does the model always occupy 27-28GB? We're streaming, so only part of it should be in memory — that's what I'm asking about.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+How does the model stay fixed at 27-28 (GB)? We're streaming, so only part should be in memory. Why isn't it being evicted? Isn't there a maximum limit that should trigger eviction?
