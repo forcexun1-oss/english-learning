@@ -11679,3 +11679,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 13:28 — Use 'aligned with' to express 对齐, or 'match' for a more casual tone.
