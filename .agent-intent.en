@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Run it and set a reasonable value based on the current memory usage.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
