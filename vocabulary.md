@@ -11572,3 +11572,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:04 — Use 'research results' for 调研结果; 'recorded' or 'documented' for 记录下来.
