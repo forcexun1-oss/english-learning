@@ -11742,3 +11742,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 14:52 — '切' is short for '切换' (switch). In English, just say 'Switch.' as a complete command.
