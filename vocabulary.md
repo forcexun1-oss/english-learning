@@ -11747,3 +11747,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 14:58 — For LLM nonsense, use "hallucinate" (not "talk nonsense"). You can say "check if" or "see if" for 看看.
