@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Design a comprehensive plan to solve this problem. This part was just refactored, so also refactor this section — don't just fix the immediate issue.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
