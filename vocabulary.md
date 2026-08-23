@@ -11620,3 +11620,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:39 — TTFT is a measurement, so pair it with 'is' rather than 'takes': 'the TTFT is over 2s' sounds more natural than 'the TTFT takes 2s'.
