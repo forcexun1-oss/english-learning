@@ -11562,3 +11562,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 11:52 — "让dsh实现" can be translated as "have dsh implement" or "get dsh to implement". Here, "for dsh to implement" is clearer.
