@@ -11578,3 +11578,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:10 — Use 'Should we...' or 'Should these...be...' for a suggestion-style question. '调优' translates to 'tuning' or 'optimization' in this context.
