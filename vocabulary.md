@@ -11640,3 +11640,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:50 — You wrote 把 but here it should be 吧 (ba) — the sentence-final particle for a suggestion. 把 is a preposition used like "take/handle" (e.g. 把文档写了).
