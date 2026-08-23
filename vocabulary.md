@@ -11775,3 +11775,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 20:02 — Use '16GB' instead of '16g' for clarity. 'Should we...' is more natural than 'Do we want to...' when asking for a decision.
