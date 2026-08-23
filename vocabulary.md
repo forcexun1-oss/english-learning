@@ -11583,3 +11583,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:11 — In Chinese questions, '是啥' is casual for 'what is'. In English, use 'What is' + noun. Also note that technical terms like 'mlx fork' should remain unchanged.
