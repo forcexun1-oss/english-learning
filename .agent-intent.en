@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 If it's a cache hit, it just reads directly, right? No extra operations.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
