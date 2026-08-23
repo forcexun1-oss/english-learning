@@ -11503,3 +11503,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 10:36 — In English, a command usually needs an object — 'Fix it' is more natural than just 'Fix' when telling the assistant what to do.
