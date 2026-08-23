@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-But aren't we streaming? Why does it use so much memory?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+I mean, didn't we limit the memory? The excess will be spilled to disk.
