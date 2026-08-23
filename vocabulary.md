@@ -11649,3 +11649,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 13:02 — Use 'the total' with an article. 'So much more' works, but 'so much higher' often sounds more natural for totals.
