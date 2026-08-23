@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I mean, didn't we limit the memory? The excess will be spilled to disk.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Why does the model always occupy 27-28GB? We're streaming, so only part of it should be in memory — that's what I'm asking about.

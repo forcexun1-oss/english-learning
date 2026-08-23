@@ -11703,3 +11703,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 14:09 — "固定占" here means "always occupies" — use "always occupy" or "consistently takes up" rather than "fixedly occupies".
