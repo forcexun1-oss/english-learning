@@ -11513,3 +11513,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 10:45 — Use 'continue' or 'proceed' for 继续; 'can we continue' is a natural way to ask permission.
