@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Check the recent requests — the output is all garbled.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
