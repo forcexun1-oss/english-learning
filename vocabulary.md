@@ -11727,3 +11727,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 14:48 — For '用了多久', use 'how long did it take' — remember to put 'did' before the subject and keep the main verb in base form ('take').
