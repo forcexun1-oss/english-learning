@@ -11597,3 +11597,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:33 — When referring to log files in English, use the plural 'logs' (e.g., 'check the logs') rather than treating 'log' as an uncountable noun.
