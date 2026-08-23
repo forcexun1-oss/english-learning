@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Let's look into why the current request is taking so long.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
