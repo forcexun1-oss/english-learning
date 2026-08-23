@@ -11547,3 +11547,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 11:37 — “了吧” is a Chinese modal particle for confirmation. In English, use "right?" or "is that right?" to ask for confirmation.
