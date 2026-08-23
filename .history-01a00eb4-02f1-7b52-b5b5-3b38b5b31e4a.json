@@ -449,7 +449,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["这种是什么呢? Mermaid 渲染失败: Parse error on line 4: ...ph<br/>构建 ggml 计算图] C --> D{后端调度} -----------------------^ Expecting 'SEMI', 'NEWLINE', 'EOF', 'AMP', 'START_LINK', 'LINK', 'LINK_ID', got 'NODE_STRING'", "渲染失败大概率是 subgraph LAYER[\"主干 40/48/60 层循环\"] 带引号标题里的 / 导致的。修好重发： 模型说他这么修的,你看看最后一个对话,是这样吗", "在mermaid的绘制的地方显示一下他的版本吧,这样就确定是谁的问题了,另外他是否有兼容模式参数可调", "elk这是啥", "那把版本展示在面板上吧", "版本是unknown", "本身不直接支持配置显示吗,还要写代码", "接着改吧,确保显式的是真正的版本"]
+=======
+["agent面板集成的mermaid插件是比较旧吗,很容易渲染不出来", "最新的版本是什么", "面板上实际用的是什么", "“classDef、Unicode、圆角、复杂 subgraph 容易失败”等, 这些不支持,怎么解释呢"]
+>>>>>>> Stashed changes
 =======
 ["agent面板集成的mermaid插件是比较旧吗,很容易渲染不出来", "最新的版本是什么", "面板上实际用的是什么", "“classDef、Unicode、圆角、复杂 subgraph 容易失败”等, 这些不支持,怎么解释呢"]
 >>>>>>> Stashed changes
