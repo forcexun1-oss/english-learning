@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Simply deleting the oldest isn't right, is it? The deletion mechanism should be consistent with the one used in memory.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
