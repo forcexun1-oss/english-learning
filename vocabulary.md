@@ -11607,3 +11607,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 12:37 — In English commands, use the imperative mood: 'Test this' is more direct than 'You need to test this'.
