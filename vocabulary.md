@@ -11494,3 +11494,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-23 10:30 — "卡死" is colloquial for a program hanging or freezing; use "stuck" or "frozen" in English.
