@@ -11871,3 +11871,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 13:01 — Use 'mentioned in the documentation' instead of 'talked about in the docs'.
