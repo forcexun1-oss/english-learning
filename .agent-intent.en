@@ -1,1 +1,1 @@
-No, it didn't.
+Let's clone the official typescript repo for pi_agent. We can switch pi over to it and give it a try. Since it's RPC anyway, this project shouldn't really need any changes.
