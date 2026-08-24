@@ -12000,3 +12000,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:39 — Use a direct imperative ('Add X to Y') — the Chinese particles 把 and 吧 don't carry over to English.
