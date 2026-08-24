@@ -12095,3 +12095,4 @@
 - 2026-08-24 15:58 — Use 'must have been' + past participle to express a likely past action, e.g., 'it must have been mapped'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 16:04 — '啥情况' is casual for 'what's the situation?' — 'What's going on?' is a natural English equivalent. Note '啥' is a colloquial form of '什么' (what).
