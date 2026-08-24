@@ -12028,3 +12028,4 @@
 - 2026-08-24 15:03 — 新写 is better expressed as 'from scratch' or 'a brand new implementation' rather than 'newly written'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:03 — Use 'build on it' instead of 'modify it on that basis' — it's more natural. Also, 'introduce bugs' sounds more idiomatic than 'have bugs' when describing a new approach.
