@@ -10144,6 +10144,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11816,3 +11817,6 @@
 >>>>>>> Stashed changes
 - 2026-08-24 11:27 — In English, '板子' is usually 'board' (e.g., development board), and '是不是' translates to 'if/whether' in this question context.
 - 2026-08-24 11:27 — Use 'Let someone do something' to suggest assigning a task. Alternatively, 'Have dsh fix the bug' also works.
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
