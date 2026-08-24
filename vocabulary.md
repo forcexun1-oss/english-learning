@@ -12129,3 +12129,4 @@
 - 2026-08-24 20:00 — Use "on" instead of "in" when talking about an operating system (e.g., "I'm on Linux"). "进不去" here maps naturally to "can't get in" or "can't boot into it."
 - 2026-08-24 20:03 — Use 'got into Windows' instead of 'entered Windows' – it's more natural for describing a successful boot.
 - 2026-08-24 20:06 — Use 'reports' or 'says' for 报. Also, the correct term is 密钥 (key), not 秘钥.
+- 2026-08-24 20:07 — "参数错误" is often translated as "invalid parameter" or "parameter error" in English.
