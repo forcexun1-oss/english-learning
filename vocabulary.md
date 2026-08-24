@@ -12122,3 +12122,4 @@
 - 2026-08-24 18:31 — When asking permission, use 'Can I ...?' — '了' here signals 'now/at this point,' so add 'now' at the end: 'Can I shut down the board now?'
 - 2026-08-24 19:01 — "删除完" means "after deleting" (the 完 indicates completion), and "选中下一个" is "select the next one." Natural English order: After deleting, select the next one.
 - 2026-08-24 19:39 — Use the present perfect ('have had... set up') for past actions with current relevance, and 'it does boot' adds emphasis that the default works.
+- 2026-08-24 19:46 — Use 'fix this' instead of just 'do it' to make the intent clearer in a troubleshooting context.
