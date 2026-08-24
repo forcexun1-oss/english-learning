@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Did you even try to start this service?
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+Let's take a look and fix it. After the parameter adjustment, the kv cache is messed up. Deleting it is also fine.
