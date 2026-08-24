@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-How much memory is the kv cache taking up now?
-=======
-Let's adjust it.
->>>>>>> Stashed changes
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+How many layers is the shared KV cache divided into?
