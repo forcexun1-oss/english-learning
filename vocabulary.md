@@ -11859,6 +11859,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 11:44 — In English, questions about amount usually start with 'How much...' rather than ending with the question word. Also, '占' can be translated as 'take up' or 'occupy'.
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
@@ -11923,3 +11924,6 @@
 >>>>>>> Stashed changes
 - 2026-08-24 13:40 — Use 'from the ... side' to specify which component initiates an action. '侧' can also be translated as 'end'.
 - 2026-08-24 13:42 — "挂了" in dev context means "crashed" or "hung" — use "crashed" when the process dies, "hung" when it freezes.
+=======
+- 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
+>>>>>>> Stashed changes
