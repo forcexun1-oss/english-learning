@@ -11901,3 +11901,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 13:22 — Use 'even' to express '都没' (not even) in a question: 'Did you even try...?'
