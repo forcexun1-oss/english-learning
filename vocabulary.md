@@ -11979,3 +11979,4 @@
 - 2026-08-24 14:23 — '完全不影响' is naturally expressed as 'have no impact at all on' — 'at all' adds the emphasis that 完全 conveys.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:28 — Use 'to be handled by' or 'to be executed by' for '让...去做' — it sounds more natural than 'let ... do' in formal technical contexts.

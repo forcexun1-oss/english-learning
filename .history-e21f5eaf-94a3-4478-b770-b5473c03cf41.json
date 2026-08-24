@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-["<task-notification>\n<task-id>buix7irfh</task-id>\n<tool-use-id>toolu_01RhXq5sijufFtJi77LcEGUH</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/e21f5eaf-94a3-4478-b770-b5473c03cf41/tasks/buix7irfh.output</output-file>\n<status>completed</status>\n<summary>Background command \"Upgrade dsh to the latest version\" completed (exit code 0)</summary>\n</task-notification>"]
-=======
-["看看当前的板子是不是可以加一个ffmpeg的中间件", "板子连着的,目前的需求是:视频抽帧,输入是视频,输出是图片,但是具体怎么抽我也不知道,但是至少要提供,输入是硬盘上的地址,输出也是,这样快,提供通用的ffmpeg接口", "可以", "这样加好啊,我其实是想把ffmpeg的功能都提供出来,", "调整吧"]
->>>>>>> Stashed changes
-=======
-["看看当前的板子是不是可以加一个ffmpeg的中间件", "板子连着的,目前的需求是:视频抽帧,输入是视频,输出是图片,但是具体怎么抽我也不知道,但是至少要提供,输入是硬盘上的地址,输出也是,这样快,提供通用的ffmpeg接口", "可以", "这样加好啊,我其实是想把ffmpeg的功能都提供出来,", "调整吧"]
->>>>>>> Stashed changes
+["dsh有没有配置简单的任务让flash模型去做的配置"]
