@@ -12118,3 +12118,4 @@
 - 2026-08-24 17:40 — Use 'API' or 'endpoint' instead of 'interface' for 接口, and 'already available' for 现成的.
 - 2026-08-24 18:14 — 简化 here means 'simplify' or 'cut corners' on the implementation; 搞什么 is a frustrated 'what are you doing?'
 - 2026-08-24 18:23 — "Cut corners" is an idiom meaning to do something poorly to save time or effort, commonly used in software development.
+- 2026-08-24 18:29 — In English, '干吧' is naturally rendered as 'Go ahead' or 'Let's do it' — '吧' suggests a proposal or decision.
