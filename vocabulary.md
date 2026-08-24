@@ -11983,6 +11983,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12017,3 +12018,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:56 — In Chinese, '胡说' literally means 'talk nonsense.' In a technical context, 'talking nonsense' is a natural way to describe an AI giving incorrect or gibberish output.
+=======
+>>>>>>> Stashed changes
