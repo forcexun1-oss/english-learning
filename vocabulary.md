@@ -12020,3 +12020,4 @@
 - 2026-08-24 14:56 — In Chinese, '胡说' literally means 'talk nonsense.' In a technical context, 'talking nonsense' is a natural way to describe an AI giving incorrect or gibberish output.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:59 — "看看" is literally "look look"; in English, say "Take a look" or just "Look".
