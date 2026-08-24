@@ -11946,3 +11946,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 13:54 — "去看看" is naturally rendered as "Go take a look" or "Go check it out" — the double 去 (go) is implied in English, so one verb phrase suffices.
