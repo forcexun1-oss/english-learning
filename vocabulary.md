@@ -11931,3 +11931,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 13:45 — Use 'clean up' (phrasal verb) to mean removing old data or clearing things.

@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I sent "hi", then opened a new session, sent "你好", and it crashed.
-=======
-Let's adjust it.
->>>>>>> Stashed changes
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+Change slots to 2 and clean up the previous ones.
