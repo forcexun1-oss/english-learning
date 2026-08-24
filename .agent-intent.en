@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Resolve the current conflicts, check whether the code needs to be rewritten, and avoid future conflicts.
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
 =======
 Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
 >>>>>>> Stashed changes
