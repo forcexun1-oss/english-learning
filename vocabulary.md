@@ -10136,6 +10136,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-17 16:03 — In English, '渲染失败' is often expressed as 'rendering failed' or 'fail to render'. Use 'the rendering failed' when referring to a specific instance.
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
@@ -11777,3 +11778,6 @@
 >>>>>>> Stashed changes
 - 2026-08-23 20:02 — Use '16GB' instead of '16g' for clarity. 'Should we...' is more natural than 'Do we want to...' when asking for a decision.
 - 2026-08-24 10:31 — "看看...要...吗" is naturally rendered as "check whether ... needs to ..." or "see if ... needs ..."
+=======
+- 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
+>>>>>>> Stashed changes
