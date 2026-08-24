@@ -12008,3 +12008,4 @@
 - 2026-08-24 14:44 — "那一张" literally means "that page/sheet," but when referring to a part of a document like Claude.md, use "section" instead.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:46 — "都是" here implies a past habit — "always" or "used to" fits better than a literal word-for-word translation.
