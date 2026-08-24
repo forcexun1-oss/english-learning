@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let's take a look and fix it. After the parameter adjustment, the kv cache is messed up. Deleting it is also fine.
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+Look, the first request is stuck. What is it doing?

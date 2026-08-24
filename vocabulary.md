@@ -11911,3 +11911,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 13:33 — '卡住' can be translated as 'stuck' or 'blocked'. Use 'is stuck' for a state, or 'is hanging' for a process that's not responding.
