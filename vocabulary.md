@@ -12024,3 +12024,4 @@
 - 2026-08-24 14:59 — "看看" is literally "look look"; in English, say "Take a look" or just "Look".
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:03 — 新写 is better expressed as 'from scratch' or 'a brand new implementation' rather than 'newly written'.
