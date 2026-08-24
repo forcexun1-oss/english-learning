@@ -12016,3 +12016,4 @@
 - 2026-08-24 14:47 — "正式的" means "formal" literally, but in deployment contexts use "production" instead.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:56 — In Chinese, '胡说' literally means 'talk nonsense.' In a technical context, 'talking nonsense' is a natural way to describe an AI giving incorrect or gibberish output.

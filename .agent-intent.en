@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Run it on the board, then merge main and redeploy the production version — let dsh handle it.
-=======
-So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
->>>>>>> Stashed changes
+Look at the last request — it started talking nonsense. Is it because of memory pressure?
