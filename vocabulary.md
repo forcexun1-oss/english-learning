@@ -12063,3 +12063,4 @@
 - 2026-08-24 15:32 — Use 'data' or 'content' instead of '东西' for technical contexts. '前半段' is naturally translated as 'first half' or 'prefix'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:35 — For 固定复现, use "reliably/consistently reproduce" rather than "fixedly reproduce".
