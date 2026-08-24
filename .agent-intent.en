@@ -1,1 +1,1 @@
-Send 2 requests from mac-assistant: one 'hi' and one '你好'. Test if it works.
+Can you see whether all the dsh requests hit the cache?
