@@ -12130,3 +12130,4 @@
 - 2026-08-24 20:03 — Use 'got into Windows' instead of 'entered Windows' – it's more natural for describing a successful boot.
 - 2026-08-24 20:06 — Use 'reports' or 'says' for 报. Also, the correct term is 密钥 (key), not 秘钥.
 - 2026-08-24 20:07 — "参数错误" is often translated as "invalid parameter" or "parameter error" in English.
+- 2026-08-24 20:08 — Use 'the C drive' or 'the C: drive' for 盘 in technical contexts; '加密了' as a state is best rendered with the passive 'is encrypted'.
