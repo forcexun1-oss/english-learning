@@ -11989,6 +11989,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12040,3 +12041,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 15:16 — 用 'endpoints' 或 'endpoints/interfaces' 比 'interfaces' 更自然，因为编程中常指 API 接口。
+=======
+>>>>>>> Stashed changes
