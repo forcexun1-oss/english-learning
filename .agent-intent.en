@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then actually, just adding disk persistence would be enough, right? This should be just two endpoints — one for writing and one for reading?
-=======
-So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
->>>>>>> Stashed changes
+Look, a brand new session starts outputting endlessly!!!!
