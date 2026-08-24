@@ -11995,6 +11995,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12064,3 +12065,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 15:35 — For 固定复现, use "reliably/consistently reproduce" rather than "fixedly reproduce".
+=======
+>>>>>>> Stashed changes
