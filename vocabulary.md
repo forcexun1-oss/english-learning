@@ -12035,3 +12035,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:12 — In Chinese you said '完全可以直接用' — in English, 'just' + 'directly' together sounds redundant. Pick one: 'just use' or 'use directly'.

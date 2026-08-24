@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Why not reuse the previous server and build on it? Isn't this approach likely to introduce a lot of bugs?
-=======
-So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
->>>>>>> Stashed changes
-=======
-So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
->>>>>>> Stashed changes
+Also, if I use the OpenAI protocol, can I just use the official server directly?
