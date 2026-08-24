@@ -11977,6 +11977,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -11994,3 +11995,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:34 — In Chinese, '被杀了' uses passive voice. In English tech contexts, active voice like 'killed' (as in 'got killed') is more natural. Also, '那块' can mean 'which' (interrogative) or 'that' (demonstrative) — here it's interrogative.
+=======
+>>>>>>> Stashed changes
