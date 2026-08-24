@@ -11857,3 +11857,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 11:48 — Use 'Didn't we...' for negative questions, and 'take effect' for 生效. 'At most' means 最多.
