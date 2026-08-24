@@ -11972,7 +11972,10 @@
 >>>>>>> Stashed changes
 - 2026-08-24 14:19 — Use 'only responds after...' to express '才会回我' (the response comes only after the action). And 'right?' or 'isn't it?' works as a tag question for confirmation.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:23 — '完全不影响' is naturally expressed as 'have no impact at all on' — 'at all' adds the emphasis that 完全 conveys.
+=======
+>>>>>>> Stashed changes
