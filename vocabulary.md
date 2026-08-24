@@ -12071,3 +12071,4 @@
 - 2026-08-24 15:39 — '命中缓存' translates to 'hits the cache' — 'hit' is the standard verb for cache lookups in English. Also, '输出的都是' can be rendered as 'the output is all' or 'everything output is'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:44 — Use 'How do we solve...' instead of 'How to solve...' for a complete question sentence.
