@@ -11988,6 +11988,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12036,3 +12037,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 15:12 — In Chinese you said '完全可以直接用' — in English, 'just' + 'directly' together sounds redundant. Pick one: 'just use' or 'use directly'.
+=======
+>>>>>>> Stashed changes
