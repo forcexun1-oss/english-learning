@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-The background command "Upgrade dsh to the latest version" completed successfully (exit code 0).
-=======
-Let's adjust it.
->>>>>>> Stashed changes
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
