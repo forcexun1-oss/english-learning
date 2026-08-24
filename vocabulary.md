@@ -12059,3 +12059,4 @@
 - 2026-08-24 15:30 — In Chinese, '也' is often used with '太' for emphasis, like '这也太...' meaning 'This is too...'. In English, you can express this with 'too' or 'so' instead of a direct translation of '也'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:32 — Use 'data' or 'content' instead of '东西' for technical contexts. '前半段' is naturally translated as 'first half' or 'prefix'.
