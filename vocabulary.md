@@ -12039,3 +12039,4 @@
 - 2026-08-24 15:12 — In Chinese you said '完全可以直接用' — in English, 'just' + 'directly' together sounds redundant. Pick one: 'just use' or 'use directly'.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:16 — 用 'endpoints' 或 'endpoints/interfaces' 比 'interfaces' 更自然，因为编程中常指 API 接口。
