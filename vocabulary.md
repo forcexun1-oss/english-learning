@@ -11896,3 +11896,4 @@
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
 - 2026-08-24 13:19 — Use the imperative mood for commands: 'Kill ... and restart ...'. '杀掉' is simply 'kill' in tech contexts.
+- 2026-08-24 13:21 — '拆细' maps well to 'break it down into smaller pieces' — 'break down' is the standard phrasal verb for decomposing tasks in English.
