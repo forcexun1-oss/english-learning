@@ -12111,3 +12111,4 @@
 - 2026-08-24 16:48 — Use 'clone' (or 'pull down') for '拉...下来' in a Git context, and 'modify/change' for '动' when talking about code.
 - 2026-08-24 17:01 — Use "What went wrong?" instead of "啥情况" — it's the natural way to ask about a failure.
 - 2026-08-24 17:05 — '在跑吗' is a casual way to ask 'is it running?'. Use 'Is it still running?' if you want to emphasize checking on progress.
+- 2026-08-24 17:07 — "在跑吗" translates to "Is it running?" — use the present continuous to ask about an ongoing process.
