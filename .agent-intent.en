@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Look, a brand-new session starts producing infinite output! But why does it output '!!'? Is the model's KV cache polluted?
-=======
-So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
->>>>>>> Stashed changes
+Go ahead.
