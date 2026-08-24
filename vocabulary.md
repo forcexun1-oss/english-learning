@@ -11804,3 +11804,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:06 — Use 'as is' or 'unchanged' for 不改, e.g., 'can we integrate it as is?' Also, 'his' is fine but 'their' is more common when referring to someone's code generically.

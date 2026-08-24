@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What I care most about is whether the plugin I'm currently integrating can be non-invasively integrated into this service's methods.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+We've already modified their code, right? If we don't change this code, can we still integrate it?
