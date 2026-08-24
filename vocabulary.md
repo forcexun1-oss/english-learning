@@ -12124,3 +12124,4 @@
 - 2026-08-24 19:39 — Use the present perfect ('have had... set up') for past actions with current relevance, and 'it does boot' adds emphasis that the default works.
 - 2026-08-24 19:46 — Use 'fix this' instead of just 'do it' to make the intent clearer in a troubleshooting context.
 - 2026-08-24 19:53 — For '进不去' in this context, say 'can't get in' or 'can't enter' (e.g., 'the F12 boot menu'). Use 'with F12' to mean 'using the F12 key'.
+- 2026-08-24 19:54 — '搞' is informal; use 'do' or 'handle' in English. '解密' translates to 'decryption'.
