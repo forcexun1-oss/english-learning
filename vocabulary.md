@@ -11799,3 +11799,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:04 — '无侵入' is often rendered as 'non-invasively' in English. Also, '接入' is usually 'integrate' or 'plug in' when talking about plugins.
