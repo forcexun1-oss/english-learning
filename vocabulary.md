@@ -11973,6 +11973,7 @@
 - 2026-08-24 14:19 — Use 'only responds after...' to express '才会回我' (the response comes only after the action). And 'right?' or 'isn't it?' works as a tag question for confirmation.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -11980,3 +11981,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:28 — Use 'to be handled by' or 'to be executed by' for '让...去做' — it sounds more natural than 'let ... do' in formal technical contexts.
+=======
+>>>>>>> Stashed changes
