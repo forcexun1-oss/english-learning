@@ -11956,3 +11956,4 @@
 =======
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
+- 2026-08-24 14:00 — Use “它” for non-human objects like services, not “他”. In English, use “it” instead of “him/he.”
