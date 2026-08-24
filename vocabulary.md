@@ -12115,3 +12115,4 @@
 - 2026-08-24 17:11 — 报错 is naturally 'error out' or 'throw an error' in tech contexts; 直接 here is better as 'just/right away' than 'directly'.
 - 2026-08-24 17:35 — "都" here means "all/everything" — put it as "...merge it all" rather than translating literally as "all commit merge".
 - 2026-08-24 17:38 — Keyboard shortcuts like Command+D are typically written with capital letters.
+- 2026-08-24 17:40 — Use 'API' or 'endpoint' instead of 'interface' for 接口, and 'already available' for 现成的.

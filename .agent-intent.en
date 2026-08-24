@@ -1,1 +1,1 @@
-Add a feature to the agent panel: use Command+D to delete the currently selected session.
+The delete API is already available, and you can also use Command+Up/Down to switch between historical sessions when the list is open.
