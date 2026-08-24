@@ -12091,3 +12091,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:58 — Use 'must have been' + past participle to express a likely past action, e.g., 'it must have been mapped'.
