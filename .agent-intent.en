@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Review our changes. Given the new code, do we still need to modify it this way?
+=======
+Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
+>>>>>>> Stashed changes
 =======
 Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
 >>>>>>> Stashed changes
