@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is it doing a full recompute, or is it using the cached results from earlier?
+=======
+So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
+>>>>>>> Stashed changes

@@ -11971,4 +11971,7 @@
 - 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
 >>>>>>> Stashed changes
 - 2026-08-24 14:19 — Use 'only responds after...' to express '才会回我' (the response comes only after the action). And 'right?' or 'isn't it?' works as a tag question for confirmation.
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
+=======
+>>>>>>> Stashed changes
