@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Didn't we limit the depth to 3? Did it take effect? Is it at most 3 layers? How much memory does the shared cache occupy?
-=======
-Let's adjust it.
->>>>>>> Stashed changes
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+Change it to 2 — that should increase the diffusion a lot.
