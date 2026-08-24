@@ -11814,3 +11814,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:27 — In English, '板子' is usually 'board' (e.g., development board), and '是不是' translates to 'if/whether' in this question context.

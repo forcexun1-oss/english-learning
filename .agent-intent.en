@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-API error: SSE error: unexpected EOF reading chunk size (transient connection drop) — what happened? Is it a memory problem again?
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+Check if the current board can add an ffmpeg middleware.
