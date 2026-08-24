@@ -11993,6 +11993,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12056,3 +12057,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 15:30 — In Chinese, '也' is often used with '太' for emphasis, like '这也太...' meaning 'This is too...'. In English, you can express this with 'too' or 'so' instead of a direct translation of '也'.
+=======
+>>>>>>> Stashed changes
