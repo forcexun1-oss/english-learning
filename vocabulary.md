@@ -12047,3 +12047,4 @@
 - 2026-08-24 15:18 — Use 'endlessly' or 'infinitely' for '无限' - both are correct, but 'endlessly' sounds more natural in casual speech.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:24 — 'brand-new' conveys 全新; use 'infinite output' instead of 'unlimited output' for a more natural technical description.
