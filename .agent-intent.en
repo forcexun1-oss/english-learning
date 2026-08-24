@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Change slots to 2 and clean up the previous ones.
-=======
-Let's adjust it.
->>>>>>> Stashed changes
+Send 2 requests from mac-assistant: one 'hi' and one '你好'. Test if it works.
