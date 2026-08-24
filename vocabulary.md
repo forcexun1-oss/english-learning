@@ -11997,6 +11997,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12073,3 +12074,5 @@
 >>>>>>> Stashed changes
 - 2026-08-24 15:44 — Use 'How do we solve...' instead of 'How to solve...' for a complete question sentence.
 - 2026-08-24 15:46 — "先...再..." expresses sequence: 'first do X, only then do Y'. Also, 合入 is naturally translated as 'merge in' or 'merge into main' in English.
+=======
+>>>>>>> Stashed changes
