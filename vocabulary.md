@@ -11975,6 +11975,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -11987,3 +11988,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:29 — "试试看" literally means "try and see"; "give it a try" is a natural idiomatic way to say this in English.
+=======
+>>>>>>> Stashed changes
