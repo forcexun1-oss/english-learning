@@ -1,1 +1,1 @@
-I got into Windows. How can I prevent the error from appearing at startup?
+manage-bde -off C: reports that I need to delete the key first.
