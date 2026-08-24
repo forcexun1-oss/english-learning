@@ -11794,3 +11794,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:02 — In English, '4 bugs?' is fine as a quick question, but adding 'There are' makes it a complete sentence: 'There are 4 bugs?'
