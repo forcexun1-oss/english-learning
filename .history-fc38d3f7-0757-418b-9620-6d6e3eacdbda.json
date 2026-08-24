@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["又被杀了? 看看是那块内存占用太多了,怎么调整一下"]
+=======
+["API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 咋了,内存又有问题了?", "现在kv cache占了多少", "公共的kv cache分了几层啊", "我们不是限制了深度的3吗,生效了吗, 是不是最多3层,公共cache内存占了多少", "改成2把,这样扩散应该多了很多", "我想要缓存的变少,深层的缓存其实没有意义", "当前改了这个参数好像错乱了", "之前的是不是要清理掉", "杀掉现在的服务,重启一下", "看看解决一下吧,参数调整之后kv cache乱了,删了也行", "看看第一个请求就卡住了,在做什么", "坏掉了,自己试一下吧", "从mac-assistant侧发起", "发了hi,再开会话,发 你好,就挂了", "slot 改成2个,之前的都清理一下", "从mac-assistant发2个请求一个hi,一个你好,测通了", "你自己把他重启了,自己从mac-assistant侧请求,都给我搞定了", "现在还是cache分完叉,才会回我把,不是异步的?"]
+>>>>>>> Stashed changes
 =======
 ["API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 咋了,内存又有问题了?", "现在kv cache占了多少", "公共的kv cache分了几层啊", "我们不是限制了深度的3吗,生效了吗, 是不是最多3层,公共cache内存占了多少", "改成2把,这样扩散应该多了很多", "我想要缓存的变少,深层的缓存其实没有意义", "当前改了这个参数好像错乱了", "之前的是不是要清理掉", "杀掉现在的服务,重启一下", "看看解决一下吧,参数调整之后kv cache乱了,删了也行", "看看第一个请求就卡住了,在做什么", "坏掉了,自己试一下吧", "从mac-assistant侧发起", "发了hi,再开会话,发 你好,就挂了", "slot 改成2个,之前的都清理一下", "从mac-assistant发2个请求一个hi,一个你好,测通了", "你自己把他重启了,自己从mac-assistant侧请求,都给我搞定了", "现在还是cache分完叉,才会回我把,不是异步的?"]
 >>>>>>> Stashed changes

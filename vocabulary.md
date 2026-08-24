@@ -11980,6 +11980,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12005,3 +12006,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:44 — "那一张" literally means "that page/sheet," but when referring to a part of a document like Claude.md, use "section" instead.
+=======
+>>>>>>> Stashed changes

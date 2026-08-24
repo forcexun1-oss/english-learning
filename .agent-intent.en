@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Where did you add that content just now? In the dsh section?
+=======
+So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
+>>>>>>> Stashed changes
