@@ -11981,6 +11981,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12009,3 +12010,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:46 — "都是" here implies a past habit — "always" or "used to" fits better than a literal word-for-word translation.
+=======
+>>>>>>> Stashed changes
