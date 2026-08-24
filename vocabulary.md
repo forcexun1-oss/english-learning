@@ -11986,6 +11986,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12029,3 +12030,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 15:03 — Use 'build on it' instead of 'modify it on that basis' — it's more natural. Also, 'introduce bugs' sounds more idiomatic than 'have bugs' when describing a new approach.
+=======
+>>>>>>> Stashed changes
