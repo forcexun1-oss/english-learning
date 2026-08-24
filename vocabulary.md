@@ -11982,6 +11982,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12013,3 +12014,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 14:47 — "正式的" means "formal" literally, but in deployment contexts use "production" instead.
+=======
+>>>>>>> Stashed changes
