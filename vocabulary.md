@@ -12109,3 +12109,4 @@
 - 2026-08-24 16:13 — Use 'No, right?' to express a questioning negation. The Chinese '没有把' is likely a casual way of saying '没有吧?' (asking for confirmation).
 - 2026-08-24 16:13 — "没有把" is a typo for "没有吧" (a tag question). In English, just answer directly: "No, it didn't."
 - 2026-08-24 16:48 — Use 'clone' (or 'pull down') for '拉...下来' in a Git context, and 'modify/change' for '动' when talking about code.
+- 2026-08-24 17:01 — Use "What went wrong?" instead of "啥情况" — it's the natural way to ask about a failure.
