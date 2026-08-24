@@ -12114,3 +12114,4 @@
 - 2026-08-24 17:07 — "在跑吗" translates to "Is it running?" — use the present continuous to ask about an ongoing process.
 - 2026-08-24 17:11 — 报错 is naturally 'error out' or 'throw an error' in tech contexts; 直接 here is better as 'just/right away' than 'directly'.
 - 2026-08-24 17:35 — "都" here means "all/everything" — put it as "...merge it all" rather than translating literally as "all commit merge".
+- 2026-08-24 17:38 — Keyboard shortcuts like Command+D are typically written with capital letters.
