@@ -11999,6 +11999,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12081,3 +12082,5 @@
 >>>>>>> Stashed changes
 - 2026-08-24 15:47 — 'Cause' is more specific than 'reason' when referring to a root cause in debugging.
 - 2026-08-24 15:48 — “起来了” in this context means a service has started. Use “is up” or “is running” for servers/containers.
+=======
+>>>>>>> Stashed changes
