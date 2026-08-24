@@ -12012,3 +12012,4 @@
 - 2026-08-24 14:46 — "都是" here implies a past habit — "always" or "used to" fits better than a literal word-for-word translation.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:47 — "正式的" means "formal" literally, but in deployment contexts use "production" instead.
