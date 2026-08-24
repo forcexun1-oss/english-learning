@@ -1,1 +1,1 @@
-["API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 咋了,内存又有问题了?", "现在kv cache占了多少", "公共的kv cache分了几层啊", "我们不是限制了深度的3吗,生效了吗, 是不是最多3层,公共cache内存占了多少", "改成2把,这样扩散应该多了很多", "我想要缓存的变少,深层的缓存其实没有意义"]
+["API error: SSE error: unexpected EOF reading chunk size (transient connection drop) 咋了,内存又有问题了?", "现在kv cache占了多少", "公共的kv cache分了几层啊", "我们不是限制了深度的3吗,生效了吗, 是不是最多3层,公共cache内存占了多少", "改成2把,这样扩散应该多了很多", "我想要缓存的变少,深层的缓存其实没有意义", "当前改了这个参数好像错乱了"]
