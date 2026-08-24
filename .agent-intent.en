@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Look at my last request — I only sent "hi" but it responded with something completely unrelated. The cache must have mapped it to the wrong place.
+=======
+So right now it still only responds after the cache fork is complete, right? It's not asynchronous?
+>>>>>>> Stashed changes

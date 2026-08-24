@@ -12005,6 +12005,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12103,3 +12104,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 16:11 — "映射错地方了" → "mapped it to the wrong place" — use "map" as a transitive verb with an object ("it") to make the sentence complete.
+=======
+>>>>>>> Stashed changes
