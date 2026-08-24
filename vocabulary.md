@@ -12112,3 +12112,4 @@
 - 2026-08-24 17:01 — Use "What went wrong?" instead of "啥情况" — it's the natural way to ask about a failure.
 - 2026-08-24 17:05 — '在跑吗' is a casual way to ask 'is it running?'. Use 'Is it still running?' if you want to emphasize checking on progress.
 - 2026-08-24 17:07 — "在跑吗" translates to "Is it running?" — use the present continuous to ask about an ongoing process.
+- 2026-08-24 17:11 — 报错 is naturally 'error out' or 'throw an error' in tech contexts; 直接 here is better as 'just/right away' than 'directly'.
