@@ -11834,3 +11834,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:38 — Use 'expose all of ffmpeg's functionality' instead of 'provide all ffmpeg features' to sound more natural in a developer context.
