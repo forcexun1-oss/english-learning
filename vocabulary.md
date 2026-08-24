@@ -11820,3 +11820,4 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+- 2026-08-24 11:30 — "板子连着的" → "The board is connected" (present tense for current state). Also, "输入是硬盘上的地址" → "input as a path on disk" — use "path" instead of "address" for file locations.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let dsh fix the bug.
-=======
-Features like classDef, Unicode, rounded corners, and complex subgraphs tend to fail or are not supported. How should I explain this?
->>>>>>> Stashed changes
+The board is connected. The current requirement is video frame extraction: input is a video, output is images. I'm not sure about the exact extraction approach, but at minimum we need to support input and output as file paths on disk for speed. Provide a generic ffmpeg interface.
