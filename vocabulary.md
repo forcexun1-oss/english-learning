@@ -11986,3 +11986,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 14:29 — "试试看" literally means "try and see"; "give it a try" is a natural idiomatic way to say this in English.
