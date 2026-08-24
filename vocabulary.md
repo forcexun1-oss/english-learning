@@ -12126,3 +12126,4 @@
 - 2026-08-24 19:53 — For '进不去' in this context, say 'can't get in' or 'can't enter' (e.g., 'the F12 boot menu'). Use 'with F12' to mean 'using the F12 key'.
 - 2026-08-24 19:54 — '搞' is informal; use 'do' or 'handle' in English. '解密' translates to 'decryption'.
 - 2026-08-24 19:55 — In English, when asking about a selection from a list, it's usually clearer to specify what you're asking about, e.g., 'Which one is the recovery key?'
+- 2026-08-24 20:00 — Use "on" instead of "in" when talking about an operating system (e.g., "I'm on Linux"). "进不去" here maps naturally to "can't get in" or "can't boot into it."
