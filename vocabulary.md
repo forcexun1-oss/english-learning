@@ -12106,3 +12106,4 @@
 - 2026-08-24 16:11 — "映射错地方了" → "mapped it to the wrong place" — use "map" as a transitive verb with an object ("it") to make the sentence complete.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 16:13 — Use 'No, right?' to express a questioning negation. The Chinese '没有把' is likely a casual way of saying '没有吧?' (asking for confirmation).
