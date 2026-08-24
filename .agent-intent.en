@@ -1,1 +1,1 @@
-Check if my external hard drive has been restored, and see whether the contents on it are complete. It should be a symlink to a folder on download, plus something like a git server repository.
+Run the script that syncs local code to this drive.

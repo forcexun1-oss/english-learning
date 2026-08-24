@@ -12132,3 +12132,4 @@
 - 2026-08-24 20:07 — "参数错误" is often translated as "invalid parameter" or "parameter error" in English.
 - 2026-08-24 20:08 — Use 'the C drive' or 'the C: drive' for 盘 in technical contexts; '加密了' as a state is best rendered with the passive 'is encrypted'.
 - 2026-08-24 21:39 — Use 'symlink' instead of '软连接' (which is literally 'soft link' — 'symlink' or 'symbolic link' is the standard term in English).
+- 2026-08-24 22:20 — "执行一下" means "execute/run". In English, just say "Run the script" instead of "Execute the script" — it's more natural for commands.
