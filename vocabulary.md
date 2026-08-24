@@ -12131,3 +12131,4 @@
 - 2026-08-24 20:06 — Use 'reports' or 'says' for 报. Also, the correct term is 密钥 (key), not 秘钥.
 - 2026-08-24 20:07 — "参数错误" is often translated as "invalid parameter" or "parameter error" in English.
 - 2026-08-24 20:08 — Use 'the C drive' or 'the C: drive' for 盘 in technical contexts; '加密了' as a state is best rendered with the passive 'is encrypted'.
+- 2026-08-24 21:39 — Use 'symlink' instead of '软连接' (which is literally 'soft link' — 'symlink' or 'symbolic link' is the standard term in English).
