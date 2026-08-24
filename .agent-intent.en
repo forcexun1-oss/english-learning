@@ -1,1 +1,1 @@
-After deleting, select the next one.
+On my previous Lenovo PC, I had dual boot set up. I changed the config to make Linux the default, and it does boot into Linux by default now, but I can't select Windows. When it boots, it reports errors: Failed to open \EF IubuntusBsB - Invalid Parameter / Failed to load image BB: Invalid Parameter / start_image() returned Invalid Parameter, falling back to default loader.

@@ -12121,3 +12121,4 @@
 - 2026-08-24 18:29 — In English, '干吧' is naturally rendered as 'Go ahead' or 'Let's do it' — '吧' suggests a proposal or decision.
 - 2026-08-24 18:31 — When asking permission, use 'Can I ...?' — '了' here signals 'now/at this point,' so add 'now' at the end: 'Can I shut down the board now?'
 - 2026-08-24 19:01 — "删除完" means "after deleting" (the 完 indicates completion), and "选中下一个" is "select the next one." Natural English order: After deleting, select the next one.
+- 2026-08-24 19:39 — Use the present perfect ('have had... set up') for past actions with current relevance, and 'it does boot' adds emphasis that the default works.
