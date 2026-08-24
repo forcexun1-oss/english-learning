@@ -12004,6 +12004,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-24 14:22 — Use 'recompute' instead of 're-calculate' for clarity in technical contexts.
 =======
 >>>>>>> Stashed changes
@@ -12097,5 +12098,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 16:04 — '啥情况' is casual for 'what's the situation?' — 'What's going on?' is a natural English equivalent. Note '啥' is a colloquial form of '什么' (what).
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
