@@ -12107,3 +12107,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-08-24 16:13 — Use 'No, right?' to express a questioning negation. The Chinese '没有把' is likely a casual way of saying '没有吧?' (asking for confirmation).
+- 2026-08-24 16:13 — "没有把" is a typo for "没有吧" (a tag question). In English, just answer directly: "No, it didn't."
