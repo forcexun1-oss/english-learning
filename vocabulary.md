@@ -12055,3 +12055,4 @@
 - 2026-08-24 15:26 — In English, 'go' alone sounds abrupt. Adding 'ahead' makes it a natural, complete command.
 =======
 >>>>>>> Stashed changes
+- 2026-08-24 15:30 — In Chinese, '也' is often used with '太' for emphasis, like '这也太...' meaning 'This is too...'. In English, you can express this with 'too' or 'so' instead of a direct translation of '也'.
