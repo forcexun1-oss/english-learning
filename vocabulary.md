@@ -11843,4 +11843,8 @@
 =======
 - 2026-08-17 16:02 — Use 'are not supported' (passive) instead of 'not support' for features that don't work.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-08-24 11:44 — In English, questions about amount usually start with 'How much...' rather than ending with the question word. Also, '占' can be translated as 'take up' or 'occupy'.
+=======
+- 2026-08-24 11:43 — Here '吧' suggests making a suggestion or decision; 'Let's...' captures that tone naturally.
+>>>>>>> Stashed changes
