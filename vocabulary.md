@@ -12159,3 +12159,4 @@
 - 2026-08-25 11:22 — When comparing options, use 'whether ... or' to introduce the two alternatives, e.g., 'whether it's better to A or B'.
 - 2026-08-25 11:31 — In English, '改成' often becomes 'change to' or 'set to'. Add an object like 'it' to make the instruction clear.
 - 2026-08-25 11:33 — The particle '话' after a noun means 'as for/regarding' — a common colloquial pattern. Also, '保留' here is naturally translated as 'kept' or 'retained'.
+- 2026-08-25 11:33 — Use 'memory usage' or 'memory footprint' instead of saying 'memory occupies'. Also, '应该不多' is more naturally expressed as 'should be low' rather than 'should not be much'.
