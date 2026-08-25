@@ -1,1 +1,1 @@
-Do we still need the fix code? We've already switched directories.
+Remove the waiting time on Swift that causes 'Agent has been unresponsive for a long time, request aborted, please retry later.'

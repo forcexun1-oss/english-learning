@@ -12165,3 +12165,4 @@
 - 2026-08-25 11:36 — Use 'Is ... enough' for asking if something suffices. '现在' can be implied by context, so 'now' is optional but fine to include.
 - 2026-08-25 11:48 — "搞错了" is colloquial for "made a mistake" or "something's wrong". In technical contexts, use "something's wrong" or "there's an issue".
 - 2026-08-25 11:53 — '换目录' can be translated as 'switched directories' or 'changed directories' — 'switch' is common in dev contexts.
+- 2026-08-25 12:20 — Use 'timeout' instead of 'waiting time' for better technical accuracy.
