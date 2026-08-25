@@ -12179,3 +12179,4 @@
 - 2026-08-25 14:19 — "hf官网" is just "Hugging Face" in English — no need to say "official website" since it's implied.
 - 2026-08-25 14:21 — In English, 'official' is an adjective, so it needs a noun after it — say 'the official organization' or 'the official account'.
 - 2026-08-25 14:25 — Use 'were' (past tense) for 之前下载的, and place 'already' before the participle: 'already downloaded'.
+- 2026-08-25 14:26 — "算了" here means "forget it / just do it simply" — in English, "Just..." at the start conveys the same casual, dismissive tone.
