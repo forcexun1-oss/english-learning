@@ -12177,3 +12177,4 @@
 - 2026-08-25 13:39 — Use 'did it originally come with' instead of 'was it originally there' for more natural phrasing about project features.
 - 2026-08-25 13:41 — '负责' in coding contexts usually translates as 'handles' or 'is responsible for'.
 - 2026-08-25 14:19 — "hf官网" is just "Hugging Face" in English — no need to say "official website" since it's implied.
+- 2026-08-25 14:21 — In English, 'official' is an adjective, so it needs a noun after it — say 'the official organization' or 'the official account'.
