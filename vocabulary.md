@@ -12230,3 +12230,4 @@
 - 2026-08-25 15:57 — Use 'gone' or 'missing' for 没有了 — 'gone' is more casual, 'missing' sounds more technical. Also, '再跑一下' naturally translates to 'run it again'.
 - 2026-08-25 15:58 — In English questions, the auxiliary verb comes before the subject: 'How much was actually downloaded?' (not 'actual downloaded how much').
 - 2026-08-25 16:00 — "临时文件" is usually "temp file" in casual technical English. Ask "What's the size of...?" to check file size.
+- 2026-08-25 16:09 — "正在跑的mlx" means 'the mlx that is currently running'. Use 'running mlx' or 'the mlx that's running' in English.
