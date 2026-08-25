@@ -12183,8 +12183,12 @@
 - 2026-08-25 14:27 — Use present perfect "has restarted" to ask about a recent change in status, not past simple.
 - 2026-08-25 14:45 — Use 'Can this run on' instead of the literal '能跑起来' for natural English.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
 - 2026-08-25 15:22 — Say 'run two instances' instead of just 'run two' to be clearer in a technical context.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
