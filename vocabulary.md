@@ -12145,3 +12145,4 @@
 - 2026-08-25 09:39 — “看看好了”省略了“是不是”，英译时加上 that 或 if 更自然。
 - 2026-08-25 09:43 — 挑出来 can mean 'pick out' or 'single out'. In a removal context, it often implies keeping that item while removing others.
 - 2026-08-25 09:56 — For a project, use 'make better' or 'improve' rather than 'do better'.
+- 2026-08-25 10:17 — Use 'let + someone + verb' for '让某人做某事'. Here, 'use the Luna model to implement it' clearly links the tool to the action.
