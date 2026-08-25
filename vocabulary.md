@@ -12182,4 +12182,8 @@
 - 2026-08-25 14:26 — "算了" here means "forget it / just do it simply" — in English, "Just..." at the start conveys the same casual, dismissive tone.
 - 2026-08-25 14:27 — Use present perfect "has restarted" to ask about a recent change in status, not past simple.
 - 2026-08-25 14:45 — Use 'Can this run on' instead of the literal '能跑起来' for natural English.
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
