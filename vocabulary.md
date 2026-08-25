@@ -12240,3 +12240,4 @@
 - 2026-08-25 16:43 — "断点续传" is best translated as "resume the download" or "breakpoint resume", not a literal word-for-word translation.
 - 2026-08-25 16:49 — "把" should be "吧" (the sentence-final particle for confirmation). Also "看看" is naturally "take a look" or "check out".
 - 2026-08-25 17:02 — Use 'won't be using' or 'no longer need' instead of a literal translation of '不会再要'. Also, 'reference' works as a verb here, but 'refer to' is often more natural in technical writing.
+- 2026-08-25 17:03 — Use 'areas' or 'aspects' instead of 'points' for more natural English here.
