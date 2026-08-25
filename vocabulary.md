@@ -12273,3 +12273,4 @@
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
+- 2026-08-25 18:57 — Use 'failed with exit code' instead of 'failed with exit code 255' — actually that's fine; note 'exit code' is the standard term, not 'exit number'.
