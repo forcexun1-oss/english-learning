@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Configure opencode to match this.
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+Port async staging and hand it off to codex.
