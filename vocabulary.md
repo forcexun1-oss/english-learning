@@ -12173,3 +12173,4 @@
 - 2026-08-25 13:22 — '报错' can be expressed as 'reported an error' or 'threw an error'; '跳到浏览器' -> 'jumps to/opens the browser'.
 - 2026-08-25 13:31 — Use 'revert' or 'set back' to mean 调回去; 'original values' clarifies what you're returning to.
 - 2026-08-25 13:35 — Use 'do' instead of 'are for' when asking about a parameter's function — 'What does X do?' is the natural way to ask about purpose.
+- 2026-08-25 13:36 — Use "didn't enable" (past tense) for 没开; "enable" is the verb for 开启/启用.
