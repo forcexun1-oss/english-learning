@@ -12231,3 +12231,4 @@
 - 2026-08-25 15:58 — In English questions, the auxiliary verb comes before the subject: 'How much was actually downloaded?' (not 'actual downloaded how much').
 - 2026-08-25 16:00 — "临时文件" is usually "temp file" in casual technical English. Ask "What's the size of...?" to check file size.
 - 2026-08-25 16:09 — "正在跑的mlx" means 'the mlx that is currently running'. Use 'running mlx' or 'the mlx that's running' in English.
+- 2026-08-25 16:10 — '一下' softens the request; in English, a simple 'Make the change' or 'Change it' works. You could also add 'please' to be polite.
