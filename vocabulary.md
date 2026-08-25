@@ -12139,3 +12139,4 @@
 - 2026-08-25 09:22 — "好了" here means the task is complete. "Done." is the natural short confirmation; "All done." also works.
 - 2026-08-25 09:24 — Use clear phrases like 'See Image #2' instead of brackets alone.
 - 2026-08-25 09:31 — Use "didn't succeed" (simple past) rather than "not successful" to sound more natural in this request.
+- 2026-08-25 09:36 — "吧" is a soft suggestion particle; in English we use a direct instruction like "Uninstall them." for a clear command.
