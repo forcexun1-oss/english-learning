@@ -12181,3 +12181,4 @@
 - 2026-08-25 14:25 — Use 'were' (past tense) for 之前下载的, and place 'already' before the participle: 'already downloaded'.
 - 2026-08-25 14:26 — "算了" here means "forget it / just do it simply" — in English, "Just..." at the start conveys the same casual, dismissive tone.
 - 2026-08-25 14:27 — Use present perfect "has restarted" to ask about a recent change in status, not past simple.
+- 2026-08-25 14:45 — Use 'Can this run on' instead of the literal '能跑起来' for natural English.
