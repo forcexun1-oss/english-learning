@@ -12149,3 +12149,4 @@
 - 2026-08-25 10:27 — Use 'according to the plan's intent' instead of 'per the plan's own intent' for more natural phrasing.
 - 2026-08-25 10:39 — In English, the auxiliary verb 'are' comes before the subject in questions: 'What are we...' instead of 'What we are...'.
 - 2026-08-25 10:45 — Use 'currently' to express '现在' and the present continuous passive 'being used' for '就在用了吗'. You could also say 'Is get_commands in use now?'
+- 2026-08-25 10:46 — In English, place 'yet' at the end of the question: 'Hasn't ... yet?' This matches the Chinese '还没...吗' structure.
