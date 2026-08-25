@@ -12232,3 +12232,4 @@
 - 2026-08-25 16:00 — "临时文件" is usually "temp file" in casual technical English. Ask "What's the size of...?" to check file size.
 - 2026-08-25 16:09 — "正在跑的mlx" means 'the mlx that is currently running'. Use 'running mlx' or 'the mlx that's running' in English.
 - 2026-08-25 16:10 — '一下' softens the request; in English, a simple 'Make the change' or 'Change it' works. You could also add 'please' to be polite.
+- 2026-08-25 16:15 — '源' (source) is countable in English, so use 'Are there any...' for plural. Also, use '6-bit' with a hyphen when it's an adjective modifying 'version'.
