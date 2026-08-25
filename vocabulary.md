@@ -12142,3 +12142,4 @@
 - 2026-08-25 09:36 — "吧" is a soft suggestion particle; in English we use a direct instruction like "Uninstall them." for a clear command.
 - 2026-08-25 09:37 — Use 'left to clean up' instead of a literal 'not cleaned' to sound more natural.
 - 2026-08-25 09:39 — “不用了” literally means “no need”; it’s a natural way to decline further action or dismiss a question.
+- 2026-08-25 09:39 — “看看好了”省略了“是不是”，英译时加上 that 或 if 更自然。
