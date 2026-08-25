@@ -12188,6 +12188,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
@@ -12213,3 +12214,6 @@
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
 - 2026-08-25 15:45 — '说到了' means 'mentioned' here. You can omit '到了' for a simpler '说' (said), but adding '到了' emphasizes that the mention occurred and reached that topic.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
