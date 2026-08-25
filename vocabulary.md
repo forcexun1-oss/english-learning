@@ -12135,3 +12135,4 @@
 - 2026-08-24 22:20 — "执行一下" means "execute/run". In English, just say "Run the script" instead of "Execute the script" — it's more natural for commands.
 - 2026-08-25 00:03 — "好了" often translates to 'done' or 'all set' in English when reporting task completion.
 - 2026-08-25 09:16 — In English, "delete the folder named 08-19" is more formal, but "delete the 08-19 folder" is natural and common in tech contexts.
+- 2026-08-25 09:20 — You can describe errors as 'failed with X' (e.g., 'mount failed with exit code 72').

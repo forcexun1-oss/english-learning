@@ -1,1 +1,1 @@
-["看看我的移动硬盘恢复了,看看上面的都行完整吗,应该是软连接了download上的一个文件夹,还有类似git server的仓库", "本地一个代码同步到这个盘的脚本执行一下", "好了", "把08-19 那个文件夹删了,重复的"]
+["看看我的移动硬盘恢复了,看看上面的都行完整吗,应该是软连接了download上的一个文件夹,还有类似git server的仓库", "本地一个代码同步到这个盘的脚本执行一下", "好了", "把08-19 那个文件夹删了,重复的", "mount: exec /Library/Filesystems/ntfs.fs/Contents/Resources/mount_ntfs for /Volumes/D-Backup: No such file or directory\nmount: /Volumes/D-Backup failed with 72"]
