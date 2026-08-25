@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Has the download finished?
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+Use this project to run ~/models/Ornith-1.5-35B-A3B-MLX-6bit. Stop the current service and use the same port as the current service.
