@@ -12157,3 +12157,4 @@
 - 2026-08-25 10:59 — The ending particle 把 softens the request; in English we convey this with 'just' or 'go ahead'.
 - 2026-08-25 11:08 — Use 'Add it.' or 'Go ahead and add it.' — '把' is a Chinese particle, not needed in English here.
 - 2026-08-25 11:22 — When comparing options, use 'whether ... or' to introduce the two alternatives, e.g., 'whether it's better to A or B'.
+- 2026-08-25 11:31 — In English, '改成' often becomes 'change to' or 'set to'. Add an object like 'it' to make the instruction clear.
