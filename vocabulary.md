@@ -12169,3 +12169,4 @@
 - 2026-08-25 12:24 — Use 'dropped' (past tense) instead of '掉得' to describe a decrease that has already happened. 'So much' is more natural than '这么厉害' for describing a significant drop in speed.
 - 2026-08-25 13:01 — Use 'set it back to' instead of '改回多少' — '多少' becomes 'what value' in English.
 - 2026-08-25 13:15 — Use 'reported an error' rather than 'reported wrong' (报错). Also, '点击同意' → 'click Agree' or 'click to agree'.
+- 2026-08-25 13:20 — Use 'stopped early' or 'terminated early' for '提前结束' — 'ended early' sounds less natural in technical descriptions.
