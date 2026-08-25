@@ -12233,3 +12233,4 @@
 - 2026-08-25 16:09 — "正在跑的mlx" means 'the mlx that is currently running'. Use 'running mlx' or 'the mlx that's running' in English.
 - 2026-08-25 16:10 — '一下' softens the request; in English, a simple 'Make the change' or 'Change it' works. You could also add 'please' to be polite.
 - 2026-08-25 16:15 — '源' (source) is countable in English, so use 'Are there any...' for plural. Also, use '6-bit' with a hyphen when it's an adjective modifying 'version'.
+- 2026-08-25 16:18 — Use 'instead' to indicate changing from the previous action; 'switch to' is the natural phrase for changing mirror sources.
