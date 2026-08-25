@@ -12172,3 +12172,4 @@
 - 2026-08-25 13:20 — Use 'stopped early' or 'terminated early' for '提前结束' — 'ended early' sounds less natural in technical descriptions.
 - 2026-08-25 13:22 — '报错' can be expressed as 'reported an error' or 'threw an error'; '跳到浏览器' -> 'jumps to/opens the browser'.
 - 2026-08-25 13:31 — Use 'revert' or 'set back' to mean 调回去; 'original values' clarifies what you're returning to.
+- 2026-08-25 13:35 — Use 'do' instead of 'are for' when asking about a parameter's function — 'What does X do?' is the natural way to ask about purpose.
