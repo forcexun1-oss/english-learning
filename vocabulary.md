@@ -12161,3 +12161,4 @@
 - 2026-08-25 11:33 — The particle '话' after a noun means 'as for/regarding' — a common colloquial pattern. Also, '保留' here is naturally translated as 'kept' or 'retained'.
 - 2026-08-25 11:33 — Use 'memory usage' or 'memory footprint' instead of saying 'memory occupies'. Also, '应该不多' is more naturally expressed as 'should be low' rather than 'should not be much'.
 - 2026-08-25 11:34 — Use "using" or "taking up" for 占内存; "occupy" sounds too formal.
+- 2026-08-25 11:36 — "硬留" translates naturally as "hard-reserved" (or "hard-allocated") — meaning the memory is permanently set aside regardless of usage. In English, "hard" here pairs with the verb to mean "fixed/guaranteed," e.g., "hard-coded" or "hard-locked."
