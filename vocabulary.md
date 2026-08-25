@@ -12191,6 +12191,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
@@ -12243,3 +12244,6 @@
 - 2026-08-25 17:03 — Use 'areas' or 'aspects' instead of 'points' for more natural English here.
 - 2026-08-25 18:24 — "吧" softens the tone in Chinese; in English, adding "go ahead" before the verb conveys that same gentle, encouraging tone.
 - 2026-08-25 18:27 — '把...弄到那边去跑' is very colloquial; in English, 'move it over there to run' or 'deploy it there' sounds more natural. Also, '还有什么要优化的地方' becomes 'What else needs to be optimized?' — keep the question concise.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
