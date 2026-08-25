@@ -12235,3 +12235,4 @@
 - 2026-08-25 16:15 — '源' (source) is countable in English, so use 'Are there any...' for plural. Also, use '6-bit' with a hyphen when it's an adjective modifying 'version'.
 - 2026-08-25 16:18 — Use 'instead' to indicate changing from the previous action; 'switch to' is the natural phrase for changing mirror sources.
 - 2026-08-25 16:21 — Use 'run with' or 'run on' for tools/platforms, not 'run by'.
+- 2026-08-25 16:34 — '开' in casual speech means 'turn on/enable' — 'enable' sounds more natural in technical English.
