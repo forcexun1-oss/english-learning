@@ -12237,3 +12237,4 @@
 - 2026-08-25 16:21 — Use 'run with' or 'run on' for tools/platforms, not 'run by'.
 - 2026-08-25 16:34 — '开' in casual speech means 'turn on/enable' — 'enable' sounds more natural in technical English.
 - 2026-08-25 16:39 — In this context, '方案' is better translated as 'approach' or 'option' rather than 'solution'.
+- 2026-08-25 16:43 — "断点续传" is best translated as "resume the download" or "breakpoint resume", not a literal word-for-word translation.
