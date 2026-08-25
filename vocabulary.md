@@ -12154,3 +12154,4 @@
 - 2026-08-25 10:51 — "单独" here means 'on its own / by itself' — using 'individually' also works, but 'on its own' sounds more natural in casual conversation.
 - 2026-08-25 10:52 — '好用' is best translated as 'useful' or 'user-friendly' — 'make it better to use' sounds unnatural.
 - 2026-08-25 10:57 — "for real" is an informal phrase meaning "genuinely" or "actually". In technical contexts, it emphasizes that the fix is definitive.
+- 2026-08-25 10:59 — The ending particle 把 softens the request; in English we convey this with 'just' or 'go ahead'.
