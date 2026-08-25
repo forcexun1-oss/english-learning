@@ -12392,3 +12392,4 @@
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
+- 2026-08-25 21:28 — "已整层" looks like a typo for "一整层" (the whole layer). Also, "啊" is just emphasis, so you can drop it or use a dash in English.
