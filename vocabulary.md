@@ -12146,3 +12146,4 @@
 - 2026-08-25 09:43 — 挑出来 can mean 'pick out' or 'single out'. In a removal context, it often implies keeping that item while removing others.
 - 2026-08-25 09:56 — For a project, use 'make better' or 'improve' rather than 'do better'.
 - 2026-08-25 10:17 — Use 'let + someone + verb' for '让某人做某事'. Here, 'use the Luna model to implement it' clearly links the tool to the action.
+- 2026-08-25 10:27 — Use 'according to the plan's intent' instead of 'per the plan's own intent' for more natural phrasing.
