@@ -12152,3 +12152,4 @@
 - 2026-08-25 10:46 — In English, place 'yet' at the end of the question: 'Hasn't ... yet?' This matches the Chinese '还没...吗' structure.
 - 2026-08-25 10:49 — Use 'type' or 'enter' for 输入, and 'retrieve' or 'fetch' sounds more natural than 'get' in a technical context.
 - 2026-08-25 10:51 — "单独" here means 'on its own / by itself' — using 'individually' also works, but 'on its own' sounds more natural in casual conversation.
+- 2026-08-25 10:52 — '好用' is best translated as 'useful' or 'user-friendly' — 'make it better to use' sounds unnatural.
