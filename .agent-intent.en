@@ -1,1 +1,1 @@
-Add it.
+Let me check whether it's better to limit the KV cache tree depth to just one layer, or keep the current number of branches. It looks like the second layer doesn't really need caching.
