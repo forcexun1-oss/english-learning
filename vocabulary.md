@@ -12158,3 +12158,4 @@
 - 2026-08-25 11:08 — Use 'Add it.' or 'Go ahead and add it.' — '把' is a Chinese particle, not needed in English here.
 - 2026-08-25 11:22 — When comparing options, use 'whether ... or' to introduce the two alternatives, e.g., 'whether it's better to A or B'.
 - 2026-08-25 11:31 — In English, '改成' often becomes 'change to' or 'set to'. Add an object like 'it' to make the instruction clear.
+- 2026-08-25 11:33 — The particle '话' after a noun means 'as for/regarding' — a common colloquial pattern. Also, '保留' here is naturally translated as 'kept' or 'retained'.
