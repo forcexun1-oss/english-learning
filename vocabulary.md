@@ -12170,3 +12170,4 @@
 - 2026-08-25 13:01 — Use 'set it back to' instead of '改回多少' — '多少' becomes 'what value' in English.
 - 2026-08-25 13:15 — Use 'reported an error' rather than 'reported wrong' (报错). Also, '点击同意' → 'click Agree' or 'click to agree'.
 - 2026-08-25 13:20 — Use 'stopped early' or 'terminated early' for '提前结束' — 'ended early' sounds less natural in technical descriptions.
+- 2026-08-25 13:22 — '报错' can be expressed as 'reported an error' or 'threw an error'; '跳到浏览器' -> 'jumps to/opens the browser'.
