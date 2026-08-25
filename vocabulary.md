@@ -12207,3 +12207,4 @@
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
+- 2026-08-25 15:44 — "这不是吗" is a colloquial way to say "Isn't this it?" or "This is it, right?" In formal English, use "Isn't this the one?" or "Is this correct?"
