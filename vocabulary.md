@@ -12185,6 +12185,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
@@ -12198,3 +12199,6 @@
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
 - 2026-08-25 15:40 — In Chinese, '看看' reduplicates the verb to soften the request; in English, 'Take a look' sounds more natural and polite than just 'Look'.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
