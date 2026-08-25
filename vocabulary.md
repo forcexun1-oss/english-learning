@@ -12175,3 +12175,4 @@
 - 2026-08-25 13:35 — Use 'do' instead of 'are for' when asking about a parameter's function — 'What does X do?' is the natural way to ask about purpose.
 - 2026-08-25 13:36 — Use "didn't enable" (past tense) for 没开; "enable" is the verb for 开启/启用.
 - 2026-08-25 13:39 — Use 'did it originally come with' instead of 'was it originally there' for more natural phrasing about project features.
+- 2026-08-25 13:41 — '负责' in coding contexts usually translates as 'handles' or 'is responsible for'.
