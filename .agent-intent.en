@@ -1,1 +1,1 @@
-Check what value to set it back to.
+The agent failed to generate a final response (either the tool call failed or the model ended early) and reported an error. Also, websearch now jumps to the browser and asks me to click 'Agree'.
