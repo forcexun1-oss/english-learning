@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Is it in the source code, or was it added in a later commit?
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+Also, don't use that same 'split' phrasing in the future. When describing a plan, you must first clarify the resource allocation and the execution flow. Cover those first, and leave the other messy details for later.
