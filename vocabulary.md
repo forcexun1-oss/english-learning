@@ -12250,6 +12250,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
@@ -12504,6 +12505,9 @@
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
 - 2026-08-26 10:32 — "点了" means 'clicked' but in context, you likely mean 'a single click' (单击) vs. double-click (双击). Use 'a single click' to avoid ambiguity.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
