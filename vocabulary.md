@@ -12257,6 +12257,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-08-25 15:21 — "跑起来" (run) is casual; in technical contexts, use "run" or "work on".
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
@@ -12545,3 +12546,6 @@
 >>>>>>> Stashed changes
 - 2026-08-26 13:39 — Use 'single-click response' for 单击响应. '变慢了' means 'become slower' or 'slow down' — here 'would make ... slower' fits the hypothetical tone.
 - 2026-08-26 13:40 — Place 'only' before the thing it limits: 'only the currently selected item', not 'the current selected only'.
+=======
+- 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
+>>>>>>> Stashed changes
