@@ -1,1 +1,1 @@
-["mlx的服务我换了,怎么访问不了新的上来就报错了,是协议配置的问题吗", "模型和server不要变,改mac-assistant适配他", "你搞错服务了现在的服务是/Users/youxun/newProject/mlx-lm", "对,改吧,models.json 和 settings.toml 都改成 Ornith 那个路径"]
+["mlx的服务我换了,怎么访问不了新的上来就报错了,是协议配置的问题吗", "模型和server不要变,改mac-assistant适配他", "你搞错服务了现在的服务是/Users/youxun/newProject/mlx-lm", "对,改吧,models.json 和 settings.toml 都改成 Ornith 那个路径", "外面展示的名字也是跟这个一样吗"]
