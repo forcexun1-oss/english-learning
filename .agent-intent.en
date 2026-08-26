@@ -1,1 +1,1 @@
-I switched the MLX service, but I can't access the new one. It immediately reports an error. Is it a protocol configuration issue?
+Keep the model and server unchanged; modify mac-assistant to work with them.
