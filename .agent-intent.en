@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-You got the wrong service. The current service is /Users/youxun/newProject/mlx-lm.
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+Yes, go ahead. Change both models.json and settings.toml to use the Ornith path.

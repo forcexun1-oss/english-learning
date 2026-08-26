@@ -12477,3 +12477,4 @@
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
+- 2026-08-26 09:21 — Use 'the Ornith path' to mean 'the path for Ornith.' It's more concise.
