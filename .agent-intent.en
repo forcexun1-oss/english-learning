@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The double-click area is too large — the entire panel responds. Only the top part should respond.
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+In the history conversation item, double-clicking used to allow editing the title, but now it doesn't respond to double-click.
