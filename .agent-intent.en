@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-See which one you think works best.
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+I switched the MLX service, but I can't access the new one. It immediately reports an error. Is it a protocol configuration issue?
