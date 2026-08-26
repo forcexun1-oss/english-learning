@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-This didn't happen before—what's causing this problem?
-=======
-So I can only run the 4B model?
->>>>>>> Stashed changes
+When parsing the result, aren't there a lot of \n characters at the beginning?

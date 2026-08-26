@@ -12573,3 +12573,4 @@
 =======
 - 2026-08-25 15:04 — '跑' in this context means 'run' (as in running a model). Use 'run the 4B model' instead of just 'run 4b' for clarity.
 >>>>>>> Stashed changes
+- 2026-08-26 14:32 — Use 'at the beginning' instead of 'in front' for position in a sequence; 'a lot of \n characters' is plural, so 'aren't there' is correct.
