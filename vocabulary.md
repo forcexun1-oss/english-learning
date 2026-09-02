@@ -13205,3 +13205,4 @@
 - 2026-09-02 17:01 — In English, 'continue' alone is fine in informal instructions, but 'Please continue' is more polite.
 - 2026-09-02 17:19 — "继续" can be translated as "Continue" or "Go ahead" in a coding context.
 - 2026-09-02 17:31 — '让...去干' can be naturally expressed as 'let ... handle/continue with the rest' in English, using 'let' + object + base verb.
+- 2026-09-02 18:13 — '把' should be '吧' — a confirmation question particle. Use 'up and running' to ask if services have started.
