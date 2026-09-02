@@ -13218,3 +13218,4 @@
 - 2026-09-02 20:02 — '就' means 'just/only'. 'Get this done' is more idiomatic than 'finish it' for a coding task.
 - 2026-09-02 20:14 — "他" for a process/task is usually "it" in English.
 - 2026-09-02 21:30 — In English, the question word 'which' comes before the noun: say 'Which model...?' instead of following the Chinese word order 'Model is which'.
+- 2026-09-02 21:31 — "再" means "again", so "再试一下" becomes "try again". Use imperative mood for commands.
