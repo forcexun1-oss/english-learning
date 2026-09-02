@@ -13244,3 +13244,4 @@
 - 2026-09-02 22:17 — '跑不起来' naturally translates to 'won't run / isn't working'; and for '长任务给codex', add a verb — 'hand off / delegate long tasks to codex' sounds more natural than a literal translation.
 - 2026-09-02 22:25 — Use 'it' for a process or service (not 'he'), and say 'start up' or 'get started' instead of 'start running' when asking about initialization.
 - 2026-09-02 22:29 — Use 'turn off' for modes/settings; 'close' is for windows/files.
+- 2026-09-02 22:45 — "是让你去启动" can be translated as "you need to start it" or "you're supposed to start it", rather than literally "let you start".
