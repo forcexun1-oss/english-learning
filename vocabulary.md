@@ -13231,3 +13231,4 @@
 - 2026-09-02 21:50 — Use 'just now' to refer to a very recent event. 'Normal' is fine, but 'correct' or 'expected' may be more precise for technical contexts.
 - 2026-09-02 21:51 — Use 'go and fix it' for emphasis; '那' is better as 'then' rather than 'that' in this context.
 - 2026-09-02 21:53 — '再' means 'again', so '再试试' = 'try again'.
+- 2026-09-02 21:55 — 没有请求到意味着“请求没有到达”，用“didn't reach”或“didn't get to”而不是直译“didn't request to”。口语的“啊”可以省略，或用语气词如“Huh”来传达抱怨感。
