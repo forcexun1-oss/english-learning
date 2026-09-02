@@ -13241,3 +13241,4 @@
 - 2026-09-02 22:09 — “搞” is a colloquial all-purpose verb; in commands, use “do it” or “go ahead”.
 - 2026-09-02 22:13 — Use "was running" for the ongoing action and "stopped" for the interruption; place "again" at the end.
 - 2026-09-02 22:14 — In English, '跑' as 'run' often needs an object like 'it' or 'the whole thing' — 'run' alone sounds incomplete.
+- 2026-09-02 22:17 — '跑不起来' naturally translates to 'won't run / isn't working'; and for '长任务给codex', add a verb — 'hand off / delegate long tasks to codex' sounds more natural than a literal translation.
