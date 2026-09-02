@@ -13213,3 +13213,4 @@
 - 2026-09-02 19:13 — Use "adjust accordingly" or "follow the resize" instead of a direct translation of 跟随调整.
 - 2026-09-02 19:29 — Consider using 'resize' instead of 'adjust' when talking about UI elements responding to window size.
 - 2026-09-02 19:41 — Use 'scale with' instead of 'scale as' to describe content adjusting to window size.
+- 2026-09-02 19:46 — Use "fill the area/space" rather than "fill the content" — the content is what's being displayed, and the goal is to fill the available container.
