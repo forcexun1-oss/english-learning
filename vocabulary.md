@@ -13228,3 +13228,4 @@
 - 2026-09-02 21:46 — "再试试" literally repeats 试 (try); in English, just say "Try again" or "Give it another try."
 - 2026-09-02 21:48 — "啊" adds a casual/impatient tone in Chinese. In English, the tone is better conveyed by phrasing (e.g., "Let me take a look.") rather than adding a word that directly translates to it.
 - 2026-09-02 21:49 — '都' here implies 'all' — use 'all' in English for the same comprehensive meaning.
+- 2026-09-02 21:50 — Use 'just now' to refer to a very recent event. 'Normal' is fine, but 'correct' or 'expected' may be more precise for technical contexts.
