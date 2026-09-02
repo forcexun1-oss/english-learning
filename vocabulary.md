@@ -13203,3 +13203,4 @@
 - 2026-09-02 16:53 — For yes/no questions in English, invert the subject and verb: 页面都是H5? becomes 'Are the pages all H5?' Also, 'H5' is common in Chinese tech slang; in English you might say 'HTML5' to be more explicit.
 - 2026-09-02 16:57 — Use present perfect ('Has nobody made...') to ask about whether something has been created up to the present.
 - 2026-09-02 17:01 — In English, 'continue' alone is fine in informal instructions, but 'Please continue' is more polite.
+- 2026-09-02 17:19 — "继续" can be translated as "Continue" or "Go ahead" in a coding context.
