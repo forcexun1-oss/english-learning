@@ -13191,3 +13191,4 @@
 - 2026-09-02 15:11 — '还有没有' is redundant; just use 'hasn't yet' or 'not yet'.
 - 2026-09-02 15:12 — The sentence-final '把' here is a colloquial variant of '吧', used to seek confirmation; in English, add a tag like 'right?'.
 - 2026-09-02 15:14 — When referring to a non-human thing (like a model), use "its" instead of "his."
+- 2026-09-02 15:35 — For tag questions, match the auxiliary: 'It is not...' -> 'is it?' Also, '移植' is usually 'port' in software contexts.
