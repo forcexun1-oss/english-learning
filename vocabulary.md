@@ -13192,3 +13192,4 @@
 - 2026-09-02 15:12 — The sentence-final '把' here is a colloquial variant of '吧', used to seek confirmation; in English, add a tag like 'right?'.
 - 2026-09-02 15:14 — When referring to a non-human thing (like a model), use "its" instead of "his."
 - 2026-09-02 15:35 — For tag questions, match the auxiliary: 'It is not...' -> 'is it?' Also, '移植' is usually 'port' in software contexts.
+- 2026-09-02 15:54 — Say "exited with code 0" or "completed with exit code 0" instead of "completed (exit code 0)" — it reads more naturally in developer writing.
