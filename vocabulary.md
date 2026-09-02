@@ -13225,3 +13225,4 @@
 - 2026-09-02 21:40 — Use 'reporting errors' or 'showing errors' rather than 'has 报错' — in English, services 'report' or 'log' errors.
 - 2026-09-02 21:42 — 敲"擦"表达懊恼，英语可用 “Damn” 或 “Ugh” 来传递类似语气。
 - 2026-09-02 21:42 — Use 'Go change' for direct commands. '把' constructions translate to straightforward verb phrases like 'change the config'.
+- 2026-09-02 21:46 — "再试试" literally repeats 试 (try); in English, just say "Try again" or "Give it another try."
