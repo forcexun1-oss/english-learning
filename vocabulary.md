@@ -13210,3 +13210,4 @@
 - 2026-09-02 18:15 — "乱动" here doesn't mean 'move around' literally — in a system context, use 'trigger' or 'execute' instead. Also, "什么" after a verb (别乱动什么...) is colloquial for 'any', so 'any system shutdown' works well.
 - 2026-09-02 18:16 — Use 'shut down' for computers/systems, 'turn off' for simple devices.
 - 2026-09-02 19:06 — “自适应” here means 'adaptive layout' or 'auto-sizing' in Mermaid, not 'adaptation' (which means evolution). Use 'issue' or 'problem' after 'There's a...'.
+- 2026-09-02 19:13 — Use "adjust accordingly" or "follow the resize" instead of a direct translation of 跟随调整.
