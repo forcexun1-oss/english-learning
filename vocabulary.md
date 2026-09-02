@@ -13217,3 +13217,4 @@
 - 2026-09-02 19:50 — For '填得太满', 'too packed' or 'too cramped' sounds more natural than 'too filled' when describing UI layout.
 - 2026-09-02 20:02 — '就' means 'just/only'. 'Get this done' is more idiomatic than 'finish it' for a coding task.
 - 2026-09-02 20:14 — "他" for a process/task is usually "it" in English.
+- 2026-09-02 21:30 — In English, the question word 'which' comes before the noun: say 'Which model...?' instead of following the Chinese word order 'Model is which'.
