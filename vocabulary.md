@@ -13226,3 +13226,4 @@
 - 2026-09-02 21:42 — 敲"擦"表达懊恼，英语可用 “Damn” 或 “Ugh” 来传递类似语气。
 - 2026-09-02 21:42 — Use 'Go change' for direct commands. '把' constructions translate to straightforward verb phrases like 'change the config'.
 - 2026-09-02 21:46 — "再试试" literally repeats 试 (try); in English, just say "Try again" or "Give it another try."
+- 2026-09-02 21:48 — "啊" adds a casual/impatient tone in Chinese. In English, the tone is better conveyed by phrasing (e.g., "Let me take a look.") rather than adding a word that directly translates to it.
