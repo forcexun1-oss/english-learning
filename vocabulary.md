@@ -13208,3 +13208,4 @@
 - 2026-09-02 18:13 — '把' should be '吧' — a confirmation question particle. Use 'up and running' to ask if services have started.
 - 2026-09-02 18:15 — Use '吧' (ba) for suggestions/confirmation, not '把' (bǎ). '把' is a preposition for object disposal, e.g., '把门关上'.
 - 2026-09-02 18:15 — "乱动" here doesn't mean 'move around' literally — in a system context, use 'trigger' or 'execute' instead. Also, "什么" after a verb (别乱动什么...) is colloquial for 'any', so 'any system shutdown' works well.
+- 2026-09-02 18:16 — Use 'shut down' for computers/systems, 'turn off' for simple devices.
