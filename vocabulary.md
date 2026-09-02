@@ -13239,3 +13239,4 @@
 - 2026-09-02 22:05 — "再" means "again" — in English, put "again" at the end: Try again.
 - 2026-09-02 22:08 — For '再看看' in a testing/debugging context, say 'Let's take another look' — it's more natural than a literal 'look again.' 'Another look' is a common collocation.
 - 2026-09-02 22:09 — “搞” is a colloquial all-purpose verb; in commands, use “do it” or “go ahead”.
+- 2026-09-02 22:13 — Use "was running" for the ongoing action and "stopped" for the interruption; place "again" at the end.
