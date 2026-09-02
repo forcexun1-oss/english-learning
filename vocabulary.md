@@ -13206,3 +13206,4 @@
 - 2026-09-02 17:19 — "继续" can be translated as "Continue" or "Go ahead" in a coding context.
 - 2026-09-02 17:31 — '让...去干' can be naturally expressed as 'let ... handle/continue with the rest' in English, using 'let' + object + base verb.
 - 2026-09-02 18:13 — '把' should be '吧' — a confirmation question particle. Use 'up and running' to ask if services have started.
+- 2026-09-02 18:15 — Use '吧' (ba) for suggestions/confirmation, not '把' (bǎ). '把' is a preposition for object disposal, e.g., '把门关上'.
