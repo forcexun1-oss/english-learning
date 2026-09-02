@@ -13220,3 +13220,4 @@
 - 2026-09-02 21:30 — In English, the question word 'which' comes before the noun: say 'Which model...?' instead of following the Chinese word order 'Model is which'.
 - 2026-09-02 21:31 — "再" means "again", so "再试一下" becomes "try again". Use imperative mood for commands.
 - 2026-09-02 21:34 — Use 'single' for 一个, and 'concurrent' (not 'parallel') for 并发 in this context.
+- 2026-09-02 21:37 — Use imperative mood for commands: 'Try... send...' instead of repeating '试' with '一个' at the end.
