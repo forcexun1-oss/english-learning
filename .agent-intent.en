@@ -1,1 +1,1 @@
-Investigate why this service's reanalyze feature won't run. If the model service hangs, restart it yourself and keep going until it's fixed. Hand off long-running tasks to codex. Make the plan more detailed.
+Is it starting up normally? The model is running.
