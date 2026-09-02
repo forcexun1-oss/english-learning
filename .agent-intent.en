@@ -1,1 +1,1 @@
-Another issue: in the agent panel, content can only be copied one line at a time. Also, text selection seems off — it works fine at first, but after reopening the panel, everything turns white. I suspect it's something to do with the selected-text color or the selection background.
+It's still not working.
