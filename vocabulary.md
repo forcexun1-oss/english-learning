@@ -13196,3 +13196,4 @@
 - 2026-09-02 16:02 — '看着没啥区别' is naturally translated as 'It doesn't look any different' — '没啥' means 'no/not any' in casual speech.
 - 2026-09-02 16:15 — '整个全都' is redundant in English; just say 'the entire thing'. Use 'render with HTML' (or 'in HTML') for '用html来渲染'.
 - 2026-09-02 16:17 — Use "doesn't look great" instead of "is not good-looking" for a more natural phrasing.
+- 2026-09-02 16:22 — Use "much worse than before" for 比原先难看多了, and 方案 here is "plan" or "proposal".
