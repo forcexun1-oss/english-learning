@@ -13224,3 +13224,4 @@
 - 2026-09-02 21:39 — Use 'a real request' instead of '真实请求' directly; '发一个' can be 'send one' or 'send a single one'.
 - 2026-09-02 21:40 — Use 'reporting errors' or 'showing errors' rather than 'has 报错' — in English, services 'report' or 'log' errors.
 - 2026-09-02 21:42 — 敲"擦"表达懊恼，英语可用 “Damn” 或 “Ugh” 来传递类似语气。
+- 2026-09-02 21:42 — Use 'Go change' for direct commands. '把' constructions translate to straightforward verb phrases like 'change the config'.
