@@ -13200,3 +13200,4 @@
 - 2026-09-02 16:28 — Use 'take ... from' for '从那边拿'; '直接' naturally goes before the verb as 'directly'.
 - 2026-09-02 16:34 — "看着不清晰" can be translated as 'look unclear' or 'appear blurry'. 'Seem distorted' is natural for '好像还变形了'.
 - 2026-09-02 16:38 — '现在这样吧' is naturally rendered as 'let's keep it as is' — 'as is' conveys accepting the current state without changes.
+- 2026-09-02 16:53 — For yes/no questions in English, invert the subject and verb: 页面都是H5? becomes 'Are the pages all H5?' Also, 'H5' is common in Chinese tech slang; in English you might say 'HTML5' to be more explicit.
