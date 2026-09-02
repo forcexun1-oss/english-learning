@@ -13215,3 +13215,4 @@
 - 2026-09-02 19:41 — Use 'scale with' instead of 'scale as' to describe content adjusting to window size.
 - 2026-09-02 19:46 — Use "fill the area/space" rather than "fill the content" — the content is what's being displayed, and the goal is to fill the available container.
 - 2026-09-02 19:50 — For '填得太满', 'too packed' or 'too cramped' sounds more natural than 'too filled' when describing UI layout.
+- 2026-09-02 20:02 — '就' means 'just/only'. 'Get this done' is more idiomatic than 'finish it' for a coding task.
