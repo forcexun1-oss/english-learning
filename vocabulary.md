@@ -13222,3 +13222,4 @@
 - 2026-09-02 21:34 — Use 'single' for 一个, and 'concurrent' (not 'parallel') for 并发 in this context.
 - 2026-09-02 21:37 — Use imperative mood for commands: 'Try... send...' instead of repeating '试' with '一个' at the end.
 - 2026-09-02 21:39 — Use 'a real request' instead of '真实请求' directly; '发一个' can be 'send one' or 'send a single one'.
+- 2026-09-02 21:40 — Use 'reporting errors' or 'showing errors' rather than 'has 报错' — in English, services 'report' or 'log' errors.
