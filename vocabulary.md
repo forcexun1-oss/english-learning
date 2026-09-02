@@ -13236,3 +13236,4 @@
 - 2026-09-02 21:59 — Use 'was' for past results, not 'is'. You're asking about something that already happened.
 - 2026-09-02 22:01 — The Chinese '啊' adds a casual, urging tone; in English, 'go ahead' conveys that.
 - 2026-09-02 22:03 — “Hurry up and...” conveys urgent impatience; “what are you waiting for?” is a rhetorical nudge.
+- 2026-09-02 22:05 — "再" means "again" — in English, put "again" at the end: Try again.
