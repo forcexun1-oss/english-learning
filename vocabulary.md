@@ -13197,3 +13197,4 @@
 - 2026-09-02 16:15 — '整个全都' is redundant in English; just say 'the entire thing'. Use 'render with HTML' (or 'in HTML') for '用html来渲染'.
 - 2026-09-02 16:17 — Use "doesn't look great" instead of "is not good-looking" for a more natural phrasing.
 - 2026-09-02 16:22 — Use "much worse than before" for 比原先难看多了, and 方案 here is "plan" or "proposal".
+- 2026-09-02 16:28 — Use 'take ... from' for '从那边拿'; '直接' naturally goes before the verb as 'directly'.
