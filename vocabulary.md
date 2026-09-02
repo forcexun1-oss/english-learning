@@ -13245,3 +13245,4 @@
 - 2026-09-02 22:25 — Use 'it' for a process or service (not 'he'), and say 'start up' or 'get started' instead of 'start running' when asking about initialization.
 - 2026-09-02 22:29 — Use 'turn off' for modes/settings; 'close' is for windows/files.
 - 2026-09-02 22:45 — "是让你去启动" can be translated as "you need to start it" or "you're supposed to start it", rather than literally "let you start".
+- 2026-09-03 00:11 — Use 'How far along is it?' to ask about progress, rather than literally translating '跑了多少'.
