@@ -13211,3 +13211,4 @@
 - 2026-09-02 18:16 — Use 'shut down' for computers/systems, 'turn off' for simple devices.
 - 2026-09-02 19:06 — “自适应” here means 'adaptive layout' or 'auto-sizing' in Mermaid, not 'adaptation' (which means evolution). Use 'issue' or 'problem' after 'There's a...'.
 - 2026-09-02 19:13 — Use "adjust accordingly" or "follow the resize" instead of a direct translation of 跟随调整.
+- 2026-09-02 19:29 — Consider using 'resize' instead of 'adjust' when talking about UI elements responding to window size.
