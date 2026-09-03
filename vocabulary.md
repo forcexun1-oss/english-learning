@@ -13289,3 +13289,4 @@
 - 2026-09-03 19:50 — In English, adjectives like 'current' come before the noun: 'the current ornith model'.
 - 2026-09-03 19:51 — Chinese often just lists noun + name ('服务 mlx-vlm'), but English needs a linking verb: 'The ... is ...' to connect the subject with its name.
 - 2026-09-03 19:57 — '好了' can mean 'Okay' (to acknowledge) or 'Done' (to indicate completion). Use 'Alright' for a natural acknowledgment.
+- 2026-09-03 20:10 — Use 'Did you request...' for asking about a completed action; 'the wrong model' is more natural than 'requested wrong model'.
