@@ -13273,3 +13273,4 @@
 - 2026-09-03 16:01 — Use "align by page" or "page-aligned" instead of the literal "按page". "Align" is the standard verb for memory boundary operations.
 - 2026-09-03 17:08 — Use "hit rate" for 命中率 and "miss" for 未命中. For two requests, say "both missed" or "neither hit."
 - 2026-09-03 17:09 — Use 'in' before the location ('the agent panel') and 'using' before the shortcut to connect the action to the method.
+- 2026-09-03 17:15 — In this technical context, '互联' translates better as 'interlinking' (or 'linking') rather than 'interconnection'. Also, '做成' is naturally expressed as 'turn into' or 'build from'.
