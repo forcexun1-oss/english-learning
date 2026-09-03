@@ -13291,3 +13291,4 @@
 - 2026-09-03 19:57 — '好了' can mean 'Okay' (to acknowledge) or 'Done' (to indicate completion). Use 'Alright' for a natural acknowledgment.
 - 2026-09-03 20:10 — Use 'Did you request...' for asking about a completed action; 'the wrong model' is more natural than 'requested wrong model'.
 - 2026-09-03 20:12 — In English, 'reject directly' is natural but you can also say 'immediately reject' for emphasis. Note: 'when' is fine here, but 'if' would also work for hypothetical situations.
+- 2026-09-03 20:14 — Use 'if' for a conditional situation; 'directly' often comes after the verb, e.g., 'reject directly'.
