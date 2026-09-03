@@ -13254,3 +13254,4 @@
 - 2026-09-03 11:27 — Use 'config' as a common shorthand for 'configuration' in technical instructions. Also, 'then' clearly links the two sequential steps.
 - 2026-09-03 13:56 — Use present perfect "have pulled" to ask whether an action has been completed, like checking git history.
 - 2026-09-03 13:57 — '一条都没存下来' can be rendered as 'not a single one was saved' — '一条' emphasizes the count, so 'not a single one' captures that better than 'nothing'.
+- 2026-09-03 14:00 — Use 'for each successfully processed item' to express '每成功一条'.

@@ -1,1 +1,1 @@
-At the end, it threw this error: 'ERROR: item analysis extensions must be a string'. Does that mean not a single one was saved?
+Modify it so that it writes one entry for each successfully processed item.
