@@ -13303,3 +13303,4 @@
 - 2026-09-03 21:30 — Use 'invisible' instead of 'cannot be seen' for a more natural adjective form.
 - 2026-09-03 21:33 — In Chinese, '做什么' literally means 'do what', but in '你看他做什么' it's rhetorical. In English, just use 'why are you looking at...' without an extra verb.
 - 2026-09-03 22:04 — Use 'Is this...?' to form a confirmation question; '样式' can be 'style' or 'design' depending on context.
+- 2026-09-03 22:04 — "和...一样" translates to "the same as" or "looks like". Saying "looks like there's no styling at all" sounds much more natural for UI feedback than a literal "same as".
