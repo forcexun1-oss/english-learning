@@ -13266,3 +13266,4 @@
 - 2026-09-03 15:01 — You can combine '测试一下' and '生效吗' into one sentence with 'and see if'. '生效' = 'take effect'.
 - 2026-09-03 15:26 — For '没落到硬盘' in a software context, use 'not persisted to disk' rather than a literal translation. Also, '每次重启之后' sounds more natural as 'every time we restart'.
 - 2026-09-03 15:30 — '修' alone is incomplete in English. Add an object to the verb: 'Fix it.' (or 'Please fix that.') — in software contexts, 'fix' is the standard word.
+- 2026-09-03 15:34 — "大小" usually translates to "size" in technical contexts. For strings or text, you might say "length" or "number of characters."
