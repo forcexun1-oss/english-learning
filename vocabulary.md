@@ -13260,3 +13260,4 @@
 - 2026-09-03 14:27 — In English, '改' alone needs an object; say 'Fix it' or 'Change it' to be clear.
 - 2026-09-03 14:45 — '都没了' is colloquial; in English, use 'disappear' or 'be gone' — and prefer 'the thinking in...' over the possessive form for a smoother sentence.
 - 2026-09-03 14:46 — Use 'disable' for turning off a feature in a technical context; it's more precise than 'turn off'.
+- 2026-09-03 14:48 — Use 'it' for software/systems instead of '他', and 'turn off' works well for disabling a feature.
