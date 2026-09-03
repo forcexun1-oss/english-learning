@@ -1,1 +1,1 @@
-So the reason it aligns by page is just for mmap?
+The KV cache hit rate is pretty low. Check why the last two requests both missed.

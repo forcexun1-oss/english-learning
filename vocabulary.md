@@ -13271,3 +13271,4 @@
 - 2026-09-03 15:45 — '吧' here gives a tone of decision/suggestion; 'go ahead' or 'let's' conveys that natural mood in English.
 - 2026-09-03 16:00 — Use 'Do you mean...' for clarification instead of a literal translation like 'Is it talking about...'.
 - 2026-09-03 16:01 — Use "align by page" or "page-aligned" instead of the literal "按page". "Align" is the standard verb for memory boundary operations.
+- 2026-09-03 17:08 — Use "hit rate" for 命中率 and "miss" for 未命中. For two requests, say "both missed" or "neither hit."
