@@ -1,1 +1,1 @@
-I'm getting this error: 'ERROR: item analysis extensions must be a string'. What does this actually mean?
+Install pi-mcp-adapter, then modify the config.
