@@ -13285,3 +13285,4 @@
 - 2026-09-03 18:57 — '开始干吧' is colloquial; 'Let's get started' is the natural English equivalent for kicking off a task.
 - 2026-09-03 18:59 — "contains" is more natural for a directory holding files; "holds" is more common for physical objects. Also, "blocker" is idiomatic in dev contexts instead of "stop condition".
 - 2026-09-03 19:01 — '无脑的事情' is best translated as 'mindless tasks' (not 'no-brain things'). When saying '给dsh用', use 'use ... for dsh'.
+- 2026-09-03 19:47 — This is a clear, direct command. Since you mentioned using the 'flash model' earlier, you could add 'instead' to emphasize the change: 'Use the local model instead.'
