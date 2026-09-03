@@ -13270,3 +13270,4 @@
 - 2026-09-03 15:36 — Use "the one you have now" instead of "you now this" — "one" replaces the noun (the value). Also, "pick a reasonable value" sounds more natural than "give a reasonable value" in this command context.
 - 2026-09-03 15:45 — '吧' here gives a tone of decision/suggestion; 'go ahead' or 'let's' conveys that natural mood in English.
 - 2026-09-03 16:00 — Use 'Do you mean...' for clarification instead of a literal translation like 'Is it talking about...'.
+- 2026-09-03 16:01 — Use "align by page" or "page-aligned" instead of the literal "按page". "Align" is the standard verb for memory boundary operations.

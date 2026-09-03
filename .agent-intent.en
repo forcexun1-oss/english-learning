@@ -1,1 +1,1 @@
-Do you mean the KV cache?
+So the reason it aligns by page is just for mmap?
