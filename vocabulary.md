@@ -13302,3 +13302,4 @@
 - 2026-09-03 21:28 — In English, the subject usually comes first. Instead of 'Chrome I use', say 'I use Chrome' or 'I'm using Chrome'.
 - 2026-09-03 21:30 — Use 'invisible' instead of 'cannot be seen' for a more natural adjective form.
 - 2026-09-03 21:33 — In Chinese, '做什么' literally means 'do what', but in '你看他做什么' it's rhetorical. In English, just use 'why are you looking at...' without an extra verb.
+- 2026-09-03 22:04 — Use 'Is this...?' to form a confirmation question; '样式' can be 'style' or 'design' depending on context.
