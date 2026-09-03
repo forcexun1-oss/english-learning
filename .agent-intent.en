@@ -1,1 +1,1 @@
-Check the current agent's prefix — every time we restart, we have to re-match it. Is it not being persisted to disk?
+Fix it.
