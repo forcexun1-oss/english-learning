@@ -13306,3 +13306,4 @@
 - 2026-09-03 22:04 — "和...一样" translates to "the same as" or "looks like". Saying "looks like there's no styling at all" sounds much more natural for UI feedback than a literal "same as".
 - 2026-09-03 22:05 — '淡雅的' is often 'elegant and understated' or 'refined'; '别自己编了' = 'don't invent/make it up yourself'.
 - 2026-09-03 22:07 — 搞 is very colloquial for 'do/handle' — in English just say 'go do it' or 'you handle it.'
+- 2026-09-03 22:07 — 在...里面 = inside/in; here it's used to indicate location within a file.
