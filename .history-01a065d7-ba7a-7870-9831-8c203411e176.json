@@ -1,1 +1,1 @@
-[".venv/bin/python -m douyin_favorites_knowledge sync --headed ERROR: item analysis extensions must be a string最后报了这个错,是一条都没存下来吗", "改一下,然后,改成成功一条,写一条", "好的", "时间还是不对啊,应该我收藏这个视频的时间,没有返回这个字段吗"]
+[".venv/bin/python -m douyin_favorites_knowledge sync --headed ERROR: item analysis extensions must be a string最后报了这个错,是一条都没存下来吗", "改一下,然后,改成成功一条,写一条", "好的", "时间还是不对啊,应该我收藏这个视频的时间,没有返回这个字段吗", "改"]
