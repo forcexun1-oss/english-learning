@@ -13310,3 +13310,4 @@
 - 2026-09-03 22:17 — Use "The ... has ended" for a complete sentence — "stream ended" reads like a headline, not a full message.
 - 2026-09-03 22:46 — Use the structure 'should ... and not ...' to express the design requirement clearly, e.g., 'it should match... and not look like...'.
 - 2026-09-03 22:55 — Use 'should' for recommendations and keep the tone direct, like a code review comment. 'Bare-bones' means minimal/plain, which fits the '简陋' idea well.
+- 2026-09-04 00:02 — "你的样式" literally translates to "your style," but in a UI context, "the style you applied" is clearer because it specifies the action you took.
