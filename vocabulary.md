@@ -13249,3 +13249,4 @@
 - 2026-09-03 10:06 — 卡着不动可译为 "stuck" 或 "frozen"；描述进程时用 "the one currently executing" 更自然。
 - 2026-09-03 10:11 — For '卡着不动', just say 'is stuck' or 'is frozen' — 'stuck' already implies not moving, so you don't need to add 'not moving'.
 - 2026-09-03 10:12 — The 被 (bèi) passive construction translates to 'by' in English passive voice. Keep proper nouns like Douyin unchanged.
+- 2026-09-03 10:30 — "看看...还是..." translates to "figure out which is...or...". Use "simpler" instead of "simple" when comparing two options.
