@@ -13292,3 +13292,4 @@
 - 2026-09-03 20:10 — Use 'Did you request...' for asking about a completed action; 'the wrong model' is more natural than 'requested wrong model'.
 - 2026-09-03 20:12 — In English, 'reject directly' is natural but you can also say 'immediately reject' for emphasis. Note: 'when' is fine here, but 'if' would also work for hypothetical situations.
 - 2026-09-03 20:14 — Use 'if' for a conditional situation; 'directly' often comes after the verb, e.g., 'reject directly'.
+- 2026-09-03 20:31 — "全量" in this context is often translated as "full run" or "full dataset"; "跑一个就成功一个" means success should be per item, not all-or-nothing.
