@@ -13319,3 +13319,4 @@
 - 2026-09-04 00:11 — In Chinese, '你' is often implicit; in English, use 'you' as the subject.
 - 2026-09-04 00:16 — "参看" can be translated as "view" or "see" in this context. "源码" is "source code".
 - 2026-09-04 00:24 — For color, '太深' often translates to 'too dark' rather than 'too deep'.
+- 2026-09-04 00:27 — Use present perfect "hasn't changed" to describe the current state of something that was expected to be modified.
