@@ -1,1 +1,1 @@
-I'm trying to figure out which is simpler: modifying the encryption algorithm to make it easier, or porting the code from douyin-favorites-to-knowledge that fetches favorites/likes via login.
+I'm getting this error: 'ERROR: item analysis extensions must be a string'. What does this actually mean?

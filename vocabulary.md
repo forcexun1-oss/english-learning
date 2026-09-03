@@ -13250,3 +13250,4 @@
 - 2026-09-03 10:11 — For '卡着不动', just say 'is stuck' or 'is frozen' — 'stuck' already implies not moving, so you don't need to add 'not moving'.
 - 2026-09-03 10:12 — The 被 (bèi) passive construction translates to 'by' in English passive voice. Keep proper nouns like Douyin unchanged.
 - 2026-09-03 10:30 — "看看...还是..." translates to "figure out which is...or...". Use "simpler" instead of "simple" when comparing two options.
+- 2026-09-03 11:05 — “最后这是个什么”这里的“最后”通常表示“到底/究竟”（指质疑真正含义），翻译为 “What does this actually mean?” 比字面的 “What is this at the end?” 更自然。
