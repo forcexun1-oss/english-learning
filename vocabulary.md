@@ -13301,3 +13301,4 @@
 - 2026-09-03 21:27 — Chinese often puts the object first for emphasis ('Chrome我用的'), but English needs normal subject-verb-object order: 'I'm using Chrome.'
 - 2026-09-03 21:28 — In English, the subject usually comes first. Instead of 'Chrome I use', say 'I use Chrome' or 'I'm using Chrome'.
 - 2026-09-03 21:30 — Use 'invisible' instead of 'cannot be seen' for a more natural adjective form.
+- 2026-09-03 21:33 — In Chinese, '做什么' literally means 'do what', but in '你看他做什么' it's rhetorical. In English, just use 'why are you looking at...' without an extra verb.
