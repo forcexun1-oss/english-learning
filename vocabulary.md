@@ -13288,3 +13288,4 @@
 - 2026-09-03 19:47 — This is a clear, direct command. Since you mentioned using the 'flash model' earlier, you could add 'instead' to emphasize the change: 'Use the local model instead.'
 - 2026-09-03 19:50 — In English, adjectives like 'current' come before the noun: 'the current ornith model'.
 - 2026-09-03 19:51 — Chinese often just lists noun + name ('服务 mlx-vlm'), but English needs a linking verb: 'The ... is ...' to connect the subject with its name.
+- 2026-09-03 19:57 — '好了' can mean 'Okay' (to acknowledge) or 'Done' (to indicate completion). Use 'Alright' for a natural acknowledgment.
