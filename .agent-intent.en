@@ -1,1 +1,1 @@
-I want to build a knowledge graph from the content I downloaded from my Douyin favorites. What are some good options? Obsidian's interlinking approach isn't great for this.
+Let's change the mermaid rendering approach: wait until all the content has been generated before rendering, otherwise the boxes keep jumping around.
