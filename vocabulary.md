@@ -13247,3 +13247,4 @@
 - 2026-09-02 22:45 — "是让你去启动" can be translated as "you need to start it" or "you're supposed to start it", rather than literally "let you start".
 - 2026-09-03 00:11 — Use 'How far along is it?' to ask about progress, rather than literally translating '跑了多少'.
 - 2026-09-03 10:06 — 卡着不动可译为 "stuck" 或 "frozen"；描述进程时用 "the one currently executing" 更自然。
+- 2026-09-03 10:11 — For '卡着不动', just say 'is stuck' or 'is frozen' — 'stuck' already implies not moving, so you don't need to add 'not moving'.
