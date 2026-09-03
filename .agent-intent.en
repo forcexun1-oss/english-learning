@@ -1,1 +1,1 @@
-Let's change the mermaid rendering approach: wait until all the content has been generated before rendering, otherwise the boxes keep jumping around.
+What are the risks?

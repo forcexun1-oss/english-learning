@@ -13275,3 +13275,4 @@
 - 2026-09-03 17:09 — Use 'in' before the location ('the agent panel') and 'using' before the shortcut to connect the action to the method.
 - 2026-09-03 17:15 — In this technical context, '互联' translates better as 'interlinking' (or 'linking') rather than 'interconnection'. Also, '做成' is naturally expressed as 'turn into' or 'build from'.
 - 2026-09-03 17:17 — “都吐完了” is informal; use “all the content has been generated” or “fully output” instead of “spit out”.
+- 2026-09-03 17:19 — Use "What's the risk?" for one specific risk, or "What are the risks?" when asking generally.
