@@ -13262,3 +13262,4 @@
 - 2026-09-03 14:46 — Use 'disable' for turning off a feature in a technical context; it's more precise than 'turn off'.
 - 2026-09-03 14:48 — Use 'it' for software/systems instead of '他', and 'turn off' works well for disabling a feature.
 - 2026-09-03 14:49 — Your sentence was missing an object; I used 'this' to refer to what you want to add. If it's not clear, specify it (e.g., 'Add the config to...').
+- 2026-09-03 15:01 — "把" in your message should be "吧"; when giving instructions like this, use the imperative form (e.g., 'Change...') which is direct and natural for coding commands.
