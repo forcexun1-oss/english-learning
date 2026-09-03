@@ -13281,3 +13281,4 @@
 - 2026-09-03 17:26 — Use "What about...?" or "How about...?" to ask for a follow-up opinion on a specific option. It naturally translates the casual 'X呢?' pattern.
 - 2026-09-03 17:28 — "怎么做比较合适" is better expressed as "What's the most suitable/best way to implement/approach..." rather than literally "how to do more appropriate".
 - 2026-09-03 17:38 — “At the very least” is a common phrase meaning ‘at the minimum’ or ‘as a bare requirement’.
+- 2026-09-03 17:49 — Use 'run' instead of 'execute' for natural English when talking about running a project/command.
