@@ -13317,3 +13317,4 @@
 - 2026-09-04 00:10 — In Chinese, 把 often maps to direct object placement in English. Here “your render” is the object of “show”, and “looks like” adds the sense of 什么样.
 - 2026-09-04 00:11 — Put the file path right after 'is' and use 'the one you made' to refer back to what was previously mentioned.
 - 2026-09-04 00:11 — In Chinese, '你' is often implicit; in English, use 'you' as the subject.
+- 2026-09-04 00:16 — "参看" can be translated as "view" or "see" in this context. "源码" is "source code".
