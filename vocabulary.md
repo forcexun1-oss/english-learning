@@ -13315,3 +13315,4 @@
 - 2026-09-04 00:06 — ‘画的’ 在 UI 上下文里用 ‘render’ 或 ‘generate’ 比直译成 ‘draw’ 更地道、更准确。
 - 2026-09-04 00:07 — For '什么样', use 'what + subject + looks like' in English, e.g., 'what your design looks like'.
 - 2026-09-04 00:10 — In Chinese, 把 often maps to direct object placement in English. Here “your render” is the object of “show”, and “looks like” adds the sense of 什么样.
+- 2026-09-04 00:11 — Put the file path right after 'is' and use 'the one you made' to refer back to what was previously mentioned.
