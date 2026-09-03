@@ -13252,3 +13252,4 @@
 - 2026-09-03 10:30 — "看看...还是..." translates to "figure out which is...or...". Use "simpler" instead of "simple" when comparing two options.
 - 2026-09-03 11:05 — “最后这是个什么”这里的“最后”通常表示“到底/究竟”（指质疑真正含义），翻译为 “What does this actually mean?” 比字面的 “What is this at the end?” 更自然。
 - 2026-09-03 11:27 — Use 'config' as a common shorthand for 'configuration' in technical instructions. Also, 'then' clearly links the two sequential steps.
+- 2026-09-03 13:56 — Use present perfect "have pulled" to ask whether an action has been completed, like checking git history.
