@@ -13318,3 +13318,4 @@
 - 2026-09-04 00:11 — Put the file path right after 'is' and use 'the one you made' to refer back to what was previously mentioned.
 - 2026-09-04 00:11 — In Chinese, '你' is often implicit; in English, use 'you' as the subject.
 - 2026-09-04 00:16 — "参看" can be translated as "view" or "see" in this context. "源码" is "source code".
+- 2026-09-04 00:24 — For color, '太深' often translates to 'too dark' rather than 'too deep'.
