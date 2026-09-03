@@ -13312,3 +13312,4 @@
 - 2026-09-03 22:55 — Use 'should' for recommendations and keep the tone direct, like a code review comment. 'Bare-bones' means minimal/plain, which fits the '简陋' idea well.
 - 2026-09-04 00:02 — "你的样式" literally translates to "your style," but in a UI context, "the style you applied" is clearer because it specifies the action you took.
 - 2026-09-04 00:06 — Use "How do I" for a question, not "How to" (which is for headings/instructions). "告诉" can be "tell" or "instruct" — "tell" is fine here.
+- 2026-09-04 00:06 — ‘画的’ 在 UI 上下文里用 ‘render’ 或 ‘generate’ 比直译成 ‘draw’ 更地道、更准确。
