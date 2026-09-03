@@ -13295,3 +13295,4 @@
 - 2026-09-03 20:31 — "全量" in this context is often translated as "full run" or "full dataset"; "跑一个就成功一个" means success should be per item, not all-or-nothing.
 - 2026-09-03 20:39 — '全量' means 'full' (as opposed to 'incremental') in dev contexts. Say 'run the full X' and name the thing — e.g., 'run the full test suite' — to be more precise.
 - 2026-09-03 20:50 — 配了吗 is asking whether something has been done, so use the present perfect: 'Have you configured...?'
+- 2026-09-03 20:53 — Use 'visible' instead of 'see' to describe if something appears on screen.
