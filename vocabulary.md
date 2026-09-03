@@ -13284,3 +13284,4 @@
 - 2026-09-03 17:49 — Use 'run' instead of 'execute' for natural English when talking about running a project/command.
 - 2026-09-03 18:57 — '开始干吧' is colloquial; 'Let's get started' is the natural English equivalent for kicking off a task.
 - 2026-09-03 18:59 — "contains" is more natural for a directory holding files; "holds" is more common for physical objects. Also, "blocker" is idiomatic in dev contexts instead of "stop condition".
+- 2026-09-03 19:01 — '无脑的事情' is best translated as 'mindless tasks' (not 'no-brain things'). When saying '给dsh用', use 'use ... for dsh'.
