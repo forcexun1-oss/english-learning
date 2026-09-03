@@ -13296,3 +13296,4 @@
 - 2026-09-03 20:39 — '全量' means 'full' (as opposed to 'incremental') in dev contexts. Say 'run the full X' and name the thing — e.g., 'run the full test suite' — to be more precise.
 - 2026-09-03 20:50 — 配了吗 is asking whether something has been done, so use the present perfect: 'Have you configured...?'
 - 2026-09-03 20:53 — Use 'visible' instead of 'see' to describe if something appears on screen.
+- 2026-09-03 21:20 — '回滚' is usually 'roll back' or 'revert', and '修改' is 'changes' or 'modifications'.
