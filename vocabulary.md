@@ -13283,3 +13283,4 @@
 - 2026-09-03 17:38 — “At the very least” is a common phrase meaning ‘at the minimum’ or ‘as a bare requirement’.
 - 2026-09-03 17:49 — Use 'run' instead of 'execute' for natural English when talking about running a project/command.
 - 2026-09-03 18:57 — '开始干吧' is colloquial; 'Let's get started' is the natural English equivalent for kicking off a task.
+- 2026-09-03 18:59 — "contains" is more natural for a directory holding files; "holds" is more common for physical objects. Also, "blocker" is idiomatic in dev contexts instead of "stop condition".
