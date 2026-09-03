@@ -13298,3 +13298,4 @@
 - 2026-09-03 20:53 — Use 'visible' instead of 'see' to describe if something appears on screen.
 - 2026-09-03 21:20 — '回滚' is usually 'roll back' or 'revert', and '修改' is 'changes' or 'modifications'.
 - 2026-09-03 21:21 — "看看..." can be translated as "Take a look at..." for a more natural request. Also, "为什么看不到" implies the form should be visible but isn't, so "why can't I see it" captures that.
+- 2026-09-03 21:27 — Chinese often puts the object first for emphasis ('Chrome我用的'), but English needs normal subject-verb-object order: 'I'm using Chrome.'
