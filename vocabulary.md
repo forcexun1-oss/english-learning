@@ -13282,3 +13282,4 @@
 - 2026-09-03 17:28 — "怎么做比较合适" is better expressed as "What's the most suitable/best way to implement/approach..." rather than literally "how to do more appropriate".
 - 2026-09-03 17:38 — “At the very least” is a common phrase meaning ‘at the minimum’ or ‘as a bare requirement’.
 - 2026-09-03 17:49 — Use 'run' instead of 'execute' for natural English when talking about running a project/command.
+- 2026-09-03 18:57 — '开始干吧' is colloquial; 'Let's get started' is the natural English equivalent for kicking off a task.
