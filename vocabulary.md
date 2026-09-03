@@ -13258,3 +13258,4 @@
 - 2026-09-03 14:01 — 好的 is commonly translated as 'OK' or 'Alright' in conversational English.
 - 2026-09-03 14:08 — Use 'favorited' (past tense verb) for 收藏 in this context, and 'isn't that field being returned?' sounds more natural than a direct word-for-word question.
 - 2026-09-03 14:27 — In English, '改' alone needs an object; say 'Fix it' or 'Change it' to be clear.
+- 2026-09-03 14:45 — '都没了' is colloquial; in English, use 'disappear' or 'be gone' — and prefer 'the thinking in...' over the possessive form for a smoother sentence.
