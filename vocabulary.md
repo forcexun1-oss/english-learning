@@ -13264,3 +13264,4 @@
 - 2026-09-03 14:49 — Your sentence was missing an object; I used 'this' to refer to what you want to add. If it's not clear, specify it (e.g., 'Add the config to...').
 - 2026-09-03 15:01 — "把" in your message should be "吧"; when giving instructions like this, use the imperative form (e.g., 'Change...') which is direct and natural for coding commands.
 - 2026-09-03 15:01 — You can combine '测试一下' and '生效吗' into one sentence with 'and see if'. '生效' = 'take effect'.
+- 2026-09-03 15:26 — For '没落到硬盘' in a software context, use 'not persisted to disk' rather than a literal translation. Also, '每次重启之后' sounds more natural as 'every time we restart'.
