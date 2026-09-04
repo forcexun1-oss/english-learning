@@ -13403,3 +13403,4 @@
 - 2026-09-04 16:43 — In spoken Chinese, '掉' is sometimes used as a casual substitute for '调用' (to call/invoke). But in English technical contexts, use 'invoke' or 'call' instead of 'drop'.
 - 2026-09-04 16:44 — '掉' 应为 '调'（调用/call），不是 'drop'。
 - 2026-09-04 16:53 — Use 'stuff ... into' for a casual tone, or 'cram ... into' to emphasize filling up. '总不能' translates naturally as 'You can't just ... right?'
+- 2026-09-04 16:55 — Use 'should' for suggestions: 'how should this be changed?' is more natural than 'how to change?'
