@@ -1,1 +1,1 @@
-Do you have logs? If not, add some and log the details.
+Add logging to record the raw request content, so you can test it yourself later.
