@@ -13386,3 +13386,4 @@
 - 2026-09-04 15:34 — “取得有问题”这种说法在英语里更自然的表达是 “misleading”（误导性的）；“说清楚”用 “explain clearly” 而非 “say clear”。
 - 2026-09-04 15:35 — Use 'append ... to ...' or 'add ... to ...' for 加上. '这类的' = 'something like that' — placed at the end of the suggestion.
 - 2026-09-04 15:37 — '改做' is likely a typo for '该做' (should do). Also, '指向另一个' is clearer as 'refer to another function' in this context.
+- 2026-09-04 15:41 — In Chinese, '吧' often seeks confirmation, but in English instructions it's better to state your opinion directly, e.g., 'episode_id is more reasonable.'

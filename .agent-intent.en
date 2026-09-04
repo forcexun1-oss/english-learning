@@ -1,1 +1,1 @@
-Then just make the input parameters and return values clear, no need to refer to another function—that's not what it should do.
+Please also clarify get_episode and the other functions so the model doesn't have to guess. Using episode_id is indeed more reasonable: "args": "{\"episode_id\": \"074b75e6-9d06-4c4b-8352-52dd73607580\"}", "tool": "memory-graph_get_episode". Also, the input parameters need to be described clearly.
