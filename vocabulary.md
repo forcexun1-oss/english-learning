@@ -13415,3 +13415,4 @@
 - 2026-09-04 18:52 — Use the imperative form ('Add') for direct instructions. 'Yourself' adds emphasis that the action is for you.
 - 2026-09-04 18:54 — Use "The monitor script" instead of "Monitor ... script" to avoid redundancy and make it read naturally.
 - 2026-09-04 19:02 — Use 'Do I need to...?' for '需要...吗'. It's the most natural way to ask about necessity in English.
+- 2026-09-04 20:50 — 'Routine' means normal/expected — common in monitoring talk, e.g. 'this is routine output, no action needed.' 'Benign' means harmless.

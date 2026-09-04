@@ -1,1 +1,1 @@
-Do I need to restart?
+That's just routine log output — the request is queued, not an error. No need to push a notification for this. Keep monitoring, and only alert me on cache misses or actual failures.
