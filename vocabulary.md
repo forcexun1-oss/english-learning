@@ -13368,3 +13368,4 @@
 - 2026-09-04 14:27 — '查一下' can be translated as 'check it out' or 'look into it'.
 - 2026-09-04 14:34 — Use 'provides' instead of 'has' when asking about what a tool offers/supplies — 'provides' is more natural for API or tool capabilities.
 - 2026-09-04 14:39 — Use "doesn't have" for negative questions, and add an article: "an update event" (or just "update"). Also, "truncation" is the noun form of "截断".
+- 2026-09-04 14:41 — Use "executed serially" or "run sequentially" for 串行; "in parallel" (并行) is the natural contrast.
