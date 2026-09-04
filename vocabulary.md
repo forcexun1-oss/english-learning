@@ -13420,3 +13420,4 @@
 - 2026-09-04 21:05 — Use "cached tokens" or "tokens served from cache" instead of saying "cache hit number".
 - 2026-09-04 21:06 — A 'hit' means cached tokens were reused; a 'miss' means they weren't. Say 'hit the cache' instead of '命中'.
 - 2026-09-04 22:38 — Use "Did you finish...?" instead of combining "做了" and "做完" together.
+- 2026-09-04 22:41 — "照...的模板" means "following the ... template" — you could also say "based on the Honcho template."

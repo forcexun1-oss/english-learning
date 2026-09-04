@@ -1,1 +1,1 @@
-Did you finish the external memory for the Hermes memory plugin?
+Right, first build a Graphiti provider following the Honcho template. Change the group_id so it doesn't get mixed up with session.
