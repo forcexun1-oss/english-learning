@@ -13378,3 +13378,4 @@
 - 2026-09-04 14:55 — 用 "run in parallel" 或 "parallelize" 来表达“并行”，不要只说 "parallel"；它前面需要搭配动词。
 - 2026-09-04 14:59 — 用 ". . . , right?" 来翻译语气词 "了吧"，表示向对方确认自己的理解是否正确，注意前面要用逗号和陈述句。
 - 2026-09-04 15:03 — '分错了' is better expressed as 'misclassification' or 'classification error' than a literal translation. Also, since the main verb is 'has', the correct tag question is 'doesn't it?' instead of 'right?' ( though 'right?' is acceptable in casual speech, 'doesn't it?' is more precise).
+- 2026-09-04 15:07 — For debugging, 'figure out' implies reasoning through the logic, while 'spot' or 'pinpoint' are sharper choices when referring to locating an exact error. 'Find out' also works but is a bit more general.
