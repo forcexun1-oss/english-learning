@@ -13337,3 +13337,4 @@
 - 2026-09-04 10:05 — Use 'clarify' as a verb meaning 'to make something clear'. Say 'clarify the requirements', not 'clear the requirements'.
 - 2026-09-04 10:06 — Use 'was talking about' or 'meant' to clarify what you said previously. Avoid directly translating '说的是' as 'say is'.
 - 2026-09-04 10:27 — "看看原因" is better as "look into the cause" — 'look into' conveys investigating, not just looking at something.
+- 2026-09-04 10:28 — For '派出去干了', use a clear causative verb like 'dispatched' or 'sent out' and add an explicit subject (e.g., 'I've') since English doesn't allow implied subjects like Chinese does.
