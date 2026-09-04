@@ -13375,3 +13375,4 @@
 - 2026-09-04 14:47 — 「我问题」is incorrect because 问题 is a noun. Use 「我有个问题」→ 'I have a question' or the verb 问 → 'I want to ask about...'.
 - 2026-09-04 14:51 — In English, use 'quotation marks' to refer to a specific term or phrase you're asking about.
 - 2026-09-04 14:54 — Note: Chinese '对吧' (right?) is used for confirmation. In English, use 'right?' at the end of a statement. Also, '拼在一起' is better translated as 'concatenated' or 'stitched together' in a technical context.
+- 2026-09-04 14:55 — 用 "run in parallel" 或 "parallelize" 来表达“并行”，不要只说 "parallel"；它前面需要搭配动词。
