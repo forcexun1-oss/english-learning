@@ -1,1 +1,1 @@
-When the web search has a "queries" array like this, is the search executed serially?
+Look into it, but the text you retrieve should directly map to its original text—it shouldn't depend on anything else.
