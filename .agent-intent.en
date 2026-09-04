@@ -1,1 +1,1 @@
-Still need the three characters "执行中" (executing) — when there's enough width, don't add "...".
+Add parameters to the mac-assistant startup script, run it, and see what happens.
