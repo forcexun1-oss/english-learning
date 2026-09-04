@@ -13397,3 +13397,4 @@
 - 2026-09-04 16:14 — "不命中" is often translated as "miss" in caching contexts (e.g., cache miss).
 - 2026-09-04 16:16 — '截断' translates to 'truncated' in technical contexts. '搞清楚' is naturally expressed as 'figure out' or 'clarify'.
 - 2026-09-04 16:31 — Use "Can't you see...?" for "你看不到...吗"; "separate" is spelled s-e-p-a-r-a-t-e.
+- 2026-09-04 16:36 — Imperative sentences in English often drop the subject 'you'. '去看' can be translated as 'Go check' or 'Take a look' depending on context.
