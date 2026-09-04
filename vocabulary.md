@@ -13410,3 +13410,4 @@
 - 2026-09-04 17:07 — 渐进式披露 translates directly to the standard term 'progressive disclosure' (often used in UX/API design). No extra verb needed after 'should be' in English.
 - 2026-09-04 17:09 — "有别的啊" is naturally rendered as "there could be others" / "it could be something else" — English uses "there is/are" or "it could be" rather than saying something "has" others.
 - 2026-09-04 17:10 — Use 'such a long' or 'this much' for 这么多. In technical docs, 'description' often sounds more natural than 'introduction'.
+- 2026-09-04 17:33 — "总该" conveys strong expectation, so use "surely should" or "should definitely" rather than just "should".
