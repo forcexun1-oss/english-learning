@@ -13413,3 +13413,4 @@
 - 2026-09-04 17:33 — "总该" conveys strong expectation, so use "surely should" or "should definitely" rather than just "should".
 - 2026-09-04 18:49 — For '记录下来', use 'log it' rather than 'record it down' — 'record down' is not idiomatic; 'log' already implies recording.
 - 2026-09-04 18:52 — Use the imperative form ('Add') for direct instructions. 'Yourself' adds emphasis that the action is for you.
+- 2026-09-04 18:54 — Use "The monitor script" instead of "Monitor ... script" to avoid redundancy and make it read naturally.
