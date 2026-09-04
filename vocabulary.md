@@ -13346,3 +13346,4 @@
 - 2026-09-04 11:56 — "效果最好" translates better as "performs best" or "gives the best results" in a technical context, rather than a literal "effect best."
 - 2026-09-04 12:13 — '恢复' for a process usually means 'restart' or 'bring back up'; 'resume' is more for paused tasks.
 - 2026-09-04 12:30 — “不走代理” means 'without using a proxy' or 'no proxy'. In English instructions, use 'without a proxy' or 'bypass the proxy'.
+- 2026-09-04 13:03 — "好了吗" means asking if something is finished. "Is it done?" is the natural way to ask about a task's status.
