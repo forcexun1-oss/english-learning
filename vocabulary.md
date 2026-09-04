@@ -13392,3 +13392,4 @@
 - 2026-09-04 15:54 — Use "enough width" or "when the width allows" instead of "width is enough".
 - 2026-09-04 16:03 — '把' at the end should be '吧' — a sentence-final particle used to make a suggestion. Also, '跑起来' is colloquial; 'run it' is a natural way to say it.
 - 2026-09-04 16:05 — Use 'by default' as an adverb phrase; 'truncated' is the UI term for '截断'.
+- 2026-09-04 16:07 — '自己带上' can be expressed as 'adds itself' (subject + reflexive verb). '链路上' is often 'the chain' or 'the code path' in this context.
