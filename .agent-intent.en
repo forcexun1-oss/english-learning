@@ -1,1 +1,1 @@
-Why did it wrap to the next line?
+Still need the three characters "执行中" (executing) — when there's enough width, don't add "...".

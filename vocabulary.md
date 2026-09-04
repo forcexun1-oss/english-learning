@@ -13389,3 +13389,4 @@
 - 2026-09-04 15:41 — In Chinese, '吧' often seeks confirmation, but in English instructions it's better to state your opinion directly, e.g., 'episode_id is more reasonable.'
 - 2026-09-04 15:42 — "合理性" here is best translated as "reasonableness" or "sense". "更合理" can be "more sensible" or "more reasonable" — both work in this context.
 - 2026-09-04 15:50 — Use 'wrap' when an element moves to the next line because it doesn't fit; 'move down' is also fine but less specific.
+- 2026-09-04 15:54 — Use "enough width" or "when the width allows" instead of "width is enough".
