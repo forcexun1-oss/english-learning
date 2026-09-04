@@ -13400,3 +13400,4 @@
 - 2026-09-04 16:36 — Imperative sentences in English often drop the subject 'you'. '去看' can be translated as 'Go check' or 'Take a look' depending on context.
 - 2026-09-04 16:39 — '配' in Chinese is short for '配置' (configure). In English, use full verbs: 'configure' rather than abbreviations. Also, '现在配的什么' translates naturally to 'What's the current configuration?' rather than a literal word-for-word rendering.
 - 2026-09-04 16:41 — "匹配上" means 'match successfully' — in English you'd say 'match' or 'get a match'. Use 'why no match at all?' or 'why didn't it match anything?' for natural phrasing.
+- 2026-09-04 16:43 — In spoken Chinese, '掉' is sometimes used as a casual substitute for '调用' (to call/invoke). But in English technical contexts, use 'invoke' or 'call' instead of 'drop'.
