@@ -1,1 +1,1 @@
-No PushNotification needed. These are routine APC_TRACE store events (mode=exact, cache write succeeded) — not cache hit/miss results. Benign output; keep monitoring and only alert when an actual hit/miss line appears.
+The log shows APC_TRACE store succeeded in exact mode with 27,606 tokens across 40 layers, and prefill completed using 27,197 cached tokens, so most of the prompt hit the cache.
