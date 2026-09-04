@@ -13423,3 +13423,4 @@
 - 2026-09-04 22:41 — "照...的模板" means "following the ... template" — you could also say "based on the Honcho template."
 - 2026-09-05 00:34 — 「接一下」译为 integrate/connect it,「跑一遍」表示 run it once,比 run it again 更符合首次执行的意思。
 - 2026-09-05 00:36 — "也行吧" is often best rendered as "That works, but..." to show mild acceptance while shifting focus.
+- 2026-09-05 01:05 — Use "be imported" instead of "execute import" — English prefers passive voice here: data is imported, not importing itself.
