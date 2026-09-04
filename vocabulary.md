@@ -13391,3 +13391,4 @@
 - 2026-09-04 15:50 — Use 'wrap' when an element moves to the next line because it doesn't fit; 'move down' is also fine but less specific.
 - 2026-09-04 15:54 — Use "enough width" or "when the width allows" instead of "width is enough".
 - 2026-09-04 16:03 — '把' at the end should be '吧' — a sentence-final particle used to make a suggestion. Also, '跑起来' is colloquial; 'run it' is a natural way to say it.
+- 2026-09-04 16:05 — Use 'by default' as an adverb phrase; 'truncated' is the UI term for '截断'.
