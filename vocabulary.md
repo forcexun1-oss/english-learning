@@ -13339,3 +13339,4 @@
 - 2026-09-04 10:27 — "看看原因" is better as "look into the cause" — 'look into' conveys investigating, not just looking at something.
 - 2026-09-04 10:28 — For '派出去干了', use a clear causative verb like 'dispatched' or 'sent out' and add an explicit subject (e.g., 'I've') since English doesn't allow implied subjects like Chinese does.
 - 2026-09-04 11:49 — '咋样了' is casual; 'How's it going?' is a natural English equivalent. Note the contraction 'How's' = 'How is'.
+- 2026-09-04 11:51 — Use 'stuck' or 'frozen' instead of '卡死了' (literally 'dead from stuck'). 'Finally, otherwise' should be 'otherwise' alone.
