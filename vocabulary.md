@@ -13362,3 +13362,4 @@
 - 2026-09-04 13:59 — "顶到了" here means pushing/crowding out adjacent content, so use "push ... out of place" or "crowd out" rather than a literal translation.
 - 2026-09-04 13:59 — For '是什么鬼', a natural English equivalent is 'What's the deal with...?' — it keeps the annoyed/confused tone without being too slangy.
 - 2026-09-04 14:03 — “是什么情况”在这种场合通常译为 “What's going on?”或 “What does this mean?”，而不是直译为 “what situation is it?”。
+- 2026-09-04 14:10 — “刷数据” here means re-running the existing data through the new embedding pipeline, so “re-embed the data” is clearer than a literal “refresh.”
