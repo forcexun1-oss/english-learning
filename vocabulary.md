@@ -13394,3 +13394,4 @@
 - 2026-09-04 16:05 — Use 'by default' as an adverb phrase; 'truncated' is the UI term for '截断'.
 - 2026-09-04 16:07 — '自己带上' can be expressed as 'adds itself' (subject + reflexive verb). '链路上' is often 'the chain' or 'the code path' in this context.
 - 2026-09-04 16:08 — "链路上" translates to 'on the link' in this context (network or connection). Use 'on' for surfaces/links, 'in' for enclosed spaces.
+- 2026-09-04 16:14 — "不命中" is often translated as "miss" in caching contexts (e.g., cache miss).
