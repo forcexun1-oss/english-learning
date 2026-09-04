@@ -13366,3 +13366,4 @@
 - 2026-09-04 14:17 — Use "enable ... for" instead of "带上" to express activating a feature for something.
 - 2026-09-04 14:23 — '索引没对上' means 'the index doesn't match' or 'index mismatch'. Use 'containing' instead of '包含' for natural phrasing.
 - 2026-09-04 14:27 — '查一下' can be translated as 'check it out' or 'look into it'.
+- 2026-09-04 14:34 — Use 'provides' instead of 'has' when asking about what a tool offers/supplies — 'provides' is more natural for API or tool capabilities.
