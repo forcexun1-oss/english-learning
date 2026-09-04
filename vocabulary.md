@@ -13382,3 +13382,4 @@
 - 2026-09-04 15:08 — "固定下来" here means "finalize" or "pin down" — make it a fixed step in the workflow. Also, "矫正" is "correct" or "rectify," not "calibrate" in this context.
 - 2026-09-04 15:25 — For "跟...一样短", use the 'as...as' comparison: 'just as short as before' — not 'same short with before'.
 - 2026-09-04 15:29 — "prevent... from + doing" 是固定搭配，比 "avoid... to make" 更自然。技术语境下用 "making mistakes" 比 "making errors" 更口语化、更常用。
+- 2026-09-04 15:32 — Use 'What does ... do?' (with 'do') when asking about a function's purpose. '这个功能是什么' literally maps to 'What is this function?', but for code, 'What does it do?' is more natural.
