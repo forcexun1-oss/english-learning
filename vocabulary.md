@@ -13349,3 +13349,4 @@
 - 2026-09-04 13:03 — "好了吗" means asking if something is finished. "Is it done?" is the natural way to ask about a task's status.
 - 2026-09-04 13:18 — Use the present perfect "Is ... done?" to ask about a just-finished task; "How did it go?" is a natural casual follow-up for results.
 - 2026-09-04 13:25 — '可以' here means agreement; use 'OK' or 'Alright' rather than 'can'.
+- 2026-09-04 13:30 — In English, the verb typically comes before the object (e.g., 'commit them' not 'them commit').
