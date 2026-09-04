@@ -13364,3 +13364,4 @@
 - 2026-09-04 14:03 — “是什么情况”在这种场合通常译为 “What's going on?”或 “What does this mean?”，而不是直译为 “what situation is it?”。
 - 2026-09-04 14:10 — “刷数据” here means re-running the existing data through the new embedding pipeline, so “re-embed the data” is clearer than a literal “refresh.”
 - 2026-09-04 14:17 — Use "enable ... for" instead of "带上" to express activating a feature for something.
+- 2026-09-04 14:23 — '索引没对上' means 'the index doesn't match' or 'index mismatch'. Use 'containing' instead of '包含' for natural phrasing.
