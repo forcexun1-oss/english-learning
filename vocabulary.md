@@ -13379,3 +13379,4 @@
 - 2026-09-04 14:59 — 用 ". . . , right?" 来翻译语气词 "了吧"，表示向对方确认自己的理解是否正确，注意前面要用逗号和陈述句。
 - 2026-09-04 15:03 — '分错了' is better expressed as 'misclassification' or 'classification error' than a literal translation. Also, since the main verb is 'has', the correct tag question is 'doesn't it?' instead of 'right?' ( though 'right?' is acceptable in casual speech, 'doesn't it?' is more precise).
 - 2026-09-04 15:07 — For debugging, 'figure out' implies reasoning through the logic, while 'spot' or 'pinpoint' are sharper choices when referring to locating an exact error. 'Find out' also works but is a bit more general.
+- 2026-09-04 15:08 — "固定下来" here means "finalize" or "pin down" — make it a fixed step in the workflow. Also, "矫正" is "correct" or "rectify," not "calibrate" in this context.
