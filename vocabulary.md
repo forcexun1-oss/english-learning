@@ -13322,3 +13322,4 @@
 - 2026-09-04 00:27 — Use present perfect "hasn't changed" to describe the current state of something that was expected to be modified.
 - 2026-09-04 00:34 — Use 'make' or 'generate' instead of 'draw' (画) when referring to creating code, files, or demos.
 - 2026-09-04 08:57 — For processes, 'bring back up' or 'restart' sounds more natural than 'restore', which usually refers to data/files.
+- 2026-09-04 09:02 — Use 'currently' to indicate 'now' in a present continuous question, and keep 'it' as the subject since you're referring to a system/process.
