@@ -1,1 +1,1 @@
-Cache is working now — both prefills hit. cached_tokens went 27197 → 27606, and each prefill took about 1s. Keep the monitor running and watch for any misses.
+Did you finish the external memory for the Hermes memory plugin?
