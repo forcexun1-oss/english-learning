@@ -13418,3 +13418,4 @@
 - 2026-09-04 20:50 — 'Routine' means normal/expected — common in monitoring talk, e.g. 'this is routine output, no action needed.' 'Benign' means harmless.
 - 2026-09-04 20:55 — 'store' here means writing to the cache, not reading it — so a 'store' event is a cache write, not evidence of a hit/miss.
 - 2026-09-04 21:05 — Use "cached tokens" or "tokens served from cache" instead of saying "cache hit number".
+- 2026-09-04 21:06 — A 'hit' means cached tokens were reused; a 'miss' means they weren't. Say 'hit the cache' instead of '命中'.
