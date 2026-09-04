@@ -13332,3 +13332,4 @@
 - 2026-09-04 09:34 — '照着这个改' can be translated as 'change it according to this' or 'update the style based on this' — both are natural.
 - 2026-09-04 09:46 — Use 'hover state' to refer to the CSS :hover condition. '老是' is naturally expressed as 'keeps + -ing' to show a recurring problem.
 - 2026-09-04 09:50 — Use 'focused' instead of 'selected' for input fields; 'selected' usually refers to text or checkboxes, while 'focused' is the standard term for click/focus states.
+- 2026-09-04 09:57 — '有说' is a common spoken Chinese way of asking 'does it say/mention'. In English, use 'does it mention' or 'does it say'. Also, '默认用' translates to 'use as default' or 'default to'.
