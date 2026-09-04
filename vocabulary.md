@@ -13407,3 +13407,4 @@
 - 2026-09-04 16:58 — Use the imperative form 'Make the changes' for a direct instruction, and place 'first' before the verb to emphasize the order.
 - 2026-09-04 17:01 — "这么大" means "so large" — use "so large" or "so big" rather than a literal word-for-word translation. The comma can be a dash or period to separate the two clauses more naturally in English.
 - 2026-09-04 17:06 — Note: '这么多' can be 'this much' (quantity) or 'this detailed' (specifics). In this context of reviewing a prompt, 'detailed' sounds more natural in English.
+- 2026-09-04 17:07 — 渐进式披露 translates directly to the standard term 'progressive disclosure' (often used in UX/API design). No extra verb needed after 'should be' in English.
