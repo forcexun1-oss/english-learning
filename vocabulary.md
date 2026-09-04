@@ -13360,3 +13360,4 @@
 - 2026-09-04 13:55 — "那边" often translates as "on that side" / "over there" and typically goes at the end of the sentence: "You didn't configure it on that side."
 - 2026-09-04 13:57 — '追加' means 'append'. Use 'Does it append?' rather than a literal 'what append?'.
 - 2026-09-04 13:59 — "顶到了" here means pushing/crowding out adjacent content, so use "push ... out of place" or "crowd out" rather than a literal translation.
+- 2026-09-04 13:59 — For '是什么鬼', a natural English equivalent is 'What's the deal with...?' — it keeps the annoyed/confused tone without being too slangy.
