@@ -1,1 +1,1 @@
-Right, first build a Graphiti provider following the Honcho template. Change the group_id so it doesn't get mixed up with session.
+Also integrate it into mac-assistant, add it to the hermes memory setup, and run it once.
