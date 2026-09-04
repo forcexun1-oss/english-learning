@@ -13329,3 +13329,4 @@
 - 2026-09-04 09:20 — "深了" means "too dark" — "了" here emphasizes the state/degree (it has become too dark), so "still too dark" is the natural English equivalent.
 - 2026-09-04 09:23 — '搞' is colloquial; use 'end up' or 'turn out' for natural English.
 - 2026-09-04 09:25 — '回退' often translates to 'roll back' or 'revert' in version control contexts.
+- 2026-09-04 09:34 — '照着这个改' can be translated as 'change it according to this' or 'update the style based on this' — both are natural.
