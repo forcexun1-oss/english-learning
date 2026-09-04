@@ -1,1 +1,1 @@
-Should we append something like `_by_group_ids` to the `get_episodes` name?
+Then just make the input parameters and return values clear, no need to refer to another function—that's not what it should do.
