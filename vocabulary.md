@@ -13352,3 +13352,4 @@
 - 2026-09-04 13:30 — In English, the verb typically comes before the object (e.g., 'commit them' not 'them commit').
 - 2026-09-04 13:35 — “接”在这里表示绑定事件，用 hook up 或 attach 比较自然。
 - 2026-09-04 13:37 — Use 'not... — you're...' to contrast two actions. '上面' here means 'onto it' (the element), not 'above'.
+- 2026-09-04 13:39 — '有...吗' for existence is usually 'Does ... have ...?' or 'Is there ...?' — and '汇报' here is best as 'progress reporting/updates', not 'report'.
