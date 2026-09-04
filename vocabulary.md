@@ -13357,3 +13357,4 @@
 - 2026-09-04 13:48 — "都搞好" is a shortened casual question. In English, add a subject and auxiliary verb: "Is everything done?" Natural alternatives: "All done?" or "Everything sorted?"
 - 2026-09-04 13:49 — Use 'add X to Y startup script' instead of 'X的启动加到Y的启动脚本'.
 - 2026-09-04 13:52 — The '那边' ('over there/on their side') can be dropped in English when the app name already makes the context clear.
+- 2026-09-04 13:55 — "那边" often translates as "on that side" / "over there" and typically goes at the end of the sentence: "You didn't configure it on that side."
