@@ -13396,3 +13396,4 @@
 - 2026-09-04 16:08 — "链路上" translates to 'on the link' in this context (network or connection). Use 'on' for surfaces/links, 'in' for enclosed spaces.
 - 2026-09-04 16:14 — "不命中" is often translated as "miss" in caching contexts (e.g., cache miss).
 - 2026-09-04 16:16 — '截断' translates to 'truncated' in technical contexts. '搞清楚' is naturally expressed as 'figure out' or 'clarify'.
+- 2026-09-04 16:31 — Use "Can't you see...?" for "你看不到...吗"; "separate" is spelled s-e-p-a-r-a-t-e.
