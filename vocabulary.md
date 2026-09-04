@@ -13344,3 +13344,4 @@
 - 2026-09-04 11:54 — For “效果好吗”, native speakers usually ask 'Does this look/work well?' instead of literally saying 'Is the effect good?'
 - 2026-09-04 11:56 — "把" is a structural particle with no direct English equivalent—if you meant "吧" (a suggestion), just state the action directly, e.g., "Let's use BGE" or "Go with BGE."
 - 2026-09-04 11:56 — "效果最好" translates better as "performs best" or "gives the best results" in a technical context, rather than a literal "effect best."
+- 2026-09-04 12:13 — '恢复' for a process usually means 'restart' or 'bring back up'; 'resume' is more for paused tasks.
