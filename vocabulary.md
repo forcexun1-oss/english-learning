@@ -13377,3 +13377,4 @@
 - 2026-09-04 14:54 — Note: Chinese '对吧' (right?) is used for confirmation. In English, use 'right?' at the end of a statement. Also, '拼在一起' is better translated as 'concatenated' or 'stitched together' in a technical context.
 - 2026-09-04 14:55 — 用 "run in parallel" 或 "parallelize" 来表达“并行”，不要只说 "parallel"；它前面需要搭配动词。
 - 2026-09-04 14:59 — 用 ". . . , right?" 来翻译语气词 "了吧"，表示向对方确认自己的理解是否正确，注意前面要用逗号和陈述句。
+- 2026-09-04 15:03 — '分错了' is better expressed as 'misclassification' or 'classification error' than a literal translation. Also, since the main verb is 'has', the correct tag question is 'doesn't it?' instead of 'right?' ( though 'right?' is acceptable in casual speech, 'doesn't it?' is more precise).
