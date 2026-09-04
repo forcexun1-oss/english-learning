@@ -13365,3 +13365,4 @@
 - 2026-09-04 14:10 — “刷数据” here means re-running the existing data through the new embedding pipeline, so “re-embed the data” is clearer than a literal “refresh.”
 - 2026-09-04 14:17 — Use "enable ... for" instead of "带上" to express activating a feature for something.
 - 2026-09-04 14:23 — '索引没对上' means 'the index doesn't match' or 'index mismatch'. Use 'containing' instead of '包含' for natural phrasing.
+- 2026-09-04 14:27 — '查一下' can be translated as 'check it out' or 'look into it'.
