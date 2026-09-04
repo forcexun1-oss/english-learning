@@ -13371,3 +13371,4 @@
 - 2026-09-04 14:41 — Use "executed serially" or "run sequentially" for 串行; "in parallel" (并行) is the natural contrast.
 - 2026-09-04 14:43 — Use 'correspond to' or 'map to' for '对应到'; '对于' means 'regarding/for', which doesn't fit here.
 - 2026-09-04 14:46 — '别搞复杂了' is naturally 'don't overcomplicate it' — note that 'overcomplicate' already implies 'make too complicated'.
+- 2026-09-04 14:46 — “顶到” here means “push into something” in UI layout; use “push” + the object being displaced.
