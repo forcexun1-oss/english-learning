@@ -13334,3 +13334,4 @@
 - 2026-09-04 09:50 — Use 'focused' instead of 'selected' for input fields; 'selected' usually refers to text or checkboxes, while 'focused' is the standard term for click/focus states.
 - 2026-09-04 09:57 — '有说' is a common spoken Chinese way of asking 'does it say/mention'. In English, use 'does it mention' or 'does it say'. Also, '默认用' translates to 'use as default' or 'default to'.
 - 2026-09-04 10:00 — Use 'wrap' for line breaks (换行). 'Pay attention to layout' is common; you can also say 'focus on the layout'.
+- 2026-09-04 10:05 — Use 'clarify' as a verb meaning 'to make something clear'. Say 'clarify the requirements', not 'clear the requirements'.
