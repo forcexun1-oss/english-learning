@@ -13383,3 +13383,4 @@
 - 2026-09-04 15:25 — For "跟...一样短", use the 'as...as' comparison: 'just as short as before' — not 'same short with before'.
 - 2026-09-04 15:29 — "prevent... from + doing" 是固定搭配，比 "avoid... to make" 更自然。技术语境下用 "making mistakes" 比 "making errors" 更口语化、更常用。
 - 2026-09-04 15:32 — Use 'What does ... do?' (with 'do') when asking about a function's purpose. '这个功能是什么' literally maps to 'What is this function?', but for code, 'What does it do?' is more natural.
+- 2026-09-04 15:34 — “取得有问题”这种说法在英语里更自然的表达是 “misleading”（误导性的）；“说清楚”用 “explain clearly” 而非 “say clear”。
