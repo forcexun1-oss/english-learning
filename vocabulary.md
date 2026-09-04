@@ -13404,3 +13404,4 @@
 - 2026-09-04 16:44 — '掉' 应为 '调'（调用/call），不是 'drop'。
 - 2026-09-04 16:53 — Use 'stuff ... into' for a casual tone, or 'cram ... into' to emphasize filling up. '总不能' translates naturally as 'You can't just ... right?'
 - 2026-09-04 16:55 — Use 'should' for suggestions: 'how should this be changed?' is more natural than 'how to change?'
+- 2026-09-04 16:58 — Use the imperative form 'Make the changes' for a direct instruction, and place 'first' before the verb to emphasize the order.
