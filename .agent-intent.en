@@ -1,8 +1,1 @@
-Have you checked your parameter names for reasonableness? 
-
-```
-"args": "{\"episode_id\": \"074b75e6-9d06-4c4b-8352-52dd73607580\"}",
-"tool": "memory-graph_get_episode"
-```
-
-This one is indeed more sensible with `episode_id`, and you should also clearly describe what the input parameters are.
+Why did it wrap to the next line?
