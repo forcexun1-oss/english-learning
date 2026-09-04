@@ -1,1 +1,1 @@
-Have you hooked up the tool's onupdate event yet?
+You're not rendering the updated data—you're rendering the output onto it.

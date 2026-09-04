@@ -13351,3 +13351,4 @@
 - 2026-09-04 13:25 — '可以' here means agreement; use 'OK' or 'Alright' rather than 'can'.
 - 2026-09-04 13:30 — In English, the verb typically comes before the object (e.g., 'commit them' not 'them commit').
 - 2026-09-04 13:35 — “接”在这里表示绑定事件，用 hook up 或 attach 比较自然。
+- 2026-09-04 13:37 — Use 'not... — you're...' to contrast two actions. '上面' here means 'onto it' (the element), not 'above'.
