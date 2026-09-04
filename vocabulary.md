@@ -13425,3 +13425,4 @@
 - 2026-09-05 00:36 — "也行吧" is often best rendered as "That works, but..." to show mild acceptance while shifting focus.
 - 2026-09-05 01:05 — Use "be imported" instead of "execute import" — English prefers passive voice here: data is imported, not importing itself.
 - 2026-09-05 01:08 — Use 'it' for objects/processes (not 'he'), and add a question mark. '执行过程中' is naturally 'during execution'.
+- 2026-09-05 01:21 — In technical contexts, '补一下' often translates to 'backfill' when referring to filling in missing data from earlier records, rather than 'supplement'.
