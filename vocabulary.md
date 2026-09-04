@@ -13355,3 +13355,4 @@
 - 2026-09-04 13:39 — '有...吗' for existence is usually 'Does ... have ...?' or 'Is there ...?' — and '汇报' here is best as 'progress reporting/updates', not 'report'.
 - 2026-09-04 13:45 — '显式' is an adverb here, so pair it with a verb: 'explicitly show/display', not just 'explicitly'. Also, '方法名' is simply 'method name'.
 - 2026-09-04 13:48 — "都搞好" is a shortened casual question. In English, add a subject and auxiliary verb: "Is everything done?" Natural alternatives: "All done?" or "Everything sorted?"
+- 2026-09-04 13:49 — Use 'add X to Y startup script' instead of 'X的启动加到Y的启动脚本'.
