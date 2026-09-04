@@ -13405,3 +13405,4 @@
 - 2026-09-04 16:53 — Use 'stuff ... into' for a casual tone, or 'cram ... into' to emphasize filling up. '总不能' translates naturally as 'You can't just ... right?'
 - 2026-09-04 16:55 — Use 'should' for suggestions: 'how should this be changed?' is more natural than 'how to change?'
 - 2026-09-04 16:58 — Use the imperative form 'Make the changes' for a direct instruction, and place 'first' before the verb to emphasize the order.
+- 2026-09-04 17:01 — "这么大" means "so large" — use "so large" or "so big" rather than a literal word-for-word translation. The comma can be a dash or period to separate the two clauses more naturally in English.
