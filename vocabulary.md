@@ -13325,3 +13325,4 @@
 - 2026-09-04 09:02 — Use 'currently' to indicate 'now' in a present continuous question, and keep 'it' as the subject since you're referring to a system/process.
 - 2026-09-04 09:02 — '世界' means 'world' — you likely meant '时间' (time). Also, '记录的时间' is better as 'recording time' in English.
 - 2026-09-04 09:14 — '错行' means lines breaking incorrectly; use 'breaking lines' or 'misaligned rows' in this context.
+- 2026-09-04 09:19 — When describing design quality, '高级' often translates to 'premium' or 'sophisticated'. Note word order: 'still doesn't look' (adverb before auxiliary verb).
