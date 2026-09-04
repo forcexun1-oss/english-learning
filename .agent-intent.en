@@ -1,1 +1,1 @@
-No push notification needed. The APC_TRACE store line (mode=exact, ok=True) is routine, benign output, not a cache hit/miss event the user would act on right now.
+No PushNotification needed. These are routine APC_TRACE store events (mode=exact, cache write succeeded) — not cache hit/miss results. Benign output; keep monitoring and only alert when an actual hit/miss line appears.
