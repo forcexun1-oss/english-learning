@@ -13372,3 +13372,4 @@
 - 2026-09-04 14:43 — Use 'correspond to' or 'map to' for '对应到'; '对于' means 'regarding/for', which doesn't fit here.
 - 2026-09-04 14:46 — '别搞复杂了' is naturally 'don't overcomplicate it' — note that 'overcomplicate' already implies 'make too complicated'.
 - 2026-09-04 14:46 — “顶到” here means “push into something” in UI layout; use “push” + the object being displaced.
+- 2026-09-04 14:47 — 「我问题」is incorrect because 问题 is a noun. Use 「我有个问题」→ 'I have a question' or the verb 问 → 'I want to ask about...'.
