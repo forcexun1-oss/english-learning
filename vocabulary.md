@@ -13458,3 +13458,4 @@
 - 2026-09-06 00:38 — Use "you don't need to wait" or "no need to wait" instead of "不需要等我" literally as 'not need to wait for me' — both are fine, but keeping the subject makes it sound more natural in English.
 - 2026-09-06 01:07 — Use "wait for" — in English, the verb is "wait for something," so say "What are you waiting for?" (not "What are you waiting?").
 - 2026-09-06 01:11 — Add 'for' at the end: 'What are you waiting for?' — in English, 'wait' takes the preposition 'for' when asking about the object of waiting.
+- 2026-09-06 01:14 — 写往 is likely a typo for 写完 — '完' means 'finish', so the intended meaning is 'Have you finished writing them all?'
