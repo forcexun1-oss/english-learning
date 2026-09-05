@@ -13462,3 +13462,4 @@
 - 2026-09-06 01:52 — Use 'check why' to ask for a reason; 'is empty' describes the state.
 - 2026-09-06 01:56 — Use 'check why' followed by normal statement word order: 'Check why Store A is empty' (not 'Check why is Store A empty').
 - 2026-09-06 02:03 — ‘查’ alone sounds abrupt in English; add an object like ‘it’ — ‘Check on it’ or ‘Look into it.’
+- 2026-09-06 02:12 — In English, the verb needs a preposition: 'save to disk' — unlike Chinese, you can't drop the 'to'.
