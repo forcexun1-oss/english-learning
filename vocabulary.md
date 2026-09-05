@@ -13461,3 +13461,4 @@
 - 2026-09-06 01:14 — 写往 is likely a typo for 写完 — '完' means 'finish', so the intended meaning is 'Have you finished writing them all?'
 - 2026-09-06 01:52 — Use 'check why' to ask for a reason; 'is empty' describes the state.
 - 2026-09-06 01:56 — Use 'check why' followed by normal statement word order: 'Check why Store A is empty' (not 'Check why is Store A empty').
+- 2026-09-06 02:03 — ‘查’ alone sounds abrupt in English; add an object like ‘it’ — ‘Check on it’ or ‘Look into it.’
