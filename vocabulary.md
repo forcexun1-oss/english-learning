@@ -13460,3 +13460,4 @@
 - 2026-09-06 01:11 — Add 'for' at the end: 'What are you waiting for?' — in English, 'wait' takes the preposition 'for' when asking about the object of waiting.
 - 2026-09-06 01:14 — 写往 is likely a typo for 写完 — '完' means 'finish', so the intended meaning is 'Have you finished writing them all?'
 - 2026-09-06 01:52 — Use 'check why' to ask for a reason; 'is empty' describes the state.
+- 2026-09-06 01:56 — Use 'check why' followed by normal statement word order: 'Check why Store A is empty' (not 'Check why is Store A empty').
