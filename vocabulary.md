@@ -13427,3 +13427,4 @@
 - 2026-09-05 01:08 — Use 'it' for objects/processes (not 'he'), and add a question mark. '执行过程中' is naturally 'during execution'.
 - 2026-09-05 01:21 — In technical contexts, '补一下' often translates to 'backfill' when referring to filling in missing data from earlier records, rather than 'supplement'.
 - 2026-09-05 11:34 — Use 'requests' (plural) in this context since 'no' often goes with plural countable nouns. Also, 'what is it running?' is a natural way to ask about unexpected behavior.
+- 2026-09-05 16:59 — Use 'include' directly with the command; put the command in backticks to mark it as code.
