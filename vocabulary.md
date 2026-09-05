@@ -13439,3 +13439,4 @@
 - 2026-09-05 19:04 — 啊 adds a casual affirmative tone; use 'that works' or 'sounds good' to sound natural.
 - 2026-09-05 19:17 — Use "handle all of it" to mean 让codex去干; "let Codex do it" also works but "handle" sounds more natural for a task.
 - 2026-09-05 19:18 — In git contexts, use 'changes' instead of 'code', and 'if so' to express the conditional naturally.
+- 2026-09-05 19:27 — In Chinese, '发' is often shorthand for '发送' (send) or '发布' (publish). In this context, it's a command to proceed.
