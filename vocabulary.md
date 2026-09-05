@@ -13447,3 +13447,4 @@
 - 2026-09-05 19:48 — “就行了”这里可以翻译为 “just use” 或 “is enough”；句首加上 “For” 会更自然：For simple tasks, just use Luna.
 - 2026-09-05 20:31 — In Chinese, '什么情况' often means 'What's going on?' or 'What's the situation?' depending on context.
 - 2026-09-05 20:45 — "什么情况" is more naturally translated as "What's going on?" or "What's the situation?" depending on context.
+- 2026-09-05 21:00 — "做什么" means "what to do" — in English we usually add "should" to make it a polite question about the next step.
