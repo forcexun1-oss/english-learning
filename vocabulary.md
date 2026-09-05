@@ -13455,3 +13455,4 @@
 - 2026-09-05 23:53 — Use 'continue executing' (or 'continue with') for an ongoing action; 'continue to execute' also works but is slightly more formal.
 - 2026-09-06 00:08 — 在跑 means 'running/in progress'. Use 'Is ... running?' to ask about a task's status.
 - 2026-09-06 00:22 — "继续执行" is naturally rendered as "Continue executing" or "Proceed with" before a task name.
+- 2026-09-06 00:38 — Use "you don't need to wait" or "no need to wait" instead of "不需要等我" literally as 'not need to wait for me' — both are fine, but keeping the subject makes it sound more natural in English.
