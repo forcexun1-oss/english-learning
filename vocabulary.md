@@ -13449,3 +13449,4 @@
 - 2026-09-05 20:45 — "什么情况" is more naturally translated as "What's going on?" or "What's the situation?" depending on context.
 - 2026-09-05 21:00 — "做什么" means "what to do" — in English we usually add "should" to make it a polite question about the next step.
 - 2026-09-05 21:44 — "Continue" is the imperative form, used to tell someone to resume an action. No article or subject needed.
+- 2026-09-05 22:54 — Use 'yourself' to emphasize doing something alone. 'By yourself' is also possible but more formal.
