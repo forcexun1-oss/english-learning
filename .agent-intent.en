@@ -1,1 +1,1 @@
-The previously enabled one didn't work. We need to examine it carefully—it keeps missing the cache. I suggest using checkpoint; the previous approach was too hard to debug.
+System and tools are fixed — they are parallel to session and also need to be persisted.
