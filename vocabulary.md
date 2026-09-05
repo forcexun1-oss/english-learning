@@ -13429,3 +13429,4 @@
 - 2026-09-05 11:34 — Use 'requests' (plural) in this context since 'no' often goes with plural countable nouns. Also, 'what is it running?' is a natural way to ask about unexpected behavior.
 - 2026-09-05 16:59 — Use 'include' directly with the command; put the command in backticks to mark it as code.
 - 2026-09-05 17:00 — "链路" translates well to "pipeline" in software contexts, and "搞好" = "get something working/fixed up".
+- 2026-09-05 17:20 — Use the verb 'analyzing' (not 'analysis') after 'still' to describe an ongoing action.
