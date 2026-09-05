@@ -13438,3 +13438,4 @@
 - 2026-09-05 18:55 — '继续吧' can be translated as 'Continue' or 'Go ahead.' 'Go ahead' is more conversational.
 - 2026-09-05 19:04 — 啊 adds a casual affirmative tone; use 'that works' or 'sounds good' to sound natural.
 - 2026-09-05 19:17 — Use "handle all of it" to mean 让codex去干; "let Codex do it" also works but "handle" sounds more natural for a task.
+- 2026-09-05 19:18 — In git contexts, use 'changes' instead of 'code', and 'if so' to express the conditional naturally.
