@@ -13431,3 +13431,4 @@
 - 2026-09-05 17:00 — "链路" translates well to "pipeline" in software contexts, and "搞好" = "get something working/fixed up".
 - 2026-09-05 17:20 — Use the verb 'analyzing' (not 'analysis') after 'still' to describe an ongoing action.
 - 2026-09-05 18:14 — 「开了的」can mean 'opened' or 'enabled' depending on context; here 'previously enabled' is clearer. '没用' is fine as 'useless', but if you mean it didn't function, say 'isn't working' instead.
+- 2026-09-05 18:15 — “动不动就” is colloquial for “frequently/always” – in technical contexts, use “keeps missing” or “frequently misses.” Also, “太难查问题” → “too hard to debug” is more natural.
