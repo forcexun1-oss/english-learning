@@ -13452,3 +13452,4 @@
 - 2026-09-05 22:54 — Use 'yourself' to emphasize doing something alone. 'By yourself' is also possible but more formal.
 - 2026-09-05 23:26 — Use "continue executing" or "continue with" for 继续执行. Also capitalize "Plan" as it's a proper name.
 - 2026-09-05 23:41 — Use past tense to report completed actions (e.g., 'completed', 'finished').
+- 2026-09-05 23:53 — Use 'continue executing' (or 'continue with') for an ongoing action; 'continue to execute' also works but is slightly more formal.
