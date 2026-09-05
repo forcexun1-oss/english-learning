@@ -13444,3 +13444,4 @@
 - 2026-09-05 19:33 — '重要的的' is a typo — use just '重要的'. Also consider clarifying who 'them' refers to, e.g., '...handing them off to Codex and DSH.'
 - 2026-09-05 19:43 — "正式的数据" in dev contexts usually means "production data" (real data), not "formal data".
 - 2026-09-05 19:45 — Capitalize proper nouns like 'Codex' in English. Use 'currently using' for a more formal tone: 'What model is Codex currently using?'
+- 2026-09-05 19:48 — “就行了”这里可以翻译为 “just use” 或 “is enough”；句首加上 “For” 会更自然：For simple tasks, just use Luna.
