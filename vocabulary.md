@@ -13430,3 +13430,4 @@
 - 2026-09-05 16:59 — Use 'include' directly with the command; put the command in backticks to mark it as code.
 - 2026-09-05 17:00 — "链路" translates well to "pipeline" in software contexts, and "搞好" = "get something working/fixed up".
 - 2026-09-05 17:20 — Use the verb 'analyzing' (not 'analysis') after 'still' to describe an ongoing action.
+- 2026-09-05 18:14 — 「开了的」can mean 'opened' or 'enabled' depending on context; here 'previously enabled' is clearer. '没用' is fine as 'useless', but if you mean it didn't function, say 'isn't working' instead.
