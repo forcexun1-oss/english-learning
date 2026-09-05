@@ -13453,3 +13453,4 @@
 - 2026-09-05 23:26 — Use "continue executing" or "continue with" for 继续执行. Also capitalize "Plan" as it's a proper name.
 - 2026-09-05 23:41 — Use past tense to report completed actions (e.g., 'completed', 'finished').
 - 2026-09-05 23:53 — Use 'continue executing' (or 'continue with') for an ongoing action; 'continue to execute' also works but is slightly more formal.
+- 2026-09-06 00:08 — 在跑 means 'running/in progress'. Use 'Is ... running?' to ask about a task's status.
