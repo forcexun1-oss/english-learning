@@ -13434,3 +13434,4 @@
 - 2026-09-05 18:15 — “动不动就” is colloquial for “frequently/always” – in technical contexts, use “keeps missing” or “frequently misses.” Also, “太难查问题” → “too hard to debug” is more natural.
 - 2026-09-05 18:24 — Use 'need to be persisted' (passive) rather than '也要持久化的'. 'Parallel to' is clearer than '并列的方案'.
 - 2026-09-05 18:46 — 「写死」translates to 'hardcode' (verb). Say 'don't hardcode it' or 'make it configurable instead of hardcoding'.
+- 2026-09-05 18:49 — Use plural 'checkpoints' when talking about the concept in general, and phrase it as 'Is there a standard for...' rather than literally translating the word order.
