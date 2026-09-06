@@ -13587,3 +13587,4 @@
 - 2026-09-06 22:24 — In English, 'give' needs both an object and a recipient: 'give it to him' — not just 'give him'.
 - 2026-09-06 23:25 — In English, 'give' needs an object: say 'give it to him' or 'give him something'.
 - 2026-09-06 23:37 — '要' alone is a fragment. In English, you need a full structure — e.g., 'I need to...' or 'I want...' — to make a complete sentence.
+- 2026-09-06 23:58 — "看下" in casual English is often "see if" or "check if"; "好了" can mean "fixed" or "working".
