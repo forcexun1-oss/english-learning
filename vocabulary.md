@@ -13505,6 +13505,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-06 18:39 — 啊 adds a tone of exasperation; 'even' conveys the 也 nuance and an exclamation matches the mood.
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
@@ -13559,3 +13560,6 @@
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
 - 2026-09-06 20:31 — This is a rhetorical question, so use 'won't it...' to match the tone of 岂不是. Also, '中途' is more naturally translated as 'halfway through' in this context.
+=======
+- 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
+>>>>>>> Stashed changes
