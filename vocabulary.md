@@ -13491,3 +13491,4 @@
 - 2026-09-06 17:42 — "关不掉" means 'couldn't turn it off' — use past tense to describe the failed attempt.
 - 2026-09-06 17:45 — Use "exactly" to convey the emphasis of “到底” (as in "how exactly..."), and "get triggered" sounds more natural than "is triggered" in casual technical discussion.
 - 2026-09-06 17:47 — ‘重来’ should be ‘从来’ — meaning 'ever/never'.
+- 2026-09-06 17:55 — Use 'Command + K' (capital C) for the keyboard key name, and 'trigger' is a transitive verb here so it needs an object like 'it'.
