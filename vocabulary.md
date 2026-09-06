@@ -13528,3 +13528,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 19:03 — In Chinese the subject is implied, but English needs an explicit subject or passive structure. Use 'the summary' as the subject.
