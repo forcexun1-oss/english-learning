@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["应该支持传response_format是json吧"]
+=======
+["现在command + k老的会话应该是会关闭把,我记得是有个接口的,而且会触发总结看看是这样吗", "那在clear里面出发长期记忆的入库,这可以把", "那我中途重启,岂不是,写不到盘上了?", "mlx-vlm当我command+k出发了请求,看看现在是什么请求", "看最后的日志", "最后的2个请求,之前就出发了,最后2个推理是什么去看", "<task-notification>\n<task-id>bysf5a9v9</task-id>\n<tool-use-id>toolu_012P7wKCK8X8xWUZGm5KvKK9</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-mac-assistant/366e52f2-1e00-48c9-91a2-fff9309eef4b/tasks/bysf5a9v9.output</output-file>\n<status>completed</status>\n<summary>Background command \"python3 -c \"import graphiti_core, os; print(os.path.dirname(graphiti_core.__file__))\" 2&gt;/dev/null\npip3 show graphiti-core 2&gt;/dev/null | head -5\nfind / -iname \"*.py\" -path \"*graphiti*extract_nodes*\" 2&gt;/dev/null | head -5\nfind / -iname \"*.py\" 2&gt;/dev/null | xargs grep -l \"entity attribute extraction specialist\" 2&gt;/dev/null | head -5 &amp;\nBGPID=$!\nsleep 15\nkill $BGPID 2&gt;/dev/null\nwait 2&gt;/dev/null\necho done\" completed (exit code 0)</summary>\n</task-notification>"]
+>>>>>>> Stashed changes
