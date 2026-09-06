@@ -13539,3 +13539,4 @@
 - 2026-09-06 19:56 — '没轮' is a typo for '每轮' (every turn), and '把' should be '吧' (a particle used when seeking confirmation).
 - 2026-09-06 19:58 — Use 'trigger method' instead of 'trigger way' for technical contexts.
 - 2026-09-06 20:03 — Use 'a turn of conversation' to refer to a single exchange (one user message + one assistant reply).
+- 2026-09-06 20:09 — "出发" should be "触发" (trigger). In English, use "trigger" for initiating an action.
