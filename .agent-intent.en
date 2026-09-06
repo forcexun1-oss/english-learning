@@ -1,1 +1,1 @@
-Damn, check this service's runtime logs to see what inference requests were executed. If they aren't logged, add that logging.
+Is the inference turned off?
