@@ -13533,3 +13533,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 19:06 — Use "tweak" or "adjust" instead of a literal translation of 调一下; also note that "triggered" works well here for 触发了.

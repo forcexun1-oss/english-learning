@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Has the summary been triggered?
-=======
-Restart.
->>>>>>> Stashed changes
+The summary was triggered. Tweak it and see why entities weren't extracted. Do we need to add "thinking" for it to work? Can the thinking depth be set lower? Or how should we adjust it? The data is already there — go adjust it yourself.
