@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then trigger the long-term memory ingestion in clear — that should work.
-=======
-Restart.
->>>>>>> Stashed changes
+Then if I restart halfway through, won't it mean it won't get written to disk?

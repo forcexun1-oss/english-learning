@@ -13558,3 +13558,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 20:31 — This is a rhetorical question, so use 'won't it...' to match the tone of 岂不是. Also, '中途' is more naturally translated as 'halfway through' in this context.
