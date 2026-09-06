@@ -13464,3 +13464,4 @@
 - 2026-09-06 02:03 — ‘查’ alone sounds abrupt in English; add an object like ‘it’ — ‘Check on it’ or ‘Look into it.’
 - 2026-09-06 02:12 — In English, the verb needs a preposition: 'save to disk' — unlike Chinese, you can't drop the 'to'.
 - 2026-09-06 02:15 — "和" is simply "and". When listing numbered items, you can just say "1 and 2" without adding "number".
+- 2026-09-06 12:14 — Use "failed with exit code 1" or "exited with code 1" — for a command that didn't finish successfully, we say it failed and name the exit code directly.
