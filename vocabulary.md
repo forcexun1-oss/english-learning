@@ -13474,3 +13474,4 @@
 - 2026-09-06 15:08 — Use the present perfect ('I haven't modified...') to describe unfinished past actions that still affect the present, instead of a literal 'currently didn't modify'.
 - 2026-09-06 16:13 — Use 'Should I...?' or 'Do you want me to...?' to ask whether the other person wants you to do something.
 - 2026-09-06 16:13 — “你说啥呢” is very colloquial; in formal writing, use “What are you talking about?” instead.
+- 2026-09-06 16:16 — In English, '不用管' is often best translated as 'don't worry about' or 'don't bother with' rather than a literal 'no need to manage'.
