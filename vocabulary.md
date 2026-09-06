@@ -13578,3 +13578,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 20:49 — For '得出...结论', use 'draw/reach a conclusion'. For '让人修了', the causative 'have someone fix' sounds natural.
