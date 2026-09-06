@@ -13573,3 +13573,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 20:36 — Use 'triggered' instead of '出发' (which means 'depart'), and use passive voice: 'were triggered'.
