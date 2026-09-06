@@ -13500,3 +13500,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 18:45 — "命中缓存" can be expressed as "hit the cache" (verb phrase) — you don't need to say "cache was hit". Keep it active and concise.
