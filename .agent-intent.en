@@ -1,1 +1,1 @@
-Is the inference turned off?
+Have you turned off reasoning/thinking for requests made by graphiti-mcp-server? The previous parameters might have been problematic, so it couldn't be turned off. Only using the OpenAI protocol can disable thinking. Also, regarding max tokens—if it's not long enough, change it; don't restrict it.
