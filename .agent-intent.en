@@ -1,1 +1,1 @@
-Write a handoff for what hasn't been done yet under the entire plan.
+Check the unfinished tasks in docs/superpowers/plans/2026-09-06-kv-reuse-handoff.md. If a task is very simple, let dsh handle it. For more complex ones, have a subagent do it. Give some thought to the model choice: prefer Luna, but if you feel it can't handle it, use Terra.
