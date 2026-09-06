@@ -13480,3 +13480,4 @@
 - 2026-09-06 16:39 — In casual spoken English, '总结呢' can be shortened to just 'Summary?' instead of 'What about the summary?' — it's more natural and direct.
 - 2026-09-06 16:40 — "Triggered" is the past participle; use "did ... trigger" for past simple questions.
 - 2026-09-06 16:41 — Use 'regardless of' instead of 'no matter' to sound more natural in formal technical contexts.
+- 2026-09-06 16:45 — 在这里“他”应译为 'it'，因为指的是程序/模型；"缓存命中" 常用名词形式 'cache hit'，也可以用动词短语 'hit the cache'。
