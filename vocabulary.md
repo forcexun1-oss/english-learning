@@ -13548,3 +13548,4 @@
 - 2026-09-06 20:19 — 「别光看」means 'don't just look at' — 光 (only) is easy to mistype as 关. 「追链路」= trace/follow the call chain.
 - 2026-09-06 20:23 — ‘就会话’ 可能是 ‘旧会话’ 或 ‘当前会话’ 的笔误；这里用 ‘the current conversation’ 更自然。
 - 2026-09-06 20:24 — '别动了' here means 'stop making changes' in a coding context, not literally 'don't move'.
+- 2026-09-06 20:25 — Use 'Command+K' (capitalized, hyphen) for the keyboard shortcut, and 'API' instead of 'interface' for a programmatic interface.
