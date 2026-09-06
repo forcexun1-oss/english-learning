@@ -13536,3 +13536,4 @@
 - 2026-09-06 19:06 — Use "tweak" or "adjust" instead of a literal translation of 调一下; also note that "triggered" works well here for 触发了.
 - 2026-09-06 19:06 — "入库" means 'being stored/ingested into the database' — use 'ingested into the database' or 'stored in the database' for clarity.
 - 2026-09-06 19:54 — Use "or can I just..." to connect the two options naturally in a question. "直接重试" translates well as "just retry directly" or "simply retry."
+- 2026-09-06 19:56 — '没轮' is a typo for '每轮' (every turn), and '把' should be '吧' (a particle used when seeking confirmation).

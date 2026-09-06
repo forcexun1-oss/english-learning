@@ -1,1 +1,1 @@
-Do I need to restart any services, or can I just retry directly?
+The way this external memory is written seems problematic. Does it trigger on every turn? If so, wouldn't the previous turn's content be recomputed as well?
