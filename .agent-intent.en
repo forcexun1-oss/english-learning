@@ -1,1 +1,1 @@
-Why is mlx still using the GPU? What is it running?
+What exactly was running for so long just now? Do we have logs for it? If not, add logging.
