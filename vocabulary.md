@@ -13508,6 +13508,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-06 18:39 — 啊 adds a tone of exasperation; 'even' conveys the 也 nuance and an exclamation matches the mood.
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
@@ -13574,3 +13575,6 @@
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
 - 2026-09-06 20:36 — Use 'triggered' instead of '出发' (which means 'depart'), and use passive voice: 'were triggered'.
+=======
+- 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
+>>>>>>> Stashed changes
