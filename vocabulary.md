@@ -13523,3 +13523,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 19:00 — Use 'should be done' for passive certainty, or 'we should do it' for active. '了' here emphasizes determination, not past tense.
