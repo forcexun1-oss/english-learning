@@ -13586,3 +13586,4 @@
 - 2026-09-06 22:19 — In this context, '后面' is better translated as 'from now on' or 'going forward' rather than 'later' to imply a change in assignment.
 - 2026-09-06 22:24 — In English, 'give' needs both an object and a recipient: 'give it to him' — not just 'give him'.
 - 2026-09-06 23:25 — In English, 'give' needs an object: say 'give it to him' or 'give him something'.
+- 2026-09-06 23:37 — '要' alone is a fragment. In English, you need a full structure — e.g., 'I need to...' or 'I want...' — to make a complete sentence.
