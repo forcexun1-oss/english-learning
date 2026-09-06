@@ -13483,3 +13483,4 @@
 - 2026-09-06 16:45 — 在这里“他”应译为 'it'，因为指的是程序/模型；"缓存命中" 常用名词形式 'cache hit'，也可以用动词短语 'hit the cache'。
 - 2026-09-06 16:47 — "那...呢" is a common conversational pattern meaning "What about...?" or "And...?", used to shift focus to a new topic.
 - 2026-09-06 16:48 — "有写吗" means 'did it write?' — use 'did it write' instead of a literal 'have write'.
+- 2026-09-06 16:51 — In English, questions usually start with a question word like 'How' or an auxiliary verb like 'Do', rather than just stating the verb directly.
