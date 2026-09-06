@@ -13472,3 +13472,4 @@
 - 2026-09-06 13:52 — Use 'recognize' instead of '认' in this context. 'Not recognize' means the system doesn't understand or accept a parameter.
 - 2026-09-06 15:00 — After a negative question like 'doesn't X?', use 'If so' to mean 'if that is the case'. 'If not' would be ambiguous here.
 - 2026-09-06 15:08 — Use the present perfect ('I haven't modified...') to describe unfinished past actions that still affect the present, instead of a literal 'currently didn't modify'.
+- 2026-09-06 16:13 — Use 'Should I...?' or 'Do you want me to...?' to ask whether the other person wants you to do something.
