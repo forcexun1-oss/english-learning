@@ -13582,3 +13582,4 @@
 - 2026-09-06 20:52 — For '交个...去做' (give to someone to do), use 'assign to' rather than a literal 'give to' — it sounds more natural for delegating tasks.
 - 2026-09-06 21:01 — "一路传下去" translates to "pass along all the way" or "propagate through."
 - 2026-09-06 21:21 — Use 'pass X as Y' (传X为Y) instead of 'pass X is Y' — 'as' introduces the value being passed.
+- 2026-09-06 21:54 — “啥” is a colloquial version of “什么” (what). In formal English, 'What's happening?' is also fine.
