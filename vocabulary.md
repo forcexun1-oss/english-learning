@@ -13563,3 +13563,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 20:34 — Use 'trigger' instead of '出发' (which means 'set off'); also 'press Command+K' or 'trigger with Command+K' is more natural.

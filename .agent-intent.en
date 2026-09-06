@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Then if I restart halfway through, won't it mean it won't get written to disk?
-=======
-Restart.
->>>>>>> Stashed changes
+For mlx-vlm, when I trigger a request with Command+K, let's see what the current request looks like.
