@@ -13497,6 +13497,7 @@
 - 2026-09-06 18:28 — In this context, '跑' refers to running a process/task. Use 'What's currently running?' or 'What are we running?'—'running' is natural English for active processes.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-06 18:39 — 啊 adds a tone of exasperation; 'even' conveys the 也 nuance and an exclamation matches the mood.
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
@@ -13506,3 +13507,6 @@
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
 - 2026-09-06 18:48 — '看看' is casual; 'check' is more natural in technical instructions. '在跑' is informal for 'running'.
+=======
+- 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
+>>>>>>> Stashed changes
