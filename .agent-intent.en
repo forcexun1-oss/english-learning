@@ -1,1 +1,1 @@
-Does mlx-vlm not recognize the `thinking` disable parameter in requests? If not, we need to modify the source code to make it support this.
+Does mlx-vlm not recognize the parameter for disabling thinking in the request? If so, modify the source code to support it.

@@ -13470,3 +13470,4 @@
 - 2026-09-06 13:29 — "Handoff" here is used as a noun (a document summarizing status). You can also say "a handoff document" for clarity.
 - 2026-09-06 13:50 — "动手" here means "handle/take care of," not literally "move hands." Also "优先" often translates to "prefer" rather than "priority" in instructions.
 - 2026-09-06 13:52 — Use 'recognize' instead of '认' in this context. 'Not recognize' means the system doesn't understand or accept a parameter.
+- 2026-09-06 15:00 — After a negative question like 'doesn't X?', use 'If so' to mean 'if that is the case'. 'If not' would be ambiguous here.
