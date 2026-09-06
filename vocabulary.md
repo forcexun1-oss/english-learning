@@ -13545,3 +13545,4 @@
 - 2026-09-06 20:17 — "触发了" is passive in Chinese; in English, use the active "Triggered" or "It triggered" for clarity.
 - 2026-09-06 20:18 — Use "what it's running on" to express what task/input it is processing. In Chinese you omitted the object, but English needs 'on' or 'what' + clause here.
 - 2026-09-06 20:19 — '问你' is more natural as 'Just asking' or 'I'm asking'; '跑的什么' means 'what did it run'.
+- 2026-09-06 20:19 — 「别光看」means 'don't just look at' — 光 (only) is easy to mistype as 关. 「追链路」= trace/follow the call chain.

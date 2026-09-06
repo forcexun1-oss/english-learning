@@ -1,1 +1,1 @@
-Just asking, what did the last request run?
+Also, don't just check whether it's in the database — check the logs and trace the call chain.
