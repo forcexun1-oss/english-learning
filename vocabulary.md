@@ -13484,3 +13484,4 @@
 - 2026-09-06 16:47 — "那...呢" is a common conversational pattern meaning "What about...?" or "And...?", used to shift focus to a new topic.
 - 2026-09-06 16:48 — "有写吗" means 'did it write?' — use 'did it write' instead of a literal 'have write'.
 - 2026-09-06 16:51 — In English, questions usually start with a question word like 'How' or an auxiliary verb like 'Do', rather than just stating the verb directly.
+- 2026-09-06 17:06 — “怎么还有”表示“为什么仍然”，用“why is…still”更自然；“在跑什么”译为“what is it running?”即可。
