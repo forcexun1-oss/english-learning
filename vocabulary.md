@@ -13493,3 +13493,4 @@
 - 2026-09-06 17:47 — ‘重来’ should be ‘从来’ — meaning 'ever/never'.
 - 2026-09-06 17:55 — Use 'Command + K' (capital C) for the keyboard key name, and 'trigger' is a transitive verb here so it needs an object like 'it'.
 - 2026-09-06 18:26 — "正在跑" is colloquial; use "currently running" for clarity in technical contexts.
+- 2026-09-06 18:26 — Use 'Has ... been triggered?' for a passive question about an event; '总结' here likely means 'summarization' (the process).
