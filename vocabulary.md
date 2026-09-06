@@ -13568,3 +13568,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 20:36 — '最后的' here likely means 'latest/most recent' rather than 'final' — use 'latest' for logs.
