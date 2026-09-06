@@ -13465,3 +13465,4 @@
 - 2026-09-06 02:12 — In English, the verb needs a preposition: 'save to disk' — unlike Chinese, you can't drop the 'to'.
 - 2026-09-06 02:15 — "和" is simply "and". When listing numbered items, you can just say "1 and 2" without adding "number".
 - 2026-09-06 12:14 — Use "failed with exit code 1" or "exited with code 1" — for a command that didn't finish successfully, we say it failed and name the exit code directly.
+- 2026-09-06 13:15 — Use 'Change:' or 'Set:' as a concise instruction to modify a config value.
