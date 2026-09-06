@@ -1,1 +1,1 @@
-Check the unfinished tasks in docs/superpowers/plans/2026-09-06-kv-reuse-handoff.md. If a task is very simple, let dsh handle it. For more complex ones, have a subagent do it. Give some thought to the model choice: prefer Luna, but if you feel it can't handle it, use Terra.
+Does mlx-vlm not recognize the `thinking` disable parameter in requests? If not, we need to modify the source code to make it support this.
