@@ -13489,3 +13489,4 @@
 - 2026-09-06 17:36 — Use 'runtime logs' instead of '运行日志' and passive voice for '执行了什么推理请求' — 'what inference requests were executed' is more natural. Also, '西八' is a Korean curse; 'Damn' fits the casual tone.
 - 2026-09-06 17:40 — Use 'turned off' instead of 'closed' when referring to disabling a process or feature.
 - 2026-09-06 17:42 — "关不掉" means 'couldn't turn it off' — use past tense to describe the failed attempt.
+- 2026-09-06 17:45 — Use "exactly" to convey the emphasis of “到底” (as in "how exactly..."), and "get triggered" sounds more natural than "is triggered" in casual technical discussion.
