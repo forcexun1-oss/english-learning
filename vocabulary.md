@@ -13476,3 +13476,4 @@
 - 2026-09-06 16:13 — “你说啥呢” is very colloquial; in formal writing, use “What are you talking about?” instead.
 - 2026-09-06 16:16 — In English, '不用管' is often best translated as 'don't worry about' or 'don't bother with' rather than a literal 'no need to manage'.
 - 2026-09-06 16:26 — '了' marks a completed action — use present perfect ('have restarted') to clearly express it.
+- 2026-09-06 16:36 — Chinese often reduplicates verbs (看看) to create a light, casual tone; in English, use a single verb like 'take a look' or 'check'.
