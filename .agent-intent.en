@@ -1,1 +1,1 @@
-The way this external memory is written seems problematic. Does it trigger on every turn? If so, wouldn't the previous turn's content be recomputed as well?
+Change the trigger method. How is the summary reflection currently triggered? Make it the same as theirs.
