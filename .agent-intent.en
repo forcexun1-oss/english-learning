@@ -1,1 +1,1 @@
-Also, don't just check whether it's in the database — check the logs and trace the call chain.
+Make a change: pressing command + K should close the current conversation. Check the previous interface — it should trigger the summary every time. Move that logic here.
