@@ -13543,3 +13543,4 @@
 - 2026-09-06 20:10 — "总结" here means "summarized". Use "won't be summarized" for a future condition or "doesn't get summarized" for a recurring behavior. Also, consider adding "then" or rephrasing as "If I start a new conversation, will the old one not be summarized?"
 - 2026-09-06 20:12 — "入库" here is best translated as "ingestion" (or "indexing") in a tech context. Also, in indirect questions, keep the word order as "how it looks" instead of "how does it look".
 - 2026-09-06 20:17 — "触发了" is passive in Chinese; in English, use the active "Triggered" or "It triggered" for clarity.
+- 2026-09-06 20:18 — Use "what it's running on" to express what task/input it is processing. In Chinese you omitted the object, but English needs 'on' or 'what' + clause here.
