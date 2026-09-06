@@ -13467,3 +13467,4 @@
 - 2026-09-06 12:14 — Use "failed with exit code 1" or "exited with code 1" — for a command that didn't finish successfully, we say it failed and name the exit code directly.
 - 2026-09-06 13:15 — Use 'Change:' or 'Set:' as a concise instruction to modify a config value.
 - 2026-09-06 13:25 — "在干嘛" is casual for "what is doing"; "Check what..." is a clear instruction for Claude.
+- 2026-09-06 13:29 — "Handoff" here is used as a noun (a document summarizing status). You can also say "a handoff document" for clarity.
