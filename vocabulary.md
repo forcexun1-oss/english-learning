@@ -13540,3 +13540,4 @@
 - 2026-09-06 19:58 — Use 'trigger method' instead of 'trigger way' for technical contexts.
 - 2026-09-06 20:03 — Use 'a turn of conversation' to refer to a single exchange (one user message + one assistant reply).
 - 2026-09-06 20:09 — "出发" should be "触发" (trigger). In English, use "trigger" for initiating an action.
+- 2026-09-06 20:10 — "总结" here means "summarized". Use "won't be summarized" for a future condition or "doesn't get summarized" for a recurring behavior. Also, consider adding "then" or rephrasing as "If I start a new conversation, will the old one not be summarized?"
