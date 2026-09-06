@@ -13518,3 +13518,4 @@
 =======
 - 2026-09-06 18:38 — In English, it's often clearer to specify what to restart, e.g., 'Restart the service.'
 >>>>>>> Stashed changes
+- 2026-09-06 18:54 — "搞清楚" can be translated as 'figure out' or 'make sure of' for clarity in technical contexts.

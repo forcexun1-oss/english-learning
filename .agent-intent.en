@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Check what's currently running.
-=======
-Restart.
->>>>>>> Stashed changes
-=======
-Restart.
->>>>>>> Stashed changes
-=======
-Restart.
->>>>>>> Stashed changes
+Fix the bug. First, figure out what the correct close request is. Make sure to test it — don't shut down the entire service.
