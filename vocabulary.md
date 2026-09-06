@@ -13486,3 +13486,4 @@
 - 2026-09-06 16:51 — In English, questions usually start with a question word like 'How' or an auxiliary verb like 'Do', rather than just stating the verb directly.
 - 2026-09-06 17:06 — “怎么还有”表示“为什么仍然”，用“why is…still”更自然；“在跑什么”译为“what is it running?”即可。
 - 2026-09-06 17:34 — '跑了半天' is colloquial for 'ran for a long time' — use 'for so long' or 'for ages' in English.
+- 2026-09-06 17:36 — Use 'runtime logs' instead of '运行日志' and passive voice for '执行了什么推理请求' — 'what inference requests were executed' is more natural. Also, '西八' is a Korean curse; 'Damn' fits the casual tone.

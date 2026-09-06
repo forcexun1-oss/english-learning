@@ -1,1 +1,1 @@
-What exactly was running for so long just now? Do we have logs for it? If not, add logging.
+Damn, check this service's runtime logs to see what inference requests were executed. If they aren't logged, add that logging.
