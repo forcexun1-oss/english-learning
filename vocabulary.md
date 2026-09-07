@@ -13632,3 +13632,4 @@
 - 2026-09-07 17:22 — 堵上 literally means 'block up'; in a coding context it usually means to fix a leak or hole. Use 'Plug the leak' or 'Seal the hole'.
 - 2026-09-07 18:45 — Use 'Done' for 做完了. 'Review一下' is naturally expressed as 'please review' or 'take a look'.
 - 2026-09-07 18:48 — Use 'the code originally pulled down' or 'ignore the pulled-down code' to express 拉下来的代码.
+- 2026-09-07 18:51 — '把' should be '吧' here (it's a suggestion, not a disposal marker). Also, phrase the requirement as 'so that dsh can execute it with the flash model'.

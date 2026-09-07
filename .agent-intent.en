@@ -1,1 +1,1 @@
-Only look at the KV cache we added later; ignore the code originally pulled down.
+Write out the plan, and make it complete. Since dsh will be using the flash model, the plan needs to be very detailed so it can execute it.
