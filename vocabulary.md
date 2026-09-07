@@ -13631,3 +13631,4 @@
 - 2026-09-07 17:00 — "那" here works as "so" to connect back to the earlier discussion. Also, in English questions, put the modal before the subject: "can we build", not "we can build".
 - 2026-09-07 17:22 — 堵上 literally means 'block up'; in a coding context it usually means to fix a leak or hole. Use 'Plug the leak' or 'Seal the hole'.
 - 2026-09-07 18:45 — Use 'Done' for 做完了. 'Review一下' is naturally expressed as 'please review' or 'take a look'.
+- 2026-09-07 18:48 — Use 'the code originally pulled down' or 'ignore the pulled-down code' to express 拉下来的代码.
