@@ -1,1 +1,1 @@
-Does it include refactoring to prevent the code from becoming a mess?
+Read docs/proposals/2026-09-07-kvsession-hit-rate-optimization-plan.md, have dsh implement it using the flash model. Commit code after every completed task.
