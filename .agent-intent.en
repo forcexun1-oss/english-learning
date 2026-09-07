@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Finally tested it — see if it got in? Looks like it's working now.
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>bysf5a9v9</task-id>
 <tool-use-id>toolu_012P7wKCK8X8xWUZGm5KvKK9</tool-use-id>
@@ -16,4 +19,7 @@ kill $BGPID 2>/dev/null
 wait 2>/dev/null
 echo done" completed (exit code 0)</summary>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
