@@ -13624,3 +13624,4 @@
 - 2026-09-07 16:34 — In English, you need an explicit subject. "当前用的是什么" becomes "What are we/you currently using?" depending on who you mean.
 - 2026-09-07 16:47 — "没搞好" is casual for "not done properly/successfully." In a coding context, "wasn't done right" or "didn't work" are natural equivalents — "搞" is an informal verb meaning "do/get done," often better rendered as "get it working" rather than a literal "fix."
 - 2026-09-07 16:47 — '搞好' means to get something working properly; 'properly' makes that clear in English.
+- 2026-09-07 16:49 — In English, put 'now' at the end of questions like this: 'What's the problem now?' — it sounds more natural than 'Now what is the problem?'.
