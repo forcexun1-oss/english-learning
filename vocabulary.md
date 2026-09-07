@@ -13606,3 +13606,4 @@
 - 2026-09-07 14:59 — "继续" alone is fine as "Continue" in this context, but you could also say "Proceed" or "Go ahead" for a more natural instruction.
 - 2026-09-07 15:08 — Use active voice: 'T4 task completed' instead of the passive notification format.
 - 2026-09-07 15:17 — For '你就继续', use 'just keep going' or 'go ahead and continue' rather than the literal 'you continue', which sounds abrupt in English.
+- 2026-09-07 15:23 — '干掉' is colloquial for 'remove/kill'. In technical contexts, use 'remove' or 'deprecate'.
