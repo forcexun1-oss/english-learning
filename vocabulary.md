@@ -13588,3 +13588,4 @@
 - 2026-09-06 23:25 — In English, 'give' needs an object: say 'give it to him' or 'give him something'.
 - 2026-09-06 23:37 — '要' alone is a fragment. In English, you need a full structure — e.g., 'I need to...' or 'I want...' — to make a complete sentence.
 - 2026-09-06 23:58 — "看下" in casual English is often "see if" or "check if"; "好了" can mean "fixed" or "working".
+- 2026-09-07 10:40 — Use 'add logging' (uncountable) when referring to the activity of adding log statements, rather than 'add logs'.
