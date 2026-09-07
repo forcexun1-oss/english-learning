@@ -13627,3 +13627,4 @@
 - 2026-09-07 16:49 — In English, put 'now' at the end of questions like this: 'What's the problem now?' — it sounds more natural than 'Now what is the problem?'.
 - 2026-09-07 16:50 — 中文的“下载下来”中“下来”只是补语，英文直接说 download 即可，不要说成 download down；“直接”用 directly。
 - 2026-09-07 16:53 — '咋样了' is casual; use 'What's the status?' for checking on tasks, or 'How's it going?' for a general check-in.
+- 2026-09-07 16:57 — '是不是……的问题' can be translated as 'Is it a ... issue/problem?' or 'Could it be because of ...?'
