@@ -13619,3 +13619,4 @@
 - 2026-09-07 16:15 — 咋样 is casual for 怎么样; use "How's it going?" to ask for a status update.
 - 2026-09-07 16:21 — "咋样" alone is too vague in English; pair it with the context — "What happened?" or "What went wrong?" is more natural when a task failed.
 - 2026-09-07 16:27 — When asking a yes/no question in English, use "Do I need to..." instead of just adding a question mark to a statement.
+- 2026-09-07 16:33 — "先...不行吗" is naturally expressed as 'Why not... first?' or 'Can't we just... first?' — the 'just' adds the casual, suggestion-like tone of 不行吗.
