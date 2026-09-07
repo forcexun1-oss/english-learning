@@ -13636,3 +13636,4 @@
 - 2026-09-07 18:54 — '屎山' is slang for messy/technical-debt-ridden code; 'code mess' or 'technical debt' are natural English equivalents.
 - 2026-09-07 18:59 — Use 'have dsh use/implement' (or 'ask dsh to use') instead of 'let dsh using'. Also, the correct spelling is 'completed', not 'complited'.
 - 2026-09-07 19:14 — In English, say 'ask about [topic]' rather than 'ask [topic]'. Also, '这个做什么' is naturally rendered as 'why are you asking about this?'
+- 2026-09-07 19:15 — Use the present perfect ('has been done') to emphasize that something is already finished and relevant now. 'Executed' sounds too formal; 'done' or 'completed' is more natural for tasks.
