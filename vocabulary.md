@@ -13621,3 +13621,4 @@
 - 2026-09-07 16:27 — When asking a yes/no question in English, use "Do I need to..." instead of just adding a question mark to a statement.
 - 2026-09-07 16:33 — "先...不行吗" is naturally expressed as 'Why not... first?' or 'Can't we just... first?' — the 'just' adds the casual, suggestion-like tone of 不行吗.
 - 2026-09-07 16:33 — 『咋样了』是口语，可用 'How's it going?' 表达。如果特指任务进展，可以说 'What's the status?'
+- 2026-09-07 16:34 — In English, you need an explicit subject. "当前用的是什么" becomes "What are we/you currently using?" depending on who you mean.
