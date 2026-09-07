@@ -13608,3 +13608,4 @@
 - 2026-09-07 15:17 — For '你就继续', use 'just keep going' or 'go ahead and continue' rather than the literal 'you continue', which sounds abrupt in English.
 - 2026-09-07 15:23 — '干掉' is colloquial for 'remove/kill'. In technical contexts, use 'remove' or 'deprecate'.
 - 2026-09-07 15:27 — "干" is colloquial for "do/execute". In formal English, use "implement" or "carry out".
+- 2026-09-07 15:31 — "复制" means 'copy', but you likely meant "复杂" (complicated/complex). They sound similar but are different words.
