@@ -13613,3 +13613,4 @@
 - 2026-09-07 15:48 — Use 'up to date' instead of translating '最新' literally as 'newest' — it's the natural way to say software is current.
 - 2026-09-07 15:50 — For '本地的不是备份了吗', use a tag question: 'The local changes are backed up, right?' — 'backed up' is the phrasal verb here.
 - 2026-09-07 15:53 — "不是...吗" is a rhetorical confirmation — use "Haven't we already...?" rather than "Don't we?".
+- 2026-09-07 15:57 — In dev contexts, '打包' often means 'package' or 'build.' 'Did you package it?' is natural; if you mean compiling, you could say 'Did you build it?'
