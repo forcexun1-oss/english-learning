@@ -13625,3 +13625,4 @@
 - 2026-09-07 16:47 — "没搞好" is casual for "not done properly/successfully." In a coding context, "wasn't done right" or "didn't work" are natural equivalents — "搞" is an informal verb meaning "do/get done," often better rendered as "get it working" rather than a literal "fix."
 - 2026-09-07 16:47 — '搞好' means to get something working properly; 'properly' makes that clear in English.
 - 2026-09-07 16:49 — In English, put 'now' at the end of questions like this: 'What's the problem now?' — it sounds more natural than 'Now what is the problem?'.
+- 2026-09-07 16:50 — 中文的“下载下来”中“下来”只是补语，英文直接说 download 即可，不要说成 download down；“直接”用 directly。
