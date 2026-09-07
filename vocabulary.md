@@ -13638,3 +13638,4 @@
 - 2026-09-07 19:14 — In English, say 'ask about [topic]' rather than 'ask [topic]'. Also, '这个做什么' is naturally rendered as 'why are you asking about this?'
 - 2026-09-07 19:15 — Use the present perfect ('has been done') to emphasize that something is already finished and relevant now. 'Executed' sounds too formal; 'done' or 'completed' is more natural for tasks.
 - 2026-09-07 19:16 — '没有了' = 'that's all'; the ending '去' makes it an imperative, so use 'Go ...' in English.
+- 2026-09-07 19:17 — Use 'execute' or 'run' for 执行 in coding contexts; both are natural, but 'execute' sounds more formal.
