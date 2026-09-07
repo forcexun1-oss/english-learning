@@ -13599,3 +13599,4 @@
 - 2026-09-07 13:53 — Use 'Did he finish' instead of '他把...完成了吗' — in English, past tense questions use 'did' + base verb.
 - 2026-09-07 13:54 — In English, 'confirm the bug' is natural, but 'confirm' is often used for verifying existence; 'verify' or 'reproduce' might be more common in QA contexts.
 - 2026-09-07 13:54 — Use 'more detailed' instead of 'detailed point' — 'detailed' is an adjective, not a verb.
+- 2026-09-07 14:00 — Use 'resolve conflicts' instead of 'solve conflicts' — 'resolve' is more common for merge/version control issues.
