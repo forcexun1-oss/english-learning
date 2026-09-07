@@ -13591,3 +13591,4 @@
 - 2026-09-07 10:40 — Use 'add logging' (uncountable) when referring to the activity of adding log statements, rather than 'add logs'.
 - 2026-09-07 10:49 — Use 'such as' instead of 'use' when giving examples. 'Such as' introduces examples of a category.
 - 2026-09-07 10:53 — Use 'Continue' as a complete sentence in this context — it's a standard command in developer tools.
+- 2026-09-07 13:20 — '看看' can be translated as 'review' or 'take a look at' — both are natural in instructions.
