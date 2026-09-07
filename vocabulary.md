@@ -13633,3 +13633,4 @@
 - 2026-09-07 18:45 — Use 'Done' for 做完了. 'Review一下' is naturally expressed as 'please review' or 'take a look'.
 - 2026-09-07 18:48 — Use 'the code originally pulled down' or 'ignore the pulled-down code' to express 拉下来的代码.
 - 2026-09-07 18:51 — '把' should be '吧' here (it's a suggestion, not a disposal marker). Also, phrase the requirement as 'so that dsh can execute it with the flash model'.
+- 2026-09-07 18:54 — '屎山' is slang for messy/technical-debt-ridden code; 'code mess' or 'technical debt' are natural English equivalents.
