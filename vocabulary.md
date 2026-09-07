@@ -13616,3 +13616,4 @@
 - 2026-09-07 15:57 — In dev contexts, '打包' often means 'package' or 'build.' 'Did you package it?' is natural; if you mean compiling, you could say 'Did you build it?'
 - 2026-09-07 15:58 — When asking about a code term, English uses natural question word order: 'What is [term]?' Also, '我们加的吗' should be a full question: 'Did we add it?'
 - 2026-09-07 15:59 — "怎么会" expresses disbelief, so use "How can...?" instead of just "Why...?". Also, "build报错" is more naturally "fail to build" than "report build error".
+- 2026-09-07 16:15 — 咋样 is casual for 怎么样; use "How's it going?" to ask for a status update.
