@@ -13630,3 +13630,4 @@
 - 2026-09-07 16:57 — '是不是……的问题' can be translated as 'Is it a ... issue/problem?' or 'Could it be because of ...?'
 - 2026-09-07 17:00 — "那" here works as "so" to connect back to the earlier discussion. Also, in English questions, put the modal before the subject: "can we build", not "we can build".
 - 2026-09-07 17:22 — 堵上 literally means 'block up'; in a coding context it usually means to fix a leak or hole. Use 'Plug the leak' or 'Seal the hole'.
+- 2026-09-07 18:45 — Use 'Done' for 做完了. 'Review一下' is naturally expressed as 'please review' or 'take a look'.
