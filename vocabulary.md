@@ -13594,3 +13594,4 @@
 - 2026-09-07 13:20 — '看看' can be translated as 'review' or 'take a look at' — both are natural in instructions.
 - 2026-09-07 13:27 — In English, questions often start with a question word like 'which' or 'what', and the verb 'is' comes before the subject.
 - 2026-09-07 13:28 — When mixing English into a Chinese sentence, add proper punctuation and articles. '看看' can be translated as 'take a look at' or 'review' for a natural instruction.
+- 2026-09-07 13:33 — For 看看, say 'take a look at' or 'look at'. Also, when you put a file name after 方案, add ':' for clarity, and use 'then' to connect the two actions.
