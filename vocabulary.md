@@ -13620,3 +13620,4 @@
 - 2026-09-07 16:21 — "咋样" alone is too vague in English; pair it with the context — "What happened?" or "What went wrong?" is more natural when a task failed.
 - 2026-09-07 16:27 — When asking a yes/no question in English, use "Do I need to..." instead of just adding a question mark to a statement.
 - 2026-09-07 16:33 — "先...不行吗" is naturally expressed as 'Why not... first?' or 'Can't we just... first?' — the 'just' adds the casual, suggestion-like tone of 不行吗.
+- 2026-09-07 16:33 — 『咋样了』是口语，可用 'How's it going?' 表达。如果特指任务进展，可以说 'What's the status?'
