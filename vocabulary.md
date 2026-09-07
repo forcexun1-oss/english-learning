@@ -13603,3 +13603,4 @@
 - 2026-09-07 14:01 — No changes needed — this is a system notification, not user input.
 - 2026-09-07 14:46 — Say 'run the new test_kvsession_diagnostics.py' — 'file' is redundant since you're already naming the file. Also add 'the' before 'full kvsession suite'.
 - 2026-09-07 14:59 — 注意 'build不了' 应说 'it won't build'；'改不了' 在这个语境是 'can't fix it'，不是 'can't change it'.
+- 2026-09-07 14:59 — "继续" alone is fine as "Continue" in this context, but you could also say "Proceed" or "Go ahead" for a more natural instruction.
