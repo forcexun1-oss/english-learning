@@ -13662,3 +13662,4 @@
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
 - 2026-09-08 15:42 — 范围 here means 'range' (not 'scope'), so '时间范围' = 'time range'.
+- 2026-09-08 15:50 — '要不也...' is a casual suggestion; 'Why don't you also...?' captures that tone naturally in English.
