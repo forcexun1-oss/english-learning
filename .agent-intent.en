@@ -1,1 +1,1 @@
-For MCP actions, if the parameters are incorrect, raise an error—don't execute with defaults.
+For this service's MCP action, if it contains an unrecognized operation, return an error — don't execute it blindly.

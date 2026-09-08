@@ -13644,3 +13644,4 @@
 - 2026-09-07 20:18 — In English, we don't need a particle like 呢 — the rising tone and word order make it a question. You can say 'And now?' or 'What about now?'.
 - 2026-09-08 09:43 — Use 'run' instead of 'execute' for brevity in casual dev chat, and 'per-item' is clearer than 'single-item' for '单条' in this context.
 - 2026-09-08 11:30 — '报错' = 'raise an error'/'error out'; '默认执行' = 'execute with defaults' (not 'default execute').
+- 2026-09-08 11:34 — "乱执行" is best translated as "execute blindly" or "execute recklessly" rather than a literal word-for-word translation.
