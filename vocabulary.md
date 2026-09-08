@@ -13681,3 +13681,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-08 18:32 — "看看" can be translated as 'See?' to express mild frustration; for the second part, use 'check' rather than 'look' when investigating a technical issue.
+- 2026-09-08 18:36 — Use 'miss' (verb) or 'cache miss' (noun) instead of 'no hit' to describe a failed cache lookup.
