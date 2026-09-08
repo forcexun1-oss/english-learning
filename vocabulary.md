@@ -13688,6 +13688,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13773,3 +13774,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-08 23:58 — “切”在这里指“分段/切分”，用 “split” 比较自然；另外“第一个过来”说成 “the very first one/request” 更地道。
+=======
+>>>>>>> Stashed changes
