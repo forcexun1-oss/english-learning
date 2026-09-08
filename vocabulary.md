@@ -13696,3 +13696,4 @@
 - 2026-09-08 22:14 — "没太懂" is best expressed as "I don't quite understand" (or "I'm not entirely sure"). Also note: in Chinese, use "它" for software/issues; "他" normally means a male person.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 22:18 — Use "Is APC ...?" for a yes/no question about what a term stands for. You could also say "Does APC mean the common prefix cache?"
