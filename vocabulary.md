@@ -13735,3 +13735,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 23:30 — 吧 is the correct particle (把 is a typo); "don't bother with..." sounds more natural than "don't do..." here.

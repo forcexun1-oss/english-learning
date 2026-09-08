@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Don't store graphiti messages fully per session — they don't carry a session ID, so even if you store them, you can never retrieve them back.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Exact matching is enough — don't bother with all that other stuff.
