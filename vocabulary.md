@@ -13664,3 +13664,4 @@
 - 2026-09-08 15:42 — 范围 here means 'range' (not 'scope'), so '时间范围' = 'time range'.
 - 2026-09-08 15:50 — '要不也...' is a casual suggestion; 'Why don't you also...?' captures that tone naturally in English.
 - 2026-09-08 15:54 — '什么情况' is a casual way to ask for an update or an explanation. In English, 'What's going on?' works well in most contexts.
+- 2026-09-08 17:12 — Use 'currently' (adv.) to mean '现在' in this context, and 'will ... be fetched' for a natural question about an ongoing process.
