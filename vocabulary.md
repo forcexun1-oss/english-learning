@@ -13784,3 +13784,4 @@
 - 2026-09-09 00:12 — Use 'persisted to disk' instead of '存盘'; also '把' is likely a typo for '吧', which makes it a confirmation question.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 00:17 — “存盘” is casual; in a technical context, “persist to disk” is clearer. Also, “最大配置” means “maximum capacity configuration/limit,” not just “maximum configuration.”
