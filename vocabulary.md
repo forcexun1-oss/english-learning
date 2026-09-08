@@ -13718,3 +13718,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 22:54 — Use "underlying/native implementation" for 底层实现; "low-level" also works for lower-level code. "Not block-based" is clearer than "not by blocks".
