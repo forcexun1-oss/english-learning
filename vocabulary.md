@@ -13668,3 +13668,4 @@
 - 2026-09-08 17:12 — Use 'currently' (adv.) to mean '现在' in this context, and 'will ... be fetched' for a natural question about an ongoing process.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 17:13 — Use 'the external memory of [plugin]' to specify which part you mean, rather than just 'external memory'.
