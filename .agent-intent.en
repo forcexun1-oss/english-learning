@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What I'm asking is: when there's nothing at all yet, how do you handle the very first request that comes in?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+So when a request comes in, you just start splitting it right away?
