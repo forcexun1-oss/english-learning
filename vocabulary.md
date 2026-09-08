@@ -13658,3 +13658,4 @@
 - 2026-09-08 15:02 — '提交' in git context is 'commit', not 'submission'. Also, English usually needs an explicit subject, so say 'We need to...' rather than just 'Need to...'.
 - 2026-09-08 15:15 — When asking someone to visualize a model structure, say 'draw the architecture of X' — note that 'long short-term memory' often appears as 'LSTM' before 'architecture'.
 - 2026-09-08 15:18 — “给别人讲”在这里指‘present/explain to others’，用‘I need to present this...’更自然。
+- 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
