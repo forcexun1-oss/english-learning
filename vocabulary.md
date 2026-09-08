@@ -13648,3 +13648,4 @@
 - 2026-09-08 11:43 — Use 'tool' instead of 'skill' when referring to software packages. '技能' means skill/ability, not a piece of software.
 - 2026-09-08 13:05 — "搞错" here means "mix up / get confused between," not "make a mistake about," so "mix up" is a more natural choice in English.
 - 2026-09-08 13:20 — Use "create a document" instead of the literal "出个文档"; "出" is too casual in English instructions.
+- 2026-09-08 13:32 — After "let" or "have", use the base form of the verb: "let dsh use" / "have dsh use", not "using".
