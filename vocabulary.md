@@ -13685,3 +13685,4 @@
 - 2026-09-08 18:36 — Use 'miss' (verb) or 'cache miss' (noun) instead of 'no hit' to describe a failed cache lookup.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 19:56 — Use the imperative mood for direct instructions, and 'yourself' emphasizes the subject (the AI) should take action.
