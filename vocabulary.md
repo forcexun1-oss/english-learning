@@ -13658,6 +13658,7 @@
 - 2026-09-08 15:02 — '提交' in git context is 'commit', not 'submission'. Also, English usually needs an explicit subject, so say 'We need to...' rather than just 'Need to...'.
 - 2026-09-08 15:15 — When asking someone to visualize a model structure, say 'draw the architecture of X' — note that 'long short-term memory' often appears as 'LSTM' before 'architecture'.
 - 2026-09-08 15:18 — “给别人讲”在这里指‘present/explain to others’，用‘I need to present this...’更自然。
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13665,3 +13666,5 @@
 - 2026-09-08 15:50 — '要不也...' is a casual suggestion; 'Why don't you also...?' captures that tone naturally in English.
 - 2026-09-08 15:54 — '什么情况' is a casual way to ask for an update or an explanation. In English, 'What's going on?' works well in most contexts.
 - 2026-09-08 17:12 — Use 'currently' (adv.) to mean '现在' in this context, and 'will ... be fetched' for a natural question about an ongoing process.
+=======
+>>>>>>> Stashed changes
