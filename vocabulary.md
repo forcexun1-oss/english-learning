@@ -13642,3 +13642,4 @@
 - 2026-09-07 19:19 — 啊 adds a casual, emphatic tone — “just” or an exclamation mark conveys the same feeling in English.
 - 2026-09-07 19:49 — Use 'whether' (or 'if') to embed a question in a statement, and 'take care of' is the idiomatic way to say 处理好了.
 - 2026-09-07 20:18 — In English, we don't need a particle like 呢 — the rising tone and word order make it a question. You can say 'And now?' or 'What about now?'.
+- 2026-09-08 09:43 — Use 'run' instead of 'execute' for brevity in casual dev chat, and 'per-item' is clearer than 'single-item' for '单条' in this context.
