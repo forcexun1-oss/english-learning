@@ -13646,3 +13646,4 @@
 - 2026-09-08 11:30 — '报错' = 'raise an error'/'error out'; '默认执行' = 'execute with defaults' (not 'default execute').
 - 2026-09-08 11:34 — "乱执行" is best translated as "execute blindly" or "execute recklessly" rather than a literal word-for-word translation.
 - 2026-09-08 11:43 — Use 'tool' instead of 'skill' when referring to software packages. '技能' means skill/ability, not a piece of software.
+- 2026-09-08 13:05 — "搞错" here means "mix up / get confused between," not "make a mistake about," so "mix up" is a more natural choice in English.
