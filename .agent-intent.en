@@ -1,1 +1,1 @@
-Take a look at whether the MCP server's interface design follows the spec. I feel like some models mix up the interfaces and parameters when calling — for example, the describe style is inconsistent with the others.
+Create a document so I can have dsh implement this using the Flash model. Make the plan very detailed — dsh is pretty slow.
