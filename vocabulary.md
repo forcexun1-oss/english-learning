@@ -13650,3 +13650,4 @@
 - 2026-09-08 13:20 — Use "create a document" instead of the literal "出个文档"; "出" is too casual in English instructions.
 - 2026-09-08 13:32 — After "let" or "have", use the base form of the verb: "let dsh use" / "have dsh use", not "using".
 - 2026-09-08 13:55 — “派给” = “delegate to” / “assign to”；注意“codex说他派不了”里的“他”指 Codex，可译作 “Codex said it couldn't”.
+- 2026-09-08 13:56 — In English imperatives, put 'yourself' after the verb: 'Try it yourself' is natural, while 'You yourself try' is not.
