@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are you saying you start splitting as soon as a request arrives? Even on the very first one? Then how would you know where the system part is?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Have you seen the agent's real requests? If we segment them this way, what would the 3-layer split look like?
