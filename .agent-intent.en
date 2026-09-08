@@ -1,1 +1,1 @@
-Can we run the import douyin pipeline now? Is the per-item time limit we added effective?
+For MCP actions, if the parameters are incorrect, raise an error—don't execute with defaults.
