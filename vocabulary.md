@@ -13757,3 +13757,4 @@
 - 2026-09-08 23:45 — "讲讲" is best translated as "walk me through" or "explain" rather than a literal "tell me" — it implies a step-by-step recap.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 23:48 — “怎么开始分” here refers to chunking/splitting the context, so use “how does the splitting/chunking start” rather than just “how does it divide”.

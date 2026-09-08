@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Walk me through again how it matches layer by layer.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+After startup, when the first request arrives, what do you store, or do you store nothing? When the second one arrives, how does the splitting start? Give an example using actual strings.
