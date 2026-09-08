@@ -13652,3 +13652,4 @@
 - 2026-09-08 13:55 — “派给” = “delegate to” / “assign to”；注意“codex说他派不了”里的“他”指 Codex，可译作 “Codex said it couldn't”.
 - 2026-09-08 13:56 — In English imperatives, put 'yourself' after the verb: 'Try it yourself' is natural, while 'You yourself try' is not.
 - 2026-09-08 13:58 — For contrast, use 'It's not X — it's Y' to make the clarification clear, and '用' can be translated as 'with' or 'using'.
+- 2026-09-08 14:48 — Use 'What should we do next?' — phrase the question naturally with 'should' instead of a literal word order like 'Next, what to do?'.
