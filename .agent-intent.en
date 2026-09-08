@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Forget it. If it hasn't been sent yet, write up a proposal and have him send it. Also, since APC isn't working, can we bring in mlx-llm's underlying implementation instead? It's not block-based, and we don't need the upper-layer code we modified later — just look at the native low-level implementation.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Don't store graphiti messages fully per session — they don't carry a session ID, so even if you store them, you can never retrieve them back.

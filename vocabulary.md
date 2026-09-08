@@ -13725,3 +13725,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 23:21 — "捞不回来" is colloquial; in technical English use "can't be retrieved" or "you'll never get them back".
