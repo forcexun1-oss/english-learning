@@ -13743,3 +13743,4 @@
 - 2026-09-08 23:35 — It's clearer to say 'role names' instead of just 'names', and put the literal values in quotes.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 23:37 — "有业务属性" = "carry/have business semantics". Adding "though" at the end conveys the objection tone that "啊" expresses in Chinese.
