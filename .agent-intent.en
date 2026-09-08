@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-So when a request comes in, you just start splitting it right away?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Are you saying you start splitting as soon as a request arrives? Even on the very first one? Then how would you know where the system part is?
