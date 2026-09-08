@@ -13676,3 +13676,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-08 17:19 — "把" here is likely a typo for "吧" (suggestion particle). Also, "接口" can be translated as "API" or "interface" depending on context.
+- 2026-09-08 17:32 — Use 'looked at' to mean 'reviewed/examined'. 'Have you...' is natural when asking about an action that may have just happened.
