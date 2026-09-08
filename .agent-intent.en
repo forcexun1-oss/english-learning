@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have you seen the agent's real requests? If we segment them this way, what would the 3-layer split look like?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+I mean, the KV cache is persisted to disk, right?

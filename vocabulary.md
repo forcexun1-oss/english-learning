@@ -13780,3 +13780,4 @@
 - 2026-09-09 00:00 — In this context, “切” is better translated as “segment” or “split” rather than “cut,” since you're talking about partitioning data/messages.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 00:12 — Use 'persisted to disk' instead of '存盘'; also '把' is likely a typo for '吧', which makes it a confirmation question.
