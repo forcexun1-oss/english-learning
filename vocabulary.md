@@ -13680,3 +13680,4 @@
 - 2026-09-08 17:32 — Use 'looked at' to mean 'reviewed/examined'. 'Have you...' is natural when asking about an action that may have just happened.
 =======
 >>>>>>> Stashed changes
+- 2026-09-08 18:32 — "看看" can be translated as 'See?' to express mild frustration; for the second part, use 'check' rather than 'look' when investigating a technical issue.
