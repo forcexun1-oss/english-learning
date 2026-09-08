@@ -1,1 +1,1 @@
-I want to look up my recently written memories. Can I query them, or do I need to add an interface?
+Use archify to create a diagram of this project's long-term and short-term memory architecture. It should cover all of the following: the Hermes memory plugin we've integrated, Graphiti as our external memory layer, and our own session management. Add some descriptive text to clearly walk through the design, since I'll be presenting this to others — please output it in the style of a technical proposal.
