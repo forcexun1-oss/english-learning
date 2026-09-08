@@ -13653,3 +13653,4 @@
 - 2026-09-08 13:56 — In English imperatives, put 'yourself' after the verb: 'Try it yourself' is natural, while 'You yourself try' is not.
 - 2026-09-08 13:58 — For contrast, use 'It's not X — it's Y' to make the clarification clear, and '用' can be translated as 'with' or 'using'.
 - 2026-09-08 14:48 — Use 'What should we do next?' — phrase the question naturally with 'should' instead of a literal word order like 'Next, what to do?'.
+- 2026-09-08 14:49 — Use 'Isn't there...?' to match the '不是...吗' pattern in Chinese; it forms a rhetorical question expecting confirmation.
