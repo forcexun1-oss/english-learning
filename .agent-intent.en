@@ -1,1 +1,1 @@
-Are we overcomplicating this? It might not even be implementable.
+Wasn't the original design supposed to use independent storage and keep a full copy of the session? Isn't this too complex now? Will it end up like last time, where we implemented a bunch of bugs?
