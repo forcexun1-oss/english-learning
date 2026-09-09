@@ -13880,3 +13880,4 @@
 - 2026-09-09 16:10 — '但起' is likely a typo for '单起' — use 'separate/new session' instead.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 16:16 — Use 'make/have + subject + verb' for instructions ('make dsh use...') instead of '让...去完成' which sounds wordy. Also '实际工作' is better rendered as 'real work' or 'production work' here.
