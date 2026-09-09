@@ -1,1 +1,1 @@
-Provide me with a technical solution for integrating Hermes memory into mac-assistant. First, clearly explain the composition of the various components in its prompt and what each part is responsible for.
+When rendering Mermaid, add a feature that lets users choose to see the original text — call it 'code'. The component probably supports that natively, right?

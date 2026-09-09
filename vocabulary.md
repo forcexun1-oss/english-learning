@@ -13789,3 +13789,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 10:27 — In Chinese, 他 can mean 'it' or 'he'; for a system/component, use 'its' to avoid ambiguity.
+- 2026-09-09 10:56 — “把” here should be “吧” (a sentence particle for suggestions/confirmation). Also, use "rendering" instead of "展示" for diagrams in this context.
