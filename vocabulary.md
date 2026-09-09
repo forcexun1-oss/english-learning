@@ -13824,3 +13824,4 @@
 - 2026-09-09 14:11 — "改" here is an imperative "change it" (or "do it"). In Chinese, a comma can separate commands from follow-up questions; in English, use a period or semicolon and start a new clause with "Has..."
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:16 — Negated questions in English use "Doesn't + subject + base verb" rather than "Do you not..." in casual speech. Also note: "design of classes and interfaces" or simply "class and interface design" both sound natural.
