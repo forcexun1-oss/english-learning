@@ -13837,3 +13837,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 14:37 — "独立存储" here is better as "separate storage" rather than "independent storage" — "separate" emphasizes storing them apart, which matches your intent.
+- 2026-09-09 14:38 — Use "Isn't it...?" for confirmation questions like "不是...吗" — in English the negation comes first.

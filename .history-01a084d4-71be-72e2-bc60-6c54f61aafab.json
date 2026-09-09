@@ -1,1 +1,1 @@
-["review一下方案 A  /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-prefix-cache.md\n  方案 B  /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-session-cache.md", "这2个方案还有关联吗,有必要吗,独立存储不行吗"]
+["review一下方案 A  /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-prefix-cache.md\n  方案 B  /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-session-cache.md", "这2个方案还有关联吗,有必要吗,独立存储不行吗", "方案B是什么,方案B不是session相关的吗,缓存一个session吗"]
