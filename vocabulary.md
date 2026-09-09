@@ -13944,3 +13944,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 23:55 — Use 'continue with' instead of 'continue do' — 'continue' is followed by 'with' + noun or a gerund (e.g., 'continue doing').
+- 2026-09-09 23:56 — "还是" here means "still/after all" — place it at the start of the sentence, and use "let ... handle" for "让...做".
