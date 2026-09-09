@@ -13793,3 +13793,4 @@
 - 2026-09-09 11:01 — '就这么干吧' is colloquial for 'just do it that way' — '吧' softens it into a suggestion/decision.
 - 2026-09-09 11:23 — '围栏' here means a code fence (markdown code block with ```). '可以点' is better translated as 'clickable' than 'can be clicked'.
 - 2026-09-09 11:39 — Use 'mouse cursor' instead of 'mouse state' to describe the pointer appearance; also 'when it's hidden' is clearer than a literal translation of '隐藏的时候'.
+- 2026-09-09 11:41 — 漏了一部分 here means 'a part is missing/omitted', not literally 'leaking' — so use 'missing portion' in this context.
