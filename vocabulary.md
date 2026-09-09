@@ -13725,6 +13725,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13933,5 +13934,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 22:40 — Use 'let someone do something' instead of '然...去做' to express delegating a task.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
