@@ -13865,3 +13865,4 @@
 - 2026-09-09 15:43 — '顺眼一点' can be translated as 'looks nicer/cleaner' — a natural way to express visual preference.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 15:44 — "再...一下" = "do it again"; keep English tech verbs like 'review' directly.
