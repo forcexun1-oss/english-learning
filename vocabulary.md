@@ -13927,3 +13927,4 @@
 - 2026-09-09 22:35 — Use 'would occur' for hypothetical consequences, and 'points' to refer to numbered items in a list.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 22:37 — Use 'troublesome' instead of '费事' directly; '不费事就' translates naturally to 'If not, just...'.
