@@ -13856,3 +13856,4 @@
 - 2026-09-09 15:12 — "review一下" uses 一下 as a softener, but English doesn't need it — just "Please review again" is natural and clear.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 15:22 — Use present perfect ('has changed') for a recent action. Also, if 'he' is not important, you can say 'The proposal has been updated.'
