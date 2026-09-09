@@ -13847,3 +13847,4 @@
 - 2026-09-09 14:44 — “独立掉” is a bit informal for “make them separate/decouple”; use “split them into two independent...” And “把” (should be “吧”) means you're seeking confirmation — use “right?” at the end.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:53 — Use present perfect 'have finished' to show the action is completed and relevant to the current request.
