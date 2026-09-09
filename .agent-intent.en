@@ -1,1 +1,1 @@
-Add a space before 'code', make it visually obvious that it's clickable, and wrap the displayed code in a code fence.
+When it's hidden, a black line is still visible. The clickable state is problematic: it affects other areas, and the mouse cursor in those areas changes as well.
