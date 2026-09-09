@@ -13702,6 +13702,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13840,3 +13841,5 @@
 - 2026-09-09 14:38 — Use "Isn't it...?" for confirmation questions like "不是...吗" — in English the negation comes first.
 - 2026-09-09 14:40 — "搞复杂了" can be rendered as "overcomplicate" or "over-engineer" rather than a literal translation. "实现不了" works well as "not be implementable" or "can't be implemented."
 - 2026-09-09 14:42 — Use 'Wasn't ... supposed to' to express '不是说...吗' in a natural, slightly questioning way.
+=======
+>>>>>>> Stashed changes
