@@ -13692,6 +13692,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13798,3 +13799,5 @@
 - 2026-09-09 13:16 — '可以' often means 'OK' or 'Go ahead' — adding a follow-up makes your intent clearer in English.
 - 2026-09-09 13:18 — When asking for confirmation, use a tag like 'right?' or rephrase as 'can we just drop this branch?' In Chinese, '把' is likely a typo for '吧'.
 - 2026-09-09 13:22 — Use 'worth cherry-picking' instead of 'valuable' — it's more natural with actions. Also note 'cherry-pick' is hyphenated when used as a verb.
+=======
+>>>>>>> Stashed changes
