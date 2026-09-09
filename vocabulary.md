@@ -13943,3 +13943,4 @@
 - 2026-09-09 23:16 — Use 'have someone do something' to assign a task, e.g., 'have dsh handle it'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 23:55 — Use 'continue with' instead of 'continue do' — 'continue' is followed by 'with' + noun or a gerund (e.g., 'continue doing').
