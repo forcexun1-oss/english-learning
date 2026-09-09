@@ -13695,6 +13695,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13810,3 +13811,5 @@
 >>>>>>> Stashed changes
 - 2026-09-09 13:48 — "一开始" often translates to "at first" or "initially" rather than "at the beginning" when describing a state at the start of a process. Also, "看不到了" can be "it's not visible anymore" or "it disappears."
 - 2026-09-09 14:00 — "拷贝" is a direct transliteration of "copy"; in English use "copy" as the verb. Also "copy away" is unnatural — say "copy the text" or "copy to clipboard."
+=======
+>>>>>>> Stashed changes
