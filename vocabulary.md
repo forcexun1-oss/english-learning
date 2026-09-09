@@ -13860,3 +13860,4 @@
 - 2026-09-09 15:22 — Use present perfect ('has changed') for a recent action. Also, if 'he' is not important, you can say 'The proposal has been updated.'
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 15:31 — “再...一下” is naturally expressed as 'again' or 'one more time' in English: 再review一下 → 'review it again.'
