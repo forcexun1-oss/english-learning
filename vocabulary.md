@@ -13714,6 +13714,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13894,3 +13895,5 @@
 >>>>>>> Stashed changes
 - 2026-09-09 16:53 — '部署' can be a noun ('deployment') or verb ('deploy'). As a short instruction, use the imperative: 'Deploy it.'
 - 2026-09-09 16:55 — “不就行了吗” 用于提出更简单的方案，英文常说 “Why not just...?” 或 “Isn't it enough to...?”。
+=======
+>>>>>>> Stashed changes
