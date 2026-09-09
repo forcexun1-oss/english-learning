@@ -13892,3 +13892,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 16:53 — '部署' can be a noun ('deployment') or verb ('deploy'). As a short instruction, use the imperative: 'Deploy it.'
