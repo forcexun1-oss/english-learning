@@ -13852,3 +13852,4 @@
 - 2026-09-09 14:55 — The single word '可以' is often best translated as 'OK', 'Sure', or 'That works' when approving an idea.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 15:12 — "review一下" uses 一下 as a softener, but English doesn't need it — just "Please review again" is natural and clear.
