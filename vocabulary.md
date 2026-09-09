@@ -13867,3 +13867,4 @@
 >>>>>>> Stashed changes
 - 2026-09-09 15:44 — "再...一下" = "do it again"; keep English tech verbs like 'review' directly.
 - 2026-09-09 15:48 — "怎么给他" can be translated as 'how should I present it to him' — 'present' sounds more natural than 'give' when sharing a conclusion.
+- 2026-09-09 15:49 — Place the relative clause "you mentioned earlier" after the noun: "the two risks you mentioned earlier", not "your earlier two risks".
