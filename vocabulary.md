@@ -13838,3 +13838,4 @@
 >>>>>>> Stashed changes
 - 2026-09-09 14:37 — "独立存储" here is better as "separate storage" rather than "independent storage" — "separate" emphasizes storing them apart, which matches your intent.
 - 2026-09-09 14:38 — Use "Isn't it...?" for confirmation questions like "不是...吗" — in English the negation comes first.
+- 2026-09-09 14:40 — "搞复杂了" can be rendered as "overcomplicate" or "over-engineer" rather than a literal translation. "实现不了" works well as "not be implementable" or "can't be implemented."
