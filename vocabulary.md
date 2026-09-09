@@ -13843,3 +13843,4 @@
 - 2026-09-09 14:42 — Use 'Wasn't ... supposed to' to express '不是说...吗' in a natural, slightly questioning way.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:44 — “独立掉” is a bit informal for “make them separate/decouple”; use “split them into two independent...” And “把” (should be “吧”) means you're seeking confirmation — use “right?” at the end.
