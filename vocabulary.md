@@ -13939,3 +13939,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 23:08 — Use "Let's do" for suggesting an action, and "in a new conversation" instead of "给新对话".
+- 2026-09-09 23:16 — Use 'have someone do something' to assign a task, e.g., 'have dsh handle it'.
