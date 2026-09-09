@@ -13828,3 +13828,4 @@
 - 2026-09-09 14:16 — Negated questions in English use "Doesn't + subject + base verb" rather than "Do you not..." in casual speech. Also note: "design of classes and interfaces" or simply "class and interface design" both sound natural.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:21 — '地址' in English can mean 'address'; using 'link' or 'URL' is clearer when referring to web resources.
