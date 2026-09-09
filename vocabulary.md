@@ -13904,3 +13904,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 17:20 — Avoid a literal 'give dsh to do'; use 'that's for [someone] to do' or '[someone] would handle that' for natural English.
