@@ -13872,3 +13872,4 @@
 - 2026-09-09 15:51 — '详细点吧' can be translated as 'Elaborate more' or 'Can you give more detail?' — 'Elaborate' is a natural verb for asking someone to expand on their explanation.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 15:59 — Use '再' for 'again' (not '在'): '最后再review' means 'review one more time'.
