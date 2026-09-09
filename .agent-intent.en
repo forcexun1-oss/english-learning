@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Please review proposal A at /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-prefix-cache.md and proposal B at /Users/youxun/project/mlx-vlm-main/docs/proposals/2026-09-08-session-cache.md.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Are these two proposals still related? Are they both necessary? Can't we just use separate storage?

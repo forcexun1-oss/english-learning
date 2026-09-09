@@ -13836,3 +13836,4 @@
 - 2026-09-09 14:22 — “一下” softens the request in Chinese; in English, use “Please review” or “Take a look at” before the file paths.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:37 — "独立存储" here is better as "separate storage" rather than "independent storage" — "separate" emphasizes storing them apart, which matches your intent.
