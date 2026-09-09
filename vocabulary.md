@@ -13795,3 +13795,4 @@
 - 2026-09-09 11:39 — Use 'mouse cursor' instead of 'mouse state' to describe the pointer appearance; also 'when it's hidden' is clearer than a literal translation of '隐藏的时候'.
 - 2026-09-09 11:41 — 漏了一部分 here means 'a part is missing/omitted', not literally 'leaking' — so use 'missing portion' in this context.
 - 2026-09-09 13:05 — Use 'should connect to' for a direct action, and 'should be connected' / 'should have a connection' for a relationship between two components.
+- 2026-09-09 13:16 — '可以' often means 'OK' or 'Go ahead' — adding a follow-up makes your intent clearer in English.

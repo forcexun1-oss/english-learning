@@ -1,1 +1,1 @@
-Take a look at this architecture diagram — it's wrong. Graphiti, as external memory, should connect to the memory plugin, not directly to the pi agent. Digest and the memory plugin should also be connected.
+OK, go ahead.
