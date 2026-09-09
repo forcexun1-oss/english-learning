@@ -13893,3 +13893,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 16:53 — '部署' can be a noun ('deployment') or verb ('deploy'). As a short instruction, use the imperative: 'Deploy it.'
+- 2026-09-09 16:55 — “不就行了吗” 用于提出更简单的方案，英文常说 “Why not just...?” 或 “Isn't it enough to...?”。
