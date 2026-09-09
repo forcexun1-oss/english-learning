@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Didn't we say that's for dsh to do? Your task is to review and verify.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+The background command "Wait for the restored 11435 service to become ready" failed with exit code 1.
