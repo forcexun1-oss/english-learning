@@ -13820,3 +13820,4 @@
 - 2026-09-09 14:09 — '还是' here means 'still', not 'or'; you can say 'remains unchanged' or 'stays the same'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:11 — "改" here is an imperative "change it" (or "do it"). In Chinese, a comma can separate commands from follow-up questions; in English, use a period or semicolon and start a new clause with "Has..."
