@@ -13919,3 +13919,4 @@
 - 2026-09-09 22:10 — Use present perfect ('has completed') or simple past ('completed') to report a finished action; avoid mixing tenses.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 22:30 — Use 'Are there any...' for questions about existence, and 'haven't been fixed' (present perfect passive) to emphasize the current state of unfinished fixes.
