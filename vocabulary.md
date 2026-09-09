@@ -13915,3 +13915,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 22:08 — Use past tense "failed" to describe what happened, and "with" to specify the exit code.
+- 2026-09-09 22:10 — Use present perfect ('has completed') or simple past ('completed') to report a finished action; avoid mixing tenses.
