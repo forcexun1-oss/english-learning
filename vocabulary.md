@@ -13816,3 +13816,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 14:09 — '还是' here means 'still', not 'or'; you can say 'remains unchanged' or 'stays the same'.
