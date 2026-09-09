@@ -13809,3 +13809,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-09 13:48 — "一开始" often translates to "at first" or "initially" rather than "at the beginning" when describing a state at the start of a process. Also, "看不到了" can be "it's not visible anymore" or "it disappears."
+- 2026-09-09 14:00 — "拷贝" is a direct transliteration of "copy"; in English use "copy" as the verb. Also "copy away" is unnatural — say "copy the text" or "copy to clipboard."
