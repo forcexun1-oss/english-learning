@@ -1,5 +1,6 @@
-<<<<<<< Updated upstream
-I'm about to refactor. Which of these changes are worth cherry-picking separately?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+90346b4 Keep if necessary: Qwen4-Exp PLE repack fix
+f2dc060 Recommend keeping: server returns 404 when model doesn't exist
+ddfdfba Optional: APC prompt debug logging
+69246bb Just keep the .gitignore rules manually
+
+If I'm going to create a new branch, can these be ported over? Anything else?
