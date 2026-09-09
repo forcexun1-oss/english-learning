@@ -13923,3 +13923,4 @@
 - 2026-09-09 22:30 — Use 'Are there any...' for questions about existence, and 'haven't been fixed' (present perfect passive) to emphasize the current state of unfinished fixes.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 22:35 — Use 'would occur' for hypothetical consequences, and 'points' to refer to numbered items in a list.
