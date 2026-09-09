@@ -13788,3 +13788,4 @@
 - 2026-09-09 00:17 — “存盘” is casual; in a technical context, “persist to disk” is clearer. Also, “最大配置” means “maximum capacity configuration/limit,” not just “maximum configuration.”
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 10:27 — In Chinese, 他 can mean 'it' or 'he'; for a system/component, use 'its' to avoid ambiguity.
