@@ -13897,3 +13897,4 @@
 - 2026-09-09 16:55 — “不就行了吗” 用于提出更简单的方案，英文常说 “Why not just...?” 或 “Isn't it enough to...?”。
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 17:00 — For '处理方案', 'handling options' or 'approaches' sounds more natural than a literal 'processing solutions'.
