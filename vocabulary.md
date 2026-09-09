@@ -13931,3 +13931,4 @@
 - 2026-09-09 22:37 — Use 'troublesome' instead of '费事' directly; '不费事就' translates naturally to 'If not, just...'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-09 22:40 — Use 'let someone do something' instead of '然...去做' to express delegating a task.
