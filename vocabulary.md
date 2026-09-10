@@ -13997,3 +13997,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-10 11:06 — Use present perfect ('has completed') to describe a just-finished action with current relevance.
+- 2026-09-10 11:11 — Use 'switched away from it' instead of '切走了' directly translated, and 'We've' for the completed action.
