@@ -13971,3 +13971,4 @@
 >>>>>>> Stashed changes
 - 2026-09-10 10:33 — Use 'do' for tasks and 'note down' for recording items; 'record' is more formal but also fine.
 - 2026-09-10 10:40 — Use 'separated from' instead of '分开' directly; 'data layer' and 'presentation layer' are standard technical terms.
+- 2026-09-10 10:41 — Use 'completely' and 'fully' as adverbs before verbs (e.g., 'completely separate', 'fully decouple') for emphasis. Also, '解耦' translates to 'decouple' in technical contexts.

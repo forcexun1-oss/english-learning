@@ -1,1 +1,1 @@
-Is your data layer separated from the presentation layer?
+First, completely separate the data layer from the presentation layer, and then fully decouple the two presentation layers.
