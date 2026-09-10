@@ -13964,3 +13964,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-10 10:25 — Use 'toggle' for switching between two states, and 'raw' to mean unprocessed original text.
+- 2026-09-10 10:29 — Use 'Let's' for a suggestion and 'then' to sequence actions naturally.
