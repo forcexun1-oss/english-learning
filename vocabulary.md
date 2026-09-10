@@ -13731,6 +13731,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13966,3 +13967,5 @@
 - 2026-09-10 10:25 — Use 'toggle' for switching between two states, and 'raw' to mean unprocessed original text.
 - 2026-09-10 10:29 — Use 'Let's' for a suggestion and 'then' to sequence actions naturally.
 - 2026-09-10 10:30 — Use 'Are...done?' for completed tasks, and 'remaining issues' instead of '遗留问题' for leftover problems.
+=======
+>>>>>>> Stashed changes
