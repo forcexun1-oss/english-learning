@@ -14018,3 +14018,4 @@
 - 2026-09-10 12:30 — Use "go ahead and" to give a natural green light; "implement" is more idiomatic than "实现吧" translated literally as "realize it."
 - 2026-09-10 13:03 — Use 'raw text' instead of '原文' in coding contexts; 'pure' emphasizes no formatting or extra processing.
 - 2026-09-10 13:08 — Use 'What about...?' to ask about something not included, and 'Aren't they included?' for a natural negative question.
+- 2026-09-10 13:12 — Use 'Can we add one?' instead of '能有吗' for a more natural request.
