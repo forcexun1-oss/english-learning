@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The session one should already have been added. Let's see why — is it because it wasn't packaged?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+curl -s localhost:11435/v1/sessions | python3 -m json.tool | grep -A 10 miss_reasons
