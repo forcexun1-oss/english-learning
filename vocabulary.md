@@ -13987,3 +13987,4 @@
 - 2026-09-10 10:48 — Use 'have it switch' or 'ask it to switch' for giving a command to the assistant; '切到' translates to 'switch to'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:51 — Use 'on the ... side' to refer to a specific branch or location, and 'any' in questions for an unspecified amount.
