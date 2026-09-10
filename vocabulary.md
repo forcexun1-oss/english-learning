@@ -14170,3 +14170,4 @@
 - 2026-09-10 23:51 — Use 'have him execute it' instead of 'let him do it' for a more direct instruction.
 - 2026-09-11 00:12 — Use 'it' to refer to the process or task, and the present continuous 'is running' for an ongoing action.
 - 2026-09-11 00:20 — Use 'What should I do?' for asking for advice or next steps; '怎么办' can also be 'What's the plan?' depending on context.
+- 2026-09-11 00:30 — Use 'put the computer to sleep' instead of 'let the computer sleep' for a more natural command.
