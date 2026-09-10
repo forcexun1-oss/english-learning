@@ -14000,4 +14000,8 @@
 - 2026-09-10 11:11 — Use 'switched away from it' instead of '切走了' directly translated, and 'We've' for the completed action.
 - 2026-09-10 11:23 — Use "ignore" (not "don't manage") for 别管 in this context, and "continue with" is more natural than "continue to implement" here.
 - 2026-09-10 11:27 — Use 'Go ahead and' to give permission or encouragement to proceed, which sounds more natural than just 'implement it'.
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
