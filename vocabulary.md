@@ -13958,3 +13958,4 @@
 - 2026-09-10 09:07 — Use 'keep going' for continuing an action, and 'don't stop' to emphasize persistence.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 09:49 — Use "What's the problem?" for a direct question; "什么问题" can also be "What issue?" but the former is more natural in casual tech contexts.
