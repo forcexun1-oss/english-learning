@@ -14021,3 +14021,4 @@
 - 2026-09-10 13:12 — Use 'Can we add one?' instead of '能有吗' for a more natural request.
 - 2026-09-10 13:18 — Use "isn't hitting" (present continuous) to describe an ongoing problem, and "at all" to emphasize the complete failure.
 - 2026-09-10 13:19 — Use 'isn't hitting' (present continuous) to describe an ongoing issue, and 'at all' to emphasize the complete lack of hits.
+- 2026-09-10 13:28 — Use "Is it easy to fix?" instead of "Is it good to fix?" — '好修' means 'easy to fix' here, so 'easy' is the natural choice.
