@@ -13979,3 +13979,4 @@
 - 2026-09-10 10:44 — Use 'cherry-pick' as a verb phrase (e.g., 'to cherry-pick') and keep it lowercase; 'did you do it' is fine for a quick check.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:46 — Use 'were there' for past existence questions, and 'in it' to refer to the branch's contents.
