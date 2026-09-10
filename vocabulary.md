@@ -13983,3 +13983,4 @@
 - 2026-09-10 10:46 — Use 'were there' for past existence questions, and 'in it' to refer to the branch's contents.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:48 — Use 'have it switch' or 'ask it to switch' for giving a command to the assistant; '切到' translates to 'switch to'.
