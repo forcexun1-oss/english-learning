@@ -14144,3 +14144,4 @@
 - 2026-09-10 17:10 — Use "I'm looking at..." to indicate where you're focusing, and "What's the issue here?" is a natural way to ask about a problem.
 - 2026-09-10 17:20 — Use the present continuous "is timing out" for an ongoing issue, or the simple present "times out" for a recurring one.
 - 2026-09-10 17:26 — Use 'look into' (investigate) instead of '看看' for a more natural English phrasing in technical contexts.
+- 2026-09-10 17:30 — Use 'if there aren't any' to clarify the condition, and 'make the request' sounds more natural than 'request again' in this context.
