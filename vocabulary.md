@@ -14168,3 +14168,4 @@
 - 2026-09-10 23:47 — Use 'Is ... still ...?' for present continuous questions about ongoing actions.
 - 2026-09-10 23:51 — Use 'have him get on with it' to mean 'let him continue working' — it's more natural than 'let him do it' in this context.
 - 2026-09-10 23:51 — Use 'have him execute it' instead of 'let him do it' for a more direct instruction.
+- 2026-09-11 00:12 — Use 'it' to refer to the process or task, and the present continuous 'is running' for an ongoing action.
