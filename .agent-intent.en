@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The session one should already have been added. Let's see why — is it because it wasn't packaged?
+=======
+The full ai package test suite passed with the changes in place.
+>>>>>>> Stashed changes
