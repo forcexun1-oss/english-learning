@@ -14149,3 +14149,4 @@
 - 2026-09-10 17:50 — Use "appended after" instead of "拼到...后面" — "append" is the natural verb for adding text to the end of something.
 - 2026-09-10 19:04 — Use 'seems to be' instead of '好像' for a more formal tone, and 'what might be causing this' to ask for the reason politely.
 - 2026-09-10 20:58 — Use "for [someone] to do [something]" to express who performs the action, and keep tool names like "Flash" unchanged.
+- 2026-09-10 21:03 — Use 'commit' as a verb for Git actions; '提交' translates directly to 'commit' in this context.
