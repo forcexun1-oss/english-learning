@@ -14142,3 +14142,4 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-10 17:10 — Use "I'm looking at..." to indicate where you're focusing, and "What's the issue here?" is a natural way to ask about a problem.
+- 2026-09-10 17:20 — Use the present continuous "is timing out" for an ongoing issue, or the simple present "times out" for a recurring one.
