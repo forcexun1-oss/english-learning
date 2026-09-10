@@ -13969,3 +13969,4 @@
 - 2026-09-10 10:30 — Use 'Are...done?' for completed tasks, and 'remaining issues' instead of '遗留问题' for leftover problems.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:33 — Use 'do' for tasks and 'note down' for recording items; 'record' is more formal but also fine.
