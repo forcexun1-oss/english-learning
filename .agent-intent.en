@@ -1,1 +1,1 @@
-The agent panel currently shows a view of the raw text, but there's no system prompt. Can we add one?
+Look at the current KV cache implementation — the prefix cache isn't hitting at all.

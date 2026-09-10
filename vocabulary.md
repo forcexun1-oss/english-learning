@@ -14019,3 +14019,4 @@
 - 2026-09-10 13:03 — Use 'raw text' instead of '原文' in coding contexts; 'pure' emphasizes no formatting or extra processing.
 - 2026-09-10 13:08 — Use 'What about...?' to ask about something not included, and 'Aren't they included?' for a natural negative question.
 - 2026-09-10 13:12 — Use 'Can we add one?' instead of '能有吗' for a more natural request.
+- 2026-09-10 13:18 — Use "isn't hitting" (present continuous) to describe an ongoing problem, and "at all" to emphasize the complete failure.
