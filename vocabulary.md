@@ -13975,3 +13975,4 @@
 - 2026-09-10 10:41 — Use 'completely' and 'fully' as adverbs before verbs (e.g., 'completely separate', 'fully decouple') for emphasis. Also, '解耦' translates to 'decouple' in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:44 — Use 'cherry-pick' as a verb phrase (e.g., 'to cherry-pick') and keep it lowercase; 'did you do it' is fine for a quick check.
