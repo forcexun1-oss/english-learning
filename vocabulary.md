@@ -13727,6 +13727,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-08 15:23 — Add a subject and use the continuous tense: 'Are you working on it?' instead of the implied-subject Chinese phrase.
 - 2026-09-08 15:30 — Use 'query' or 'look up' for accessing stored data; 'check' sounds casual and less precise in a technical context.
 - 2026-09-08 15:38 — In Chinese you can chain many clauses with commas, but in English it's better to break them into shorter sentences (or use dashes/colons) for clarity — especially in technical documents that others will read.
@@ -13947,3 +13948,5 @@
 - 2026-09-09 23:56 — "还是" here means "still/after all" — place it at the start of the sentence, and use "let ... handle" for "让...做".
 - 2026-09-10 00:01 — Use "put the computer to sleep" instead of "let the computer sleep" — 'put to sleep' is the natural phrasal verb for this action.
 - 2026-09-10 08:56 — Use 'implementations' instead of '实现' directly; 'done' is more natural than 'finished' in casual tech context.
+=======
+>>>>>>> Stashed changes
