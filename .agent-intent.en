@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 So it sounds like sessions aren't being stored at all right now, and everything relies on APC?
+=======
+The full ai package test suite passed with the changes in place.
+>>>>>>> Stashed changes
