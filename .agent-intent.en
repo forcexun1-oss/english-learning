@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-So it sounds like sessions aren't being stored at all right now, and everything relies on APC?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+No, it's when I ask standalone questions. I type very little input, and it's occasionally fast, but usually takes a few seconds. It wasn't like this before.
