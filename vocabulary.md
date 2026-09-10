@@ -14056,3 +14056,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-10 14:23 — Use 'rely on' (not '全靠') to express dependence; 'everything relies on APC' is natural.
