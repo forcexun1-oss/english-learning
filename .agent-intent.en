@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check if there are any similar uncommitted changes on the mlx-vlm-main side.
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Merge those into mlx-vlm as well, and update mac-assistant's startup parameters to the latest version.
