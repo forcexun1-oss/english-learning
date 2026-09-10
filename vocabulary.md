@@ -14158,3 +14158,4 @@
 - 2026-09-10 22:09 — Use 'do you mean' for clarification questions; '回复' translates to 'replies' here, not 'recovery'.
 - 2026-09-10 22:15 — Use 'that's right' instead of 'yes should be like this' for a more natural confirmation.
 - 2026-09-10 22:16 — Use 'needs to be' instead of '要' to express necessity in English.
+- 2026-09-10 23:17 — Use 'What is he doing?' for present continuous actions; '他在干嘛' is casual, so keep it simple.
