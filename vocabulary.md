@@ -13950,3 +13950,4 @@
 - 2026-09-10 08:56 — Use 'implementations' instead of '实现' directly; 'done' is more natural than 'finished' in casual tech context.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 08:57 — Use "Continue." as a direct, natural command in English.
