@@ -14151,3 +14151,4 @@
 - 2026-09-10 20:58 — Use "for [someone] to do [something]" to express who performs the action, and keep tool names like "Flash" unchanged.
 - 2026-09-10 21:03 — Use 'commit' as a verb for Git actions; '提交' translates directly to 'commit' in this context.
 - 2026-09-10 21:12 — Use 'Is ... running?' for present continuous questions about an ongoing action.
+- 2026-09-10 21:14 — Use 'have it work through' instead of 'let him start completing' for a more natural instruction tone.
