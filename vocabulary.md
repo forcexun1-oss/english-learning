@@ -14146,3 +14146,4 @@
 - 2026-09-10 17:26 — Use 'look into' (investigate) instead of '看看' for a more natural English phrasing in technical contexts.
 - 2026-09-10 17:30 — Use 'if there aren't any' to clarify the condition, and 'make the request' sounds more natural than 'request again' in this context.
 - 2026-09-10 17:44 — Use "Is ... a real word?" to ask whether a term exists in English. "有这个词吗" translates naturally to "Is this a real word?" or "Does this word exist?"
+- 2026-09-10 17:50 — Use "appended after" instead of "拼到...后面" — "append" is the natural verb for adding text to the end of something.
