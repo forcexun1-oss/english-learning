@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It feels like it's running very sluggishly. Is it because the cache hit calculation is being done synchronously?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+Let's try changing it and see.
