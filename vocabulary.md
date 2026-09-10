@@ -14009,6 +14009,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14052,3 +14053,6 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-10 14:19 — Use 'or not' at the end of a yes/no question to ask for clarification between two options.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
