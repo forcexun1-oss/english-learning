@@ -14155,3 +14155,4 @@
 - 2026-09-10 21:55 — Use 'Have you...' for present perfect questions about past actions, and 'try + gerund' (re-importing) for suggesting an action.
 - 2026-09-10 22:06 — Use 'How should we...' instead of '那要怎么...' to sound more natural in English questions.
 - 2026-09-10 22:09 — Use 'do you mean' to ask for clarification, and 'participate in' for '参与' in a technical context.
+- 2026-09-10 22:09 — Use 'do you mean' for clarification questions; '回复' translates to 'replies' here, not 'recovery'.
