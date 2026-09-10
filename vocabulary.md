@@ -14166,3 +14166,4 @@
 - 2026-09-10 23:45 — Use 'Do we need to' for asking about necessity, and keep the question concise.
 - 2026-09-10 23:47 — "就...吧" expresses resignation or acceptance; "let's just go with it" captures that tone naturally in English.
 - 2026-09-10 23:47 — Use 'Is ... still ...?' for present continuous questions about ongoing actions.
+- 2026-09-10 23:51 — Use 'have him get on with it' to mean 'let him continue working' — it's more natural than 'let him do it' in this context.
