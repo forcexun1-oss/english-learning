@@ -13963,3 +13963,4 @@
 - 2026-09-10 09:54 — Use 'by yourself' to mean 'alone' or 'on your own' — it emphasizes the person doing it solo.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 10:25 — Use 'toggle' for switching between two states, and 'raw' to mean unprocessed original text.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So you're having DSH do it all by yourself?
-=======
-Add some text to explain the solution clearly — I need to present this to others.
->>>>>>> Stashed changes
+Add a feature: next to the "Open Chat History" button in the agent panel, add a button that toggles the display content of the chat window. When clicked, I want to see the raw request and response text. Clicking again should switch back. How would you design this so it's clear to read? Don't just lay it out as plain text — keep it categorized and visually distinct.
