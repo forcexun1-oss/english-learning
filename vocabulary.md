@@ -14145,3 +14145,4 @@
 - 2026-09-10 17:20 — Use the present continuous "is timing out" for an ongoing issue, or the simple present "times out" for a recurring one.
 - 2026-09-10 17:26 — Use 'look into' (investigate) instead of '看看' for a more natural English phrasing in technical contexts.
 - 2026-09-10 17:30 — Use 'if there aren't any' to clarify the condition, and 'make the request' sounds more natural than 'request again' in this context.
+- 2026-09-10 17:44 — Use "Is ... a real word?" to ask whether a term exists in English. "有这个词吗" translates naturally to "Is this a real word?" or "Does this word exist?"
