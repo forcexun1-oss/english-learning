@@ -1,1 +1,1 @@
-Look at the current KV cache implementation — the prefix cache isn't hitting at all.
+The session cache isn't hitting at all either.
