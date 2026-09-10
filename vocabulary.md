@@ -14162,3 +14162,4 @@
 - 2026-09-10 23:18 — Use 'status' instead of 'situation' for project progress; 'what should we do next' is more natural than a literal translation.
 - 2026-09-10 23:27 — Use 'feed' (not 'give') for providing data to a model; it's the common technical term.
 - 2026-09-10 23:30 — Use 'the same as before' instead of '和之前是一样的' — 'as before' is the natural English comparison structure.
+- 2026-09-10 23:43 — Use 'stays the same' instead of 'is unchanged' for a more natural, conversational tone.

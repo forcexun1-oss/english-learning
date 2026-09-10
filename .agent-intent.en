@@ -1,1 +1,1 @@
-So the content given to the LLM is the same as before?
+I mean the first half stays the same, right? We can reuse the KV cache for that.
