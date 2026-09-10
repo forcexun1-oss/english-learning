@@ -1,1 +1,1 @@
-I mean the first half stays the same, right? We can reuse the KV cache for that.
+Do we need to send three requests?
