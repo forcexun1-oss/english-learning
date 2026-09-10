@@ -14080,3 +14080,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-10 14:50 — Use 'it's not that... it's that...' to contrast two explanations, which is more natural than directly translating '不是...是...'.
