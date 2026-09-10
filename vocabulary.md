@@ -14002,6 +14002,7 @@
 - 2026-09-10 11:27 — Use 'Go ahead and' to give permission or encouragement to proceed, which sounds more natural than just 'implement it'.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14011,3 +14012,6 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-10 11:41 — Use 'Fix it' instead of '解决一下' — 'solve' is more for problems/puzzles, while 'fix' is natural for code issues.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
