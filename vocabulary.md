@@ -13954,3 +13954,4 @@
 - 2026-09-10 08:57 — Use "Continue." as a direct, natural command in English.
 =======
 >>>>>>> Stashed changes
+- 2026-09-10 09:07 — Use 'keep going' for continuing an action, and 'don't stop' to emphasize persistence.
