@@ -14184,3 +14184,4 @@
 - 2026-09-11 09:53 — Use 'has finished executing' instead of 'executed completely' for a natural, concise way to say a task is done.
 - 2026-09-11 09:55 — Use 'Write the plan' instead of '写方案' directly; 'have him execute it' is a natural way to say '让他执行'.
 - 2026-09-11 09:56 — Use 'Let's get started' instead of '开始吧' — it's a natural English way to kick off a task.
+- 2026-09-11 10:09 — Use past tense 'didn't paste' to describe a completed action, and add 'when I used' to clarify the context.
