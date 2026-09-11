@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The background command "Wait until all three dsh dispatches finish" completed (exit code 0).
+=======
+The full ai package test suite passed with the changes in place.
+>>>>>>> Stashed changes
 =======
 The full ai package test suite passed with the changes in place.
 >>>>>>> Stashed changes
