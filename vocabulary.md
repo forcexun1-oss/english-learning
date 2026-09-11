@@ -14178,3 +14178,4 @@
 - 2026-09-11 09:00 — Use 'add support for' or 'add ... support' instead of '加一下...的支持' directly translated.
 - 2026-09-11 09:00 — Use 'accept' or 'support' for input capability, and 'add ... support' to introduce a new feature.
 - 2026-09-11 09:11 — Use "run it again" instead of "let him run again" — for processes/tasks, "it" is more natural than "him".
+- 2026-09-11 09:24 — Use 'support for' instead of 'support' when referring to adding a feature.
