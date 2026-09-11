@@ -14261,3 +14261,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-11 15:10 — Use 'verify' or 'check' instead of '查一下' to sound more natural in English; 'I'm sure' is clearer than '我确定'.
