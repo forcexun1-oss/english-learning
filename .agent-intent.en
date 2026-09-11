@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why doesn't qwen3.7max support images? It can't be that, right?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+Did it filter out a lot of simple conversations — like greetings such as "hello" and "hi" — so they don't get written?
