@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How do you plan to implement it?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+Write a plan for dsh to use the flash model. Also, images should be displayed at a fixed size in the chat dialog, and the history should be echoed back.
