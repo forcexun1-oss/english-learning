@@ -14246,3 +14246,4 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-11 14:42 — Use "filter out" (not just "filter") to mean removing something from a set, and "so they don't get written" to express the purpose of exclusion.
+- 2026-09-11 14:44 — Use 'Why doesn't...' for asking about a problem, and 'at all' at the end of a negative sentence to emphasize that something didn't happen.
