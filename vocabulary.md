@@ -14256,3 +14256,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-11 15:05 — Use 'whether' for yes/no questions embedded in a sentence, and 'it does' to confirm a capability.
