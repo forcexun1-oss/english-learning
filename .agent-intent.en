@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why doesn't Qwen3.7 Max support images? The X in the image isn't displayed completely — only half of it shows. And after submitting, it doesn't appear in the chat window at all.
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+Qwen3.8Max does support vision understanding — you got that wrong.

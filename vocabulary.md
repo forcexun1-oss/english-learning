@@ -14251,3 +14251,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-11 15:02 — Use 'you got that wrong' or 'you're mistaken' instead of '你搞错了把'. The particle '把' is not used in English; '吧' would be 'right?' or just drop it.
