@@ -14050,6 +14050,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14303,3 +14304,6 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-11 16:42 — Use "Why is it like this?" instead of "怎么是这样" — it's a natural way to express confusion about a situation.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
