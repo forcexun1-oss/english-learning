@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is using the Pillow + qwen-vl-utils approach able to save tokens, or do you have a better alternative?
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+How do you plan to implement it?
