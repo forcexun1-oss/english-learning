@@ -14174,3 +14174,4 @@
 - 2026-09-11 08:09 — Use 'Try it again' instead of '你再试试' — 'it' refers to the action, and it's more natural than just 'Try again' in this context.
 - 2026-09-11 08:56 — Use 'still' to mean '还' in this context, and the present continuous tense 'is running' for an ongoing action.
 - 2026-09-11 08:58 — '看到了' can be translated as 'Got it' or 'I see' — 'Got it' is more casual and common in chat contexts.
+- 2026-09-11 08:59 — Use past tense 'Did you see' for asking if someone saw something just now.
