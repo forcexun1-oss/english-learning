@@ -14029,6 +14029,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14191,3 +14192,6 @@
 - 2026-09-11 11:16 — Use 'Did you commit...' (past simple) to ask about a completed action, not 'Did you submit' — 'commit' is the standard term for Git.
 - 2026-09-11 11:24 — Use 'pops up behind the window' instead of '跑后面去了' — it's the natural way to describe a dialog appearing behind another window.
 - 2026-09-11 11:29 — Use 'works' for the present tense of functioning correctly, and 'doesn't' as the contraction for 'does not'.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
