@@ -14186,3 +14186,4 @@
 - 2026-09-11 09:56 — Use 'Let's get started' instead of '开始吧' — it's a natural English way to kick off a task.
 - 2026-09-11 10:09 — Use past tense 'didn't paste' to describe a completed action, and add 'when I used' to clarify the context.
 - 2026-09-11 10:30 — Use 'file picker dialog' instead of '弹窗' for the OS file selection window. Also, 'goes behind' is more natural than 'runs to the back' for UI layering issues.
+- 2026-09-11 10:39 — Use 'drop' instead of '不要' for removing a feature; 'pops up behind the window' is more natural than '跑后面去了'.
