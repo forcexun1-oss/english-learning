@@ -14195,3 +14195,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-11 11:46 — Use 'doesn't include' instead of '没有' to express missing content; 'passed through' conveys 传过去 naturally in a technical context.

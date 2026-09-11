@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Selection works, but Command + V doesn't.
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+It works now, but the reply I got doesn't include the image. Is it because the current model doesn't support it, or did the timestamp not get passed through? Please check.
