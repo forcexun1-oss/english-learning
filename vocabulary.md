@@ -14206,3 +14206,4 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-11 13:08 — '你那就用这个吧' is casual; 'let's go with that' sounds natural in English.
+- 2026-09-11 13:09 — Use 'Has this expert been adjusted?' (present perfect passive) to ask about a recent change, and 'Are there any issues?' for a natural follow-up.
