@@ -14180,3 +14180,4 @@
 - 2026-09-11 09:11 — Use "run it again" instead of "let him run again" — for processes/tasks, "it" is more natural than "him".
 - 2026-09-11 09:24 — Use 'support for' instead of 'support' when referring to adding a feature.
 - 2026-09-11 09:26 — Use 'image input' instead of 'input image' for a noun phrase.
+- 2026-09-11 09:47 — Use 'Did it stop again?' for a simple past question about an action that already happened.
