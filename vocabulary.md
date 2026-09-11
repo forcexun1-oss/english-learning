@@ -14214,3 +14214,4 @@
 - 2026-09-11 13:20 — Use 'don't go through' instead of 'don't walk the proxy' — '走代理' means 'use a proxy' in tech contexts.
 - 2026-09-11 13:51 — Use "Try it again" instead of "再试试" — it's a natural, concise way to ask for another attempt.
 - 2026-09-11 13:56 — Use 'Try again.' for a concise, natural way to say '再试试' in English.
+- 2026-09-11 13:57 — Use 'Try again.' for a concise, natural command. '再试试' is a simple imperative, so no need for extra words.
