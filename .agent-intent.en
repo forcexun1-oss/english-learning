@@ -1,1 +1,1 @@
-The image didn't paste when I used Command + V.
+Take over this task. The agent panel needs to support image input. First, review the code — if it's too messy, refactor it. Also, remove the image drag-and-drop feature. When selecting an image, the file picker dialog goes behind the window. The input box size is now wrong — it's too large. And pressing Command+V doesn't paste the image into the input box.
