@@ -1,1 +1,1 @@
-This expert seems to have been adjusted — is there any issue? The model weights have been changed, so don't try it. Find and download qwen3.6:35b-a3b-coding-mtp-q8 instead.
+Use modelscope to download it, don't go through the proxy.
