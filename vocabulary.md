@@ -14171,3 +14171,4 @@
 - 2026-09-11 00:12 — Use 'it' to refer to the process or task, and the present continuous 'is running' for an ongoing action.
 - 2026-09-11 00:20 — Use 'What should I do?' for asking for advice or next steps; '怎么办' can also be 'What's the plan?' depending on context.
 - 2026-09-11 00:30 — Use 'put the computer to sleep' instead of 'let the computer sleep' for a more natural command.
+- 2026-09-11 08:09 — Use 'Try it again' instead of '你再试试' — 'it' refers to the action, and it's more natural than just 'Try again' in this context.
