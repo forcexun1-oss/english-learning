@@ -1,1 +1,1 @@
-Take over the task of adding image input support to the agent panel. First, review the code — if it's too messy, refactor it. Also, drop the image drag-and-drop feature. When selecting an image, the file picker dialog pops up behind the window. Also, the input box size is off now — it's too big. And command + v doesn't paste the image into the input box.
+What else needs to be done? Write a plan and have him redo it?
