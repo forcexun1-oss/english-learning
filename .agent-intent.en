@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The model selection is gone. Here's the error: 400 data: {"error":{"code":"invalid_parameter_error","param":null,"message":"max_completion_tokens [16384] must be greater than thinking_budget [32768]","type":"invalid_request_error"},"id":"chatcmpl-01e9543d-ec31-4e28-bd08-e697f2cfd6ae"}
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+Why doesn't qwen3.7max support images? It can't be that, right?
