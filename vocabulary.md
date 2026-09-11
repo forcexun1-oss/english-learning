@@ -14212,3 +14212,4 @@
 - 2026-09-11 13:13 — Use present perfect 'Have you...' for asking about past actions with current relevance.
 - 2026-09-11 13:20 — Use 'don't try it' instead of '别试了' to sound more natural; 'instead' at the end clarifies the alternative action.
 - 2026-09-11 13:20 — Use 'don't go through' instead of 'don't walk the proxy' — '走代理' means 'use a proxy' in tech contexts.
+- 2026-09-11 13:51 — Use "Try it again" instead of "再试试" — it's a natural, concise way to ask for another attempt.
