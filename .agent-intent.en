@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The image is enough, let's drop the image URL.
-=======
-The full ai package test suite passed with the changes in place.
->>>>>>> Stashed changes
+There's an extra ![](ma-img://L1VzZXJzL3lvdXh1bi9MaWJyYXJ5L0FwcGxpY2F0YWdlcy8xNUJCNzQ5NS1DMEM1LTRCRkUtQUQzRC0yNDdDMjFBMTczODEucG5n) — the image in the history conversation isn't being displayed.
