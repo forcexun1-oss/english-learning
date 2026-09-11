@@ -14035,6 +14035,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14231,3 +14232,6 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-11 14:16 — Use 'Why is... gone?' instead of '怎么没了' — 'gone' is more natural than 'not there' for something that disappeared.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
