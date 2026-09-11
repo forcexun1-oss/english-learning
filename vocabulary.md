@@ -14032,6 +14032,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-10 11:30 — Use the present perfect ('is now established') to report a completed action with current relevance.
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
@@ -14216,3 +14217,6 @@
 - 2026-09-11 13:56 — Use 'Try again.' for a concise, natural way to say '再试试' in English.
 - 2026-09-11 13:57 — Use 'Try again.' for a concise, natural command. '再试试' is a simple imperative, so no need for extra words.
 - 2026-09-11 13:57 — Use 'Can you...' for a polite request. '直接给我' = 'give me directly'.
+=======
+- 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
+>>>>>>> Stashed changes
