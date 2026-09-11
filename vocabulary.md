@@ -14207,3 +14207,4 @@
 >>>>>>> Stashed changes
 - 2026-09-11 13:08 — '你那就用这个吧' is casual; 'let's go with that' sounds natural in English.
 - 2026-09-11 13:09 — Use 'Has this expert been adjusted?' (present perfect passive) to ask about a recent change, and 'Are there any issues?' for a natural follow-up.
+- 2026-09-11 13:11 — Use 'not reverted' or 'not rolled back' instead of 'not regressed' when describing that previous fixes remain intact. Also, '前后' should be expressed as 'before and after' in English.

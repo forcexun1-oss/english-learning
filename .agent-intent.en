@@ -1,1 +1,10 @@
-Has this expert been adjusted? Are there any issues?
+The acceptance conclusion has been written to docs/proposals/dsh-case-b-reverification-report.md (line 108), covering:
+
+- Status: STATUS: DONE (Validation problems: 0)
+- Scope of changes: only prompts/ (extract_nodes / extract_edges / snippets) and two test files; driver/search/reranking/queue unchanged, Case A existing fixes not reverted
+- Rejection reason: the durable-memory prompt strategy did not list "rejected candidates" as retainable decision context
+- Failing test first: test_prompt_distinguishes_rejected_candidate_from_assistant_exposition failed on first run → passed after fix
+- Automated verification table: core 75 passed, MCP 60 passed, full CI 417 passed/11 skipped, ruff passed, git diff --check clean
+- Real Case A/B: Case A anti-pollution not degraded; Case B key outputs (nodes: Neo4j+FalkorDB, Neo4j confirmed True, FalkorDB rejected True, assistant-only preference False, episode.content unchanged True, decision edge CHOSE_RATHER_THAN)
+- Cleanup: both groups before and after, and finally, all 0/0/0, no cross-case pollution
+- Completion criteria checklist item-by-item + notes (FalkorDB not started but expressed as unselected alternative; local LLM structured retry explanation)
