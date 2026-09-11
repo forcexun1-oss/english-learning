@@ -14213,3 +14213,4 @@
 - 2026-09-11 13:20 — Use 'don't try it' instead of '别试了' to sound more natural; 'instead' at the end clarifies the alternative action.
 - 2026-09-11 13:20 — Use 'don't go through' instead of 'don't walk the proxy' — '走代理' means 'use a proxy' in tech contexts.
 - 2026-09-11 13:51 — Use "Try it again" instead of "再试试" — it's a natural, concise way to ask for another attempt.
+- 2026-09-11 13:56 — Use 'Try again.' for a concise, natural way to say '再试试' in English.
