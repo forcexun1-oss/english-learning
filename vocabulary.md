@@ -14190,3 +14190,4 @@
 - 2026-09-11 11:12 — Use 'have him redo it' instead of 'let him redo it' when you want to instruct someone to make another person do something.
 - 2026-09-11 11:16 — Use 'Did you commit...' (past simple) to ask about a completed action, not 'Did you submit' — 'commit' is the standard term for Git.
 - 2026-09-11 11:24 — Use 'pops up behind the window' instead of '跑后面去了' — it's the natural way to describe a dialog appearing behind another window.
+- 2026-09-11 11:29 — Use 'works' for the present tense of functioning correctly, and 'doesn't' as the contraction for 'does not'.
