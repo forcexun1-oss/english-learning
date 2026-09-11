@@ -14209,3 +14209,4 @@
 - 2026-09-11 13:09 — Use 'Has this expert been adjusted?' (present perfect passive) to ask about a recent change, and 'Are there any issues?' for a natural follow-up.
 - 2026-09-11 13:11 — Use 'not reverted' or 'not rolled back' instead of 'not regressed' when describing that previous fixes remain intact. Also, '前后' should be expressed as 'before and after' in English.
 - 2026-09-11 13:13 — Use 'Is everything... finished?' or 'Are we all done?' for a natural check-in. '要做的' translates to 'what needed to be done' or 'everything that needed to be done'.
+- 2026-09-11 13:13 — Use present perfect 'Have you...' for asking about past actions with current relevance.
