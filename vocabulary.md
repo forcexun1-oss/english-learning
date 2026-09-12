@@ -14341,7 +14341,11 @@
 - 2026-09-12 19:19 — Use present continuous tense ('is downloading') to describe an ongoing action.
 - 2026-09-12 19:22 — Use "Are there..." for questions about existence, and "instead" to suggest an alternative option.
 - 2026-09-12 19:22 — Use 'Can we use...' instead of '是不是可以用' for a natural suggestion.
+<<<<<<< Updated upstream
 - 2026-09-12 19:24 — Use 'Can' to form a question instead of just stating the sentence; also, 'GGUF' is the correct file format name, not 'ffuf'.
 - 2026-09-12 19:25 — Use 'Can't we just...' for a casual suggestion, or 'Why not just modify the original script?' for a more direct tone.
 - 2026-09-12 19:25 — Use 'modify' instead of 'change' for scripts; '改改' can be translated as 'just modify' to keep the casual tone.
 - 2026-09-12 19:27 — Use past tense "failed" to describe the completed action in the notification summary.
+=======
+- 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
+>>>>>>> Stashed changes

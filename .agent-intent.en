@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command "Convert and quantize Qwen3.6-35B-A3B to MLX Q8 via HF mirror" failed with exit code 144.
+=======
+The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
+>>>>>>> Stashed changes
