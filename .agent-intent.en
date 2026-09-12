@@ -1,1 +1,1 @@
-You should also update the startup script parameters.
+The background task "Wait for BF16 GGUF downloads to complete, then report sizes and disk space" was killed because the system ran out of memory.

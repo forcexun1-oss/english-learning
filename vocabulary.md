@@ -14420,3 +14420,4 @@
 >>>>>>> Stashed changes
 - 2026-09-13 00:21 — Use 'configure' or 'set up' instead of '配一下' directly; '配了吗' becomes 'is it configured' for a natural question.
 - 2026-09-13 00:22 — Use 'update' instead of '该' (which is a typo for '改'), and add 'should' to make the suggestion clearer.
+- 2026-09-13 00:23 — Use 'ran out of memory' instead of 'is running low on memory' for a past event; 'killed' is more natural than 'stopped' for a terminated process.
