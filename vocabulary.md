@@ -14327,4 +14327,8 @@
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
 - 2026-09-12 19:01 — Use "It's downloaded" or "Downloaded" instead of "下载好了" literally translated. "好了" here means completion, so "downloaded" (past participle) works naturally.
+<<<<<<< Updated upstream
 - 2026-09-12 19:08 — '走代理' means 'use a proxy' — say 'don't use a proxy' or 'skip the proxy'. '国内的镜像' is naturally 'a domestic mirror' or 'a China-based mirror'.
+=======
+- 2026-09-12 19:08 — '走代理' means 'use a proxy' — in English, use 'use' or 'go through' instead of 'walk' (走).
+>>>>>>> Stashed changes
