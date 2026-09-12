@@ -14359,3 +14359,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-12 20:11 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0 outcome.
