@@ -14419,3 +14419,4 @@
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
 - 2026-09-13 00:21 — Use 'configure' or 'set up' instead of '配一下' directly; '配了吗' becomes 'is it configured' for a natural question.
+- 2026-09-13 00:22 — Use 'update' instead of '该' (which is a typo for '改'), and add 'should' to make the suggestion clearer.
