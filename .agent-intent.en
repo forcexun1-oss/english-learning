@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Both background tasks finished successfully: the safetensors redownload for MTP extraction conversion, and the reconversion to Q6 with MTP drafter extraction.
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+The background command "Reconvert with MTP extraction using the patched fork's environment" completed successfully (exit code 0).
