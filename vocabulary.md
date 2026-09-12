@@ -14355,6 +14355,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-12 19:24 — Use 'Can' to form a question instead of just stating the sentence; also, 'GGUF' is the correct file format name, not 'ffuf'.
 - 2026-09-12 19:25 — Use 'Can't we just...' for a casual suggestion, or 'Why not just modify the original script?' for a more direct tone.
 - 2026-09-12 19:25 — Use 'modify' instead of 'change' for scripts; '改改' can be translated as 'just modify' to keep the casual tone.
@@ -14422,3 +14423,6 @@
 - 2026-09-13 00:22 — Use 'update' instead of '该' (which is a typo for '改'), and add 'should' to make the suggestion clearer.
 - 2026-09-13 00:23 — Use 'ran out of memory' instead of 'is running low on memory' for a past event; 'killed' is more natural than 'stopped' for a terminated process.
 - 2026-09-13 00:25 — No changes needed — this is already natural and idiomatic.
+=======
+- 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
+>>>>>>> Stashed changes

@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command "Confirm plain Q6 bridge is up and serving the right model" completed (exit code 0).
+=======
+The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
+>>>>>>> Stashed changes
