@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is there MTP?
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+The background command "Redownload safetensors for MTP extraction conversion" completed successfully (exit code 0).
