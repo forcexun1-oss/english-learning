@@ -14341,3 +14341,4 @@
 - 2026-09-12 19:19 — Use present continuous tense ('is downloading') to describe an ongoing action.
 - 2026-09-12 19:22 — Use "Are there..." for questions about existence, and "instead" to suggest an alternative option.
 - 2026-09-12 19:22 — Use 'Can we use...' instead of '是不是可以用' for a natural suggestion.
+- 2026-09-12 19:24 — Use 'Can' to form a question instead of just stating the sentence; also, 'GGUF' is the correct file format name, not 'ffuf'.
