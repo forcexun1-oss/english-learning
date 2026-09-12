@@ -14342,6 +14342,7 @@
 - 2026-09-12 19:22 — Use "Are there..." for questions about existence, and "instead" to suggest an alternative option.
 - 2026-09-12 19:22 — Use 'Can we use...' instead of '是不是可以用' for a natural suggestion.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-12 19:24 — Use 'Can' to form a question instead of just stating the sentence; also, 'GGUF' is the correct file format name, not 'ffuf'.
 - 2026-09-12 19:25 — Use 'Can't we just...' for a casual suggestion, or 'Why not just modify the original script?' for a more direct tone.
 - 2026-09-12 19:25 — Use 'modify' instead of 'change' for scripts; '改改' can be translated as 'just modify' to keep the casual tone.
@@ -14351,3 +14352,6 @@
 >>>>>>> Stashed changes
 - 2026-09-12 20:09 — Use "completed successfully" instead of just "completed" to emphasize the positive outcome, and add "the" before "background command" for natural article usage.
 - 2026-09-12 20:10 — Use "completed successfully" instead of just "completed" to emphasize the positive outcome, which is more natural in developer communication.
+=======
+- 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
+>>>>>>> Stashed changes
