@@ -14339,3 +14339,4 @@
 >>>>>>> Stashed changes
 - 2026-09-12 19:18 — Use the present continuous tense 'is downloading' to ask about an ongoing action.
 - 2026-09-12 19:19 — Use present continuous tense ('is downloading') to describe an ongoing action.
+- 2026-09-12 19:22 — Use "Are there..." for questions about existence, and "instead" to suggest an alternative option.
