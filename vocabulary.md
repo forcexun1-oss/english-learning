@@ -14418,3 +14418,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 00:21 — Use 'configure' or 'set up' instead of '配一下' directly; '配了吗' becomes 'is it configured' for a natural question.
