@@ -14351,6 +14351,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-12 19:24 — Use 'Can' to form a question instead of just stating the sentence; also, 'GGUF' is the correct file format name, not 'ffuf'.
 - 2026-09-12 19:25 — Use 'Can't we just...' for a casual suggestion, or 'Why not just modify the original script?' for a more direct tone.
 - 2026-09-12 19:25 — Use 'modify' instead of 'change' for scripts; '改改' can be translated as 'just modify' to keep the casual tone.
@@ -14398,3 +14399,6 @@
 >>>>>>> Stashed changes
 - 2026-09-12 22:49 — Use "completed successfully" instead of just "completed" to emphasize the positive outcome, and add "The" at the start for a complete sentence.
 - 2026-09-12 22:50 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' in natural speech — exit code is a technical detail you can omit.
+=======
+- 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
+>>>>>>> Stashed changes
