@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Wait for bridge with MTP drafter to start and check memory" finished successfully (exit code 0).
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+Can this project configure part of the experts to be on disk? Please set it up. Can the new qwen3.6 q8 have part of the experts on disk? Please configure it.
