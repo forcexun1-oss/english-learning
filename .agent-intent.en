@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Redownload Qwen3.6-35B-A3B safetensors via ModelScope for Q6 requantization" has completed (exit code 0).
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+The background command "Convert local safetensors to quantized MLX Q6 format" has completed successfully (exit code 0).
