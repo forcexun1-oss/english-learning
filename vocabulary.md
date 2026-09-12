@@ -14328,8 +14328,12 @@
 >>>>>>> Stashed changes
 - 2026-09-12 19:01 — Use "It's downloaded" or "Downloaded" instead of "下载好了" literally translated. "好了" here means completion, so "downloaded" (past participle) works naturally.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-12 19:08 — '走代理' means 'use a proxy' — say 'don't use a proxy' or 'skip the proxy'. '国内的镜像' is naturally 'a domestic mirror' or 'a China-based mirror'.
 =======
 - 2026-09-12 19:08 — '走代理' means 'use a proxy' — in English, use 'use' or 'go through' instead of 'walk' (走).
 >>>>>>> Stashed changes
 - 2026-09-12 19:13 — Use 'completed successfully' instead of just 'completed' to emphasize the positive outcome, and add 'the' before 'background command' for natural article usage.
+=======
+- 2026-09-12 19:08 — '走代理' means 'use a proxy' — in English, use 'use' or 'go through' instead of 'walk' (走).
+>>>>>>> Stashed changes
