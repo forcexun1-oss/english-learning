@@ -14338,3 +14338,4 @@
 - 2026-09-12 19:08 — '走代理' means 'use a proxy' — in English, use 'use' or 'go through' instead of 'walk' (走).
 >>>>>>> Stashed changes
 - 2026-09-12 19:18 — Use the present continuous tense 'is downloading' to ask about an ongoing action.
+- 2026-09-12 19:19 — Use present continuous tense ('is downloading') to describe an ongoing action.
