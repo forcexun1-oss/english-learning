@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Reconvert with MTP extraction using the patched fork's environment" completed successfully (exit code 0).
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+Retry conversion with explicit q-group-size to avoid the None-modulo bug.
