@@ -1,1 +1,1 @@
-Did you start it with the mac-assistant script parameters?
+The background command failed with exit code 1. Can you check what went wrong? It was running `cd /Users/youxun/project/mac-assistant` and then `BRIDGE=restart bash /tmp/bridge_only.sh`. Let me know the error output so I can fix it.
