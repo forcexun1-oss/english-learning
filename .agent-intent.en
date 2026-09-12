@@ -1,1 +1,1 @@
-Change the startup parameters for mac-assistant to streaming mode, and try limiting the memory.
+Change the startup parameters for mac-assistant to use streaming mode and add a memory limit to test it.

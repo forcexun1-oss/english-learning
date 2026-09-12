@@ -14371,3 +14371,4 @@
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
 - 2026-09-12 20:56 — Use 'streaming mode' instead of '流式的' (literally 'stream-style'), and 'limit the memory' is more natural than 'restrict memory' in this context.
+- 2026-09-12 20:58 — Use 'change' instead of '改一下' and 'add a memory limit' instead of '限制一下内存' for clearer, more natural phrasing.
