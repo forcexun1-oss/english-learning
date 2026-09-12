@@ -14326,3 +14326,4 @@
 =======
 - 2026-09-10 11:30 — Use past tense 'passed' to report a completed action, and 'with the changes in place' is a natural way to say '在改动生效的情况下'.
 >>>>>>> Stashed changes
+- 2026-09-12 19:01 — Use "It's downloaded" or "Downloaded" instead of "下载好了" literally translated. "好了" here means completion, so "downloaded" (past participle) works naturally.
