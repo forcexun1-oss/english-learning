@@ -1,1 +1,1 @@
-The background command "Redownload safetensors for MTP extraction conversion" completed successfully (exit code 0).
+Both background tasks finished successfully: the safetensors redownload for MTP extraction conversion, and the reconversion to Q6 with MTP drafter extraction.
