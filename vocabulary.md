@@ -14457,3 +14457,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 10:29 — "追上" here means "catch up with" (sync with upstream), and "彻底的修复" is "a thorough fix" — use "then" to sequence the two actions.
