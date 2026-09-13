@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Add a test where APC=0 and the session still works.
+=======
+One says 'hi', the other says 'hello'.
+>>>>>>> Stashed changes
