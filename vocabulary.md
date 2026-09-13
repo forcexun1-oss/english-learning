@@ -14618,3 +14618,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 19:37 — Use 'Is...running?' for a yes/no question about a process or script.
