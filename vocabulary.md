@@ -14806,3 +14806,4 @@
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
 - 2026-09-13 22:59 — Use 'anyway' to express persistence despite objections; '不管' here means 'regardless'.
+- 2026-09-13 23:00 — Use 'won't pass' instead of '不通过' directly; 'fix' works for both code and documents here.
