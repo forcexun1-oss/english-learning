@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Just kill that process and rerun it.
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+The full test suite on the merged tree passed (exit code 0).
