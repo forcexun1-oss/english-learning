@@ -14556,3 +14556,4 @@
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
 - 2026-09-13 14:49 — '提到' here means 'increase/raise' — use 'bump' or 'raise' for values. '开了吗' is casual; 'Is ... enabled?' is clearer.
+- 2026-09-13 14:50 — Use "wasn't" for past tense questions about a state, and "enabled" instead of "opened" when talking about features/settings.
