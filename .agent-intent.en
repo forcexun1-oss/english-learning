@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Forget about what came before. First check whether the session ID hits. The session must be saved — even if memory is low, keep at least one. If it doesn't hit, then check APC.
+=======
+What do you mean, no issue found? So nothing was fixed at all?
+>>>>>>> Stashed changes
