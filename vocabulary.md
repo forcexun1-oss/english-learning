@@ -14732,6 +14732,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
@@ -14796,3 +14797,6 @@
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
 - 2026-09-13 22:52 — Use "cache" as a verb directly, e.g., 'cache the results', instead of saying '把...缓存住'.
+=======
+- 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
+>>>>>>> Stashed changes
