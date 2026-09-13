@@ -14785,3 +14785,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-13 22:48 — Use 'investigate' or 'look into' instead of '查' for 'find out why'. Also, '没有修改的余地' translates naturally as 'no room for modification'.

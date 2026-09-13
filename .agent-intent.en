@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let's clarify the plan first. You're starting to take action again. If we don't mix it with APC, does that mean we just store wherever we calculate?
-=======
-One says 'hi', the other says 'hello'.
->>>>>>> Stashed changes
+First, investigate why it got shorter. If it can't be shortened, how did it become shorter? Also, regarding the caching solution mentioned earlier — there's no room for modification. Fix whatever is wrong: if the server is wrong, fix the server; if the client is wrong, fix the client.
