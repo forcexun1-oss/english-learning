@@ -14483,3 +14483,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 11:07 — Use 'stale' instead of '陈旧' — it's the common term for outdated caches. '实测' translates naturally as 'test it for real' or 'run a real test'.
