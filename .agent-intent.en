@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Write a plan for the specific tasks so that dsh uses flash. You read the results, make a judgment, and write the plan.
+=======
+The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
+>>>>>>> Stashed changes
