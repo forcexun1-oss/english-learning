@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What isn't saved in the first round? Logs?
-=======
-One says 'hi', the other says 'hello'.
->>>>>>> Stashed changes
+Why is this logic so messed up? A session should just need an ID, and if there's no cache, it should be stored. What does this have to do with APC at all?

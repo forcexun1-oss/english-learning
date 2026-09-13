@@ -14755,3 +14755,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-13 22:32 — '鬼逻辑' is colloquial; use 'messed up' or 'weird' instead. Also, '有半毛钱关系' means 'have nothing to do with' — say 'What does this have to do with...'.
