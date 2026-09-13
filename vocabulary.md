@@ -14527,8 +14527,12 @@
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 12:47 — Use 'at all' for emphasis in negative statements, e.g., 'nothing was fixed at all'.
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
 - 2026-09-13 14:20 — Use 'crashed' or 'hung' instead of '挂了' in a technical context; 'collided' works well for '撞到一起'.
+=======
+- 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
+>>>>>>> Stashed changes
