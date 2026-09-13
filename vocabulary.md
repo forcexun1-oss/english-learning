@@ -14473,3 +14473,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 10:59 — Use past tense 'completed' for a finished action, and 'successfully' is optional but common in status reports.
