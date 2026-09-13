@@ -14653,3 +14653,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 20:40 — Use 'took effect' for 生效, and 'was hit' for 命中缓存 in a passive form.
