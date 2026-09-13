@@ -14745,3 +14745,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-13 22:25 — Use 'Change it.' for a direct instruction; '改' alone is too terse in English.
