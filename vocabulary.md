@@ -14498,3 +14498,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 11:30 — Use 'finished running' or 'completed' instead of 'completed' alone when describing a background task finishing.
