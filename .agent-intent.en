@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The bridge restart completed successfully (exit code 0).
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+Check the startup configuration for the mac-assistant project. Even though memory limits are already set, it's still exceeding them, and memory is tight.

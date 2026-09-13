@@ -14447,3 +14447,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 10:23 — Use 'even though' to contrast the configured limit with the actual behavior, and 'exceeding' instead of '超过' for a more natural technical phrasing.
