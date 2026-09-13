@@ -14488,3 +14488,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 11:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' in natural speech.
