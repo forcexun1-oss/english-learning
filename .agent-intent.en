@@ -1,1 +1,1 @@
-Check whether both the summary and the forked records are hitting the cache correctly.
+Can you log the original request? There's no logging added yet. Going forward, let's use the original request to write tests.
