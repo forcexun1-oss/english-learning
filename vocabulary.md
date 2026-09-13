@@ -14623,3 +14623,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 19:48 — Use 'change it to' instead of '改成' directly, and 'missing' for '不命中' in a caching context.
