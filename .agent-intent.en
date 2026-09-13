@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It seems it's not crashing anymore, but it's a bit slow. Can you check what needs to be adjusted? 20G is too small. Are there other things to tune?
-=======
-What do you mean, no issue found? So nothing was fixed at all?
->>>>>>> Stashed changes
+Update the default values in run-mac-assistant.sh, bump the APC disk to 32 as well. Is MTP enabled?
