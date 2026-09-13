@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-First, catch up with upstream, then do a thorough fix.
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+Just kill that process and rerun it.
