@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What do you mean? You couldn't find the issue? No fix at all?
-=======
-The background watcher that reports when all BF16 downloads finish has completed (exit code 0).
->>>>>>> Stashed changes
+Can't we just run it with the confirmed fix? Why are we running it with the previous version?

@@ -14521,3 +14521,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 12:35 — '用确定的修复' means 'with the confirmed fix' — use 'confirmed' or 'verified' instead of 'determined' here. Also, '跑' in this context translates to 'run it'.
