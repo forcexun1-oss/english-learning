@@ -14531,3 +14531,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 14:20 — Use 'crashed' or 'hung' instead of '挂了' in a technical context; 'collided' works well for '撞到一起'.
