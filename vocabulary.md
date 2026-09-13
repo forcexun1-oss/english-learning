@@ -14673,3 +14673,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 20:53 — '绕过' can be translated as 'bypass' in technical contexts. Also, use 'doesn't hit' instead of '不命中' for cache miss.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Did the recent request hit the KV cache for the session?
-=======
-What do you mean, no issue found? So nothing was fixed at all?
->>>>>>> Stashed changes
+First, let's solve the issue where the session's KV cache doesn't hit during normal requests. Is a session ID being passed now? If so, does it bypass APC and go directly to the cache?
