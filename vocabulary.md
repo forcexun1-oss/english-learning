@@ -14821,3 +14821,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-14 00:05 — “看看” can be translated as “Take a look” or “Have a look” — more natural than a literal “Look look.”
