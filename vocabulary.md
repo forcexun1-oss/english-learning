@@ -14603,3 +14603,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 19:17 — Use the present perfect tense ('have been added') to ask about a completed action with relevance to the present.
