@@ -14714,3 +14714,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 21:43 — Use 'whether' for indirect yes/no questions, and 'hit the cache' is the natural phrase for cache access.
