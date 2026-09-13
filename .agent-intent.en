@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I'm a Chinese software developer, and I'd like to improve my English.
-=======
-What do you mean, no issue found? So nothing was fixed at all?
->>>>>>> Stashed changes
+Never mind that, it works for now. Let's focus the issue: the session ID is passed through the entire chain.
