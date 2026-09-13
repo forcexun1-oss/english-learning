@@ -14689,3 +14689,4 @@
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
 - 2026-09-13 21:05 — Use 'Never mind' or 'Don't worry about that' instead of '不用管那个' literally. Also, '整条链路上' is better as 'through the entire chain'.
+- 2026-09-13 21:05 — "过程" here means 'the process' (how you work), and "汇报" means 'the report' (what you communicate).
