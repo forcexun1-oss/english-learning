@@ -14719,6 +14719,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
@@ -14731,3 +14732,6 @@
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
 - 2026-09-13 22:08 — '看一下把' is colloquial; use 'take a look' or 'check it out'. Also, '记下来' here means 'record/use as a reference', so 'recorded' or 'use this as' works better than a literal translation.
+=======
+- 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
+>>>>>>> Stashed changes
