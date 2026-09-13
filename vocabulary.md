@@ -14765,3 +14765,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-13 22:38 — '减到' here means 'subtract from' — use 'subtract from' instead of 'reduce to' to match the technical context.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What the heck is a length guard? It computes and stores as it goes. For the previous delta-net-style KV cache, why not just keep the traditional KV before clearing it?
-=======
-One says 'hi', the other says 'hello'.
->>>>>>> Stashed changes
+Don't go into those details. What is a guard? Isn't it supposed to calculate where to store things? Why would it still subtract from the later part?
