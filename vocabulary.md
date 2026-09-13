@@ -14468,3 +14468,4 @@
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
 - 2026-09-13 10:51 — Use 'passed' instead of 'completed' when referring to tests succeeding, as it's the standard term in testing contexts.
+- 2026-09-13 10:52 — Use 'so that' to express purpose, and 'make a judgment' instead of '下判断' for a more natural phrasing.
