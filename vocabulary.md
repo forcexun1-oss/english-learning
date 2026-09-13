@@ -14516,3 +14516,4 @@
 =======
 - 2026-09-12 19:24 — Use present perfect ('has completed') to describe a finished action relevant to the current moment.
 >>>>>>> Stashed changes
+- 2026-09-13 12:33 — Use 'couldn't find' (past tense) instead of '没找到' directly translated as 'not found' — in questions about past actions, the past tense is more natural.
