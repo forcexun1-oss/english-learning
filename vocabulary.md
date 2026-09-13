@@ -14709,3 +14709,4 @@
 =======
 - 2026-09-13 12:47 — Use 'can't find' or 'no issue found' instead of '没找到问题' literally translated. 'At all' adds emphasis to the negative.
 >>>>>>> Stashed changes
+- 2026-09-13 21:16 — Use 'whether' for yes/no checks, and 'even if' to introduce a concession. Also, '不命中' is naturally rendered as 'doesn't hit' in this context.

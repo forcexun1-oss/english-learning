@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Hey, what the heck did I just do? Can you see my original requirements? I just need two types of caching: 1. Prefix caching, matching up to three levels—just three levels of a tree. 2. Caching keyed by session ID.
-=======
-What do you mean, no issue found? So nothing was fixed at all?
->>>>>>> Stashed changes
+Forget about what came before. First check whether the session ID hits. The session must be saved — even if memory is low, keep at least one. If it doesn't hit, then check APC.
