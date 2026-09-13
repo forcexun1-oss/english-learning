@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why is this logic so messed up? A session should just need an ID, and if there's no cache, it should be stored. What does this have to do with APC at all?
-=======
-One says 'hi', the other says 'hello'.
->>>>>>> Stashed changes
+What the heck is a length guard? It computes and stores as it goes. For the previous delta-net-style KV cache, why not just keep the traditional KV before clearing it?
