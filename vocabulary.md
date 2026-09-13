@@ -14725,6 +14725,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
@@ -14761,3 +14762,6 @@
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
 - 2026-09-13 22:35 — Use 'as it goes' for '算到哪里存到哪里' and 'why not just...' to make a suggestion sound natural.
+=======
+- 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
+>>>>>>> Stashed changes
