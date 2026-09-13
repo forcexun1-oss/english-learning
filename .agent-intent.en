@@ -1,1 +1,1 @@
-Can you log the original request? There's no logging added yet. Going forward, let's use the original request to write tests.
+Can you log the raw request? There's no logging added yet. From now on, let's use the raw request to write tests. One says 'hi', the other says 'hello'.

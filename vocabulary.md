@@ -14716,3 +14716,4 @@
 >>>>>>> Stashed changes
 - 2026-09-13 21:43 — Use 'whether' for indirect yes/no questions, and 'hit the cache' is the natural phrase for cache access.
 - 2026-09-13 21:44 — Use 'log' as a verb for 记下 in this context, and 'going forward' is a natural way to say '以后'.
+- 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
