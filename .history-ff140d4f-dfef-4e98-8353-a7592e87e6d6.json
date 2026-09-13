@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["去改了重启"]
-=======
-["看看总结和入库的fork都正常命中缓存吗", "能记下原始请求吗,没有加日志,以后都用原始请求来写测试", "一个hi,一个你好"]
->>>>>>> Stashed changes
+["<task-notification>\n<task-id>ba1lwo3sb</task-id>\n<tool-use-id>toolu_01YB2HEkzZq854bNBUL854V9</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-mlx-vlm/ff140d4f-dfef-4e98-8353-a7592e87e6d6/tasks/ba1lwo3sb.output</output-file>\n<status>killed</status>\n<summary>Background command \"Wait for no-drafter sweep to finish\" was stopped because the system is running low on memory</summary>\n</task-notification>"]
