@@ -14731,6 +14731,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
@@ -14791,3 +14792,6 @@
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
 - 2026-09-13 22:51 — Use 'exactly as previously specified' instead of '按前面说的不能变的方式' to sound more natural; 'wild idea' conveys '鬼方案' informally.
+=======
+- 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
+>>>>>>> Stashed changes
