@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Merge into the local main branch.
-=======
-Re-dispatch the corrected G1 to dsh.
->>>>>>> Stashed changes
+Ignore the remote. Just make sure all local branches are merged into main.
