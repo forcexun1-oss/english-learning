@@ -14742,6 +14742,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-13 21:44 — '记下' here means 'log' or 'record', not 'remember'. Use 'log' for technical contexts.
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
@@ -14850,3 +14851,6 @@
 - 2026-09-14 09:42 — Use 'confidence score' instead of just 'confidence' for clarity, and 'isn't very meaningful' sounds more natural than 'meaning is not big'.
 - 2026-09-14 09:58 — Use 'as it stands' instead of '现在这样' to mean 'in its current state'.
 - 2026-09-14 10:16 — Use 'let' + person + verb (infinitive) for permission, and 'handle it' is more natural than 'go do it' in a technical context.
+=======
+- 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
+>>>>>>> Stashed changes
