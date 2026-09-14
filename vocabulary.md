@@ -14854,3 +14854,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-14 10:39 — '怎么还' can be translated as 'why...still' to express surprise or confusion about a continuing state.
