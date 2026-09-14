@@ -14848,3 +14848,4 @@
 - 2026-09-14 09:28 — Use 'long-term and short-term memory' instead of 'long-short-term memory' for clarity. Also, 'in line with' is a natural way to say '配合' in this context.
 - 2026-09-14 09:28 — Use 'on-device' (hyphenated) as an adjective before a noun, e.g., 'on-device agent'. Also, keep technical names like 'Graphiti' and 'mlx-vlm' unchanged.
 - 2026-09-14 09:42 — Use 'confidence score' instead of just 'confidence' for clarity, and 'isn't very meaningful' sounds more natural than 'meaning is not big'.
+- 2026-09-14 09:58 — Use 'as it stands' instead of '现在这样' to mean 'in its current state'.

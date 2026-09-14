@@ -1,1 +1,1 @@
-Does the recalled data have a confidence score? The data being recalled right now isn't very meaningful. Let's look at how to optimize it.
+Does the retrieved data have confidence scores? As it stands, the retrieved data isn't very useful. Let's look at how to improve it.
