@@ -14876,6 +14876,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-14 10:51 — Use past tense 'passed' to describe a completed action, and 'exit code 0' is the standard way to say it succeeded.
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
@@ -14943,3 +14944,6 @@
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
 - 2026-09-14 16:01 — '改' alone is very terse; in English, add a subject and object, e.g., 'Fix it' or 'Change it'.
+=======
+- 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
+>>>>>>> Stashed changes
