@@ -14921,3 +14921,4 @@
 >>>>>>> Stashed changes
 - 2026-09-14 14:47 — Use past tense 'fixed' for completed actions, and 'issues' is more natural than 'problems' in technical contexts.
 - 2026-09-14 14:53 — Use past tense "fixed" for completed actions; "修了" maps to "fixed" rather than "continue".
+- 2026-09-14 14:58 — Use "passed" instead of "completed" when talking about tests succeeding.
