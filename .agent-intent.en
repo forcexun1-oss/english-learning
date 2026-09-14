@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Both background tasks completed successfully: the full suite after the cut-priority fix and the cross-session APC reuse test both exited with code 0.
+=======
+Re-dispatch the corrected G1 to dsh.
+>>>>>>> Stashed changes
