@@ -14989,3 +14989,4 @@
 - 2026-09-14 20:37 — When replying to a notification or instruction, 'Go ahead.' is a natural, concise way to say 要 (meaning 'yes, do it') in English.
 - 2026-09-14 20:38 — Use "didn't seem to be" instead of "好像没有" to sound more natural in English.
 - 2026-09-14 20:45 — Use past tense 'completed' for a finished action, and 'successfully' to indicate exit code 0.
+- 2026-09-14 20:58 — Use "the last one" to refer to the final item in a sequence. If you mean the most recent one, you could also say "the latest one."
