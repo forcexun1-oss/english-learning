@@ -14991,3 +14991,4 @@
 - 2026-09-14 20:45 — Use past tense 'completed' for a finished action, and 'successfully' to indicate exit code 0.
 - 2026-09-14 20:58 — Use "the last one" to refer to the final item in a sequence. If you mean the most recent one, you could also say "the latest one."
 - 2026-09-14 21:10 — '看看' can be translated as 'take a look' — a natural, casual way to say you're going to check something.
+- 2026-09-14 22:20 — "看看" here means "take a look at" — use "check" or "look at" with a direct object.
