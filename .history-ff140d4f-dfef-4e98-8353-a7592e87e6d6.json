@@ -1,1 +1,1 @@
-["改,不是说了APC关的情况下,之前的session测试要全都能通过吗,加了吗"]
+["改,不是说了APC关的情况下,之前的session测试要全都能通过吗,加了吗", "<task-notification>\n<task-id>bjmoog2q9</task-id>\n<tool-use-id>toolu_011gUnM8EJfnQ2qQbsWbYqwu</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-mlx-vlm/ff140d4f-dfef-4e98-8353-a7592e87e6d6/tasks/bjmoog2q9.output</output-file>\n<status>completed</status>\n<summary>Background command \"Run the full mlx-vlm test suite\" completed (exit code 0)</summary>\n</task-notification>"]

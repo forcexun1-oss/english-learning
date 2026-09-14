@@ -1,1 +1,1 @@
-Fix it — didn't we say that with APC off, all the previous session tests should still pass? Did you add that?
+The full mlx-vlm test suite passed (exit code 0).
