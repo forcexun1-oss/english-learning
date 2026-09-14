@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The full mlx-vlm test suite passed (exit code 0).
-=======
-Re-dispatch the corrected G1 to dsh.
->>>>>>> Stashed changes
+The background command "Run the full mlx-vlm suite properly" completed successfully (exit code 0).
