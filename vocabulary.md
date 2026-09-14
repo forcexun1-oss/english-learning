@@ -14993,3 +14993,4 @@
 - 2026-09-14 21:10 — '看看' can be translated as 'take a look' — a natural, casual way to say you're going to check something.
 - 2026-09-14 22:20 — "看看" here means "take a look at" — use "check" or "look at" with a direct object.
 - 2026-09-14 22:23 — The original message is already natural and idiomatic for a task notification. No changes needed.
+- 2026-09-14 22:27 — Use 'passed' instead of 'completed' when referring to a test suite that succeeded.
