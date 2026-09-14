@@ -1,6 +1,4 @@
-1. Technical review of long-term and short-term memory for the on-device agent. We refactored the entire memory system, redesigning it based on Hermes' long/short-term memory approach, building on the original simple memory.
-2. Added Graphiti for the on-device agent's external memory. Basic functionality is in place, but integration is not fully complete, and performance needs optimization.
-3. In line with the memory refactor, the KV cache in mlx-vlm needs to be refactored to address performance issues. Initial attempts are underway.
-4. Building AI capabilities for the department. Aliy added a digital employee for market analysis, mainly used as an agent for market analysis.
-
-Please translate my weekly report into English, with Chinese and English interleaved.
+1. Technical review of long-term and short-term memory for the on-device agent. The entire memory system was refactored, redesigning it based on Hermes' long-term and short-term memory on top of the original simple memory foundation.
+2. Added Graphiti for external memory of the on-device agent. Basic functionality is in place, but integration is not fully complete and performance needs optimization.
+3. To support the memory refactoring, the KV cache in mlx-vlm needs to be refactored, mainly to address performance issues; initial attempts are underway.
+4. Department AI capability building: Aliy added a market analysis digital employee, mainly used as an agent for market analysis.
