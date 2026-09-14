@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Also, why is the KV cache from the previous session still related to the guard?
+=======
+One says 'hi', the other says 'hello'.
+>>>>>>> Stashed changes
