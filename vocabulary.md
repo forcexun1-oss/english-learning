@@ -14866,6 +14866,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-14 10:51 — Use past tense 'passed' to describe a completed action, and 'exit code 0' is the standard way to say it succeeded.
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
@@ -14891,3 +14892,6 @@
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
 - 2026-09-14 11:47 — Use 'merged into' instead of '合到' — 'merge into' is the standard phrasal verb for combining branches.
+=======
+- 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
+>>>>>>> Stashed changes
