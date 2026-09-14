@@ -14845,3 +14845,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-14 09:28 — Use 'long-term and short-term memory' instead of 'long-short-term memory' for clarity. Also, 'in line with' is a natural way to say '配合' in this context.
