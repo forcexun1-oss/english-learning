@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Ignore the remote. Just make sure all local branches are merged into main.
-=======
-Re-dispatch the corrected G1 to dsh.
->>>>>>> Stashed changes
+There's a branch where the previous kv-cache is invalidated, right?
