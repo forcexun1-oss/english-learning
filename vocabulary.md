@@ -14859,3 +14859,4 @@
 =======
 - 2026-09-13 21:44 — Use 'one...the other' to contrast two items; 'says' is more natural than 'is' for spoken words.
 >>>>>>> Stashed changes
+- 2026-09-14 10:41 — Use 'didn't we say' for a rhetorical reminder, and 'should still pass' to emphasize the expectation.
