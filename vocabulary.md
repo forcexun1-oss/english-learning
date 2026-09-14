@@ -14988,3 +14988,4 @@
 - 2026-09-14 19:00 — Use present perfect "has completed" to describe a finished action relevant to the current moment.
 - 2026-09-14 20:37 — When replying to a notification or instruction, 'Go ahead.' is a natural, concise way to say 要 (meaning 'yes, do it') in English.
 - 2026-09-14 20:38 — Use "didn't seem to be" instead of "好像没有" to sound more natural in English.
+- 2026-09-14 20:45 — Use past tense 'completed' for a finished action, and 'successfully' to indicate exit code 0.
