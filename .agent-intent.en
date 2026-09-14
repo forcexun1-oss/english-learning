@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Both background tasks completed successfully: the full suite after the cut-priority fix and the cross-session APC reuse test both exited with code 0.
-=======
-Re-dispatch the corrected G1 to dsh.
->>>>>>> Stashed changes
-=======
-Re-dispatch the corrected G1 to dsh.
->>>>>>> Stashed changes
+Let's set that aside for now. Does the service need to be restarted, or can we just use it as is?
