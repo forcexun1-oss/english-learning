@@ -14972,3 +14972,4 @@
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
+- 2026-09-14 17:18 — Use 'stuck' instead of '卡住不动了' — it's the natural English verb for being unable to move or progress.
