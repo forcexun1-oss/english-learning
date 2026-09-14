@@ -1,1 +1,1 @@
-Full suite after cut-priority fix passed.
+Both background tasks completed successfully: the full suite after the cut-priority fix and the cross-session APC reuse test both exited with code 0.

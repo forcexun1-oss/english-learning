@@ -14958,3 +14958,4 @@
 >>>>>>> Stashed changes
 - 2026-09-14 16:18 — Use "them all" instead of just "all" to make the object explicit and sound more natural.
 - 2026-09-14 16:27 — Use 'passed' instead of 'completed' to clearly indicate the tests succeeded.
+- 2026-09-14 16:28 — Use 'both' to refer to two items together, and 'exited with code 0' is the standard way to describe a successful command exit.
