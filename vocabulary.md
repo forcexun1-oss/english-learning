@@ -14984,3 +14984,4 @@
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
+- 2026-09-14 18:51 — Use 'Start with' instead of '先动' to mean 'begin with' in English.
