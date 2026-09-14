@@ -1,1 +1,1 @@
-Does the retrieved data have confidence scores? As it stands, the retrieved data isn't very useful. Let's look at how to improve it.
+Let dsh use the flash model to handle it.

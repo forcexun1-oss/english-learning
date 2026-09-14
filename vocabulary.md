@@ -14849,3 +14849,4 @@
 - 2026-09-14 09:28 — Use 'on-device' (hyphenated) as an adjective before a noun, e.g., 'on-device agent'. Also, keep technical names like 'Graphiti' and 'mlx-vlm' unchanged.
 - 2026-09-14 09:42 — Use 'confidence score' instead of just 'confidence' for clarity, and 'isn't very meaningful' sounds more natural than 'meaning is not big'.
 - 2026-09-14 09:58 — Use 'as it stands' instead of '现在这样' to mean 'in its current state'.
+- 2026-09-14 10:16 — Use 'let' + person + verb (infinitive) for permission, and 'handle it' is more natural than 'go do it' in a technical context.
