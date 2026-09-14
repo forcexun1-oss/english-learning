@@ -14977,3 +14977,4 @@
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
+- 2026-09-14 17:23 — '加包活' likely means 'add a package' (加包). Use 'How do I...' for asking how to do something.
