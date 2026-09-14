@@ -14882,6 +14882,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-14 10:51 — Use past tense 'passed' to describe a completed action, and 'exit code 0' is the standard way to say it succeeded.
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
@@ -14973,3 +14974,6 @@
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
 - 2026-09-14 17:18 — Use 'stuck' instead of '卡住不动了' — it's the natural English verb for being unable to move or progress.
+=======
+- 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
+>>>>>>> Stashed changes
