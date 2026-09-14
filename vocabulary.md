@@ -14928,3 +14928,4 @@
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
 - 2026-09-14 15:06 — Use present perfect ('has completed') to describe a recently finished action with current relevance.
+- 2026-09-14 15:12 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' in casual summary — exit code is implied.
