@@ -14994,3 +14994,4 @@
 - 2026-09-14 22:20 — "看看" here means "take a look at" — use "check" or "look at" with a direct object.
 - 2026-09-14 22:23 — The original message is already natural and idiomatic for a task notification. No changes needed.
 - 2026-09-14 22:27 — Use 'passed' instead of 'completed' when referring to a test suite that succeeded.
+- 2026-09-14 22:58 — Use 'didn't hit at all' instead of '完全没命中' — 'hit' works for cache hits, and 'at all' emphasizes the completeness.
