@@ -14880,6 +14880,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-14 10:51 — Use past tense 'passed' to describe a completed action, and 'exit code 0' is the standard way to say it succeeded.
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
@@ -14960,6 +14961,9 @@
 - 2026-09-14 16:18 — Use "them all" instead of just "all" to make the object explicit and sound more natural.
 - 2026-09-14 16:27 — Use 'passed' instead of 'completed' to clearly indicate the tests succeeded.
 - 2026-09-14 16:28 — Use 'both' to refer to two items together, and 'exited with code 0' is the standard way to describe a successful command exit.
+=======
+- 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
+>>>>>>> Stashed changes
 =======
 - 2026-09-14 10:51 — Use past tense 'completed' to describe the finished action, and keep the summary concise.
 >>>>>>> Stashed changes
