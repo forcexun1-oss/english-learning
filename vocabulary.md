@@ -15013,3 +15013,4 @@
 - 2026-09-15 11:00 — "刚才这次" = "that run" or "that time"; "是在加载什么吗" = "was it loading something?"
 - 2026-09-15 11:01 — Use 'is it done by' instead of 'is done by who' to form a natural question; 'who' is for people, but here you're asking about the mechanism.
 - 2026-09-15 11:01 — Use "the model" or "the LLM" instead of "大模型" directly; "itself" is more natural than "自带" here.
+- 2026-09-15 11:03 — Use the present perfect "is up" to describe a state that just became true, rather than "came up" which is past tense.
