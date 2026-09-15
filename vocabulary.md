@@ -15029,3 +15029,4 @@
 - 2026-09-15 14:13 — Use "confidence score" instead of just "confidence" when referring to a numeric value in search results.
 - 2026-09-15 14:25 — Use "What do you plan to do about it?" instead of a literal word-for-word translation like 'This you plan how do'.
 - 2026-09-15 17:01 — Use 'filling up' instead of '太容易慢了' to express the memory becoming full, and 'switch to' for '改成'.
+- 2026-09-15 18:36 — Use 'too cluttered' instead of 'too easy to fill up' for a more natural, idiomatic phrase.
