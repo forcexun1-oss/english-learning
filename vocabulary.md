@@ -15067,3 +15067,4 @@
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
 - 2026-09-15 18:55 — "发了" is a casual way to say "sent" — use "Sent" or "I've sent it" for clarity. "看看" translates to "take a look" or "check it out".
+- 2026-09-15 18:57 — Use 'It's' to start a sentence when identifying something, and keep 'local' as a noun here (meaning the local model).
