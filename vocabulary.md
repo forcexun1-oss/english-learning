@@ -15198,3 +15198,4 @@
 - 2026-09-15 20:03 — Use 'with every request' instead of 'every time request' — 'every' needs a noun, and 'with' shows the association.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:03 — Use 'cannot' instead of '不能变' directly; 'the same session' is clearer than just 'same session'.
