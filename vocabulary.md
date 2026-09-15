@@ -15022,3 +15022,4 @@
 - 2026-09-15 13:13 — Use "Let's" to make the instruction sound more collaborative and natural in English.
 - 2026-09-15 13:27 — “自主调用” can be translated as “call autonomously” or “call on its own” — “autonomously” is more natural here than “by itself” in a technical context.
 - 2026-09-15 13:28 — Use 'Let's fix the first one first' to sequence actions naturally, and 'How do you plan to do this?' for asking about the approach.
+- 2026-09-15 13:33 — Use 'does ... go through' for asking about a process/path, and 'or is it actually...' to contrast two options naturally.
