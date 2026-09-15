@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 OK, that works. Write it up as a detailed technical design document for dsh to implement with Flash. He's not very sharp, so be very specific: define the interfaces and classes precisely, and write out the tricky parts of the code yourself. After it's done, verify the implementation.
+=======
+Typecheck the Rust changes before committing.
+>>>>>>> Stashed changes
 =======
 Typecheck the Rust changes before committing.
 >>>>>>> Stashed changes
