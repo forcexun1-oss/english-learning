@@ -15116,3 +15116,4 @@
 =======
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
 >>>>>>> Stashed changes
+- 2026-09-15 19:22 — "定义死" means to fix/define precisely — use "define strictly" or "pin down" rather than a literal translation.
