@@ -15004,3 +15004,4 @@
 - 2026-09-15 10:00 — Use 'Shouldn't it still have...' to express '不应该还有...吗' — 'still' conveys the sense of '还' (still/remaining).
 - 2026-09-15 10:01 — Use 'Shouldn't it still have...' for '他不应该还有...吗' — this is a natural way to express a surprised expectation in English.
 - 2026-09-15 10:02 — Use 'configs' (plural) instead of '配置都' to match the plural context, and 'change...to' is more natural than '改成' in English.
+- 2026-09-15 10:05 — "不止吧" means "there should be more than that" — use "There should be more" or "That's not all, right?" instead of a literal translation.
