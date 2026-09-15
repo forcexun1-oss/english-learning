@@ -15112,6 +15112,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 19:17 — Use "Continue." as a complete imperative sentence to prompt the assistant to keep going.
 =======
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
@@ -15161,3 +15162,6 @@
 >>>>>>> Stashed changes
 - 2026-09-15 19:54 — Use 'Is there...' for yes/no questions in the present tense, and 'must stay unchanged' instead of '不能变' to sound more natural.
 - 2026-09-15 19:54 — Use "check" instead of "look at" for a more direct instruction, and "again" to indicate repetition.
+=======
+- 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
+>>>>>>> Stashed changes
