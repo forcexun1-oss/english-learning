@@ -15180,6 +15180,9 @@
 - 2026-09-15 19:56 — Use "can't change" instead of "不能变" — it's more natural than "cannot be changed" in casual technical chat.
 - 2026-09-15 19:57 — Use 'Take a look' instead of just '看看' — it's a natural, complete instruction in English.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 19:59 — Use "Continue." as a complete sentence — it's a natural, concise way to tell the assistant to keep going.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
