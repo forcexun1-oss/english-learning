@@ -1,1 +1,1 @@
-Is this the only place? There should be more, right?
+Switch all models to q6 offload. We should probably convert one model first to test it out.
