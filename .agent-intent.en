@@ -1,1 +1,1 @@
-Switch all the models to q6 offload. We should probably convert one model first.
+Switch all models to q6 offload. We should probably convert one model first to test it out.

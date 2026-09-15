@@ -15000,3 +15000,4 @@
 - 2026-09-14 23:35 — Use the past tense 'finished' to report a completed action, and 'at' for scale/level.
 - 2026-09-15 09:39 — Use 'switch' instead of 'change' for settings/configurations, and 'convert' for model format transformations.
 - 2026-09-15 09:54 — Use 'switch to' instead of '换成' + '把' at the end, and 'convert' for '转' in a technical context.
+- 2026-09-15 09:57 — "把...换成" = "switch to" or "change to"; "把" is a topic marker, not directly translatable. Also "先转一个出来" means "convert one first" — use "first" before the verb for natural English word order.
