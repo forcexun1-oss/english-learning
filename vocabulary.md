@@ -15194,3 +15194,4 @@
 - 2026-09-15 20:02 — "查" alone is often translated as "Check" in a command context, but adding a subject or object (e.g., "Check this") makes it clearer.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:03 — Use 'with every request' instead of 'every time request' — 'every' needs a noun, and 'with' shows the association.
