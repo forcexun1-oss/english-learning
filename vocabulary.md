@@ -15028,3 +15028,4 @@
 - 2026-09-15 13:55 — Use "isn't very good" instead of "做得不好" — for quality, say 'not good' rather than 'not done well' when referring to a system's performance.
 - 2026-09-15 14:13 — Use "confidence score" instead of just "confidence" when referring to a numeric value in search results.
 - 2026-09-15 14:25 — Use "What do you plan to do about it?" instead of a literal word-for-word translation like 'This you plan how do'.
+- 2026-09-15 17:01 — Use 'filling up' instead of '太容易慢了' to express the memory becoming full, and 'switch to' for '改成'.
