@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watch both store files for the verification write" failed with exit code 1.
-=======
-The baseline test run before merge completed successfully (exit code 0).
->>>>>>> Stashed changes
+Fix them in order of severity.

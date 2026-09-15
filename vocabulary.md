@@ -15088,3 +15088,4 @@
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
+- 2026-09-15 19:09 — Use 'in order of' to express '按...顺序' — it's more natural than a direct word-for-word translation.
