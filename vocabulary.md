@@ -15002,3 +15002,4 @@
 - 2026-09-15 09:54 — Use 'switch to' instead of '换成' + '把' at the end, and 'convert' for '转' in a technical context.
 - 2026-09-15 09:57 — "把...换成" = "switch to" or "change to"; "把" is a topic marker, not directly translatable. Also "先转一个出来" means "convert one first" — use "first" before the verb for natural English word order.
 - 2026-09-15 10:00 — Use 'Shouldn't it still have...' to express '不应该还有...吗' — 'still' conveys the sense of '还' (still/remaining).
+- 2026-09-15 10:01 — Use 'Shouldn't it still have...' for '他不应该还有...吗' — this is a natural way to express a surprised expectation in English.
