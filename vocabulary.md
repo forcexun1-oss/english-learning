@@ -15037,6 +15037,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 18:43 — Use 'finished successfully' or 'completed' instead of 'landed' for test runs; 'land' is more common for code merges.
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
@@ -15062,3 +15063,6 @@
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
 - 2026-09-15 18:54 — Use the past tense 'Sent' for a completed action.
+=======
+- 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
+>>>>>>> Stashed changes
