@@ -15110,6 +15110,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 19:17 — Use "Continue." as a complete imperative sentence to prompt the assistant to keep going.
 =======
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
@@ -15150,3 +15151,6 @@
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
 >>>>>>> Stashed changes
 - 2026-09-15 19:50 — Use 'so slow to start' instead of '开始那么慢' to sound more natural in English.
+=======
+- 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
+>>>>>>> Stashed changes
