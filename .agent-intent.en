@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-The full cache regression after the trace change has finished running.
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
+Restart the server to apply the new code, then run it for a day to check the correlation between touch_mbps and ram_clone.
