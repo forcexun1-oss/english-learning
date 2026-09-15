@@ -1,1 +1,1 @@
-It's slow again — why? Isn't the model supposed to stay resident in memory? Stop it from keeping itself loaded.
+Check why it's slow. Isn't the model supposed to stay resident in memory? Don't let it keep reloading.
