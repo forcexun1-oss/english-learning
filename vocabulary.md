@@ -15186,3 +15186,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:01 — Use "this memory" instead of "这个记忆" for natural English; "不要了" translates better as "forget" here.
