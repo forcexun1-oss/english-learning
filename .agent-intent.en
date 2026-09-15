@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The background command "Re-run full test suite" completed successfully (exit code 0).
+=======
+The baseline test run before merge completed successfully (exit code 0).
+>>>>>>> Stashed changes
 =======
 The baseline test run before merge completed successfully (exit code 0).
 >>>>>>> Stashed changes
