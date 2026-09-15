@@ -1,1 +1,1 @@
-Are there really this many issues with APC? Should we just drop it and have the client pass the checkpoint directly instead?
+Let's fix the first one first.

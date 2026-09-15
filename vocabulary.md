@@ -15019,3 +15019,4 @@
 - 2026-09-15 11:46 — Use 'isn't it supposed to' for '不是应该...吗' and 'keep reloading' for '保持加载'.
 - 2026-09-15 13:06 — Use 'is up' to mean 'is running/available' — common in dev contexts.
 - 2026-09-15 13:09 — Use 'this many' for countable nouns like issues/problems. '抛弃' here is best translated as 'drop' or 'abandon' — 'drop' sounds more natural in a technical context.
+- 2026-09-15 13:13 — Use "Let's" to make the instruction sound more collaborative and natural in English.
