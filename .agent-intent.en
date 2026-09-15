@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Did you add the confidence score too?
+=======
+Typecheck the Rust changes before committing.
+>>>>>>> Stashed changes
