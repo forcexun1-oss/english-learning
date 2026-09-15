@@ -15036,3 +15036,4 @@
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
+- 2026-09-15 18:46 — Use 'status' instead of 'situation' when asking about the state of a task or process — it's more natural in a technical context.
