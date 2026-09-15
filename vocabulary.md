@@ -15217,3 +15217,4 @@
 - 2026-09-15 20:43 — Use "them" instead of repeating the noun, and "all" at the end for emphasis.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:45 — Use 'Delete it.' for a direct command; '删了' is informal, so add a subject or object for clarity.
