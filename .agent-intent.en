@@ -1,1 +1,1 @@
-You need to use external storage for the query, or do a hybrid query.
+Graphiti's search itself isn't very good, right? It doesn't even have confidence scores.
