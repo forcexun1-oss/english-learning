@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The full test suite on the merged tree passed (exit code 0).
+=======
+The baseline test run before merge completed successfully (exit code 0).
+>>>>>>> Stashed changes
 =======
 The baseline test run before merge completed successfully (exit code 0).
 >>>>>>> Stashed changes
