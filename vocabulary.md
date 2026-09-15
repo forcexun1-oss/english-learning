@@ -14999,3 +14999,4 @@
 - 2026-09-14 23:01 — Use "stop the summarization" instead of "stop the summary" to refer to the action/process. Also, "改成和之前一样" is naturally expressed as "change it back to how it was before."
 - 2026-09-14 23:35 — Use the past tense 'finished' to report a completed action, and 'at' for scale/level.
 - 2026-09-15 09:39 — Use 'switch' instead of 'change' for settings/configurations, and 'convert' for model format transformations.
+- 2026-09-15 09:54 — Use 'switch to' instead of '换成' + '把' at the end, and 'convert' for '转' in a technical context.
