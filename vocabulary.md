@@ -15221,3 +15221,4 @@
 - 2026-09-15 20:45 — Use 'Delete it.' for a direct command; '删了' is informal, so add a subject or object for clarity.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:46 — Use "Why is it still..." instead of "怎么还是" to express that something is unexpectedly persisting. "Querying" is the gerund form after "still".

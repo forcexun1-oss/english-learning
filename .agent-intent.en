@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Delete it.
-=======
-Take a look.
->>>>>>> Stashed changes
+Why is it still querying external memory by default?
