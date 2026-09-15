@@ -15011,3 +15011,4 @@
 - 2026-09-15 10:33 — Use 'enabled' instead of 'opened' when talking about turning on a feature or setting.
 - 2026-09-15 10:52 — Use "that run" or "that time" instead of 'this time' when referring to a past event, and 'was it...' for a past-tense question.
 - 2026-09-15 11:00 — "刚才这次" = "that run" or "that time"; "是在加载什么吗" = "was it loading something?"
+- 2026-09-15 11:01 — Use 'is it done by' instead of 'is done by who' to form a natural question; 'who' is for people, but here you're asking about the mechanism.
