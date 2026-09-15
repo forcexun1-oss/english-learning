@@ -15056,3 +15056,4 @@
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
+- 2026-09-15 18:53 — Use 'already' for completed actions and 'just' for recently completed actions.
