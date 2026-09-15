@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["你的方案1是标题加在一起是没有上限的意思吗"]
+=======
+["现在这个记忆太容易慢了,应该改成渐进式披露把", "continue", "看看Hermes-agent这个方面有什么新的进展吗", "<task-notification>\n<task-id>b47oms1gf</task-id>\n<tool-use-id>toolu_01LkzbM13rn72K9pRrPxnoNC</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-mac-assistant/9bdd5d20-f359-4e9e-8f0f-9a6077f3f482/tasks/b47oms1gf.output</output-file>\n<status>completed</status>\n<summary>Background command \"Baseline test run before merge\" completed (exit code 0)</summary>\n</task-notification>"]
+>>>>>>> Stashed changes
