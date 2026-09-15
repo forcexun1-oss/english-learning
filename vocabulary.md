@@ -15108,6 +15108,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 19:17 — Use "Continue." as a complete imperative sentence to prompt the assistant to keep going.
 =======
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
@@ -15140,3 +15141,6 @@
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
 >>>>>>> Stashed changes
 - 2026-09-15 19:47 — Use present perfect ('have been fixed') to ask about whether something is done up to now.
+=======
+- 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
+>>>>>>> Stashed changes
