@@ -15171,3 +15171,4 @@
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
 >>>>>>> Stashed changes
 - 2026-09-15 19:55 — Use 'in parallel' instead of '并行' directly; '并行' translates to 'parallel' as an adjective/adverb, but the phrase 'in parallel' is more natural in English.
+- 2026-09-15 19:55 — Use 'Can you...' for a polite request, and 'with Sonnet' instead of '用sonnet' to specify the model.
