@@ -15040,6 +15040,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 18:43 — Use 'finished successfully' or 'completed' instead of 'landed' for test runs; 'land' is more common for code merges.
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
@@ -15079,3 +15080,6 @@
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
 - 2026-09-15 19:08 — Use 'so I can' to express purpose, and 'complete version' is more natural than '完整的' directly translated.
+=======
+- 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
+>>>>>>> Stashed changes
