@@ -15233,3 +15233,4 @@
 - 2026-09-15 21:14 — Use 'Have you...' (present perfect) to ask if an action is completed. '都' here means 'everything/all of it'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 21:16 — Use '把...合一起' → 'merge them together' (verb + object + adverb). '我好重启' → 'so I can restart' (我好 = so that I can).
