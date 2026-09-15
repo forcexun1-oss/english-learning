@@ -15015,3 +15015,4 @@
 - 2026-09-15 11:01 — Use "the model" or "the LLM" instead of "大模型" directly; "itself" is more natural than "自带" here.
 - 2026-09-15 11:03 — Use the present perfect "is up" to describe a state that just became true, rather than "came up" which is past tense.
 - 2026-09-15 11:27 — “保活” (keep-alive) is a technical term here, so keep it as-is. Use “In that case” to connect to the previous context, and “stop the keep-alive” is more natural than “stop that keep-alive thing.”
+- 2026-09-15 11:39 — Use "Isn't the model supposed to..." to express an expectation, and "keep itself loaded" instead of "保持加载" for a natural phrasing.

@@ -1,1 +1,1 @@
-In that case, we can stop the keep-alive.
+It's slow again — why? Isn't the model supposed to stay resident in memory? Stop it from keeping itself loaded.
