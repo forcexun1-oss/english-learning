@@ -15027,3 +15027,4 @@
 - 2026-09-15 13:40 — Use 'You need to' instead of '你得' for a clearer, more natural instruction. '走外部存储查询' translates to 'use external storage for the query'.
 - 2026-09-15 13:55 — Use "isn't very good" instead of "做得不好" — for quality, say 'not good' rather than 'not done well' when referring to a system's performance.
 - 2026-09-15 14:13 — Use "confidence score" instead of just "confidence" when referring to a numeric value in search results.
+- 2026-09-15 14:25 — Use "What do you plan to do about it?" instead of a literal word-for-word translation like 'This you plan how do'.
