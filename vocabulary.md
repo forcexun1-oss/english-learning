@@ -15243,3 +15243,4 @@
 >>>>>>> Stashed changes
 - 2026-09-15 22:56 — Use 'Let's see' instead of just '看看' to sound more natural in English.
 - 2026-09-15 23:05 — Use present perfect "has finished" to report a completed action relevant to the current moment.
+- 2026-09-15 23:05 — Use "has finished" or "completed" instead of "completed" alone when describing a task that just finished.
