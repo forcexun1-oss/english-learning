@@ -15007,3 +15007,4 @@
 - 2026-09-15 10:05 — "不止吧" means "there should be more than that" — use "There should be more" or "That's not all, right?" instead of a literal translation.
 - 2026-09-15 10:06 — Use 'switch to' instead of '换成' directly, and 'convert' for '转' when talking about model format changes.
 - 2026-09-15 10:09 — Use 'can be deleted' (passive voice) to sound more natural in English instructions, instead of a direct command.
+- 2026-09-15 10:27 — Use "has completed" (present perfect) when reporting a just-finished task, rather than just "completed".
