@@ -1,1 +1,1 @@
-Let's fix the first one first.
+Actually, my concern is that the current calling approach for the Hermes memory external plugin should be changed so the model calls it autonomously, and the query should be rewritten when searching.
