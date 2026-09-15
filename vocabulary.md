@@ -15202,3 +15202,4 @@
 - 2026-09-15 20:03 — Use 'cannot' instead of '不能变' directly; 'the same session' is clearer than just 'same session'.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:06 — '轮' here means 'round' (as in a round of requests), not 'wheel'. Use 'every round' instead of 'every turn' if referring to request cycles.
