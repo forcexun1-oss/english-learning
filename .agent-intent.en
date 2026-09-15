@@ -1,1 +1,1 @@
-Switch all models to q6 offload. We should probably convert one model first to test it out.
+Shouldn't it still have ngram? Did you delete it?
