@@ -15113,6 +15113,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 19:17 — Use "Continue." as a complete imperative sentence to prompt the assistant to keep going.
 =======
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
@@ -15166,3 +15167,6 @@
 - 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
 >>>>>>> Stashed changes
 - 2026-09-15 19:54 — Use 'Are you done?' instead of '完成了吗' for a natural question about completion.
+=======
+- 2026-09-15 19:17 — Use the imperative form for commands — start with the verb directly.
+>>>>>>> Stashed changes
