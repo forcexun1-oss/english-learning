@@ -15026,3 +15026,4 @@
 - 2026-09-15 13:40 — Use 'go through' (走) for routing/path, and 'you just went ahead and did it' to express 你就动手了.
 - 2026-09-15 13:40 — Use 'You need to' instead of '你得' for a clearer, more natural instruction. '走外部存储查询' translates to 'use external storage for the query'.
 - 2026-09-15 13:55 — Use "isn't very good" instead of "做得不好" — for quality, say 'not good' rather than 'not done well' when referring to a system's performance.
+- 2026-09-15 14:13 — Use "confidence score" instead of just "confidence" when referring to a numeric value in search results.
