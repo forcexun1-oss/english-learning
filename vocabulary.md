@@ -15009,3 +15009,4 @@
 - 2026-09-15 10:09 — Use 'can be deleted' (passive voice) to sound more natural in English instructions, instead of a direct command.
 - 2026-09-15 10:27 — Use "has completed" (present perfect) when reporting a just-finished task, rather than just "completed".
 - 2026-09-15 10:33 — Use 'enabled' instead of 'opened' when talking about turning on a feature or setting.
+- 2026-09-15 10:52 — Use "that run" or "that time" instead of 'this time' when referring to a past event, and 'was it...' for a past-tense question.
