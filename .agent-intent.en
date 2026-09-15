@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command "Dispatch Phase 1 implementation to dsh" completed successfully (exit code 0).
+=======
+Typecheck the Rust changes before committing.
+>>>>>>> Stashed changes
