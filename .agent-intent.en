@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have you looked at the recent request logs? Any issues?
-=======
-Typecheck the Rust changes before committing.
->>>>>>> Stashed changes
+For the requests that are currently running, why are they so slow to start?
