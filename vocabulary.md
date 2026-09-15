@@ -15229,3 +15229,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 21:14 — Use 'Have you...' (present perfect) to ask if an action is completed. '都' here means 'everything/all of it'.
