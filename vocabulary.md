@@ -15031,4 +15031,8 @@
 - 2026-09-15 17:01 — Use 'filling up' instead of '太容易慢了' to express the memory becoming full, and 'switch to' for '改成'.
 - 2026-09-15 18:36 — Use 'too cluttered' instead of 'too easy to fill up' for a more natural, idiomatic phrase.
 - 2026-09-15 18:39 — Use 'Are there any...' for questions about existence, and 'developments' instead of 'progress' when referring to specific updates.
+<<<<<<< Updated upstream
 - 2026-09-15 18:43 — Use 'finished successfully' or 'completed' instead of 'landed' for test runs; 'land' is more common for code merges.
+=======
+- 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
+>>>>>>> Stashed changes
