@@ -15021,3 +15021,4 @@
 - 2026-09-15 13:09 — Use 'this many' for countable nouns like issues/problems. '抛弃' here is best translated as 'drop' or 'abandon' — 'drop' sounds more natural in a technical context.
 - 2026-09-15 13:13 — Use "Let's" to make the instruction sound more collaborative and natural in English.
 - 2026-09-15 13:27 — “自主调用” can be translated as “call autonomously” or “call on its own” — “autonomously” is more natural here than “by itself” in a technical context.
+- 2026-09-15 13:28 — Use 'Let's fix the first one first' to sequence actions naturally, and 'How do you plan to do this?' for asking about the approach.
