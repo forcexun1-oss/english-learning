@@ -15032,9 +15032,13 @@
 - 2026-09-15 18:36 — Use 'too cluttered' instead of 'too easy to fill up' for a more natural, idiomatic phrase.
 - 2026-09-15 18:39 — Use 'Are there any...' for questions about existence, and 'developments' instead of 'progress' when referring to specific updates.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 18:43 — Use 'finished successfully' or 'completed' instead of 'landed' for test runs; 'land' is more common for code merges.
 =======
 - 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
 >>>>>>> Stashed changes
 - 2026-09-15 18:46 — Use 'status' instead of 'situation' when asking about the state of a task or process — it's more natural in a technical context.
 - 2026-09-15 18:46 — Use 'passed' instead of 'completed' when referring to tests succeeding, and keep the exit code in parentheses as a concise detail.
+=======
+- 2026-09-15 18:43 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0 indicates success.
+>>>>>>> Stashed changes
