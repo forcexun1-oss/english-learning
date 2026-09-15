@@ -15206,3 +15206,4 @@
 - 2026-09-15 20:06 — '轮' here means 'round' (as in a round of requests), not 'wheel'. Use 'every round' instead of 'every turn' if referring to request cycles.
 =======
 >>>>>>> Stashed changes
+- 2026-09-15 20:06 — "没必要" can be translated as "No need" or "It's not necessary," and "有一个就行了" as "just one is enough" — keep it concise.
