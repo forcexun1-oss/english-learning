@@ -15024,3 +15024,4 @@
 - 2026-09-15 13:28 — Use 'Let's fix the first one first' to sequence actions naturally, and 'How do you plan to do this?' for asking about the approach.
 - 2026-09-15 13:33 — Use 'does ... go through' for asking about a process/path, and 'or is it actually...' to contrast two options naturally.
 - 2026-09-15 13:40 — Use 'go through' (走) for routing/path, and 'you just went ahead and did it' to express 你就动手了.
+- 2026-09-15 13:40 — Use 'You need to' instead of '你得' for a clearer, more natural instruction. '走外部存储查询' translates to 'use external storage for the query'.
