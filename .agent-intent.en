@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The full cache regression after the trace change has finished running.
+=======
+Full regression across cache suites finished successfully.
+>>>>>>> Stashed changes
 =======
 Full regression across cache suites finished successfully.
 >>>>>>> Stashed changes

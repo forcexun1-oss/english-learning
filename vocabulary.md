@@ -15245,7 +15245,11 @@
 - 2026-09-15 23:05 — Use present perfect "has finished" to report a completed action relevant to the current moment.
 - 2026-09-15 23:05 — Use "has finished" or "completed" instead of "completed" alone when describing a task that just finished.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 23:09 — Use present perfect ('has finished') to report a completed background task whose result is still relevant.
+=======
+- 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
+>>>>>>> Stashed changes
 =======
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
