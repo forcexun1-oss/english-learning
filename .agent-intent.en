@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Restart the server to apply the new code, then run it for a day to check the correlation between touch_mbps and ram_clone.
+=======
+Full regression across cache suites finished successfully.
+>>>>>>> Stashed changes
 =======
 Full regression across cache suites finished successfully.
 >>>>>>> Stashed changes
