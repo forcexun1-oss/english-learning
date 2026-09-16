@@ -15249,6 +15249,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-15 23:09 — Use present perfect ('has finished') to report a completed background task whose result is still relevant.
 =======
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
@@ -15260,6 +15261,9 @@
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
 - 2026-09-15 23:40 — Use 'apply' instead of 'use' for code changes, and 'run' for the server operation.
+=======
+- 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
+>>>>>>> Stashed changes
 =======
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
