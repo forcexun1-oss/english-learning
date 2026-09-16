@@ -15270,3 +15270,4 @@
 =======
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
+- 2026-09-16 09:08 — Use 'at the beginning' or 'in front' instead of '前面' when referring to the start of a sequence; 'why' translates naturallynaturally as 'delay' or 'latency'.

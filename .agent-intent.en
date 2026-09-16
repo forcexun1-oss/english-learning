@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Restart the server to apply the new code, then run it for a day to check the correlation between touch_mbps and ram_clone.
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
-=======
-Full regression across cache suites finished successfully.
->>>>>>> Stashed changes
+Look at the recent requests; there's always a delay at the beginning. Why is that?
