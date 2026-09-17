@@ -15464,6 +15464,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15569,3 +15570,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:24 — Use 'left to write' for remaining items; 'hasn't been written yet' is also natural.
+=======
+>>>>>>> Stashed changes
