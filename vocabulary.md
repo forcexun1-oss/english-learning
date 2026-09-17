@@ -15428,4 +15428,7 @@
 - 2026-09-17 13:41 — In dev contexts, "拉起来" often translates as "bring up" or "spin up" for services/processes.
 - 2026-09-17 14:08 — For questions with "be" (is/are), put the verb first: "Is douyin the only group?" — no "does" needed.
 - 2026-09-17 14:08 — `come up` is the idiomatic phrasal verb for a service starting successfully ("the server didn't come up"); avoid "did not come up" in chat — use the contraction `didn't`.
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
+=======
+>>>>>>> Stashed changes
