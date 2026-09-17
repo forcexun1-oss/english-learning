@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-We're still at the design stage.
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+Let's bring in external memory. How much memory does the current external memory use? It's also built on Redis underneath, right? It won't need to hold the full dataset in memory, will it?

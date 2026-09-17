@@ -15540,3 +15540,4 @@
 - 2026-09-17 16:57 — "方案阶段" = the design/planning stage; "哈" is a softener and doesn't need translating — a friendly tone can come from phrasing like "still ... though" if you want.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 17:03 — "占多少内存" is naturally "how much memory does it use" or "how much memory does it take up"; "底层" here means "underlying" or "built on".
