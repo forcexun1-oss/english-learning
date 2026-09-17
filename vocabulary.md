@@ -15497,3 +15497,4 @@
 - 2026-09-17 16:01 — "还剩多少" maps naturally to "how much is left" — English prefers the question form over a literal "how much remains".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:04 — Use "standalone" for 独立的, and "how much memory" for 多少内存.
