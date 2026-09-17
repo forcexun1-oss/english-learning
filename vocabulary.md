@@ -15643,3 +15643,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 22:14 — In the API sense, 接口 is usually 'endpoint' or 'API', not 'interface'.
