@@ -15465,3 +15465,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 15:14 — "写死" in casual Chinese maps to "hardcoded" in English; "编排" for workflows is best rendered as "orchestrate" or "orchestration".
+- 2026-09-17 15:15 — "一次搞完" can be rendered as "finish it all in one go" or "do it all at once".
