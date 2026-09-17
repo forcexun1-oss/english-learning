@@ -15545,3 +15545,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:05 — In tech contexts, 介入 is better translated as "hook into" or "integrate with" rather than "intervene in."
+- 2026-09-17 17:06 — "就是" here confirms identity, so English uses "It's..." (or "That's the one..."). For 查 in this context, "look up" or "check" both work; "search" would imply you didn't find it yet.
