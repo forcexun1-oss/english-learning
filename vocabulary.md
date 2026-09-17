@@ -15630,3 +15630,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 21:52 — “再” before a verb often means “again”; in English, place “again” after the verb or object.
