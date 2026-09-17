@@ -15644,3 +15644,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 22:14 — In the API sense, 接口 is usually 'endpoint' or 'API', not 'interface'.
+- 2026-09-17 22:26 — When stating a file's line count, English prefers an appositive ("agent-turn-endpoint.md — 733 lines: decisions + ...") over a bare number stacked after the filename; a colon or dash makes the relationship clear.
