@@ -14,7 +14,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["mac-assistant的外部记忆可以不管, 抖音收藏的数据要迁移过来", "检查抖音数据全量迁移(Neo4j -> embedded FalkorDB)的后台任务结果,核对迁移后的节点/边计数与源库是否完全一致,并向用户汇报迁移状态。", "修一下那个 SIGTERM 孤儿进程的问题", "group只有douyin吗", "[run-mac-assistant] starting Graphiti MCP server on :8000 (group-id: douyin)\n[run-mac-assistant] waiting for Graphiti MCP server............................................................\n[run-mac-assistant] Graphiti MCP server did not come up in time; see /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout", "group_id:mac-assistant可以写和读的吧"]
+=======
+["mac-assistant的外部记忆可以不管, 抖音收藏的数据要迁移过来", "检查抖音数据全量迁移(Neo4j -> embedded FalkorDB)的后台任务结果,核对迁移后的节点/边计数与源库是否完全一致,并向用户汇报迁移状态。", "修一下那个 SIGTERM 孤儿进程的问题", "group只有douyin吗", "[run-mac-assistant] starting Graphiti MCP server on :8000 (group-id: douyin)\n[run-mac-assistant] waiting for Graphiti MCP server............................................................\n[run-mac-assistant] Graphiti MCP server did not come up in time; see /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout"]
+>>>>>>> Stashed changes
 =======
 ["mac-assistant的外部记忆可以不管, 抖音收藏的数据要迁移过来", "检查抖音数据全量迁移(Neo4j -> embedded FalkorDB)的后台任务结果,核对迁移后的节点/边计数与源库是否完全一致,并向用户汇报迁移状态。", "修一下那个 SIGTERM 孤儿进程的问题", "group只有douyin吗", "[run-mac-assistant] starting Graphiti MCP server on :8000 (group-id: douyin)\n[run-mac-assistant] waiting for Graphiti MCP server............................................................\n[run-mac-assistant] Graphiti MCP server did not come up in time; see /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout"]
 >>>>>>> Stashed changes
