@@ -15410,3 +15410,4 @@
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
 - 2026-09-17 09:16 — In English, "again" usually comes after the verb or object, not before it.
+- 2026-09-17 09:34 — “可以不管” means “can be ignored” or “don’t worry about”; “迁移过来” is naturally “migrated over” when moving data toward the current system.
