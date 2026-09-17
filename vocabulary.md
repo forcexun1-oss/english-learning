@@ -15413,3 +15413,4 @@
 - 2026-09-17 09:34 — “可以不管” means “can be ignored” or “don’t worry about”; “迁移过来” is naturally “migrated over” when moving data toward the current system.
 - 2026-09-17 09:40 — In English, "again" usually comes after the verb, not before it.
 - 2026-09-17 10:05 — “无侵入的” is often translated as “non-intrusive” or “non-invasive”; “先给我讲一下” sounds natural as “walk me through it first.”
+- 2026-09-17 10:34 — Use "please review again" for a polite request; "review" can stay as a technical term.
