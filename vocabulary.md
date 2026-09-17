@@ -15600,3 +15600,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 20:08 — “看看” can be rendered as “Take a look” or “Check it out”; in imperative instructions, the subject is usually omitted.
