@@ -15623,3 +15623,4 @@
 - 2026-09-17 20:56 — “还有” in questions often translates to “any other” or “remaining,” not literally “still have.”
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 20:57 — "再看看" can be rendered as "take another look" or "look again"; use "another" for one more review.
