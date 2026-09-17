@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-1. Let the agent decide the order itself. 2. Use pi's — we don't need the original memory anymore.
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+We're still at the design stage.
