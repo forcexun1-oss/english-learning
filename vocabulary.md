@@ -15585,3 +15585,4 @@
 - 2026-09-17 17:32 — “一下” softens a request; in English, use “please” or a polite imperative like “Please review…”.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 18:47 — “再……一下” often means “do it again” or “one more time”; here “review” works as a verb.
