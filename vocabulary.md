@@ -15528,3 +15528,4 @@
 - 2026-09-17 16:43 — "先不管" translates naturally as "let's not worry about ... for now" or "leave ... aside for now" — the 先 signals "for the time being," so include "for now" in English.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:48 — "不管A，只认B" can be rendered as "ignore A and only use B" or "regardless of A, only B is used".
