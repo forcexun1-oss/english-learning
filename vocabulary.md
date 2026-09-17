@@ -15593,3 +15593,4 @@
 - 2026-09-17 18:56 — Use "all together" or "at once" for 一起; "report" works naturally for errors or issues.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 19:47 — “一点一点” can mean “bit by bit” or “one by one”; here “one by one” fits reporting items separately.
