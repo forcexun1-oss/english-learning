@@ -15463,6 +15463,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15565,3 +15566,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:20 — "第二点" = "the second point/item"; "是什么意思" maps to "what does ... mean?" — keep the auxiliary "does" before the subject.
+=======
+>>>>>>> Stashed changes
