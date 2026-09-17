@@ -15631,3 +15631,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 21:52 — “再” before a verb often means “again”; in English, place “again” after the verb or object.
+- 2026-09-17 21:53 — “一直……下去” means “keep doing something”; in English, a bare “why?” can sound abrupt, so “why is that?” is more natural here.
