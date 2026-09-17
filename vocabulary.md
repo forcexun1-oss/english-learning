@@ -15476,3 +15476,4 @@
 - 2026-09-17 15:20 — “再……一下” often means “do it again” or “one more time”; here “review” works as a verb.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:30 — "都改掉" here means "change/remove all of them"; "固定的流水线" translates naturally as "a fixed pipeline", and "等等" as "and so on" or "etc."
