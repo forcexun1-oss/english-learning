@@ -15636,3 +15636,4 @@
 - 2026-09-17 21:55 — “按照这个标准” can be translated as “according to this standard” or “against this standard”; “一下” softens the request and is usually omitted in English.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 22:02 — "顺手改掉" → "fix it along the way" or "fix it while we're at it" — a natural English idiom for doing something incidental to another task.
