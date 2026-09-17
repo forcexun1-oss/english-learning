@@ -15604,3 +15604,4 @@
 - 2026-09-17 20:08 — “看看” can be rendered as “Take a look” or “Check it out”; in imperative instructions, the subject is usually omitted.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 20:11 — “可以 + 动词 + 的” often translates as “can be + past participle” or an adjective ending in “-able”; here “It can be cancelled” is natural.
