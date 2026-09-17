@@ -15409,3 +15409,4 @@
 =======
 - 2026-09-15 23:09 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 >>>>>>> Stashed changes
+- 2026-09-17 09:16 — In English, "again" usually comes after the verb or object, not before it.
