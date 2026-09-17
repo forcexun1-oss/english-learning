@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Keep it and merge it into the plan. Has this project introduced pi agent? Is the integration in use?
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+If we integrate the pi agent the same way as mac-assistant, would this template management still be useful?

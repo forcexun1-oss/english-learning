@@ -15489,3 +15489,4 @@
 - 2026-09-17 15:47 — "并入" means "merge into / fold into"; "引入" here means "introduce/adopt" a tool or dependency, not "lead in".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:54 — "还用得上吗" means "would it still be useful/needed?" — 用得上 = "be of use"; "像…一样" translates naturally as "the same way as…".
