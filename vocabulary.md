@@ -15461,6 +15461,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15557,3 +15558,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:14 — The sentence-final 吧 marks a request for confirmation, which English renders with a tag question like "right?" or "isn't it?" — not with "maybe".
+=======
+>>>>>>> Stashed changes
