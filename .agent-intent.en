@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 [benchmark-design.md:1439 (line 1439)](/Users/youxun/project/agent-eval/docs/superpowers/specs/2026-09-16-agent-eval-benchmark-design.md:1439)–[1440 (line 1440)](/Users/youxun/project/agent-eval/docs/superpowers/specs/2026-09-16-agent-eval-benchmark-design.md:1440) still says "split into three, corresponding to the three surfaced states among the six states", but this section now defines "four coverage rates", three of which are provenance upper bounds and the other is index coverage. It creates numerical confusion for the reader, but doesn't change the algorithm; it can be fixed along the way when we unify the wording.
+=======
+Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
+>>>>>>> Stashed changes
