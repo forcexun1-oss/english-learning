@@ -15425,3 +15425,4 @@
 - 2026-09-17 11:49 — “再” before a verb means “again”; in English, place “again” after the verb or verb phrase.
 - 2026-09-17 13:01 — '再' before a verb means 'again'; in English, put 'again' after the verb.
 - 2026-09-17 13:08 — “再” before a verb means “again”; “review” can be used directly as a verb.
+- 2026-09-17 13:41 — In dev contexts, "拉起来" often translates as "bring up" or "spin up" for services/processes.
