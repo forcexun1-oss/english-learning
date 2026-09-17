@@ -1,1 +1,1 @@
-The business no longer wants to call our middleware one by one; they want to invoke an agent to orchestrate them. How should we run it?
+Take another look.
