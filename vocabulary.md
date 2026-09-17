@@ -15449,3 +15449,4 @@
 - 2026-09-17 14:50 — "补上" = add / fill in the missing part — use "add" for content you append, "fill in" for blanks (fill in the missing steps).
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 14:51 — "再看看" means "take another look" or "look again"; "再" = again, "看看" = have a look.
