@@ -15480,6 +15480,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15633,3 +15634,5 @@
 - 2026-09-17 21:52 — “再” before a verb often means “again”; in English, place “again” after the verb or object.
 - 2026-09-17 21:53 — “一直……下去” means “keep doing something”; in English, a bare “why?” can sound abrupt, so “why is that?” is more natural here.
 - 2026-09-17 21:55 — “按照这个标准” can be translated as “according to this standard” or “against this standard”; “一下” softens the request and is usually omitted in English.
+=======
+>>>>>>> Stashed changes
