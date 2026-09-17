@@ -15493,3 +15493,4 @@
 - 2026-09-17 15:54 — "还用得上吗" means "would it still be useful/needed?" — 用得上 = "be of use"; "像…一样" translates naturally as "the same way as…".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:01 — "还剩多少" maps naturally to "how much is left" — English prefers the question form over a literal "how much remains".
