@@ -15477,3 +15477,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 15:30 — "都改掉" here means "change/remove all of them"; "固定的流水线" translates naturally as "a fixed pipeline", and "等等" as "and so on" or "etc."
+- 2026-09-17 15:32 — "不是让你…" is naturally rendered as "not (asking) you to…"; pair it with the earlier verb so the contrast is clear, e.g. "write a plan, not make changes."
