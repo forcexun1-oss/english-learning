@@ -15589,3 +15589,4 @@
 - 2026-09-17 18:47 — “再……一下” often means “do it again” or “one more time”; here “review” works as a verb.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 18:56 — Use "all together" or "at once" for 一起; "report" works naturally for errors or issues.
