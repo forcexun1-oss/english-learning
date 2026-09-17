@@ -15568,3 +15568,4 @@
 - 2026-09-17 17:20 — "第二点" = "the second point/item"; "是什么意思" maps to "what does ... mean?" — keep the auxiliary "does" before the subject.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 17:24 — Use 'left to write' for remaining items; 'hasn't been written yet' is also natural.
