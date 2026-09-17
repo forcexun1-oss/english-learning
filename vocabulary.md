@@ -15464,3 +15464,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:14 — "写死" in casual Chinese maps to "hardcoded" in English; "编排" for workflows is best rendered as "orchestrate" or "orchestration".

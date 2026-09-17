@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Take another look.
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+Let's set that aside for now and just get it wired up first. Is there a place to manage the prompts, or are they hardcoded? And how is the workflow orchestrated — is that hardcoded too?
