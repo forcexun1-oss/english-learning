@@ -15560,3 +15560,4 @@
 - 2026-09-17 17:14 — The sentence-final 吧 marks a request for confirmation, which English renders with a tag question like "right?" or "isn't it?" — not with "maybe".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 17:16 — "不是...吗" is a rhetorical question expecting agreement — render it as "Wasn't it...?" or "Didn't we...?" rather than a literal "Is it not...?". Also, "接" for plugins means "integrated/hooked up".

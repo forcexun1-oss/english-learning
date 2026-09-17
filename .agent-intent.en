@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-session_search is actually still there, right?
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+Wasn't the Hermes plugin already integrated? It has session_search, right? It's not the external memory one.
