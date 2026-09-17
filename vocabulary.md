@@ -15451,6 +15451,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15515,5 +15516,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 16:34 — “这样的话” can be translated as “in that case” or “since that's the case”; “还是要的” means “is still needed/necessary.”
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
