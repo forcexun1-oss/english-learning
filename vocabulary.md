@@ -15481,3 +15481,4 @@
 - 2026-09-17 15:32 — "不是让你…" is naturally rendered as "not (asking) you to…"; pair it with the earlier verb so the contrast is clear, e.g. "write a plan, not make changes."
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:43 — "模版" is a common variant of "模板" (template); in English, use "Does A or B have..." with a singular verb when asking about either one.
