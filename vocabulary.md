@@ -15564,3 +15564,4 @@
 - 2026-09-17 17:16 — "不是...吗" is a rhetorical question expecting agreement — render it as "Wasn't it...?" or "Didn't we...?" rather than a literal "Is it not...?". Also, "接" for plugins means "integrated/hooked up".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 17:20 — "第二点" = "the second point/item"; "是什么意思" maps to "what does ... mean?" — keep the auxiliary "does" before the subject.
