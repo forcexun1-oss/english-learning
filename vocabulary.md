@@ -15444,6 +15444,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15490,3 +15491,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 15:54 — "还用得上吗" means "would it still be useful/needed?" — 用得上 = "be of use"; "像…一样" translates naturally as "the same way as…".
+=======
+>>>>>>> Stashed changes
