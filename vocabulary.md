@@ -15453,6 +15453,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15525,3 +15526,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 16:43 — "先不管" translates naturally as "let's not worry about ... for now" or "leave ... aside for now" — the 先 signals "for the time being," so include "for now" in English.
+=======
+>>>>>>> Stashed changes
