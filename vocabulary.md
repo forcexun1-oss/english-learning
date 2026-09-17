@@ -15581,3 +15581,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:32 — "再 + verb + 一下" means "do it once more" — here 再 = "again" and 一下 softens the request, so "Review it again" (or "Take another look") captures both parts.
+- 2026-09-17 17:32 — “一下” softens a request; in English, use “please” or a polite imperative like “Please review…”.
