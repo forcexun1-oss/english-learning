@@ -15411,3 +15411,4 @@
 >>>>>>> Stashed changes
 - 2026-09-17 09:16 — In English, "again" usually comes after the verb or object, not before it.
 - 2026-09-17 09:34 — “可以不管” means “can be ignored” or “don’t worry about”; “迁移过来” is naturally “migrated over” when moving data toward the current system.
+- 2026-09-17 09:40 — In English, "again" usually comes after the verb, not before it.
