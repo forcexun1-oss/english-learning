@@ -15462,6 +15462,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15561,3 +15562,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 17:16 — "不是...吗" is a rhetorical question expecting agreement — render it as "Wasn't it...?" or "Didn't we...?" rather than a literal "Is it not...?". Also, "接" for plugins means "integrated/hooked up".
+=======
+>>>>>>> Stashed changes
