@@ -15532,3 +15532,4 @@
 - 2026-09-17 16:48 — "不管A，只认B" can be rendered as "ignore A and only use B" or "regardless of A, only B is used".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:51 — 「不要了」here means 'no longer needed / drop it', not literally 'don't want'. In English, phrases like 'we don't need X anymore' or 'drop X' capture this naturally.

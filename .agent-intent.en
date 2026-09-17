@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How do you plan to fix bug 1? It should ignore the config and only use the prompt passed from the client, right?
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+1. Let the agent decide the order itself. 2. Use pi's — we don't need the original memory anymore.
