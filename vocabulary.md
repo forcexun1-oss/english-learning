@@ -15556,3 +15556,4 @@
 - 2026-09-17 17:09 — "算了" = "never mind / forget it"; note you typed 把 instead of the particle 吧.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 17:14 — The sentence-final 吧 marks a request for confirmation, which English renders with a tag question like "right?" or "isn't it?" — not with "maybe".
