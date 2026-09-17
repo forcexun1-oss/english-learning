@@ -15414,3 +15414,4 @@
 - 2026-09-17 09:40 — In English, "again" usually comes after the verb, not before it.
 - 2026-09-17 10:05 — “无侵入的” is often translated as “non-intrusive” or “non-invasive”; “先给我讲一下” sounds natural as “walk me through it first.”
 - 2026-09-17 10:34 — Use "please review again" for a polite request; "review" can stay as a technical term.
+- 2026-09-17 10:40 — '继续' as a standalone instruction is naturally 'Continue.' or 'Go on.'
