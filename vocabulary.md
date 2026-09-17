@@ -15505,3 +15505,4 @@
 - 2026-09-17 16:10 — 「更省」here means more memory-efficient; in English say "use less memory" or "be more memory-efficient" rather than a literal "more economical".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:13 — "让...做..." maps naturally to "have + someone + bare verb" (have dsh use), not "let dsh to use".
