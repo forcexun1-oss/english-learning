@@ -15430,9 +15430,12 @@
 - 2026-09-17 14:08 — `come up` is the idiomatic phrasal verb for a service starting successfully ("the server didn't come up"); avoid "did not come up" in chat — use the contraction `didn't`.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 14:11 — For confirmation questions ending in 吧, English often uses a tag like 'right?' or 'can't it?'. Note the verb-preposition pairs: 'write to' and 'read from' a group.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
