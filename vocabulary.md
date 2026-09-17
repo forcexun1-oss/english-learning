@@ -15619,3 +15619,4 @@
 - 2026-09-17 20:22 — 再看看 means 'take another look'; 再 = again, 看看 = have a look.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 20:56 — “还有” in questions often translates to “any other” or “remaining,” not literally “still have.”
