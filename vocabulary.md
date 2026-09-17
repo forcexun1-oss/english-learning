@@ -15421,3 +15421,4 @@
 - 2026-09-17 11:20 — Use a semicolon or period to separate two independent clauses; '可以不管' translates naturally as 'can be ignored' or 'ignore'.
 - 2026-09-17 11:26 — In English, "再" before a verb usually becomes "again" after the verb, not a prefix like "re-".
 - 2026-09-17 11:39 — In English, 'again' usually comes after the verb: 'review again' rather than 'again review'.
+- 2026-09-17 11:43 — "修一下" is casual Chinese for "fix"; in English, "fix that ... issue" reads naturally. Use "orphan process" (noun) rather than "orphan-process problem" unless you want it as a compound modifier.
