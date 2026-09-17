@@ -15449,6 +15449,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15510,3 +15511,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 16:31 — “有必要做某事” is naturally expressed as “Is it necessary to do something?” or “Do we need to do something?” rather than a literal translation of “have necessity.”
+=======
+>>>>>>> Stashed changes
