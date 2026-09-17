@@ -15456,3 +15456,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:00 — "串起来" means to chain/orchestrate things together; for software, "orchestrate" or "wire together" sounds more natural than "string them up." Also, "掉" here is likely a typo for "调" (call/invoke).
