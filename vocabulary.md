@@ -15424,3 +15424,4 @@
 - 2026-09-17 11:43 — "修一下" is casual Chinese for "fix"; in English, "fix that ... issue" reads naturally. Use "orphan process" (noun) rather than "orphan-process problem" unless you want it as a compound modifier.
 - 2026-09-17 11:49 — “再” before a verb means “again”; in English, place “again” after the verb or verb phrase.
 - 2026-09-17 13:01 — '再' before a verb means 'again'; in English, put 'again' after the verb.
+- 2026-09-17 13:08 — “再” before a verb means “again”; “review” can be used directly as a verb.
