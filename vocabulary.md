@@ -15419,3 +15419,4 @@
 - 2026-09-17 11:03 — “再” before a verb means “again”; in English, put “again” after the verb, e.g. “review it again.”
 - 2026-09-17 11:16 — In English, add a polite subject like 'Please' or 'Could you' when making a request; '再' here means 'again'.
 - 2026-09-17 11:20 — Use a semicolon or period to separate two independent clauses; '可以不管' translates naturally as 'can be ignored' or 'ignore'.
+- 2026-09-17 11:26 — In English, "再" before a verb usually becomes "again" after the verb, not a prefix like "re-".
