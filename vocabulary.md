@@ -15439,6 +15439,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15467,5 +15468,7 @@
 >>>>>>> Stashed changes
 - 2026-09-17 15:14 — "写死" in casual Chinese maps to "hardcoded" in English; "编排" for workflows is best rendered as "orchestrate" or "orchestration".
 - 2026-09-17 15:15 — "一次搞完" can be rendered as "finish it all in one go" or "do it all at once".
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
