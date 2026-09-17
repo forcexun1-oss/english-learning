@@ -15422,3 +15422,4 @@
 - 2026-09-17 11:26 — In English, "再" before a verb usually becomes "again" after the verb, not a prefix like "re-".
 - 2026-09-17 11:39 — In English, 'again' usually comes after the verb: 'review again' rather than 'again review'.
 - 2026-09-17 11:43 — "修一下" is casual Chinese for "fix"; in English, "fix that ... issue" reads naturally. Use "orphan process" (noun) rather than "orphan-process problem" unless you want it as a compound modifier.
+- 2026-09-17 11:49 — “再” before a verb means “again”; in English, place “again” after the verb or verb phrase.
