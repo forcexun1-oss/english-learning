@@ -15524,3 +15524,4 @@
 - 2026-09-17 16:39 — “串联” here means chaining/integration; “本来” can be rendered as “to begin with” or “originally.”
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:43 — "先不管" translates naturally as "let's not worry about ... for now" or "leave ... aside for now" — the 先 signals "for the time being," so include "for now" in English.
