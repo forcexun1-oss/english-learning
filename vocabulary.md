@@ -15472,3 +15472,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:20 — “再……一下” often means “do it again” or “one more time”; here “review” works as a verb.
