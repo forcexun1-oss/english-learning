@@ -15501,3 +15501,4 @@
 - 2026-09-17 16:04 — Use "standalone" for 独立的, and "how much memory" for 多少内存.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:10 — 「更省」here means more memory-efficient; in English say "use less memory" or "be more memory-efficient" rather than a literal "more economical".
