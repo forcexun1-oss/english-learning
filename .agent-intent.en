@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 **Current structure**
     agent-turn-endpoint.md — 733 lines: decisions + rationale + work packages
     agent-turn-spec-annex.md — 253 lines: spec definitions (implementation and tests are bound to it)
     evidence/ — actual test scripts and raw output
     Annex §7 lists 5 items under "TODOs for this annex" — all contracts that haven't been settled in the proposal yet (how to expose `stream:false`, session mapping, SSE seq, audio encoding, request model). We'll fill them in one by one as each gets decided. Take a look.
+=======
+Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
+>>>>>>> Stashed changes
