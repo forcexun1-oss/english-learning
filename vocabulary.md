@@ -15416,3 +15416,4 @@
 - 2026-09-17 10:34 — Use "please review again" for a polite request; "review" can stay as a technical term.
 - 2026-09-17 10:40 — '继续' as a standalone instruction is naturally 'Continue.' or 'Go on.'
 - 2026-09-17 10:45 — “过” here means “pass/get through,” so use “pass the review” rather than “cross the review.”
+- 2026-09-17 11:03 — “再” before a verb means “again”; in English, put “again” after the verb, e.g. “review it again.”
