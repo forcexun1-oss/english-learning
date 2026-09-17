@@ -15513,3 +15513,4 @@
 - 2026-09-17 16:31 — “有必要做某事” is naturally expressed as “Is it necessary to do something?” or “Do we need to do something?” rather than a literal translation of “have necessity.”
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:34 — “这样的话” can be translated as “in that case” or “since that's the case”; “还是要的” means “is still needed/necessary.”
