@@ -15485,3 +15485,4 @@
 - 2026-09-17 15:43 — "模版" is a common variant of "模板" (template); in English, use "Does A or B have..." with a singular verb when asking about either one.
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 15:47 — "并入" means "merge into / fold into"; "引入" here means "introduce/adopt" a tool or dependency, not "lead in".
