@@ -15520,3 +15520,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:39 — “串联” here means chaining/integration; “本来” can be rendered as “to begin with” or “originally.”
