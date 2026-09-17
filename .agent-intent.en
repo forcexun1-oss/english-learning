@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have dsh use the flash model and give it a try.
-=======
-Graphiti MCP server didn't come up in time when starting on :8000 (group-id: douyin). Check the log at /Users/youxun/graphiti-mcp-server/mcp_server/.mcp_server_launch.stdout
->>>>>>> Stashed changes
+Is it necessary to add prompt management?

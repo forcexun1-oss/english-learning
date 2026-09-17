@@ -15509,3 +15509,4 @@
 - 2026-09-17 16:13 — "让...做..." maps naturally to "have + someone + bare verb" (have dsh use), not "let dsh to use".
 =======
 >>>>>>> Stashed changes
+- 2026-09-17 16:31 — “有必要做某事” is naturally expressed as “Is it necessary to do something?” or “Do we need to do something?” rather than a literal translation of “have necessity.”
