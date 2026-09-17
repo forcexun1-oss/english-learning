@@ -15448,6 +15448,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-17 14:10 — "再" before a verb means "again" — in English put "again" after the verb or object: "Review it again."
 =======
 >>>>>>> Stashed changes
@@ -15506,3 +15507,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-17 16:13 — "让...做..." maps naturally to "have + someone + bare verb" (have dsh use), not "let dsh to use".
+=======
+>>>>>>> Stashed changes
