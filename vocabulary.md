@@ -15759,3 +15759,4 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 11:52 — In English, say 'review the plan' directly; the Chinese softening particle '一下' usually doesn't need a direct translation.
+- 2026-09-18 11:52 — Use "phase" for project stages; "whole plan" is natural for 全部计划.
