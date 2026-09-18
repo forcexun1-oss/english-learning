@@ -15789,3 +15789,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 13:02 — “一下” softens a request but is not translated literally; use “please review” or “take a look at” in English.
