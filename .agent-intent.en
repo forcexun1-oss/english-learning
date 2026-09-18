@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 OK, let's get these done.
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>bqlz1d4ej</task-id>
 <tool-use-id>toolu_01F546qmhDzbcSvVQiAwU6xM</tool-use-id>
@@ -10,4 +13,7 @@ OK, let's get these done.
 export PYO3_PYTHON="$PWD/python/.venv/bin/python"
 cargo test -p middleware-service --features service --lib agent::handler::tests::non_stream_preempted_returns_409_turn_preempted -- --exact 2>&1 | tail -30" completed (exit code 0)</summary>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
