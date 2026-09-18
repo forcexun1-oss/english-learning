@@ -15679,3 +15679,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 09:54 — “再” here means “again”; in English, use “review ... again” or “take another look” rather than adding “once more” after “review.”
