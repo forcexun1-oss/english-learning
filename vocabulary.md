@@ -15674,3 +15674,4 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 09:36 — "记下" can be translated as "note down" or "jot down"; "后面" here means "later," not physical "behind."
+- 2026-09-18 09:36 — "算了" can mean "never mind" or "on second thought," depending on whether you're dropping or changing a plan.
