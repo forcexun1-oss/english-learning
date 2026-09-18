@@ -15734,3 +15734,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:59 — Use "again" after the verb to mean 再; the object can be omitted when it is clear from context.
