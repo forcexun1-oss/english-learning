@@ -15794,3 +15794,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 13:13 — "继续" as a standalone instruction maps directly to the imperative "Continue" — no subject or object needed.
