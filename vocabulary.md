@@ -15796,3 +15796,4 @@
 >>>>>>> Stashed changes
 - 2026-09-18 13:13 — "继续" as a standalone instruction maps directly to the imperative "Continue" — no subject or object needed.
 - 2026-09-18 13:14 — 「继续」as a standalone instruction is best rendered as the imperative "Continue." — you can also say "Go on." or "Keep going." for a more casual tone.
+- 2026-09-18 13:21 — Use 'a' before a singular countable noun; 'dual' is an adjective meaning 'twofold' or 'two-part'.
