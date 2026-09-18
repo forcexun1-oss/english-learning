@@ -15655,8 +15655,12 @@
 - 2026-09-18 08:53 — The 是……的 pattern here emphasizes the agent/object — in English, 'needs my decision' is more natural than 'is for me to decide', though both work.
 - 2026-09-18 09:13 — "还有什么" = "what else"; "要我决策的" means "that requires my decision", so a natural phrasing is "What else do I need to decide?" or "What else needs my decision?"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 09:23 — Use "Why would there be...?" to express puzzled disbelief; "不就是...吗" often becomes a tag question like "..., didn't we?" or "..., right?"
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
