@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["双监听器是什么"]
-=======
-["<task-notification>\n<task-id>bvz8i1g97</task-id>\n<tool-use-id>toolu_01MVVBxJ5uh4pi1PdVEBL3Ni</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/tasks/bvz8i1g97.output</output-file>\n<status>completed</status>\n<summary>Background command \"cd /Users/youxun/project/edgeAgent\nD=/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/scratchpad/dispatch\ndsh --profile headless \"$(cat \"$D/T3.md\")\" &gt; \"$D/T3.log\" 2&gt;&amp;1; echo \"T3 exit=$?\"\" completed (exit code 0)</summary>\n</task-notification>"]
->>>>>>> Stashed changes
+["<task-notification>\n<task-id>bzi887ubi</task-id>\n<tool-use-id>toolu_01CBFjEEzHZubUajf5ihQHqS</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/tasks/bzi887ubi.output</output-file>\n<status>completed</status>\n<summary>Background command \"until lsof -nP -iTCP:18766 -sTCP:LISTEN &gt;/dev/null 2&gt;&amp;1; do sleep 2; done; echo \"listening\"\" completed (exit code 0)</summary>\n</task-notification>"]
