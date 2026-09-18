@@ -15749,3 +15749,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 11:38 — English has no direct equivalent of 再 as a prefix; use the adverb "again" (or "one more time") instead of repeating the verb.
