@@ -15744,3 +15744,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 11:34 — "再" here means "again", so pair it with an English verb like "review" — e.g. "review again" or "take another look".
