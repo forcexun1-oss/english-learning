@@ -15729,3 +15729,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:56 — Use 'review again' or 'take another look'; 'again' comes after the verb.
