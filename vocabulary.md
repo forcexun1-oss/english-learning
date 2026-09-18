@@ -15689,3 +15689,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:13 — Use "any" in yes/no questions like "Do you need any support?"; "开发板" is "development board" (or "dev board" informally).
