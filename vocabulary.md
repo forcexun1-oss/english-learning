@@ -15659,3 +15659,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 09:23 — Use "Why would there be...?" to express puzzled disbelief; "不就是...吗" often becomes a tag question like "..., didn't we?" or "..., right?"
