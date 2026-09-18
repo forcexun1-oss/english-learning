@@ -15664,3 +15664,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 09:26 — Use "it" for software, not "him"; "make it safe" is more natural than "make it become safe".
