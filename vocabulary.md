@@ -15704,3 +15704,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:37 — For “插件集成进来的”, use “integrated via/through a plugin” rather than a literal “come in by plugin”.

@@ -1,8 +1,1 @@
-<task-notification>
-<task-id>b2xzbrb5x</task-id>
-<tool-use-id>toolu_01QEsAb4mwLASENedhB7Z9v5</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/tasks/b2xzbrb5x.output</output-file>
-<status>completed</status>
-<summary>Background command "SP=/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/scratchpad/spike-image-through-pi
-cd "$SP" && dsh --profile headless "$(cat TASK.md)" > dsh-run.log 2>&1; echo "exit=$?"; tail -30 dsh-run.log" completed (exit code 0)</summary>
-</task-notification>
+MCP is integrated via a plugin.
