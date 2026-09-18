@@ -15798,3 +15798,4 @@
 - 2026-09-18 13:14 — 「继续」as a standalone instruction is best rendered as the imperative "Continue." — you can also say "Go on." or "Keep going." for a more casual tone.
 - 2026-09-18 13:21 — Use 'a' before a singular countable noun; 'dual' is an adjective meaning 'twofold' or 'two-part'.
 - 2026-09-18 13:32 — "开跑" is colloquial for "start running"; in a coding context, "Let's run it" or "Kick it off" sounds natural.
+- 2026-09-18 13:41 — 「开跑」is colloquial for 'start running / kick off' — in English, 'Kick it off' or 'Go ahead and run it' sounds natural for launching a task.
