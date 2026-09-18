@@ -15699,3 +15699,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:19 — Use "start a service" for 起服务; "another one" naturally refers back to the service.
