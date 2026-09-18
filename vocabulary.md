@@ -15663,6 +15663,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
@@ -15700,3 +15701,6 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 10:19 — Use "start a service" for 起服务; "another one" naturally refers back to the service.
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
