@@ -15652,3 +15652,4 @@
 - 2026-09-17 23:08 — In English, put 'again' after the verb: 'review it again,' not 'again review it.'
 =======
 >>>>>>> Stashed changes
+- 2026-09-18 08:53 — The 是……的 pattern here emphasizes the agent/object — in English, 'needs my decision' is more natural than 'is for me to decide', though both work.
