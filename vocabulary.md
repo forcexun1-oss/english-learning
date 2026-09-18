@@ -15807,3 +15807,4 @@
 - 2026-09-18 17:24 — A bare 什么 + noun (什么固定流水线) reads as a fragment in English; add "do you mean by" to make it a complete, natural question.
 - 2026-09-18 17:27 — "给我review" is Chinglish — in English, say "give them to me for review" or "let me review them"; "review" works as a noun after "for", not as a direct object of "give".
 - 2026-09-18 17:33 — Chinese often puts the object before the verb (「新的文件列表给我」); in English, use the imperative "Give me ..." with the object after the verb. Also, "list of new files" reads more naturally than "new file list" here.
+- 2026-09-18 20:21 — 「让某人去做某事」用 causative 'have someone do something'（不带 to）；「继续」用 'keep + doing'，所以是 'keep having dsh do it'。
