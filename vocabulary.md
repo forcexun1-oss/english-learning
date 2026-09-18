@@ -15661,6 +15661,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
@@ -15690,3 +15691,6 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 10:13 — Use "any" in yes/no questions like "Do you need any support?"; "开发板" is "development board" (or "dev board" informally).
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
