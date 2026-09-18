@@ -15764,3 +15764,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 11:53 — Use 'Phase 2' with a capital P when it names a specific stage.
