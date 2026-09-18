@@ -1,4 +1,5 @@
 <task-notification>
+<<<<<<< Updated upstream
 <task-id>bqsbn6297</task-id>
 <tool-use-id>toolu_01LwrTjR5rvAvASGQaHVgCW9</tool-use-id>
 <output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/tasks/bqsbn6297.output</output-file>
@@ -6,4 +7,13 @@
 <summary>Background command "cd /Users/youxun/project/edgeAgent
 export PYO3_PYTHON="$PWD/python/.venv/bin/python"
 cargo test -p middleware-service --features service --lib agent::handler::tests::non_stream_preempted_returns_409_turn_preempted -- --exact --nocapture 2>&1 | tail -80" completed (exit code 0)</summary>
+=======
+<task-id>bqlz1d4ej</task-id>
+<tool-use-id>toolu_01F546qmhDzbcSvVQiAwU6xM</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/tasks/bqlz1d4ej.output</output-file>
+<status>completed</status>
+<summary>Background command "cd /Users/youxun/project/edgeAgent
+export PYO3_PYTHON="$PWD/python/.venv/bin/python"
+cargo test -p middleware-service --features service --lib agent::handler::tests::non_stream_preempted_returns_409_turn_preempted -- --exact 2>&1 | tail -30" completed (exit code 0)</summary>
+>>>>>>> Stashed changes
 </task-notification>
