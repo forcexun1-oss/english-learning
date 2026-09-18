@@ -15803,3 +15803,4 @@
 - 2026-09-18 13:44 — 「派啊」is an impatient imperative meaning "dispatch/delegate it!" — English uses "Just dispatch it" to capture that tone. Note 「别停」= "don't stop/pause", not "don't stay".
 - 2026-09-18 14:30 — Chinese 「在跑吗」 uses the progressive 在 + verb; in English use the present continuous "Is it running?" — not "Does it run?" which asks about habit.
 - 2026-09-18 14:32 — For an ongoing process, use the present continuous: "Is it running?" — not "Does it run?" (which asks about habitual behavior).
+- 2026-09-18 17:16 — "板子" is dev slang for a hardware board; "这两天" means "these next couple of days," not literally two days.
