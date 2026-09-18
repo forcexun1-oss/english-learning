@@ -15809,3 +15809,4 @@
 - 2026-09-18 17:33 — Chinese often puts the object before the verb (「新的文件列表给我」); in English, use the imperative "Give me ..." with the object after the verb. Also, "list of new files" reads more naturally than "new file list" here.
 - 2026-09-18 20:21 — 「让某人去做某事」用 causative 'have someone do something'（不带 to）；「继续」用 'keep + doing'，所以是 'keep having dsh do it'。
 - 2026-09-18 23:38 — 「让 X 去干」in English is usually just "use X" or "have X do it" — no need to translate 让/去 literally.
+- 2026-09-19 06:07 — "够" is likely a typo for "搞"; in English, "get ... done" or "finish ... off" is the natural way to say 把…搞完/搞定 — not a literal "make them dry."
