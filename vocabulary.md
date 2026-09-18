@@ -15660,6 +15660,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
@@ -15685,3 +15686,6 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 10:09 — In English, 决策 as a verb is usually "make a decision" (or "decide") — you can't use "decision" alone as a verb. 还要 here means "still needs" or "is left for."
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
