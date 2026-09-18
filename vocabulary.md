@@ -15709,3 +15709,4 @@
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
+- 2026-09-18 10:40 — Use "planning phase" for 方案阶段 and "required" or "mandatory" for 必须的.
