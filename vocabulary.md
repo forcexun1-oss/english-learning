@@ -15804,3 +15804,4 @@
 - 2026-09-18 14:30 — Chinese 「在跑吗」 uses the progressive 在 + verb; in English use the present continuous "Is it running?" — not "Does it run?" which asks about habit.
 - 2026-09-18 14:32 — For an ongoing process, use the present continuous: "Is it running?" — not "Does it run?" (which asks about habitual behavior).
 - 2026-09-18 17:16 — "板子" is dev slang for a hardware board; "这两天" means "these next couple of days," not literally two days.
+- 2026-09-18 17:24 — A bare 什么 + noun (什么固定流水线) reads as a fragment in English; add "do you mean by" to make it a complete, natural question.
