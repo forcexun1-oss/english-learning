@@ -15671,6 +15671,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
@@ -15740,3 +15741,6 @@
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
 >>>>>>> Stashed changes
 - 2026-09-18 11:27 — In English, "review" works as a verb, so "review again" is understandable, but adding the object "it" sounds more natural when the context is clear.
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
