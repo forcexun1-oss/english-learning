@@ -15653,3 +15653,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-18 08:53 — The 是……的 pattern here emphasizes the agent/object — in English, 'needs my decision' is more natural than 'is for me to decide', though both work.
+- 2026-09-18 09:13 — "还有什么" = "what else"; "要我决策的" means "that requires my decision", so a natural phrasing is "What else do I need to decide?" or "What else needs my decision?"
