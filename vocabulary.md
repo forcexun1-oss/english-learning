@@ -15665,6 +15665,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-18 09:18 — Use “What does X mean?” for asking definitions; “拓扑” translates to “topology” in technical contexts.
 =======
 - 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
@@ -15711,3 +15712,6 @@
 >>>>>>> Stashed changes
 - 2026-09-18 10:40 — Use "planning phase" for 方案阶段 and "required" or "mandatory" for 必须的.
 - 2026-09-18 10:40 — "方案" can mean "plan" or "approach"; "实施" is "implement" in a software context.
+=======
+- 2026-09-18 09:17 — Use "What does ... mean?" for asking the meaning of something; "第一个" is naturally "the first one".
+>>>>>>> Stashed changes
