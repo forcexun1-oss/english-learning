@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Continue.
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>bvz8i1g97</task-id>
 <tool-use-id>toolu_01MVVBxJ5uh4pi1PdVEBL3Ni</tool-use-id>
@@ -10,4 +13,7 @@ Continue.
 D=/private/tmp/claude-501/-Users-youxun-project-edgeAgent/d66609f7-f916-4e2d-ad0a-e304fc008ee9/scratchpad/dispatch
 dsh --profile headless "$(cat "$D/T3.md")" > "$D/T3.log" 2>&1; echo "T3 exit=$?"" completed (exit code 0)</summary>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
