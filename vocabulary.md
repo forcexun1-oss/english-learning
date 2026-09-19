@@ -15814,3 +15814,4 @@
 - 2026-09-19 16:23 — 「派在前面」here means ordering/prioritizing, so use "put ... first" or "prioritize ..." rather than a literal verb like "send/dispatch"; also note "implement" needs an object — "implement it fully" or "do the full implementation".
 - 2026-09-19 16:25 — "他比较笨" → "he's pretty dumb" works, but in a work context "he's not very bright" or "it's not the sharpest" sounds less harsh; also note "plan" is countable, so say "write a plan" rather than "write plan".
 - 2026-09-19 16:30 — "全部" here means "all of it / everything" — use "all of it" when referring to a previously mentioned scope, and "only" to contrast with "just the memory part".
+- 2026-09-19 16:31 — 整个计划都写 uses 都 to mean "all of it" — in English this is naturally expressed as "the entire/whole plan," not "all the plan."
