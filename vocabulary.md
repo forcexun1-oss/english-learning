@@ -15815,3 +15815,4 @@
 - 2026-09-19 16:25 — "他比较笨" → "he's pretty dumb" works, but in a work context "he's not very bright" or "it's not the sharpest" sounds less harsh; also note "plan" is countable, so say "write a plan" rather than "write plan".
 - 2026-09-19 16:30 — "全部" here means "all of it / everything" — use "all of it" when referring to a previously mentioned scope, and "only" to contrast with "just the memory part".
 - 2026-09-19 16:31 — 整个计划都写 uses 都 to mean "all of it" — in English this is naturally expressed as "the entire/whole plan," not "all the plan."
+- 2026-09-19 16:37 — "review一下" becomes "review it" — English verbs like "review" need an explicit object, and "一下" has no direct equivalent.
