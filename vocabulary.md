@@ -15811,3 +15811,4 @@
 - 2026-09-18 23:38 — 「让 X 去干」in English is usually just "use X" or "have X do it" — no need to translate 让/去 literally.
 - 2026-09-19 06:07 — "够" is likely a typo for "搞"; in English, "get ... done" or "finish ... off" is the natural way to say 把…搞完/搞定 — not a literal "make them dry."
 - 2026-09-19 15:26 — Use "first" for 先 and place "only" before the action or object to express 只.
+- 2026-09-19 16:23 — 「派在前面」here means ordering/prioritizing, so use "put ... first" or "prioritize ..." rather than a literal verb like "send/dispatch"; also note "implement" needs an object — "implement it fully" or "do the full implementation".
