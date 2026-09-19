@@ -15817,3 +15817,4 @@
 - 2026-09-19 16:31 — 整个计划都写 uses 都 to mean "all of it" — in English this is naturally expressed as "the entire/whole plan," not "all the plan."
 - 2026-09-19 16:37 — "review一下" becomes "review it" — English verbs like "review" need an explicit object, and "一下" has no direct equivalent.
 - 2026-09-19 16:52 — “再看看” can mean “take another look” or “check again,” depending on context.
+- 2026-09-19 17:28 — 「那」here works as a discourse connector meaning "then/so" — in English, "So..." or "Then..." both fit; "how to solve it" is not a full question, so use "how should we solve it?" or "how do we fix it?"
