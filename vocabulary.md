@@ -15824,3 +15824,4 @@
 - 2026-09-20 10:53 — In technical contexts, 情况 often translates better as "status" than the literal "situation."
 - 2026-09-20 10:57 — 选型 means the choice of components, model, or tech stack; translate it as "selection" or "choice", not literally as "type selection".
 - 2026-09-20 10:59 — “决策” as a verb is usually expressed as “make a decision” or simply “decide”; “需要我决策什么吗” naturally becomes “Is there anything I need to decide?”
+- 2026-09-20 11:08 — Use "depending on" for 看……情况/长度; "交给" can be translated as "hand off to" or "delegate to".
