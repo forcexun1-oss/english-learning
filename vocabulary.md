@@ -15931,3 +15931,4 @@
 - 2026-09-20 19:25 — For emphasis, put "actually" before the main verb: "actually uses/adopts," not "truly adopts."
 - 2026-09-20 19:31 — “为啥” is colloquial for “why”; “同时” can be translated as “at the same time” or “at once.”
 - 2026-09-20 19:32 — Use an em dash or semicolon to join the two related clauses; "at the same time" is the natural way to say 同时 in this context.
+- 2026-09-20 19:34 — "管他……有没有" means "regardless of whether…" or "who cares whether…"; it's a dismissive phrase, so "regardless of whether there are other bugs" captures it naturally.
