@@ -15915,3 +15915,4 @@
 - 2026-09-20 17:25 — Use "upgrade to [version]" with the preposition "to" when specifying the target version.
 - 2026-09-20 17:32 — "证明可以" is best rendered as "proves to work" or "proves it works" — English needs a verb after "prove", not just "prove can".
 - 2026-09-20 18:03 — "Can't we...?" is the natural way to ask "不能用...吗" — a negative question expressing surprise or suggestion, rather than "Is it not possible to...?"
+- 2026-09-20 18:04 — Use "left over" for things remaining from a past process; "documentation" is uncountable, so don't say "a documentation."
