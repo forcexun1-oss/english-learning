@@ -15851,3 +15851,4 @@
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
 - 2026-09-20 13:54 — “方式” can mean “method,” “approach,” or “option”; when choosing among alternatives, “option 1” sounds more natural in English.
+- 2026-09-20 13:56 — “让……干” can mean “let/have [someone] do it”; for tasks, “handle it” sounds natural.
