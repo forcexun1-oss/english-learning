@@ -15829,6 +15829,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-20 11:19 — In English, "between what" keeps the preposition first — not "what between". Also, "你说的X" is naturally rendered as "When you say X" or "By X you mean...".
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
@@ -15846,3 +15847,6 @@
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
 - 2026-09-20 13:47 — The Chinese suffix "一下" softens a request; in English a plain imperative like "Install ..." or "Please install ..." reads naturally.
+=======
+- 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
+>>>>>>> Stashed changes
