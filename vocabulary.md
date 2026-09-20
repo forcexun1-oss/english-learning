@@ -15939,3 +15939,4 @@
 - 2026-09-20 20:47 — "别说那么多废话" is best rendered as "cut the fluff" or "skip the fluff" — a literal "don't say so much nonsense" sounds harsher and less idiomatic in English.
 - 2026-09-20 20:53 — Use "invoked" or "called" for how a tool is triggered; "怎么调" here means "how is it invoked", not "how to tune".
 - 2026-09-20 20:54 — Use 'does that mean...' for '那...了?' instead of a literal 'then this has...?'
+- 2026-09-20 21:05 — "每个工具" can be rendered as "per tool" or the adjective "per-tool" (e.g., "per-tool configuration").
