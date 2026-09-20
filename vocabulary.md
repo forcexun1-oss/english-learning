@@ -15869,3 +15869,4 @@
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
+- 2026-09-20 14:26 — Use "I meant..." to clarify what you were referring to, especially after a misunderstanding.
