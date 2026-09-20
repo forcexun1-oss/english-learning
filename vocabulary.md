@@ -15927,3 +15927,4 @@
 - 2026-09-20 18:49 — The sentence-final particle 啊 adds emphasis or a mild tone of complaint; English conveys this through word choice (e.g. "goes against" rather than a neutral "does not conform to") instead of a particle.
 - 2026-09-20 18:50 — "不行" here means "doesn't work / is the problem" — in English, phrase it as "is the problem" or "doesn't work" rather than a literal "is not okay". Also, "调用工具的参数" is more naturally "the arguments for the tool call" (or "tool-call arguments").
 - 2026-09-20 18:58 — Use "save tokens" for 省token; "完全不" is naturally rendered as "not at all".
+- 2026-09-20 18:59 — “做了” here means “implemented” or “uses,” not literally “did”; “什么时候调” translates naturally as “when to call.”
