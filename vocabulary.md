@@ -15930,3 +15930,4 @@
 - 2026-09-20 18:59 — “做了” here means “implemented” or “uses,” not literally “did”; “什么时候调” translates naturally as “when to call.”
 - 2026-09-20 19:25 — For emphasis, put "actually" before the main verb: "actually uses/adopts," not "truly adopts."
 - 2026-09-20 19:31 — “为啥” is colloquial for “why”; “同时” can be translated as “at the same time” or “at once.”
+- 2026-09-20 19:32 — Use an em dash or semicolon to join the two related clauses; "at the same time" is the natural way to say 同时 in this context.
