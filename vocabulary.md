@@ -15875,3 +15875,4 @@
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
 - 2026-09-20 14:29 — Use "the whole plan" or "the entire plan" for 全部计划, and "part of it" for 部分.
+- 2026-09-20 14:30 — Use "anything else" for open-ended questions; "final revision" takes the article "a" when it means one last round of edits.
