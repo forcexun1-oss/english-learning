@@ -15902,3 +15902,4 @@
 - 2026-09-20 16:14 — Use "using/via + tool" for 通过...来完成; "他比较笨" can be softened as "he's not very bright" or "he's kind of dumb."
 - 2026-09-20 16:34 — The particle “呗” adds a casual “then/huh/I guess” tone; “超了” here means “exceeded/overflowed,” often referring to a limit.
 - 2026-09-20 16:36 — "不行" here means "if that doesn't work"; use "roll back to" for 回退到, and "try doing" for 试试.
+- 2026-09-20 16:41 — The sentence-final 的 in 我记得有备份的 adds a tone of certainty; in English this is often conveyed with 'I'm pretty sure' or 'I remember there was one.'
