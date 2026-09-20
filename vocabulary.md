@@ -15922,3 +15922,4 @@
 - 2026-09-20 18:25 — "怎么能不行呢" here expresses disbelief, so "how could it not work?" fits better than a literal "how can it be not OK".
 - 2026-09-20 18:28 — For a negative question like 没有吗, use "Isn't it...?" rather than a literal "Doesn't it have no...?"
 - 2026-09-20 18:38 — "哪个" maps to "which" (choosing among options), and "包" here means "package" — a common term for a software bundle or archive.
+- 2026-09-20 18:41 — Use the present perfect “has recovered” for 已经恢复了 when asking whether a recent state change is complete.
