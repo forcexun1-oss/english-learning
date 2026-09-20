@@ -15919,3 +15919,4 @@
 - 2026-09-20 18:10 — “直接用” is naturally “just ... directly”; “用…升级” can be “upgrade with/using ...”. Keep technical names like pcie_upgrade_tool unchanged.
 - 2026-09-20 18:11 — A bare "这个" used to point at something is best rendered as "this one" (or "I mean this one") — English needs the noun "one" where Chinese can drop it.
 - 2026-09-20 18:14 — "可以" can mean "okay," "sure," or "that works" depending on context.
+- 2026-09-20 18:25 — "怎么能不行呢" here expresses disbelief, so "how could it not work?" fits better than a literal "how can it be not OK".
