@@ -15830,3 +15830,4 @@
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
+- 2026-09-20 11:28 — Use 'project plan' as a compound noun, and 'Can it be executed now?' for asking whether something is ready to run.
