@@ -15835,3 +15835,4 @@
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
+- 2026-09-20 11:45 — "啥" is colloquial for "什么"; "又...呢" often adds a tone of "again/this time" in questions.
