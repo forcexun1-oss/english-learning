@@ -15822,3 +15822,4 @@
 - 2026-09-19 17:37 — "再" before a verb means "again"; in English, place "again" after the verb or say "take another look."
 - 2026-09-20 10:15 — "连上了" can be translated as "is connected" or "is hooked up"; "开始吧" is naturally "let's start" or "let's get started."
 - 2026-09-20 10:53 — In technical contexts, 情况 often translates better as "status" than the literal "situation."
+- 2026-09-20 10:57 — 选型 means the choice of components, model, or tech stack; translate it as "selection" or "choice", not literally as "type selection".
