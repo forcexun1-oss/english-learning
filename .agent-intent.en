@@ -1,1 +1,1 @@
-What I want is progressive disclosure — this isn't it, is it?
+Add an extension to the Node.js version of the pi agent to implement progressive disclosure of tools. Which tools show their schema up front, and can that be toggled? Are the skill and MCP systems separate? Do these already exist, or do we have to write the extensions ourselves? Let's discuss first — cut the fluff.
