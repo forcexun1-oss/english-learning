@@ -15825,4 +15825,8 @@
 - 2026-09-20 10:57 — 选型 means the choice of components, model, or tech stack; translate it as "selection" or "choice", not literally as "type selection".
 - 2026-09-20 10:59 — “决策” as a verb is usually expressed as “make a decision” or simply “decide”; “需要我决策什么吗” naturally becomes “Is there anything I need to decide?”
 - 2026-09-20 11:08 — Use "depending on" for 看……情况/长度; "交给" can be translated as "hand off to" or "delegate to".
+<<<<<<< Updated upstream
 - 2026-09-20 11:19 — In English, "between what" keeps the preposition first — not "what between". Also, "你说的X" is naturally rendered as "When you say X" or "By X you mean...".
+=======
+- 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
+>>>>>>> Stashed changes
