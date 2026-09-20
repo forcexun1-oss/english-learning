@@ -15920,3 +15920,4 @@
 - 2026-09-20 18:11 — A bare "这个" used to point at something is best rendered as "this one" (or "I mean this one") — English needs the noun "one" where Chinese can drop it.
 - 2026-09-20 18:14 — "可以" can mean "okay," "sure," or "that works" depending on context.
 - 2026-09-20 18:25 — "怎么能不行呢" here expresses disbelief, so "how could it not work?" fits better than a literal "how can it be not OK".
+- 2026-09-20 18:28 — For a negative question like 没有吗, use "Isn't it...?" rather than a literal "Doesn't it have no...?"
