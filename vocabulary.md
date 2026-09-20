@@ -15845,3 +15845,4 @@
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
+- 2026-09-20 13:47 — The Chinese suffix "一下" softens a request; in English a plain imperative like "Install ..." or "Please install ..." reads naturally.
