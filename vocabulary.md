@@ -15924,3 +15924,4 @@
 - 2026-09-20 18:38 — "哪个" maps to "which" (choosing among options), and "包" here means "package" — a common term for a software bundle or archive.
 - 2026-09-20 18:41 — Use the present perfect “has recovered” for 已经恢复了 when asking whether a recent state change is complete.
 - 2026-09-20 18:48 — “带” here means “include/require,” not literally “bring”; use “require a schema” or “include a schema.”
+- 2026-09-20 18:49 — The sentence-final particle 啊 adds emphasis or a mild tone of complaint; English conveys this through word choice (e.g. "goes against" rather than a neutral "does not conform to") instead of a particle.
