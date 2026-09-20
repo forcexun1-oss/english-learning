@@ -15860,3 +15860,4 @@
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
+- 2026-09-20 14:09 — For an AI/tool, use "it" rather than "he"; "写完" can be translated as "finished writing" or simply "finished".
