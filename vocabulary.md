@@ -15900,3 +15900,4 @@
 >>>>>>> Stashed changes
 - 2026-09-20 16:10 — "咋样了" is a casual way to ask about progress or status; "How's it going?" is the natural English equivalent.
 - 2026-09-20 16:14 — Use "using/via + tool" for 通过...来完成; "他比较笨" can be softened as "he's not very bright" or "he's kind of dumb."
+- 2026-09-20 16:34 — The particle “呗” adds a casual “then/huh/I guess” tone; “超了” here means “exceeded/overflowed,” often referring to a limit.
