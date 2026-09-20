@@ -15916,3 +15916,4 @@
 - 2026-09-20 17:32 — "证明可以" is best rendered as "proves to work" or "proves it works" — English needs a verb after "prove", not just "prove can".
 - 2026-09-20 18:03 — "Can't we...?" is the natural way to ask "不能用...吗" — a negative question expressing surprise or suggestion, rather than "Is it not possible to...?"
 - 2026-09-20 18:04 — Use "left over" for things remaining from a past process; "documentation" is uncountable, so don't say "a documentation."
+- 2026-09-20 18:10 — “直接用” is naturally “just ... directly”; “用…升级” can be “upgrade with/using ...”. Keep technical names like pcie_upgrade_tool unchanged.
