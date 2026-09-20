@@ -15904,3 +15904,4 @@
 - 2026-09-20 16:36 — "不行" here means "if that doesn't work"; use "roll back to" for 回退到, and "try doing" for 试试.
 - 2026-09-20 16:41 — The sentence-final 的 in 我记得有备份的 adds a tone of certainty; in English this is often conveyed with 'I'm pretty sure' or 'I remember there was one.'
 - 2026-09-20 16:45 — Use "whether ... or ..." to present two alternatives; "if" is less natural here after "see".
+- 2026-09-20 16:50 — You wrote 把 (bǎ, a preposition meaning 'to take/hold') but meant 吧 (ba), the sentence-final particle that softens a suggestion. Also, 还原 here means 'restore/revert'.
