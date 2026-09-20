@@ -15827,6 +15827,7 @@
 - 2026-09-20 11:08 — Use "depending on" for 看……情况/长度; "交给" can be translated as "hand off to" or "delegate to".
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-20 11:19 — In English, "between what" keeps the preposition first — not "what between". Also, "你说的X" is naturally rendered as "When you say X" or "By X you mean...".
 =======
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
@@ -15836,3 +15837,6 @@
 - 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
 >>>>>>> Stashed changes
 - 2026-09-20 11:45 — "啥" is colloquial for "什么"; "又...呢" often adds a tone of "again/this time" in questions.
+=======
+- 2026-09-20 11:19 — "你说的X是指..." is best rendered as "What do you mean by X..." or "X refers to..."; avoid the literal "is refers to".
+>>>>>>> Stashed changes
