@@ -15912,3 +15912,4 @@
 - 2026-09-20 17:16 — “断电重启” is naturally translated as “power-cycle” in technical English, meaning to cut power and restart.
 - 2026-09-20 17:18 — "好了" can mean "It's done" or "Okay" depending on context; for task completion, "Done" is also natural.
 - 2026-09-20 17:20 — The particle 吧 softens a suggestion; in English, use "Let's..." or a gentle imperative like "Try it."
+- 2026-09-20 17:25 — Use "upgrade to [version]" with the preposition "to" when specifying the target version.
