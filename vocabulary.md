@@ -15937,3 +15937,4 @@
 - 2026-09-20 20:34 — Use the present perfect (has implemented) for completed actions with present relevance; 'before' often pairs with 'Has anyone...?'
 - 2026-09-20 20:41 — Use "What I want is ..." to emphasize the desired thing, and "..., is it?" as a negative tag question when you expect the answer to be no.
 - 2026-09-20 20:47 — "别说那么多废话" is best rendered as "cut the fluff" or "skip the fluff" — a literal "don't say so much nonsense" sounds harsher and less idiomatic in English.
+- 2026-09-20 20:53 — Use "invoked" or "called" for how a tool is triggered; "怎么调" here means "how is it invoked", not "how to tune".
