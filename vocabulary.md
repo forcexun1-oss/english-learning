@@ -15877,3 +15877,4 @@
 - 2026-09-20 14:29 — Use "the whole plan" or "the entire plan" for 全部计划, and "part of it" for 部分.
 - 2026-09-20 14:30 — Use "anything else" for open-ended questions; "final revision" takes the article "a" when it means one last round of edits.
 - 2026-09-20 14:32 — Use "come first" for the first step in a sequence; "..., right?" naturally translates the confirming tone of "...吧".
+- 2026-09-20 14:33 — Use "wrap it up" for 收尾; for a plan, use "it" rather than "him".
