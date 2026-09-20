@@ -15909,3 +15909,4 @@
 - 2026-09-20 17:04 — In software contexts, “退回” usually translates as “roll back” or “revert”; “算了” can be rendered as “just” to show a fallback decision.
 - 2026-09-20 17:13 — The verb 走 here means 'to go through (a process)'; in English use 'go through' or 'do/perform' rather than 'walk'. The sentence-ending 吧 makes it a tag question, rendered as 'right?' or 'shouldn't you?'
 - 2026-09-20 17:14 — In chat, 上面 can mean "above" or "earlier"; use "was upgraded from" for 从……升级。
+- 2026-09-20 17:16 — “断电重启” is naturally translated as “power-cycle” in technical English, meaning to cut power and restart.
