@@ -15943,3 +15943,4 @@
 - 2026-09-20 21:29 — Use 它 (not 他) for inanimate things like a plan or file; in English both become "it".
 - 2026-09-21 09:09 — "改成" here means "changed/switched to", so "switched it to X" or "changed it to X" works; "progressive disclosure" stays as-is since it's a technical term.
 - 2026-09-21 09:29 — “保持” means keep/maintain; “原来的” means original. In UI or coding instructions, “keep” is more natural than “maintain” here.
+- 2026-09-21 10:10 — Use "deploy to" for the target (deploy to the board), and "yet" in questions about whether an expected action has happened.
