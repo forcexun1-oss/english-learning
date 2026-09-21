@@ -15941,3 +15941,4 @@
 - 2026-09-20 20:54 — Use 'does that mean...' for '那...了?' instead of a literal 'then this has...?'
 - 2026-09-20 21:05 — "每个工具" can be rendered as "per tool" or the adjective "per-tool" (e.g., "per-tool configuration").
 - 2026-09-20 21:29 — Use 它 (not 他) for inanimate things like a plan or file; in English both become "it".
+- 2026-09-21 09:09 — "改成" here means "changed/switched to", so "switched it to X" or "changed it to X" works; "progressive disclosure" stays as-is since it's a technical term.
