@@ -15947,3 +15947,4 @@
 - 2026-09-21 13:05 — “在了” means something is present/available now; in English say “is here” or “is available,” not “is at.”
 - 2026-09-21 14:36 — "无法胜任" = "not up to (the job)" or "not capable of"; "不行就..." is naturally rendered as "if not, ..." or "otherwise, ...".
 - 2026-09-21 15:00 — 把 (bǎ) is a preposition meaning 'to take/hold'; the sentence-final particle is 吧 (ba), which softens a suggestion — so 换了吧 = 'let's switch it then'.
+- 2026-09-21 15:07 — In casual technical contexts, “在跑吗” usually means “Is it running?”; use “Is it running yet?” if you’re asking whether it has started by now.
