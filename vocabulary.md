@@ -15944,3 +15944,4 @@
 - 2026-09-21 09:09 — "改成" here means "changed/switched to", so "switched it to X" or "changed it to X" works; "progressive disclosure" stays as-is since it's a technical term.
 - 2026-09-21 09:29 — “保持” means keep/maintain; “原来的” means original. In UI or coding instructions, “keep” is more natural than “maintain” here.
 - 2026-09-21 10:10 — Use "deploy to" for the target (deploy to the board), and "yet" in questions about whether an expected action has happened.
+- 2026-09-21 13:05 — “在了” means something is present/available now; in English say “is here” or “is available,” not “is at.”
