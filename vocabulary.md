@@ -15949,3 +15949,4 @@
 - 2026-09-21 15:00 — 把 (bǎ) is a preposition meaning 'to take/hold'; the sentence-final particle is 吧 (ba), which softens a suggestion — so 换了吧 = 'let's switch it then'.
 - 2026-09-21 15:07 — In casual technical contexts, “在跑吗” usually means “Is it running?”; use “Is it running yet?” if you’re asking whether it has started by now.
 - 2026-09-21 17:05 — 「啥」is a colloquial form of 「什么」— in casual English, "What's going on?" or "What's the situation?" both fit; avoid the literal "What situation?"
+- 2026-09-21 18:03 — “咋还……了呢” expresses surprise or puzzlement, often best rendered as “Why has...?” rather than a literal “still.” “算子” is “operator” in ML contexts.
