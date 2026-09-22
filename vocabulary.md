@@ -15951,3 +15951,4 @@
 - 2026-09-21 17:05 — 「啥」is a colloquial form of 「什么」— in casual English, "What's going on?" or "What's the situation?" both fit; avoid the literal "What situation?"
 - 2026-09-21 18:03 — “咋还……了呢” expresses surprise or puzzlement, often best rendered as “Why has...?” rather than a literal “still.” “算子” is “operator” in ML contexts.
 - 2026-09-22 15:05 — "保持" here means "keep/retain" — for keeping a tool or option, "Keep Luna" is natural; if you mean keep using it, "Stick with Luna" also works.
+- 2026-09-22 15:29 — "把" here is a typo for "吧", the sentence-final particle that softens a statement into a request for agreement (like "right?"). "不用这样吧" = "there's no need for this / no need to do it this way."
