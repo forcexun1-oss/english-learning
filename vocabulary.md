@@ -15955,3 +15955,4 @@
 - 2026-09-22 17:22 — 咋样了 is a casual contraction of 怎么样了 — in English, a quick status check like "How's it going?" or "Any progress?" fits the same informal tone.
 - 2026-09-22 17:54 — 又是 often implies "again" or "this time"; in casual English, "now" or "this time" captures that tone naturally.
 - 2026-09-22 19:07 — Use 'Is it running?' instead of '在跑吗' — 'running' is the natural verb for processes or tasks in progress.
+- 2026-09-22 19:09 — Use present perfect 'has ended' to report a completed action relevant to now, instead of past simple 'ended'.
