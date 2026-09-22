@@ -15952,3 +15952,4 @@
 - 2026-09-21 18:03 — “咋还……了呢” expresses surprise or puzzlement, often best rendered as “Why has...?” rather than a literal “still.” “算子” is “operator” in ML contexts.
 - 2026-09-22 15:05 — "保持" here means "keep/retain" — for keeping a tool or option, "Keep Luna" is natural; if you mean keep using it, "Stick with Luna" also works.
 - 2026-09-22 15:29 — "把" here is a typo for "吧", the sentence-final particle that softens a statement into a request for agreement (like "right?"). "不用这样吧" = "there's no need for this / no need to do it this way."
+- 2026-09-22 17:22 — 咋样了 is a casual contraction of 怎么样了 — in English, a quick status check like "How's it going?" or "Any progress?" fits the same informal tone.
