@@ -16046,3 +16046,4 @@
 - 2026-09-23 11:33 — "又是什么鬼东西" can be translated as "what is this ... thing now" — using "now" conveys the frustration of yet another unexpected issue.
 - 2026-09-23 11:40 — "渐进式披露" translates to "progressive disclosure" — a common UX term. Also, "什么鬼设计" is informal; "What kind of design is this?" keeps the tone natural.
 - 2026-09-23 11:41 — Use 'implement' or 'work' instead of 'do' when asking how a feature is realized in a system. '怎么做' translates to 'how is it implemented' or 'how does it work'.
+- 2026-09-23 11:44 — Use the present perfect tense to describe a completed action that is relevant now.
