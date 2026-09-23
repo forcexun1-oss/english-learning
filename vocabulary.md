@@ -16052,3 +16052,4 @@
 - 2026-09-23 11:54 — Use 'append it' instead of '带在后面' — '带' translates awkwardly; 'append' is the natural verb for adding data to a request.
 - 2026-09-23 13:07 — Use present perfect "has ended" to describe a completed action with current relevance.
 - 2026-09-23 13:08 — Use 'the wrapped rewrite logic' instead of '调用的封装的改写' — '封装' here means 'wrapped' as in a wrapper, and 'logic' clarifies what's being added.
+- 2026-09-23 13:25 — Use 'in that case' to mean 'if that's the situation', and 'what does ... look like' is a natural way to ask about a plan or design.
