@@ -1,1 +1,1 @@
-["直接调用模型测试过他是否不支持多个tools吗", "直接构造请求,不要请求别人的转发"]
+["直接调用模型测试过他是否不支持多个tools吗", "直接构造请求,不要请求别人的转发", "<task-notification>\n<task-id>bu4hc3yk6</task-id>\n<summary>Monitor event: \"Wait for the memory-toggle correction task to finish\"</summary>\n<event>codex process 26764 (handoff-22b, memory-toggle correction) exited</event>\nIf this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.\n</task-notification>"]
