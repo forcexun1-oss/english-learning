@@ -16192,3 +16192,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 20:07 — Use "What's the issue?" instead of "What problem?" — it's more natural and idiomatic in English.
