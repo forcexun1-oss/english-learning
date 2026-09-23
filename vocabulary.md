@@ -16162,3 +16162,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 17:29 — '先这样吧' is often translated as 'Let's leave it here for now' — using 'leave it here' sounds more natural than a direct word-for-word translation.
