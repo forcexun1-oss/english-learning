@@ -16030,4 +16030,8 @@
 =======
 - 2026-09-22 19:09 — Use 'mid-test' to mean 'during the test' — it's a common idiomatic contraction in technical writing.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-09-23 09:56 — Use present perfect ('has ended') to describe a completed action with current relevance.
+=======
+- 2026-09-23 09:55 — No changes needed — the message is already natural and idiomatic.
+>>>>>>> Stashed changes
