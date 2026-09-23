@@ -16058,6 +16058,7 @@
 - 2026-09-23 14:02 — Use 'Is it that slow?' instead of '这么慢吗' to sound more natural in English.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 14:14 — Use 'What's it doing?' instead of 'who is occupying it' when asking about what a process is currently doing.
 =======
 - 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
@@ -16067,3 +16068,6 @@
 - 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
 >>>>>>> Stashed changes
 - 2026-09-23 14:19 — Use 'turn off' instead of 'close' for features/settings; '把...关了' translates to 'turn off'.
+=======
+- 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
+>>>>>>> Stashed changes
