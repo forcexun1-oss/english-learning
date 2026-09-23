@@ -16057,8 +16057,12 @@
 - 2026-09-23 13:46 — Use 'can't work' instead of 'must not work' for impossibility; 'token count' is clearer than just 'token'.
 - 2026-09-23 14:02 — Use 'Is it that slow?' instead of '这么慢吗' to sound more natural in English.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 14:14 — Use 'What's it doing?' instead of 'who is occupying it' when asking about what a process is currently doing.
 =======
 - 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
 >>>>>>> Stashed changes
 - 2026-09-23 14:16 — '精简' can be translated as 'trim down' or 'reduce' for a more natural technical tone.
+=======
+- 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
+>>>>>>> Stashed changes
