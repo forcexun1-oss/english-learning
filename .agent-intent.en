@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Drop this — it's completely worthless. Tool calls must be done in two steps and be able to reuse the KV cache.
+=======
+Is it really that slow? What's it doing?
+>>>>>>> Stashed changes
