@@ -1,5 +1,1 @@
-Monitor event: "Wait for codex handoff-21 to finish"
-
-event: codex process 79217 exited
-
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+Monitor "Wait for codex handoff-21 to finish" stream ended
