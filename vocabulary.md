@@ -16109,3 +16109,4 @@
 - 2026-09-23 15:13 — Use 'Did you...' for past simple questions, and 'whether' instead of 'if' in formal contexts.
 - 2026-09-23 15:14 — '转发' here means 'proxy' or 'forwarding' in a network context, so 'proxy' is more precise than 'forward'.
 - 2026-09-23 15:21 — Use present perfect ('has finished') to report a completed action relevant to now.
+- 2026-09-23 15:21 — Use present perfect ('has finished') to report a completed task with current relevance.
