@@ -1,5 +1,1 @@
-Monitor event: "Wait for the parallel memory-toggle code-writing task to finish"
-
-Event: codex process 87277 (handoff-22, memory-toggle code-only) exited.
-
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+The monitor stream for the parallel memory-toggle code-writing task has ended.
