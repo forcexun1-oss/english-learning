@@ -16119,6 +16119,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 15:57 — Use the present perfect ('has finished') to report a completed action that is relevant now.
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
@@ -16137,3 +16138,6 @@
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
 - 2026-09-23 16:48 — "咋样" is casual for "how's it going?" and "在跑吗" means "is it running?" — use present continuous for ongoing action.
+=======
+- 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
+>>>>>>> Stashed changes
