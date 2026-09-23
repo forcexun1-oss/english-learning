@@ -1,5 +1,1 @@
-Monitor event: "Wait for corrected handoff-24b to finish"
-
-Event: codex process 9384 (handoff-24b, two-request schema/context probe) exited.
-
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+The monitor stream for "Wait for corrected handoff-24b to finish" has ended. The task completed successfully.

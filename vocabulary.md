@@ -16101,3 +16101,4 @@
 - 2026-09-23 14:43 — Use present perfect ('has exited') to report a completed event with current relevance.
 >>>>>>> Stashed changes
 - 2026-09-23 15:07 — No changes needed — the message is already natural and idiomatic.
+- 2026-09-23 15:07 — Use the present perfect tense ('has ended') to describe a completed action with current relevance.
