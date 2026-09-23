@@ -16084,3 +16084,4 @@
 =======
 - 2026-09-23 14:14 — Use "What's it doing?" instead of "在干嘛" translated literally as "doing what" — the natural English question order is "What + is + subject + doing?".
 >>>>>>> Stashed changes
+- 2026-09-23 14:33 — '别搞这个了' is more naturally 'Drop this' or 'Stop working on this' rather than a literal translation. Also, '复用' = 'reuse' (not 're-use').

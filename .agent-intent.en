@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitor "Wait for codex handoff-21 to finish" stream ended
-=======
-Is it really that slow? What's it doing?
->>>>>>> Stashed changes
+Drop this — it's completely worthless. Tool calls must be done in two steps and be able to reuse the KV cache.
