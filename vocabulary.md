@@ -16116,9 +16116,13 @@
 - 2026-09-23 15:55 — TTFT (time to first token) is an acronym, so keep it capitalized. Also, '第一次的' can be shortened to just 'the first request' in this context.
 - 2026-09-23 15:57 — Use 'Also' to add a related action, and 'what happens when' for describing a scenario's outcome.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 15:57 — Use the present perfect ('has finished') to report a completed action that is relevant now.
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
 - 2026-09-23 16:05 — Use present perfect ('has exited') to report a completed event that is relevant now.
 - 2026-09-23 16:05 — Use present perfect tense to describe a completed action that has just happened.
+=======
+- 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
+>>>>>>> Stashed changes
