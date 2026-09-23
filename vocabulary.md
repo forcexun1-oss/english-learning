@@ -16198,3 +16198,4 @@
 - 2026-09-23 23:06 — Use 'still' to ask about an ongoing action, and 'it' to refer to the task or process.
 - 2026-09-23 23:07 — Use 'What are you waiting for?' instead of '等啥呢' — it's the natural English equivalent for asking someone why they're delaying.
 - 2026-09-23 23:08 — Use 'these upstream items' to refer to the items, and 'weren't they' for a negative question about the plan.
+- 2026-09-23 23:46 — Use 'put ... to sleep' for computers; '休眠' is a verb phrase here, so 'put the computer to sleep' is natural.
