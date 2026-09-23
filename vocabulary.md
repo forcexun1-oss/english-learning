@@ -16039,3 +16039,4 @@
 - 2026-09-23 10:03 — '定位是那一段的问题' translates better as 'pinpoint which part is causing the issue' rather than a literal word-for-word translation.
 - 2026-09-23 10:31 — Use 'Is it still running?' for a process, and 'What are you waiting for?' to ask about a delay.
 - 2026-09-23 11:05 — Use present perfect to report a completed event that's relevant now.
+- 2026-09-23 11:05 — Use present perfect ('has finished') to report a completed event that's still relevant now.
