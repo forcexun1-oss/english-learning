@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["只请求一次?2次请求测完啊", "<task-notification>\n<task-id>bqhdf3i8i</task-id>\n<tool-use-id>toolu_01Np6dV9B1gz5qoFhG9YWi42</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/70e52a3e-3e64-4982-ab43-6c5b6fa9e2b9/tasks/bqhdf3i8i.output</output-file>\n<status>completed</status>\n<summary>Monitor \"Wait for codex handoff-24 to finish\" stream ended</summary>\n</task-notification>"]
+=======
+["只请求一次?2次请求测完啊", "<task-notification>\n<task-id>bqhdf3i8i</task-id>\n<summary>Monitor event: \"Wait for codex handoff-24 to finish\"</summary>\n<event>codex process 4528 (handoff-24, schema/context probe) exited</event>\nIf this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.\n</task-notification>"]
+>>>>>>> Stashed changes
