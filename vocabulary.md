@@ -16130,6 +16130,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 15:57 — Use the present perfect ('has finished') to report a completed action that is relevant now.
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
@@ -16200,3 +16201,6 @@
 - 2026-09-23 23:08 — Use 'these upstream items' to refer to the items, and 'weren't they' for a negative question about the plan.
 - 2026-09-23 23:46 — Use 'put ... to sleep' for computers; '休眠' is a verb phrase here, so 'put the computer to sleep' is natural.
 - 2026-09-23 23:47 — Use 'It says' to report what a message states, and 'but' to contrast the two parts.
+=======
+- 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
+>>>>>>> Stashed changes
