@@ -1,1 +1,1 @@
-So when we make the second request, will there be any issues with the KV cache?
+That can't work then. Why is the token count still as high as 1697 now? Who's taking up all that space?

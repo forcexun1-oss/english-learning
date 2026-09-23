@@ -16054,3 +16054,4 @@
 - 2026-09-23 13:08 — Use 'the wrapped rewrite logic' instead of '调用的封装的改写' — '封装' here means 'wrapped' as in a wrapper, and 'logic' clarifies what's being added.
 - 2026-09-23 13:25 — Use 'in that case' to mean 'if that's the situation', and 'what does ... look like' is a natural way to ask about a plan or design.
 - 2026-09-23 13:35 — Use "will there be" for asking about future possibilities, and "any issues" sounds more natural than "have problems" in this context.
+- 2026-09-23 13:46 — Use 'can't work' instead of 'must not work' for impossibility; 'token count' is clearer than just 'token'.
