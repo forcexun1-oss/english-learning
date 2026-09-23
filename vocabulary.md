@@ -16041,3 +16041,4 @@
 - 2026-09-23 11:05 — Use present perfect to report a completed event that's relevant now.
 - 2026-09-23 11:05 — Use present perfect ('has finished') to report a completed event that's still relevant now.
 - 2026-09-23 11:19 — Use 'How many' for countable items like tools, and 'in total' or 'right now' to match the Chinese meaning.
+- 2026-09-23 11:30 — Use 'in total' to mean '一共' and 'for a specific tool' to clarify '某个工具'.
