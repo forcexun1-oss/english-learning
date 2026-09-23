@@ -16048,3 +16048,4 @@
 - 2026-09-23 11:41 — Use 'implement' or 'work' instead of 'do' when asking how a feature is realized in a system. '怎么做' translates to 'how is it implemented' or 'how does it work'.
 - 2026-09-23 11:44 — Use the present perfect tense to describe a completed action that is relevant now.
 - 2026-09-23 11:47 — Use "doesn't hold up" or "doesn't work" instead of "不成立" (literally 'doesn't stand'). Also, "跑不了" is better as "won't run" or "can't run" in this context.
+- 2026-09-23 11:50 — Use 'Does...support' for yes/no questions in present tense, and 'without invalidating' to express 'without changing' more naturally.

@@ -1,1 +1,1 @@
-This flow doesn't hold up — if the second round carries 2 tools, it just won't run.
+Does Qwen's model itself support changing the tools schema mid-conversation without invalidating the prefix cache? Go check that.
