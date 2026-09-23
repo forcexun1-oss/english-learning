@@ -16195,3 +16195,4 @@
 - 2026-09-23 20:07 — Use "What's the issue?" instead of "What problem?" — it's more natural and idiomatic in English.
 - 2026-09-23 20:08 — Use 'align with' instead of '和...对齐' for matching or syncing with something.
 - 2026-09-23 20:58 — In casual English, '停了?' can be simply 'Stopped?' — the subject is implied, just like in Chinese.
+- 2026-09-23 23:06 — Use 'still' to ask about an ongoing action, and 'it' to refer to the task or process.
