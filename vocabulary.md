@@ -16037,3 +16037,4 @@
 >>>>>>> Stashed changes
 - 2026-09-23 10:02 — '复现个6' is slang meaning 'reproduce it? no way' — use 'That's not certain at all' or 'That's not guaranteed' to convey doubt.
 - 2026-09-23 10:03 — '定位是那一段的问题' translates better as 'pinpoint which part is causing the issue' rather than a literal word-for-word translation.
+- 2026-09-23 10:31 — Use 'Is it still running?' for a process, and 'What are you waiting for?' to ask about a delay.
