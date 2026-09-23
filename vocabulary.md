@@ -16152,3 +16152,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 17:07 — Use 'Let's add it then' for a casual suggestion, and 'what's the calling process' instead of 'how is the calling steps' — 'process' is singular and more natural.
