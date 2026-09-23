@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Add a switch to turn off the memory for now.
-=======
-Is it really that slow? What's it doing?
->>>>>>> Stashed changes
+Also, the tools provided are not right. We actually only need the schema of the query tool. Don't create multiple unrelated methods that add to the model's load.
