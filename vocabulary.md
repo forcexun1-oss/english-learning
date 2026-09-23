@@ -16142,3 +16142,4 @@
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
 - 2026-09-23 16:57 — Use past tense 'exited' to describe a completed action, and 'This was' to refer to the process that just finished.
+- 2026-09-23 16:57 — Use present perfect tense to describe a recently completed action.
