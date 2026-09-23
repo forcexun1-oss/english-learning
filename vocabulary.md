@@ -16127,6 +16127,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 15:57 — Use the present perfect ('has finished') to report a completed action that is relevant now.
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
@@ -16178,3 +16179,6 @@
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
 - 2026-09-23 18:00 — Use 'How long will it take?' instead of '要多久' directly; 'recompile and redeploy' is more natural than '重新编译再部署'.
+=======
+- 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
+>>>>>>> Stashed changes
