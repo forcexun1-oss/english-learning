@@ -16113,3 +16113,4 @@
 - 2026-09-23 15:23 — Use the present perfect ('has ended') to report a completed event that is still relevant now.
 - 2026-09-23 15:47 — Use 'consume' instead of '消耗' directly — 'consume tokens' is the natural collocation in English.
 - 2026-09-23 15:52 — Use "How long does it take..." for duration questions, not "How long is...".
+- 2026-09-23 15:55 — TTFT (time to first token) is an acronym, so keep it capitalized. Also, '第一次的' can be shortened to just 'the first request' in this context.
