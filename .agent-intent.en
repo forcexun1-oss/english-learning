@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-The monitor "Wait for codex handoff-15 to finish" stream has ended.
-=======
-Monitor event: "Wait for codex handoff-15 to finish"
-
-Event: codex process 30691 exited.
-
-If this is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
->>>>>>> Stashed changes
+Of course I need to check it. You're reproducing it? That's not certain at all.
