@@ -16025,3 +16025,4 @@
 - 2026-09-22 19:09 — Use 'mid-test' to mean 'during the test' — it's a common idiomatic contraction in technical writing.
 >>>>>>> Stashed changes
 - 2026-09-23 09:40 — Use 'Can't we just...' for a casual suggestion, or 'Why not just...' to sound more natural.
+- 2026-09-23 09:41 — Use 'Let's just' to suggest a simple solution, and keep '8B' as-is since it's a technical term.
