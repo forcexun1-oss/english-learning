@@ -16056,3 +16056,4 @@
 - 2026-09-23 13:35 — Use "will there be" for asking about future possibilities, and "any issues" sounds more natural than "have problems" in this context.
 - 2026-09-23 13:46 — Use 'can't work' instead of 'must not work' for impossibility; 'token count' is clearer than just 'token'.
 - 2026-09-23 14:02 — Use 'Is it that slow?' instead of '这么慢吗' to sound more natural in English.
+- 2026-09-23 14:14 — Use 'What's it doing?' instead of 'who is occupying it' when asking about what a process is currently doing.
