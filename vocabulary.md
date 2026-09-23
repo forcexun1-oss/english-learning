@@ -16047,3 +16047,4 @@
 - 2026-09-23 11:40 — "渐进式披露" translates to "progressive disclosure" — a common UX term. Also, "什么鬼设计" is informal; "What kind of design is this?" keeps the tone natural.
 - 2026-09-23 11:41 — Use 'implement' or 'work' instead of 'do' when asking how a feature is realized in a system. '怎么做' translates to 'how is it implemented' or 'how does it work'.
 - 2026-09-23 11:44 — Use the present perfect tense to describe a completed action that is relevant now.
+- 2026-09-23 11:47 — Use "doesn't hold up" or "doesn't work" instead of "不成立" (literally 'doesn't stand'). Also, "跑不了" is better as "won't run" or "can't run" in this context.
