@@ -1,1 +1,1 @@
-What kind of design is this? Adding a tool returns the schema of the selected tool, but the tool itself is hidden. The question is, on the next request, is this schema still in the tools list? The tools design doesn't seem to support progressive disclosure.
+How does Claude Code implement progressive disclosure?
