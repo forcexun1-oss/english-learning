@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Also, the tools provided are not right. We actually only need the schema of the query tool. Don't create multiple unrelated methods that add to the model's load.
+=======
+Is it really that slow? What's it doing?
+>>>>>>> Stashed changes
 =======
 Is it really that slow? What's it doing?
 >>>>>>> Stashed changes
