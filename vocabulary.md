@@ -16167,3 +16167,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 17:34 — Use 'has exited' (present perfect) to report a completed event that's relevant now, and 'No action needed' for a concise, idiomatic way to say nothing requires attention.

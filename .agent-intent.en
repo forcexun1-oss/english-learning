@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let's leave it here for now.
-=======
-handoff-26 (TTFT measurement) has finished.
->>>>>>> Stashed changes
+The handoff-30 process (codex 44671) has exited. It was running MCP multi-domain, manifest-sync, and token-budget checks. No action needed — this is routine completion.
