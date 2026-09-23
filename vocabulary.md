@@ -16051,3 +16051,4 @@
 - 2026-09-23 11:50 — Use 'Does...support' for yes/no questions in present tense, and 'without invalidating' to express 'without changing' more naturally.
 - 2026-09-23 11:54 — Use 'append it' instead of '带在后面' — '带' translates awkwardly; 'append' is the natural verb for adding data to a request.
 - 2026-09-23 13:07 — Use present perfect "has ended" to describe a completed action with current relevance.
+- 2026-09-23 13:08 — Use 'the wrapped rewrite logic' instead of '调用的封装的改写' — '封装' here means 'wrapped' as in a wrapper, and 'logic' clarifies what's being added.
