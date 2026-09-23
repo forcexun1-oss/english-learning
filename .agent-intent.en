@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The monitor stream for "Wait for corrected handoff-24b to finish" has ended. The task completed successfully.
+=======
+The codex process 4528 (handoff-24, schema/context probe) has exited.
+>>>>>>> Stashed changes

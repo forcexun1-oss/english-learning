@@ -16092,6 +16092,7 @@
 - 2026-09-23 14:40 — Use "make a request" instead of "request" as a verb, and "run the test" for testing.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-23 14:43 — Use present perfect tense ('has ended') to describe a completed action with current relevance.
 =======
 - 2026-09-23 14:43 — Use present perfect ('has exited') to report a completed event with current relevance.
@@ -16102,3 +16103,6 @@
 >>>>>>> Stashed changes
 - 2026-09-23 15:07 — No changes needed — the message is already natural and idiomatic.
 - 2026-09-23 15:07 — Use the present perfect tense ('has ended') to describe a completed action with current relevance.
+=======
+- 2026-09-23 14:43 — Use present perfect ('has exited') to report a completed event with current relevance.
+>>>>>>> Stashed changes
