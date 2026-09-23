@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Test the tool_choice enforcement, and also discuss a plan to trim down the tokens.
-=======
-Is it really that slow? What's it doing?
->>>>>>> Stashed changes
+Add a switch to turn off the memory for now.
