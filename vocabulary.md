@@ -16044,3 +16044,4 @@
 - 2026-09-23 11:30 — Use 'in total' to mean '一共' and 'for a specific tool' to clarify '某个工具'.
 - 2026-09-23 11:32 — Use 'on the second call' instead of '第二次' directly — it's more natural in English.
 - 2026-09-23 11:33 — "又是什么鬼东西" can be translated as "what is this ... thing now" — using "now" conveys the frustration of yet another unexpected issue.
+- 2026-09-23 11:40 — "渐进式披露" translates to "progressive disclosure" — a common UX term. Also, "什么鬼设计" is informal; "What kind of design is this?" keeps the tone natural.
