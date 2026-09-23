@@ -16147,3 +16147,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 17:04 — Use 'call' for invoking a service or API, and 'now' at the end for natural word order.
