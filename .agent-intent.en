@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Let's just use the original 8B model.
+=======
+The board disappeared mid-test — adb lost it right before the A/B run, and reconnect attempts failed. Part A only got through the one-slot prep (launcher backed up, flag changed to `--n-session 1`, rkllm restarted healthy). Part B never ran. The board is still unreachable, so cleanup and restoring `--n-session 2` couldn't be done. Findings were committed locally as `d73a017`. No action needed from me right now unless you want to check the board physically or retry later.
+>>>>>>> Stashed changes
