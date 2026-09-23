@@ -16197,3 +16197,4 @@
 - 2026-09-23 20:58 — In casual English, '停了?' can be simply 'Stopped?' — the subject is implied, just like in Chinese.
 - 2026-09-23 23:06 — Use 'still' to ask about an ongoing action, and 'it' to refer to the task or process.
 - 2026-09-23 23:07 — Use 'What are you waiting for?' instead of '等啥呢' — it's the natural English equivalent for asking someone why they're delaying.
+- 2026-09-23 23:08 — Use 'these upstream items' to refer to the items, and 'weren't they' for a negative question about the plan.
