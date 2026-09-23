@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
-The monitor stream for the parallel memory-toggle code-writing task has ended.
-=======
-The codex process 4528 (handoff-24, schema/context probe) has exited.
->>>>>>> Stashed changes
+Monitor event: "Wait for corrected handoff-24b to finish"
+
+Event: codex process 9384 (handoff-24b, two-request schema/context probe) exited.
+
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
