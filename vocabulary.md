@@ -15969,6 +15969,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-22 19:09 — Use present perfect 'has ended' to report a completed action relevant to now, instead of past simple 'ended'.
 =======
 - 2026-09-22 19:09 — Use 'mid-test' to mean 'during the test' — it's a common idiomatic contraction in technical writing.
@@ -16015,3 +16016,6 @@
 - 2026-09-23 08:09 — Use 'What do you mean by that?' instead of '那怎么个意思呢' for a clearer question, and 'let him do it' for '让他干啊'.
 - 2026-09-23 08:25 — Use the imperative form for a list of actions: 'review, verify, run, and keep pushing forward.'
 - 2026-09-23 09:03 — Use 'Let's' to make a suggestion or continue an action naturally.
+=======
+- 2026-09-22 19:09 — Use 'mid-test' to mean 'during the test' — it's a common idiomatic contraction in technical writing.
+>>>>>>> Stashed changes
