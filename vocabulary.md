@@ -16013,3 +16013,4 @@
 - 2026-09-22 19:09 — Use 'mid-test' to mean 'during the test' — it's a common idiomatic contraction in technical writing.
 >>>>>>> Stashed changes
 - 2026-09-23 08:09 — Use 'What do you mean by that?' instead of '那怎么个意思呢' for a clearer question, and 'let him do it' for '让他干啊'.
+- 2026-09-23 08:25 — Use the imperative form for a list of actions: 'review, verify, run, and keep pushing forward.'
