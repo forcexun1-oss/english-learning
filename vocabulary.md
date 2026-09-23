@@ -16040,3 +16040,4 @@
 - 2026-09-23 10:31 — Use 'Is it still running?' for a process, and 'What are you waiting for?' to ask about a delay.
 - 2026-09-23 11:05 — Use present perfect to report a completed event that's relevant now.
 - 2026-09-23 11:05 — Use present perfect ('has finished') to report a completed event that's still relevant now.
+- 2026-09-23 11:19 — Use 'How many' for countable items like tools, and 'in total' or 'right now' to match the Chinese meaning.
