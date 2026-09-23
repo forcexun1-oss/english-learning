@@ -16172,3 +16172,4 @@
 =======
 - 2026-09-23 15:57 — Use present perfect ('has finished') to report a completed event that's relevant now.
 >>>>>>> Stashed changes
+- 2026-09-23 17:58 — Use 'Have you tested' (present perfect) to ask about an action up to now, and 'on the board' for location.
