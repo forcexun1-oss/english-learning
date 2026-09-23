@@ -1,1 +1,1 @@
-Does Qwen's model itself support changing the tools schema mid-conversation without invalidating the prefix cache? Go check that.
+So if each tool only returns the schema of the selected tool, can we append it on the second request? Go check that. Are there other approaches?
