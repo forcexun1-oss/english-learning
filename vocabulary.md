@@ -16302,3 +16302,4 @@
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
 - 2026-09-24 19:43 — Use 'Download this:' to introduce a link, which is more natural than just stating the URL.
+- 2026-09-24 20:03 — Use 'done' instead of '好了' for completed actions; 'Is it ready?' also works.
