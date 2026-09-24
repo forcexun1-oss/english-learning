@@ -16211,3 +16211,4 @@
 - 2026-09-24 13:00 — Use "Did you..." for past simple questions instead of "关了吗" literally as "closed?"
 - 2026-09-24 13:16 — Use the present perfect ('has exited') to report a completed event that's relevant now.
 - 2026-09-24 13:19 — Use 'look into' for investigating a cause, and 'measure' instead of 'test out' when you mean obtaining a numeric value.
+- 2026-09-24 13:21 — Use "duplicates" (verb) instead of "duplicate" when describing the action: 'the block duplicates information'. Also, 'recover' is more natural than 'save' when talking about reclaiming tokens.
