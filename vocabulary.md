@@ -16241,3 +16241,4 @@
 - 2026-09-24 15:15 — Use 'modified' instead of '改的' to sound more natural in English; 'changed' is fine but 'modified' is common in tech contexts.
 - 2026-09-24 15:17 — Use 'I want' instead of '我要' for a direct request; '啊' adds emphasis but is often omitted in English.
 - 2026-09-24 15:18 — '干脆' can be translated as 'might as well' to express doing something decisively or for convenience.
+- 2026-09-24 15:21 — Use 'match' or 'be compatible with' instead of '配套' (peitao) — e.g., 'it needs to match 5bit'.
