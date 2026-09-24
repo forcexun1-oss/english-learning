@@ -16236,3 +16236,4 @@
 - 2026-09-24 15:10 — Use the present perfect "has ended" to describe a recently completed action with current relevance.
 - 2026-09-24 15:11 — Use 'Why can't I...' instead of '我为什么启动不了' literally as 'Why am I unable to start it?' — 'can't' is more natural for inability.
 - 2026-09-24 15:13 — Use 'revert' instead of 'roll back' for a quick undo in coding contexts.
+- 2026-09-24 15:14 — Use 'won't start' for a refusal or failure to start, and 'before saying it works' to clarify the sequence.
