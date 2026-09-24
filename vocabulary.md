@@ -16261,3 +16261,4 @@
 - 2026-09-24 16:28 — Use "Let's" to make a suggestion sound natural and collaborative.
 - 2026-09-24 16:28 — In English, '用' (use) is the main verb, so you don't need '的' — just say 'use the codex model'.
 - 2026-09-24 16:29 — Use 'Didn't...' for a surprised/reminding question, and 'it's cheaper too' to add the second point naturally.
+- 2026-09-24 16:29 — Use the past tense 'finished' to report a completed action.
