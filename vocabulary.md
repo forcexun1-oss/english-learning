@@ -16337,3 +16337,4 @@
 - 2026-09-24 22:59 — Use 'can't be selected' instead of '选择不了' directly translated; 'won't stick' is more natural than '钩中的变'.
 - 2026-09-24 23:27 — Use "can't be selected" (passive voice) to describe the UI state, and "Where did you change it?" to ask about the modification location.
 - 2026-09-24 23:28 — Use 'It's not that... it's that...' to contrast two explanations clearly.
+- 2026-09-24 23:52 — Use 'broke' (past tense of 'break') to describe something that stopped working, and add 'didn't it?' for a tag question to confirm your suspicion.
