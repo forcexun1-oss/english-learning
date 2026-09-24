@@ -16206,3 +16206,4 @@
 >>>>>>> Stashed changes
 - 2026-09-24 11:30 — Use 'stop second-guessing' instead of '别怀疑了' for a natural imperative, and 'get this working end-to-end' conveys '跑通' better than a literal translation.
 - 2026-09-24 12:33 — Use present perfect for a completed action relevant now.
+- 2026-09-24 12:33 — Use present perfect ('has finished') to report a completed action that's relevant now.
