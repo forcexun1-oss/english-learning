@@ -16217,3 +16217,4 @@
 - 2026-09-24 13:43 — Use 'Let me check' instead of a direct translation of '去查' — it sounds more natural in English.
 - 2026-09-24 13:56 — Use the present perfect ('has finished') to report a completed event that's relevant now.
 - 2026-09-24 13:56 — Use the past tense 'finished' to report a completed action.
+- 2026-09-24 13:58 — Use 'disable' or 'turn off' for features/settings; 'close' is more for windows or files.
