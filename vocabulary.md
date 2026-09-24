@@ -16264,6 +16264,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-24 16:29 — Use 'Didn't...' for a surprised/reminding question, and 'it's cheaper too' to add the second point naturally.
 - 2026-09-24 16:29 — Use the past tense 'finished' to report a completed action.
 =======
@@ -16282,6 +16283,9 @@
 - 2026-09-24 17:04 — Use 'What is...' instead of '现在...是多少' directly; 'intensity' is clearer than '强度' in this context.
 - 2026-09-24 17:07 — Use 'Did you...' for past actions and 'Does...' for present capability questions.
 - 2026-09-24 17:12 — Use 'Is it running?' to ask if something is currently in progress or active.
+=======
+- 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
+>>>>>>> Stashed changes
 =======
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
