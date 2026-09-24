@@ -16319,3 +16319,4 @@
 - 2026-09-24 20:43 — Use 'collided' for two processes conflicting, and 'just now' instead of '刚才' to sound more natural.
 - 2026-09-24 21:07 — Use 'so' to connect a reason and result, and 'whether' for choosing between two options.
 - 2026-09-24 21:14 — Use 'free up' for memory/space, and 'Why is it still...' to express ongoing frustration.
+- 2026-09-24 21:15 — Use present perfect 'Have you tried' for asking about a recent action's result, not past simple.
