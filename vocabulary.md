@@ -16228,3 +16228,4 @@
 - 2026-09-24 14:34 — Use 'Why is it like this?' instead of 'Why is it so?' — 'so' alone sounds incomplete; 'like this' is more natural.
 - 2026-09-24 14:42 — Use 'directory structure' instead of just 'directory' to be more specific about what you want adjusted.
 - 2026-09-24 14:51 — Use 'support' after a technology name to ask for a feature, e.g., 'add MTP support'.
+- 2026-09-24 14:52 — Use 'Or' instead of '或者' when offering an alternative in a question. Keep the technical term 'dflash2' unchanged.
