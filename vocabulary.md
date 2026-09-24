@@ -16232,3 +16232,4 @@
 - 2026-09-24 15:00 — Use 'in effect' for something taking effect, or 'working' for a more casual tone.
 - 2026-09-24 15:03 — Use 'Did it throw an error?' for past tense questions about errors, and 'try it yourself' is more natural than 'you try it yourself'.
 - 2026-09-24 15:09 — Use 'Did you...' for past simple questions instead of just adding '吗'.
+- 2026-09-24 15:10 — Use "finished" instead of "exited" for a process that completed normally.
