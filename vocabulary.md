@@ -16242,3 +16242,4 @@
 - 2026-09-24 15:17 — Use 'I want' instead of '我要' for a direct request; '啊' adds emphasis but is often omitted in English.
 - 2026-09-24 15:18 — '干脆' can be translated as 'might as well' to express doing something decisively or for convenience.
 - 2026-09-24 15:21 — Use 'match' or 'be compatible with' instead of '配套' (peitao) — e.g., 'it needs to match 5bit'.
+- 2026-09-24 15:28 — Use 'Can't I...' for a natural question form, and 'unavailable' instead of 'can't find' to sound more natural.
