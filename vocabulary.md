@@ -16308,3 +16308,4 @@
 - 2026-09-24 20:19 — Use 'by default' instead of '默认是' to sound more natural in English.
 - 2026-09-24 20:22 — Use 'What is the current value of...' instead of '当前这个参数是多少' to ask about a specific parameter's value.
 - 2026-09-24 20:25 — Use 'Download' as the verb (imperative) instead of '下载这个' — in English, commands start with the verb directly.
+- 2026-09-24 20:28 — Use 'Can't' instead of '加载不了吗' — in English, questions about ability start with 'Can' or 'Can't'.
