@@ -16239,3 +16239,4 @@
 - 2026-09-24 15:14 — Use 'won't start' for a refusal or failure to start, and 'before saying it works' to clarify the sequence.
 - 2026-09-24 15:14 — Use 'revert' instead of '回退' in English; it's the standard term for undoing changes in coding contexts.
 - 2026-09-24 15:15 — Use 'modified' instead of '改的' to sound more natural in English; 'changed' is fine but 'modified' is common in tech contexts.
+- 2026-09-24 15:17 — Use 'I want' instead of '我要' for a direct request; '啊' adds emphasis but is often omitted in English.
