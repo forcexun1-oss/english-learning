@@ -16334,3 +16334,4 @@
 - 2026-09-24 22:14 — Use "Can I also..." instead of "I use... can also?" to form a natural question in English.
 - 2026-09-24 22:18 — Use 'Why can't' instead of '怎么不能' for a direct question; 'anymore' adds the sense of a recent change.
 - 2026-09-24 22:22 — Use 'dropdown list' for 下拉列表, and 'checkmark' for 钩. '变' here means 'changes' — use present tense.
+- 2026-09-24 22:59 — Use 'can't be selected' instead of '选择不了' directly translated; 'won't stick' is more natural than '钩中的变'.
