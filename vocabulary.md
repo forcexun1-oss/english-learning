@@ -16222,3 +16222,4 @@
 - 2026-09-24 14:06 — Use 'should work' instead of 'can run' for a more natural conditional check, and 'set it as the default' for '配置成默认的'.
 - 2026-09-24 14:12 — "搞错了" is often translated as "my mistake" or "I made a mistake" rather than a literal "wrong".
 - 2026-09-24 14:12 — Use 'change' instead of '把...改成' structure; in English, place the object after the verb.
+- 2026-09-24 14:15 — Use 'It's not just this one spot' instead of '不止这一处' for a natural English expression, and 'need to be updated' for '要改'.
