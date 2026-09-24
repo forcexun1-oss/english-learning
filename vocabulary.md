@@ -16255,3 +16255,4 @@
 - 2026-09-24 16:03 — Use "Check the logs for..." instead of "看看日志把" — "把" is a typo for "吧" and the imperative form is more natural in English.
 - 2026-09-24 16:13 — Use "What's going on?" for a casual, natural way to ask about the current situation.
 - 2026-09-24 16:13 — Use past tense 'finished' for a completed action, and 'What's the result?' is more natural than asking for status in Chinese-style phrasing.
+- 2026-09-24 16:15 — Use "on-device model" instead of "端侧模型" (a direct translation). Also, '当然' here is better rendered as 'of course' placed after the comma for natural flow.
