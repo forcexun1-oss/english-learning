@@ -16306,3 +16306,4 @@
 - 2026-09-24 20:15 — Use 'in effect' instead of '生效了' to mean 'active/working' in English.
 - 2026-09-24 20:16 — Use 'I've already got it running' instead of '我都起来了' to sound natural; '起来了' is too literal here.
 - 2026-09-24 20:19 — Use 'by default' instead of '默认是' to sound more natural in English.
+- 2026-09-24 20:22 — Use 'What is the current value of...' instead of '当前这个参数是多少' to ask about a specific parameter's value.
