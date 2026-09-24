@@ -16314,3 +16314,4 @@
 - 2026-09-24 20:30 — Use 'upstream' as a noun (the source repository) and add 'from' to show the origin.
 - 2026-09-24 20:33 — Use 'Download' as the verb (imperative) instead of '下' which is informal; keep the URL unchanged.
 - 2026-09-24 20:35 — Use "on startup" instead of "启动" directly; it's the natural way to say "when it starts" in English.
+- 2026-09-24 20:37 — Use 'Still not working' instead of '还是不行' — it's more natural than 'still not okay' in English.
