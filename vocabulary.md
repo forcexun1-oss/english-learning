@@ -16265,6 +16265,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-24 16:29 — Use 'Didn't...' for a surprised/reminding question, and 'it's cheaper too' to add the second point naturally.
 - 2026-09-24 16:29 — Use the past tense 'finished' to report a completed action.
 =======
@@ -16292,3 +16293,6 @@
 - 2026-09-24 17:16 — Use 'which' for choosing from a known set, and 'where' for location. Also, 'configured' is more natural than '配的' in English.
 - 2026-09-24 17:52 — Use present perfect ('has exited') to report a completed event that is relevant now.
 - 2026-09-24 17:52 — Use present perfect ('has ended') to describe a completed action relevant to the current moment.
+=======
+- 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
+>>>>>>> Stashed changes
