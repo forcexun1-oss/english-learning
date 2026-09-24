@@ -16336,3 +16336,4 @@
 - 2026-09-24 22:22 — Use 'dropdown list' for 下拉列表, and 'checkmark' for 钩. '变' here means 'changes' — use present tense.
 - 2026-09-24 22:59 — Use 'can't be selected' instead of '选择不了' directly translated; 'won't stick' is more natural than '钩中的变'.
 - 2026-09-24 23:27 — Use "can't be selected" (passive voice) to describe the UI state, and "Where did you change it?" to ask about the modification location.
+- 2026-09-24 23:28 — Use 'It's not that... it's that...' to contrast two explanations clearly.
