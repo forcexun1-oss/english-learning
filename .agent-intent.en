@@ -1,1 +1,1 @@
-Can I directly load the mac-assistant parameters in front, with draft-block-size?
+Qwen 3.8 supports reasoning_effort, right? Add a parameter for it, placed next to the model selection. Default to low for now. How many levels does this parameter have? Other models should also be able to select it, so let's see how to make it compatible across the board.

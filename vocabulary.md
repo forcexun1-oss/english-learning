@@ -16324,3 +16324,4 @@
 - 2026-09-24 21:16 — '说明问题' means 'prove a point' or 'be conclusive' — use 'prove anything' or 'be meaningful' in this context.
 - 2026-09-24 21:28 — Use 'speed it up' for 提速, and 'bottleneck' for 瓶颈 — both are common in tech contexts.
 - 2026-09-24 21:32 — Use 'in front' or 'before' to indicate position; '前面' here likely means 'before' in sequence, not 'ahead'.
+- 2026-09-24 21:36 — Use 'right?' for tag questions instead of '把' to confirm something, and 'levels' for 档 when referring to parameter options.
