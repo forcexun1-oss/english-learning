@@ -16234,3 +16234,4 @@
 - 2026-09-24 15:09 — Use 'Did you...' for past simple questions instead of just adding '吗'.
 - 2026-09-24 15:10 — Use "finished" instead of "exited" for a process that completed normally.
 - 2026-09-24 15:10 — Use the present perfect "has ended" to describe a recently completed action with current relevance.
+- 2026-09-24 15:11 — Use 'Why can't I...' instead of '我为什么启动不了' literally as 'Why am I unable to start it?' — 'can't' is more natural for inability.
