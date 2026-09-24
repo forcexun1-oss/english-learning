@@ -16327,3 +16327,4 @@
 - 2026-09-24 21:36 — Use 'right?' for tag questions instead of '把' to confirm something, and 'levels' for 档 when referring to parameter options.
 - 2026-09-24 21:58 — Use 'retrieval API' instead of '读取的接口' for a more natural technical term.
 - 2026-09-24 22:03 — Use 'get passed through' for '传过来' and 'take effect' for '生效' in technical contexts.
+- 2026-09-24 22:03 — "我传了" is naturally rendered as "I did pass it" (using "did" for emphasis) rather than a literal "I passed".
