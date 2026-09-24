@@ -16325,3 +16325,4 @@
 - 2026-09-24 21:28 — Use 'speed it up' for 提速, and 'bottleneck' for 瓶颈 — both are common in tech contexts.
 - 2026-09-24 21:32 — Use 'in front' or 'before' to indicate position; '前面' here likely means 'before' in sequence, not 'ahead'.
 - 2026-09-24 21:36 — Use 'right?' for tag questions instead of '把' to confirm something, and 'levels' for 档 when referring to parameter options.
+- 2026-09-24 21:58 — Use 'retrieval API' instead of '读取的接口' for a more natural technical term.
