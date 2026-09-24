@@ -16218,3 +16218,4 @@
 - 2026-09-24 13:56 — Use the present perfect ('has finished') to report a completed event that's relevant now.
 - 2026-09-24 13:56 — Use the past tense 'finished' to report a completed action.
 - 2026-09-24 13:58 — Use 'disable' or 'turn off' for features/settings; 'close' is more for windows or files.
+- 2026-09-24 14:00 — Use 'turn off' or 'disable' instead of 'close' when talking about features/settings being deactivated.
