@@ -16209,3 +16209,4 @@
 - 2026-09-24 12:33 — Use present perfect ('has finished') to report a completed action that's relevant now.
 - 2026-09-24 12:40 — In English, '去查' is usually expressed as 'Go check it' or 'Go look it up' — adding a short object like 'it' makes the instruction sound natural and complete.
 - 2026-09-24 13:00 — Use "Did you..." for past simple questions instead of "关了吗" literally as "closed?"
+- 2026-09-24 13:16 — Use the present perfect ('has exited') to report a completed event that's relevant now.
