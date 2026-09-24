@@ -16312,3 +16312,4 @@
 - 2026-09-24 20:28 — Use the imperative form for direct commands: 'Check the logs' instead of 'Look at the logs'.
 - 2026-09-24 20:29 — Use 'should I' instead of '去哪里' to sound more natural in English questions.
 - 2026-09-24 20:30 — Use 'upstream' as a noun (the source repository) and add 'from' to show the origin.
+- 2026-09-24 20:33 — Use 'Download' as the verb (imperative) instead of '下' which is informal; keep the URL unchanged.
