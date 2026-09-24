@@ -16289,3 +16289,4 @@
 =======
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
+- 2026-09-24 17:16 — Use 'which' for choosing from a known set, and 'where' for location. Also, 'configured' is more natural than '配的' in English.
