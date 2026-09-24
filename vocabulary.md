@@ -16329,3 +16329,4 @@
 - 2026-09-24 22:03 — Use 'get passed through' for '传过来' and 'take effect' for '生效' in technical contexts.
 - 2026-09-24 22:03 — "我传了" is naturally rendered as "I did pass it" (using "did" for emphasis) rather than a literal "I passed".
 - 2026-09-24 22:07 — Use 'Isn't there' for a negative question, and 'There isn't one' to confirm absence.
+- 2026-09-24 22:11 — Use 'pass through' (传过去) instead of just 'pass' to convey the idea of forwarding something along.
