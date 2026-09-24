@@ -16216,3 +16216,4 @@
 - 2026-09-24 13:42 — "去改吧" is casual; "Go ahead and" sounds more natural in English. Also, "把他们够改成可配的" has a typo — "够" should be "都" (all of them).
 - 2026-09-24 13:43 — Use 'Let me check' instead of a direct translation of '去查' — it sounds more natural in English.
 - 2026-09-24 13:56 — Use the present perfect ('has finished') to report a completed event that's relevant now.
+- 2026-09-24 13:56 — Use the past tense 'finished' to report a completed action.
