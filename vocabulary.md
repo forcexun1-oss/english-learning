@@ -16220,3 +16220,4 @@
 - 2026-09-24 13:58 — Use 'disable' or 'turn off' for features/settings; 'close' is more for windows or files.
 - 2026-09-24 14:00 — Use 'turn off' or 'disable' instead of 'close' when talking about features/settings being deactivated.
 - 2026-09-24 14:06 — Use 'should work' instead of 'can run' for a more natural conditional check, and 'set it as the default' for '配置成默认的'.
+- 2026-09-24 14:12 — "搞错了" is often translated as "my mistake" or "I made a mistake" rather than a literal "wrong".
