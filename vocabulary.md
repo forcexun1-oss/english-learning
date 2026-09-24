@@ -16266,6 +16266,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-24 16:29 — Use 'Didn't...' for a surprised/reminding question, and 'it's cheaper too' to add the second point naturally.
 - 2026-09-24 16:29 — Use the past tense 'finished' to report a completed action.
 =======
@@ -16297,3 +16298,6 @@
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
 - 2026-09-24 17:59 — Use 'power off' instead of '断电' for electronic devices; 'cut off power' is also fine but less common in casual tech talk.
+=======
+- 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
+>>>>>>> Stashed changes
