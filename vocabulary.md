@@ -16310,3 +16310,4 @@
 - 2026-09-24 20:25 — Use 'Download' as the verb (imperative) instead of '下载这个' — in English, commands start with the verb directly.
 - 2026-09-24 20:28 — Use 'Can't' instead of '加载不了吗' — in English, questions about ability start with 'Can' or 'Can't'.
 - 2026-09-24 20:28 — Use the imperative form for direct commands: 'Check the logs' instead of 'Look at the logs'.
+- 2026-09-24 20:29 — Use 'should I' instead of '去哪里' to sound more natural in English questions.
