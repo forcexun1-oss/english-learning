@@ -16276,3 +16276,4 @@
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
 - 2026-09-24 16:35 — Use "How should I fix it?" instead of 'how to change' — 'should' makes it a natural question.
+- 2026-09-24 16:44 — Use 'finished' instead of '完了' to sound more natural in English; 'done' also works.
