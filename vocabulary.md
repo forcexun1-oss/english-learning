@@ -16248,3 +16248,4 @@
 - 2026-09-24 15:41 — Use 'Is it on...?' to ask if something exists on a platform, keeping the platform name unchanged.
 - 2026-09-24 15:47 — Use 'get cut off' instead of '给断了' to express being interrupted in English.
 - 2026-09-24 15:49 — "啥情况" is casual; "What's going on?" or "What's the situation?" both work. Keep it short and natural for chat.
+- 2026-09-24 15:53 — Use 'run out of time' instead of 'expire' for sessions or time limits.
