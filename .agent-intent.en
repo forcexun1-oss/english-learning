@@ -1,1 +1,1 @@
-Why is the conversation still calling the external memory retrieval API by default? Remove that.
+Did the reasoning_effort get passed through? Is it taking effect?
