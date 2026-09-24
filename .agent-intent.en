@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It says all tasks are done and the computer is going to sleep, but the goal is still ongoing..
-=======
-handoff-26 (TTFT measurement) has finished.
->>>>>>> Stashed changes
+Stop second-guessing. Just build the prompt, call the model directly, get this working end-to-end, and then move upstream. Don't guess blindly.
