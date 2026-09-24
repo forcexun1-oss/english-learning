@@ -16280,3 +16280,4 @@
 - 2026-09-24 16:56 — Use "Did you change it?" for past action questions; "改大点" = "make it bigger".
 - 2026-09-24 17:04 — Use 'What is...' instead of '现在...是多少' directly; 'intensity' is clearer than '强度' in this context.
 - 2026-09-24 17:07 — Use 'Did you...' for past actions and 'Does...' for present capability questions.
+- 2026-09-24 17:12 — Use 'Is it running?' to ask if something is currently in progress or active.
