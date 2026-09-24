@@ -16231,3 +16231,4 @@
 - 2026-09-24 14:52 — Use 'Or' instead of '或者' when offering an alternative in a question. Keep the technical term 'dflash2' unchanged.
 - 2026-09-24 15:00 — Use 'in effect' for something taking effect, or 'working' for a more casual tone.
 - 2026-09-24 15:03 — Use 'Did it throw an error?' for past tense questions about errors, and 'try it yourself' is more natural than 'you try it yourself'.
+- 2026-09-24 15:09 — Use 'Did you...' for past simple questions instead of just adding '吗'.
