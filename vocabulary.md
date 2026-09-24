@@ -16305,3 +16305,4 @@
 - 2026-09-24 20:03 — Use 'done' instead of '好了' for completed actions; 'Is it ready?' also works.
 - 2026-09-24 20:15 — Use 'in effect' instead of '生效了' to mean 'active/working' in English.
 - 2026-09-24 20:16 — Use 'I've already got it running' instead of '我都起来了' to sound natural; '起来了' is too literal here.
+- 2026-09-24 20:19 — Use 'by default' instead of '默认是' to sound more natural in English.
