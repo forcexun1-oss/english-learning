@@ -16339,3 +16339,4 @@
 - 2026-09-24 23:28 — Use 'It's not that... it's that...' to contrast two explanations clearly.
 - 2026-09-24 23:52 — Use 'broke' (past tense of 'break') to describe something that stopped working, and add 'didn't it?' for a tag question to confirm your suspicion.
 - 2026-09-24 23:53 — Use 'at the beginning' instead of 'in the front' for position within a text or prompt.
+- 2026-09-24 23:57 — Use 'So' to start a follow-up question naturally, and 'shouldn't have changed' (past modal + perfect) to express regret about a past action.
