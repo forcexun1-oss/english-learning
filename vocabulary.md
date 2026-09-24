@@ -16229,3 +16229,4 @@
 - 2026-09-24 14:42 — Use 'directory structure' instead of just 'directory' to be more specific about what you want adjusted.
 - 2026-09-24 14:51 — Use 'support' after a technology name to ask for a feature, e.g., 'add MTP support'.
 - 2026-09-24 14:52 — Use 'Or' instead of '或者' when offering an alternative in a question. Keep the technical term 'dflash2' unchanged.
+- 2026-09-24 15:00 — Use 'in effect' for something taking effect, or 'working' for a more casual tone.
