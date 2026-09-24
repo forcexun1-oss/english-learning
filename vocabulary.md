@@ -16296,3 +16296,4 @@
 =======
 - 2026-09-24 16:29 — Use the possessive 's for a person/agent, not the plural form.
 >>>>>>> Stashed changes
+- 2026-09-24 17:59 — Use 'power off' instead of '断电' for electronic devices; 'cut off power' is also fine but less common in casual tech talk.
