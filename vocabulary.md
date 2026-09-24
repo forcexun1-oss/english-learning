@@ -16225,3 +16225,4 @@
 - 2026-09-24 14:15 — Use 'It's not just this one spot' instead of '不止这一处' for a natural English expression, and 'need to be updated' for '要改'.
 - 2026-09-24 14:21 — Use 'Can this project not load...' for a yes/no question about capability, or 'Why can't this project load...' if asking for a reason.
 - 2026-09-24 14:28 — Use 'didn't start' (past tense) instead of '没启动起来' directly translated, and 'startup parameters' is the natural term for 启动参数.
+- 2026-09-24 14:34 — Use 'Why is it like this?' instead of 'Why is it so?' — 'so' alone sounds incomplete; 'like this' is more natural.
