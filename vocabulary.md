@@ -16213,3 +16213,4 @@
 - 2026-09-24 13:19 — Use 'look into' for investigating a cause, and 'measure' instead of 'test out' when you mean obtaining a numeric value.
 - 2026-09-24 13:21 — Use "duplicates" (verb) instead of "duplicate" when describing the action: 'the block duplicates information'. Also, 'recover' is more natural than 'save' when talking about reclaiming tokens.
 - 2026-09-24 13:24 — "去改吧" can be translated as "Go ahead and make the changes" — "go ahead" adds a natural go-ahead tone. "把他们够改成可配的" → "make them configurable" (note: "够" seems like a typo for "都").
+- 2026-09-24 13:42 — "去改吧" is casual; "Go ahead and" sounds more natural in English. Also, "把他们够改成可配的" has a typo — "够" should be "都" (all of them).
