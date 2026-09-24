@@ -16259,3 +16259,4 @@
 - 2026-09-24 16:16 — Use 'How long does it take' for duration questions; '多久' maps to 'how long'.
 - 2026-09-24 16:17 — Use "way too long" for emphasis instead of just "too long". "Why does it take so long?" is more natural than "why is it so long" when asking about duration.
 - 2026-09-24 16:28 — Use "Let's" to make a suggestion sound natural and collaborative.
+- 2026-09-24 16:28 — In English, '用' (use) is the main verb, so you don't need '的' — just say 'use the codex model'.
