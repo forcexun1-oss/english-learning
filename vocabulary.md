@@ -16250,3 +16250,4 @@
 - 2026-09-24 15:49 — "啥情况" is casual; "What's going on?" or "What's the situation?" both work. Keep it short and natural for chat.
 - 2026-09-24 15:53 — Use 'run out of time' instead of 'expire' for sessions or time limits.
 - 2026-09-24 15:55 — Use "output limit" instead of "输出上下" (which is incomplete). Also, "谁设置的" translates to "Who set" in past tense.
+- 2026-09-24 16:00 — Use 'disconnect' (verb) instead of '断开' as a noun; 'during the thinking process' is more natural than '在思考过程中就'.
