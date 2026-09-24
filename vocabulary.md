@@ -16244,3 +16244,4 @@
 - 2026-09-24 15:21 — Use 'match' or 'be compatible with' instead of '配套' (peitao) — e.g., 'it needs to match 5bit'.
 - 2026-09-24 15:28 — Use 'Can't I...' for a natural question form, and 'unavailable' instead of 'can't find' to sound more natural.
 - 2026-09-24 15:29 — Use 'retry' as a verb (not '重试' literally as 'try again'), and 'separately' to mean '单独'.
+- 2026-09-24 15:33 — Use 'Try + verb-ing' for suggesting an action, and 'should' to express expectation.
