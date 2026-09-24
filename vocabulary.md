@@ -16227,3 +16227,4 @@
 - 2026-09-24 14:28 — Use 'didn't start' (past tense) instead of '没启动起来' directly translated, and 'startup parameters' is the natural term for 启动参数.
 - 2026-09-24 14:34 — Use 'Why is it like this?' instead of 'Why is it so?' — 'so' alone sounds incomplete; 'like this' is more natural.
 - 2026-09-24 14:42 — Use 'directory structure' instead of just 'directory' to be more specific about what you want adjusted.
+- 2026-09-24 14:51 — Use 'support' after a technology name to ask for a feature, e.g., 'add MTP support'.
