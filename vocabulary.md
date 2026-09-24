@@ -16331,3 +16331,4 @@
 - 2026-09-24 22:07 — Use 'Isn't there' for a negative question, and 'There isn't one' to confirm absence.
 - 2026-09-24 22:11 — Use 'pass through' (传过去) instead of just 'pass' to convey the idea of forwarding something along.
 - 2026-09-24 22:14 — Use 'Did you...' for past simple questions instead of just adding a question mark to a verb.
+- 2026-09-24 22:14 — Use "Can I also..." instead of "I use... can also?" to form a natural question in English.
