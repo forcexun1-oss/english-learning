@@ -1,1 +1,1 @@
-All the memory_read-related ones can be turned off now.
+The Qwen3.8-27B-MLX-5bit model should work with this project, right? Take a look, and if it does, set it as the default.
