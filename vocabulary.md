@@ -16341,3 +16341,4 @@
 - 2026-09-24 23:53 — Use 'at the beginning' instead of 'in the front' for position within a text or prompt.
 - 2026-09-24 23:57 — Use 'So' to start a follow-up question naturally, and 'shouldn't have changed' (past modal + perfect) to express regret about a past action.
 - 2026-09-24 23:59 — Use 'Do we still need to...' instead of '那还需要' to ask if further changes are required.
+- 2026-09-25 00:01 — Use 'take effect' instead of '生效' in English, and 'don't just... and leave it at that' to express '不要改了就不管了'.
