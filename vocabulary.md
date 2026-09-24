@@ -16278,3 +16278,4 @@
 - 2026-09-24 16:35 — Use "How should I fix it?" instead of 'how to change' — 'should' makes it a natural question.
 - 2026-09-24 16:44 — Use 'finished' instead of '完了' to sound more natural in English; 'done' also works.
 - 2026-09-24 16:56 — Use "Did you change it?" for past action questions; "改大点" = "make it bigger".
+- 2026-09-24 17:04 — Use 'What is...' instead of '现在...是多少' directly; 'intensity' is clearer than '强度' in this context.
