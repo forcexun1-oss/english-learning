@@ -1,1 +1,1 @@
-Fix it. Also, what values are actually supported? Try all of them. Some seem unsupported and don't take effect. Don't just change it and leave it at that.
+~/models/Qwen3.8-27B-Ternary-Bonsai-2-DFlash2-MLX ~/models/Qwen3.8-27B-UD-Q3_K_XL-DFlash2-MLX — configure both of these, with the first one selected by default. There are many configurations, so search more thoroughly.
