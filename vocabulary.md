@@ -16348,3 +16348,4 @@
 - 2026-09-26 22:51 — Use 'Do I need to...' for yes/no questions, and 'How do I set it up?' instead of '怎么配' — 'set up' is more natural than 'configure' in casual technical talk.
 - 2026-09-26 22:55 — Use 'won't start' (future/refusal) instead of '启动不了' literally as 'can't start'; '你自己试试再说' = 'try it yourself before saying anything'.
 - 2026-09-26 23:00 — Use 'should' for asking advice or expectation, and 'it' refers to the thing being discussed.
+- 2026-09-26 23:02 — Use 'start' instead of '启动' in English; 'launch' is also fine but 'start' is more common in casual tech talk.
