@@ -16343,3 +16343,4 @@
 - 2026-09-24 23:59 — Use 'Do we still need to...' instead of '那还需要' to ask if further changes are required.
 - 2026-09-25 00:01 — Use 'take effect' instead of '生效' in English, and 'don't just... and leave it at that' to express '不要改了就不管了'.
 - 2026-09-26 22:30 — Use 'configure' instead of '配' (which means 'match' or 'equip'), and 'selected by default' for '默认选中'.
+- 2026-09-26 22:34 — Use 'with the first one selected by default' to express '默认选中第一个' naturally; 'search more thoroughly' is clearer than '多搜下'.

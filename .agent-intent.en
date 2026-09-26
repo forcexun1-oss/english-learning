@@ -1,1 +1,1 @@
-~/models/Qwen3.8-27B-Ternary-Bonsai-2-DFlash2-MLX ~/models/Qwen3.8-27B-UD-Q3_K_XL-DFlash2-MLX — configure both of these, with the first one selected by default. There are many configurations, so search more thoroughly.
+Configure both ~/models/Qwen3.8-27B-Ternary-Bonsai-2-DFlash2-MLX and ~/models/Qwen3.8-27B-UD-Q3_K_XL-DFlash2-MLX, with the first one selected by default. There are many configurations, so search more thoroughly.
