@@ -16350,3 +16350,4 @@
 - 2026-09-26 23:00 — Use 'should' for asking advice or expectation, and 'it' refers to the thing being discussed.
 - 2026-09-26 23:02 — Use 'start' instead of '启动' in English; 'launch' is also fine but 'start' is more common in casual tech talk.
 - 2026-09-26 23:03 — Use 'search online' instead of 'search' alone to clarify you mean web search, not local search.
+- 2026-09-26 23:12 — Use 'switch to' instead of '换成' when changing to a different option, and 'reconfigure' is a single word.
