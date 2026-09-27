@@ -16354,3 +16354,4 @@
 - 2026-09-26 23:21 — '没有一个单独的' translates to 'no standalone' — use 'standalone' instead of 'single' for a service that works independently.
 - 2026-09-26 23:27 — Use 'restore' instead of '还原' in English; it's the common verb for bringing settings back to a previous state.
 - 2026-09-27 19:42 — Use 'rib flaring' (or 'flared ribs') instead of '肋骨外翻' literally translated. Also, specify 'my child' for clarity.
+- 2026-09-27 19:43 — Use 'taller than average' instead of 'higher than general' — 'high' is for measurements, 'tall' is for people.
