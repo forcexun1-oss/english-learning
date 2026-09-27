@@ -16358,3 +16358,4 @@
 - 2026-09-27 22:22 — Use "Continue." as a natural, direct command in developer communication.
 - 2026-09-27 22:22 — '继续' can be translated as 'continue with' when referring to an ongoing task or goal.
 - 2026-09-27 22:23 — Use 'There's no...' to state absence; '人工标注' = 'manual annotation'.
+- 2026-09-27 22:23 — Use 'handle' instead of '搞定' in formal contexts; 'unless a decision is required' is clearer than a literal translation.
