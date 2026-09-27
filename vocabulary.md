@@ -16357,3 +16357,4 @@
 - 2026-09-27 19:43 — Use 'taller than average' instead of 'higher than general' — 'high' is for measurements, 'tall' is for people.
 - 2026-09-27 22:22 — Use "Continue." as a natural, direct command in developer communication.
 - 2026-09-27 22:22 — '继续' can be translated as 'continue with' when referring to an ongoing task or goal.
+- 2026-09-27 22:23 — Use 'There's no...' to state absence; '人工标注' = 'manual annotation'.
