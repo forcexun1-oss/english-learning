@@ -16360,6 +16360,10 @@
 - 2026-09-27 22:23 — Use 'There's no...' to state absence; '人工标注' = 'manual annotation'.
 - 2026-09-27 22:23 — Use 'handle' instead of '搞定' in formal contexts; 'unless a decision is required' is clearer than a literal translation.
 - 2026-09-27 23:42 — In casual chat, '停了?' can be translated as 'Stopped?' — a simple, natural question.
+<<<<<<< Updated upstream
 - 2026-09-27 23:45 — Use 'How much longer' instead of '预计还要多久' to ask about remaining time naturally.
 - 2026-09-27 23:46 — Use 'assigned to' instead of '派给' directly; 'right?' is a natural tag question for confirmation.
 - 2026-09-28 00:10 — Use 'in depth' instead of '深入一些', and 'don't just skim it' for '不要随便看一下'.
+=======
+- 2026-09-27 23:44 — Use 'I've already set' (present perfect) to show the action is done and relevant now, and 'so I shouldn't have to' to express that checking is unnecessary.
+>>>>>>> Stashed changes
