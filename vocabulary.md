@@ -16360,3 +16360,4 @@
 - 2026-09-27 22:23 — Use 'There's no...' to state absence; '人工标注' = 'manual annotation'.
 - 2026-09-27 22:23 — Use 'handle' instead of '搞定' in formal contexts; 'unless a decision is required' is clearer than a literal translation.
 - 2026-09-27 23:42 — In casual chat, '停了?' can be translated as 'Stopped?' — a simple, natural question.
+- 2026-09-27 23:45 — Use 'How much longer' instead of '预计还要多久' to ask about remaining time naturally.
