@@ -16470,3 +16470,4 @@
 - 2026-09-28 23:48 — When giving a command, use the imperative form: 'Use the local...' instead of 'Model use...'.
 - 2026-09-28 23:49 — '按错了' means 'pressed the wrong key/button' — use 'pressed the wrong key' instead of a literal translation like 'pressed wrong'.
 - 2026-09-28 23:54 — Use 'prefetch' as a noun/verb without 'pre fetch' — it's a single word in technical contexts.
+- 2026-09-28 23:55 — Use 'whether ... as well' to ask if something applies to a second item, and 'were applied' (passive) to focus on the action done to the query.
