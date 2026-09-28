@@ -1,1 +1,1 @@
-Please finish now: run the provenance lane tests/checks, commit all and only provenance-owned files (including src/index.ts if it's part of the implementation), and return the commit hash, file list, and results. Don't leave any dirty lane changes unexplained.
+I see commit d1f3862, but two owned files are still dirty: scripts/observability-capability-evidence.ts and tests/observability/capability-evidence.test.ts. Finish or verify those changes, then commit them separately (or explain if they were intentionally generated). Return the final status and all commit hashes.

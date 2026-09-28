@@ -16399,3 +16399,4 @@
 - 2026-09-28 10:41 — Use 'uncommitted changes' instead of '没提交的' (literally 'not submitted'), and 'tidy up' is a natural way to say '整理好'.
 - 2026-09-28 10:47 — Add "the" before "exact blocker" for specificity.
 - 2026-09-28 10:57 — Use 'including' with a comma or parentheses for clarity, and 'don't leave any' is more natural than 'do not leave ... unexplained'.
+- 2026-09-28 10:57 — Use 'are still dirty' instead of 'remain dirty' for a more natural, conversational tone in developer communication.
