@@ -16390,3 +16390,4 @@
 =======
 - 2026-09-28 10:40 — Use "don't let things pile up" for 别堆积; it's a natural idiom. Also, "记得提交" is best as "remember to commit" (imperative).
 >>>>>>> Stashed changes
+- 2026-09-28 10:41 — Use 'commit' as a verb instead of 'submit' when referring to git commits, and 'file list' is more natural than 'file manifest' in this context.
