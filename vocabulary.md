@@ -16379,3 +16379,4 @@
 - 2026-09-28 09:29 — Use 'Did you...' for past simple questions instead of just adding a question mark to a statement.
 =======
 >>>>>>> Stashed changes
+- 2026-09-28 09:32 — Use 'and' before the last item in a list, and add 'of' after 'budget' for natural phrasing.
