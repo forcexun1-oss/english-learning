@@ -16467,3 +16467,4 @@
 - 2026-09-28 23:31 — Use 'Stop' instead of '停了' for a direct command, and 'assign' instead of '拆给' to sound more natural in English.
 - 2026-09-28 23:36 — Use 'what I really want to measure' instead of '我核心想度量的是' to sound more natural; 'core' is often implied in English.
 - 2026-09-28 23:47 — Use 'go directly without going through' instead of 'write directly not walk PI' — '走' here means 'go through/pass via' in English.
+- 2026-09-28 23:48 — When giving a command, use the imperative form: 'Use the local...' instead of 'Model use...'.
