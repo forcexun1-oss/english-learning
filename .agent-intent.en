@@ -1,7 +1,1 @@
-The formal run is still going, but even when it finishes, it won't produce anything usable, so I'm asking whether you want to stop it now. There are three reasons:
-
-1. It will error out at the end and won't generate a report. I called the project's real report-generation function with the existing data, and it threw an exception at the evidence session denominator mismatch. The remaining ~1,850 tasks (about 1.7 hours) will end the same way, so we won't get report.json.
-
-2. The scores don't measure the memory system. When loading history, no memories were extracted at all — the memories table is empty, and every memory_search call errors out. The model answers questions by directly searching raw conversation logs (session_search), and sometimes even uses bash to read the question bank files directly. So Oracle 0.61 / S 0.48 doesn't reflect Hermes' memory capability.
-
-3. It keeps costing money and consuming resources. Every task calls carher's judge, and it leaves an uncleaned home directory in the temp folder (currently 13 GB). Does this issue actually exist?
+Are there any issues with the overall implementation?
