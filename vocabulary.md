@@ -16375,3 +16375,4 @@
 - 2026-09-28 09:25 — Use 'spawn' for creating a subagent; '直接' can be translated as 'just' for a casual tone.
 - 2026-09-28 09:26 — Use 'using' instead of 'with' after 'compare against' for natural phrasing.
 - 2026-09-28 09:26 — Use 'using' instead of 'with' after 'compare against' for natural phrasing.
+- 2026-09-28 09:29 — Use 'Did you...' for past simple questions instead of just adding a question mark to a statement.
