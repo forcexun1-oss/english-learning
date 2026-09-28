@@ -16457,6 +16457,7 @@
 - 2026-09-28 23:19 — Use 'put...into' instead of '写到...里把' — '把' is a particle, not translated directly; 'issues' is more natural than 'problems' for technical context.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-28 23:19 — "详细一些" is a short imperative; adding "Please" makes it more polite and natural in English.
 =======
 - 2026-09-28 23:19 — Use "solutions" (plural) for multiple fixes, and "not just" is more natural than "不是只" in English.
@@ -16472,3 +16473,6 @@
 - 2026-09-28 23:54 — Use 'prefetch' as a noun/verb without 'pre fetch' — it's a single word in technical contexts.
 - 2026-09-28 23:55 — Use 'whether ... as well' to ask if something applies to a second item, and 'were applied' (passive) to focus on the action done to the query.
 - 2026-09-28 23:57 — Use 'either' for negative agreement ('don't need... either'), and 'there's nothing to find' is more natural than a literal translation of '查不到什么'.
+=======
+- 2026-09-28 23:19 — Use "solutions" (plural) for multiple fixes, and "not just" is more natural than "不是只" in English.
+>>>>>>> Stashed changes
