@@ -16395,3 +16395,4 @@
 =======
 - 2026-09-28 10:41 — Use 'commit' as a verb (e.g., 'commit the owned files') and 'submit' for final delivery; also, 'unrelated changes' is the correct phrase.
 >>>>>>> Stashed changes
+- 2026-09-28 10:41 — Use 'owned files' (not 'owned files' as a verb) and 'commit hash' instead of 'hash of commit' for natural technical phrasing.

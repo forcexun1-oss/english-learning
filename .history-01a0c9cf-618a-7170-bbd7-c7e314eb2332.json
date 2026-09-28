@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["完成并验证后请提交 mac-assistant lane 的 owned files。先用 git diff/status 确认不包含他人改动，运行相关 check/test；提交信息要清晰，返回 commit hash 和文件清单。不要提交 unrelated changes。"]
-=======
-["完成并验证后请提交 Provenance lane 的 owned files。先用 git diff/status 确认不包含他人改动，运行 npm run check/npm test；提交信息要清晰，返回 commit hash 和文件清单。不要提交 unrelated changes。"]
->>>>>>> Stashed changes
+["完成并验证后请提交 Observability lane 的 owned files。先用 git diff/status 确认不包含他人改动，运行要求的 npm run check/npm test；提交信息要清晰，返回 commit hash 和文件清单。不要提交 unrelated changes。"]
