@@ -16428,3 +16428,4 @@
 - 2026-09-28 12:39 — Use 'running short' for time; '扩大' here means expanding scope, so 'expand the scope' is more natural than just 'expand'.
 - 2026-09-28 12:45 — Use present continuous 'is running' for an ongoing action; '在跑' maps to 'running' here.
 - 2026-09-28 12:47 — Use 'so that' to express purpose clearly, and keep model names like 'GPT-6-Luna' unchanged as proper nouns.
+- 2026-09-28 16:48 — Use 'hung' (past participle of 'hang') to mean a program/process is stuck or unresponsive.
