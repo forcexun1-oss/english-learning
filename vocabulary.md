@@ -16469,3 +16469,4 @@
 - 2026-09-28 23:47 — Use 'go directly without going through' instead of 'write directly not walk PI' — '走' here means 'go through/pass via' in English.
 - 2026-09-28 23:48 — When giving a command, use the imperative form: 'Use the local...' instead of 'Model use...'.
 - 2026-09-28 23:49 — '按错了' means 'pressed the wrong key/button' — use 'pressed the wrong key' instead of a literal translation like 'pressed wrong'.
+- 2026-09-28 23:54 — Use 'prefetch' as a noun/verb without 'pre fetch' — it's a single word in technical contexts.

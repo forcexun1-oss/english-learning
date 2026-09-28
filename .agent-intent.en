@@ -1,1 +1,1 @@
-Use the local qwen3.8 7b4bit model to re-send the question to me, I pressed the wrong key.
+One more thing — reading memory shouldn't use prefetch. The effect is too poor. If we don't go through rewriting and just do a hard lookup, the results will likely be bad.
