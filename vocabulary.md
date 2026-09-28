@@ -16417,4 +16417,8 @@
 - 2026-09-28 11:25 — Use 'duplicate' (not '重复的') as an adjective before the noun, and 'piling up' to convey the sense of accumulation.
 >>>>>>> Stashed changes
 - 2026-09-28 11:26 — Use 'inventory' or 'list' instead of '清点' (count), and 'acceptance criteria' for '验收项'. Also, 'do not modify any files' is clearer than '不要改文件'.
+<<<<<<< Updated upstream
 - 2026-09-28 11:27 — Use 'no need to' instead of '不需要' to sound more natural in English instructions.
+=======
+- 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
+>>>>>>> Stashed changes
