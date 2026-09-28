@@ -16384,3 +16384,5 @@
 - 2026-09-28 09:41 — Use 'the' before singular nouns that refer to specific items already mentioned or implied, e.g., 'the entrypoint', 'the budget gate'.
 - 2026-09-28 09:59 — Use 'the' before specific file names or phrases like 'the current pilot implementation' when referring to a known item.
 - 2026-09-28 10:39 — “派发任务” = “dispatch tasks”; “上游项目” = “upstream projects”. Note “you're the one” adds emphasis for “当然是你”.
+- 2026-09-28 10:40 — Use 'and' instead of 'with' when listing items in a series (e.g., 'with focused tests/docs' → 'with focused tests and docs').
+- 2026-09-28 10:40 — Use 'the upstream C provenance lane' (add 'the') and 'Add or fix tests' instead of 'Add/fix tests' for smoother phrasing.
