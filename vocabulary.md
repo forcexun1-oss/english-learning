@@ -16429,3 +16429,4 @@
 - 2026-09-28 12:45 — Use present continuous 'is running' for an ongoing action; '在跑' maps to 'running' here.
 - 2026-09-28 12:47 — Use 'so that' to express purpose clearly, and keep model names like 'GPT-6-Luna' unchanged as proper nouns.
 - 2026-09-28 16:48 — Use 'hung' (past participle of 'hang') to mean a program/process is stuck or unresponsive.
+- 2026-09-28 17:06 — Use 'run until it's complete' instead of 'until complete' for a more natural verb phrase.
