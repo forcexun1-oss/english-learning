@@ -16480,3 +16480,4 @@
 - 2026-09-29 00:13 — No changes needed — this is already natural and idiomatic.
 - 2026-09-29 00:13 — Use 'hit the session limit' instead of 'hit your session limit' when referring to the agents' shared limit.
 - 2026-09-29 00:14 — Use 'Next up' instead of 'Now the' to sound more natural when transitioning to the next step.
+- 2026-09-29 04:06 — Use 'flagged issues' instead of 'problems found' — 'flag' is a common verb in technical reports meaning to mark something for attention.
