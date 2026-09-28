@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The agent hit the session limit and stopped early. Let me run typecheck now to catch structural errors before continuing.
+=======
+All 19 tests pass. Now let's write `scripts/prepare-annotation.ts` and `scripts/score-annotation.ts`.
+>>>>>>> Stashed changes
