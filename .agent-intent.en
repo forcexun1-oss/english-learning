@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 After completing and verifying, please commit the owned files for the mac-assistant lane. First use git diff/status to confirm no changes from others are included, run the relevant checks/tests, make the commit message clear, and return the commit hash and file list. Do not commit unrelated changes.
+=======
+After completing and verifying, please commit the owned files for the Provenance lane. First, use git diff/status to confirm there are no changes from others, run npm run check/npm test; the commit message should be clear, and return the commit hash and file list. Do not commit unrelated changes.
+>>>>>>> Stashed changes
