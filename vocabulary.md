@@ -16436,3 +16436,4 @@
 >>>>>>> Stashed changes
 - 2026-09-28 21:52 — Use 'What are you doing now?' instead of '现在是在做什么' — the present continuous tense is natural for asking about an ongoing action.
 - 2026-09-28 22:22 — Use 'What specific feature' instead of 'What function' when asking about a feature in a software context.
+- 2026-09-28 22:24 — Use 'What does this run do?' instead of '这个跑了有啥用呢' for a more natural question structure.
