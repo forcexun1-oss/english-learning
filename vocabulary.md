@@ -16449,3 +16449,4 @@
 =======
 - 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
 >>>>>>> Stashed changes
+- 2026-09-28 23:14 — Use 'I mean' to clarify your point, and 'overall' instead of '整个' for a natural adverb placement.
