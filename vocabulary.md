@@ -16479,3 +16479,4 @@
 - 2026-09-29 00:12 — Use 'hit' instead of 'hit' — actually 'hit' is correct here. The main fix is adding context about what happened before the typecheck instruction.
 - 2026-09-29 00:13 — No changes needed — this is already natural and idiomatic.
 - 2026-09-29 00:13 — Use 'hit the session limit' instead of 'hit your session limit' when referring to the agents' shared limit.
+- 2026-09-29 00:14 — Use 'Next up' instead of 'Now the' to sound more natural when transitioning to the next step.
