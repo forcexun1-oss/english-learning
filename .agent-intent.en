@@ -1,1 +1,1 @@
-Remove the pre-fetch. Some of my memories have been rewritten, and I added a query — I'm not sure whether those rewrites were applied to the new query as well.
+We don't need to query external memory every time either — sometimes there's just nothing to find.
