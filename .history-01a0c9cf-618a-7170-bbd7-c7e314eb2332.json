@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["现在是在做什么", "现在跑的具体是什么功能", "这个跑了有啥用呢,评估什么呢"]
+=======
+["请清点 docs 中完整 benchmark plan 的所有硬性验收项，形成不重复的 checklist，特别是 full runner/report/denominators/evidence/invalid-read/structural repeat stability/budget；不要改文件。", "给出完整计划 checklist 的进度和遗漏风险；不需要等待 Hume 完成。"]
+>>>>>>> Stashed changes
