@@ -16372,3 +16372,4 @@
 - 2026-09-28 09:03 — Use 'be up to the task' for '胜任' and 'swap out' for '临时换' in a casual technical context.
 - 2026-09-28 09:25 — Use past tense 'was' for a completed action, and 'assigned' is more natural than '派出去' in this context.
 - 2026-09-28 09:25 — In English, '用' before a tool/model is often translated as 'Use' (imperative) rather than 'with'.
+- 2026-09-28 09:25 — Use 'spawn' for creating a subagent; '直接' can be translated as 'just' for a casual tone.
