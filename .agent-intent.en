@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Background command "Independently run T-UP typecheck and tests" completed (exit code 0)
-=======
-All 19 tests pass. Now let's write `scripts/prepare-annotation.ts` and `scripts/score-annotation.ts`.
->>>>>>> Stashed changes
-=======
-All 19 tests pass. Now let's write `scripts/prepare-annotation.ts` and `scripts/score-annotation.ts`.
->>>>>>> Stashed changes
+The agent "T-SC scorer rewrite" failed: it terminated early due to an API error — I hit my session limit, which resets at 8:50am (Asia/Shanghai). The error was a rate limit (HTTP 429, request id req_011CfWTND6cds9mN4c6E7mcL, model sent to the API: claude-sonnet-5).
+
+Note: a task-notification fires each time this agent stops with no live background children of its own. You can send it another message to resume it, so the same task-id may notify more than once.
+
+Result: reverted cleanly (25/25). Now, for fix 2, the mutation is to drop the invariant and flip `index_inject`'s `context_bearing` to `true`.
