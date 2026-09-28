@@ -16410,3 +16410,4 @@
 - 2026-09-28 11:23 — Use "fill the gap" instead of "补缺口" — 'fill' is the natural verb for completing a missing piece.
 >>>>>>> Stashed changes
 - 2026-09-28 11:23 — Use 'fill' instead of '补' directly; 'integration gaps' is a natural phrase for missing pieces in code integration.
+- 2026-09-28 11:24 — Use 'the' before 'existing' when referring to a specific known item (e.g., 'the existing budget gate').
