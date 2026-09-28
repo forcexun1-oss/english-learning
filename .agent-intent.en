@@ -1,1 +1,1 @@
-Before executing, you can also commit any uncommitted changes first to tidy up the environment.
+Status checkpoint: please finish the bounded lane now. If implementation is complete, run the required tests, commit only your lane's files, and return hash/files/tests. If blocked, stop and report the exact blocker rather than continuing exploration.
