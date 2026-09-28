@@ -16434,3 +16434,4 @@
 =======
 - 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
 >>>>>>> Stashed changes
+- 2026-09-28 21:52 — Use 'What are you doing now?' instead of '现在是在做什么' — the present continuous tense is natural for asking about an ongoing action.
