@@ -16380,3 +16380,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-09-28 09:32 — Use 'and' before the last item in a list, and add 'of' after 'budget' for natural phrasing.
+- 2026-09-28 09:34 — Use 'the job evidence dir' instead of 'the job evidence directory' for a more natural, concise phrasing.
