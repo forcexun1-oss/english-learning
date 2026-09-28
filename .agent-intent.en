@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 Agent "T-SC scorer rewrite" failed: Agent terminated early due to an API error: You've hit your session limit · resets 3:50am (Asia/Shanghai) (error type rate_limit, HTTP 429, request id req_011CfW8jMKM6CprWguFMSp7b, model sent to the API: claude-sonnet-5)
 
 Note: A task-notification fires each time this agent stops with no live background children of its own. The user can send it another message and resume it, so the same task-id may notify more than once.
 
 Result: This is excellent — `RepeatScore`, `ScoreOutcome`, `PairState`, `NA_STAGE`, `NA_CONTROL` are already defined exactly as needed. Next up: the event stream reader and reference fixture.
+=======
+All 19 tests pass. Now let's write `scripts/prepare-annotation.ts` and `scripts/score-annotation.ts`.
+>>>>>>> Stashed changes
