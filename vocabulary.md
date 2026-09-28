@@ -16418,6 +16418,7 @@
 >>>>>>> Stashed changes
 - 2026-09-28 11:26 — Use 'inventory' or 'list' instead of '清点' (count), and 'acceptance criteria' for '验收项'. Also, 'do not modify any files' is clearer than '不要改文件'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-28 11:27 — Use 'no need to' instead of '不需要' to sound more natural in English instructions.
 =======
 - 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
@@ -16430,3 +16431,6 @@
 - 2026-09-28 12:47 — Use 'so that' to express purpose clearly, and keep model names like 'GPT-6-Luna' unchanged as proper nouns.
 - 2026-09-28 16:48 — Use 'hung' (past participle of 'hang') to mean a program/process is stuck or unresponsive.
 - 2026-09-28 17:06 — Use 'run until it's complete' instead of 'until complete' for a more natural verb phrase.
+=======
+- 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
+>>>>>>> Stashed changes
