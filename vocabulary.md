@@ -16420,6 +16420,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-28 11:27 — Use 'no need to' instead of '不需要' to sound more natural in English instructions.
 =======
 - 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
@@ -16445,3 +16446,6 @@
 - 2026-09-28 23:04 — Use 'Pause' as a verb instead of '暂停一下' directly translated; 'for a moment' adds naturalness.
 - 2026-09-28 23:05 — Use 'doesn't reflect' (not 'isn't reflecting') for a general statement about what a score represents; present simple works best for facts.
 - 2026-09-28 23:12 — Use 'Are there any...' for yes/no questions instead of starting with a verb like '有' directly translated.
+=======
+- 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
+>>>>>>> Stashed changes
