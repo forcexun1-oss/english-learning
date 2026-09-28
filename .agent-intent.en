@@ -1,1 +1,1 @@
-Give a progress update: which files have been modified so far, whether there's a reviewable commit, and an estimated time to completion; keep going without stopping.
+Report the current status immediately; if the implementation is not yet complete, commit the finished runner/report lane first (even if it needs later fixes), and list the remaining gaps. Do not keep running for a long time without feedback.
