@@ -1,1 +1,1 @@
-Now let's update the `ThreeViews` type to use `RatioAggregate` instead of `QaBlock` for the non-paired views, per the cleaner design.
+Both agents hit the session limit and stopped early. Can you resume them?
