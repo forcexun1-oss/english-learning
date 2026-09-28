@@ -16455,4 +16455,8 @@
 - 2026-09-28 11:27 — Use 'no need to wait for' instead of '不需要等待' to sound more natural in English instructions.
 >>>>>>> Stashed changes
 - 2026-09-28 23:19 — Use 'put...into' instead of '写到...里把' — '把' is a particle, not translated directly; 'issues' is more natural than 'problems' for technical context.
+<<<<<<< Updated upstream
 - 2026-09-28 23:19 — "详细一些" is a short imperative; adding "Please" makes it more polite and natural in English.
+=======
+- 2026-09-28 23:19 — Use "solutions" (plural) for multiple fixes, and "not just" is more natural than "不是只" in English.
+>>>>>>> Stashed changes
