@@ -1,1 +1,1 @@
-In /Users/youxun/project/agent-eval, inspect docs/superpowers/plans/2026-09-19-benchmark-impl.md sections Task 8 and Task 9, plus the current src/scripts/results. Determine exactly what remains to implement/run for the full benchmark and formal report, given the verified upstream commits and the 36-job full pilot. Do not edit files. Check whether a full-run entrypoint exists, what gates are missing, and give concrete next commands/files. Keep the worktree clean.
+Commit each lane separately (recommended).

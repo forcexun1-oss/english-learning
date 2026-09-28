@@ -16403,3 +16403,4 @@
 - 2026-09-28 10:59 — Use 'report' instead of 'return' for failures, and 'don't' for a more natural contraction.
 - 2026-09-28 11:03 — Use present perfect ('have been running') to describe an ongoing action that started in the past and continues to now.
 - 2026-09-28 11:20 — Use 'plus the current ...' instead of 'and current ...' for parallel structure; 'given the ...' reads more naturally than 'after the ...' here.
+- 2026-09-28 11:22 — Use "each lane" instead of "每条 lane" — 'each' works with singular countable nouns.
