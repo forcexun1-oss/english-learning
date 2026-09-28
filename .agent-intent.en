@@ -1,1 +1,1 @@
-In /Users/youxun/project/agent-eval, review only the current pilot implementation (src/runner/pilot-executor.ts, src/runner/pilot.ts, scripts/run-pilot.ts, src/targets/pi_hermes.ts). Focus on the isolated-home model configuration failure and the per-session ingest startup cost. Do not edit files. Report concrete root causes, the safest minimal patch, and the tests needed. Preserve the dirty worktree.
+Your scope covers the entire plan, so of course you're the one dispatching the corresponding tasks to upstream projects to complete them.
