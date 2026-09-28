@@ -16402,3 +16402,4 @@
 - 2026-09-28 10:57 — Use 'are still dirty' instead of 'remain dirty' for a more natural, conversational tone in developer communication.
 - 2026-09-28 10:59 — Use 'report' instead of 'return' for failures, and 'don't' for a more natural contraction.
 - 2026-09-28 11:03 — Use present perfect ('have been running') to describe an ongoing action that started in the past and continues to now.
+- 2026-09-28 11:20 — Use 'plus the current ...' instead of 'and current ...' for parallel structure; 'given the ...' reads more naturally than 'after the ...' here.
