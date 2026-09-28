@@ -1,1 +1,1 @@
-Report the current status immediately; if the implementation is not yet complete, commit the finished runner/report lane first (even if it needs later fixes), and list the remaining gaps. Do not keep running for a long time without feedback.
+Stop the current long-running operation with no feedback, immediately summarize what has been completed, and commit the current code; do not run the full benchmark. Return the commit hash, file list, test results, and remaining gaps.
