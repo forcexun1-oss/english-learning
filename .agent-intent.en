@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Give the verifier progress and findings; no need to wait for Hume to finish.
-=======
-Provide the progress and omission risks for the complete plan checklist; no need to wait for Hume to finish.
->>>>>>> Stashed changes
+Give a progress update: which files have been modified so far, whether there's a reviewable commit, and an estimated time to completion; keep going without stopping.
