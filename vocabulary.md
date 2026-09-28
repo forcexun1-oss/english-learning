@@ -16370,3 +16370,4 @@
 - 2026-09-28 09:01 — Use 'What are you waiting for?' for a direct question, and 'keep stopping' (not 'always stop') to emphasize repeated action.
 - 2026-09-28 09:02 — Use "can't it" for a rhetorical question instead of "不是能" literally translated.
 - 2026-09-28 09:03 — Use 'be up to the task' for '胜任' and 'swap out' for '临时换' in a casual technical context.
+- 2026-09-28 09:25 — Use past tense 'was' for a completed action, and 'assigned' is more natural than '派出去' in this context.
