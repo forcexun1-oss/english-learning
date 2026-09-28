@@ -16368,3 +16368,4 @@
 - 2026-09-27 23:44 — Use 'I've already set' (present perfect) to show the action is done and relevant now, and 'so I shouldn't have to' to express that checking is unnecessary.
 >>>>>>> Stashed changes
 - 2026-09-28 09:01 — Use 'What are you waiting for?' for a direct question, and 'keep stopping' (not 'always stop') to emphasize repeated action.
+- 2026-09-28 09:02 — Use "can't it" for a rhetorical question instead of "不是能" literally translated.
