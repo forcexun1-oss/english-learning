@@ -1,1 +1,1 @@
-I see commit d1f3862, but two owned files are still dirty: scripts/observability-capability-evidence.ts and tests/observability/capability-evidence.test.ts. Finish or verify those changes, then commit them separately (or explain if they were intentionally generated). Return the final status and all commit hashes.
+Final checkpoint: stop expanding scope. Run npm run check and npm test now, then commit the current provenance implementation if tests pass. If tests fail, report the exact failure and only commit if appropriate per the evidence; don't leave work unreported.

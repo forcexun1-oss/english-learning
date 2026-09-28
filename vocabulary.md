@@ -16400,3 +16400,4 @@
 - 2026-09-28 10:47 — Add "the" before "exact blocker" for specificity.
 - 2026-09-28 10:57 — Use 'including' with a comma or parentheses for clarity, and 'don't leave any' is more natural than 'do not leave ... unexplained'.
 - 2026-09-28 10:57 — Use 'are still dirty' instead of 'remain dirty' for a more natural, conversational tone in developer communication.
+- 2026-09-28 10:59 — Use 'report' instead of 'return' for failures, and 'don't' for a more natural contraction.
