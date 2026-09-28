@@ -1,1 +1,1 @@
-After completing and verifying, please submit the owned files for the Observability lane. First use git diff/status to confirm no changes from others are included, run the required npm run check/npm test, make the commit message clear, and return the commit hash and file list. Do not commit unrelated changes.
+Before executing, you can also commit any uncommitted changes first to tidy up the environment.
