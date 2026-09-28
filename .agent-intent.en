@@ -1,1 +1,1 @@
-Stop the current long-running operation with no feedback, immediately summarize what has been completed, and commit the current code; do not run the full benchmark. Return the commit hash, file list, test results, and remaining gaps.
+If time is running short, we can expand the scope.

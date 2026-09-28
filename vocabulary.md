@@ -16425,3 +16425,4 @@
 - 2026-09-28 11:29 — Use 'progress update' instead of 'progress point' for a natural English phrase.
 - 2026-09-28 11:31 — Use 'commit' as a verb for Git actions, and 'lane' is fine here as a technical term for a workflow path.
 - 2026-09-28 11:33 — Use 'with no feedback' instead of 'without feedback' to sound more natural in this context; also, 'commit hash' is the standard term for the commit identifier.
+- 2026-09-28 12:39 — Use 'running short' for time; '扩大' here means expanding scope, so 'expand the scope' is more natural than just 'expand'.
