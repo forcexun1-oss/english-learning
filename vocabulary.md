@@ -16411,4 +16411,8 @@
 >>>>>>> Stashed changes
 - 2026-09-28 11:23 — Use 'fill' instead of '补' directly; 'integration gaps' is a natural phrase for missing pieces in code integration.
 - 2026-09-28 11:24 — Use 'the' before 'existing' when referring to a specific known item (e.g., 'the existing budget gate').
+<<<<<<< Updated upstream
 - 2026-09-28 11:25 — Use 'no cutting corners' to mean 'no shortcuts or compromises' — it's a natural idiom for emphasizing full implementation.
+=======
+- 2026-09-28 11:25 — Use 'duplicate' (not '重复的') as an adjective before the noun, and 'piling up' to convey the sense of accumulation.
+>>>>>>> Stashed changes
