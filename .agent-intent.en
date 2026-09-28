@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-We don't need to query external memory every time either — sometimes there's just nothing to find.
-=======
-Include solutions, not just problems.
->>>>>>> Stashed changes
+The agent hit the session limit and stopped early. Let me run typecheck now to catch structural errors before continuing.
