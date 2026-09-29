@@ -16517,3 +16517,4 @@
 - 2026-09-29 11:19 — Use 'How can' to express surprise or doubt about a situation, instead of a direct question structure.
 - 2026-09-29 11:21 — Use 'Check if' instead of '看' to ask for verification in English.
 - 2026-09-29 11:24 — Use 'which' for choosing from a known set, and 'did this use' for past action.
+- 2026-09-29 12:25 — Use 'take effect' instead of '生效' in English; it's the natural collocation for whether a feature is active.
