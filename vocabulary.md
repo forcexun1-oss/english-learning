@@ -16516,3 +16516,4 @@
 - 2026-09-29 11:17 — Use 'Are you looking at...' for present continuous questions about what someone is currently doing.
 - 2026-09-29 11:19 — Use 'How can' to express surprise or doubt about a situation, instead of a direct question structure.
 - 2026-09-29 11:21 — Use 'Check if' instead of '看' to ask for verification in English.
+- 2026-09-29 11:24 — Use 'which' for choosing from a known set, and 'did this use' for past action.
