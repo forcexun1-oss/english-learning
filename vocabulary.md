@@ -16507,3 +16507,4 @@
 >>>>>>> Stashed changes
 - 2026-09-29 09:23 — Added 'let's' to make the transition sound more natural and conversational.
 - 2026-09-29 09:23 — Use 'hit the session limit' instead of 'hit your session limit' when referring to agents, since 'your' implies the user's own limit.
+- 2026-09-29 10:05 — Use "running out" instead of "not enough" for a more natural, idiomatic phrase. Also, 'the small one' is clearer than 'small already'.
