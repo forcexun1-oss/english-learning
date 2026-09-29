@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is it working normally now?
+=======
+The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
+>>>>>>> Stashed changes
