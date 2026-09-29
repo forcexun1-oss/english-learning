@@ -1,1 +1,1 @@
-["看看为什么内存会不够呢,最后一个请求,\"[METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory).\", 模型已经是小的了"]
+["看看为什么内存会不够呢,最后一个请求,\"[METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory).\", 模型已经是小的了", "我后面有继续其实有是可以跑的"]

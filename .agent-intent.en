@@ -1,1 +1,1 @@
-Let's look into why memory is running out. Here's the last request: "[METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory)." The model is already the small one.
+Actually, I continued afterward, and it turned out it could run.
