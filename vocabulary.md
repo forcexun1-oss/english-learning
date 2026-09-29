@@ -16510,3 +16510,4 @@
 - 2026-09-29 10:05 — Use "running out" instead of "not enough" for a more natural, idiomatic phrase. Also, 'the small one' is clearer than 'small already'.
 - 2026-09-29 10:21 — Use 'turned out' to express '其实' (it turned out to be the case), and 'could run' instead of 'can run' for past tense consistency.
 - 2026-09-29 10:26 — Use 'switch it back' instead of '换回来' to mean reverting a change; 'it can run' is more natural than '有是可以跑的'.
+- 2026-09-29 10:47 — Use 'can't connect' instead of '连不上了' directly; 'isn't set' is more natural than '没有设置' in this context.
