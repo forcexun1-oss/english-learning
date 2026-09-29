@@ -1,1 +1,1 @@
-The carher-related model can't connect. Is it because the key isn't set? How do I set it?
+Can you check if it's already been set up? Look in the .zshrc file.
