@@ -1,1 +1,1 @@
-["看看为什么内存会不够呢,最后一个请求,\"[METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory).\", 模型已经是小的了", "我后面有继续其实有是可以跑的", "应该不是,你确认一下,如果搞错了,你换回来", "改掉", "你看的是mac=assistant的启动脚本吗"]
+["看看为什么内存会不够呢,最后一个请求,\"[METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory).\", 模型已经是小的了", "我后面有继续其实有是可以跑的", "应该不是,你确认一下,如果搞错了,你换回来", "改掉", "你看的是mac=assistant的启动脚本吗", "--draft-model和model怎么会是同一个"]
