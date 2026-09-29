@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I'll add `temporal_question_types: []` right after each `run_mode: "full",` that ends a `BuildReportInput` literal (lines 167, 211, 251).
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
+The T-SC scorer rewrite agent has finished. Here's the summary: the diff touches the scoring fixtures and logic — the manifest now uses `context_bearing: false` instead of `memory.index_inject`, the in-context scoring doc comment was updated, and `score-repeat.ts` now returns `artifact_missing_count`, adds an invariant that gates `in_context` to units that were validly expanded when the target has an `expanded` stage, and rewrites `direct_read_ratio` so only earlier retrieved-stage occurrences exclude units from the numerator. All checks pass: `tsc --noEmit` is clean, 295/295 tests pass, and the mutation tests confirm the new logic isn't dead code. No stop conditions were hit and the shared contract merged cleanly.
