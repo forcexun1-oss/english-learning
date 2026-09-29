@@ -16513,3 +16513,4 @@
 - 2026-09-29 10:47 — Use 'can't connect' instead of '连不上了' directly; 'isn't set' is more natural than '没有设置' in this context.
 - 2026-09-29 10:52 — Use 'set up' for configuration, and 'Look in' instead of '在...里看看' to sound more natural.
 - 2026-09-29 11:17 — "改掉" can be translated as "Change it" — a direct, natural command. If you want to be more specific, you could say "Change it back" or "Revert it" depending on context.
+- 2026-09-29 11:17 — Use 'Are you looking at...' for present continuous questions about what someone is currently doing.
