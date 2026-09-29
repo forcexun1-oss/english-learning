@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The T-RP report rewrite agent has finished. Here's the summary: it restructured the reporting denominators to be per-repeat, added conservation invariants and new warnings, and all 33 tests pass. The work is committed on the worktree branch. You can review the diff or merge it when ready.
+=======
+The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
+>>>>>>> Stashed changes
 =======
 The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
 >>>>>>> Stashed changes
