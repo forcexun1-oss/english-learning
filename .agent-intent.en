@@ -1,21 +1,20 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I've kicked off `brew reinstall node` to fix a broken dylib link (`libllhttp.9.3.dylib` was removed by a concurrent Homebrew update on this shared machine, breaking all new `node` process launches). I have background watchers monitoring completion. While that finishes downloading/installing, here's where T-GT stands:
+The task is done. New commit `1a987be` on `worktree-agent-aa78cb86364c97d46`, on top of `1c08e19`. `git status --short` is clean and `pnpm check` passes: **393/393**.
 
-**Done:** all GraphitiTarget source files (target.ts, isolation.ts, cypher.ts, namespace.ts, baseline.ts, pi-config/args/session/process.ts, artifact-reader.ts, probe.ts), the fake pi/Neo4j test infra, full test suite (namespace, pi-config, pi-args, pi-session, baseline, isolation, target, probe, real-smoke), infra/graphiti/docker-compose.yml, contracts/graphiti/mcp-config.yaml, scripts/graphiti-infra.sh, and the README — all verified via `pnpm typecheck` and `pnpm check` (375/375 TS tests + all shell tests green) before node broke. The grep isolation gate also passes.
+**Files changed**: `src/targets/hermes/sqlite-store.test.ts`, `src/targets/hermes/freeze.test.ts` (both already in the allowed `src/targets/hermes/**` set).
 
-**Remaining:** re-verify `pnpm check` once node is fixed, run the mutation-evidence edit/test/revert cycles, then commit. I'll continue as soon as the environment notification lands — no need to prompt me further in the meantime.
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
-=======
-The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
->>>>>>> Stashed changes
+**New tests added:**
+- `store_hash: changes when a row keeps its stable id but its content changes (a Markdown 'replace')` — same id comment, content line, and SQLite `content`/`content_hash` all rewritten; asserts `unit_id` really stayed `"factfact1"` (not a coincidental pass from a changed id) before checking the hash differs.
+- `store_hash: changes when source_session_ids changes but the stable id and content stay the same`
+- `store_hash: changes when revision changes but the stable id and content stay the same`
+- `freeze -> restore: store_hash(dest) === snapshot.store_hash for the NoMemory case (ingest home never written)` — complements the existing non-empty-store version of the same property.
+
+**Mutation evidence** (`canonicalUnitsHash` in `src/targets/hermes/sqlite-store.ts`, one field at a time, confirmed via `git diff` empty before/after each):
+| Field replaced with constant | Test that failed |
+|---|---|
+| `content_sha256: "x"` | `store_hash: changes when a row keeps its stable id but its content changes` |
+| `source_session_ids: []` | `store_hash: changes when source_session_ids changes but the stable id and content stay the same` |
+| `revision: 0` | `store_hash: changes when revision changes but the stable id and content stay the same` |
+
+Each mutation broke exactly the test naming that field and no others; each was reverted and the full 393-test suite re-confirmed green after all three round-trips.
+
+Protected files re-verified byte-identical to HEAD before committing: `src/targets/sut.ts`, `src/types/records.ts`, `src/harness/run-case-group.ts`, `fixtures/scoring/hermes/manifest.json`, `contracts/answer-prompt.txt`.
