@@ -1,11 +1,15 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I've kicked off `brew reinstall node` to fix a broken dylib link (`libllhttp.9.3.dylib` was removed by a concurrent Homebrew update on this shared machine, breaking all new `node` process launches). I have background watchers monitoring completion. While that finishes downloading/installing, here's where T-GT stands:
 
 **Done:** all GraphitiTarget source files (target.ts, isolation.ts, cypher.ts, namespace.ts, baseline.ts, pi-config/args/session/process.ts, artifact-reader.ts, probe.ts), the fake pi/Neo4j test infra, full test suite (namespace, pi-config, pi-args, pi-session, baseline, isolation, target, probe, real-smoke), infra/graphiti/docker-compose.yml, contracts/graphiti/mcp-config.yaml, scripts/graphiti-infra.sh, and the README — all verified via `pnpm typecheck` and `pnpm check` (375/375 TS tests + all shell tests green) before node broke. The grep isolation gate also passes.
 
 **Remaining:** re-verify `pnpm check` once node is fixed, run the mutation-evidence edit/test/revert cycles, then commit. I'll continue as soon as the environment notification lands — no need to prompt me further in the meantime.
+=======
+The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
+>>>>>>> Stashed changes
 =======
 The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
 >>>>>>> Stashed changes
