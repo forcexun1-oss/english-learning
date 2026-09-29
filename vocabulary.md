@@ -16599,3 +16599,4 @@
 =======
 - 2026-09-29 04:18 — Use 'hit' instead of 'hit' is fine, but 'stopped early' is more natural than 'terminated early' in casual dev communication.
 >>>>>>> Stashed changes
+- 2026-09-30 00:05 — "后面的" can be translated as "subsequent" or "following" for a more formal tone; "都要这样" means "should all be done this way".
