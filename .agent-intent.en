@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 The task is done. New commit `1a987be` on `worktree-agent-aa78cb86364c97d46`, on top of `1c08e19`. `git status --short` is clean and `pnpm check` passes: **393/393**.
 
 **Files changed**: `src/targets/hermes/sqlite-store.test.ts`, `src/targets/hermes/freeze.test.ts` (both already in the allowed `src/targets/hermes/**` set).
@@ -18,3 +19,6 @@ The task is done. New commit `1a987be` on `worktree-agent-aa78cb86364c97d46`, on
 Each mutation broke exactly the test naming that field and no others; each was reverted and the full 393-test suite re-confirmed green after all three round-trips.
 
 Protected files re-verified byte-identical to HEAD before committing: `src/targets/sut.ts`, `src/types/records.ts`, `src/harness/run-case-group.ts`, `fixtures/scoring/hermes/manifest.json`, `contracts/answer-prompt.txt`.
+=======
+The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
+>>>>>>> Stashed changes
