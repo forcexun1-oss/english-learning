@@ -16506,3 +16506,4 @@
 - 2026-09-29 04:18 — Use 'hit' instead of 'hit' is fine, but 'stopped early' is more natural than 'terminated early' in casual dev communication.
 >>>>>>> Stashed changes
 - 2026-09-29 09:23 — Added 'let's' to make the transition sound more natural and conversational.
+- 2026-09-29 09:23 — Use 'hit the session limit' instead of 'hit your session limit' when referring to agents, since 'your' implies the user's own limit.
