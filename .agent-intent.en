@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command "50-minute watchdog on codex T-GT2 fix" finished successfully (exit code 0).
+=======
+The agent hit the session limit and stopped early. Here's where it left off: implement `memory.write` / `memory.replace` in sqlite-memory-store.ts.
+>>>>>>> Stashed changes
