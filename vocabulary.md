@@ -16725,3 +16725,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 15:08 — Use 'ignore' instead of 'don't care about' for a direct command; 'kill' is fine here as a technical metaphor.
