@@ -16681,6 +16681,7 @@
 - 2026-09-30 11:05 — "那" can be omitted in English; "把这2个改了" is naturally expressed as "change these two" or "go ahead and change these two" for a casual, direct tone.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-30 11:06 — '切换' can be translated as 'switch' or 'toggle'. Here, '可以切换' is naturally expressed as 'Can we switch it?' in a question form.
 - 2026-09-30 11:06 — Use 'status' instead of 'situation' when asking about the state of a task or process.
 =======
@@ -16692,3 +16693,6 @@
 >>>>>>> Stashed changes
 - 2026-09-30 11:08 — Use 'so give it a try' instead of '试试看' to sound more natural in English.
 - 2026-09-30 11:29 — Use "hitting" or "reaching" instead of "reaching" for natural phrasing; "don't" is more natural than "do not" in developer communication.
+=======
+- 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
+>>>>>>> Stashed changes

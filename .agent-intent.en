@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command "Create worktree and dispatch codex T-GT5" was killed after hitting its background time limit. If the work in progress still needs it, restart it with `run_in_background` and a longer `timeout`. If it already had the maximum `timeout` allowed, don't restart it. Either way, note that it was stopped.
+=======
+Add a toggle for it.
+>>>>>>> Stashed changes
