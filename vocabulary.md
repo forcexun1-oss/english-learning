@@ -16634,3 +16634,4 @@
 =======
 - 2026-09-30 00:55 — No changes needed — this is already natural and idiomatic.
 >>>>>>> Stashed changes
+- 2026-09-30 08:32 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
