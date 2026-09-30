@@ -16768,3 +16768,4 @@
 - 2026-09-30 17:16 — Use 'still' to ask about an ongoing action, and the present continuous tense 'are you downloading' for an action in progress.
 - 2026-09-30 17:17 — Use "Are you..." for present continuous questions instead of just stating the verb.
 - 2026-09-30 19:05 — Use 'Did it finish?' for asking about completion, and 'Why did...' for past events.
+- 2026-09-30 19:39 — Use 'Did it finish?' instead of '跑完了吗' — in English, questions about completed actions use the past tense with 'did'.
