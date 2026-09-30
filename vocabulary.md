@@ -16773,3 +16773,4 @@
 - 2026-09-30 20:17 — No correction needed — this is a system notification, not a user message.
 - 2026-09-30 20:49 — Use 'finished successfully' or 'completed' instead of '跑完了' which is informal Chinese.
 - 2026-09-30 21:15 — Use 'finished' or 'completed' instead of 'ran out' for background tasks.
+- 2026-09-30 21:40 — No changes needed — this is already natural and idiomatic.
