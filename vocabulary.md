@@ -16679,3 +16679,4 @@
 - 2026-09-30 10:32 — Use "finished successfully" or "completed successfully" instead of "completed" alone to sound more natural in this context.
 >>>>>>> Stashed changes
 - 2026-09-30 11:05 — "那" can be omitted in English; "把这2个改了" is naturally expressed as "change these two" or "go ahead and change these two" for a casual, direct tone.
+- 2026-09-30 11:06 — '切换' can be translated as 'switch' or 'toggle'. Here, '可以切换' is naturally expressed as 'Can we switch it?' in a question form.
