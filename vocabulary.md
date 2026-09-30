@@ -16720,3 +16720,4 @@
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
 - 2026-09-30 12:20 — Use 'the two decisions' instead of 'this 2 decision' — 'this' is singular, and '2' should be 'two' when written out in formal text.
+- 2026-09-30 12:20 — "各个档位的" means "all the tiers/versions" — use "all the tiers" or "all the versions" instead of a literal translation like "each gear's".
