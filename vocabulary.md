@@ -16700,3 +16700,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 11:30 — Use 'mid-mutation' as a compound noun instead of 'in the middle of the mutation evidence step' for a more concise, natural phrasing.
