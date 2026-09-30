@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ["<task-notification>\n<task-id>b6ncowkch</task-id>\n<tool-use-id>toolu_01VFsfcf9tvbVNEs5X2cbUpD</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/55e99fbd-295e-4dd9-914b-6b27999095d6/tasks/b6ncowkch.output</output-file>\n<status>completed</status>\n<summary>Background command \"Run Graphiti probe 5 with q6\" completed (exit code 0)</summary>\n</task-notification>"]
+=======
+["<task-notification>\n<task-id>b2d8hjbsp</task-id>\n<tool-use-id>toolu_01PxaX6z3sWSGLZYCHu23hN6</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/7c68d655-2456-415a-b28a-97318ca12281/tasks/b2d8hjbsp.output</output-file>\n<status>completed</status>\n<summary>Background command \"Bring up benchmark Graphiti infra\" completed (exit code 0)</summary>\n</task-notification>"]
+>>>>>>> Stashed changes
