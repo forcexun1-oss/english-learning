@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Run Graphiti probe 5 with q6" has completed (exit code 0).
-=======
-Background command "Bring up benchmark Graphiti infra" completed (exit code 0).
->>>>>>> Stashed changes
+Check why the model in carher doesn't show the thinking mode. Is it because the thinking depth is incompatible, causing thinking to be disabled, or is it a protocol incompatibility that prevents it from being displayed?
