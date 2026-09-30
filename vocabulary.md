@@ -16660,6 +16660,10 @@
 =======
 - 2026-09-30 00:55 — No changes needed — this is already natural and idiomatic.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-09-30 10:32 — Use present perfect ('has completed') to describe a recently finished action with current relevance.
 - 2026-09-30 10:34 — Use "it's still running" instead of "正在跑" literally translated as "currently running".
 - 2026-09-30 10:43 — Use "Check" instead of "查一下" for a direct, natural instruction.
+=======
+- 2026-09-30 10:32 — Use "finished successfully" or "completed successfully" instead of "completed" alone to sound more natural in this context.
+>>>>>>> Stashed changes
