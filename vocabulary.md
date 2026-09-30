@@ -16775,3 +16775,4 @@
 - 2026-09-30 21:15 — Use 'finished' or 'completed' instead of 'ran out' for background tasks.
 - 2026-09-30 21:40 — No changes needed — this is already natural and idiomatic.
 - 2026-09-30 22:06 — Use present perfect ('has completed') to report a just-finished action, or simply 'completed' as a status label.
+- 2026-09-30 22:42 — Use 'finished' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
