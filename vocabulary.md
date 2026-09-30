@@ -16769,3 +16769,4 @@
 - 2026-09-30 17:17 — Use "Are you..." for present continuous questions instead of just stating the verb.
 - 2026-09-30 19:05 — Use 'Did it finish?' for asking about completion, and 'Why did...' for past events.
 - 2026-09-30 19:39 — Use 'Did it finish?' instead of '跑完了吗' — in English, questions about completed actions use the past tense with 'did'.
+- 2026-09-30 20:04 — Use 'completed successfully' instead of just 'completed' to sound more natural in status updates.
