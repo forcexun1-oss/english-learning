@@ -16776,3 +16776,4 @@
 - 2026-09-30 21:40 — No changes needed — this is already natural and idiomatic.
 - 2026-09-30 22:06 — Use present perfect ('has completed') to report a just-finished action, or simply 'completed' as a status label.
 - 2026-09-30 22:42 — Use 'finished' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
+- 2026-10-01 07:55 — In Chinese, '不能...吗' is a rhetorical question. In English, use 'Can't you...?' or 'Is it not possible to...?' to express the same tone.
