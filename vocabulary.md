@@ -16687,6 +16687,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-30 11:06 — '切换' can be translated as 'switch' or 'toggle'. Here, '可以切换' is naturally expressed as 'Can we switch it?' in a question form.
 - 2026-09-30 11:06 — Use 'status' instead of 'situation' when asking about the state of a task or process.
 =======
@@ -16721,3 +16722,6 @@
 >>>>>>> Stashed changes
 - 2026-09-30 12:20 — Use 'the two decisions' instead of 'this 2 decision' — 'this' is singular, and '2' should be 'two' when written out in formal text.
 - 2026-09-30 12:20 — "各个档位的" means "all the tiers/versions" — use "all the tiers" or "all the versions" instead of a literal translation like "each gear's".
+=======
+- 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
+>>>>>>> Stashed changes
