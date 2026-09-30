@@ -16655,3 +16655,4 @@
 - 2026-09-30 00:55 — No changes needed — this is already natural and idiomatic.
 >>>>>>> Stashed changes
 - 2026-09-30 10:18 — Use 'doesn't show' instead of 'can't see' when referring to a UI element not displaying; 'can't see' implies the user's own vision issue.
+- 2026-09-30 10:30 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
