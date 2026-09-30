@@ -16690,3 +16690,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 11:08 — Use 'so give it a try' instead of '试试看' to sound more natural in English.
