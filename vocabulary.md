@@ -16771,3 +16771,4 @@
 - 2026-09-30 19:39 — Use 'Did it finish?' instead of '跑完了吗' — in English, questions about completed actions use the past tense with 'did'.
 - 2026-09-30 20:04 — Use 'completed successfully' instead of just 'completed' to sound more natural in status updates.
 - 2026-09-30 20:17 — No correction needed — this is a system notification, not a user message.
+- 2026-09-30 20:49 — Use 'finished successfully' or 'completed' instead of '跑完了' which is informal Chinese.
