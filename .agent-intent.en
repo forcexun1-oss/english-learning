@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "50-minute watchdog on probe 3" completed (exit code 0)
-=======
-Background command "Bring up benchmark Graphiti infra" completed (exit code 0).
->>>>>>> Stashed changes
+The background command "Run Graphiti probe 4" has completed (exit code 0).
