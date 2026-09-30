@@ -16683,6 +16683,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-30 11:06 — '切换' can be translated as 'switch' or 'toggle'. Here, '可以切换' is naturally expressed as 'Can we switch it?' in a question form.
 - 2026-09-30 11:06 — Use 'status' instead of 'situation' when asking about the state of a task or process.
 =======
@@ -16701,3 +16702,6 @@
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
 - 2026-09-30 11:30 — Use 'mid-mutation' as a compound noun instead of 'in the middle of the mutation evidence step' for a more concise, natural phrasing.
+=======
+- 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
+>>>>>>> Stashed changes
