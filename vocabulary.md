@@ -16685,3 +16685,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 11:07 — Use 'failing to extract' instead of '抽不出' (which literally means 'can't pull out') for a more natural technical phrasing.
