@@ -16765,3 +16765,4 @@
 >>>>>>> Stashed changes
 - 2026-09-30 16:55 — Use "Is... done?" for a simple yes/no question about completion, instead of adding extra words.
 - 2026-09-30 16:59 — Use 'finish downloading' instead of 'continue downloading' to sound more natural for completing a task.
+- 2026-09-30 17:16 — Use 'still' to ask about an ongoing action, and the present continuous tense 'are you downloading' for an action in progress.
