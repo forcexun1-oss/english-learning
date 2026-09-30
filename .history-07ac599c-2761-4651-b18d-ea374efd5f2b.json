@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["<task-notification>\n<task-id>bfna0vkkx</task-id>\n<tool-use-id>toolu_015cmm2oq4a6d1ShHwosMdkL</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/55e99fbd-295e-4dd9-914b-6b27999095d6/tasks/bfna0vkkx.output</output-file>\n<status>completed</status>\n<summary>Background command \"Dispatch codex on T-GT3\" completed (exit code 0)</summary>\n</task-notification>"]
-=======
-["<task-notification>\n<task-id>b2d8hjbsp</task-id>\n<tool-use-id>toolu_01PxaX6z3sWSGLZYCHu23hN6</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/7c68d655-2456-415a-b28a-97318ca12281/tasks/b2d8hjbsp.output</output-file>\n<status>completed</status>\n<summary>Background command \"Bring up benchmark Graphiti infra\" completed (exit code 0)</summary>\n</task-notification>"]
->>>>>>> Stashed changes
+["<task-notification>\n<task-id>b0lbypwhr</task-id>\n<tool-use-id>toolu_01KhCwWr1snbo1964DPR1odV</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/55e99fbd-295e-4dd9-914b-6b27999095d6/tasks/b0lbypwhr.output</output-file>\n<status>completed</status>\n<summary>Background command \"Run Graphiti probe 3\" completed (exit code 0)</summary>\n</task-notification>"]
