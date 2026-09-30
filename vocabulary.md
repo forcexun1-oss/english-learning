@@ -16684,6 +16684,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-09-30 11:06 — '切换' can be translated as 'switch' or 'toggle'. Here, '可以切换' is naturally expressed as 'Can we switch it?' in a question form.
 - 2026-09-30 11:06 — Use 'status' instead of 'situation' when asking about the state of a task or process.
 =======
@@ -16706,3 +16707,6 @@
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
 - 2026-09-30 11:32 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0 indicates success.
+=======
+- 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
+>>>>>>> Stashed changes
