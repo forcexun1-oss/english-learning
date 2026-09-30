@@ -16719,3 +16719,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 12:20 — Use 'the two decisions' instead of 'this 2 decision' — 'this' is singular, and '2' should be 'two' when written out in formal text.

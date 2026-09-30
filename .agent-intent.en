@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watchdog segment on probe 10" failed with exit code 144.
-=======
-Add a toggle for it.
->>>>>>> Stashed changes
+Download the models for the two decisions, nimble and tev1. They should be on Ollama.
