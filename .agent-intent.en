@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-The background command "Test entities json_schema with thinking enabled" completed successfully (exit code 0).
-=======
-Add a toggle for it.
->>>>>>> Stashed changes
-=======
-Add a toggle for it.
->>>>>>> Stashed changes
+The background command "Watchdog segment on probe 10" failed with exit code 144.

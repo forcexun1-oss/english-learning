@@ -16714,3 +16714,4 @@
 =======
 - 2026-09-30 11:06 — Use 'a toggle' for a switch/option in UI, and 'for it' to refer to the feature.
 >>>>>>> Stashed changes
+- 2026-09-30 12:14 — Use "failed with" instead of "failed with exit code" is fine, but the original was already correct. No change needed.
