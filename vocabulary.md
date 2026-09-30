@@ -16772,3 +16772,4 @@
 - 2026-09-30 20:04 — Use 'completed successfully' instead of just 'completed' to sound more natural in status updates.
 - 2026-09-30 20:17 — No correction needed — this is a system notification, not a user message.
 - 2026-09-30 20:49 — Use 'finished successfully' or 'completed' instead of '跑完了' which is informal Chinese.
+- 2026-09-30 21:15 — Use 'finished' or 'completed' instead of 'ran out' for background tasks.
