@@ -16782,3 +16782,4 @@
 - 2026-10-01 08:10 — Use 'Didn't you...' for past-tense questions, and 'what about' to ask about something additional.
 - 2026-10-01 08:45 — Use 'finished' or 'completed' instead of 'completed' twice — keep it concise.
 - 2026-10-01 11:32 — Use present perfect ('has finished') to report a completed action relevant to the current moment.
+- 2026-10-01 13:31 — Use past tense 'finished' to report a completed action.
