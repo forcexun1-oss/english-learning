@@ -1,1 +1,1 @@
-The watchdog on GR1 and prompt1b (2) finished successfully.
+To be more accurate, it should be able to decide when to search memory. If that's not feasible, we can keep it simple and just search everything.

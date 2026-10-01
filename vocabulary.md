@@ -16788,3 +16788,4 @@
 - 2026-10-01 17:16 — Use 'Let's' to suggest an action together, and 'too' at the end for 'also'.
 - 2026-10-01 17:32 — Use 'finished' or 'completed' instead of 'completed' twice; 'The watchdog ... finished' is more natural than repeating 'completed'.
 - 2026-10-01 17:40 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural phrasing.
+- 2026-10-01 17:54 — "都搜" here means "search everything/all of it" — use "search everything" or "search all of it" rather than a literal "all search".
