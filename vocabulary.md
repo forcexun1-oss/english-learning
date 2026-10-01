@@ -16785,3 +16785,4 @@
 - 2026-10-01 13:31 — Use past tense 'finished' to report a completed action.
 - 2026-10-01 16:51 — Use "finished successfully" or "completed" instead of just "completed" to sound more natural in status updates.
 - 2026-10-01 17:06 — "也一起" can be translated as "too" or "as well" — placing it at the end of the sentence sounds more natural in English.
+- 2026-10-01 17:16 — Use 'Let's' to suggest an action together, and 'too' at the end for 'also'.
