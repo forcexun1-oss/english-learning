@@ -16779,3 +16779,4 @@
 - 2026-10-01 07:55 — In Chinese, '不能...吗' is a rhetorical question. In English, use 'Can't you...?' or 'Is it not possible to...?' to express the same tone.
 - 2026-10-01 08:04 — Use 'Can you also...' to politely request an action, and 'the production side' is a natural way to say '生产那边'.
 - 2026-10-01 08:08 — Use 'do we need to' instead of just 'why change' to form a complete, natural question.
+- 2026-10-01 08:10 — Use 'Didn't you...' for past-tense questions, and 'what about' to ask about something additional.
