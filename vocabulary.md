@@ -16778,3 +16778,4 @@
 - 2026-09-30 22:42 — Use 'finished' or 'completed' instead of 'completed (exit code 0)' for a more natural, concise phrasing.
 - 2026-10-01 07:55 — In Chinese, '不能...吗' is a rhetorical question. In English, use 'Can't you...?' or 'Is it not possible to...?' to express the same tone.
 - 2026-10-01 08:04 — Use 'Can you also...' to politely request an action, and 'the production side' is a natural way to say '生产那边'.
+- 2026-10-01 08:08 — Use 'do we need to' instead of just 'why change' to form a complete, natural question.
