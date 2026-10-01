@@ -16787,3 +16787,4 @@
 - 2026-10-01 17:06 — "也一起" can be translated as "too" or "as well" — placing it at the end of the sentence sounds more natural in English.
 - 2026-10-01 17:16 — Use 'Let's' to suggest an action together, and 'too' at the end for 'also'.
 - 2026-10-01 17:32 — Use 'finished' or 'completed' instead of 'completed' twice; 'The watchdog ... finished' is more natural than repeating 'completed'.
+- 2026-10-01 17:40 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural phrasing.
