@@ -16780,3 +16780,4 @@
 - 2026-10-01 08:04 — Use 'Can you also...' to politely request an action, and 'the production side' is a natural way to say '生产那边'.
 - 2026-10-01 08:08 — Use 'do we need to' instead of just 'why change' to form a complete, natural question.
 - 2026-10-01 08:10 — Use 'Didn't you...' for past-tense questions, and 'what about' to ask about something additional.
+- 2026-10-01 08:45 — Use 'finished' or 'completed' instead of 'completed' twice — keep it concise.
