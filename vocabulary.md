@@ -16796,4 +16796,8 @@
 - 2026-10-02 10:40 — Use present perfect "has completed" to describe a recently finished action with current relevance.
 - 2026-10-02 11:25 — Use 'didn't' instead of 'did not' for a more natural, conversational tone in developer communication.
 - 2026-10-02 12:20 — Use 'still' to ask if something is continuing, and 'running' is the natural verb for a process or task.
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
