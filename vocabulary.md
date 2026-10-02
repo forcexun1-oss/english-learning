@@ -16962,3 +16962,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 21:47 — Use 'Don't these...' for negative questions, and 'spot' is more natural than 'discover' in casual technical talk.
