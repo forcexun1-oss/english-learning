@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 You are implementing task T-GR7 for the agent-eval benchmark (TypeScript, Node >= 24, node:test). You are authorized to complete everything below without asking; only the stop conditions justify stopping.
 
 ## Where you are
@@ -17,3 +18,6 @@ The memory extension has a new INGEST-side boolean option `graphitiUserDigestEpi
 
 ## Report
 Files; knob mapping; chunk-validation tests; mutation; cmp; status.
+=======
+Is it running?
+>>>>>>> Stashed changes
