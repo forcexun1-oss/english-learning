@@ -16798,6 +16798,7 @@
 - 2026-10-02 12:20 — Use 'still' to ask if something is continuing, and 'running' is the natural verb for a process or task.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -16806,3 +16807,6 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-02 12:29 — Use 'finished successfully' or 'completed' instead of 'completed successfully' to avoid redundancy — 'completed' already implies success.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
