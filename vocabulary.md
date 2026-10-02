@@ -16967,3 +16967,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 21:48 — Use 'as I said' for '不是说了' and 'missing logging' instead of '没有日志的' to sound more natural.
