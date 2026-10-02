@@ -17008,3 +17008,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 23:36 — Use 'silently lost' instead of 'silently drop data' for a more natural passive construction.
