@@ -16882,3 +16882,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 17:30 — Use 'Has ... finished' for asking if a process is complete, rather than a direct word-for-word translation.
