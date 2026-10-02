@@ -16819,6 +16819,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -16910,6 +16911,9 @@
 >>>>>>> Stashed changes
 - 2026-10-02 18:30 — Use "completed successfully" instead of just "completed" to emphasize the positive outcome, and add "the" before the command name for natural article usage.
 - 2026-10-02 18:50 — Use 'After fixing it' instead of '修完' directly translated. '把' at the end is a colloquial particle — in English, add 'right?' to confirm.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
