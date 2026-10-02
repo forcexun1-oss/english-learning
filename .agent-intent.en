@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watchdog keep6 segment (25 min)" completed successfully (exit code 0).
-=======
-Is it running?
->>>>>>> Stashed changes
+The background command "Wait for keep6 to finish" completed successfully (exit code 0).
