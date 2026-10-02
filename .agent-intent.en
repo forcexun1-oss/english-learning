@@ -1,1 +1,1 @@
-To be more accurate, it should be able to decide when to search memory. If that's not feasible, we can keep it simple and just search everything.
+How is the decision to search memory currently made? Also, should it be more accurate in determining when to search memory? If that's not feasible, we can keep it simple and always search.

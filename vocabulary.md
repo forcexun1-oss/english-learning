@@ -16789,3 +16789,4 @@
 - 2026-10-01 17:32 — Use 'finished' or 'completed' instead of 'completed' twice; 'The watchdog ... finished' is more natural than repeating 'completed'.
 - 2026-10-01 17:40 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural phrasing.
 - 2026-10-01 17:54 — "都搜" here means "search everything/all of it" — use "search everything" or "search all of it" rather than a literal "all search".
+- 2026-10-02 10:06 — Use 'how is... done' for '是怎么做的' (how something is done), and 'keep it simple' for '简单一点'.
