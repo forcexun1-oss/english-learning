@@ -16827,3 +16827,4 @@
 >>>>>>> Stashed changes
 - 2026-10-02 13:36 — Use 'completed successfully' instead of just 'completed' to sound more natural in this context.
 - 2026-10-02 13:39 — Use 'finished successfully' instead of 'completed' for a more natural phrasing when reporting command results.
+- 2026-10-02 13:40 — Use 'You are' instead of 'You are implementing' as a standalone imperative; also 'after a successful session' is clearer than 'after a session's episode(s)'.
