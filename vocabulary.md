@@ -16790,3 +16790,4 @@
 - 2026-10-01 17:40 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' for a more natural phrasing.
 - 2026-10-01 17:54 — "都搜" here means "search everything/all of it" — use "search everything" or "search all of it" rather than a literal "all search".
 - 2026-10-02 10:06 — Use 'how is... done' for '是怎么做的' (how something is done), and 'keep it simple' for '简单一点'.
+- 2026-10-02 10:10 — "派任务看看" is better expressed as "assign a task to see" or "run a task to check" — '派' here means to dispatch/assign, not 'send'.

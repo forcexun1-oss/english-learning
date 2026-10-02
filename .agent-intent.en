@@ -1,1 +1,1 @@
-How is the decision to search memory currently made? Also, should it be more accurate in determining when to search memory? If that's not feasible, we can keep it simple and always search.
+nimble tev1 is downloaded on ollama. Let's assign a task to see which judge works better for search effectiveness. If it performs well, we can have this model make the judgment when the judge is enabled, and then pass it to the agent. It's probably easiest to control whether it searches on the final user message.
