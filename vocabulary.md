@@ -16793,3 +16793,4 @@
 - 2026-10-02 10:10 — "派任务看看" is better expressed as "assign a task to see" or "run a task to check" — '派' here means to dispatch/assign, not 'send'.
 - 2026-10-02 10:26 — Use 'Aren't there' for negative questions in the present tense, which is more natural than '不是两个吗' translated literally as 'Isn't it two?'
 - 2026-10-02 10:36 — Use "Aren't there" for negative questions in the present tense.
+- 2026-10-02 10:40 — Use present perfect "has completed" to describe a recently finished action with current relevance.
