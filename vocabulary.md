@@ -16936,3 +16936,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 20:21 — Use 'What do ... mean?' instead of '啥意思' — '啥' is informal; 'passage' is the correct term for a section of text.
