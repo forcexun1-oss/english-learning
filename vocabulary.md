@@ -16833,6 +16833,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -16984,3 +16985,6 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-02 22:32 — Use the present perfect "has completed" to describe a finished action with current relevance, rather than the simple past "completed".
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
