@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Implement task T-GR6 for the agent-eval benchmark (TypeScript, Node >= 24, node:test). You're authorized to complete everything below without asking; only the stop conditions justify stopping.
 
 ## Where you are
@@ -17,6 +18,9 @@ Tests: unset identical; 1/0 mapping; invalid → failure; not in ingest config. 
 
 ## Report
 Files; mapping; tests + mutation; cmp; status.
+=======
+Is it running?
+>>>>>>> Stashed changes
 =======
 Is it running?
 >>>>>>> Stashed changes
