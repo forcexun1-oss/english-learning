@@ -17098,3 +17098,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-03 04:48 — Use 'with' instead of ':' to connect the exit code to the message, which is more natural in English.
