@@ -16794,3 +16794,4 @@
 - 2026-10-02 10:26 — Use 'Aren't there' for negative questions in the present tense, which is more natural than '不是两个吗' translated literally as 'Isn't it two?'
 - 2026-10-02 10:36 — Use "Aren't there" for negative questions in the present tense.
 - 2026-10-02 10:40 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-02 11:25 — Use 'didn't' instead of 'did not' for a more natural, conversational tone in developer communication.
