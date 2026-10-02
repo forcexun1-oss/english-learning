@@ -17013,3 +17013,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 23:40 — Use 'What is...?' for questions about definitions, and 'Is it...?' for yes/no questions.
