@@ -16978,3 +16978,4 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-02 22:12 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-02 22:15 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'completed' alone is enough.
