@@ -16791,3 +16791,4 @@
 - 2026-10-01 17:54 — "都搜" here means "search everything/all of it" — use "search everything" or "search all of it" rather than a literal "all search".
 - 2026-10-02 10:06 — Use 'how is... done' for '是怎么做的' (how something is done), and 'keep it simple' for '简单一点'.
 - 2026-10-02 10:10 — "派任务看看" is better expressed as "assign a task to see" or "run a task to check" — '派' here means to dispatch/assign, not 'send'.
+- 2026-10-02 10:26 — Use 'Aren't there' for negative questions in the present tense, which is more natural than '不是两个吗' translated literally as 'Isn't it two?'
