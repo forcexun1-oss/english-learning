@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 You are implementing task T-GR8 for the agent-eval benchmark (TypeScript, Node >= 24, node:test). You are authorized to complete everything below without asking; only the stop conditions justify stopping.
 
 ## Where you are
@@ -15,3 +16,6 @@ Tests: unset identical; N mapping; invalid; not in ingest config. Mutation: igno
 
 ## Report
 Files; mapping; tests + mutation; cmp; status.
+=======
+Is it running?
+>>>>>>> Stashed changes
