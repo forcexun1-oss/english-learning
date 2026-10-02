@@ -16917,3 +16917,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-02 19:23 — Use "completed successfully" instead of just "completed" to emphasize the successful exit, which is more idiomatic in developer communication.
