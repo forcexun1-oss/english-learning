@@ -1,1 +1,23 @@
-The background command "Watchdog GQ23 and diag-tr-1 (25 min)" has completed (exit code 0).
+Implement task T-GQ24 in the user's Graphiti repo (Python, uv). You're authorized to complete everything below without asking; only the stop conditions justify stopping. It's a tiny change — write it once, then test.
+
+## Where you are
+/Users/youxun/graphiti-mcp-server (branch main). There are many uncommitted changes. Do NOT commit, stash, checkout, or restore anything; keep edits additive and preserve existing hunks. Do NOT run `uv sync` in mcp_server (a production server is running from that venv). Baseline: /tmp/T-GQ24-before.patch, /tmp/T-GQ24-status-before.txt. Mutation evidence: copy aside, restore, cmp. No requests to :11436/:18000/:8000; no model runs.
+
+## Problem (measured, formal run)
+graphiti_core/utils/text_utils.py has MAX_SUMMARY_CHARS = 1000, which is both the prompt target (graphiti_core/prompts/extract_nodes.py ~592 "Summary must be under {MAX_SUMMARY_CHARS} characters") and the hard cut (graphiti_core/utils/maintenance/node_operations.py ~1126 truncate_at_sentence(summary, MAX_SUMMARY_CHARS)). When the model overshoots, the tail is lost: the formal run logged summaries_truncated with 135-642 chars removed several times; the canonical user node accumulates the most and loses the most.
+
+## Change
+Add `MAX_SUMMARY_HARD_CHARS = 2 * MAX_SUMMARY_CHARS` in text_utils.py and use it ONLY for the entity-summary hard cut in node_operations.py (~1126) and its truncation accounting. Leave the prompt target, community summaries (community_operations.py), saga summary (graphiti.py ~548), and the summary_with_edges shortcut (~1006) unchanged.
+
+## Tests
+A 1500-char model summary is kept whole (no truncation counted); a 2500-char summary is cut at a sentence boundary ≤ 2000 and counted with the right chars removed; the prompt still says "under 1000 characters".
+Mutation (must fail a test; paste): use MAX_SUMMARY_CHARS for the hard cut again.
+
+## Gates
+Root `uv run --frozen pytest tests/utils tests/llm_client tests/test_extraction_response_bounds.py` (paste summary); ruff check on changed files; reverse-apply proof (every '+' line of /tmp/T-GQ24-before.patch still present — script + count; explain any missing); `git status --short` vs /tmp/T-GQ24-status-before.txt (only new test files allowed).
+
+## Stop conditions
+1. Still failing after 3 fix rounds.
+
+## Report
+Diff; tests + mutation; gates.
