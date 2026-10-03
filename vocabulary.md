@@ -16887,6 +16887,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17256,3 +17257,6 @@
 >>>>>>> Stashed changes
 - 2026-10-03 20:46 — Use present perfect ('has completed') to describe a recently finished action with current relevance.
 - 2026-10-03 20:48 — Use 'small change' instead of 'tiny change' for a more natural developer tone; also 'hard boundary' is clearer than 'sentence boundary' in this context.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes

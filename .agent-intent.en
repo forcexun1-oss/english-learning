@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Implement task T-GQ24 in the user's Graphiti repo (Python, uv). You're authorized to complete everything below without asking; only the stop conditions justify stopping. It's a tiny change — write it once, then test.
 
 ## Where you are
@@ -21,3 +22,6 @@ Root `uv run --frozen pytest tests/utils tests/llm_client tests/test_extraction_
 
 ## Report
 Diff; tests + mutation; gates.
+=======
+Is it running?
+>>>>>>> Stashed changes
