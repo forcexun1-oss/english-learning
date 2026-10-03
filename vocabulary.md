@@ -17300,3 +17300,4 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-03 23:52 — Use "issue" or "bug" instead of just "that" to be more specific and natural.
+- 2026-10-03 23:52 — Use 'what areas' instead of '什么地方' for a more natural question, and 'what exactly' to emphasize the specific items being fixed.
