@@ -17229,3 +17229,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-03 19:43 — Use 'What are you doing now?' instead of '现在在做什么' directly translated; the present continuous tense is natural here.
