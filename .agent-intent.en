@@ -1,1 +1,1 @@
-The background command "Watchdog for GR10 (25 min)" has completed (exit code 0).
+What does the graphitiEnabled switch do now? Is it for prefetching, or is it model-based judgment? If it's model-based, we can turn it on — production can change it freely.

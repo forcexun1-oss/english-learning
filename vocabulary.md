@@ -17189,3 +17189,4 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-03 11:30 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-03 12:27 — Use 'model-based judgment' instead of just 'model judgment' to make the meaning clearer. Also, '随便动' translates better as 'change it freely' rather than 'move it casually'.
