@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Restart prod MCP with falkordblite extra" was stopped after hitting its background time limit. If the work in progress still needs it, restart it with `run_in_background` and a longer `timeout`. If it already had the longest allowed `timeout`, don't restart it. Either way, note that it was stopped.
-=======
-Is it running?
->>>>>>> Stashed changes
+The background command "Watchdog for dev max20 (25 min)" finished successfully (exit code 0).
