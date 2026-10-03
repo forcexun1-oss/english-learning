@@ -16875,6 +16875,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17196,3 +17197,6 @@
 >>>>>>> Stashed changes
 - 2026-10-03 18:13 — Use 'Did it stop?' for a simple past question. '怎么' here means 'why/how' but in context, asking if something stopped is more natural.
 - 2026-10-03 18:15 — Use 'doesn't matter' instead of '不重要' directly, and 'test on it' sounds more natural than '在上面测'.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
