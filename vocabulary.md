@@ -17194,3 +17194,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-03 18:13 — Use 'Did it stop?' for a simple past question. '怎么' here means 'why/how' but in context, asking if something stopped is more natural.
