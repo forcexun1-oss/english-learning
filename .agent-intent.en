@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watchdog until diag-ms-2 ends (25 min)" completed successfully (exit code 0).
-=======
-Is it running?
->>>>>>> Stashed changes
+The background command "Log MS findings; watchdog dev run (25 min)" has completed (exit code 0).
