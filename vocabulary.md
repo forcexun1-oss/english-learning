@@ -16955,6 +16955,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17587,3 +17588,6 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-04 22:46 — Use 'What exactly are you exporting?' for a direct question, and 'in the order you suggested' instead of '按照你的建议顺序'.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
