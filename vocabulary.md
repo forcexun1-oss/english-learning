@@ -17644,3 +17644,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-05 02:51 — Use 'finished' or 'completed' instead of 'completed' twice; 'exit code 0' is standard phrasing.
