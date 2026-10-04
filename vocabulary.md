@@ -17451,3 +17451,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-04 11:24 — Use 'Did we mainly fix...' for a past-tense question, and add apostrophes ('s) to show possession.
