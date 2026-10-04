@@ -17592,3 +17592,4 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-04 22:48 — Use 'plugged in' for physical connections, and 'commit' for version control actions.
+- 2026-10-04 22:49 — Use 'merge into main' instead of '合入到main' to match common Git terminology.

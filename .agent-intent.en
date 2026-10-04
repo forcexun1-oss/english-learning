@@ -1,1 +1,1 @@
-The disk is plugged in, but you just didn't commit it. That's the issue, right?
+Don't commit everything into a single commit. It's fine to merge the working code into main as well—don't create a bunch of branches that never get merged.
