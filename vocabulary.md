@@ -17597,3 +17597,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-04 22:59 — Use 'gone' instead of '没了' for disappearance, and 'displayed' instead of '展示' in this context.
