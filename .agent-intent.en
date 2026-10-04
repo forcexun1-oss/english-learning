@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watchdog until diag-tr-3 ends (25 min)" has completed (exit code 0).
-=======
-Is it running?
->>>>>>> Stashed changes
+Background command "Watchdog until diag-tr-3 ends (25 min)" completed (exit code 0).
