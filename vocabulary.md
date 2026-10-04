@@ -17673,3 +17673,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-05 05:17 — Use present perfect 'has completed' to describe a recent finished action, rather than past simple 'completed'.
