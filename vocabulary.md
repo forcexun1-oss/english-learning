@@ -16957,6 +16957,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17600,3 +17601,6 @@
 - 2026-10-04 22:59 — Use 'gone' instead of '没了' for disappearance, and 'displayed' instead of '展示' in this context.
 - 2026-10-04 23:00 — Use 'figure out' or 'fix the issue' instead of '解决掉' which sounds too literal; '解决掉' translates better as 'resolve it' or 'fix it'.
 - 2026-10-04 23:04 — Use 'completed successfully' instead of just 'completed' to sound more natural in English.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
