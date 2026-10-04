@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Don't commit everything into a single commit. It's fine to merge the working code into main as well—don't create a bunch of branches that never get merged.
+=======
+Is it running?
+>>>>>>> Stashed changes
