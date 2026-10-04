@@ -17559,3 +17559,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-04 21:31 — Use 'one by one' or 'one at a time' instead of '挨个' for a natural English expression.
