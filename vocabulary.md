@@ -17576,3 +17576,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-04 22:37 — Use 'need to be solved' instead of '带解决' (which is a typo for '待解决'), and 'are they easy to solve' for the question form.
