@@ -17798,3 +17798,4 @@
 - 2026-10-05 19:44 — Use 'hardcode' (past: 'hardcoded') instead of '写死' — it's the standard technical term in English.
 - 2026-10-05 19:46 — Use "the same way" instead of "like this" for a more natural comparison.
 - 2026-10-05 20:02 — Use present perfect 'has completed' to describe a recently finished action with current relevance.
+- 2026-10-05 20:08 — Use present perfect ('have completed') to report a finished action relevant to the current moment.
