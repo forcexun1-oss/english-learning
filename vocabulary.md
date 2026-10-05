@@ -16983,6 +16983,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17729,3 +17730,6 @@
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
 - 2026-10-05 08:25 — Use 'plan to do' instead of '打算怎么做' directly; 'What do you plan to do?' is a natural way to ask about someone's intended action.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
