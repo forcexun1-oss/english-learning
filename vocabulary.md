@@ -17723,3 +17723,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-05 08:22 — Use 'Can...be fixed?' for a polite request, and 'missing date issue' is clearer than '缺日期的问题'.
