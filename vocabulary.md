@@ -17792,3 +17792,4 @@
 - 2026-10-05 17:01 — Use 'or' to connect two alternative questions, and 'when reading' to express the timing of the model's action.
 - 2026-10-05 17:49 — Use present perfect "has completed" to describe a recently finished action with current relevance.
 - 2026-10-05 18:13 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-05 18:37 — Use present perfect 'has completed' to describe a recently finished action with relevance to the current moment.
