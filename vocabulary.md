@@ -17754,3 +17754,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-05 10:32 — Use 'call tools' instead of '调取工具' literally as 'fetch tools'; 'rely on' is more natural than '靠' in this context.
