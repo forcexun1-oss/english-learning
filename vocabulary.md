@@ -17808,3 +17808,4 @@
 - 2026-10-05 23:28 — Use "still running" instead of "还在吧" to ask if something is still active.
 - 2026-10-05 23:54 — Use past tense 'finished' or 'completed' to report a finished background task.
 - 2026-10-05 23:56 — Use 'is still running' instead of 'is still there' for ongoing processes.
+- 2026-10-06 00:11 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'finished' sounds more natural here.
