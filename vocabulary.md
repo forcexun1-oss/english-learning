@@ -17791,3 +17791,4 @@
 - 2026-10-05 17:00 — Use "finished successfully" or "completed successfully" instead of "completed" alone to sound more natural in this context.
 - 2026-10-05 17:01 — Use 'or' to connect two alternative questions, and 'when reading' to express the timing of the model's action.
 - 2026-10-05 17:49 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-05 18:13 — Use present perfect "has completed" to describe a recently finished action with current relevance.
