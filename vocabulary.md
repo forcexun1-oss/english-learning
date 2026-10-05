@@ -16987,6 +16987,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-02 12:25 — Use 'you're' contractions and 'leave' instead of 'leave it' for a more natural developer tone.
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
@@ -17747,6 +17748,9 @@
 - 2026-10-05 09:33 — Use "finished successfully" or "completed successfully" instead of "completed" alone to sound more natural in this context.
 - 2026-10-05 10:30 — Use 'inaccurate' instead of 'not accurate' for a more concise and natural phrasing. Also, 'timing' is the noun form here, not 'time'.
 - 2026-10-05 10:30 — In English, questions often start with 'Is there...' instead of directly placing the verb at the beginning like in Chinese.
+=======
+- 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
+>>>>>>> Stashed changes
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
