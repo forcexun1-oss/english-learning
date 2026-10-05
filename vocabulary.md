@@ -17728,3 +17728,4 @@
 =======
 - 2026-10-02 12:25 — Use 'it' instead of 'he' when referring to a process or task.
 >>>>>>> Stashed changes
+- 2026-10-05 08:25 — Use 'plan to do' instead of '打算怎么做' directly; 'What do you plan to do?' is a natural way to ask about someone's intended action.
