@@ -17794,3 +17794,4 @@
 - 2026-10-05 18:13 — Use present perfect "has completed" to describe a recently finished action with current relevance.
 - 2026-10-05 18:37 — Use present perfect 'has completed' to describe a recently finished action with relevance to the current moment.
 - 2026-10-05 19:02 — Use present perfect "has completed" to describe a finished action relevant to the current moment.
+- 2026-10-05 19:41 — Use 'calculate the date' instead of '计算日期' directly; 'separately' fits better than 'alone' here.
