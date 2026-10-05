@@ -17782,3 +17782,4 @@
 - 2026-10-05 13:51 — No changes needed — this is already natural and idiomatic.
 - 2026-10-05 14:16 — Use "finished successfully" or "completed" instead of "completed" alone for clarity in status updates.
 - 2026-10-05 14:40 — Use present perfect "has completed" to describe a recently finished action with relevance to the current moment.
+- 2026-10-05 15:04 — Use "finished successfully" instead of "completed" for a more natural phrasing when describing command execution.
