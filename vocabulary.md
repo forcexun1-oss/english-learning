@@ -17805,3 +17805,4 @@
 - 2026-10-05 23:06 — Use 'finish them all' instead of '搞完' — it's more natural than 'do them all' for completing tasks.
 - 2026-10-05 23:11 — "再试试" can be translated as "Let's try again" or "Try it again." Using "Let's" makes it sound more collaborative and natural in a coding context.
 - 2026-10-05 23:12 — Use 'still running' instead of '还在吧' to ask if something is still in progress.
+- 2026-10-05 23:28 — Use "still running" instead of "还在吧" to ask if something is still active.
