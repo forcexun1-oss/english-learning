@@ -17796,3 +17796,4 @@
 - 2026-10-05 19:02 — Use present perfect "has completed" to describe a finished action relevant to the current moment.
 - 2026-10-05 19:41 — Use 'calculate the date' instead of '计算日期' directly; 'separately' fits better than 'alone' here.
 - 2026-10-05 19:44 — Use 'hardcode' (past: 'hardcoded') instead of '写死' — it's the standard technical term in English.
+- 2026-10-05 19:46 — Use "the same way" instead of "like this" for a more natural comparison.
