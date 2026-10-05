@@ -17776,3 +17776,4 @@
 >>>>>>> Stashed changes
 - 2026-10-05 11:19 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
 - 2026-10-05 12:15 — Use present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-05 12:39 — Use present perfect 'has completed' to report a finished action with current relevance, rather than the simple past.
