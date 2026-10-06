@@ -17836,3 +17836,4 @@
 - 2026-10-06 18:20 — Use present perfect ('has finished') to report a completed background task.
 - 2026-10-06 19:07 — Use past tense 'finished' for completed background tasks.
 - 2026-10-06 21:52 — Use 'scheduled check' or 'periodic check' instead of a direct translation of '定时检查'.
+- 2026-10-06 22:02 — Use 'disable' instead of '关闭' in technical contexts; 'inference' is the standard term for 推理 in ML.
