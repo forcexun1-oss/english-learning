@@ -17840,3 +17840,4 @@
 - 2026-10-06 22:03 — Use 'perform worse' instead of '开推理还不如不开' to compare outcomes; 'share the same prefix cache' is clearer than '共用前缀缓存'.
 - 2026-10-06 22:08 — Use "it's probably not hitting the cache" instead of "是没有命中缓存吧" — 'hit the cache' is the natural idiom for cache lookup success.
 - 2026-10-06 22:16 — Use present perfect ('has finished') to describe a completed action relevant to the current moment.
+- 2026-10-06 22:21 — '走session的缓存' means 'use the session cache' — '走' here translates to 'use' or 'go through', not literally 'walk'.
