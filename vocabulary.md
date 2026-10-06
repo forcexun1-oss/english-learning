@@ -17810,3 +17810,4 @@
 - 2026-10-05 23:56 — Use 'is still running' instead of 'is still there' for ongoing processes.
 - 2026-10-06 00:11 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'finished' sounds more natural here.
 - 2026-10-06 08:39 — Use 'finished' or 'completed' instead of 'done' for a more formal status update.
+- 2026-10-06 11:12 — Use 'unresolved issues' instead of 'problems that haven't been solved' for a more natural, concise phrasing.
