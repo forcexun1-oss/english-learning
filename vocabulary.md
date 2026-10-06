@@ -17848,3 +17848,4 @@
 - 2026-10-06 23:07 — Use present perfect ('has completed') to report a just-finished background task.
 - 2026-10-07 00:48 — Use present perfect ('has completed') to report a finished background task.
 - 2026-10-07 06:03 — Use 'pause' instead of '暂停' directly, and 'resume' for '恢复'. 'Let's' makes it sound more natural in a collaborative context.
+- 2026-10-07 06:11 — Use "popped out" for something physically ejecting or disconnecting, which is more natural than a direct word-for-word translation.
