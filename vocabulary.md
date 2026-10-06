@@ -17851,6 +17851,7 @@
 - 2026-10-07 06:11 — Use "popped out" for something physically ejecting or disconnecting, which is more natural than a direct word-for-word translation.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-07 06:11 — Use past tense 'was ejected' to describe an action that already happened.
 =======
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
@@ -17859,3 +17860,6 @@
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
 - 2026-10-07 06:12 — Use 'shut down' instead of '关机' directly; 'shut down' is the natural verb for powering off a computer.
+=======
+- 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
+>>>>>>> Stashed changes
