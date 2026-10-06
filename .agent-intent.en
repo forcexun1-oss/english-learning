@@ -1,1 +1,1 @@
-Is the entire plan fully implemented, or just the memory-related parts?
+How do we handle the model getting stuck in a loop? This is probably a common issue with Qwen, so let's search for how others have solved it. Also, have we already implemented any handling for this? I think we added something like penalties on the server side. If that didn't work or wasn't added, search for solutions.
