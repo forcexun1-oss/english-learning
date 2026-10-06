@@ -17824,3 +17824,4 @@
 - 2026-10-06 15:51 — Use 'Is there anything left to handle?' instead of a literal word-for-word translation. '写完了' can be rendered as 'written up' or 'completed'.
 - 2026-10-06 15:58 — Use "handle" instead of "process" for tasks, and "written up" is a natural way to say 写完.
 - 2026-10-06 16:15 — Use 'written up' or 'finished' instead of '写完了' translated literally as 'written finished'.
+- 2026-10-06 16:48 — Use 'written up' or 'finished' instead of '写完了' translated literally. 'Nothing to handle?' is more natural than '没有什么要处理的吗'.
