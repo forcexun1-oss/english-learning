@@ -17809,3 +17809,4 @@
 - 2026-10-05 23:54 — Use past tense 'finished' or 'completed' to report a finished background task.
 - 2026-10-05 23:56 — Use 'is still running' instead of 'is still there' for ongoing processes.
 - 2026-10-06 00:11 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'finished' sounds more natural here.
+- 2026-10-06 08:39 — Use 'finished' or 'completed' instead of 'done' for a more formal status update.
