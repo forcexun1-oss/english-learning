@@ -17813,3 +17813,4 @@
 - 2026-10-06 11:12 — Use 'unresolved issues' instead of 'problems that haven't been solved' for a more natural, concise phrasing.
 - 2026-10-06 11:34 — Use "go ahead with" to mean 按你的继续 — it's a natural way to tell someone to proceed.
 - 2026-10-06 11:36 — Use "run in parallel" or "be parallelized" instead of "并行" directly translated as "parallel".
+- 2026-10-06 11:44 — Use present continuous tense ('is ... running') to ask about an ongoing action.
