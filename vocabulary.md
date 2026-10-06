@@ -17834,3 +17834,4 @@
 - 2026-10-06 17:32 — Use present perfect ('has finished') to report a completed background task.
 - 2026-10-06 18:14 — Use 'go with' for '按...来' (follow/choose), and 'depend on' for '看...' (be determined by).
 - 2026-10-06 18:20 — Use present perfect ('has finished') to report a completed background task.
+- 2026-10-06 19:07 — Use past tense 'finished' for completed background tasks.
