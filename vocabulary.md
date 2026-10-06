@@ -17833,3 +17833,4 @@
 - 2026-10-06 17:28 — Use "just finished" to report a recently completed event, and "anything to handle there?" is a natural way to ask if action is needed.
 - 2026-10-06 17:32 — Use present perfect ('has finished') to report a completed background task.
 - 2026-10-06 18:14 — Use 'go with' for '按...来' (follow/choose), and 'depend on' for '看...' (be determined by).
+- 2026-10-06 18:20 — Use present perfect ('has finished') to report a completed background task.
