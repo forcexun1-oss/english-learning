@@ -17820,3 +17820,4 @@
 - 2026-10-06 13:01 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0.
 - 2026-10-06 13:25 — Use "finished" or "completed" instead of "completed" twice — "completed" is fine, but "finished successfully" sounds more natural in this context.
 - 2026-10-06 13:49 — Use the past tense 'finished' to report a completed background task.
+- 2026-10-06 15:02 — Use past tense 'finished' for completed background tasks.
