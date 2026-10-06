@@ -17838,3 +17838,4 @@
 - 2026-10-06 21:52 — Use 'scheduled check' or 'periodic check' instead of a direct translation of '定时检查'.
 - 2026-10-06 22:02 — Use 'disable' instead of '关闭' in technical contexts; 'inference' is the standard term for 推理 in ML.
 - 2026-10-06 22:03 — Use 'perform worse' instead of '开推理还不如不开' to compare outcomes; 'share the same prefix cache' is clearer than '共用前缀缓存'.
+- 2026-10-06 22:08 — Use "it's probably not hitting the cache" instead of "是没有命中缓存吧" — 'hit the cache' is the natural idiom for cache lookup success.

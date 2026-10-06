@@ -1,1 +1,1 @@
-Why does answering perform worse with reasoning enabled than without? What's the reason? That doesn't make sense. Extraction should also be able to use reasoning, since they share the same prefix cache.
+The extraction now takes over 90 seconds — it's probably not hitting the cache, right?
