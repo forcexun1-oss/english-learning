@@ -17814,3 +17814,4 @@
 - 2026-10-06 11:34 — Use "go ahead with" to mean 按你的继续 — it's a natural way to tell someone to proceed.
 - 2026-10-06 11:36 — Use "run in parallel" or "be parallelized" instead of "并行" directly translated as "parallel".
 - 2026-10-06 11:44 — Use present continuous tense ('is ... running') to ask about an ongoing action.
+- 2026-10-06 11:59 — Use 'finished' instead of 'completed' when describing a process that ended with a non-zero exit code.
