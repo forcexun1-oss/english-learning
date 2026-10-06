@@ -1,1 +1,1 @@
-The production plan is to use the session cache. If the issue is just insufficient disk space caused by large-scale testing, we can ignore the time problem — as long as it works in production.
+The production plan is to use session caching. If the disk space issue is only caused by large-scale testing, we can ignore the timing problem — production will have it covered.
