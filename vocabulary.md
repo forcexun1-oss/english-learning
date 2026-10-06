@@ -17821,3 +17821,4 @@
 - 2026-10-06 13:25 — Use "finished" or "completed" instead of "completed" twice — "completed" is fine, but "finished successfully" sounds more natural in this context.
 - 2026-10-06 13:49 — Use the past tense 'finished' to report a completed background task.
 - 2026-10-06 15:02 — Use past tense 'finished' for completed background tasks.
+- 2026-10-06 15:51 — Use 'Is there anything left to handle?' instead of a literal word-for-word translation. '写完了' can be rendered as 'written up' or 'completed'.
