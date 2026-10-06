@@ -17822,3 +17822,4 @@
 - 2026-10-06 13:49 — Use the past tense 'finished' to report a completed background task.
 - 2026-10-06 15:02 — Use past tense 'finished' for completed background tasks.
 - 2026-10-06 15:51 — Use 'Is there anything left to handle?' instead of a literal word-for-word translation. '写完了' can be rendered as 'written up' or 'completed'.
+- 2026-10-06 15:58 — Use "handle" instead of "process" for tasks, and "written up" is a natural way to say 写完.
