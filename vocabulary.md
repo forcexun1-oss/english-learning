@@ -17817,3 +17817,4 @@
 - 2026-10-06 11:59 — Use 'finished' instead of 'completed' when describing a process that ended with a non-zero exit code.
 - 2026-10-06 12:35 — Use "why did..." for past questions, and "how come" is informal for asking about a change — both work here.
 - 2026-10-06 12:36 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'completed' is fine but 'finished' adds variety.
+- 2026-10-06 13:01 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0.
