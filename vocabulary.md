@@ -17815,3 +17815,4 @@
 - 2026-10-06 11:36 — Use "run in parallel" or "be parallelized" instead of "并行" directly translated as "parallel".
 - 2026-10-06 11:44 — Use present continuous tense ('is ... running') to ask about an ongoing action.
 - 2026-10-06 11:59 — Use 'finished' instead of 'completed' when describing a process that ended with a non-zero exit code.
+- 2026-10-06 12:35 — Use "why did..." for past questions, and "how come" is informal for asking about a change — both work here.
