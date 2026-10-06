@@ -1,1 +1,1 @@
-Should we disable inference when extracting, or disable it when reading?
+Why does answering perform worse with reasoning enabled than without? What's the reason? That doesn't make sense. Extraction should also be able to use reasoning, since they share the same prefix cache.
