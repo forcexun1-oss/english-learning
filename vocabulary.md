@@ -17843,3 +17843,4 @@
 - 2026-10-06 22:21 — '走session的缓存' means 'use the session cache' — '走' here translates to 'use' or 'go through', not literally 'walk'.
 - 2026-10-06 22:40 — Use 'is only caused by' instead of 'is because of' for a more precise causal structure. Also, 'will have it covered' is a natural idiomatic way to say it will be handled.
 - 2026-10-06 22:41 — "往后靠" here means to defer or postpone, so "push back" or "defer" works better than a literal translation like "lean back."
+- 2026-10-06 23:02 — Use 'don't worry about' instead of '不要管' to sound more natural in English.
