@@ -17858,3 +17858,4 @@
 =======
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
+- 2026-10-07 06:12 — Use 'shut down' instead of '关机' directly; 'shut down' is the natural verb for powering off a computer.
