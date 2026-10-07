@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the reason for the thinking segment swallowing the answer? Is it because the max token limit is insufficient and the generation ends early?
-=======
-Also pause the scheduled tasks for now.
->>>>>>> Stashed changes
+Then it's a vLLM issue.
