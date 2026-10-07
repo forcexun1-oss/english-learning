@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "24-minute watchdog for sampling A/B" has completed (exit code 0).
-=======
-Also pause the scheduled tasks for now.
->>>>>>> Stashed changes
+The background command "24-minute watchdog for diag-ms-10" completed successfully (exit code 0).
