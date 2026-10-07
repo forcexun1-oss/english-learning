@@ -17856,6 +17856,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-07 06:11 — Use past tense 'was ejected' to describe an action that already happened.
 =======
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
@@ -17883,3 +17884,6 @@
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
 - 2026-10-07 17:04 — Use "finished successfully" or "completed successfully" instead of "completed" alone for clarity.
+=======
+- 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
+>>>>>>> Stashed changes
