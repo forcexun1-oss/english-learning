@@ -17973,3 +17973,4 @@
 =======
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
+- 2026-10-08 01:14 — Use present perfect "has completed" to describe a finished action relevant to the current moment, rather than the simple past "completed".
