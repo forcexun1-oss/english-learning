@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The background command "24-minute watchdog for diag-ms-9" has completed (exit code 0).
+=======
+Also pause the scheduled tasks for now.
+>>>>>>> Stashed changes
 =======
 Also pause the scheduled tasks for now.
 >>>>>>> Stashed changes
