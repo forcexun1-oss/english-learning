@@ -17938,3 +17938,4 @@
 =======
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
+- 2026-10-07 22:24 — Use "with" instead of "(exit code...)" to connect the exit code naturally in a sentence.
