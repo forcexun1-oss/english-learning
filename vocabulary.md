@@ -17928,3 +17928,4 @@
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
 - 2026-10-07 21:32 — Use 'Is it still running?' instead of a literal translation; '跑' here means 'running' as in a process or task.
+- 2026-10-07 21:32 — Use 'Did... stop running?' instead of '没了' to ask if something stopped, which is more natural in English.
