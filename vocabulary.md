@@ -18382,3 +18382,4 @@
 - 2026-10-08 18:09 — Use "Let's pause" instead of "先暂停吧" — it sounds more natural in English. "How much is left?" is the idiomatic way to ask 还剩多少.
 - 2026-10-08 18:10 — Use 'power off' instead of '断电' — it's the natural verb phrase for cutting power to a device.
 - 2026-10-08 18:16 — Use 'roughly' instead of '大概' for approximate estimates; 'how long will they take' is more natural than 'how long to run'.
+- 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
