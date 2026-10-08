@@ -18285,3 +18285,4 @@
 >>>>>>> Stashed changes
 - 2026-10-08 15:32 — Use 'which solution' instead of 'which plan' for technical options, and 'handle it' is more natural than 'go do it' in this context.
 - 2026-10-08 15:33 — Use 'won't it' for negative questions, and 'the first thing requested' sounds more natural than 'the first requested one'.
+- 2026-10-08 15:34 — Use 'or' instead of 'or' when listing alternatives in a negative context (e.g., 'any write, push, restart, or stop').
