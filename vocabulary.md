@@ -18049,6 +18049,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 12:08 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'completed' is fine but 'finished' adds variety.
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
@@ -18085,3 +18086,6 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:06 — Use 'flash to the board' instead of '上板' in a hardware context, and 'address' is a natural verb for handling issues later.
+=======
+- 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
+>>>>>>> Stashed changes
