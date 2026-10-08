@@ -18030,3 +18030,4 @@
 - 2026-10-08 10:55 — Use 'only' instead of 'spend only' for a more natural imperative; 'or' is fine, but 'or' is correct here.
 - 2026-10-08 11:03 — Use 'how much impact' (uncountable) instead of 'how big is the influence' — 'impact' is more natural for technical contexts.
 - 2026-10-08 11:08 — The message is already in English, so no translation is needed. The text is clear and well-structured.
+- 2026-10-08 11:15 — Use the past tense 'finished' to describe a completed action, and 'after resuming with' to show the cause.
