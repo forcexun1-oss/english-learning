@@ -18009,3 +18009,4 @@
 - 2026-10-07 06:11 — "定时" here means scheduled tasks, so "pause the scheduled tasks" is clearer than a literal translation like "stop the timing."
 >>>>>>> Stashed changes
 - 2026-10-08 04:04 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
+- 2026-10-08 09:37 — Use 'reached' instead of 'ran to' for progress milestones, and 'board is ready' sounds more natural than 'board is there'.
