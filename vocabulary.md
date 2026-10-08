@@ -18373,3 +18373,4 @@
 - 2026-10-08 16:59 — Use 'will' for future tense questions, and 'another one' instead of 'another' to refer to a new instance.
 - 2026-10-08 17:01 — Use 'does ... need' for present simple questions about a requirement; 'decision' can be treated as a singular noun.
 - 2026-10-08 17:02 — Use "How is ... designed" instead of "是怎么设计的" in English; "his" is fine for referring to a person's code, and "or" pairs with "is it" for the alternative question.
+- 2026-10-08 17:08 — Use 'spend only what the check needs' → 'spend only what the task requires' for a more natural phrasing.
