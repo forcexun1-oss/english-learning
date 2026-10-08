@@ -18590,3 +18590,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 00:33 — Use 'has exited' (present perfect) instead of 'has exit' — the past participle of 'exit' is 'exited'.
