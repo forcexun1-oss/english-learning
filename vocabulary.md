@@ -18251,6 +18251,7 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 15:08 — Use 'prefill' as a noun (e.g., 'prefill is fast') rather than 'prefill的时候'. Also, '缩短链路' translates naturally to 'shorten the pipeline'.
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
@@ -18263,3 +18264,6 @@
 - 2026-10-08 15:13 — Use present perfect "has completed" to describe a just-finished action relevant to the current moment.
 - 2026-10-08 15:14 — Use the present perfect "has completed" to describe a finished action relevant to the current moment.
 - 2026-10-08 15:18 — Use 'cut the power' instead of '断电' literally — it's the natural way to say it in English.
+=======
+- 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
+>>>>>>> Stashed changes
