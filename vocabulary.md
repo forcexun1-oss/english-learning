@@ -18262,3 +18262,4 @@
 - 2026-10-08 15:10 — Use 'so' to connect the reason and result, and 'on-device' is the standard term for 端侧.
 - 2026-10-08 15:13 — Use present perfect "has completed" to describe a just-finished action relevant to the current moment.
 - 2026-10-08 15:14 — Use the present perfect "has completed" to describe a finished action relevant to the current moment.
+- 2026-10-08 15:18 — Use 'cut the power' instead of '断电' literally — it's the natural way to say it in English.
