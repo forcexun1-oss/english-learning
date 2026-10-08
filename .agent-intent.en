@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 What JSON does decision currently return?
+=======
+Why does request 1 have an issue? Can we pinpoint it? Would reducing the context setting help us reproduce it?
+>>>>>>> Stashed changes
