@@ -18383,7 +18383,11 @@
 - 2026-10-08 18:10 — Use 'power off' instead of '断电' — it's the natural verb phrase for cutting power to a device.
 - 2026-10-08 18:16 — Use 'roughly' instead of '大概' for approximate estimates; 'how long will they take' is more natural than 'how long to run'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
