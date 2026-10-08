@@ -18013,3 +18013,4 @@
 - 2026-10-08 09:40 — Use 'assign' instead of '派给' directly, and 'lane' is fine here for a workflow context.
 - 2026-10-08 09:41 — Use 'What's the overall status' instead of '现在整体是什么状况' directly; 'remain' is more natural than '还有' for unresolved issues.
 - 2026-10-08 09:58 — Use 'runs' (present tense) for recurring actions, not 'run'.
+- 2026-10-08 09:59 — Use present perfect "has completed" to describe a just-finished action with current relevance.
