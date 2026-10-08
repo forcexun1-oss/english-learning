@@ -18258,6 +18258,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 15:08 — Use 'prefill' as a noun (e.g., 'prefill is fast') rather than 'prefill的时候'. Also, '缩短链路' translates naturally to 'shorten the pipeline'.
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
@@ -18300,3 +18301,6 @@
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
 - 2026-10-08 15:54 — Use 'How exactly is... done?' instead of '具体是怎么做的' — 'exactly' conveys the emphasis on specifics.
+=======
+- 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
+>>>>>>> Stashed changes
