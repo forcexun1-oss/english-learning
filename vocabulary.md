@@ -18437,6 +18437,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
@@ -18653,3 +18654,6 @@
 >>>>>>> Stashed changes
 - 2026-10-09 03:03 — Use past tense "failed" to describe what happened, and "with" to specify the exit code.
 - 2026-10-09 03:08 — Use 'hasn't changed' (present perfect) for a condition continuing up to now, and 'counts as' for classification. Keep the imperative tone consistent.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes
