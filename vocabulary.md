@@ -18326,3 +18326,4 @@
 - 2026-10-08 16:05 — Use 'note down' or 'jot down' for '记下' in a casual context.
 =======
 >>>>>>> Stashed changes
+- 2026-10-08 16:06 — Use "does ... return" for present tense questions about actions.
