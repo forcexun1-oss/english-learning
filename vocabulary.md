@@ -18466,3 +18466,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-08 21:08 — Use 'list' instead of 'print' for command output; 'print' is for code, 'list' is for showing items.
