@@ -18595,3 +18595,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 00:55 — Use 'get' instead of 'print' for extracting log lines in a command context; 'print' is more for code output, while 'get' fits a shell/checking scenario.
