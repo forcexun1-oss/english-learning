@@ -18631,3 +18631,4 @@
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
 - 2026-10-09 02:47 — Use 'did you stop' (past tense) instead of 'why stop' to ask about a completed action.
+- 2026-10-09 02:48 — Use 'haven't been done' (present perfect passive) to describe tasks not yet completed.
