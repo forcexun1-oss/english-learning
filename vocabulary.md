@@ -18380,3 +18380,4 @@
 - 2026-10-08 17:55 — The message is already in English, so no translation is needed. Keep it as is.
 - 2026-10-08 18:08 — The message is already in English, so no translation is needed. Keep it as is.
 - 2026-10-08 18:09 — Use "Let's pause" instead of "先暂停吧" — it sounds more natural in English. "How much is left?" is the idiomatic way to ask 还剩多少.
+- 2026-10-08 18:10 — Use 'power off' instead of '断电' — it's the natural verb phrase for cutting power to a device.
