@@ -18153,3 +18153,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:49 — Use "completed successfully" instead of just "completed" to sound more natural in this context.
+- 2026-10-08 13:49 — Use 'question-answering' or 'QA' instead of just '答题' — it's the standard term for this task in English.
