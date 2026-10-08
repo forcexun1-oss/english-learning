@@ -18127,3 +18127,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:33 — Use 'don't worry about' instead of '先不管' to sound more natural, and 'for now' to indicate a temporary placeholder.
+- 2026-10-08 13:34 — Use 'invocation' or 'calling' instead of '调用' directly; 'is it better to use X or Y' is a natural way to ask for a comparison.

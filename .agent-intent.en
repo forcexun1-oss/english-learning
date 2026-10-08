@@ -1,1 +1,1 @@
-Is there already an MCP for device operations? If not, add one. Design it fully first — don't worry about the actual implementation yet, just print a log line for now.
+Also, for device invocation, is it better to use MCP or CLI?
