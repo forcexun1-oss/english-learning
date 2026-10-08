@@ -18143,3 +18143,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:44 — Use 'flashing to the board' instead of '上板' for programming a device; 'compare them together' is more natural than '对比' alone.
+- 2026-10-08 13:44 — Use 'would switching models have' instead of '换模型影响有多大' directly translated. 'Impact on' is the correct preposition.
