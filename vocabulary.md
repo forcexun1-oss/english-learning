@@ -18364,3 +18364,4 @@
 - 2026-10-08 16:32 — Use 'can be done' instead of '可以...把' — '把' is a particle, not needed in English. Also, '不用等的' becomes 'without waiting'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-08 16:36 — Use 'get' instead of 'print' when referring to extracting log output in a script context — 'print' is more for user-facing display.
