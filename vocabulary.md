@@ -18371,3 +18371,4 @@
 - 2026-10-08 16:56 — Use 'I've already reverted' instead of 'I have already reverted' for a more natural contraction in casual technical writing.
 - 2026-10-08 16:58 — Use 'finished' or 'completed' instead of 'completed' twice; 'exit code 0' is standard phrasing.
 - 2026-10-08 16:59 — Use 'will' for future tense questions, and 'another one' instead of 'another' to refer to a new instance.
+- 2026-10-08 17:01 — Use 'does ... need' for present simple questions about a requirement; 'decision' can be treated as a singular noun.
