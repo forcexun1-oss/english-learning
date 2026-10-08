@@ -18054,6 +18054,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 12:08 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'completed' is fine but 'finished' adds variety.
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
@@ -18111,3 +18112,6 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:21 — Use 'progressively disclosed' instead of '渐进式披露' directly translated; 'disclosed' is more natural for UI/UX contexts.
+=======
+- 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
+>>>>>>> Stashed changes
