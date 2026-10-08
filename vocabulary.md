@@ -18433,6 +18433,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
@@ -18633,3 +18634,6 @@
 - 2026-10-09 02:47 — Use 'did you stop' (past tense) instead of 'why stop' to ask about a completed action.
 - 2026-10-09 02:48 — Use 'haven't been done' (present perfect passive) to describe tasks not yet completed.
 - 2026-10-09 02:49 — Use 'summarising' (British spelling) or 'summarizing' (American) consistently; both are fine, but pick one. Also, 'over the 20 NL fixture utterances plus 10 extras' is correct — 'over' here means 'across'.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes

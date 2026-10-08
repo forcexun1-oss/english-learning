@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Handoff 69: decide group labels v1 (config only), local only
 
 Worktree `/Users/youxun/project/edgeAgent-r69`, branch `feat/r69-decide-labels` @ 7a064f4. No board, no push. Trailer `Co-Authored-By: gpt-6-luna (codex) <noreply@openai.com>`. No formatters on unchanged code.
@@ -24,3 +25,6 @@ Gates:
 - one commit;
 - `git log --oneline -2`;
 - `git status --short` is clean.
+=======
+Go ahead and continue.
+>>>>>>> Stashed changes
