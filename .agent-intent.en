@@ -1,1 +1,3 @@
-Round 43 codex run finished.
+Root cause of the E0463 build blocker (confirmed by the coordinator): PATH has /opt/homebrew/bin before ~/.cargo/bin, so `cargo`/`rustc` resolve to Homebrew's rust 1.98.1 (sysroot /opt/homebrew/Cellar/rust/1.98.1, no aarch64-unknown-linux-gnu std). The rustup toolchain in ~/.cargo/bin does have the target std (`~/.cargo/bin/rustc --print target-libdir --target aarch64-unknown-linux-gnu` is populated).
+
+Continue handoff 43 from Step 1, prefixing every cargo/build-script invocation with `PATH="$HOME/.cargo/bin:$PATH"` (confirm with `which cargo rustc` and `rustc --print sysroot` in the same shell, and record that in the report). Keep the same RKNN lib dirs. All rules, steps A–E, rollback rules, and stop conditions from the original spec still apply unchanged. Update the Update 43 section of REPORT.md (keep a short note about the PATH root cause), commit on the same branch, and end with the specified final message.
