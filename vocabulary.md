@@ -18075,3 +18075,4 @@
 >>>>>>> Stashed changes
 - 2026-10-08 13:04 — Use the present perfect 'has completed' to describe a finished action with current relevance, rather than the simple past 'completed'.
 - 2026-10-08 13:05 — Use 'actually' to emphasize checking the real situation, and 'being called' for the passive voice when asking if something is invoked.
+- 2026-10-08 13:05 — Use "actually" (实际上) to emphasize the contrast with what was expected, and place it before the verb.
