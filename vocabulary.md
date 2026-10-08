@@ -18014,3 +18014,5 @@
 - 2026-10-08 09:41 — Use 'What's the overall status' instead of '现在整体是什么状况' directly; 'remain' is more natural than '还有' for unresolved issues.
 - 2026-10-08 09:58 — Use 'runs' (present tense) for recurring actions, not 'run'.
 - 2026-10-08 09:59 — Use present perfect "has completed" to describe a just-finished action with current relevance.
+- 2026-10-08 10:01 — Use 'was deployed' instead of 'is deployed' for past actions, and 'nests' → 'nests the directory' for clarity.
+- 2026-10-08 10:01 — Use 'I found several defects' instead of 'found defects' for a more natural subject-verb structure.
