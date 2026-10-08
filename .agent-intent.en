@@ -1,6 +1,14 @@
-[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
-1. `ps aux | grep "codex exec" | grep -v grep` — list the PIDs that are still running (the current ones are 54231=H1 and 54232=M2; later rounds may add more).
-2. For each running log under /private/tmp/claude-501/-Users-youxun-project-edgeAgent/75eb25e3-2b5b-4345-a96c-49f81b09d71e/scratchpad/codex-*.log: check its mtime and print the last ~15 lines. A log that hasn't changed in more than 25 minutes, or that keeps repeating the same error, counts as stalled.
-3. `git -C <worktree> log --oneline -3` and `git status --short` for each worktree in use (../edgeAgent-h1, ../edgeAgent-m2).
-4. `adb devices` — is the board still connected? M2 may only read the board: if its log shows any write, push, restart or stop on the board, report it right away.
-5. Reply to the user in one or two short Chinese sentences: each task's progress, plus any anomaly. When nothing is wrong, just say "正常运行中" plus each task's progress. When something is stalled or broken, say what it is and recommend what to do (do not kill a process yourself). Once every codex run has exited and nothing is left to watch, tell the user so and suggest deleting this watchdog.
+Coordinator review of c5f351a/df8e88c. Fix in one pass, rewrite the branch (unpushed), rerun gates:
+
+1. Drop commit df8e88c (CLAUDE.md gitnexus stats) — out of scope. The branch must end with only device-mcp commits; CLAUDE.md must be byte-identical to 2fa6f2a's (`git show 2fa6f2a:CLAUDE.md | cmp - CLAUDE.md`).
+2. The generated inputSchema is what the small model sees; right now it is poor for accuracy and partly unreadable by our bridge (`pi_extensions/progressive-tools/mcp-bridge.ts` `jsonSchemaToTypeBox` turns `$ref` and `type: [..., "null"]` into Unknown). Make every tool's inputSchema compact and self-contained:
+   - Inline enums (no `$ref` / `definitions`); no `$schema`, `title`, `format`;
+   - Optional fields: plain `type` and simply not listed in `required` (no `["integer","null"]`);
+   - Numeric ranges as `minimum`/`maximum` (and `multipleOf: 0.5` for celsius) — taken from the SAME constants the validator uses (one source of truth: e.g. `const CELSIUS: (f64,f64) = (16.0, 32.0)` used by both schema and validation);
+   - A short Chinese `description` on every property; for enums list the meaning of each value briefly, e.g. `"zone": 分区：driver 主驾，passenger 副驾，rear 后排，all 全车`;
+   - Mutual-exclusion fields (`media_set_volume` level/delta, `phone_call` contact/number): state it in the tool description ("level 与 delta 二选一").
+   - Keep each tool description short (≤ 30 chars) — tokens matter (2048 context).
+   Add a test that walks every tool schema and asserts: no `$ref`, no `definitions`, no array `type`, every property has a description, and every numeric property has minimum and maximum.
+3. Report the total size of `tools/list` (bytes, and an approximate token count by chars/1.5 for Chinese-heavy JSON) before and after.
+4. Run the pytest gate with the main venv: `/Users/youxun/project/edgeAgent/python/.venv/bin/python -m pytest tests/test_sync_mcp_tool_manifest.py` (from this worktree), and regenerate the 20 manifest entries if the dump changed.
+Paste raw gate output and the new dump-tools JSON for climate_set_temperature, media_set_volume, phone_call.
