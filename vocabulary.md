@@ -18571,3 +18571,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-08 23:58 — Use 'returns' instead of '返回的是' — in English, verbs like 'return' don't need a helper verb like 'is'.
