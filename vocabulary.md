@@ -18261,3 +18261,4 @@
 - 2026-10-08 15:09 — Use 'it's not available locally' instead of '本地没有' to sound more natural in English.
 - 2026-10-08 15:10 — Use 'so' to connect the reason and result, and 'on-device' is the standard term for 端侧.
 - 2026-10-08 15:13 — Use present perfect "has completed" to describe a just-finished action relevant to the current moment.
+- 2026-10-08 15:14 — Use the present perfect "has completed" to describe a finished action relevant to the current moment.
