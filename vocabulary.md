@@ -18561,3 +18561,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-08 23:51 — Use 'hitting' or 'reaching' instead of 'reaching' for time limits; 'was stopped' is fine, but 'don't restart' is more natural than 'do not restart' in casual developer communication.
