@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-That could work. Now that we have JEV's decision model, our model's real advantage is that prefill is very fast. So we could wrap a decision interface to shorten the pipeline while keeping flexibility — and this wouldn't need a session ID. Could you also look into what good approaches others have taken with this? And for our JEV simulation, what's the latency?
-=======
-The MCP call steps look quite numerous.
->>>>>>> Stashed changes
-=======
-The MCP call steps look quite numerous.
->>>>>>> Stashed changes
+Search online; it's not available locally.

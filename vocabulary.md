@@ -18258,3 +18258,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 15:09 — Use 'it's not available locally' instead of '本地没有' to sound more natural in English.
