@@ -18330,3 +18330,4 @@
 - 2026-10-08 16:06 — Use "does ... return" for present tense questions about actions.
 =======
 >>>>>>> Stashed changes
+- 2026-10-08 16:07 — Use 'Fix' as a direct command instead of '修掉' translated literally. '修掉' means 'fix away', but in English we just say 'fix'.
