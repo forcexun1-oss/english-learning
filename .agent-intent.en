@@ -1,7 +1,1 @@
-To answer your question: the worktree was clean at a62c95a before you started, so every one of those files was changed by your own crate-wide `cargo fmt`; there were no user changes. I've already reverted the 12 out-of-scope files with `git checkout`.
-
-Continue now:
-1. In the three allowed modified files (`handler.rs`, `mod.rs`, `bin/middleware_service.rs`), remove every formatting-only hunk. Keep only the hunks that implement /v1/decide wiring. Check with `git diff a62c95a -- <file>`.
-2. Never run `cargo fmt` without file arguments again. If you format, use `rustfmt --edition 2021 <decide.rs>` on the new file only.
-3. Run all gates from the original spec (cargo test with --features service, clippy, and the diff-stat). For Clippy: list pre-existing warnings in files you didn't touch, but don't fix them.
-4. Commit as specified (one commit for the doc, one for the code plus tests), then give the final message the spec asks for.
+The 24-minute watchdog for formal-graphiti-4 finished successfully (exit code 0).

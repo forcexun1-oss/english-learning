@@ -18369,3 +18369,4 @@
 - 2026-10-08 16:51 — Use 'hitting' or 'reaching' instead of 'reaching after' for natural phrasing; 'maximum' is more idiomatic than 'longest' here.
 - 2026-10-08 16:55 — Use "How long..." for duration questions; "多久" maps to "how long" rather than "when".
 - 2026-10-08 16:56 — Use 'I've already reverted' instead of 'I have already reverted' for a more natural contraction in casual technical writing.
+- 2026-10-08 16:58 — Use 'finished' or 'completed' instead of 'completed' twice; 'exit code 0' is standard phrasing.
