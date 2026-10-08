@@ -18010,3 +18010,4 @@
 >>>>>>> Stashed changes
 - 2026-10-08 04:04 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
 - 2026-10-08 09:37 — Use 'reached' instead of 'ran to' for progress milestones, and 'board is ready' sounds more natural than 'board is there'.
+- 2026-10-08 09:40 — Use 'assign' instead of '派给' directly, and 'lane' is fine here for a workflow context.
