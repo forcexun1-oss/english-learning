@@ -18299,3 +18299,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 15:54 — Use 'How exactly is... done?' instead of '具体是怎么做的' — 'exactly' conveys the emphasis on specifics.
