@@ -18353,3 +18353,4 @@
 - 2026-10-08 16:14 — Use past tense 'resumed' for a completed action, and 'with' to attach the fixes.
 =======
 >>>>>>> Stashed changes
+- 2026-10-08 16:31 — Use 'How many ... are left?' for remaining items, and 'Once this one is resolved' to connect the two ideas naturally.
