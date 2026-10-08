@@ -18342,3 +18342,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-08 16:10 — Use 'finished' or 'completed' instead of 'completed' twice; also 'exit code 0' is more natural than 'exit code 0' in this context.
