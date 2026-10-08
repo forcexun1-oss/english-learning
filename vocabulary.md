@@ -18074,3 +18074,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:04 — Use the present perfect 'has completed' to describe a finished action with current relevance, rather than the simple past 'completed'.
+- 2026-10-08 13:05 — Use 'actually' to emphasize checking the real situation, and 'being called' for the passive voice when asking if something is invoked.
