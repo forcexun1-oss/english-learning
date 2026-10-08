@@ -1,1 +1,1 @@
-["起来了吗"]
+["起来了吗", "<task-notification>\n<task-id>bsglbrqic</task-id>\n<tool-use-id>toolu_01JDMQG1VSxpbcD8RBkasdd6</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/40b012e4-c6cd-457b-965a-a3e5440e6ae1/tasks/bsglbrqic.output</output-file>\n<status>failed</status>\n<summary>Background command \"Poll until rkllm3-llm is active, then show status\" failed with exit code 1</summary>\n</task-notification>"]
