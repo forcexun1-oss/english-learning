@@ -18019,3 +18019,4 @@
 - 2026-10-08 10:17 — Use present perfect tense to describe a completed action with current relevance.
 - 2026-10-08 10:22 — Use present perfect ('has finished') to report a completed action relevant to the current situation.
 - 2026-10-08 10:22 — Use "I independently re-ran it" instead of "Independently re-run" when describing what you did; "re-run" is the verb form, "reran" is the past tense.
+- 2026-10-08 10:25 — Use the present perfect "has completed" to report a finished action with current relevance, rather than just stating the past event.
