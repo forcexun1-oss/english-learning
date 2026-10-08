@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Review `text_for` in `rust/apps/device-mcp/src/tools.rs`. Fix all of these in one pass and add one commit, `fix(device-mcp): correct template wording`. Each item needs a unit test asserting the exact string.
 
 1. `media_set_volume` with a negative delta currently says "音量已增加 -10". Use `delta > 0` → `音量已调高{n}`, `delta < 0` → `音量已调低{abs}`, and `level` → `音量已调到{n}`.
@@ -14,6 +15,9 @@ Review `text_for` in `rust/apps/device-mcp/src/tools.rs`. Fix all of these in on
 6. Check `media_name` for every action. `next` must read naturally as `已切到下一首`, and `previous` as `已切到上一首`. "已下一首" is not acceptable.
 
 Keep everything else unchanged. No cargo fmt. Gates: `cargo test -p device-mcp` plus the middleware and npm gates as before. Paste the summary lines and `git log --oneline -3`.
+=======
+Go ahead and continue.
+>>>>>>> Stashed changes
 =======
 Go ahead and continue.
 >>>>>>> Stashed changes
