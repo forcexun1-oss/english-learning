@@ -18018,3 +18018,4 @@
 - 2026-10-08 10:01 — Use 'I found several defects' instead of 'found defects' for a more natural subject-verb structure.
 - 2026-10-08 10:17 — Use present perfect tense to describe a completed action with current relevance.
 - 2026-10-08 10:22 — Use present perfect ('has finished') to report a completed action relevant to the current situation.
+- 2026-10-08 10:22 — Use "I independently re-ran it" instead of "Independently re-run" when describing what you did; "re-run" is the verb form, "reran" is the past tense.
