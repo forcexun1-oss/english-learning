@@ -18244,3 +18244,4 @@
 =======
 - 2026-10-08 15:00 — Use 'can't' instead of 'cannot' for a more natural, concise tone in developer communication.
 >>>>>>> Stashed changes
+- 2026-10-08 15:02 — Use 'a lot' instead of '很多' when describing quantity or degree; 'many' is for countable nouns.
