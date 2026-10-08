@@ -18025,3 +18025,4 @@
 - 2026-10-08 10:33 — Use "What does ... mean?" instead of "...是个什么名字" — 'mean' is more natural for asking about a name's origin or meaning.
 - 2026-10-08 10:34 — "排进去" here means to put something into a queue/schedule, so "queue it up" is more natural than a literal translation like "arrange it in."
 - 2026-10-08 10:37 — Use "isn't intuitive" instead of "不直观" directly; it's the natural English way to say something is hard to understand at a glance.
+- 2026-10-08 10:53 — Use the past tense 'finished' to report a completed background task.
