@@ -18368,3 +18368,4 @@
 - 2026-10-08 16:43 — Use 'estimate' instead of '预计' in questions; 'the whole run' is more natural than '整个跑完'.
 - 2026-10-08 16:51 — Use 'hitting' or 'reaching' instead of 'reaching after' for natural phrasing; 'maximum' is more idiomatic than 'longest' here.
 - 2026-10-08 16:55 — Use "How long..." for duration questions; "多久" maps to "how long" rather than "when".
+- 2026-10-08 16:56 — Use 'I've already reverted' instead of 'I have already reverted' for a more natural contraction in casual technical writing.
