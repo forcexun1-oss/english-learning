@@ -18471,3 +18471,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-08 21:09 — Use 'Are... all set?' to ask if something is finished or ready.
