@@ -18028,3 +18028,4 @@
 - 2026-10-08 10:53 — Use the past tense 'finished' to report a completed background task.
 - 2026-10-08 10:53 — Use 'prefixing' instead of 'prefixed by' for a more natural gerund phrase after 'Continue ... from Step 1'.
 - 2026-10-08 10:55 — Use 'only' instead of 'spend only' for a more natural imperative; 'or' is fine, but 'or' is correct here.
+- 2026-10-08 11:03 — Use 'how much impact' (uncountable) instead of 'how big is the influence' — 'impact' is more natural for technical contexts.
