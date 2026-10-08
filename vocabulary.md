@@ -18375,3 +18375,4 @@
 - 2026-10-08 17:02 — Use "How is ... designed" instead of "是怎么设计的" in English; "his" is fine for referring to a person's code, and "or" pairs with "is it" for the alternative question.
 - 2026-10-08 17:08 — Use 'spend only what the check needs' → 'spend only what the task requires' for a more natural phrasing.
 - 2026-10-08 17:30 — Use 'in parallel' instead of '并行' directly; '干完' translates to 'finished' or 'done' in this context.
+- 2026-10-08 17:33 — The message is already in English, so no changes were needed. Keep technical terms and commands as-is.
