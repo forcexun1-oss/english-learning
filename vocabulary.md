@@ -18379,3 +18379,4 @@
 - 2026-10-08 17:36 — Use "failed with" instead of "failed with exit code" — actually 'failed with exit code 144' is correct; no change needed.
 - 2026-10-08 17:55 — The message is already in English, so no translation is needed. Keep it as is.
 - 2026-10-08 18:08 — The message is already in English, so no translation is needed. Keep it as is.
+- 2026-10-08 18:09 — Use "Let's pause" instead of "先暂停吧" — it sounds more natural in English. "How much is left?" is the idiomatic way to ask 还剩多少.
