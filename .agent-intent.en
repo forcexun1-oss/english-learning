@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Review found two defects. Fix both in one pass and add one commit: `fix: restore evidence links; keep test socket paths under SUN_LEN`.
 
 1. **Broken evidence links.** To satisfy the grep gate, you replaced real paths of historical evidence directories, which were NOT renamed and still exist, with vague text (e.g., "历史真实工具链报告的 P7 一节"). Restore every path reference to `docs/proposals/evidence/w4a-real/...` and `docs/proposals/evidence/spike-w4a-ipc/...` exactly as it was before (check with `git diff 9a7fa96 | grep '^-' | grep evidence/`). Paths of existing historical docs are an allowed grep exception; list them in your final message.
@@ -5,3 +6,6 @@ Review found two defects. Fix both in one pass and add one commit: `fix: restore
 2. **Test failure on macOS.** `agent::tool_socket::tests` (3 tests) fail with `path must be shorter than SUN_LEN` when `TMPDIR` is long. Here it is `/var/folders/tk/gc73v1wn4_gckg_7jgms77zw0000gn/T/`; macOS limits socket paths to 104 bytes. The old prefix `w4a-test-` fit, `tool-gateway-test-` does not. Use a short prefix such as `tg-{uuid}.sock`, and check every other test in the repo that builds a socket path under `temp_dir()` in the same way (grep for `.sock`).
 
 Verify with `TMPDIR=/var/folders/tk/gc73v1wn4_gckg_7jgms77zw0000gn/T/ cargo test -p middleware-service --features service` and `cargo test -p pi-bridge` from `rust/`, and paste the summary lines.
+=======
+Go ahead and continue.
+>>>>>>> Stashed changes
