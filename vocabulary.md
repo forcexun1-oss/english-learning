@@ -18339,6 +18339,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 16:08 — Use 'last modified time' or 'mtime' instead of 'modification time' for brevity; 'or' is fine for alternatives in lists.
 =======
 >>>>>>> Stashed changes
@@ -18355,5 +18356,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-08 16:31 — Use 'How many ... are left?' for remaining items, and 'Once this one is resolved' to connect the two ideas naturally.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
