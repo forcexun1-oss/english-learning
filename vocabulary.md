@@ -18401,6 +18401,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
@@ -18477,3 +18478,6 @@
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
 - 2026-10-08 21:13 — Use 'in parallel' instead of '并行做' directly translated; 'do both' is more natural than 'two parallel do'.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes
