@@ -18023,3 +18023,4 @@
 - 2026-10-08 10:28 — Use 'don't' instead of 'do not' for a more natural, conversational developer tone.
 - 2026-10-08 10:31 — Use 'What kind of name is...' to ask about the nature or origin of a name, rather than a direct translation like 'w4a is what name'.
 - 2026-10-08 10:33 — Use "What does ... mean?" instead of "...是个什么名字" — 'mean' is more natural for asking about a name's origin or meaning.
+- 2026-10-08 10:34 — "排进去" here means to put something into a queue/schedule, so "queue it up" is more natural than a literal translation like "arrange it in."
