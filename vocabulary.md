@@ -18283,3 +18283,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 15:32 — Use 'which solution' instead of 'which plan' for technical options, and 'handle it' is more natural than 'go do it' in this context.
