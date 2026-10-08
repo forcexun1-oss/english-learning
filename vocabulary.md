@@ -18605,3 +18605,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 01:33 — Use 'hasn't changed' (present perfect) for a condition continuing up to now; 'has exited' for a completed action relevant to the present.
