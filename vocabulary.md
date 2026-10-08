@@ -18038,3 +18038,4 @@
 - 2026-10-08 11:35 — Use 'I just verified' instead of 'Verified ... just now' for a more natural flow; 'pre-create' is fine as a verb.
 - 2026-10-08 11:38 — Use the present perfect "has finished" to report a completed background task that is still relevant now.
 - 2026-10-08 11:39 — Use 'don't' instead of 'do not' for a more natural, conversational developer tone.
+- 2026-10-08 11:44 — Use 'switch models' instead of '换模型' directly translated, and 'how much impact' is more natural than '影响有多大' word-for-word.
