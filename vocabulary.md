@@ -18632,3 +18632,4 @@
 >>>>>>> Stashed changes
 - 2026-10-09 02:47 — Use 'did you stop' (past tense) instead of 'why stop' to ask about a completed action.
 - 2026-10-09 02:48 — Use 'haven't been done' (present perfect passive) to describe tasks not yet completed.
+- 2026-10-09 02:49 — Use 'summarising' (British spelling) or 'summarizing' (American) consistently; both are fine, but pick one. Also, 'over the 20 NL fixture utterances plus 10 extras' is correct — 'over' here means 'across'.
