@@ -18033,3 +18033,4 @@
 - 2026-10-08 11:15 — Use the past tense 'finished' to describe a completed action, and 'after resuming with' to show the cause.
 - 2026-10-08 11:19 — Use 'how much impact' instead of '影响有多大' translated literally. 'Switching models' is more natural than 'changing models' in this context.
 - 2026-10-08 11:25 — Use past tense for completed actions.
+- 2026-10-08 11:26 — Use 'don't' instead of 'do not' for a more natural, conversational developer tone.
