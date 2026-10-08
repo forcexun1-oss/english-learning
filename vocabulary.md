@@ -18110,3 +18110,4 @@
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
+- 2026-10-08 13:21 — Use 'progressively disclosed' instead of '渐进式披露' directly translated; 'disclosed' is more natural for UI/UX contexts.
