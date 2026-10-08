@@ -1,23 +1,6 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Review `text_for` in `rust/apps/device-mcp/src/tools.rs`. Fix all of these in one pass and add one commit, `fix(device-mcp): correct template wording`. Each item needs a unit test asserting the exact string.
-
-1. `media_set_volume` with a negative delta currently says "音量已增加 -10". Use `delta > 0` → `音量已调高{n}`, `delta < 0` → `音量已调低{abs}`, and `level` → `音量已调到{n}`.
-2. `window_set`:
-   - `open_percent == 0` → `{窗}已关闭`;
-   - `100` → `{窗}已全部打开`;
-   - `50` → `{窗}已打开一半`;
-   - otherwise `{窗}已打开百分之{n}`.
-   The `%` sign must go: the output is spoken by Chinese TTS. Also check `window_name("sunroof")`: it must give `天窗`, not `天窗车窗`. Today the template is `{}车窗已打开`, so make the noun come from `window_name` alone.
-3. `light_set_ambient` ignores `color` and `brightness`. "把氛围灯调成蓝色" must say `氛围灯已调成蓝色`; with brightness add `，亮度{n}`; on/off without a color stays as today. Map colours to Chinese the same way the other `*_name` helpers do.
-4. `phone_call` uses `.unwrap()` on contact/number. Never panic in the backend: fall back to `正在拨号`.
-5. Remove the spaces between Chinese and numbers (`温度已设为 22 度` → `温度已设为22度`, `风量已调到3档`, …), for consistency with the spec examples.
-6. Check `media_name` for every action. `next` must read naturally as `已切到下一首`, and `previous` as `已切到上一首`. "已下一首" is not acceptable.
-
-Keep everything else unchanged. No cargo fmt. Gates: `cargo test -p device-mcp` plus the middleware and npm gates as before. Paste the summary lines and `git log --oneline -3`.
-=======
-Go ahead and continue.
->>>>>>> Stashed changes
-=======
-Go ahead and continue.
->>>>>>> Stashed changes
+[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
+1. `ps aux | grep "codex exec" | grep -v grep` — list the PIDs that are still running (the current ones are 54231=H1 and 54232=M2; later rounds may add more).
+2. For each running log under /private/tmp/claude-501/-Users-youxun-project-edgeAgent/75eb25e3-2b5b-4345-a96c-49f81b09d71e/scratchpad/codex-*.log: check its mtime and print the last ~15 lines. A log that hasn't changed in more than 25 minutes, or that keeps repeating the same error, counts as stalled.
+3. `git -C <worktree> log --oneline -3` and `git status --short` for each worktree in use (../edgeAgent-h1, ../edgeAgent-m2).
+4. `adb devices` — is the board still connected? M2 may only read the board: if its log shows any write, push, restart, or stop on the board, report it right away.
+5. Reply to the user in one or two short Chinese sentences: each task's progress, plus any anomaly. When nothing is wrong, just say "正常运行中" plus each task's progress. When something is stalled or broken, say what it is and recommend what to do (do not kill a process yourself). Once every codex run has exited and nothing is left to watch, tell the user so and suggest deleting this watchdog.
