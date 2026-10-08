@@ -18541,3 +18541,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-08 23:08 — Use 'hasn't changed' (present perfect) for a state continuing up to now, not 'hasn't been changed' (passive) unless someone changed it.
