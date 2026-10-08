@@ -1,1 +1,1 @@
-How much context does the decision need right now?
+How is his cache_prompt designed now — is it a prefix tree, or does it require an exact match?
