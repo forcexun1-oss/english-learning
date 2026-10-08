@@ -18415,6 +18415,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
@@ -18543,3 +18544,6 @@
 >>>>>>> Stashed changes
 - 2026-10-08 23:08 — Use 'hasn't changed' (present perfect) for a state continuing up to now, not 'hasn't been changed' (passive) unless someone changed it.
 - 2026-10-08 23:09 — Use "set" instead of "调成" when translating the instruction; keep technical terms like `text_for` and `window_name` unchanged.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes
