@@ -18367,3 +18367,4 @@
 - 2026-10-08 16:36 — Use 'get' instead of 'print' when referring to extracting log output in a script context — 'print' is more for user-facing display.
 - 2026-10-08 16:43 — Use 'estimate' instead of '预计' in questions; 'the whole run' is more natural than '整个跑完'.
 - 2026-10-08 16:51 — Use 'hitting' or 'reaching' instead of 'reaching after' for natural phrasing; 'maximum' is more idiomatic than 'longest' here.
+- 2026-10-08 16:55 — Use "How long..." for duration questions; "多久" maps to "how long" rather than "when".
