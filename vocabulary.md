@@ -18062,3 +18062,4 @@
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
+- 2026-10-08 12:21 — Use 'warmed up' instead of '预热' in English; 'not at the second level' means 'not in the range of seconds'.
