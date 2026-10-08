@@ -18031,3 +18031,4 @@
 - 2026-10-08 11:03 — Use 'how much impact' (uncountable) instead of 'how big is the influence' — 'impact' is more natural for technical contexts.
 - 2026-10-08 11:08 — The message is already in English, so no translation is needed. The text is clear and well-structured.
 - 2026-10-08 11:15 — Use the past tense 'finished' to describe a completed action, and 'after resuming with' to show the cause.
+- 2026-10-08 11:19 — Use 'how much impact' instead of '影响有多大' translated literally. 'Switching models' is more natural than 'changing models' in this context.
