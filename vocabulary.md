@@ -18706,3 +18706,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 06:33 — Use 'list' instead of 'print' for command output; 'print' is more for code. Also, 'has exited' (present perfect) fits the completed action context.
