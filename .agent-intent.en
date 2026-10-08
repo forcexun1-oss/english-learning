@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The 24-minute watchdog for formal-graphiti-4 has completed.
-=======
-The MCP call steps look quite numerous.
->>>>>>> Stashed changes
+This doesn't need cache_prompt, right?

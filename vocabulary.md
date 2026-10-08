@@ -18274,3 +18274,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 15:27 — Use 'doesn't need' instead of '不需要' directly; 'need' is a verb, so no 'to' is required before the noun.
