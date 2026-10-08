@@ -1,1 +1,4 @@
-The background command "Wait for rounds 52-54" has completed (exit code 0).
+Review of 09fce38/4b0941b: logic accepted. Two fixes, one pass, amend:
+1. Real board text is ` thinking\n\n response\n\n thinking\n\n response\n\n文件已成功写入…` (scratch/r48-20261008/cases-redo/r48-s2.raw). After your filter the client text starts with "\n\n\n\n". Drop whitespace that immediately follows a removed think block, and leading whitespace at the start of the turn's visible text (stream: do not emit whitespace-only deltas before the first non-whitespace visible char). Add the exact board string as a test case (expected "文件已成功写入…", no leading newlines), for both stream and non-stream.
+2. The new code is compressed into very long single lines. Format ONLY the lines you added in normal rustfmt style (multi-line struct, methods, loops, test tables one case per line) — still do not reformat pre-existing code. Verify with `git diff 2e9be65 -- rust/crates/middleware-service/src/agent/handler.rs` that only your lines changed.
+Rerun the gates and paste raw `test result:` lines. Do not end your turn before reporting.
