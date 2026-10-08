@@ -18304,3 +18304,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 15:55 — Use 'list' instead of 'print' for command output in technical instructions; 'print' is more for code, 'list' is clearer for logs.
