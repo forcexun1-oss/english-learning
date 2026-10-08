@@ -18249,3 +18249,4 @@
 =======
 - 2026-10-08 15:00 — Use 'can't' instead of 'cannot' for a more natural, concise tone in developer communication.
 >>>>>>> Stashed changes
+- 2026-10-08 15:08 — Use 'prefill' as a noun (e.g., 'prefill is fast') rather than 'prefill的时候'. Also, '缩短链路' translates naturally to 'shorten the pipeline'.
