@@ -18116,3 +18116,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 13:24 — No changes needed — this is already natural and idiomatic.
+- 2026-10-08 13:24 — Use 'don't' instead of 'do not' for a more natural, direct tone in developer instructions.
