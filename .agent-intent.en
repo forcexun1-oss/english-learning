@@ -1,10 +1,1 @@
-<<<<<<< Updated upstream
-One more issue in 8513f48: `start_driving` still calls `state.tool_executor.begin_turn(&turn.turn_id)` BEFORE waiting for promotion. For a queued turn B, this runs while turn A is active: `ToolOutcomeBroker::begin_turn` sets active_turn to B and clears the holding area, discarding any early-published socket result that belongs to A (A then waits the full 10 s deadline). Move `begin_turn` to after the receiver is obtained and the Starting transition succeeds (i.e. right before the Prompt is sent). Add a test: A is active with a held (published-before-wait) socket outcome; B is submitted and queued; A's wait_for still gets its outcome immediately. Amend, rerun the same gates, and paste the raw `test result:` lines.
-=======
-[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
-1. `ps aux | grep "codex exec" | grep -v grep` — list the PIDs that are still running (the current ones are 54231=H1 and 54232=M2; later rounds may add more).
-2. For each running log under /private/tmp/claude-501/-Users-youxun-project-edgeAgent/75eb25e3-2b5b-4345-a96c-49f81b09d71e/scratchpad/codex-*.log: check its mtime and print the last ~15 lines. A log that hasn't changed in more than 25 minutes, or that keeps repeating the same error, counts as stalled.
-3. `git -C <worktree> log --oneline -3` and `git status --short` for each worktree in use (../edgeAgent-h1, ../edgeAgent-m2).
-4. `adb devices` — is the board still connected? M2 may only read the board: if its log shows any write, push, restart or stop on the board, report it right away.
-5. Reply to the user in one or two short Chinese sentences: each task's progress, plus any anomaly. When nothing is wrong, just say "正常运行中" plus each task's progress. When something is stalled or broken, say what it is and recommend what to do (do not kill a process yourself). Once every codex run has exited and nothing is left to watch, tell the user so and suggest deleting this watchdog.
->>>>>>> Stashed changes
+The 24-minute watchdog for formal-graphiti-4 has completed.
