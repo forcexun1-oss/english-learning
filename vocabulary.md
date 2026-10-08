@@ -18199,3 +18199,4 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 14:31 — '多半不行' can be translated as 'mostly not up to par' or 'probably not good enough' — 'up to par' is a natural idiom for meeting expectations.
+- 2026-10-08 14:32 — Use 'for now' instead of 'for the time being' to sound more natural in casual developer communication.
