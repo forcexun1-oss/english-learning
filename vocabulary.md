@@ -18198,3 +18198,4 @@
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
+- 2026-10-08 14:31 — '多半不行' can be translated as 'mostly not up to par' or 'probably not good enough' — 'up to par' is a natural idiom for meeting expectations.
