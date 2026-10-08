@@ -18333,6 +18333,9 @@
 - 2026-10-08 16:07 — Use 'Fix' as a direct command instead of '修掉' translated literally. '修掉' means 'fix away', but in English we just say 'fix'.
 - 2026-10-08 16:07 — 'Climate' is correct for '气候'. If you meant 'weather' (天气), that's a different word. Use 'climate' for long-term patterns and 'weather' for daily conditions.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 16:08 — Use 'last modified time' or 'mtime' instead of 'modification time' for brevity; 'or' is fine for alternatives in lists.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
