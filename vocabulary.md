@@ -18259,6 +18259,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 15:08 — Use 'prefill' as a noun (e.g., 'prefill is fast') rather than 'prefill的时候'. Also, '缩短链路' translates naturally to 'shorten the pipeline'.
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
@@ -18305,3 +18306,6 @@
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
 - 2026-10-08 15:55 — Use 'list' instead of 'print' for command output in technical instructions; 'print' is more for code, 'list' is clearer for logs.
+=======
+- 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
+>>>>>>> Stashed changes
