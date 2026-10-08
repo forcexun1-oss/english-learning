@@ -18320,3 +18320,4 @@
 =======
 - 2026-10-08 15:08 — Use "quite" or "pretty" before an adjective to soften it, e.g., 'quite numerous' instead of 'very many'.
 >>>>>>> Stashed changes
+- 2026-10-08 16:03 — Use 'pinpoint' instead of 'locate' for debugging; 'reproduce' is more natural than 'test out' in this context.
