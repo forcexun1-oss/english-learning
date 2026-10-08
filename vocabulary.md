@@ -18040,3 +18040,4 @@
 - 2026-10-08 11:39 — Use 'don't' instead of 'do not' for a more natural, conversational developer tone.
 - 2026-10-08 11:44 — Use 'switch models' instead of '换模型' directly translated, and 'how much impact' is more natural than '影响有多大' word-for-word.
 - 2026-10-08 11:55 — The original text is already in English and correct. No changes needed.
+- 2026-10-08 12:08 — Use 'finished' or 'completed' instead of 'completed' twice in a row — 'completed' is fine but 'finished' adds variety.
