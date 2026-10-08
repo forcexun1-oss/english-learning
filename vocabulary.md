@@ -18239,4 +18239,8 @@
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
 - 2026-10-08 14:59 — Use present perfect 'has completed' to describe a finished action relevant to the current moment.
+<<<<<<< Updated upstream
 - 2026-10-08 15:00 — Use 'issue' instead of 'logic accepted' to sound more natural; 'logic issue' is clearer.
+=======
+- 2026-10-08 15:00 — Use 'can't' instead of 'cannot' for a more natural, concise tone in developer communication.
+>>>>>>> Stashed changes
