@@ -18269,3 +18269,4 @@
 >>>>>>> Stashed changes
 - 2026-10-08 15:20 — Use 'Are you up?' to ask if someone is awake or out of bed.
 - 2026-10-08 15:20 — Use past tense 'failed' to describe the completed action, and 'with' to specify the exit code.
+- 2026-10-08 15:21 — Use present perfect ('has completed') to describe a recently finished action with current relevance.
