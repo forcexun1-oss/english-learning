@@ -18209,3 +18209,4 @@
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
+- 2026-10-08 14:34 — Use 'list' instead of 'print' for command output in this context; 'print' is more for code, 'list' is clearer for showing results.
