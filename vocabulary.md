@@ -18084,3 +18084,4 @@
 =======
 - 2026-10-08 12:08 — The text is already in English, so no translation is needed. Just keep it as-is.
 >>>>>>> Stashed changes
+- 2026-10-08 13:06 — Use 'flash to the board' instead of '上板' in a hardware context, and 'address' is a natural verb for handling issues later.
