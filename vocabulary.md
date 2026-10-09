@@ -19275,8 +19275,12 @@
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 19:07 — "先" can be translated as "for now" to soften the request, and "暂停" is naturally expressed as "pause" in English.
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:08 — Use 'device' instead of 'board' for adb, and 'completed' instead of 'exited' for a process finishing naturally.
+=======
+- 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
+>>>>>>> Stashed changes
