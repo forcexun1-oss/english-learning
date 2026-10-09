@@ -19250,3 +19250,4 @@
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
+- 2026-10-09 18:58 — Use 'How long will it take?' for asking duration, and 'take a while' is a natural way to say '久的话'.
