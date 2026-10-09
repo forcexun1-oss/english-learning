@@ -1,8 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Currently, you put the decide result into the prompt, which will likely affect the cache. Let's add a comparison: put decide at the end instead.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -15,6 +18,9 @@ Currently, you put the decide result into the prompt, which will likely affect t
 5. Reply to the user in one or two short Chinese sentences: each task's progress, plus any anomaly. When nothing is wrong, just say "正常运行中" plus each task's progress. When something is stalled or broken, say what it is and recommend what to do (do not kill a process yourself). Once every codex run has exited and nothing is left to watch, tell the user so and suggest deleting this watchdog.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
