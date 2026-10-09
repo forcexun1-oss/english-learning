@@ -19417,3 +19417,4 @@
 - 2026-10-10 00:37 — Use "failed with" instead of "failed by" when stating the exit code.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 00:48 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0, which is more idiomatic in developer communication.
