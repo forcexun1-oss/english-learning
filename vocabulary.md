@@ -18877,3 +18877,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 10:28 — Use 'can't be switched' (passive voice) for the model, and 'what then' to ask about the consequence.
