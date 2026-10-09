@@ -19178,3 +19178,4 @@
 - 2026-10-09 17:25 — Use 'completed successfully' instead of just 'completed' to indicate a clean exit.
 - 2026-10-09 17:26 — Use 'some kind of' instead of '一种' to sound more natural in questions; 'a kind of' is also fine but less common here.
 - 2026-10-09 17:28 — Use 'Check if' instead of '看看...吗' for a direct question; 'current board' is clearer than '板子' in English.
+- 2026-10-09 17:32 — Use 'is it better to' for comparisons, and 'how much latency' (uncountable) instead of 'how long delay'.

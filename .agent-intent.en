@@ -1,1 +1,1 @@
-Check if the current board has this.
+Should I add a separate interface, or is it better to just do this in the frame extraction interface? And with GPU, how much latency would there be?
