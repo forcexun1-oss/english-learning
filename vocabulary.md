@@ -19277,6 +19277,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 19:07 — "先" can be translated as "for now" to soften the request, and "暂停" is naturally expressed as "pause" in English.
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
@@ -19290,3 +19291,6 @@
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:10 — Use 'shut down' or 'turn off' instead of '关' for devices; 'close' is for windows or files.
+=======
+- 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
+>>>>>>> Stashed changes
