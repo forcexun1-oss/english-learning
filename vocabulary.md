@@ -18932,3 +18932,4 @@
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
 - 2026-10-09 11:33 — Use 'may only read' (not 'may only reads') — after modal verbs like 'may', use the base form of the verb.
+- 2026-10-09 11:36 — Use 'at' instead of 'in' when referring to a specific file path.
