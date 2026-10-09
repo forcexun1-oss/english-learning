@@ -18999,3 +18999,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 13:10 — '放到最后面' translates naturally as 'placed at the very end' — 'very' adds emphasis for '最后面'.
