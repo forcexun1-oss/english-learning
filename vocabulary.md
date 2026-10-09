@@ -19299,3 +19299,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:13 — Use 'Does' for third-person singular questions in present tense.
