@@ -19069,3 +19069,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 14:24 — Use 'What's the difference between A and B' for comparing two things. '评判' here means 'judging/evaluating', so 'judging the contract' works.
