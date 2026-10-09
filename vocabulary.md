@@ -19281,6 +19281,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 19:07 — "先" can be translated as "for now" to soften the request, and "暂停" is naturally expressed as "pause" in English.
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
@@ -19310,3 +19311,6 @@
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:14 — Use 'You've got it backwards' for '你说反了' — it's a common idiom. Also, '正常我关了' implies a condition, so use 'If it is, I'll...'.
+=======
+- 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
+>>>>>>> Stashed changes
