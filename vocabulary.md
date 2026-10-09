@@ -19319,3 +19319,4 @@
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:16 — Use 'Is...?' for yes/no questions in English, not just adding a question mark.
+- 2026-10-09 19:17 — Use 'shutting down' instead of '关机了' directly translated; 'shut down' is the phrasal verb for turning off a computer.
