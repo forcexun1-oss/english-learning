@@ -18822,6 +18822,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 09:08 — Use 'both' instead of '2个' when referring to two specific items, and 'compressed to' for the target context size.
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
@@ -18981,3 +18982,6 @@
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
 - 2026-10-09 12:55 — Use 'list for' instead of 'print' when referring to showing log lines; 'print' is more for code output, while 'list' fits a command's action.
+=======
+- 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
+>>>>>>> Stashed changes
