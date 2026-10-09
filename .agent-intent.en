@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background command "Watchdog: 25-minute check on Hermes" completed successfully (exit code 0).
-=======
-Continue.
->>>>>>> Stashed changes
+The background command "Wait for hermes-3 probe result" has completed (exit code 0).
