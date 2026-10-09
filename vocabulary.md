@@ -18837,6 +18837,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 09:08 — Use 'both' instead of '2个' when referring to two specific items, and 'compressed to' for the target context size.
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
@@ -19050,3 +19051,6 @@
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
 - 2026-10-09 14:08 — Use 'hasn't changed' (present perfect) for a condition continuing up to now, and 'counts as' for classification. Keep the imperative tone consistent.
+=======
+- 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
+>>>>>>> Stashed changes
