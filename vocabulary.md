@@ -18776,3 +18776,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 09:04 — Use 'occur' instead of '不命中吗' directly; 'miss' is a noun here, so 'cache misses' is more natural than '不命中'.
