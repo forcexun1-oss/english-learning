@@ -18454,6 +18454,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-08 19:00 — Use "Continue" as a single-word command to resume work.
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
@@ -18737,3 +18738,6 @@
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
 - 2026-10-09 08:21 — Use 'powered off' instead of '断电' directly; '断电' translates to 'power off' in English.
+=======
+- 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
+>>>>>>> Stashed changes
