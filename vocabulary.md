@@ -19163,6 +19163,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 16:33 — Use "Continue" as a standalone command to resume work — it's the natural imperative form.
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
@@ -19246,3 +19247,6 @@
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
 - 2026-10-09 18:55 — Use 'hasn't changed' (present perfect) for a condition continuing up to now, and 'counts as' for classification. Also, 'log' as a verb is fine, but 'print' is more natural for output.
+=======
+- 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
+>>>>>>> Stashed changes
