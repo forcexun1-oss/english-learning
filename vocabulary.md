@@ -19304,3 +19304,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:13 — Use "turn off" instead of "关" for devices; "press" is the verb for buttons.
