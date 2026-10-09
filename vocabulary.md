@@ -19264,3 +19264,4 @@
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
+- 2026-10-09 19:00 — '上到板子上' means 'flashed to the board' in embedded development context. Use 'hasn't been flashed' for the passive voice.
