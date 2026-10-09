@@ -19174,3 +19174,4 @@
 - 2026-10-09 17:09 — Use 'what's the latency' instead of '延时多少' — 'latency' is the technical term for delay in this context.
 - 2026-10-09 17:12 — Use 'undistort' as a verb for correcting lens distortion; '恢复' here means to restore the image geometry.
 - 2026-10-09 17:24 — Use 'handle' instead of 'process' for a more natural, conversational tone in technical contexts.
+- 2026-10-09 17:24 — Use 'handle' instead of 'process' for a more natural verb choice here.
