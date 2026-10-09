@@ -19318,3 +19318,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:16 — Use 'Is...?' for yes/no questions in English, not just adding a question mark.
