@@ -18793,6 +18793,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 09:08 — Use 'both' instead of '2个' when referring to two specific items, and 'compressed to' for the target context size.
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
@@ -18839,3 +18840,6 @@
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
 - 2026-10-09 09:55 — Use 'last' instead of 'latest' for the most recent lines of a file; 'latest' implies the newest version overall.
+=======
+- 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
+>>>>>>> Stashed changes
