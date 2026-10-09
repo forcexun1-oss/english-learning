@@ -19289,3 +19289,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:10 — Use 'shut down' or 'turn off' instead of '关' for devices; 'close' is for windows or files.
