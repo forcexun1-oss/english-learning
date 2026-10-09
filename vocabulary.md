@@ -18790,3 +18790,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 09:11 — Use 'only needs to' instead of '只用...就可以了把' to express necessity more naturally.
