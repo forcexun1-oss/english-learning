@@ -18800,3 +18800,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 09:16 — Use 'so both can take effect' instead of '使2个都生效' — 'make' + object + verb is clearer in English.
