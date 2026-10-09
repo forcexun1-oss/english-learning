@@ -19124,3 +19124,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 16:16 — Use "or" instead of "or" when listing alternatives in a condition (e.g., 'hasn't changed... or that keeps repeating').
