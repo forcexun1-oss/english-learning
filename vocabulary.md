@@ -19172,3 +19172,4 @@
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
 - 2026-10-09 17:09 — Use 'what's the latency' instead of '延时多少' — 'latency' is the technical term for delay in this context.
+- 2026-10-09 17:12 — Use 'undistort' as a verb for correcting lens distortion; '恢复' here means to restore the image geometry.
