@@ -19279,3 +19279,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:08 — Use 'device' instead of 'board' for adb, and 'completed' instead of 'exited' for a process finishing naturally.
