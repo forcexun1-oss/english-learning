@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Execute the handoff spec in docs/proposals/handoffs/handoff-90.md exactly, end to end, in this single run. Read it fully first. Don't write a plan document, and don't stop to ask for approval. No adb.
-=======
-Have you deleted all the related solutions? Also, the external hard drive is connected now.
->>>>>>> Stashed changes
+Let's assess this first. The users of this feature are actually 100k+ gasoline cars. Let's figure out which features will actually be used, and not blindly expand scope for now.
