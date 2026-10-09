@@ -19294,3 +19294,4 @@
 =======
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
+- 2026-10-09 19:11 — Use 'Can I' for permission, and add 'it' to specify what you're closing.
