@@ -18795,3 +18795,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 09:13 — Use 'doesn't' instead of '没有' in negative statements, and 'right?' for confirmation questions.
