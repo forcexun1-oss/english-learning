@@ -19365,3 +19365,4 @@
 - 2026-10-09 21:08 — The original is already in English, so no changes were needed. Keep up the good work!
 =======
 >>>>>>> Stashed changes
+- 2026-10-09 21:10 — Use 'flashing to the board' or 'deploying to the board' instead of '上板' — it's a hardware-specific phrase, so pick the verb that matches your workflow.
