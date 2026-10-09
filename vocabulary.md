@@ -19393,3 +19393,4 @@
 - 2026-10-09 22:08 — Use the present perfect 'has completed' to describe a recently finished action with current relevance.
 =======
 >>>>>>> Stashed changes
+- 2026-10-09 22:35 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
