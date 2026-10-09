@@ -18760,3 +18760,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 08:59 — Use 'the extra model call' instead of '多一次模型调用' — 'extra' is more natural than 'one more time' in this context.
