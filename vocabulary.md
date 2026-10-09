@@ -19357,6 +19357,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 20:08 — Use 'list' instead of 'print' for command output; 'print' is for code, 'list' is for showing items.
 - 2026-10-09 20:08 — Use "exited with" instead of "completed with" when describing a process exit code.
 =======
@@ -19414,3 +19415,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-10 00:37 — Use "failed with" instead of "failed by" when stating the exit code.
+=======
+>>>>>>> Stashed changes
