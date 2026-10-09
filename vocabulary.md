@@ -18897,3 +18897,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 10:42 — 'decide' isn't needed here; 'go with' is a natural way to say you're choosing something.
