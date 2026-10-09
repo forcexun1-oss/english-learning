@@ -19357,3 +19357,4 @@
 - 2026-10-09 20:55 — The text is already in English, so no changes were needed. Keep technical terms like 'codex exec' and 'adb devices' as-is.
 =======
 >>>>>>> Stashed changes
+- 2026-10-09 20:59 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
