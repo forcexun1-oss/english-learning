@@ -18806,6 +18806,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 09:08 — Use 'both' instead of '2个' when referring to two specific items, and 'compressed to' for the target context size.
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
@@ -18904,3 +18905,6 @@
 >>>>>>> Stashed changes
 - 2026-10-09 10:55 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' is clearer for shell output.
 - 2026-10-09 10:57 — Use 'at' instead of 'in' when referring to a specific file path.
+=======
+- 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
+>>>>>>> Stashed changes
