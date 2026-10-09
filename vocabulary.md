@@ -19146,6 +19146,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 16:33 — Use "Continue" as a standalone command to resume work — it's the natural imperative form.
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
@@ -19157,3 +19158,6 @@
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
 - 2026-10-09 16:55 — The message is already in English, so no translation is needed. Just keep it as is.
+=======
+- 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
+>>>>>>> Stashed changes
