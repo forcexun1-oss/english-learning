@@ -19221,3 +19221,4 @@
 - 2026-10-09 18:29 — Use 'assess' instead of 'evaluate' for a quick review, and 'expand scope' is more natural than '扩大' in a tech context.
 - 2026-10-09 18:31 — '评估一下' can be translated as 'evaluate first' or 'assess first' — adding 'first' makes the sequencing clearer in English.
 - 2026-10-09 18:32 — Use 'there aren't many' instead of '都不多' to express 'not many' in English.
+- 2026-10-09 18:33 — Use 'get' instead of 'print' for log lines in a command context; 'print' is fine but 'get' is more natural here.
