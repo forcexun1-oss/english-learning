@@ -19369,3 +19369,4 @@
 - 2026-10-09 21:10 — Use 'flashing to the board' or 'deploying to the board' instead of '上板' — it's a hardware-specific phrase, so pick the verb that matches your workflow.
 =======
 >>>>>>> Stashed changes
+- 2026-10-09 21:11 — "周期检查" = "periodic checks"; "先...吧" softens the request, so "for now" works well.
