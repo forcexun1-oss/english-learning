@@ -19213,3 +19213,4 @@
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
 - 2026-10-09 18:20 — Use 'in parallel' instead of '并行做' directly; 'do something in parallel' is the natural phrase.
+- 2026-10-09 18:21 — Use 'Don't' instead of 'Do not' for a more natural, conversational developer tone.
