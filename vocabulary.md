@@ -18741,3 +18741,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 08:55 — Use 'What's the status?' instead of '现在什么情况' for a more natural, professional tone. Also, 'why aren't we continuing?' is more idiomatic than 'why not continue?'.
