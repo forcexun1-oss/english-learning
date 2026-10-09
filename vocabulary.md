@@ -19329,3 +19329,4 @@
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:37 — Use 'Let's' to make a suggestion sound natural and collaborative.
+- 2026-10-09 19:37 — Use 'Please continue' instead of just 'continue' to sound more polite and natural in English.
