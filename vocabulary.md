@@ -19064,3 +19064,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 14:16 — Use "why did you stop" instead of "why stop" for a natural past-tense question.
