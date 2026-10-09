@@ -19339,3 +19339,4 @@
 - 2026-10-09 19:07 — Use 'Are you done yet?' for a casual, natural way to ask if something is finished.
 >>>>>>> Stashed changes
 - 2026-10-09 19:37 — Use "Continue." as a complete sentence — it's a natural, concise way to tell the assistant to keep going.
+- 2026-10-09 20:08 — Use 'list' instead of 'print' for command output; 'print' is for code, 'list' is for showing items.
