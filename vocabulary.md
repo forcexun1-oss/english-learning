@@ -18862,3 +18862,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 10:24 — Use 'running' (present participle) after 'is' to describe an ongoing action.
