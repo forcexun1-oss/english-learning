@@ -18962,3 +18962,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 12:08 — Use 'or' before the last item in a list (e.g., 'write, push, restart, or stop') for clarity.
