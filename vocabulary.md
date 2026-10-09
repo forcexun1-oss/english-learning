@@ -19340,3 +19340,4 @@
 >>>>>>> Stashed changes
 - 2026-10-09 19:37 — Use "Continue." as a complete sentence — it's a natural, concise way to tell the assistant to keep going.
 - 2026-10-09 20:08 — Use 'list' instead of 'print' for command output; 'print' is for code, 'list' is for showing items.
+- 2026-10-09 20:08 — Use "exited with" instead of "completed with" when describing a process exit code.
