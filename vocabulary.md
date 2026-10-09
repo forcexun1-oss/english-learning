@@ -18882,3 +18882,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 10:29 — Use 'no choice but to' instead of '只能选' for a more natural English expression.
