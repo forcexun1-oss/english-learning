@@ -18917,3 +18917,4 @@
 =======
 - 2026-10-09 09:08 — Use 'list' instead of 'print' for command output; 'print' is more for code, 'list' fits a shell context.
 >>>>>>> Stashed changes
+- 2026-10-09 11:08 — "试了吗" is better as "Have you tried..." (present perfect) when asking about a past action relevant to now.
