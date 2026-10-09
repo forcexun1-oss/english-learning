@@ -18771,3 +18771,4 @@
 =======
 - 2026-10-08 18:59 — "继续吧" is casual; "Go ahead and continue" sounds natural for giving permission to proceed.
 >>>>>>> Stashed changes
+- 2026-10-09 09:04 — '按表' means 'according to the table' — use 'according to' or 'based on' for clarity.
