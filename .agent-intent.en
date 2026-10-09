@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Check on the codex dispatches. Keep it short; spend only what the check needs.
+=======
+[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
+>>>>>>> Stashed changes
 1. `ps aux | grep "codex exec" | grep -v grep` — list the PIDs that are still running (the current ones are 54231=H1 and 54232=M2; later rounds may add more).
 2. For each running log under /private/tmp/claude-501/-Users-youxun-project-edgeAgent/75eb25e3-2b5b-4345-a96c-49f81b09d71e/scratchpad/codex-*.log: check its mtime and print the last ~15 lines. A log that hasn't changed in more than 25 minutes, or that keeps repeating the same error, counts as stalled.
 3. `git -C <worktree> log --oneline -3` and `git status --short` for each worktree in use (../edgeAgent-h1, ../edgeAgent-m2).
