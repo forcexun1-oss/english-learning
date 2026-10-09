@@ -19160,6 +19160,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-09 16:33 — Use "Continue" as a standalone command to resume work — it's the natural imperative form.
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
@@ -19224,6 +19225,9 @@
 - 2026-10-09 18:31 — '评估一下' can be translated as 'evaluate first' or 'assess first' — adding 'first' makes the sequencing clearer in English.
 - 2026-10-09 18:32 — Use 'there aren't many' instead of '都不多' to express 'not many' in English.
 - 2026-10-09 18:33 — Use 'get' instead of 'print' for log lines in a command context; 'print' is fine but 'get' is more natural here.
+=======
+- 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
+>>>>>>> Stashed changes
 =======
 - 2026-10-09 16:33 — Use present perfect ('have you deleted') to ask about a completed action with current relevance, and 'is connected' for a current state.
 >>>>>>> Stashed changes
