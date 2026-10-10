@@ -19649,6 +19649,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 14:00 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
@@ -19677,3 +19678,6 @@
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
 - 2026-10-10 14:43 — Use 'handle it' instead of 'go do it' for a more natural, concise instruction.
+=======
+- 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
+>>>>>>> Stashed changes
