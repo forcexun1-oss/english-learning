@@ -19798,6 +19798,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19900,3 +19901,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 19:15 — Use the past tense 'finished' to report a completed action, and 'successfully' instead of 'completed' for a natural, concise status update.
 - 2026-10-10 19:16 — Use 'verify' instead of '核对' in technical contexts; it's more natural than 'check' when confirming hashes or values.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
