@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 The last run filled up the disk, causing codex to crash. The reason: you copied the entire rknn3-model-zoo/examples/Qwen3_5_VL/ directory into work-qwen3vl4b-r114/, and that directory contained 57 GB of old Qwen3.5 intermediate files. The reviewer has already deleted that copy, and there is now about 37 GB of free space.
 
 From now on, you must follow these rules:
@@ -6,3 +7,6 @@ From now on, you must follow these rules:
 3. Write intermediate files only under work-qwen3vl4b-r114/ or models-cache/.
 
 For the rest, continue from where the last run was interrupted per handoff-114: the toolkit and dependencies may already be partially installed, so first check whether `import rknn` succeeds. Do not write a plan, and do not stop to ask questions.
+=======
+Is it taking this long?
+>>>>>>> Stashed changes
