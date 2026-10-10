@@ -19722,4 +19722,8 @@
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
 - 2026-10-10 15:35 — Use "What's going on?" for '啥情况' in a casual context, and "task" or "job" for '工作' when referring to a coding task.
+<<<<<<< Updated upstream
 - 2026-10-10 15:36 — Use 'shouldn't be' instead of 'isn't' to express expectation vs. reality.
+=======
+- 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
+>>>>>>> Stashed changes
