@@ -19452,3 +19452,4 @@
 - 2026-10-10 08:52 — "继续" alone is fine as a short command; "Please continue" is a slightly more polite alternative.
 >>>>>>> Stashed changes
 - 2026-10-10 08:57 — Use 'run a test case' instead of '拿一道题测一下' for a more natural technical phrasing.
+- 2026-10-10 08:58 — Use 'exited with code' instead of 'failed with exit code' for a more natural phrasing.
