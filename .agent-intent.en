@@ -1,16 +1,1 @@
-Review comments, please fix them all at once:
-
-A. Your commit includes CLAUDE.md, which the handoff explicitly forbids. Use `git commit --amend` or open a new commit to restore it to the content at HEAD~1, so that CLAUDE.md does not appear in this branch's diff relative to 60d07d9.
-
-B. The root cause you found (waiting for Abort when the same session is interrupted) doesn't match the evidence on the board. Each request in the board's tests used a new session id (r112-cut-0.2-1, r112-recovery-0.2-1, etc.), so they don't go through the same-session interruption path. The real chain the reviewer derived is:
-   1. create_turn has no other await before submit (handler.rs:241);
-   2. After r110, the startup and session switching in submit run in independent tasks, so the turn is marked active;
-   3. But then sending the Prompt (start_driving), reading events, finish_turn, and r110's idle timeout are all handled by the HTTP request's future (run_non_stream/run_stream). If the client disconnects after submit returns or before start_driving, this future is dropped, and the Prompt is never sent;
-   4. So pi stays idle, active is never cleared, and nothing ends the turn. Health checks can detect it but won't recover.
-
-What to do:
-1. Write a failing test that reproduces the above: after submit succeeds, drop the request before run_non_stream and run_stream start, or during start_driving; assert that the next turn using a different session can start within N seconds. This test must fail on the current code.
-2. Fix: once a turn is accepted, guarantee it will be finalized. The recommended approach is to put the entire turn lifecycle (sending Prompt, reading events, finish_turn) into an independent tokio task, and the HTTP handler only subscribes to its output (SSE or final JSON); client disconnect triggers cancellation (you can reuse the existing ClientDisconnect cancellation path), and this task does the cleanup. Another approach is to attach a drop guard in the handler that calls scheduler.cancel(turn, ClientDisconnect) when the future is dropped. Choose the simpler and more reliable one, and explain why.
-3. r110's idle timeout must also be in this independent task, not relying on the HTTP future being alive.
-4. Keep the Abort test you added, and r110's tests.
-5. Gate: cd rust && cargo test -p pi-bridge && cargo test -p middleware-service --features service all pass, including the new tests; changed files have no clippy warnings. Keep the original endnote. Don't write a plan, don't stop to ask.
+Keep going, don't stop. Implement everything assigned to you, and only pause if there's something you need me to confirm.
