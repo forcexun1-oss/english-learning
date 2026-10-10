@@ -19736,3 +19736,4 @@
 =======
 - 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
 >>>>>>> Stashed changes
+- 2026-10-10 15:38 — Use 'shouldn't there be' for a rhetorical question expecting agreement, and 'merge conflicts' is the standard term for 合并冲突.
