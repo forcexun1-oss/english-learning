@@ -19937,3 +19937,4 @@
 =======
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
+- 2026-10-10 21:45 — Use 'hand off' (verb) or 'handoff' (noun) for transferring work; 'the whole project' is more natural than 'the entire' in casual dev talk.
