@@ -19527,3 +19527,4 @@
 =======
 - 2026-10-10 11:03 — Use 'incoming request' instead of 'new request' for clarity, and 'same' instead of 'that boundary' to avoid repetition.
 >>>>>>> Stashed changes
+- 2026-10-10 11:05 — Use 'What does ... look like?' instead of '是什么样的' for asking about how something works or appears.
