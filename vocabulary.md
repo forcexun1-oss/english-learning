@@ -19827,3 +19827,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 16:59 — "别让他自己发挥了" is naturally rendered as "don't let it improvise on its own" — "improvise" captures the sense of acting without a fixed plan.
 - 2026-10-10 17:02 — Use 'strip out' or 'extract' instead of '剔出来' — 'strip out' is more natural for removing a subset of code changes.
+- 2026-10-10 17:08 — "派任务" translates to "delegate tasks"; "你直接subagent更好吧" is more natural as "just using a subagent directly would be better" with a suggestion tone.

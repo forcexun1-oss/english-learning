@@ -1,1 +1,1 @@
-Wouldn't it be faster to just strip out the session-related parts first? The changes aren't that big, right?
+You don't need to delegate tasks like this — just using a subagent directly would be better.
