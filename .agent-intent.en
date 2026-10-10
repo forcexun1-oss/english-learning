@@ -1,1 +1,17 @@
-r97 finished.
+Review the results and make all changes at once before committing:
+
+1. Bug: guidanceApplied causes the guidance to only be added on the first run. pi rebuilds the system prompt on every run (agent-session.ts's _runAgentPrompt clears _systemPromptOverride in the finally block), so from the second turn onward there's no guidance. Change it so that every before_agent_start returns a systemPrompt with the guidance appended, and only the log 'vehicle guidance applied chars=N' is emitted once per process. Also, if event.systemPrompt already ends with this guidance text, don't append it again.
+2. Revert the swap of the catalog/transport assignment order in the McpCatalogBridge constructor (unrelated to this task). Keeping transport as a readonly public field is fine.
+3. Add all tests required by handoff-97:
+   - device-mcp: without guidance, initialize output is byte-for-byte identical to the original; with guidance, result.instructions equals this text.
+   - progressive-tools:
+     - With instructions, two consecutive before_agent_start calls both return a system prompt ending with '\n'+instructions, and the log is emitted only once;
+     - Without instructions, it doesn't return or modify the system prompt;
+     - decide (preexpand) requests don't include the guidance;
+     - HttpMcpTransport can parse instructions from the initialize result.
+4. Gates:
+   - cd rust && cargo test -p device-mcp, test count must be greater than 8;
+   - cd pi_extensions/progressive-tools && npm test, test count must be greater than 99;
+   - No clippy warnings on changed files.
+5. Commit with the trailer 'Co-Authored-By: gpt-6-luna (codex) <noreply@openai.com>'. Don't use git commit -a, don't commit CLAUDE.md. Final git status --short should only show CLAUDE.md.
+Don't write a plan, don't stop to ask questions.
