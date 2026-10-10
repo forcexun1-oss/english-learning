@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is there a problem with the prefill configuration? This chip has very high bandwidth, so prefill should be fast.
-=======
-The watchdog for the narrowed session port just failed with exit code 1.
->>>>>>> Stashed changes
+First verify the ladder, then decide whether to re-export.

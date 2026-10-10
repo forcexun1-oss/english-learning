@@ -19755,3 +19755,4 @@
 - 2026-10-10 16:00 — Use 'should be fast' instead of 'should be fast' — actually, '按说' translates to 'should be' or 'supposedly', and '还是很快的' becomes 'should be fast' or 'should still be fast'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 16:04 — Use 'verify' instead of 'validate' for checking something step-by-step; 'whether' is more natural than 'if' after 'decide'.
