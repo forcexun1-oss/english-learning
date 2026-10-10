@@ -19829,3 +19829,4 @@
 - 2026-10-10 17:02 — Use 'strip out' or 'extract' instead of '剔出来' — 'strip out' is more natural for removing a subset of code changes.
 - 2026-10-10 17:08 — "派任务" translates to "delegate tasks"; "你直接subagent更好吧" is more natural as "just using a subagent directly would be better" with a suggestion tone.
 - 2026-10-10 17:10 — Use 'take over' instead of '接手' in English; 'half-finished' is a natural compound adjective for '半成品'.
+- 2026-10-10 17:11 — Use 'How long' for duration, and 'Do I need to' is more natural than 'Need I' in casual questions.
