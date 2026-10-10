@@ -19924,3 +19924,4 @@
 =======
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
+- 2026-10-10 20:44 — Use 'do not pause for review' instead of 'do not stop to wait for review' for a more natural imperative tone.
