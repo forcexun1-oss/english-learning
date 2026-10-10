@@ -1,1 +1,14 @@
-This is the request, right? What about the Codex client — does it need to be configured?
+Review the feedback and make all changes in one pass, then submit separately:
+
+1. The 30-second sleep waiting for agent_settled in both streaming and non-streaming paths is currently measured from the start of the turn. Normal turns with images or long replies can exceed 30 seconds and get incorrectly killed. Change it to an idle timeout: reset the timer to 30 seconds every time a pi event (of any type) is received. Both paths should share the same small utility function or constant — don't duplicate it.
+
+2. The health check is_unhealthy only covers the case where there's no active turn and the queue head has been waiting past the threshold. But in this board's hang, the active flag was stuck and never cleared. So add another condition: if there's an active turn and the time since its last received pi event exceeds STUCK_QUEUE_THRESHOLD (also 30 seconds), mark it unhealthy too. For this, record the last event time per turn — use an atomic variable or the existing Turn state, whichever is simplest.
+
+3. Tests:
+   - A turn lasting 40 seconds with an event every 5 seconds should not time out;
+   - No events for 31 consecutive seconds should time out;
+   - Health returns 503 when the active turn is stuck past the threshold;
+   - Keep the existing disconnect reproduction test.
+   Use tokio's time pause/advance, don't actually sleep.
+
+4. Gate: cd rust && cargo test -p pi-bridge && cargo test -p middleware-service --features service all pass; no clippy warnings on changed files. Keep the original footer. Don't write a plan, don't stop to ask.

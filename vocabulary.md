@@ -19832,3 +19832,4 @@
 - 2026-10-10 17:11 — Use 'How long' for duration, and 'Do I need to' is more natural than 'Need I' in casual questions.
 - 2026-10-10 17:13 — Use "You'd better" (contraction of 'you had better') for a suggestion, and 'accurate' is more precise than '准' in a technical context.
 - 2026-10-10 17:15 — Use 'right?' or 'isn't it?' for tag questions instead of '把' which doesn't translate directly.
+- 2026-10-10 17:17 — '卡住没清' → 'stuck and never cleared' — use 'stuck' as an adjective and 'cleared' for the flag being reset. Also, '可板上' likely means 'on this board' (context-specific), so I rendered it as 'in this board'.
