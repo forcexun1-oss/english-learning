@@ -19881,3 +19881,4 @@
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
 - 2026-10-10 18:23 — Use "completed successfully" instead of just "completed" to emphasize the exit code 0.
+- 2026-10-10 18:23 — Use 'with APC off' or 'when APC is off' instead of 'APC 关闭时' — 'off' is the natural adjective here. Also, 'rerun' is one word.
