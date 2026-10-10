@@ -19948,3 +19948,4 @@
 - 2026-10-10 22:50 — Use present continuous "is it running" to ask about an ongoing action, not "在跑了吗" literally translated.
 - 2026-10-10 22:51 — Use 'Didn't I say...' for a rhetorical question in past tense, and 'hand over' is the phrasal verb for 移交.
 - 2026-10-10 22:53 — Use 'Set a goal' (not '自己设置个goal') and 'complete all the tasks you've been given' to sound natural. 'Set' is the verb for goals.
+- 2026-10-10 23:08 — Use 'What do you mean' to express disbelief or confusion, and 'Didn't I...' for a rhetorical question.
