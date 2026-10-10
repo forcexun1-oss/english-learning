@@ -19950,3 +19950,4 @@
 - 2026-10-10 22:53 — Use 'Set a goal' (not '自己设置个goal') and 'complete all the tasks you've been given' to sound natural. 'Set' is the verb for goals.
 - 2026-10-10 23:08 — Use 'What do you mean' to express disbelief or confusion, and 'Didn't I...' for a rhetorical question.
 - 2026-10-10 23:10 — Use 'follows' (present tense) for ongoing instructions, and 'should have' to express expectation.
+- 2026-10-10 23:11 — Use 'what needs to be done' instead of 'what to do' for a more natural, task-oriented phrasing.
