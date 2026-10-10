@@ -19495,3 +19495,4 @@
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
+- 2026-10-10 10:34 — Use "OK" or "Alright" to acknowledge, then state the action plainly. "按这个顺序做" = "do it in this order."
