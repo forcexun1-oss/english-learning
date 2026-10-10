@@ -19781,6 +19781,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19798,3 +19799,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 16:26 — Use "handover document" instead of "交接文档" translated literally. Also, "额度" here means quota/allowance, not credit limit.
 - 2026-10-10 16:27 — Use 'the one I sent out' to refer to a person you dispatched, and 'make it clear' is a natural way to say '写清楚'.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
