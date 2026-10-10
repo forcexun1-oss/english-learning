@@ -19511,3 +19511,4 @@
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
+- 2026-10-10 10:58 — Use 'may modify' instead of 'allow modifying' for permission; 'confirm' is a verb, so say 'confirm that the reply replaces' not 'confirm the reply will replace'.
