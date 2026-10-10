@@ -19796,6 +19796,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19889,3 +19890,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 19:00 — Use 'Continue.' as a complete imperative sentence — it's clear and natural for giving instructions.
 - 2026-10-10 19:01 — Use 'according to' instead of '按' directly, and 'do not stop for review' is more natural than 'wait for review'.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
