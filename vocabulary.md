@@ -19641,3 +19641,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 13:56 — "挂了吧" here means "this failed" — use "wrong" or "failed" instead of a literal translation. "这种" can be shortened to "this" for naturalness.
 - 2026-10-10 13:56 — Use "finished successfully" or "completed successfully" instead of just "completed" when noting a successful exit code.
+- 2026-10-10 13:58 — Use 'Did...' for past-tense yes/no questions, and 'make someone do something' (without 'to') for forcing an action.
