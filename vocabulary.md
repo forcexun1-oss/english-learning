@@ -19518,3 +19518,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 11:01 — Use the past tense 'failed' to describe the completed action, and 'with' to specify the exit code.
 - 2026-10-10 11:03 — Use 'how is... built' (passive voice) for '如何构建', and 'if it's not built' for '不构建的话'. '方案的关键' translates naturally as 'the key to the plan'.
+- 2026-10-10 11:03 — Use "how do we" instead of "如何" directly translated, and "the key to" instead of "方案的关键".
