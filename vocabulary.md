@@ -19784,6 +19784,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19816,3 +19817,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 16:42 — Use "is done" instead of "completed" for a natural, casual status update.
 - 2026-10-10 16:43 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop and wait for review'.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
