@@ -19572,3 +19572,4 @@
 - 2026-10-10 11:25 — Use 'have him do something' to instruct someone to do a task. Also, 'pull' is the standard verb for fetching remote code in git.
 >>>>>>> Stashed changes
 - 2026-10-10 13:02 — "接着搞完啊" is casual; "Go ahead and finish it up" keeps the same pushy-but-friendly tone. "搞" is informal, so "finish" is a safer choice in English.
+- 2026-10-10 13:03 — Use 'according to' instead of '按' directly, and 'only stop when' for the conditional stopping rule.
