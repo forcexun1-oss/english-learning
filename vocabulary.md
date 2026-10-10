@@ -19793,6 +19793,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19871,3 +19872,6 @@
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
 - 2026-10-10 17:51 — Use 'power off' instead of '断电' when talking about cutting electricity to a device.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
