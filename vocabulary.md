@@ -19788,6 +19788,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19843,3 +19844,6 @@
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
 - 2026-10-10 17:29 — Use 'leave it as is' instead of '先这样吧' to sound more natural in English.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
