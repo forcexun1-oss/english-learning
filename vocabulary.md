@@ -19893,3 +19893,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 19:04 — Use "Continue" as a standalone command — it's the natural way to tell the assistant to keep going.
