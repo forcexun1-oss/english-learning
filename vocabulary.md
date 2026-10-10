@@ -19911,3 +19911,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 19:56 — Use 'once a turn is accepted' instead of 'once a turn is taken' — 'accepted' fits the context of a turn being picked up by the system.
