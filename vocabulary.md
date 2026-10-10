@@ -19711,3 +19711,4 @@
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
+- 2026-10-10 15:28 — '耗时链路' can be translated as 'latency chain' or 'end-to-end latency' — '链路' often maps to 'chain' or 'pipeline' in technical contexts.
