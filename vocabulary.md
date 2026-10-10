@@ -19473,6 +19473,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 09:11 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
@@ -19507,3 +19508,6 @@
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
 - 2026-10-10 10:54 — Use the present perfect ('has completed') to describe a finished action with current relevance, rather than past simple alone.
+=======
+- 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
+>>>>>>> Stashed changes
