@@ -19789,6 +19789,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19848,3 +19849,6 @@
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
 - 2026-10-10 17:33 — Use 'Is there...' for yes/no questions in English, instead of directly translating '有...吗'.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
