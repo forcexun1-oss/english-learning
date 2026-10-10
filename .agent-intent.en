@@ -1,1 +1,1 @@
-Does this take up a lot of memory? If it does, pause the codex for agent-eval, and start it again once you're done.
+You can also kill the q6 model, otherwise there won't be enough memory.
