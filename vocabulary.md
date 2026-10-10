@@ -19914,6 +19914,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 19:56 — Use 'once a turn is accepted' instead of 'once a turn is taken' — 'accepted' fits the context of a turn being picked up by the system.
 - 2026-10-10 20:31 — "把交给你的都实现了" → "implement everything assigned to you" is more natural than a literal word-for-word translation. Also, "别停" is fine as "don't stop," but "keep going" sounds more natural in this context.
 - 2026-10-10 20:33 — Use 'do not' instead of '不写' as a direct imperative, and 'only stop when' to clearly express the conditional ending.
@@ -19933,3 +19934,6 @@
 - 2026-10-10 21:05 — Use 'Sure' or 'Of course' for a simple affirmative response.
 - 2026-10-10 21:08 — Use 'Continue.' as a complete sentence in English; it's a natural, concise way to tell the assistant to proceed.
 - 2026-10-10 21:09 — Use "hand off" as a verb (hand off the work) and "handoff" as a noun (a handoff document). Also, "整个的" here is better expressed as "the whole project" rather than a direct translation.
+=======
+- 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
+>>>>>>> Stashed changes
