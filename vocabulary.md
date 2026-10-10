@@ -19913,3 +19913,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 19:56 — Use 'once a turn is accepted' instead of 'once a turn is taken' — 'accepted' fits the context of a turn being picked up by the system.
 - 2026-10-10 20:31 — "把交给你的都实现了" → "implement everything assigned to you" is more natural than a literal word-for-word translation. Also, "别停" is fine as "don't stop," but "keep going" sounds more natural in this context.
+- 2026-10-10 20:33 — Use 'do not' instead of '不写' as a direct imperative, and 'only stop when' to clearly express the conditional ending.
