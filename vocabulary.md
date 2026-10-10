@@ -19759,3 +19759,4 @@
 - 2026-10-10 16:04 — Use 'verify' instead of 'validate' for checking something step-by-step; 'whether' is more natural than 'if' after 'decide'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 16:06 — Use "model variants" instead of "models" when referring to different versions/configurations of the same model.
