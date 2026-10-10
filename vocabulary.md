@@ -19484,3 +19484,4 @@
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
+- 2026-10-10 09:59 — Use 'themselves' for emphasis after the noun, and 'provided through' sounds more natural than 'given by' in this context.
