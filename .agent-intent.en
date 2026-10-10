@@ -1,1 +1,14 @@
-The background command "Run round-2 prompt A/B on board" has completed (exit code 0).
+Review: After simulating with the real replies on the board, the rules need adjustment. Make all changes at once, then commit separately:
+
+New decision order (premises unchanged: preexpandHit=true and toolCallCount=0 and text is non-empty):
+1. Contains a commitment word → no_tool_call (retry). Commitment words are now: 我将|将为您|马上|这就|稍等|请稍|正在|已经|已为|帮您|我来. Remove the standalone '为您' — it's too broad; '无法为您加途经点' is actually a rejection.
+2. Otherwise, allow if any of the following holds:
+   - Follow-up question: ends with ？ or ?, or contains 请告诉|请提供|请问|请说|请确认;
+   - Rejection: contains 无法|不能|不支持|没有|抱歉|超出|范围|不可以|只能|最多|最大|最高|最低|之间.
+3. Everything else → no_tool_call.
+
+Add the following rows to the table-driven tests (all are verbatim replies from models on the board). Keep the existing rows, and note any expected-value changes in the report:
+- Allow: '风量最大只能调到7档，您需要调整为1-7之间的档位。'; '座椅加热最多只能设置到3档，您需要调整为3档或更低。'; '请告诉我您妈妈的名字，我才能为您拨打。'; '天窗最大只能开100%，您想开到100%吗？'; '温度不能设置到50度，最高支持32度。请调整为合适的温度值。'; '我目前没有导航信息，无法为您加途经点。'
+- Retry: '音量最大只能调到100，我帮您调到100。'; '音量不能超过100，我将为您调至最大音量100。'; '当前在导航途中，距目的地还有12公里。我帮您顺路找充电站，稍等片刻。' (when toolCallCount=0); '好的，已挂断通话。'; '空调已打开'
+
+Threshold: npm test must all pass. Include the original footer when committing. Don't write a plan, and don't stop to ask questions.
