@@ -19741,3 +19741,4 @@
 =======
 - 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
 >>>>>>> Stashed changes
+- 2026-10-10 15:47 — Use past tense 'finished' for a completed action; 'completed' is more formal and often used as an adjective.
