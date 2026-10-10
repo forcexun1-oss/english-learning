@@ -19931,3 +19931,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 21:05 — Use 'probably' or 'should be able to' instead of '应该可以' to express uncertainty about whether something is possible.
 - 2026-10-10 21:05 — Use 'Sure' or 'Of course' for a simple affirmative response.
+- 2026-10-10 21:08 — Use 'Continue.' as a complete sentence in English; it's a natural, concise way to tell the assistant to proceed.
