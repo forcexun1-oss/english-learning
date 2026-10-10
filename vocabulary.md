@@ -19853,3 +19853,4 @@
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
 - 2026-10-10 17:35 — Use 'Let's' to make a suggestion in a natural, collaborative way.
+- 2026-10-10 17:36 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
