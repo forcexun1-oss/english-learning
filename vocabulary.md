@@ -19465,4 +19465,8 @@
 - 2026-10-10 09:07 — Use "pre-board" as a compound adjective before a noun; "上板前" = "before going on the board".
 - 2026-10-10 09:09 — Use "can't be measured in hours" instead of "不能按小时算" to sound more natural; "investigate" is clearer than "查" in a technical context.
 - 2026-10-10 09:11 — No changes needed — this is already natural and idiomatic.
+<<<<<<< Updated upstream
 - 2026-10-10 09:11 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
+=======
+- 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
+>>>>>>> Stashed changes
