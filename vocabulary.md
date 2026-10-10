@@ -19930,3 +19930,4 @@
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
 - 2026-10-10 21:05 — Use 'probably' or 'should be able to' instead of '应该可以' to express uncertainty about whether something is possible.
+- 2026-10-10 21:05 — Use 'Sure' or 'Of course' for a simple affirmative response.
