@@ -19470,6 +19470,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 09:11 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
@@ -19491,3 +19492,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 10:03 — Use 'A/B test' instead of 'AB' for clarity; '做一下' can be translated as 'do an A/B test'.
 - 2026-10-10 10:26 — "继续" alone is fine as a short command; "Continue." is the natural English equivalent.
+=======
+- 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
+>>>>>>> Stashed changes
