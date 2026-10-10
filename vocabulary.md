@@ -19956,3 +19956,4 @@
 - 2026-10-11 00:14 — Use 'What do you mean' (not '什么就') to express surprise or disbelief about a claim.
 - 2026-10-11 00:15 — Use 'run into' for encountering problems informally; '遇到' can be 'encounter' or 'run into'.
 - 2026-10-11 00:16 — Use 'deletable' instead of 'can be deleted' for a more natural adjective form, and 'did you delete them' for a direct past-tense question.
+- 2026-10-11 00:17 — "腾出空间" translates to "free up space" — "free up" is the natural phrasal verb here, not "make space".
