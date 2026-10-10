@@ -19438,7 +19438,11 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 08:52 — Use 'Please continue' instead of just 'continue' to sound more polite and natural.
+=======
+- 2026-10-10 08:52 — "继续" alone is fine as a short command; "Please continue" is a slightly more polite alternative.
+>>>>>>> Stashed changes
 =======
 - 2026-10-10 08:52 — "继续" alone is fine as a short command; "Please continue" is a slightly more polite alternative.
 >>>>>>> Stashed changes
