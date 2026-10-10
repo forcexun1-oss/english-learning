@@ -19556,3 +19556,4 @@
 =======
 - 2026-10-10 11:25 — Use 'have him do something' to instruct someone to do a task. Also, 'pull' is the standard verb for fetching remote code in git.
 >>>>>>> Stashed changes
+- 2026-10-10 12:17 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0 outcome.
