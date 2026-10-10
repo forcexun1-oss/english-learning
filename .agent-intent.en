@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Continue executing handoff-111. It was paused by the user earlier; the pause record is in docs/proposals/evidence/qwen35-4b-probe-20261010/PAUSED.md. The board lost power but is now back on, running Qwen3-VL-4B (rkllm3-llm).
 
 Proceed in this order:
@@ -10,3 +11,6 @@ Proceed in this order:
 Note: when terminating processes on the board, do not use `pkill -f` with a string that appears in your own command line, as that would kill the shell executing the command. First use `ps` to find the PID, then `kill PID`.
 
 Rules and stop conditions are the same as handoff-111. Write REPORT.md and commit. Don't write a plan and don't stop to ask.
+=======
+Execute according to docs/proposals/handoffs/handoff-110.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
+>>>>>>> Stashed changes
