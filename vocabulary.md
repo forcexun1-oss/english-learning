@@ -19613,3 +19613,4 @@
 =======
 - 2026-10-10 13:05 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
 >>>>>>> Stashed changes
+- 2026-10-10 13:32 — Use 'go with' to mean 'choose/agree to follow' a rule or plan.
