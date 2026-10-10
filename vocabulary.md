@@ -19474,3 +19474,4 @@
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
+- 2026-10-10 09:18 — Use 'Both dispatches finished' instead of listing them separately — it's more concise and natural.
