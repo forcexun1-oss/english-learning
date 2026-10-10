@@ -19802,3 +19802,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 16:28 — Use 'detached from the terminal' instead of '脱离终端启动' to sound more natural; 'detached' is a common term for processes running independently.

@@ -1,5 +1,29 @@
-<<<<<<< Updated upstream
-Let the one I sent out continue. Just make it clear in the document.
-=======
-Execute according to docs/proposals/handoffs/handoff-110.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+The handoff document is written: /Users/youxun/project/agent-eval/.omc/handoffs/2026-10-10-kv-session-port.md.
+
+The dispatched codex hasn't stopped; it's still running:
+- Process and session: PID 60193, session ID 01a124eb-9f2b-7d53-8adf-2df8c0aaf951.
+- What it's doing: adding the "specified checkpoint" and "read-only fork" request headers in ~/project/mlx-vlm-wt-session.
+- Not affected by this side: it was started detached from the terminal, so ending this session won't stop it. It had no new commits when I wrote the handoff.
+- Completion signal: the process exits, and the report at .omc/dispatch/mlx-vlm-session-port.report.md gains a "## Marker + read-only fork" section.
+- If it stops midway: just resume with the session ID above; the document includes the command.
+
+The document covers these points:
+1. Goal and your decision: only use session cache, don't touch APC; base on the latest remote code, only port session cache, MV1, and raw request logs; the plan must be explained clearly, and you must approve before any action.
+2. Confirmed facts: the previous extraction test didn't reuse the cache; which requests Graphiti sends per episode; only entity attribute requests share a common prefix.
+3. The plan you approved: specified checkpoint, read-only fork, Graphiti only adds request headers and adjusts send order.
+4. Status of each workspace and branch:
+   - I verified the full test suite on the porting branch myself: 2812 passed, 1 failed, and the failure is due to a missing local model.
+   - I can't touch other people's changes in the main directory.
+5. Next four steps:
+   - Review codex's changes in this round.
+   - Restart q6 for smoke testing, but ask you first because production extraction will pause for a few minutes.
+   - Modify the Graphiti client and do an on/off comparison on one episode.
+   - Merge only at the end.
+6. Pitfalls encountered:
+   - Calling set_wired_limit causes a kernel crash.
+   - The Python environment in the main directory loads the wrong code.
+   - Codex treats files in the main directory as its own.
+   - The watchdog must directly monitor the process ID.
+   - A reverted merge makes git think the remote commit is already merged.
+
+I also added a memory entry pointing to this handoff document. Now you take over the handoff work.
