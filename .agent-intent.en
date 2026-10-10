@@ -1,5 +1,9 @@
-<<<<<<< Updated upstream
-Both dispatches finished: r93 and r94 completed successfully (exit code 0).
-=======
-Execute according to docs/proposals/handoffs/handoff-94.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+Board verification failed: all template replies became empty strings (even for a single tool), and r95 is a regression.
+
+Cause: MCP tools executed in the pi do not go through the socket. In rust/crates/middleware-service/src/agent/real_tool_executor.rs:50, UdsToolExecutor::execute directly returns ToolOutcome::Ok{result:String::new()} for such calls. As a result, record_start marks the tool_call_id as started (with say as None), and the subsequent ToolCallEnd with say is discarded in record_end because the id already exists. The old code overwrote, and since End arrives last, it worked.
+
+Fix requirements, complete in one pass:
+1. Change deduplication to save each call's say by tool_call_id (in first-occurrence order). Write only when Start parses a say; when End has say, write or overwrite the value for the same id; when End has ok=false, remove the say for that id. Each call is counted only once.
+2. When rendering, take calls with say in order, keep only one for consecutive identical values, and join with '，'.
+3. Add tests that must include the real shape: Start's outcome is Ok{result:""}, End carries say. Test both single-tool and two-tool cases. Keep existing tests.
+4. Gate: cd rust && cargo test -p middleware-service --features service must all pass; changed files must have no clippy warnings; only modify handler.rs; commit separately (with the original footer). Don't write a plan, don't stop to ask.

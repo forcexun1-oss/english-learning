@@ -19479,3 +19479,4 @@
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
+- 2026-10-10 09:27 — Use 'must' for strong requirements (e.g., 'must include', 'must pass') instead of '必须' translated as 'need to' — it's more direct and imperative.
