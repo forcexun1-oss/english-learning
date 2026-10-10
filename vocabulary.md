@@ -19669,3 +19669,4 @@
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
+- 2026-10-10 14:22 — "按这个顺序做" translates to "do it in that order" — use "in that order" rather than "by this order".
