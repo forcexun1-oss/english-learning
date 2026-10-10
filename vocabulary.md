@@ -19820,3 +19820,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 16:56 — Use 'running into' instead of '遇到' for encountering problems; it's a common phrasal verb in technical contexts.
