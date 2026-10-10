@@ -19647,6 +19647,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 14:00 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
@@ -19662,6 +19663,9 @@
 - 2026-10-10 14:16 — "先查" = "check first" — put the adverb before the verb in English.
 - 2026-10-10 14:17 — Use "Let + person + verb" to suggest delegating a task to someone.
 - 2026-10-10 14:18 — '按...执行' translates to 'Execute according to...' — use 'according to' for following a document. Also, '停止条件' is 'stopping conditions', and '结束时的报告' is 'End-of-Session Report'.
+=======
+- 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
+>>>>>>> Stashed changes
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
