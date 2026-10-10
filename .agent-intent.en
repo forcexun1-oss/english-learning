@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Resume the same task (.omc/dispatch/mlx-vlm-update.md — all rules, steps, gates, stop conditions still apply).
 
 You are now running WITHOUT the sandbox, so git worktree metadata and Metal are available.
@@ -11,3 +12,6 @@ Corrections:
 - If pytest still aborts with the nanobind duplicate-registration at teardown, determine whether it is a real pre-existing problem (it happens at b64549b too) — then use per-file runs to get counts, and continue.
 
 Start from step 2 (baseline) and run through to the report.
+=======
+Also, have him update mlx-vlm — it's probably been a while since we pulled the remote code.
+>>>>>>> Stashed changes
