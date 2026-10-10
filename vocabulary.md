@@ -19453,3 +19453,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 08:57 — Use 'run a test case' instead of '拿一道题测一下' for a more natural technical phrasing.
 - 2026-10-10 08:58 — Use 'exited with code' instead of 'failed with exit code' for a more natural phrasing.
+- 2026-10-10 08:59 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
