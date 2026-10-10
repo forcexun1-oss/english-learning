@@ -19747,3 +19747,4 @@
 - 2026-10-10 15:50 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 15:58 — Use past tense 'completed' to describe a finished action in a notification.
