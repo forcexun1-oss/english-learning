@@ -19592,3 +19592,4 @@
 =======
 - 2026-10-10 13:05 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
 >>>>>>> Stashed changes
+- 2026-10-10 13:09 — Use 'root cause' instead of '根因二' directly; '二' can be expressed as 'the second' or 'root cause #2'.
