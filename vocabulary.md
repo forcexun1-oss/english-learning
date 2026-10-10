@@ -19792,6 +19792,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19866,3 +19867,6 @@
 - 2026-10-10 17:49 — Use 'pause' and 'resume' for starting and continuing a process; '暂停' = pause, '恢复' = resume.
 - 2026-10-10 17:50 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
 - 2026-10-10 17:50 — Use 'doesn't need to be' instead of '可以不' to express that something is not required. '恢复' here means 'restore' in the context of model state.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
