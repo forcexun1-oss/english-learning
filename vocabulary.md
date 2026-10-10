@@ -19622,3 +19622,4 @@
 - 2026-10-10 13:38 — Use 'streaming character-by-character output' instead of '流式压字' for clarity, and phrase the question with 'Will... cause...' for a natural conditional.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 13:41 — Use present perfect ('has completed') to report a finished action relevant to the current moment.

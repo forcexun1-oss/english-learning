@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Will streaming character-by-character output cause the reply to be sent only after it's fully generated?
-=======
-Okay, let's go with this rule.
->>>>>>> Stashed changes
+The background command "Run round-2 prompt A/B on board" has completed (exit code 0).
