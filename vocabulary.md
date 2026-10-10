@@ -19744,7 +19744,10 @@
 - 2026-10-10 15:47 — Use past tense 'finished' for a completed action; 'completed' is more formal and often used as an adjective.
 - 2026-10-10 15:48 — Use "just failed" to describe a recent event, and "exit code" instead of just "code" for clarity.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 15:50 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
 =======
 >>>>>>> Stashed changes
 - 2026-10-10 15:58 — Use past tense 'completed' to describe a finished action in a notification.
+=======
+>>>>>>> Stashed changes

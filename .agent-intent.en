@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The 10-minute check on cherry-pick progress completed.
+=======
+The watchdog for the narrowed session port just failed with exit code 1.
+>>>>>>> Stashed changes
