@@ -19808,3 +19808,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 16:31 — Use 'placed in' or 'put in' instead of '放在' directly; 'Section 0' is clearer than just '第 0 节' in English.
