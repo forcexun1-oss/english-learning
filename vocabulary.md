@@ -19607,3 +19607,4 @@
 =======
 - 2026-10-10 13:05 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
 >>>>>>> Stashed changes
+- 2026-10-10 13:28 — Use present perfect "has completed" to describe a just-finished action with current relevance.
