@@ -19433,3 +19433,4 @@
 - 2026-10-10 02:05 — Use 'completed successfully' instead of just 'completed' to sound more natural in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 08:14 — Use the imperative form for a direct command.
