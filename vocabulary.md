@@ -19782,6 +19782,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19804,3 +19805,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 16:28 — Use 'detached from the terminal' instead of '脱离终端启动' to sound more natural; 'detached' is a common term for processes running independently.
 - 2026-10-10 16:29 — Use "milestone" for a阶段性目标 (stage goal), and "overall goal" for 整体目标.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
