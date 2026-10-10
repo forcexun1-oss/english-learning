@@ -19919,3 +19919,4 @@
 =======
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
+- 2026-10-10 20:38 — Use 'do not copy' instead of 'don't copy any' for a more formal, imperative instruction; also, 'the last run' is clearer than 'last run' when referring to a specific previous execution.
