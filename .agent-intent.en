@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I don't understand the second root cause, or how you plan to fix it.
-=======
-Dispatch r98 to codex failed with exit code 143.
->>>>>>> Stashed changes
+The reply content also passed the guard, right?
