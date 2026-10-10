@@ -19786,3 +19786,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 16:19 — Use past tense "failed" (not "has failed") when reporting a completed action with a specific result, like an exit code.
