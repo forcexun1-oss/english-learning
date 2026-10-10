@@ -19627,6 +19627,7 @@
 - 2026-10-10 13:51 — Use "debug" instead of "查" for investigating issues. Also, "没有记录全" is better as "not recording everything" or "incomplete" rather than a literal word-for-word translation.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 13:53 — Use 'fail silently' instead of 'silent failure' when describing the action, and 'did we not handle' for a past-tense question about our own code.
 =======
 - 2026-10-10 13:53 — Use 'fall back to' (phrasal verb) for '退回' in this context, and 'in the same way' or 'similarly' for '按同样的思路'.
@@ -19635,3 +19636,6 @@
 - 2026-10-10 13:53 — Use 'fall back to' (phrasal verb) for '退回' in this context, and 'in the same way' or 'similarly' for '按同样的思路'.
 >>>>>>> Stashed changes
 - 2026-10-10 13:55 — Use "OK" or "Alright" to acknowledge, and "in this order" is more natural than "按这个顺序" literally translated.
+=======
+- 2026-10-10 13:53 — Use 'fall back to' (phrasal verb) for '退回' in this context, and 'in the same way' or 'similarly' for '按同样的思路'.
+>>>>>>> Stashed changes
