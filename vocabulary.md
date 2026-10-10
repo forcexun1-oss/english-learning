@@ -19687,3 +19687,4 @@
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
+- 2026-10-10 14:44 — Use 'derive' (verb) instead of '推出来' — e.g., 'the derived URL' or 'derive the address from decide_url'.
