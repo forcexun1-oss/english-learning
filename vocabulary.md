@@ -19437,3 +19437,4 @@
 - 2026-10-10 08:14 — Use the imperative form for a direct command.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 08:52 — Use 'Please continue' instead of just 'continue' to sound more polite and natural.
