@@ -19955,3 +19955,4 @@
 - 2026-10-10 23:14 — Use 'Did...tell you' for past simple questions, not 'told you'.
 - 2026-10-11 00:14 — Use 'What do you mean' (not '什么就') to express surprise or disbelief about a claim.
 - 2026-10-11 00:15 — Use 'run into' for encountering problems informally; '遇到' can be 'encounter' or 'run into'.
+- 2026-10-11 00:16 — Use 'deletable' instead of 'can be deleted' for a more natural adjective form, and 'did you delete them' for a direct past-tense question.
