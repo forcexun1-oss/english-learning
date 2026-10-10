@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Also, when Pi validates that the schema is invalid, does it fail silently without calling the tool? Or did we not handle the error?
 =======
+=======
+>>>>>>> Stashed changes
 Add one more change, commit separately: board experiments show that the retry prompt being too generic is why 4B fails on the retry round. Take '挂了吧' as an example: with the old prompt, the model retried and only replied '好的，我已收到'; after switching to a prompt that includes the user's original words, it correctly called phone_hangup both times.
 
 Change: replace the fixed no_tool_call retry content from '你还没有调用任何工具。若要执行操作，请调用对应工具；若无法执行或信息不足，请直接说明。' with:
@@ -10,4 +13,7 @@ Change: replace the fixed no_tool_call retry content from '你还没有调用任
 - The fallback text stays unchanged.
 
 Tests: assert that both retry messages contain the user's original words; when currentPrompt is empty, use the old text. npm test must all pass. Commit with the original footer. Don't write a plan, don't stop to ask.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
