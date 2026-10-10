@@ -19643,3 +19643,4 @@
 - 2026-10-10 13:56 — Use "finished successfully" or "completed successfully" instead of just "completed" when noting a successful exit code.
 - 2026-10-10 13:58 — Use 'Did...' for past-tense yes/no questions, and 'make someone do something' (without 'to') for forcing an action.
 - 2026-10-10 13:59 — Use "didn't" instead of "没有" directly — English needs the auxiliary verb 'did' for past tense negation.
+- 2026-10-10 14:00 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
