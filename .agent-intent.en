@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 For the entity extraction request, is it chained after the previous one? Did it hit the earlier cache?
+=======
+Continue.
+>>>>>>> Stashed changes
