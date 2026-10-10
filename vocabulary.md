@@ -19659,3 +19659,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 14:10 — Use 'investigate' or 'look into' instead of '查' for a more natural English phrasing.
 - 2026-10-10 14:16 — "先查" = "check first" — put the adverb before the verb in English.
+- 2026-10-10 14:17 — Use "Let + person + verb" to suggest delegating a task to someone.
