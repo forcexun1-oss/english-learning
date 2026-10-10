@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Which features are themselves provided through the tool list?
-=======
-Execute according to docs/proposals/handoffs/handoff-94.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+You can try adding some guidance. Since the vehicle model is fixed, you just need to avoid cross-model testing — do an A/B test.
