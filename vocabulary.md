@@ -19650,6 +19650,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 14:00 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
@@ -19683,3 +19684,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 14:43 — Use "don't do them yourself" instead of "不要自己干" — it's the natural idiomatic way to say this in English.
 - 2026-10-10 14:44 — In Chinese, '他' can mean 'he' or 'it'. For a tool/agent, 'it' is more natural in English: 'What model is it using now?'
+=======
+- 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
+>>>>>>> Stashed changes
