@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Execute according to docs/proposals/handoffs/handoff-96.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'End-of-Session Report'.
-=======
-Execute according to docs/proposals/handoffs/handoff-94.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+With mlx-vlm, after adding a session ID, it can be cached and forked, right? So the earlier memory extraction test would reuse the cache, right? Have Codex investigate this. If it's fine, we'll continue the unfinished work from the previous session.
