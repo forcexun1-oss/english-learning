@@ -19764,7 +19764,11 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:08 — Use the present perfect "has completed" to describe a recently finished action, rather than the simple past "completed".
+=======
+- 2026-10-10 16:08 — Use 'up to date' instead of 'the latest' to sound more natural when asking if software is current.
+>>>>>>> Stashed changes
 =======
 - 2026-10-10 16:08 — Use 'up to date' instead of 'the latest' to sound more natural when asking if software is current.
 >>>>>>> Stashed changes
