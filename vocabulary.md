@@ -19863,3 +19863,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 17:49 — Use 'pause' and 'resume' for starting and continuing a process; '暂停' = pause, '恢复' = resume.
