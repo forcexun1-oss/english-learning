@@ -19946,3 +19946,4 @@
 - 2026-10-10 22:28 — Use 'the person taking over' or 'the successor' instead of '接手的人' — '接手' is not a direct English word; 'take over' is the verb form.
 - 2026-10-10 22:50 — Use 'Is there...' for yes/no questions about existence, instead of directly translating '没有' as 'no'.
 - 2026-10-10 22:50 — Use present continuous "is it running" to ask about an ongoing action, not "在跑了吗" literally translated.
+- 2026-10-10 22:51 — Use 'Didn't I say...' for a rhetorical question in past tense, and 'hand over' is the phrasal verb for 移交.
