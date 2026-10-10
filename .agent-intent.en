@@ -1,14 +1,1 @@
-<<<<<<< Updated upstream
-Review found: the decide_url on the board is http://127.0.0.1:8766/v1/decide, which is the middleware's decide endpoint, not rkllm. The derived http://127.0.0.1:8766/v1/chat/completions does not exist on port 8766 (8766 only has /v1/decide and /v1/agent/turn), so the reset request will keep failing and be skipped, never actually taking effect. This was a mistake in my task description. Please fix it all at once:
-1. Remove the logic that derives the address from decide_url. Add new config preexpand.main_slot_reset_url (string, full chat/completions URL) and preexpand.main_slot_model (string, default 'Qwen3-VL-4B'). Use main_slot_model for the model field in the request body, and stop reading the MIDDLEWARE_PI_MODEL environment variable.
-2. When main_slot_reset=true but main_slot_reset_url is empty, config parsing should fail immediately with ProgressiveConfigError, not silently skip.
-3. In config/progressive-tools-rkllm.toml, set: main_slot_reset_url = "http://127.0.0.1:8080/v1/chat/completions" (matching the baseUrl in config/pi-models-rkllm.json), main_slot_model = "Qwen3-VL-4B", and **change main_slot_reset to false** (wait for the board measurement results before deciding whether to enable it).
-4. Tests:
-   - Request is sent to main_slot_reset_url;
-   - The model in the body equals main_slot_model;
-   - Error when the switch is on but the URL is empty;
-   - Keep existing tests.
-5. npm test must all pass. Commit separately with the original footer. Don't write a plan, and don't stop to ask.
-=======
-Execute according to docs/proposals/handoffs/handoff-103.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+Execute according to docs/proposals/handoffs/handoff-106.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'End-of-Session Report'.
