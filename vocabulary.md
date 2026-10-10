@@ -19944,3 +19944,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 22:24 — Use 'status' instead of '状况' for a more natural, concise question in English.
 - 2026-10-10 22:28 — Use 'the person taking over' or 'the successor' instead of '接手的人' — '接手' is not a direct English word; 'take over' is the verb form.
+- 2026-10-10 22:50 — Use 'Is there...' for yes/no questions about existence, instead of directly translating '没有' as 'no'.
