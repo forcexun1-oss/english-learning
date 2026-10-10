@@ -19640,3 +19640,4 @@
 - 2026-10-10 13:53 — Use 'fall back to' (phrasal verb) for '退回' in this context, and 'in the same way' or 'similarly' for '按同样的思路'.
 >>>>>>> Stashed changes
 - 2026-10-10 13:56 — "挂了吧" here means "this failed" — use "wrong" or "failed" instead of a literal translation. "这种" can be shortened to "this" for naturalness.
+- 2026-10-10 13:56 — Use "finished successfully" or "completed successfully" instead of just "completed" when noting a successful exit code.
