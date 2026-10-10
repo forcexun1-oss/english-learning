@@ -19951,3 +19951,4 @@
 - 2026-10-10 23:08 — Use 'What do you mean' to express disbelief or confusion, and 'Didn't I...' for a rhetorical question.
 - 2026-10-10 23:10 — Use 'follows' (present tense) for ongoing instructions, and 'should have' to express expectation.
 - 2026-10-10 23:11 — Use 'what needs to be done' instead of 'what to do' for a more natural, task-oriented phrasing.
+- 2026-10-10 23:13 — Use 'follow the trail' for '顺着找一下' to sound natural, and 'for now' to emphasize the current priority.
