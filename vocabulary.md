@@ -19587,6 +19587,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 13:05 — Use past tense "failed" to describe the completed action of the command.
 =======
 - 2026-10-10 13:05 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
@@ -19609,3 +19610,6 @@
 >>>>>>> Stashed changes
 - 2026-10-10 13:28 — Use present perfect "has completed" to describe a just-finished action with current relevance.
 - 2026-10-10 13:28 — Use 'let it continue running' instead of 'let him continue executing' — 'it' refers to the task/command, and 'running' is more natural for background processes.
+=======
+- 2026-10-10 13:05 — Use past tense 'failed' to describe the completed action, and keep the technical details (exit code) unchanged.
+>>>>>>> Stashed changes
