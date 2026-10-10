@@ -1,1 +1,13 @@
-The background command "Watchdog for mlx-vlm update codex run" completed successfully (exit code 0).
+Resume the same task (.omc/dispatch/mlx-vlm-update.md — all rules, steps, gates, stop conditions still apply).
+
+You are now running WITHOUT the sandbox, so git worktree metadata and Metal are available.
+
+Corrections:
+- Nothing was lost. The six uncommitted files only ever existed in the MAIN checkout /Users/youxun/project/mlx-vlm, never in this worktree. I verified the main checkout's diff is byte-identical to .omc/dispatch/mlx-vlm-dirty-2026-09-21.patch, and its untracked test file is intact. The worktree is clean at b64549b. Do not try to restore anything; keep the main checkout untouched (status before/after must be identical).
+- Use the uv cache at /tmp/mlx-vlm-uv-cache if the global one is not writable. The worktree .venv already exists.
+- IMPORTANT safety rule for every pytest/python run that imports mlx: this Mac kernel-panics on mx.set_wired_limit (IOGPU "completeMemory() prepare count underflow"). Run tests ONLY as:
+  `.venv/bin/python -c "import mlx.core as mx; mx.set_wired_limit = lambda *a, **k: 0; import sys, pytest; sys.exit(pytest.main(['mlx_vlm/tests', '-q', '-p', 'no:cacheprovider', '--timeout', '600']))"`
+  (narrow the path for targeted runs). A production q6 server is running on this GPU: do not load any real model weights, do not run benchmarks; unit tests only. If a test would download or load a real model, skip it and list it.
+- If pytest still aborts with the nanobind duplicate-registration at teardown, determine whether it is a real pre-existing problem (it happens at b64549b too) — then use per-file runs to get counts, and continue.
+
+Start from step 2 (baseline) and run through to the report.

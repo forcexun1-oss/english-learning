@@ -19551,3 +19551,4 @@
 - 2026-10-10 11:42 — Use past tense 'finished' to report a completed action.
 - 2026-10-10 11:43 — Use 'every before_agent_start' instead of '每次 before_agent_start 都' — 'every' + singular noun is the natural pattern for repeated events.
 - 2026-10-10 11:51 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0 outcome.
+- 2026-10-10 11:53 — Use 'exit conditions' or 'stop conditions' instead of 'stop conditions' if you mean the formal criteria; also 'Keychain' is a macOS term, but here it's a kernel panic, so 'kernel-panics' is fine.
