@@ -19474,6 +19474,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 09:11 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
@@ -19512,3 +19513,6 @@
 - 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
 >>>>>>> Stashed changes
 - 2026-10-10 10:58 — Use 'may modify' instead of 'allow modifying' for permission; 'confirm' is a verb, so say 'confirm that the reply replaces' not 'confirm the reply will replace'.
+=======
+- 2026-10-10 09:11 — Use 'according to' instead of '按' directly, and 'as specified in' to clarify the source of the report instructions.
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Board verification: the pi-side change (followUp in agent_end) is directionally correct, but insufficient. Middleware logs show that after the guard retry is emitted, the turn completes within 1–2 ms, and the reply from the continued run never reaches the client.
 
 Root cause: middleware finalizes on the first agent_end (rust/crates/pi-bridge/src/protocol.rs:138 decodes agent_end into PiEvent::AgentEnd; rust/crates/middleware-service/src/agent/handler.rs finishes the turn on AgentEnd in both streaming and non-streaming paths). pi 0.84.2 calls agent.continue() within the same _runAgentPrompt to consume followUp, and only sends agent_settled after everything finishes (/Users/youxun/project/pi/packages/coding-agent/src/core/agent-session.ts:1076-1087, 607-614). The RPC forwards it (modes/rpc/rpc-mode.ts:355).
@@ -19,3 +20,6 @@ Requirements, complete in one pass:
    - Commit separately (with the original footer).
 
 Don't write a plan, don't stop to ask.
+=======
+Execute according to docs/proposals/handoffs/handoff-94.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
+>>>>>>> Stashed changes
