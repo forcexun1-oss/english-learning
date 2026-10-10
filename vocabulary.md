@@ -19953,3 +19953,4 @@
 - 2026-10-10 23:11 — Use 'what needs to be done' instead of 'what to do' for a more natural, task-oriented phrasing.
 - 2026-10-10 23:13 — Use 'follow the trail' for '顺着找一下' to sound natural, and 'for now' to emphasize the current priority.
 - 2026-10-10 23:14 — Use 'Did...tell you' for past simple questions, not 'told you'.
+- 2026-10-11 00:14 — Use 'What do you mean' (not '什么就') to express surprise or disbelief about a claim.
