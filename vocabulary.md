@@ -19676,3 +19676,4 @@
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
 >>>>>>> Stashed changes
+- 2026-10-10 14:43 — Use 'handle it' instead of 'go do it' for a more natural, concise instruction.
