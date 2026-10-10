@@ -19825,3 +19825,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 16:59 — "别让他自己发挥了" is naturally rendered as "don't let it improvise on its own" — "improvise" captures the sense of acting without a fixed plan.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Why is this taking so much effort? Let's check if he's running into any difficulties.
-=======
-Execute according to docs/proposals/handoffs/handoff-110.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'Report at the End'.
->>>>>>> Stashed changes
+Take a look, then have the subagent use the Luna model to complete it. Write the plan in detail — don't let it improvise on its own.
