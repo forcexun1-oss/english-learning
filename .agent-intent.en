@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 How do we build the original session? If we don't build it, how can we fork it later? This is the key to the whole approach.
 =======
+=======
+>>>>>>> Stashed changes
 # THE KEY QUESTION of the plan (user, verbatim intent): how is the original session built? If it is not built, what do later requests fork from? Answer this first and in the most detail.
 
 Everything in the previous redirect (phase2b: session path only, no APC, plan only, output .omc/dispatch/kv-session-plan.md in Chinese) still applies. Add this as the central section of the plan:
@@ -17,4 +20,7 @@ B. For the benchmark, where no live conversation exists in mlx-vlm, design the "
 
 C. Then the remaining phase2b sections (is the intended production usage intact; A/B verification).
 Same stop conditions and probe limits as before. Run straight through to the plan file.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
