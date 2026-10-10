@@ -19847,3 +19847,4 @@
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
 >>>>>>> Stashed changes
+- 2026-10-10 17:33 — Use 'Is there...' for yes/no questions in English, instead of directly translating '有...吗'.
