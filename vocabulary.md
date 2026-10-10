@@ -19648,6 +19648,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 14:00 — Use 'do not' instead of 'don't' for formal instructions, and 'as specified in' is more natural than '按...输出'.
 =======
 - 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
@@ -19672,3 +19673,6 @@
 - 2026-10-10 14:22 — "按这个顺序做" translates to "do it in that order" — use "in that order" rather than "by this order".
 - 2026-10-10 14:28 — Use 'delegate' instead of 'hand over' for assigning tasks to someone/something.
 - 2026-10-10 14:31 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
+=======
+- 2026-10-10 14:00 — Use 'according to' instead of '按' for 'according to', and 'as specified in' for '按...输出' to sound more natural.
+>>>>>>> Stashed changes
