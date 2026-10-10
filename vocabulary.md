@@ -19786,6 +19786,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'stopping conditions' for '停止条件'.
 =======
 - 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
@@ -19833,3 +19834,6 @@
 - 2026-10-10 17:13 — Use "You'd better" (contraction of 'you had better') for a suggestion, and 'accurate' is more precise than '准' in a technical context.
 - 2026-10-10 17:15 — Use 'right?' or 'isn't it?' for tag questions instead of '把' which doesn't translate directly.
 - 2026-10-10 17:17 — '卡住没清' → 'stuck and never cleared' — use 'stuck' as an adjective and 'cleared' for the flag being reset. Also, '可板上' likely means 'on this board' (context-specific), so I rendered it as 'in this board'.
+=======
+- 2026-10-10 16:14 — Use 'according to' instead of '按' directly, and 'do not pause for review' is more natural than 'stop to wait for review'.
+>>>>>>> Stashed changes
