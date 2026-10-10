@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Execute according to docs/proposals/handoffs/handoff-100.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the report as specified in 'End-of-Session Report'.
-=======
-Okay, let's go with this rule.
->>>>>>> Stashed changes
+Will streaming character-by-character output cause the reply to be sent only after it's fully generated?

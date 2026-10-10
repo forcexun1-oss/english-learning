@@ -19618,3 +19618,4 @@
 - 2026-10-10 13:33 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
 =======
 >>>>>>> Stashed changes
+- 2026-10-10 13:38 — Use 'streaming character-by-character output' instead of '流式压字' for clarity, and phrase the question with 'Will... cause...' for a natural conditional.
