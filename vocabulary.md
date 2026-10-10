@@ -19724,11 +19724,15 @@
 - 2026-10-10 15:35 — Use "What's going on?" for '啥情况' in a casual context, and "task" or "job" for '工作' when referring to a coding task.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 15:36 — Use 'shouldn't be' instead of 'isn't' to express expectation vs. reality.
 =======
 - 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
 >>>>>>> Stashed changes
 - 2026-10-10 15:36 — Use 'supposed to' to express expectation (应该), and 'turn into a mess' is a natural way to say 搞出这么多事.
+=======
+- 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
+>>>>>>> Stashed changes
 =======
 - 2026-10-10 15:36 — Use 'You've spent' instead of 'You have spent' for a more natural contraction in informal developer communication.
 >>>>>>> Stashed changes
