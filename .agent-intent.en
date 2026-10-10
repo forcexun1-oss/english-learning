@@ -1,1 +1,1 @@
-Is it really that hard to debug? Is Codex not checking the logs, or are the logs not recording everything?
+Also, when Pi validates that the schema is invalid, does it fail silently without calling the tool? Or did we not handle the error?
