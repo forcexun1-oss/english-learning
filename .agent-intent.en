@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 First verify the ladder, then decide whether to re-export.
+=======
+The watchdog for the narrowed session port just failed with exit code 1.
+>>>>>>> Stashed changes
