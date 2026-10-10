@@ -19906,3 +19906,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 19:24 — Use 'completed successfully' instead of just 'completed' to sound more natural in English.
 - 2026-10-10 19:25 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
+- 2026-10-10 19:25 — Use 'run' instead of 'execute' for commands like systemctl; 'execute' is fine but 'run' is more natural for starting processes.
