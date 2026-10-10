@@ -19957,3 +19957,4 @@
 - 2026-10-11 00:15 — Use 'run into' for encountering problems informally; '遇到' can be 'encounter' or 'run into'.
 - 2026-10-11 00:16 — Use 'deletable' instead of 'can be deleted' for a more natural adjective form, and 'did you delete them' for a direct past-tense question.
 - 2026-10-11 00:17 — "腾出空间" translates to "free up space" — "free up" is the natural phrasal verb here, not "make space".
+- 2026-10-11 00:20 — "看看够了吗" can be translated as "Check if that's enough" — use "if" to introduce the question, and "enough" instead of "sufficient" for a more natural, conversational tone.
