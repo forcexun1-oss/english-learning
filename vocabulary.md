@@ -19747,6 +19747,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 15:50 — Use 'according to' instead of '按' directly, and 'as specified in' for '按...输出' to sound more natural.
 =======
 >>>>>>> Stashed changes
@@ -19760,3 +19761,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-10 16:06 — Use "model variants" instead of "models" when referring to different versions/configurations of the same model.
+=======
+>>>>>>> Stashed changes
