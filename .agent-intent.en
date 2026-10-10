@@ -1,1 +1,20 @@
+<<<<<<< Updated upstream
 What does the actual extraction flow look like now?
+=======
+# THE KEY QUESTION of the plan (user, verbatim intent): how is the original session built? If it is not built, what do later requests fork from? Answer this first and in the most detail.
+
+Everything in the previous redirect (phase2b: session path only, no APC, plan only, output .omc/dispatch/kv-session-plan.md in Chinese) still applies. Add this as the central section of the plan:
+
+A. Facts first, from code (file:line, quote fully):
+   - What does mlx-vlm need to have a session to fork from? Is a session/checkpoint created implicitly by an ordinary chat request carrying X-KV-Session (checkpoints cut at message boundaries during that request's prefill)? Or must it be built explicitly (e.g., a /v1/sessions create/prefill endpoint, a max_tokens=0/1 "prefill-only" request)? What exactly is stored: KV up to which message boundary?
+   - What does X-KV-Fork-From require: an existing session id whose checkpoint is a token-prefix of the new request? What happens when the parent does not exist or the new prompt diverges before the checkpoint (silent full prefill? error? miss record)? Does the fingerprint chain let a request hit WITHOUT any session/fork header?
+   - Can a request fork from a mid-point of a parent (a message boundary that is not the parent's end)? keep_depth=2 implications.
+B. For the benchmark, where no live conversation exists in mlx-vlm, design the "original session":
+   - Option 1: build it explicitly — one prefill-only request per haystack conversation (what messages, what system prompt, so it is token-identical to the prefix later requests use), then every summarise/extract request forks from it and appends its prompt as trailing message(s).
+   - Option 2: no explicit build — the first real summarise/extract request is laid out as [conversation messages][instruction message] and itself creates the checkpoint at the boundary after the conversation; later requests fork from that boundary. Does the checkpoint-at-message-boundary mechanism make this work? What happens under concurrency when several requests of the same episode start before the first finishes prefill (all miss?) — and how to serialize/order them.
+   - For each option: the exact message layout, session/fork id scheme (per haystack session? per episode? how Graphiti's "previous 3 episodes + current" context window maps onto it — note that window changes per episode, so which prefix is actually stable?), which client changes, memory cost per checkpoint on q6, and whether the prompt text the model sees changes vs today (behaviour change of the system under test).
+   - Give a recommendation and say why.
+
+C. Then the remaining phase2b sections (is the intended production usage intact; A/B verification).
+Same stop conditions and probe limits as before. Run straight through to the plan file.
+>>>>>>> Stashed changes

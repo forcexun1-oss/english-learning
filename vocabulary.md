@@ -19520,6 +19520,7 @@
 - 2026-10-10 11:03 — Use 'how is... built' (passive voice) for '如何构建', and 'if it's not built' for '不构建的话'. '方案的关键' translates naturally as 'the key to the plan'.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-10 11:03 — Use "how do we" instead of "如何" directly translated, and "the key to" instead of "方案的关键".
 =======
 - 2026-10-10 11:03 — Use 'incoming request' instead of 'new request' for clarity, and 'same' instead of 'that boundary' to avoid repetition.
@@ -19528,3 +19529,6 @@
 - 2026-10-10 11:03 — Use 'incoming request' instead of 'new request' for clarity, and 'same' instead of 'that boundary' to avoid repetition.
 >>>>>>> Stashed changes
 - 2026-10-10 11:05 — Use 'What does ... look like?' instead of '是什么样的' for asking about how something works or appears.
+=======
+- 2026-10-10 11:03 — Use 'incoming request' instead of 'new request' for clarity, and 'same' instead of 'that boundary' to avoid repetition.
+>>>>>>> Stashed changes
