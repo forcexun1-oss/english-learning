@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Execute according to docs/proposals/handoffs/handoff-99.md and complete it fully. Do not write a plan document, and do not pause for review; only stop when the stopping conditions in the document are met. After completion, output the 'End-of-session report' as specified.
+=======
+Also, have him update mlx-vlm — it's probably been a while since we pulled the remote code.
+>>>>>>> Stashed changes
 =======
 Also, have him update mlx-vlm — it's probably been a while since we pulled the remote code.
 >>>>>>> Stashed changes
