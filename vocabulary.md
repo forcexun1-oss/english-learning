@@ -19462,3 +19462,4 @@
 =======
 - 2026-10-10 08:52 — "继续" alone is fine as a short command; "Please continue" is a slightly more polite alternative.
 >>>>>>> Stashed changes
+- 2026-10-10 09:07 — Use "pre-board" as a compound adjective before a noun; "上板前" = "before going on the board".
