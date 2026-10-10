@@ -19947,3 +19947,4 @@
 - 2026-10-10 22:50 — Use 'Is there...' for yes/no questions about existence, instead of directly translating '没有' as 'no'.
 - 2026-10-10 22:50 — Use present continuous "is it running" to ask about an ongoing action, not "在跑了吗" literally translated.
 - 2026-10-10 22:51 — Use 'Didn't I say...' for a rhetorical question in past tense, and 'hand over' is the phrasal verb for 移交.
+- 2026-10-10 22:53 — Use 'Set a goal' (not '自己设置个goal') and 'complete all the tasks you've been given' to sound natural. 'Set' is the verb for goals.
