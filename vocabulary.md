@@ -19624,3 +19624,4 @@
 >>>>>>> Stashed changes
 - 2026-10-10 13:41 — Use present perfect ('has completed') to report a finished action relevant to the current moment.
 - 2026-10-10 13:47 — Use 'verbatim' to mean 'exactly as originally stated' — it's a common technical term for quoting exact text.
+- 2026-10-10 13:51 — Use "debug" instead of "查" for investigating issues. Also, "没有记录全" is better as "not recording everything" or "incomplete" rather than a literal word-for-word translation.
