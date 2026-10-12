@@ -20074,3 +20074,4 @@
 - 2026-10-12 09:59 — Use "Resume" for restarting after a stop, and "provide a report" sounds more natural than "give a report" in engineering updates.
 >>>>>>> Stashed changes
 - 2026-10-12 10:16 — "还有很多地方需要改造" = "there are still many places that need to be reworked" — use "refactored" if you mean code-level restructuring, "reworked" for more general changes.
+- 2026-10-12 10:25 — "后面这两句" = "the latter two sentences" (or "the last two sentences"); use "while" or "whereas" to contrast the two clauses instead of just joining them.
