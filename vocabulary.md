@@ -20136,3 +20136,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:43 — "啥" is a colloquial form of "什么" (what); "观察一下" can be naturally rendered as "keep an eye on" or "check".
