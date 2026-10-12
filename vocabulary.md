@@ -20003,7 +20003,11 @@
 >>>>>>> Stashed changes
 - 2026-10-12 09:14 — Use 'I mean' to clarify what you're referring to, instead of directly translating '我说的是'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 09:17 — Use 'follow <doc/steps>' rather than 'execute <doc>' for instructions; 'execute' usually pairs with a command or a plan.
+=======
+- 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
+>>>>>>> Stashed changes
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
