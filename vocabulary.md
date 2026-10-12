@@ -20080,3 +20080,4 @@
 - 2026-10-12 11:01 — Avoid a comma splice: join the contrasting clauses with "while" or a semicolon. Also, "也" here becomes "too" placed after the word it modifies ("expensive too").
 - 2026-10-12 11:02 — "Execute" usually takes a command or plan, not a file — say "follow/carry out the instructions in <file>"; also prefer the contraction "you're" in informal dev messages.
 - 2026-10-12 11:12 — "在……的时候" maps to "when/while + clause"; here the natural English is just "when you submit a task" — no need for "at the time of". Also note "他" for an AI agent is better rendered as "it/its" than "he/his".
+- 2026-10-12 11:13 — "这样也好……" translates naturally as "that way it'd also be..." — use "also/easier" rather than a literal "so it's good to..."; "和……分开" is "separate it from ...".
