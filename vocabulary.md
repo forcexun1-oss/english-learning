@@ -20087,3 +20087,4 @@
 - 2026-10-12 13:10 — Chinese 他/它 both usually become "it" in English when referring to a tool or agent; 自己学会 = learn ... on its own / by itself.
 - 2026-10-12 13:11 — In casual dev talk, "take care of / handle this" sounds more natural than "be responsible for this"; also "空等" = "idle waiting" or "waiting without burning tokens."
 - 2026-10-12 13:16 — 中文的"效果完全不受影响"直译会很生硬,英文更自然用 without + 动名词: "without affecting the results at all". 另外"应该有把"里的"把"是"吧"的笔误,表示推测语气,英文用 "... , right?" 或 "... , I'd think?" 来收尾。
+- 2026-10-12 13:21 — '应该有吧' ends in 吧, which softens a statement into a tentative tag question — English renders this with '...right?' or '...shouldn't it?'. Don't confuse 吧 (ba, softener) with 把 (bǎ, the disposal preposition) — here 把 is just a typo.
