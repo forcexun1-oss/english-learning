@@ -20050,3 +20050,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:52 — 「在跑的任务」in English is best said as "the running task" or "the task that's running"; "更正" here maps naturally to "corrected" or "fixed".
