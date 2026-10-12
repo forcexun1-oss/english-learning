@@ -20082,3 +20082,4 @@
 - 2026-10-12 11:12 — "在……的时候" maps to "when/while + clause"; here the natural English is just "when you submit a task" — no need for "at the time of". Also note "他" for an AI agent is better rendered as "it/its" than "he/his".
 - 2026-10-12 11:13 — "这样也好……" translates naturally as "that way it'd also be..." — use "also/easier" rather than a literal "so it's good to..."; "和……分开" is "separate it from ...".
 - 2026-10-12 11:21 — The sentence-final 了 marks a change of state — something that wasn't true before is now true. In English, convey this with 'now', 'again', or 'is back' rather than a plain present tense.
+- 2026-10-12 13:02 — Use 'every 30 minutes' for frequency; '巡检' in a dev context is often translated as 'check' or 'health check'.
