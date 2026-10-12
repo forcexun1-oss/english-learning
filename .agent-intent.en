@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 You were stopped mid-task. Your uncommitted edits are still in the worktree (tools.rs description '给当前导航路线加途经点', fixture, backend.rs blank line). Verify they are exactly what my previous message asked for, then run the gates from that message (cargo test -p device-mcp; npm test in pi_extensions/progressive-tools must be 144/144 — paste the ℹ lines; rebuild aarch64 and overwrite the r120 artifact + .sha256), commit with trailer 'Co-Authored-By: gpt-6-luna (codex) <noreply@openai.com>', and report the new sha256.
+=======
+Resume: you were stopped before you could start. Complete the full six-item fix list from my previous message, run its gates once, and provide the final report.
+>>>>>>> Stashed changes
