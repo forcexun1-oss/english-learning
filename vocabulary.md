@@ -20183,3 +20183,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 16:47 — For settings/features, 'configuration option' sounds more natural than 'configuration capability'; use 'the KV cache' when referring to the specific cache.
