@@ -20076,3 +20076,4 @@
 - 2026-10-12 10:16 — "还有很多地方需要改造" = "there are still many places that need to be reworked" — use "refactored" if you mean code-level restructuring, "reworked" for more general changes.
 - 2026-10-12 10:25 — "后面这两句" = "the latter two sentences" (or "the last two sentences"); use "while" or "whereas" to contrast the two clauses instead of just joining them.
 - 2026-10-12 10:25 — "关机" here is a question, so use "Should I shut it down?" — matching the tone of the first question rather than a bare command "Shut it down."
+- 2026-10-12 11:00 — In Chinese, '不用板子的任务' places the modifier before 的; in English, the relative clause 'that don't require the board' comes after 'tasks'.
