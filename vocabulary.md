@@ -20063,3 +20063,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 09:59 — 「是是」是笔误，只保留一个「是」；「后面这两句」在英文里常说 the last two sentences / the following two sentences。
