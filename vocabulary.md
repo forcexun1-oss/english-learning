@@ -20086,3 +20086,4 @@
 - 2026-10-12 13:03 — "板子" means a development board (dev board/hardware board) in embedded work; use "the board" in English rather than a literal "plate".
 - 2026-10-12 13:10 — Chinese 他/它 both usually become "it" in English when referring to a tool or agent; 自己学会 = learn ... on its own / by itself.
 - 2026-10-12 13:11 — In casual dev talk, "take care of / handle this" sounds more natural than "be responsible for this"; also "空等" = "idle waiting" or "waiting without burning tokens."
+- 2026-10-12 13:16 — 中文的"效果完全不受影响"直译会很生硬,英文更自然用 without + 动名词: "without affecting the results at all". 另外"应该有把"里的"把"是"吧"的笔误,表示推测语气,英文用 "... , right?" 或 "... , I'd think?" 来收尾。

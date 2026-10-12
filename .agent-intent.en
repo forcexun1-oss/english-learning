@@ -1,1 +1,1 @@
-2. Waiting is on my side: use Monitor to watch this pid or a completion-marker file — idle waiting doesn't burn tokens. Would it be better for you to take care of this, or for him to do it himself?
+Also, in the plan you should guide him on how to execute more sensibly and save tokens, without affecting the results at all. Does codex have a mechanism for receiving messages while it's executing? It should, right? If not, we need to build one — something like an inbox. It seems there are already mature solutions or skills for this, right?
