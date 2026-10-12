@@ -20148,3 +20148,4 @@
 - 2026-10-12 15:50 — Use 'when he encounters a problem' for 他遇到问题; 'proactively' captures 主动.
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:51 — "要" is a bare verb with no subject or object — Chinese allows dropping both, but English needs a complete phrase like "Yes, I'd like that" or "Yes, please."
