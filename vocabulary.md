@@ -20102,3 +20102,4 @@
 - 2026-10-12 14:46 — Place 'previously' before the past participle: 'was previously set to', not 'was set previously to'.
 - 2026-10-12 15:09 — 轮询 (polling) is often mistyped as 轮训; in English use 'polling' as the noun and 'poll' as the verb.
 - 2026-10-12 15:13 — "还原干什么" is a rhetorical question meaning "why bother reverting?"; "让他跑完" uses 让 + verb phrase to mean "let it run to the end".
+- 2026-10-12 15:22 — For suggestions, use "How about + verb-ing" (How about writing it as...); also "looking at it this way" naturally renders 你这样看着.
