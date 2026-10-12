@@ -20169,3 +20169,4 @@
 - 2026-10-12 16:06 — For '派某人做某事', use 'have someone do something' (bare verb, no 'to') — 'have him verify', not 'send him to verify'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 16:11 — “这都写错” expresses exasperation at a basic mistake; “even this” captures the 都 emphasis naturally in English.
