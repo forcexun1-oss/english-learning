@@ -20205,3 +20205,4 @@
 - 2026-10-12 17:15 — "后面的" can mean either "later" (in time) or "subsequent" (in order) — here "afterward" or "subsequent" both work; say "the cache hits after that" if you mean a specific later step.
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 18:41 — Use 'without + noun' to express 不用…; '有什么…可以做的' often translates as 'What can be done…'.
