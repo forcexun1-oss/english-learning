@@ -20020,3 +20020,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:27 — Use the present continuous 'is ... doing' for an action happening now.
