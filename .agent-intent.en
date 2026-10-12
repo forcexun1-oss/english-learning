@@ -1,1 +1,1 @@
-Is it stuck? Also, in the plan you should guide it on how to execute more sensibly and use fewer tokens, without affecting the results at all. Does Codex have a mechanism for receiving messages while it's executing? It should, right? If not, we need to build one — like an inbox or something. I think there are already mature solutions or skills for this, aren't there?
+Your test didn't burn through tokens for nothing, did it?
