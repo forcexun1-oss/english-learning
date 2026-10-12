@@ -20152,3 +20152,4 @@
 - 2026-10-12 15:51 — "要" is a bare verb with no subject or object — Chinese allows dropping both, but English needs a complete phrase like "Yes, I'd like that" or "Yes, please."
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:57 — "做法" here means "approach" or "method" — use it when asking how something is done, e.g. "What exactly is the approach for X?"
