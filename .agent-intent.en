@@ -1,1 +1,1 @@
-If it hits a hard context limit, it can pause and ask you.
+Does Codex's cache strategy have any parameters that can be changed? If not, then the polling interval can be adjusted.
