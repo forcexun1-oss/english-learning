@@ -20107,6 +20107,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 15:22 — For suggestions, use "How about + verb-ing" (How about writing it as...); also "looking at it this way" naturally renders 你这样看着.
 - 2026-10-12 15:23 — “我的意思是” naturally translates to “What I mean is…”, not “My meaning is…”; use “would it be better to…” for “是否更好”.
 - 2026-10-12 15:24 — 「等等」alone here means "wait / hold on" (the same characters can also mean "and so on", so context decides). "Hold on" is a natural, spoken-English way to pause the flow of work.
@@ -20126,3 +20127,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-12 15:40 — “轮训” is likely a typo for “轮询” (polling); “改长” translates naturally as “make longer” or “increase.”
+=======
+>>>>>>> Stashed changes

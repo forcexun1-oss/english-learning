@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 What I mean is: make the cache duration longer, but don't make the polling interval longer.
+=======
+Why revert it? Just let it run to completion.
+>>>>>>> Stashed changes
