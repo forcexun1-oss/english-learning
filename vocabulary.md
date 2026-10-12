@@ -20144,3 +20144,4 @@
 - 2026-10-12 15:46 — "为啥" is casual for "why" — in English use "Why..." for questions; "INBOX" stays as-is since it's a technical term/proper noun.
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:50 — Use 'when he encounters a problem' for 他遇到问题; 'proactively' captures 主动.
