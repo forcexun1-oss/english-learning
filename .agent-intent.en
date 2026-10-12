@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The core problem we need to solve now is the Codex polling issue. It has its own polling mechanism, right? I remember it has a wait.
+=======
+Why revert it? Just let it run to completion.
+>>>>>>> Stashed changes
