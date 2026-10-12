@@ -20090,3 +20090,4 @@
 - 2026-10-12 13:21 — '应该有吧' ends in 吧, which softens a statement into a tentative tag question — English renders this with '...right?' or '...shouldn't it?'. Don't confuse 吧 (ba, softener) with 把 (bǎ, the disposal preposition) — here 把 is just a typo.
 - 2026-10-12 13:39 — “干烧 token” can be expressed as “burn through tokens for nothing”; a negative statement with “吧” often becomes a tag question like “..., did it?”
 - 2026-10-12 13:42 — "信它的自述" becomes "trust its self-report" — English imperatives usually need an explicit subject/object, so "don't trust its self-report" is clearer than a literal rendering.
+- 2026-10-12 13:54 — "有hurk吗" is likely a typo for "有 hook 吗" (hook); "跑了多少 token" translates naturally as "how many tokens it has used" or "how many tokens it burned."
