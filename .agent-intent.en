@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Run docs/proposals/handoffs/handoff-118.md exactly as written. The worktree /Users/youxun/project/edgeAgent-r118 and branch already exist — you're in it, so skip the 'create worktree' step. One caveat from the previous round (r117): a guard retry emits extra '[progressive-tools] trace' lines with turn>0 (r117 saw 42 extra across 254 turns). Match each request to its own traces using the prompt text and the 'turn' field in order — never by grabbing the last N trace lines. Cast latency fields with float(). Finish with the final report the handoff asks for.
-=======
-The board is here now.
->>>>>>> Stashed changes
+Write up a description of that bug. Keep it short—just explain it clearly. I'll send it to them and have them fix it.

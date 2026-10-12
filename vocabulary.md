@@ -20030,3 +20030,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:47 — “让他们去修” here means “have them fix it” or “ask them to fix it,” not “let them fix it” (which means allow them to fix it).
