@@ -20084,3 +20084,4 @@
 - 2026-10-12 11:21 — The sentence-final 了 marks a change of state — something that wasn't true before is now true. In English, convey this with 'now', 'again', or 'is back' rather than a plain present tense.
 - 2026-10-12 13:02 — Use 'every 30 minutes' for frequency; '巡检' in a dev context is often translated as 'check' or 'health check'.
 - 2026-10-12 13:03 — "板子" means a development board (dev board/hardware board) in embedded work; use "the board" in English rather than a literal "plate".
+- 2026-10-12 13:10 — Chinese 他/它 both usually become "it" in English when referring to a tool or agent; 自己学会 = learn ... on its own / by itself.
