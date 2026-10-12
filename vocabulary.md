@@ -20005,6 +20005,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 09:17 — Use 'follow <doc/steps>' rather than 'execute <doc>' for instructions; 'execute' usually pairs with a command or a plan.
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
@@ -20016,3 +20017,6 @@
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
 - 2026-10-12 09:26 — 「在跑吗」asks whether something is currently running — English uses the present continuous 'Is it running?' rather than a bare verb; 'run' alone would sound like a command or a habitual action.
+=======
+- 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
+>>>>>>> Stashed changes
