@@ -20007,6 +20007,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 09:17 — Use 'follow <doc/steps>' rather than 'execute <doc>' for instructions; 'execute' usually pairs with a command or a plan.
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
@@ -20026,3 +20027,6 @@
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
 - 2026-10-12 09:46 — '42 extra in 254 turns' reads more naturally as 'across 254 turns' — use 'across' when counting something spread over many items.
+=======
+- 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
+>>>>>>> Stashed changes
