@@ -1,1 +1,1 @@
-Even if it hard-exits, the run won't have been wasted, right? It should be recoverable, the results must not be lost, and if the assessment is reasonable, it can continue.
+If it hits a hard context limit, it can pause and ask you.

@@ -20095,3 +20095,4 @@
 - 2026-10-12 14:02 — Chinese "你把…了?" questions often map to English "Did you…?" — keep the auxiliary first and use the base verb (write, not wrote). "这种" here is best rendered as "stuff/things like".
 - 2026-10-12 14:03 — For config files, 整体的 usually means "global" (user-level) rather than "overall".
 - 2026-10-12 14:26 — “白跑” means “wasted/for nothing”; “可恢复” is best translated as “recoverable” or “resumable” in this context.
+- 2026-10-12 14:27 — "硬上下" is shorthand jargon — 硬上下文 (hard context limit) is clearer; in English, keep the pattern "If it hits X, it can pause and ask you" (present tense in both clauses for general rules).
