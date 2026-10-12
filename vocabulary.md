@@ -20054,9 +20054,12 @@
 - 2026-10-12 09:53 — "更正" is used for correcting text/errors; for code and tasks, "fix" sounds more natural. Also, "在跑" (ongoing action) becomes a relative clause in English: "tasks that are running" or simply "the running tasks".
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 09:55 — English needs a noun after 'running' (e.g., 'the running one/task'); 'the running' by itself sounds incomplete.
 =======
 >>>>>>> Stashed changes
 - 2026-10-12 09:58 — "说清楚" translates naturally as "make it clear" rather than "say clearly"; note the comma splice in the Chinese is best split into two clauses joined by "and" or a period in English.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
