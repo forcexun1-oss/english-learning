@@ -20002,3 +20002,4 @@
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
 - 2026-10-12 09:14 — Use 'I mean' to clarify what you're referring to, instead of directly translating '我说的是'.
+- 2026-10-12 09:17 — Use 'follow <doc/steps>' rather than 'execute <doc>' for instructions; 'execute' usually pairs with a command or a plan.
