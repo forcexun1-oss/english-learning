@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Should we change it to one hour?
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
+What I mean is: make the cache duration longer, but don't make the polling interval longer.
