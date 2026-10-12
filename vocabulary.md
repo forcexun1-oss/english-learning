@@ -19996,3 +19996,4 @@
 =======
 - 2026-10-10 19:56 — Use "Is it taking this long?" instead of "这么久吗" — the verb "take" is needed in English to ask about duration.
 >>>>>>> Stashed changes
+- 2026-10-12 09:11 — Use 'set aside' to mean 'put on hold' or 'defer', and 'finish running' to convey completing the execution of the changes.
