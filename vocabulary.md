@@ -20117,6 +20117,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 15:22 — For suggestions, use "How about + verb-ing" (How about writing it as...); also "looking at it this way" naturally renders 你这样看着.
 - 2026-10-12 15:23 — “我的意思是” naturally translates to “What I mean is…”, not “My meaning is…”; use “would it be better to…” for “是否更好”.
 - 2026-10-12 15:24 — 「等等」alone here means "wait / hold on" (the same characters can also mean "and so on", so context decides). "Hold on" is a natural, spoken-English way to pause the flow of work.
@@ -20156,6 +20157,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-12 15:57 — "做法" here means "approach" or "method" — use it when asking how something is done, e.g. "What exactly is the approach for X?"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
