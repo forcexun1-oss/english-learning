@@ -20045,3 +20045,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:51 — The 的 at the end dangles without a noun; in English you'd just drop it and say "get Codex wrong" — if you meant something specific like "Codex's behavior", name that noun explicitly.
