@@ -20040,3 +20040,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:50 — "纯说X" translates naturally as "just talk about X" or "X only"; English rarely uses a standalone adverb like "purely" here. Use an em dash or semicolon to join the two clauses instead of a comma.
