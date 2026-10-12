@@ -1,1 +1,1 @@
-Can you make it learn to wait on its own?
+2. Waiting is on my side: use Monitor to watch this pid or a completion-marker file — idle waiting doesn't burn tokens. Would it be better for you to take care of this, or for him to do it himself?

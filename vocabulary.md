@@ -20085,3 +20085,4 @@
 - 2026-10-12 13:02 — Use 'every 30 minutes' for frequency; '巡检' in a dev context is often translated as 'check' or 'health check'.
 - 2026-10-12 13:03 — "板子" means a development board (dev board/hardware board) in embedded work; use "the board" in English rather than a literal "plate".
 - 2026-10-12 13:10 — Chinese 他/它 both usually become "it" in English when referring to a tool or agent; 自己学会 = learn ... on its own / by itself.
+- 2026-10-12 13:11 — In casual dev talk, "take care of / handle this" sounds more natural than "be responsible for this"; also "空等" = "idle waiting" or "waiting without burning tokens."
