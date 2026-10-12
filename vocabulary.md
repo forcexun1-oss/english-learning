@@ -20101,3 +20101,4 @@
 - 2026-10-12 14:36 — "派活" = to assign/dispatch a task (here, to a subagent); "观察一下" is best rendered as "see how it goes" or "observe" rather than a literal "observe a bit".
 - 2026-10-12 14:46 — Place 'previously' before the past participle: 'was previously set to', not 'was set previously to'.
 - 2026-10-12 15:09 — 轮询 (polling) is often mistyped as 轮训; in English use 'polling' as the noun and 'poll' as the verb.
+- 2026-10-12 15:13 — "还原干什么" is a rhetorical question meaning "why bother reverting?"; "让他跑完" uses 让 + verb phrase to mean "let it run to the end".
