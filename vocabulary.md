@@ -20201,3 +20201,4 @@
 - 2026-10-12 17:14 — "轮训" (rotational training) is likely a typo for "轮询" (polling); note that English uses "working normally/working properly" rather than a literal "normal".
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 17:15 — "后面的" can mean either "later" (in time) or "subsequent" (in order) — here "afterward" or "subsequent" both work; say "the cache hits after that" if you mean a specific later step.
