@@ -20035,3 +20035,4 @@
 =======
 - 2026-10-12 09:17 — 在了 marks a change into a state ("has now become present"), so "is here now" or "has arrived" fits better than plain "is here".
 >>>>>>> Stashed changes
+- 2026-10-12 09:49 — The sentence-ending 吧 makes this a tentative check, which English renders with a tag question like 'right?' or 'is there?' — note that after a negative statement English uses the positive tag: 'There's no private info, is there?'
