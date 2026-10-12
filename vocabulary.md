@@ -20065,7 +20065,11 @@
 >>>>>>> Stashed changes
 - 2026-10-12 09:59 — 「是是」是笔误，只保留一个「是」；「后面这两句」在英文里常说 the last two sentences / the following two sentences。
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-12 09:59 — 'Ask' takes the preposition 'for' when the object is a thing: 'what my message asked for' (compare 'what my message asked me'). Without 'for', 'ask' means 'to pose a question'.
+=======
+- 2026-10-12 09:59 — Use "Resume" for restarting after a stop, and "provide a report" sounds more natural than "give a report" in engineering updates.
+>>>>>>> Stashed changes
 =======
 - 2026-10-12 09:59 — Use "Resume" for restarting after a stop, and "provide a report" sounds more natural than "give a report" in engineering updates.
 >>>>>>> Stashed changes
