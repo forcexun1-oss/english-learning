@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I want to discuss the approach first — don't start working on it yet.
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
+The core problem we need to solve now is the Codex polling issue. It has its own polling mechanism, right? I remember it has a wait.

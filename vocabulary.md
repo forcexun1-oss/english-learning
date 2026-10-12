@@ -20115,3 +20115,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:29 — Typo note: "把" should be "吧" (a soft assumption/question particle), and "轮训" should be "轮询" (polling; 轮训 means rotational training).
