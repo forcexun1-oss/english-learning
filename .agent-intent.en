@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Can I stop the running one? It's too expensive.
-=======
-Did you fix the tasks that are currently running?
->>>>>>> Stashed changes
+Make it clear in CLAUDE.md that the default should be a cheap model like luna, and if you find an expensive model is being used, check with me first.
