@@ -20094,3 +20094,4 @@
 - 2026-10-12 13:57 — 「白跑」= effort done in vain → English often uses 'be wasted' or 'go to waste'; note 会不会 → "won't ...?" in a confirming question.
 - 2026-10-12 14:02 — Chinese "你把…了?" questions often map to English "Did you…?" — keep the auxiliary first and use the base verb (write, not wrote). "这种" here is best rendered as "stuff/things like".
 - 2026-10-12 14:03 — For config files, 整体的 usually means "global" (user-level) rather than "overall".
+- 2026-10-12 14:26 — “白跑” means “wasted/for nothing”; “可恢复” is best translated as “recoverable” or “resumable” in this context.
