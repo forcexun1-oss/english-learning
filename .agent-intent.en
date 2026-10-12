@@ -1,1 +1,1 @@
-Don't do it yourself — Opus is expensive too, while Luna is cheap. Just continue.
+Follow docs/proposals/handoffs/handoff-126.md exactly. The worktree and branch already exist; you're in it. Run every command for real and report only output you actually saw.
