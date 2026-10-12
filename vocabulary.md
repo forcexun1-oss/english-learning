@@ -20140,3 +20140,4 @@
 - 2026-10-12 15:43 — "啥" is a colloquial form of "什么" (what); "观察一下" can be naturally rendered as "keep an eye on" or "check".
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:46 — "为啥" is casual for "why" — in English use "Why..." for questions; "INBOX" stays as-is since it's a technical term/proper noun.
