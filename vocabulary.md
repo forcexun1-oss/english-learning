@@ -20092,3 +20092,4 @@
 - 2026-10-12 13:42 — "信它的自述" becomes "trust its self-report" — English imperatives usually need an explicit subject/object, so "don't trust its self-report" is clearer than a literal rendering.
 - 2026-10-12 13:54 — "有hurk吗" is likely a typo for "有 hook 吗" (hook); "跑了多少 token" translates naturally as "how many tokens it has used" or "how many tokens it burned."
 - 2026-10-12 13:57 — 「白跑」= effort done in vain → English often uses 'be wasted' or 'go to waste'; note 会不会 → "won't ...?" in a confirming question.
+- 2026-10-12 14:02 — Chinese "你把…了?" questions often map to English "Did you…?" — keep the auxiliary first and use the base verb (write, not wrote). "这种" here is best rendered as "stuff/things like".
