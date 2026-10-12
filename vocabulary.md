@@ -20190,3 +20190,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 17:00 — "槽位不够" = "not enough slots" / "when slots run out"; note that "would it be faster" is better than "is it faster" when asking about a hypothetical.

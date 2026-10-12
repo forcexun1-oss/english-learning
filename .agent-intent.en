@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Does it have a configuration option to store the KV cache on disk?
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
-=======
-Why revert it? Just let it run to completion.
->>>>>>> Stashed changes
+If it's available, would it be useful for us? And when there aren't enough slots, would loading be faster?
