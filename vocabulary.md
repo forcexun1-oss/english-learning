@@ -20173,3 +20173,4 @@
 - 2026-10-12 16:11 — “这都写错” expresses exasperation at a basic mistake; “even this” captures the 都 emphasis naturally in English.
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 16:13 — Use "those two skills" for "那2个技能"; "still useful" translates "还有用".
