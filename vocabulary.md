@@ -20129,3 +20129,4 @@
 - 2026-10-12 15:40 — “轮训” is likely a typo for “轮询” (polling); “改长” translates naturally as “make longer” or “increase.”
 =======
 >>>>>>> Stashed changes
+- 2026-10-12 15:41 — The Chinese pattern "不是……吗" forms a rhetorical question expecting agreement — in English this is best rendered as a negative question ("Isn't ... ?"), not as "Is not ... ?" or a statement.
