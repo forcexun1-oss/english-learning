@@ -20097,3 +20097,4 @@
 - 2026-10-12 14:26 — “白跑” means “wasted/for nothing”; “可恢复” is best translated as “recoverable” or “resumable” in this context.
 - 2026-10-12 14:27 — "硬上下" is shorthand jargon — 硬上下文 (hard context limit) is clearer; in English, keep the pattern "If it hits X, it can pause and ask you" (present tense in both clauses for general rules).
 - 2026-10-12 14:31 — You wrote 轮训; the correct term is 轮询 (polling). Also, in English, conditional 'if not, then...' flows naturally as 'If not, then the polling interval can be adjusted.'
+- 2026-10-12 14:33 — Chinese '有没有可能是……导致的' maps to 'Is it possible that ... is caused by ...?' — English needs an explicit subject and verb (here 'this is'), and '也' becomes 'also' placed before the verb: 'he also read it.'
