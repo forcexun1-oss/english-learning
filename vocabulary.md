@@ -20121,3 +20121,4 @@
 >>>>>>> Stashed changes
 - 2026-10-12 15:32 — 把 should be 吧 for a suggestion; 'fewer tokens' is better than 'less tokens' because tokens are countable.
 - 2026-10-12 15:33 — Chinese 倾向于 maps better to "I'd prefer to" or "I lean toward" than "I tend to" (which implies a habit); and for an AI agent, "自己跑任务" is best rendered "when it runs tasks on its own".
+- 2026-10-12 15:37 — "要不要..." in this kind of decision-making question is most naturally rendered as "Should we...?" — not a literal "Do you want to...?" — since you're floating a proposal rather than asking about preference.

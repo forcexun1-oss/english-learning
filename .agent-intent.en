@@ -1,7 +1,1 @@
-<task-notification>
-<task-id>bxenb0t27</task-id>
-<tool-use-id>toolu_017hfuMpt4BshZsWXE3PmTC</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/9e67ade9-6e4d-4f4a-8bcd-a9f6036eefe7/tasks/bxenb0t27.output</output-file>
-<status>completed</status>
-<summary>Background command "Run supervise.sh end-to-end on test task" completed (exit code 0)</summary>
-</task-notification>
+Should we change it to one hour?
