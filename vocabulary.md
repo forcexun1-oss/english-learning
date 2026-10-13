@@ -20278,3 +20278,4 @@
 - 2026-10-13 21:58 — No correction needed — this is a system notification, not a user message.
 - 2026-10-13 22:04 — Use 'finished' or 'completed' instead of 'done' for a more formal tone in status updates.
 - 2026-10-13 22:06 — Use present perfect ('has finished') to report a completed action with current relevance.
+- 2026-10-13 22:07 — Use "finished" or "completed" instead of "completed" is fine, but "finished" is more natural in this context.
