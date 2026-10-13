@@ -20243,3 +20243,4 @@
 - 2026-10-13 14:12 — Use 'Fix' as a verb at the start for a direct instruction, and 'on the provider' is natural for location.
 - 2026-10-13 14:31 — The original message is already in English and correct. No changes needed.
 - 2026-10-13 14:35 — No correction needed — this is a system notification, not a user message.
+- 2026-10-13 14:42 — Use 'Have you committed...' (present perfect) to ask about a recent action's result, and 'Let's' for a suggestion.
