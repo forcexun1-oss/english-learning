@@ -20276,3 +20276,4 @@
 - 2026-10-13 21:50 — Use "completed successfully" instead of just "completed" to emphasize the exit code was 0.
 - 2026-10-13 21:58 — Use "don't need" instead of "不需要" translated literally — 'not needing' is more formal than typical developer chat.
 - 2026-10-13 21:58 — No correction needed — this is a system notification, not a user message.
+- 2026-10-13 22:04 — Use 'finished' or 'completed' instead of 'done' for a more formal tone in status updates.
