@@ -20290,3 +20290,4 @@
 - 2026-10-13 22:34 — Use the present perfect ('has finished') to report a completed action with current relevance.
 - 2026-10-13 22:38 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' in casual conversation — the exit code detail is implied.
 - 2026-10-13 22:57 — Use 'don't need' instead of '不需要' translated literally. 'Are done' is more natural than 'are completed' in casual conversation.
+- 2026-10-13 23:08 — Use the present perfect tense to describe a recently completed action.
