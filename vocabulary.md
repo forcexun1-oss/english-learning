@@ -20212,3 +20212,4 @@
 - 2026-10-13 10:00 — "watchdog" is usually written as one word; "和...一样" can be translated as "just like..." or "same as...".
 - 2026-10-13 10:10 — Chinese often strings short questions together with commas; in English, separate each question with its own question mark for clarity. Also 'easy to fix' is the natural pattern (adjective + to-infinitive), not 'easy to be fixed'.
 - 2026-10-13 10:23 — “in Chinese”单独作指令偏省略，完整自然的说法是“Respond in Chinese.”
+- 2026-10-13 10:24 — In Chinese, place the verb first and the language phrase after it: 汇报 (report) + 用中文 (in Chinese). English keeps the same order here: verb + 'in' + language.
