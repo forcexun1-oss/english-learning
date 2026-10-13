@@ -20231,3 +20231,4 @@
 - 2026-10-13 12:34 — The message is already in English, so no translation needed. Just ensure consistency in technical terms and punctuation.
 - 2026-10-13 12:38 — No correction needed — this is a system notification, not a user message.
 - 2026-10-13 12:41 — Use present perfect "has completed" to describe a finished action relevant to the current moment.
+- 2026-10-13 12:41 — Use the present perfect tense to describe a completed action with current relevance.
