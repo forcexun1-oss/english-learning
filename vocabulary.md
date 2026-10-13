@@ -20268,3 +20268,4 @@
 - 2026-10-13 21:37 — Use 'deviated from' instead of '偏离' to express 'strayed from' in a formal context.
 - 2026-10-13 21:40 — Use 'What is...' instead of 'S是什么' to form a proper English question.
 - 2026-10-13 21:42 — Use 'switch to' instead of '切到' (literally 'cut to'), and 'have Codex execute' for '给codex去执行' to sound natural.
+- 2026-10-13 21:43 — Use 'don't require' instead of '不需要' directly — 'require' is more natural than 'need' in this technical context.
