@@ -20221,3 +20221,4 @@
 - 2026-10-13 10:59 — Use present perfect "has completed" to report a finished action relevant to the current moment.
 - 2026-10-13 11:00 — Use 'finished' or 'completed' instead of 'completed' twice; 'exit code 0' is standard.
 - 2026-10-13 11:05 — Use "If I..." for a conditional question, and "things here" sounds more natural than just "here" in this context.
+- 2026-10-13 11:32 — Use "will that affect" instead of "will it affect this" for a more natural question flow.
