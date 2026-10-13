@@ -20223,3 +20223,4 @@
 - 2026-10-13 11:05 — Use "If I..." for a conditional question, and "things here" sounds more natural than just "here" in this context.
 - 2026-10-13 11:32 — Use "will that affect" instead of "will it affect this" for a more natural question flow.
 - 2026-10-13 11:32 — Use past tense 'completed' to report a finished event.
+- 2026-10-13 11:33 — Use 'will it use' instead of '就用的' to form a future conditional question.
