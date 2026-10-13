@@ -1,6 +1,1 @@
-[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
-1. `ps aux | grep "codex exec" | grep -v grep` — still running? (current: 19811=r133 onboard-client probe; allowed: restart middleware-service only, files only under /data/local/tmp/r133, adb forward).
-2. Log /private/tmp/claude-501/-Users-youxun-project-edgeAgent/2acae017-2470-4056-ac60-2e0590d533bc/scratchpad/r133-codex.log and rollout ~/.codex/sessions/2026/10/13/*01a133a0-cd84-7f93-828d-0853713c0a7c*.jsonl: check mtime, print the last ~15 log lines. Not changed for more than 25 minutes, or repeating the same error, counts as stalled.
-3. `git -C ../edgeAgent-r133 log --oneline -3` and `status --short`; check docs/proposals/evidence/onboard-client-r133-20261013/ for HELP.md / BUDGET-QUESTION.md.
-4. `adb devices` — board connected? `adb shell 'curl -s -o /dev/null -w %{http_code} http://127.0.0.1:8766/v1/agent/health'` (a brief 000 right after a middleware restart is expected). Report right away if r133's log shows a restart of rkllm3-llm or device-mcp, a reboot, a write under /opt/edge-agent, or a request to port 8080.
-5. Reply to the user in one or two short Chinese sentences: progress plus any anomaly. When nothing is wrong, say "正常运行中" plus progress. When something is stalled or broken, say what and recommend what to do (do not kill a process yourself). Once codex has exited, say so and delete this watchdog job yourself with CronDelete.
+The background command "Wait for r133 event, stall, overrun or exit" has completed (exit code 0).
