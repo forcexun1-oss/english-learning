@@ -20239,3 +20239,4 @@
 - 2026-10-13 13:49 — Use 'don't include' instead of '不要带' to express 'not include' in a natural way.
 - 2026-10-13 13:54 — Use 'which are still running?' instead of 'which still run?' for a more natural question form.
 - 2026-10-13 13:57 — Use "finished" or "completed" instead of "跑完了" for background tasks.
+- 2026-10-13 14:05 — Use 'are still running' instead of 'still run' for the present continuous state.
