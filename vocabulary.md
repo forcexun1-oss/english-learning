@@ -20250,3 +20250,4 @@
 - 2026-10-13 15:09 — Use the present perfect "has completed" to report a finished action relevant to the current moment.
 - 2026-10-13 15:22 — Use 'Does... have' for yes/no questions in present tense, and 'KV cache' is the standard term for KV in this context.
 - 2026-10-13 15:23 — Use "has exited" (present perfect) to report a completed action that affects the current state.
+- 2026-10-13 15:33 — Use 'which are still running?' instead of 'which still run?' — the present continuous fits the ongoing check. Also, 'do NOT kill' is clearer than 'do not kill' for emphasis.
