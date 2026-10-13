@@ -20272,3 +20272,4 @@
 - 2026-10-13 21:45 — Use 'dispatch' or 'assign' instead of '派出去' (literally 'send out'); '先' translates naturally as 'first' at the end of the sentence.
 - 2026-10-13 21:46 — Use 'handoff' instead of '交接完' — it's the natural English term for this context.
 - 2026-10-13 21:46 — Use 'switch' instead of '切了' — '切了' is a direct translation of the Chinese verb, but 'switch' is the natural English verb for changing models.
+- 2026-10-13 21:50 — Use "currently" instead of "现在" to sound more natural in English. Also, "要切了" is better expressed as "we need to switch it" for clarity.
