@@ -20237,3 +20237,4 @@
 - 2026-10-13 13:42 — Use 'didn't reproduce' instead of '没有复现' directly translated; 'reproduce' is the standard term for bugs recurring.
 - 2026-10-13 13:43 — '还剩' can be translated as 'left' or 'remaining'. Here, 'What work is left?' is a natural, concise way to ask.
 - 2026-10-13 13:49 — Use 'don't include' instead of '不要带' to express 'not include' in a natural way.
+- 2026-10-13 13:54 — Use 'which are still running?' instead of 'which still run?' for a more natural question form.
