@@ -20267,3 +20267,4 @@
 - 2026-10-13 21:17 — Use 'finished' or 'completed' instead of 'done' in formal contexts; 'done' is fine informally.
 - 2026-10-13 21:37 — Use 'deviated from' instead of '偏离' to express 'strayed from' in a formal context.
 - 2026-10-13 21:40 — Use 'What is...' instead of 'S是什么' to form a proper English question.
+- 2026-10-13 21:42 — Use 'switch to' instead of '切到' (literally 'cut to'), and 'have Codex execute' for '给codex去执行' to sound natural.
