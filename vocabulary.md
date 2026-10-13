@@ -20261,3 +20261,4 @@
 - 2026-10-13 18:08 — Use 'are there any requests' instead of '有请求吗' directly translated; 'coming in' adds natural flow for checking live traffic.
 - 2026-10-13 20:16 — '执行得怎么样了' can be translated as 'How's it going?' or 'How is it progressing?' depending on context.
 - 2026-10-13 20:29 — Use 'built in' (adjective) or 'built-in' (compound adjective) instead of '内置' directly; 'don't modify anything inside' clarifies the scope.
+- 2026-10-13 20:39 — Use 'built-in' instead of '内置' translated literally; 'move on to' is more natural than 'do the later ones first'.
