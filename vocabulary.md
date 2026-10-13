@@ -20270,3 +20270,4 @@
 - 2026-10-13 21:42 — Use 'switch to' instead of '切到' (literally 'cut to'), and 'have Codex execute' for '给codex去执行' to sound natural.
 - 2026-10-13 21:43 — Use 'don't require' instead of '不需要' directly — 'require' is more natural than 'need' in this technical context.
 - 2026-10-13 21:45 — Use 'dispatch' or 'assign' instead of '派出去' (literally 'send out'); '先' translates naturally as 'first' at the end of the sentence.
+- 2026-10-13 21:46 — Use 'handoff' instead of '交接完' — it's the natural English term for this context.
