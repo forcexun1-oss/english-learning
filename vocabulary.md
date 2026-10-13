@@ -20265,3 +20265,4 @@
 - 2026-10-13 21:04 — Use 'finished' or 'completed' instead of 'done' for a more natural phrasing in this context.
 - 2026-10-13 21:06 — Use "finished" or "completed" instead of "done" for a more natural past tense in this context.
 - 2026-10-13 21:17 — Use 'finished' or 'completed' instead of 'done' in formal contexts; 'done' is fine informally.
+- 2026-10-13 21:37 — Use 'deviated from' instead of '偏离' to express 'strayed from' in a formal context.
