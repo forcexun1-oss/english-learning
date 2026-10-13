@@ -1,1 +1,1 @@
-Is Codex's scheduled check working normally now? It's not polling too frequently, right?
+The background task for r144 (handoff-spans) has completed. Check the output file for results.
