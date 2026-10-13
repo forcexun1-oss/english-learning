@@ -20251,3 +20251,4 @@
 - 2026-10-13 15:22 — Use 'Does... have' for yes/no questions in present tense, and 'KV cache' is the standard term for KV in this context.
 - 2026-10-13 15:23 — Use "has exited" (present perfect) to report a completed action that affects the current state.
 - 2026-10-13 15:33 — Use 'which are still running?' instead of 'which still run?' — the present continuous fits the ongoing check. Also, 'do NOT kill' is clearer than 'do not kill' for emphasis.
+- 2026-10-13 16:14 — Use 'only' instead of 'only' for emphasis; 'restart' is fine as a verb, but 'restart middleware-service only' is clearer than 'restart middleware-service only'.
