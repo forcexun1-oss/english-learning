@@ -20293,3 +20293,4 @@
 - 2026-10-13 23:08 — Use the present perfect tense to describe a recently completed action.
 - 2026-10-13 23:36 — Use 'completed successfully' instead of just 'completed' to emphasize a good outcome.
 - 2026-10-13 23:49 — Use "finished successfully" or "completed" instead of "completed (exit code 0)" in natural speech.
+- 2026-10-13 23:56 — Use "finished" or "completed" instead of "completed" is fine, but "finished" is more natural in casual developer chat.
