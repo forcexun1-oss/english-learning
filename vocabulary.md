@@ -20206,3 +20206,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-12 18:41 — Use 'without + noun' to express 不用…; '有什么…可以做的' often translates as 'What can be done…'.
+- 2026-10-13 08:57 — Chinese often drops the noun after 的 (还没跑完的 = 'the ones not finished yet'); in English you need a placeholder like 'the ones' or 'those'. Also, 吧 is just a softening particle and has no direct English equivalent.
