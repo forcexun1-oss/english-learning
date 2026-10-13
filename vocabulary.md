@@ -20287,3 +20287,4 @@
 - 2026-10-13 22:26 — "心跳" (heartbeat) is used as-is in English for the polling interval. "别太短了" = "don't make it too short" — use "make" + object + adjective.
 - 2026-10-13 22:27 — Use 'exit code' instead of 'exit code' — actually 'exit code' is correct. The main fix: 'failed with exit code 144' is more natural than 'failed with exit code 144'.
 - 2026-10-13 22:32 — Use the present perfect "has completed" to describe a recently finished action with current relevance.
+- 2026-10-13 22:34 — Use the present perfect ('has finished') to report a completed action with current relevance.
