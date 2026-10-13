@@ -20256,3 +20256,4 @@
 - 2026-10-13 16:55 — The message is already in English, so no translation was needed. I kept it as-is since it's a technical instruction.
 - 2026-10-13 17:31 — The original message is already in English; no changes needed.
 - 2026-10-13 17:55 — The original text is already in English and correct; no changes were needed.
+- 2026-10-13 18:04 — Use 'powered off' instead of '断电' directly, and 'running' for '跑东西' in a technical context.
