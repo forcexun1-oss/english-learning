@@ -1,1 +1,1 @@
-It needs a watchdog, just like the previous strategy.
+1. Is it easy to fix? Is it independent? Will there be a lot of conflicts when we update the code later?

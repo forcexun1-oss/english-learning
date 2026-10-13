@@ -20210,3 +20210,4 @@
 - 2026-10-13 09:52 — In a system context, '链路' is best translated as 'pipeline' or 'flow', not 'link'.
 - 2026-10-13 09:59 — Use 'yourself' to emphasize 'you' (你自己); it often goes after the object or at the end of the question.
 - 2026-10-13 10:00 — "watchdog" is usually written as one word; "和...一样" can be translated as "just like..." or "same as...".
+- 2026-10-13 10:10 — Chinese often strings short questions together with commas; in English, separate each question with its own question mark for clarity. Also 'easy to fix' is the natural pattern (adjective + to-infinitive), not 'easy to be fixed'.
