@@ -20262,3 +20262,4 @@
 - 2026-10-13 20:16 — '执行得怎么样了' can be translated as 'How's it going?' or 'How is it progressing?' depending on context.
 - 2026-10-13 20:29 — Use 'built in' (adjective) or 'built-in' (compound adjective) instead of '内置' directly; 'don't modify anything inside' clarifies the scope.
 - 2026-10-13 20:39 — Use 'built-in' instead of '内置' translated literally; 'move on to' is more natural than 'do the later ones first'.
+- 2026-10-13 21:04 — Use 'finished' or 'completed' instead of 'done' for a more natural phrasing in this context.
