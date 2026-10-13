@@ -20288,3 +20288,4 @@
 - 2026-10-13 22:27 — Use 'exit code' instead of 'exit code' — actually 'exit code' is correct. The main fix: 'failed with exit code 144' is more natural than 'failed with exit code 144'.
 - 2026-10-13 22:32 — Use the present perfect "has completed" to describe a recently finished action with current relevance.
 - 2026-10-13 22:34 — Use the present perfect ('has finished') to report a completed action with current relevance.
+- 2026-10-13 22:38 — Use 'finished successfully' or 'completed' instead of 'completed (exit code 0)' in casual conversation — the exit code detail is implied.
