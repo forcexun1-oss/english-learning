@@ -1,6 +1,1 @@
-[watchdog] Check on the codex dispatches. Keep it short; spend only what the check needs.
-1. `ps aux | grep "codex exec" | grep -v grep` — still running? (current: 55606=r130 same-session latency, measurement only).
-2. Log /private/tmp/claude-501/-Users-youxun-project-edgeAgent/2acae017-2470-4056-ac60-2e0590d533bc/scratchpad/r130-codex.log and rollout ~/.codex/sessions/2026/10/13/*01a1335f-cefc-7973-ae0f-ac39b7a421c5*.jsonl: check mtime, print the last ~15 log lines. Not changed for more than 25 minutes, or repeating the same error, counts as stalled.
-3. `git -C ../edgeAgent-r130 log --oneline -3` and `status --short`; check docs/proposals/evidence/same-session-r130-20261013/ for HELP.md / BUDGET-QUESTION.md.
-4. `adb devices` — board connected? r130 is measurement-only: report right away if its log shows adb push, mv/cp/rm under /opt/edge-agent, systemctl restart/stop/start, or any request straight to rkllm port 8080 (adb forward to 8766 is allowed).
-5. Reply to the user in one or two short Chinese sentences: progress plus any anomaly. When nothing is wrong, say "正常运行中" plus progress. When something is stalled or broken, say what and recommend what to do (do not kill a process yourself). Once codex has exited, say so and delete this watchdog job yourself with CronDelete.
+The background command "Wait for r130 HELP, budget hit, or codex exit" completed (exit code 0).
