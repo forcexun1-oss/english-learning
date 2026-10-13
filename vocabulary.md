@@ -20232,3 +20232,4 @@
 - 2026-10-13 12:38 — No correction needed — this is a system notification, not a user message.
 - 2026-10-13 12:41 — Use present perfect "has completed" to describe a finished action relevant to the current moment.
 - 2026-10-13 12:41 — Use the present perfect tense to describe a completed action with current relevance.
+- 2026-10-13 13:06 — Use the past tense 'didn't run' to describe that the scheduled task failed to execute.
