@@ -20283,3 +20283,4 @@
 - 2026-10-13 22:21 — Use "polling" for 轮询 in a technical context. Also, "right?" at the end is a natural way to confirm something in English.
 - 2026-10-13 22:23 — Use present perfect 'has completed' to describe a recently finished action with current relevance.
 - 2026-10-13 22:24 — Use 'so we don't just wait around' instead of '干等' — 'wait around' conveys the sense of waiting idly.
+- 2026-10-13 22:25 — "failed with exit code 144" is fine, but "got killed" is more natural than "was killed" in casual dev talk. Also, "Can you check what happened?" is more direct than "check what happened".
