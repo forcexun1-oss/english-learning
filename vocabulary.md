@@ -20234,3 +20234,4 @@
 - 2026-10-13 12:41 — Use the present perfect tense to describe a completed action with current relevance.
 - 2026-10-13 13:06 — Use the past tense 'didn't run' to describe that the scheduled task failed to execute.
 - 2026-10-13 13:14 — The message is already in English; no translation needed. Ensure consistency in punctuation and spacing.
+- 2026-10-13 13:42 — Use 'didn't reproduce' instead of '没有复现' directly translated; 'reproduce' is the standard term for bugs recurring.
