@@ -20282,3 +20282,4 @@
 - 2026-10-13 22:19 — Use 'first' and 'then' to sequence actions clearly. '先...再...' maps to 'first... then...'.
 - 2026-10-13 22:21 — Use "polling" for 轮询 in a technical context. Also, "right?" at the end is a natural way to confirm something in English.
 - 2026-10-13 22:23 — Use present perfect 'has completed' to describe a recently finished action with current relevance.
+- 2026-10-13 22:24 — Use 'so we don't just wait around' instead of '干等' — 'wait around' conveys the sense of waiting idly.

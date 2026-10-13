@@ -1,1 +1,1 @@
-The background task for r144 (handoff-spans) has completed. Check the output file for results.
+You should also have periodic checks so we don't just wait around if Codex stops or gets stuck.
