@@ -20219,3 +20219,4 @@
 - 2026-10-13 10:54 — Use 'continue with' instead of 'continue' alone when referring to an ongoing task.
 - 2026-10-13 10:58 — Use the imperative form for direct instructions: 'Merge them all in' instead of '把...合进去' translated literally.
 - 2026-10-13 10:59 — Use present perfect "has completed" to report a finished action relevant to the current moment.
+- 2026-10-13 11:00 — Use 'finished' or 'completed' instead of 'completed' twice; 'exit code 0' is standard.
