@@ -20248,3 +20248,4 @@
 - 2026-10-13 14:55 — The message was already in English, so no translation was needed. I kept it as-is.
 - 2026-10-13 15:08 — Use 'Is ... effective' instead of '真的生效吗' for a clearer question; 'thinking depth' is the standard term for model reasoning.
 - 2026-10-13 15:09 — Use the present perfect "has completed" to report a finished action relevant to the current moment.
+- 2026-10-13 15:22 — Use 'Does... have' for yes/no questions in present tense, and 'KV cache' is the standard term for KV in this context.
