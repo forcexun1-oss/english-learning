@@ -20208,3 +20208,4 @@
 - 2026-10-12 18:41 — Use 'without + noun' to express 不用…; '有什么…可以做的' often translates as 'What can be done…'.
 - 2026-10-13 08:57 — Chinese often drops the noun after 的 (还没跑完的 = 'the ones not finished yet'); in English you need a placeholder like 'the ones' or 'those'. Also, 吧 is just a softening particle and has no direct English equivalent.
 - 2026-10-13 09:52 — In a system context, '链路' is best translated as 'pipeline' or 'flow', not 'link'.
+- 2026-10-13 09:59 — Use 'yourself' to emphasize 'you' (你自己); it often goes after the object or at the end of the question.
