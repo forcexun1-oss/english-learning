@@ -20235,3 +20235,4 @@
 - 2026-10-13 13:06 — Use the past tense 'didn't run' to describe that the scheduled task failed to execute.
 - 2026-10-13 13:14 — The message is already in English; no translation needed. Ensure consistency in punctuation and spacing.
 - 2026-10-13 13:42 — Use 'didn't reproduce' instead of '没有复现' directly translated; 'reproduce' is the standard term for bugs recurring.
+- 2026-10-13 13:43 — '还剩' can be translated as 'left' or 'remaining'. Here, 'What work is left?' is a natural, concise way to ask.
