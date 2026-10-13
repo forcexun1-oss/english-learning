@@ -1,1 +1,1 @@
-The background command failed with exit code 144. Can you check what happened? It looks like the polling loop for fork-fix-20261013 got killed — possibly the process (PID 96967) exited unexpectedly or the shell itself was terminated. Let me know if you want me to investigate the output file or restart the monitoring.
+Don't make the heartbeat too short.

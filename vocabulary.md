@@ -20284,3 +20284,4 @@
 - 2026-10-13 22:23 — Use present perfect 'has completed' to describe a recently finished action with current relevance.
 - 2026-10-13 22:24 — Use 'so we don't just wait around' instead of '干等' — 'wait around' conveys the sense of waiting idly.
 - 2026-10-13 22:25 — "failed with exit code 144" is fine, but "got killed" is more natural than "was killed" in casual dev talk. Also, "Can you check what happened?" is more direct than "check what happened".
+- 2026-10-13 22:26 — "心跳" (heartbeat) is used as-is in English for the polling interval. "别太短了" = "don't make it too short" — use "make" + object + adjective.
