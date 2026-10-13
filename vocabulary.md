@@ -20218,3 +20218,4 @@
 - 2026-10-13 10:52 — Use 'get merged in' for code changes being incorporated, and 'what did we change' instead of '改了些啥' for a more formal tone.
 - 2026-10-13 10:54 — Use 'continue with' instead of 'continue' alone when referring to an ongoing task.
 - 2026-10-13 10:58 — Use the imperative form for direct instructions: 'Merge them all in' instead of '把...合进去' translated literally.
+- 2026-10-13 10:59 — Use present perfect "has completed" to report a finished action relevant to the current moment.
