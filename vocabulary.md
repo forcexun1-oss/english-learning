@@ -20215,3 +20215,4 @@
 - 2026-10-13 10:24 — In Chinese, place the verb first and the language phrase after it: 汇报 (report) + 用中文 (in Chinese). English keeps the same order here: verb + 'in' + language.
 - 2026-10-13 10:28 — The second 把 is a typo for 吧, the sentence-final particle that softens a suggestion ("let's …"), whereas 把 is the preposition in 把…更新一下.
 - 2026-10-13 10:45 — Use present perfect "has completed" to report a finished action with current relevance, rather than past simple.
+- 2026-10-13 10:52 — Use 'get merged in' for code changes being incorporated, and 'what did we change' instead of '改了些啥' for a more formal tone.
