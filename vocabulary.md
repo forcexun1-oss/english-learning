@@ -20264,3 +20264,4 @@
 - 2026-10-13 20:39 — Use 'built-in' instead of '内置' translated literally; 'move on to' is more natural than 'do the later ones first'.
 - 2026-10-13 21:04 — Use 'finished' or 'completed' instead of 'done' for a more natural phrasing in this context.
 - 2026-10-13 21:06 — Use "finished" or "completed" instead of "done" for a more natural past tense in this context.
+- 2026-10-13 21:17 — Use 'finished' or 'completed' instead of 'done' in formal contexts; 'done' is fine informally.
