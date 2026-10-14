@@ -20405,3 +20405,4 @@
 - 2026-10-14 14:27 — Use 'add image testing' instead of '补测图片' — '补测' means 'add/run additional tests', and 'specs' is a common short form for 'specifications'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:28 — Use 'finished successfully' or 'completed successfully' instead of 'completed' alone for clarity; 'exit code 0' is standard phrasing.
