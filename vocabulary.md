@@ -20463,3 +20463,4 @@
 - 2026-10-14 15:45 — Use “Have you...?” to ask whether an action has been completed; “anomalous data” sounds more natural and technical than “abnormal data.”
 - 2026-10-14 15:50 — Use the imperative form “Open” for a direct instruction.
 - 2026-10-14 16:44 — Use “run tests” rather than “do tests” in technical English.
+- 2026-10-14 16:49 — Use “chain of thought” for an AI model’s internal reasoning process.
