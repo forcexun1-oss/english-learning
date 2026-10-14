@@ -20320,3 +20320,4 @@
 - 2026-10-14 10:40 — Use 'keep making mistakes' instead of '老犯错' to express repeated errors naturally.
 - 2026-10-14 10:45 — Use 'at all' to emphasize a negative statement or question, like 'no skills at all'.
 - 2026-10-14 10:46 — Use 'it' for the AI tool (codex) instead of 'he/him' in English, since tools are not gendered.
+- 2026-10-14 10:49 — Use 'according to' instead of just '按' in English, and 'not a customized list' clarifies the contrast with 'general principles'.
