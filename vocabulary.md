@@ -20461,3 +20461,4 @@
 - 2026-10-14 15:41 — No changes needed — this is already natural and idiomatic.
 - 2026-10-14 15:44 — Use “leave out” for excluding information, and “focus on the key points” to emphasize the main ideas.
 - 2026-10-14 15:45 — Use “Have you...?” to ask whether an action has been completed; “anomalous data” sounds more natural and technical than “abnormal data.”
+- 2026-10-14 15:50 — Use the imperative form “Open” for a direct instruction.
