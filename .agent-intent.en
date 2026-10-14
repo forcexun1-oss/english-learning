@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 We can dispatch the earlier tasks in parallel first, and once this side is done, we'll run the official test.
+=======
+Go ahead and do it as you said.
+>>>>>>> Stashed changes
