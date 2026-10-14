@@ -20485,3 +20485,4 @@
 - 2026-10-15 04:09 — Use “with a … heartbeat” to describe a recurring monitoring interval naturally.
 - 2026-10-15 05:00 — Use "restarted" for "重新挂" when describing a background process that has been started again.
 - 2026-10-15 05:50 — Use “with a 50-minute heartbeat” to express the monitoring interval naturally.
+- 2026-10-15 06:40 — Use the imperative "Reattach..." for a command or task description; "heartbeat" is the natural technical term here.
