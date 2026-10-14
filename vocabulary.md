@@ -20438,3 +20438,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 15:12 — '轮询' in a technical context is 'poll' — as in polling a server or device for status updates.
+- 2026-10-14 15:12 — "不是改" means "It's not a change" — use the noun form "change" instead of the verb "改".
