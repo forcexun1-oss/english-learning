@@ -20305,3 +20305,4 @@
 - 2026-10-14 09:43 — Use past tense 'finished' for a completed action, and 'or' to connect two alternatives.
 - 2026-10-14 09:44 — In English, '先' + verb is often expressed as 'Let's ... first' or '... first' to sound natural.
 - 2026-10-14 09:44 — Use "just" to soften a direct command, and "directly" to emphasize skipping intermediate steps.
+- 2026-10-14 09:54 — Use 'the board is here' instead of 'the board is at' when referring to something being physically present with you.
