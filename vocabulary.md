@@ -20358,6 +20358,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20434,3 +20435,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 15:11 — Use 'is gone' instead of '没了' to express that something has disappeared or is no longer present.
+=======
+>>>>>>> Stashed changes
