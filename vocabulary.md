@@ -20343,6 +20343,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20371,3 +20372,5 @@
 >>>>>>> Stashed changes
 - 2026-10-14 13:51 — Use 'How much longer until...' for time estimates, and 'baseline performance data' instead of '基础性能数据' — 'baseline' is the standard term in tech contexts.
 - 2026-10-14 13:52 — Use 'How much longer until...' to ask about remaining time. 'Baseline performance data' is the standard term for benchmark results.
+=======
+>>>>>>> Stashed changes
