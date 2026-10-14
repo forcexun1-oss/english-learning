@@ -20418,3 +20418,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 14:39 — Use 'free up' to mean 腾出来 (make something available), and 'run the performance tests' is more natural than 'run performance'.
+- 2026-10-14 14:40 — Use "free up" to mean making something available, and "first" to indicate priority.
