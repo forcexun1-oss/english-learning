@@ -20322,3 +20322,4 @@
 - 2026-10-14 10:46 — Use 'it' for the AI tool (codex) instead of 'he/him' in English, since tools are not gendered.
 - 2026-10-14 10:49 — Use 'according to' instead of just '按' in English, and 'not a customized list' clarifies the contrast with 'general principles'.
 - 2026-10-14 10:52 — "通用规格原则" translates better as "general principles" — "规格" (spec) is implied and doesn't need to be translated literally here.
+- 2026-10-14 11:00 — No changes needed — this is a system notification, not a user message.
