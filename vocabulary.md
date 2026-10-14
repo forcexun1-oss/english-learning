@@ -20350,6 +20350,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20402,3 +20403,5 @@
 >>>>>>> Stashed changes
 - 2026-10-14 14:26 — Use "run additional tests" or "re-test" instead of the literal '补测' translation. Also, '图片' here means image inputs, so specify that for clarity.
 - 2026-10-14 14:27 — Use 'add image testing' instead of '补测图片' — '补测' means 'add/run additional tests', and 'specs' is a common short form for 'specifications'.
+=======
+>>>>>>> Stashed changes
