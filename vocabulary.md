@@ -20477,3 +20477,4 @@
 - 2026-10-15 00:09 — Use “How often...” to ask about the frequency of a recurring action.
 - 2026-10-15 00:10 — Use “every 50 minutes” to describe a recurring interval.
 - 2026-10-15 00:15 — Use “token-intensive” for tasks that consume a lot of tokens; “instead of” clearly expresses the preference.
+- 2026-10-15 00:16 — Use “The model is …, right?” to confirm information naturally.
