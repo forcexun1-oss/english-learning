@@ -20429,3 +20429,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 15:10 — In English, 'watchdog' is one word (no space). Use 'Is...gone again?' for a yes/no question about something disappearing.
