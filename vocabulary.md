@@ -20369,3 +20369,4 @@
 - 2026-10-14 13:50 — Use 'finished successfully' or 'completed successfully' instead of 'completed (exit code 0)' for a more natural phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 13:51 — Use 'How much longer until...' for time estimates, and 'baseline performance data' instead of '基础性能数据' — 'baseline' is the standard term in tech contexts.
