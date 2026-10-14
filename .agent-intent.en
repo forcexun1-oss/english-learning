@@ -1,7 +1,1 @@
-<task-notification>
-<task-id>bszhe2lse</task-id>
-<tool-use-id>toolu_01XmLhsuzPDJ4xYyEgKzXNHi</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/e0bc569c-1378-4d2b-acc8-68aea273a8b3/tasks/bszhe2lse.output</output-file>
-<status>completed</status>
-<summary>Background command ": > .omc/dispatch/.s24-watch-state/seen && .omc/dispatch/s24-watch.sh 3600 1500" completed (exit code 0)</summary>
-</task-notification>
+How is Codex's token usage?

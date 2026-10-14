@@ -20473,3 +20473,4 @@
 - 2026-10-14 22:15 — Use “test cases” for “题” in a software testing or evaluation context, and “be intended to” to describe the purpose of an action.
 - 2026-10-14 22:19 — Use "Let's" to make a suggestion, and place "first" at the end for a natural flow.
 - 2026-10-14 22:19 — Use “shouldn't require many tokens” to express that a task is expected to be low-cost; “using tokens efficiently” sounds more natural than “consuming tokens reasonably.”
+- 2026-10-15 00:07 — For a more natural question, say: "How many tokens is Codex using?"
