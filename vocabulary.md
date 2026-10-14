@@ -20455,3 +20455,4 @@
 - 2026-10-14 15:20 — Use 'completed successfully' instead of just 'completed' to sound more natural in this context.
 - 2026-10-14 15:20 — Use present perfect ('has completed') to report a just-finished event, which is more natural than past tense here.
 - 2026-10-14 15:20 — Use present perfect passive ('has been re-armed') to report a completed action whose result is still relevant.
+- 2026-10-14 15:34 — Use 'change ... to ...' instead of '把...改成...' to express the action of modifying something.
