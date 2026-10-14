@@ -20475,3 +20475,4 @@
 - 2026-10-14 22:19 — Use “shouldn't require many tokens” to express that a task is expected to be low-cost; “using tokens efficiently” sounds more natural than “consuming tokens reasonably.”
 - 2026-10-15 00:07 — For a more natural question, say: "How many tokens is Codex using?"
 - 2026-10-15 00:09 — Use “How often...” to ask about the frequency of a recurring action.
+- 2026-10-15 00:10 — Use “every 50 minutes” to describe a recurring interval.
