@@ -20327,3 +20327,4 @@
 - 2026-10-14 11:27 — '在跑吗' can be translated as 'Is it still running?' — adding 'still' makes it sound more natural in English. Also, 'GPU都没有动' is better expressed as 'the GPU isn't being used' rather than a literal translation.
 - 2026-10-14 11:28 — "怎么看" here means "it seems" — use "doesn't seem to be" instead of a literal translation like "how come I see".
 - 2026-10-14 11:31 — Use 'root cause' instead of '根源' for the underlying cause of a problem.
+- 2026-10-14 11:32 — Use 'root cause' instead of '根源' translated literally; it's the standard term in technical discussions.
