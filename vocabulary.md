@@ -20324,3 +20324,4 @@
 - 2026-10-14 10:52 — "通用规格原则" translates better as "general principles" — "规格" (spec) is implied and doesn't need to be translated literally here.
 - 2026-10-14 11:00 — No changes needed — this is a system notification, not a user message.
 - 2026-10-14 11:26 — Use 'root cause' instead of just '根源' — it's the standard English term for the underlying source of a problem.
+- 2026-10-14 11:27 — '在跑吗' can be translated as 'Is it still running?' — adding 'still' makes it sound more natural in English. Also, 'GPU都没有动' is better expressed as 'the GPU isn't being used' rather than a literal translation.
