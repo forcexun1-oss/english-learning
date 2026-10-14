@@ -20314,3 +20314,4 @@
 - 2026-10-14 10:14 — Use "What does ... mean?" instead of "...是什么意思" translated directly as "...is what meaning".
 - 2026-10-14 10:21 — Use 'switch to' instead of '切' when talking about changing versions or branches. Also, '怎么还' is naturally expressed as 'Why are you still...' in English.
 - 2026-10-14 10:26 — Use 'wouldn't ... also' for a rhetorical question suggesting a benefit, which sounds more natural than a direct 'is it faster'.
+- 2026-10-14 10:29 — Use 'native' instead of '原生的' translated literally as 'original' — 'native' is the idiomatic term for built-in functionality.

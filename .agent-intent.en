@@ -1,1 +1,1 @@
-Why not use the native MCP? If that's the case, wouldn't loading one fewer MCP also make it faster?
+Why not use the native MCP? If we do, loading one fewer MCP should also make it faster.
