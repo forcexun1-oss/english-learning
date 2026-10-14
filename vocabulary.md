@@ -20300,3 +20300,4 @@
 - 2026-10-14 09:17 — Use 'none of the...' for plural negatives, and 'run into a problem' is a natural way to ask about issues.
 - 2026-10-14 09:18 — 'watch dog' is usually written as one word 'watchdog' in English. Also, '还在吗' here means 'still running/active', so 'still running' is more natural than a literal translation.
 - 2026-10-14 09:22 — Use 'the board is ready' instead of '板子在了' (literal translation). 'Ready' is more natural than 'is here' for hardware being available.
+- 2026-10-14 09:27 — Use "do ... need to" instead of "是不是都需要" — it's more direct and natural in English.
