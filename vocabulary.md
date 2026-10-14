@@ -20479,3 +20479,4 @@
 - 2026-10-15 00:15 — Use “token-intensive” for tasks that consume a lot of tokens; “instead of” clearly expresses the preference.
 - 2026-10-15 00:16 — Use “The model is …, right?” to confirm information naturally.
 - 2026-10-15 01:00 — Use “with a 50-minute heartbeat” to describe a recurring monitoring interval naturally.
+- 2026-10-15 01:32 — Use “restart” or “relaunch” for 重新挂; “with a 50-minute heartbeat” clearly describes the monitoring interval.
