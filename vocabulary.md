@@ -20316,3 +20316,4 @@
 - 2026-10-14 10:26 — Use 'wouldn't ... also' for a rhetorical question suggesting a benefit, which sounds more natural than a direct 'is it faster'.
 - 2026-10-14 10:29 — Use 'native' instead of '原生的' translated literally as 'original' — 'native' is the idiomatic term for built-in functionality.
 - 2026-10-14 10:37 — Use "What does ... mean?" instead of "...是什么意思" directly translated. Also, "frozen" is the correct adjective form here.
+- 2026-10-14 10:40 — Use past tense 'finished' for completed background tasks.
