@@ -20460,3 +20460,4 @@
 - 2026-10-14 15:37 — Use "search for" when you're looking for something specific, like a coach or a resource.
 - 2026-10-14 15:41 — No changes needed — this is already natural and idiomatic.
 - 2026-10-14 15:44 — Use “leave out” for excluding information, and “focus on the key points” to emphasize the main ideas.
+- 2026-10-14 15:45 — Use “Have you...?” to ask whether an action has been completed; “anomalous data” sounds more natural and technical than “abnormal data.”
