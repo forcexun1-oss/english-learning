@@ -20334,3 +20334,4 @@
 - 2026-10-14 12:33 — Use "completed successfully" instead of just "completed" to sound more natural in English.
 - 2026-10-14 12:43 — "还没有好吗" is naturally expressed as "Is it done yet?" — use the present tense with 'yet' for something still in progress.
 - 2026-10-14 13:02 — "按你说的来" is naturally rendered as "as you said" or "as you suggested" — "按你的说的来把" has a small redundancy (你的 + 说的).
+- 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
