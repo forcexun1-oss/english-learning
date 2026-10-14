@@ -20297,3 +20297,4 @@
 - 2026-10-14 08:53 — Use "the board is available" instead of "the board is here" — it sounds more natural in a work context.
 - 2026-10-14 09:08 — Use "do all ... need to be used" instead of "是不是...都需要" to form a natural yes/no question in English.
 - 2026-10-14 09:14 — Use 'do' + base verb for questions (e.g., 'do all skills need'), and 'worth adding' instead of 'worth to write'.
+- 2026-10-14 09:17 — Use 'none of the...' for plural negatives, and 'run into a problem' is a natural way to ask about issues.
