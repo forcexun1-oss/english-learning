@@ -20344,6 +20344,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20375,3 +20376,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 13:59 — Use 'Is it necessary to' instead of '有必要...吗' for a more natural question form, and 'their performance' to refer to the two options.
+=======
+>>>>>>> Stashed changes
