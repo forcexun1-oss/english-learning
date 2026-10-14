@@ -20294,3 +20294,4 @@
 - 2026-10-13 23:36 — Use 'completed successfully' instead of just 'completed' to emphasize a good outcome.
 - 2026-10-13 23:49 — Use "finished successfully" or "completed" instead of "completed (exit code 0)" in natural speech.
 - 2026-10-13 23:56 — Use "finished" or "completed" instead of "completed" is fine, but "finished" is more natural in casual developer chat.
+- 2026-10-14 08:53 — Use "the board is available" instead of "the board is here" — it sounds more natural in a work context.
