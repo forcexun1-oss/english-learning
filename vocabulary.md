@@ -20459,3 +20459,4 @@
 - 2026-10-14 15:36 — Use 'change A to B' instead of '把...改成' — it's the natural English pattern for modifications.
 - 2026-10-14 15:37 — Use "search for" when you're looking for something specific, like a coach or a resource.
 - 2026-10-14 15:41 — No changes needed — this is already natural and idiomatic.
+- 2026-10-14 15:44 — Use “leave out” for excluding information, and “focus on the key points” to emphasize the main ideas.
