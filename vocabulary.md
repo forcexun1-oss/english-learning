@@ -20445,3 +20445,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 15:13 — Use 'It's' to refer to the time duration, and 'not...it's' for contrast.
