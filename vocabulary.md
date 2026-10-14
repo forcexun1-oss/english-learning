@@ -20308,3 +20308,4 @@
 - 2026-10-14 09:54 — Use 'the board is here' instead of 'the board is at' when referring to something being physically present with you.
 - 2026-10-14 10:00 — Use 'don't worry about' instead of 'don't manage' for a more natural way to say 不用管.
 - 2026-10-14 10:03 — Use 'get mixed up' to describe output being interleaved or confused, and 'supposed to be' to express an expectation that isn't met.
+- 2026-10-14 10:09 — Use the past tense 'finished' instead of 'finish' when reporting a completed event.
