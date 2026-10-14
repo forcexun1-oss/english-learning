@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How much longer until the board is ready? Someone wants the baseline performance data for ASR, the current LLM, and TTS, so we need to run the benchmarks.
-=======
-Go ahead and do it as you said.
->>>>>>> Stashed changes
+Is it necessary to switch to Rapid-MLX or oMLX? Should we evaluate their performance on this machine?

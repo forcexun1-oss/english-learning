@@ -20374,3 +20374,4 @@
 - 2026-10-14 13:52 — Use 'How much longer until...' to ask about remaining time. 'Baseline performance data' is the standard term for benchmark results.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 13:59 — Use 'Is it necessary to' instead of '有必要...吗' for a more natural question form, and 'their performance' to refer to the two options.
