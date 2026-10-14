@@ -20359,6 +20359,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20439,3 +20440,5 @@
 >>>>>>> Stashed changes
 - 2026-10-14 15:12 — '轮询' in a technical context is 'poll' — as in polling a server or device for status updates.
 - 2026-10-14 15:12 — "不是改" means "It's not a change" — use the noun form "change" instead of the verb "改".
+=======
+>>>>>>> Stashed changes
