@@ -20467,3 +20467,4 @@
 - 2026-10-14 18:02 — Use "completed successfully" to clearly indicate that the command finished without errors.
 - 2026-10-14 18:32 — Use “power off” or “turn off” for 断电; “right?” is a natural way to ask for confirmation.
 - 2026-10-14 19:01 — Use “Wouldn't it be better to...?” to make a polite suggestion or express an alternative.
+- 2026-10-14 19:04 — Use “actually slower” to emphasize the unexpected result, and “misconfigured” is a natural way to say that parameters may be set incorrectly.

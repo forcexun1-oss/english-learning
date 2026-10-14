@@ -1,1 +1,1 @@
-Will it take that long? Wouldn't it be better to fix the concurrency bug first?
+Are the conclusions from the earlier execution engine comparison correct? It seems like it should be faster, so why is it actually slower? That doesn’t seem intuitive. Could the parameters be misconfigured?
