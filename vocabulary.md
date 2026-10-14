@@ -20470,3 +20470,4 @@
 - 2026-10-14 19:04 — Use “actually slower” to emphasize the unexpected result, and “misconfigured” is a natural way to say that parameters may be set incorrectly.
 - 2026-10-14 20:08 — Use "Wouldn't ... be enough?" to politely question whether something is necessary.
 - 2026-10-14 22:09 — Use "shouldn't take" to express that something is unreasonably long; "several days" sounds more natural than "a few days" here.
+- 2026-10-14 22:15 — Use “test cases” for “题” in a software testing or evaluation context, and “be intended to” to describe the purpose of an action.
