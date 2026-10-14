@@ -20339,6 +20339,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20351,5 +20352,7 @@
 >>>>>>> Stashed changes
 - 2026-10-14 13:24 — Use 'completed successfully' instead of just 'completed' to emphasize the exit code 0, which is more natural in developer communication.
 - 2026-10-14 13:25 — Use "can a 128GB Mac handle it" instead of "能导出来吗" — "handle" is more natural for capability questions in English.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
