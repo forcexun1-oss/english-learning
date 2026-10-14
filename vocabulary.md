@@ -20395,3 +20395,4 @@
 - 2026-10-14 14:14 — Use "Don't" instead of "不要" directly translated; "make it public" is more natural than "公开这些数据".
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:18 — Use present perfect "has completed" to describe a just-finished action with current relevance.
