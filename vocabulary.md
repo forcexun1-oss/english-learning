@@ -20329,3 +20329,4 @@
 - 2026-10-14 11:31 — Use 'root cause' instead of '根源' for the underlying cause of a problem.
 - 2026-10-14 11:32 — Use 'root cause' instead of '根源' translated literally; it's the standard term in technical discussions.
 - 2026-10-14 11:48 — Use 'Did he fix it?' for a simple past question about a completed action.
+- 2026-10-14 11:54 — Use "wasted" or "was all for nothing" instead of "白跑" (literally 'ran in vain'). Also, "止损" translates naturally as "stop losses" or "cut losses" in this context.
