@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is it necessary to switch to Rapid-MLX or oMLX? Should we evaluate their performance on this machine?
-=======
-Go ahead and do it as you said.
->>>>>>> Stashed changes
+Before running the comparison test, update these two to the latest versions first.

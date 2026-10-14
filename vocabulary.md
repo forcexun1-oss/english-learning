@@ -20378,3 +20378,4 @@
 - 2026-10-14 13:59 — Use 'Is it necessary to' instead of '有必要...吗' for a more natural question form, and 'their performance' to refer to the two options.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:02 — Use 'update ... to the latest version' instead of '更新到最新' directly; 'versions' is often implied but clearer in English.
