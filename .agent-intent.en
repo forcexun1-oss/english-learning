@@ -1,1 +1,7 @@
-Restarted the monitoring task with a 50-minute heartbeat.
+<task-notification>
+<task-id>bcxzd7u0w</task-id>
+<tool-use-id>toolu_01Rbk4wBFD8yUtamux9txVZ4</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/e0bc569c-1378-4d2b-acc8-68aea273a8b3/tasks/bcxzd7u0w.output</output-file>
+<status>completed</status>
+<summary>Background command "Restarted the monitor with a 50-minute heartbeat" completed (exit code 0)</summary>
+</task-notification>
