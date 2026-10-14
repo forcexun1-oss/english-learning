@@ -20319,3 +20319,4 @@
 - 2026-10-14 10:40 — Use past tense 'finished' for completed background tasks.
 - 2026-10-14 10:40 — Use 'keep making mistakes' instead of '老犯错' to express repeated errors naturally.
 - 2026-10-14 10:45 — Use 'at all' to emphasize a negative statement or question, like 'no skills at all'.
+- 2026-10-14 10:46 — Use 'it' for the AI tool (codex) instead of 'he/him' in English, since tools are not gendered.
