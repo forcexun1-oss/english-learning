@@ -20357,3 +20357,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 13:29 — Use 'copy over' (拷贝过去) instead of just 'copy' to emphasize transferring to another machine, and 'include in the plan' is more natural than 'write into the plan'.
+- 2026-10-14 13:33 — Use 'finished' instead of 'finish' after 'completed' in past tense context.
