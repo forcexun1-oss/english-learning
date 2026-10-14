@@ -20328,3 +20328,4 @@
 - 2026-10-14 11:28 — "怎么看" here means "it seems" — use "doesn't seem to be" instead of a literal translation like "how come I see".
 - 2026-10-14 11:31 — Use 'root cause' instead of '根源' for the underlying cause of a problem.
 - 2026-10-14 11:32 — Use 'root cause' instead of '根源' translated literally; it's the standard term in technical discussions.
+- 2026-10-14 11:48 — Use 'Did he fix it?' for a simple past question about a completed action.
