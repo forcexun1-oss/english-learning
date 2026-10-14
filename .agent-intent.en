@@ -1,1 +1,1 @@
-We need to run additional tests on the LLM for image inputs.
+For the LLM, we need to add image testing. The image specs should follow the model's requirements.
