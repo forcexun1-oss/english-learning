@@ -1,1 +1,1 @@
-Are the conclusions from the earlier execution engine comparison correct? It seems like it should be faster, so why is it actually slower? That doesn’t seem intuitive. Could the parameters be misconfigured?
+Wouldn't running a few cases be enough to identify the problem? Do we really need to run that many?
