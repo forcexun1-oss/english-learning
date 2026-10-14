@@ -20353,6 +20353,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20414,3 +20415,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 14:33 — Use 'needs additional testing' instead of '要补测' directly translated. 'Specs' is short for specifications, common in dev talk.
+=======
+>>>>>>> Stashed changes
