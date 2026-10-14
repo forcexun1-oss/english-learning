@@ -20331,3 +20331,4 @@
 - 2026-10-14 11:48 — Use 'Did he fix it?' for a simple past question about a completed action.
 - 2026-10-14 11:54 — Use "wasted" or "was all for nothing" instead of "白跑" (literally 'ran in vain'). Also, "止损" translates naturally as "stop losses" or "cut losses" in this context.
 - 2026-10-14 11:59 — "及时止损" translates naturally as "cut losses" or "stop the bleeding" in English.
+- 2026-10-14 12:33 — Use "completed successfully" instead of just "completed" to sound more natural in English.
