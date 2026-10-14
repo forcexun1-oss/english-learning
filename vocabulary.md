@@ -20433,3 +20433,4 @@
 - 2026-10-14 15:10 — In English, 'watchdog' is one word (no space). Use 'Is...gone again?' for a yes/no question about something disappearing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 15:11 — Use 'is gone' instead of '没了' to express that something has disappeared or is no longer present.
