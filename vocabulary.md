@@ -20379,3 +20379,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 14:02 — Use 'update ... to the latest version' instead of '更新到最新' directly; 'versions' is often implied but clearer in English.
+- 2026-10-14 14:03 — Use 'dispatch' or 'assign' instead of '派出去' directly; 'in parallel' is the natural phrase for '并行'.

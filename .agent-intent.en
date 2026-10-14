@@ -1,1 +1,1 @@
-Background command "Wait for r162 finish or help" completed (exit code 0)
+We can dispatch the earlier tasks in parallel first, and once this side is done, we'll run the official test.
