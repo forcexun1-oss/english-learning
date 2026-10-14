@@ -20361,3 +20361,4 @@
 - 2026-10-14 13:33 — Use 'finished' instead of 'finish' after 'completed' in past tense context.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 13:39 — Use 'put' instead of '放' (place), and 'copy' instead of '拷贝' (copy) — both are natural verbs for file operations.
