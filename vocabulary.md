@@ -20476,3 +20476,4 @@
 - 2026-10-15 00:07 — For a more natural question, say: "How many tokens is Codex using?"
 - 2026-10-15 00:09 — Use “How often...” to ask about the frequency of a recurring action.
 - 2026-10-15 00:10 — Use “every 50 minutes” to describe a recurring interval.
+- 2026-10-15 00:15 — Use “token-intensive” for tasks that consume a lot of tokens; “instead of” clearly expresses the preference.
