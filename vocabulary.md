@@ -20299,3 +20299,4 @@
 - 2026-10-14 09:14 — Use 'do' + base verb for questions (e.g., 'do all skills need'), and 'worth adding' instead of 'worth to write'.
 - 2026-10-14 09:17 — Use 'none of the...' for plural negatives, and 'run into a problem' is a natural way to ask about issues.
 - 2026-10-14 09:18 — 'watch dog' is usually written as one word 'watchdog' in English. Also, '还在吗' here means 'still running/active', so 'still running' is more natural than a literal translation.
+- 2026-10-14 09:22 — Use 'the board is ready' instead of '板子在了' (literal translation). 'Ready' is more natural than 'is here' for hardware being available.
