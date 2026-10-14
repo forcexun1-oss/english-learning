@@ -20365,3 +20365,4 @@
 - 2026-10-14 13:39 — Use 'put' instead of '放' (place), and 'copy' instead of '拷贝' (copy) — both are natural verbs for file operations.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 13:50 — Use 'finished successfully' or 'completed successfully' instead of 'completed (exit code 0)' for a more natural phrasing.
