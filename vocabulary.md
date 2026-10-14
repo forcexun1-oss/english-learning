@@ -20310,3 +20310,4 @@
 - 2026-10-14 10:03 — Use 'get mixed up' to describe output being interleaved or confused, and 'supposed to be' to express an expectation that isn't met.
 - 2026-10-14 10:09 — Use the past tense 'finished' instead of 'finish' when reporting a completed event.
 - 2026-10-14 10:09 — Use 'switch to serial' instead of '改串行' — '串行' translates to 'serial' in English.
+- 2026-10-14 10:13 — Use "What does it mean that..." to ask about the meaning of a situation, rather than directly translating 是什么意思.
