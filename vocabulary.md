@@ -20304,3 +20304,4 @@
 - 2026-10-14 09:42 — Use the past tense 'finished' to report a completed action, and 'no help requested' is a concise way to say no help was asked for.
 - 2026-10-14 09:43 — Use past tense 'finished' for a completed action, and 'or' to connect two alternatives.
 - 2026-10-14 09:44 — In English, '先' + verb is often expressed as 'Let's ... first' or '... first' to sound natural.
+- 2026-10-14 09:44 — Use "just" to soften a direct command, and "directly" to emphasize skipping intermediate steps.
