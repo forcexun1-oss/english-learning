@@ -20413,3 +20413,4 @@
 - 2026-10-14 14:30 — Use 'with exit code 0' instead of 'exit code 0' for a more natural phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:33 — Use 'needs additional testing' instead of '要补测' directly translated. 'Specs' is short for specifications, common in dev talk.
