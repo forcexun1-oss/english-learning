@@ -1,1 +1,1 @@
-Check the codex task execution profile — do all the currently retained skills need to be used by every subagent? If not, should we disable them to avoid wasting tokens and slowing down execution?
+Look at codex's task execution profile — do all the currently retained skills need to be used by the subagent for every task? If not, should we disable them to avoid wasting tokens and affecting execution? Also, are there any lessons worth adding to the task dispatch ref?

@@ -20296,3 +20296,4 @@
 - 2026-10-13 23:56 — Use "finished" or "completed" instead of "completed" is fine, but "finished" is more natural in casual developer chat.
 - 2026-10-14 08:53 — Use "the board is available" instead of "the board is here" — it sounds more natural in a work context.
 - 2026-10-14 09:08 — Use "do all ... need to be used" instead of "是不是...都需要" to form a natural yes/no question in English.
+- 2026-10-14 09:14 — Use 'do' + base verb for questions (e.g., 'do all skills need'), and 'worth adding' instead of 'worth to write'.
