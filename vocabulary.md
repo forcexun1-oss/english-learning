@@ -20469,3 +20469,4 @@
 - 2026-10-14 19:01 — Use “Wouldn't it be better to...?” to make a polite suggestion or express an alternative.
 - 2026-10-14 19:04 — Use “actually slower” to emphasize the unexpected result, and “misconfigured” is a natural way to say that parameters may be set incorrectly.
 - 2026-10-14 20:08 — Use "Wouldn't ... be enough?" to politely question whether something is necessary.
+- 2026-10-14 22:09 — Use "shouldn't take" to express that something is unreasonably long; "several days" sounds more natural than "a few days" here.
