@@ -20437,3 +20437,4 @@
 - 2026-10-14 15:11 — Use 'is gone' instead of '没了' to express that something has disappeared or is no longer present.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 15:12 — '轮询' in a technical context is 'poll' — as in polling a server or device for status updates.
