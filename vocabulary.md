@@ -20391,3 +20391,4 @@
 - 2026-10-14 14:11 — Use "make them public" instead of "公开" directly, and "give me" is more natural than "给" in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:14 — Use "Don't" instead of "不要" directly translated; "make it public" is more natural than "公开这些数据".
