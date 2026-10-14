@@ -1,7 +1,7 @@
 <task-notification>
-<task-id>bmynkp61y</task-id>
-<tool-use-id>toolu_011HjG1CedpMi3PANRpXLF1P</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/e0bc569c-1378-4d2b-acc8-68aea273a8b3/tasks/bmynkp61y.output</output-file>
+<task-id>b8jk6dia1</task-id>
+<tool-use-id>toolu_018Snq8CK5dTZAnWcwRrY671</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-agent-eval/e0bc569c-1378-4d2b-acc8-68aea273a8b3/tasks/b8jk6dia1.output</output-file>
 <status>completed</status>
-<summary>Background command "Reattached the monitor with a 50-minute heartbeat" completed (exit code 0)</summary>
+<summary>Background command "Restarted the monitor with a 50-minute heartbeat" completed (exit code 0)</summary>
 </task-notification>

@@ -20481,3 +20481,4 @@
 - 2026-10-15 01:00 — Use “with a 50-minute heartbeat” to describe a recurring monitoring interval naturally.
 - 2026-10-15 01:32 — Use “restart” or “relaunch” for 重新挂; “with a 50-minute heartbeat” clearly describes the monitoring interval.
 - 2026-10-15 01:34 — Use "with a 50-minute heartbeat" to describe the monitoring interval naturally.
+- 2026-10-15 03:15 — Use the past tense "Restarted" for a completed action.
