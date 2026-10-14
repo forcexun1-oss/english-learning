@@ -20370,3 +20370,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 13:51 — Use 'How much longer until...' for time estimates, and 'baseline performance data' instead of '基础性能数据' — 'baseline' is the standard term in tech contexts.
+- 2026-10-14 13:52 — Use 'How much longer until...' to ask about remaining time. 'Baseline performance data' is the standard term for benchmark results.
