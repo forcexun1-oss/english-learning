@@ -20396,3 +20396,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 14:18 — Use present perfect "has completed" to describe a just-finished action with current relevance.
+- 2026-10-14 14:21 — Use the present perfect tense to report a completed action with current relevance.
