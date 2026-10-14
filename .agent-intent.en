@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The background task "Wait for r164 finish or help" has completed.
-=======
-Go ahead and do it as you said.
->>>>>>> Stashed changes
+We need to run additional tests on the LLM for image inputs.

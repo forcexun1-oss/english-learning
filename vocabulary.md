@@ -20400,3 +20400,4 @@
 - 2026-10-14 14:21 — Use the present perfect tense to report a completed action with current relevance.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:26 — Use "run additional tests" or "re-test" instead of the literal '补测' translation. Also, '图片' here means image inputs, so specify that for clarity.
