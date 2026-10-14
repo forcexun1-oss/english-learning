@@ -20417,3 +20417,4 @@
 - 2026-10-14 14:33 — Use 'needs additional testing' instead of '要补测' directly translated. 'Specs' is short for specifications, common in dev talk.
 =======
 >>>>>>> Stashed changes
+- 2026-10-14 14:39 — Use 'free up' to mean 腾出来 (make something available), and 'run the performance tests' is more natural than 'run performance'.
