@@ -20357,6 +20357,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-14 13:08 — "按你的说的来" means "do it as you said" — "the way you described" is more natural in English.
 =======
 >>>>>>> Stashed changes
@@ -20430,3 +20431,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-14 15:10 — In English, 'watchdog' is one word (no space). Use 'Is...gone again?' for a yes/no question about something disappearing.
+=======
+>>>>>>> Stashed changes
