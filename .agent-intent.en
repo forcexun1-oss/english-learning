@@ -1,1 +1,1 @@
-Actually, renaming HELP to OUTBOX makes sense — it lets Codex report at each milestone so you can check in. I've noticed several runs finish only to reveal a wrong premise, wasting the whole run. We need to catch problems early and cut losses — let's build that mechanism in.
+Background command "Wait for r157 finish or help" completed (exit code 0)
