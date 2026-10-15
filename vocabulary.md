@@ -20509,3 +20509,4 @@
 - 2026-10-15 11:50 — Use “not A’s; it’s B’s” to contrast ownership clearly.
 - 2026-10-15 13:02 — Use “current status” for “什么状态” in a technical context; “continue with” means to resume work on something.
 - 2026-10-15 13:05 — Use “go through ... in order” when reviewing or handling items sequentially.
+- 2026-10-15 13:15 — Use “Are we currently using...” to ask about the current configuration or authentication method.
