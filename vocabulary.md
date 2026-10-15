@@ -20496,3 +20496,4 @@
 - 2026-10-15 09:14 — Use “has completed” to report a finished task, and “for” to identify the related watcher or target.
 - 2026-10-15 09:49 — Use “after the fix” to express “修正后,” and “reattach the monitor” for “重新挂监控.”
 - 2026-10-15 09:54 — Use “end to end” or “end-to-end” for checking a complete process from start to finish.
+- 2026-10-15 09:57 — Use “Could/Can ...?” to ask whether a tool is capable of doing something; “That could work too” sounds natural for suggesting an alternative.

@@ -1,1 +1,1 @@
-Check what’s different, and review the logs to see whether anything needs to be added. Fill them out completely. This should be easy to investigate—just compare the entire chain end to end.
+Can `strace` capture logs for the entire chain? That could work too, actually.
