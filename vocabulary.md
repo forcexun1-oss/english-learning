@@ -20500,3 +20500,4 @@
 - 2026-10-15 09:59 — Use “the goal is to…” to express the purpose, and “identify a problem from the logs” sounds more natural than “find a problem by looking at the logs.”
 - 2026-10-15 10:39 — "重新挂监控" is naturally translated as "reattach the monitor" or "restart monitoring," depending on the context.
 - 2026-10-15 10:40 — Use “explain to someone how to…” when describing how to give someone guidance.
+- 2026-10-15 10:43 — Use “what the task is about” for “任务是在做什么,” and “relevant documentation” is a natural way to say “相关的文档.”
