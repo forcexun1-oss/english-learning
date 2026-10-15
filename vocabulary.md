@@ -20510,3 +20510,4 @@
 - 2026-10-15 13:02 — Use “current status” for “什么状态” in a technical context; “continue with” means to resume work on something.
 - 2026-10-15 13:05 — Use “go through ... in order” when reviewing or handling items sequentially.
 - 2026-10-15 13:15 — Use “Are we currently using...” to ask about the current configuration or authentication method.
+- 2026-10-15 13:39 — Use “check the current status” to ask for an update on progress or condition.
