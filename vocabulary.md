@@ -20490,3 +20490,4 @@
 - 2026-10-15 07:56 — Use the present perfect tense (“has completed”) for a recently finished action with present relevance.
 - 2026-10-15 08:15 — Use “for now” for “先……一下” and “resumed” for restarting a paused process.
 - 2026-10-15 08:54 — Use “Continue” to ask someone to proceed; use “Resume” when restarting something that was paused.
+- 2026-10-15 08:54 — Use “Is there anything else we need to...?” to ask whether more tasks remain.
