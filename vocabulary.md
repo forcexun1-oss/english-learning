@@ -20499,3 +20499,4 @@
 - 2026-10-15 09:57 — Use “Could/Can ...?” to ask whether a tool is capable of doing something; “That could work too” sounds natural for suggesting an alternative.
 - 2026-10-15 09:59 — Use “the goal is to…” to express the purpose, and “identify a problem from the logs” sounds more natural than “find a problem by looking at the logs.”
 - 2026-10-15 10:39 — "重新挂监控" is naturally translated as "reattach the monitor" or "restart monitoring," depending on the context.
+- 2026-10-15 10:40 — Use “explain to someone how to…” when describing how to give someone guidance.
