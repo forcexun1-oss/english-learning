@@ -20504,3 +20504,4 @@
 - 2026-10-15 10:46 — Use “Can we...?” to ask whether it is possible or appropriate to proceed.
 - 2026-10-15 11:40 — Use “whether ... is working properly” for a natural way to ask if something is functioning as expected.
 - 2026-10-15 11:42 — Use “TTL” or “expiration time” for a cache's validity period; “set to 1 hour” is natural for duration settings.
+- 2026-10-15 11:46 — “先……一下” is naturally expressed as “for now” or “for the time being.”
