@@ -20507,3 +20507,4 @@
 - 2026-10-15 11:46 — “先……一下” is naturally expressed as “for now” or “for the time being.”
 - 2026-10-15 11:49 — Use “whether” for a yes/no question, and “for all of your current requests” to clearly express “全都.”
 - 2026-10-15 11:50 — Use “not A’s; it’s B’s” to contrast ownership clearly.
+- 2026-10-15 13:02 — Use “current status” for “什么状态” in a technical context; “continue with” means to resume work on something.
