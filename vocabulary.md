@@ -20502,3 +20502,4 @@
 - 2026-10-15 10:40 — Use “explain to someone how to…” when describing how to give someone guidance.
 - 2026-10-15 10:43 — Use “what the task is about” for “任务是在做什么,” and “relevant documentation” is a natural way to say “相关的文档.”
 - 2026-10-15 10:46 — Use “Can we...?” to ask whether it is possible or appropriate to proceed.
+- 2026-10-15 11:40 — Use “whether ... is working properly” for a natural way to ask if something is functioning as expected.
