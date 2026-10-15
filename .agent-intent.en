@@ -1,1 +1,1 @@
-Can `strace` capture logs for the entire chain? That could work too, actually.
+Yes, the goal is to make sure that if a problem cannot be reproduced, we can identify it directly from the logs.

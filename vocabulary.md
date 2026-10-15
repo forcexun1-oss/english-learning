@@ -20497,3 +20497,4 @@
 - 2026-10-15 09:49 — Use “after the fix” to express “修正后,” and “reattach the monitor” for “重新挂监控.”
 - 2026-10-15 09:54 — Use “end to end” or “end-to-end” for checking a complete process from start to finish.
 - 2026-10-15 09:57 — Use “Could/Can ...?” to ask whether a tool is capable of doing something; “That could work too” sounds natural for suggesting an alternative.
+- 2026-10-15 09:59 — Use “the goal is to…” to express the purpose, and “identify a problem from the logs” sounds more natural than “find a problem by looking at the logs.”
