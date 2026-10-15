@@ -20517,7 +20517,11 @@
 - 2026-10-15 20:50 — Use “build” for compiling or preparing a software project; “for me” makes the request polite and clear.
 - 2026-10-15 21:27 — Use “give it a try” to mean “尝试一下,” and “if it doesn’t work” for a condition that may happen.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-15 22:08 — “咋样了” is an informal way to ask for a progress update; “How's it going?” sounds natural in English.
+=======
+- 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
+>>>>>>> Stashed changes
 =======
 - 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
 >>>>>>> Stashed changes
