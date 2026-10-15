@@ -20491,3 +20491,4 @@
 - 2026-10-15 08:15 — Use “for now” for “先……一下” and “resumed” for restarting a paused process.
 - 2026-10-15 08:54 — Use “Continue” to ask someone to proceed; use “Resume” when restarting something that was paused.
 - 2026-10-15 08:54 — Use “Is there anything else we need to...?” to ask whether more tasks remain.
+- 2026-10-15 08:54 — Use “failed with exit code 1” to describe a command failure; keep the command’s original name unchanged.
