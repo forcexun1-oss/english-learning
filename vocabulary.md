@@ -20488,3 +20488,4 @@
 - 2026-10-15 06:40 — Use the imperative "Reattach..." for a command or task description; "heartbeat" is the natural technical term here.
 - 2026-10-15 07:06 — Use "with a 50-minute heartbeat" to describe a monitoring process that sends a heartbeat every 50 minutes.
 - 2026-10-15 07:56 — Use the present perfect tense (“has completed”) for a recently finished action with present relevance.
+- 2026-10-15 08:15 — Use “for now” for “先……一下” and “resumed” for restarting a paused process.
