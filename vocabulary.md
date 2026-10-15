@@ -20523,6 +20523,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-15 22:08 — “咋样了” is an informal way to ask for a progress update; “How's it going?” sounds natural in English.
 =======
 - 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
@@ -20546,3 +20547,6 @@
 - 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
 >>>>>>> Stashed changes
 - 2026-10-16 01:30 — “How’s it going?” is a natural, casual way to ask for a progress update.
+=======
+- 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
+>>>>>>> Stashed changes
