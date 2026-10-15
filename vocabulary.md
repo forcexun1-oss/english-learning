@@ -20511,3 +20511,4 @@
 - 2026-10-15 13:05 — Use “go through ... in order” when reviewing or handling items sequentially.
 - 2026-10-15 13:15 — Use “Are we currently using...” to ask about the current configuration or authentication method.
 - 2026-10-15 13:39 — Use “check the current status” to ask for an update on progress or condition.
+- 2026-10-15 17:23 — Use “discard changes” or “drop changes” for removing uncommitted code changes; “create a branch” is the natural phrase for 切个分支.
