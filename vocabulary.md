@@ -20514,3 +20514,4 @@
 - 2026-10-15 17:23 — Use “discard changes” or “drop changes” for removing uncommitted code changes; “create a branch” is the natural phrase for 切个分支.
 - 2026-10-15 19:02 — Use “What’s going on?” for “啥情况” and “Is it stuck?” for “卡住了吗.”
 - 2026-10-15 19:03 — Use “broke it” for accidentally causing a problem, and “Is it working now?” to ask whether it has been fixed.
+- 2026-10-15 20:50 — Use “build” for compiling or preparing a software project; “for me” makes the request polite and clear.
