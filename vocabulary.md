@@ -20492,3 +20492,4 @@
 - 2026-10-15 08:54 — Use “Continue” to ask someone to proceed; use “Resume” when restarting something that was paused.
 - 2026-10-15 08:54 — Use “Is there anything else we need to...?” to ask whether more tasks remain.
 - 2026-10-15 08:54 — Use “failed with exit code 1” to describe a command failure; keep the command’s original name unchanged.
+- 2026-10-15 08:55 — Use “after resuming” to describe an action taken once a paused process continues.
