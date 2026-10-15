@@ -20495,3 +20495,4 @@
 - 2026-10-15 08:55 — Use “after resuming” to describe an action taken once a paused process continues.
 - 2026-10-15 09:14 — Use “has completed” to report a finished task, and “for” to identify the related watcher or target.
 - 2026-10-15 09:49 — Use “after the fix” to express “修正后,” and “reattach the monitor” for “重新挂监控.”
+- 2026-10-15 09:54 — Use “end to end” or “end-to-end” for checking a complete process from start to finish.
