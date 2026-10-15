@@ -1,1 +1,1 @@
-Could you check whether the cache is working properly now?
+Can you check whether the KV cache for your current requests to the server is working properly? I mean the server's KV cache, not rkllm's. Is its TTL set to 1 hour?
