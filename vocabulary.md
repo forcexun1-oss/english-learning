@@ -20559,3 +20559,4 @@
 - 2026-10-15 22:08 — “咋样了” is a casual way to ask about progress or the current status.
 >>>>>>> Stashed changes
 - 2026-10-16 08:56 — Use “has been powered on again” for a recent event with present relevance, and “write operations” for changes made to a device or system.
+- 2026-10-16 08:57 — Use the present perfect ("have completed") for recently finished tasks, and "successfully" makes the result clearer.
