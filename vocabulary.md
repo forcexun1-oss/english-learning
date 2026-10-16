@@ -20629,3 +20629,4 @@
 =======
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
+- 2026-10-16 15:43 — Use “how much longer do you expect it to run?” for a natural way to ask about remaining runtime.
