@@ -20737,3 +20737,4 @@
 - 2026-10-16 20:54 — Use “Start with” or “Do” to clearly indicate which numbered tasks should be handled first.
 - 2026-10-16 20:55 — Use “have finished” for recently completed tasks, and “memory-intensive” is a natural way to describe tasks that consume a lot of memory.
 - 2026-10-16 21:27 — Use “add” for补上 in a coding context; “this” clearly refers to the previously discussed test.
+- 2026-10-16 21:34 — Use “tens of gigabytes” for “几十 GB,” and “terminate processes” is more natural than “kill processes” in formal technical communication.
