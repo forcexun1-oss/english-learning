@@ -1,1 +1,1 @@
-Can Claude Code's OMC status bar display the token count and KV cache hit rate in addition to context and other information?
+Enable `showTokens` and upgrade OMC.

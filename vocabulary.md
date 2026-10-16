@@ -20564,3 +20564,4 @@
 - 2026-10-16 09:27 — Use “was not executed” and “was not restarted” for clear, concise reports about actions that did not happen.
 - 2026-10-16 10:10 — Use “has been upgraded” for a recent change, and “Please turn it on” for a polite request.
 - 2026-10-16 14:27 — Use "in addition to" to mean "besides," and use "the" before specific metrics like "the token count."
+- 2026-10-16 14:30 — Use “enable” for turning on a feature or setting; “upgrade” is the natural verb for updating a tool or system.
