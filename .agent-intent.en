@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Got it, thanks. I won't run any resource-intensive steps on my side. I'll only handle lightweight tasks such as setting up the environment, copying scripts, and reading configuration files, all within a few hundred MB. The heavy steps (ONNX/RKNN export and GRQ quantization) are memory-gated and will only be allowed after you stop the model and notify me. Once your evaluation is complete and you have stopped the model, please use SendMessage to let me know. I'll notify you when I'm done as well. If your evaluation schedule changes, please let me know too.
+=======
+Is this for production? If so, don't stop it—continue processing the remaining tasks.
+>>>>>>> Stashed changes
 =======
 Is this for production? If so, don't stop it—continue processing the remaining tasks.
 >>>>>>> Stashed changes
