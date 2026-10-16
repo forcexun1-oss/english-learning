@@ -20567,6 +20567,7 @@
 - 2026-10-16 14:30 — Use “enable” for turning on a feature or setting; “upgrade” is the natural verb for updating a tool or system.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-16 14:49 — Use “still not finished” to ask whether an ongoing process has been completed yet.
 =======
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
@@ -20575,3 +20576,6 @@
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
 - 2026-10-16 14:54 — “按你说的来” is naturally expressed as “Let's do it your way” or “I'll follow your suggestion.”
+=======
+- 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
+>>>>>>> Stashed changes
