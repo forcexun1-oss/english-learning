@@ -20729,3 +20729,4 @@
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
 - 2026-10-16 16:59 — Use “completed successfully with exit code 0” for a more natural status message.
+- 2026-10-16 17:02 — Use “go-ahead” or “green light” for “释放通知” when you mean permission to proceed.
