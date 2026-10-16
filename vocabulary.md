@@ -20565,3 +20565,4 @@
 - 2026-10-16 10:10 — Use “has been upgraded” for a recent change, and “Please turn it on” for a polite request.
 - 2026-10-16 14:27 — Use "in addition to" to mean "besides," and use "the" before specific metrics like "the token count."
 - 2026-10-16 14:30 — Use “enable” for turning on a feature or setting; “upgrade” is the natural verb for updating a tool or system.
+- 2026-10-16 14:49 — Use “still not finished” to ask whether an ongoing process has been completed yet.
