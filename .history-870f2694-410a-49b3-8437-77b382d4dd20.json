@@ -1,1 +1,1 @@
-["那就是ASR了,看看能改吗,评估一下", "啥情况卡住了吗", "另外的agent是说你把他搞坏了把,现在好了吗", "下载完了吗,再调研一下,尝试一下,不行就算了", "咋样了"]
+["那就是ASR了,看看能改吗,评估一下", "啥情况卡住了吗", "另外的agent是说你把他搞坏了把,现在好了吗", "下载完了吗,再调研一下,尝试一下,不行就算了", "咋样了", "<cross-session-message from=\"uds:/tmp/cc-socks/34701.sock\" from-name=\"edgeagent-21\" from-mode=\"bypass\">\n板子已重新上电(uptime 约4分钟),我只做了只读预检:middleware-service 03fa2a9c、config 479af52b、:8766/:8765/rkllm 均 200、extensions-src 只有 progressive-tools/src/tool-gateway。我打算稍后启动 r179(临时切换 pi bundle 和扩展,有快照回滚)。你近期是否有板子写操作?如有,请回复你的时间窗,我等你做完再动。\n</cross-session-message>"]
