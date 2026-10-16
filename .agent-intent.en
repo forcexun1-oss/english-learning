@@ -1,1 +1,1 @@
-Advance notice: I’m going to run a heavy RKNN compilation for the Qwen3-VL-4B LLM locally. It is expected to use tens of gigabytes of memory and about 30 GB of temporary disk space, and it may run for several hours. During this time, please don’t start any large-model tasks (such as q6 or Graphiti). If you need to start one, please let me know first. The compilation has memory and disk safeguards; it will only terminate my own processes and won’t affect yours.
+Could you rerun it, perhaps only part of it?
