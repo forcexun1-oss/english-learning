@@ -20731,3 +20731,4 @@
 - 2026-10-16 16:59 — Use “completed successfully with exit code 0” for a more natural status message.
 - 2026-10-16 17:02 — Use “go-ahead” or “green light” for “释放通知” when you mean permission to proceed.
 - 2026-10-16 18:00 — Use “How long will ... take?” to ask about the time required for a task or process.
+- 2026-10-16 18:46 — Use “so far” for something that has happened up to the present, and “Do we really need to…” to politely question necessity.
