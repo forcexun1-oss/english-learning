@@ -20703,3 +20703,4 @@
 =======
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
+- 2026-10-16 16:33 — Use “What are you working on right now?” for “现在是在做什么？” and “extracting information” for “提取” when the object is understood.
