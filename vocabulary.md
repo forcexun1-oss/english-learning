@@ -20594,6 +20594,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-16 14:49 — Use “still not finished” to ask whether an ongoing process has been completed yet.
 =======
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
@@ -20648,6 +20649,9 @@
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
 - 2026-10-16 15:44 — Use "on my side" for "我这边" and "once...is complete" to clearly express the condition and timing.
+=======
+- 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
+>>>>>>> Stashed changes
 =======
 - 2026-10-16 14:48 — Use “If so” to mean “if that is the case,” and “continue processing” for ongoing task execution.
 >>>>>>> Stashed changes
