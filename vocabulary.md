@@ -20735,3 +20735,4 @@
 - 2026-10-16 20:31 — “Use your judgment” is a natural way to say “你看着办/你判断一下”; “whichever one” means “哪个都可以，选你认为合适的那个”。
 - 2026-10-16 20:52 — Use “organize ... into” for putting content in a directory, and “What should we do next?” for asking about the following step.
 - 2026-10-16 20:54 — Use “Start with” or “Do” to clearly indicate which numbered tasks should be handled first.
+- 2026-10-16 20:55 — Use “have finished” for recently completed tasks, and “memory-intensive” is a natural way to describe tasks that consume a lot of memory.
