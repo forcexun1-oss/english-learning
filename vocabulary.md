@@ -20736,3 +20736,4 @@
 - 2026-10-16 20:52 — Use “organize ... into” for putting content in a directory, and “What should we do next?” for asking about the following step.
 - 2026-10-16 20:54 — Use “Start with” or “Do” to clearly indicate which numbered tasks should be handled first.
 - 2026-10-16 20:55 — Use “have finished” for recently completed tasks, and “memory-intensive” is a natural way to describe tasks that consume a lot of memory.
+- 2026-10-16 21:27 — Use “add” for补上 in a coding context; “this” clearly refers to the previously discussed test.
