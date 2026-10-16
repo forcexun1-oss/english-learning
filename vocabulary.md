@@ -20561,3 +20561,4 @@
 - 2026-10-16 08:56 — Use “has been powered on again” for a recent event with present relevance, and “write operations” for changes made to a device or system.
 - 2026-10-16 08:57 — Use the present perfect ("have completed") for recently finished tasks, and "successfully" makes the result clearer.
 - 2026-10-16 08:59 — Use “doesn't seem to be” to express uncertainty, and “GPU usage” sounds more natural than “the GPU is moving.”
+- 2026-10-16 09:27 — Use “was not executed” and “was not restarted” for clear, concise reports about actions that did not happen.
