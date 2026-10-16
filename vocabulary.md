@@ -20739,3 +20739,4 @@
 - 2026-10-16 21:27 — Use “add” for补上 in a coding context; “this” clearly refers to the previously discussed test.
 - 2026-10-16 21:34 — Use “tens of gigabytes” for “几十 GB,” and “terminate processes” is more natural than “kill processes” in formal technical communication.
 - 2026-10-16 23:45 — Use “rerun” for running a task again, and “perhaps” to make the request sound more polite and natural.
+- 2026-10-16 23:51 — Use “no longer” or “has stopped” to express that an action is not continuing; “we can start” is natural for beginning a task.
