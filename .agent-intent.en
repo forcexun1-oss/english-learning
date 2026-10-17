@@ -1,1 +1,38 @@
-What else can be done in parallel without needing my input or depending on the results of the previous tasks? Go ahead and work on those in parallel, especially the assets and anything related to them. They also need to be downloaded.
+<task-notification>
+<task-id>ab8aa0304c53b95f6</task-id>
+<tool-use-id>toolu_01NZkMu1kpMWEaatu6uTZLfC</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/ab8aa0304c53b95f6.output</output-file>
+<status>completed</status>
+<summary>Agent "Write architecture docs and CLAUDE.md" finished</summary>
+<note>A task-notification fires each time this agent stops with no live background children of its own. The user can send it another message and resume it, so this task-id may notify more than once.</note>
+<result>COMPLETED TASK: Write project documentation for `/Users/youxun/project/game/agent-roguelite` (CLAUDE.md, docs/README.md, docs/architecture/overview.md, docs/specs/agent-layer.md, docs/proposals/README.md). Prose in Chinese, identifiers in English. No code edits, no git commits.
+
+STATUS: SUCCESS (docs written and checked against code; the one change I made after writing was a text correction pass on the spec and overview)
+
+FILES CHANGED:
+- Created: `/Users/youxun/project/game/agent-roguelite/CLAUDE.md`
+- Created: `/Users/youxun/project/game/agent-roguelite/docs/README.md`
+- Created: `/Users/youxun/project/game/agent-roguelite/docs/architecture/overview.md`
+- Created: `/Users/youxun/project/game/agent-roguelite/docs/specs/agent-layer.md`
+- Created: `/Users/youxun/project/game/agent-roguelite/docs/proposals/README.md`
+- Modified: none. `docs/assets/` was not touched.
+
+Note: the environment said this is not a git repo, but `git status` works. The tree already had unrelated changes that are not mine: a modified `.omc/state/hud-stdin-cache.json`, an untracked `.omc/.../last-tool-error-state.json`, and an untracked `assets-src/`.
+
+VERIFICATION:
+- Code examples tested: 2/2 command blocks run. The EditMode command ran in a scratch copy and passed 50/50 (exit 0; the log shows only Unity licensing network noise). The bot command ran in the scratch copy and printed `[PLAN-RULE]`, `[RUN]`, `[PLAN] llm=False`, `[COMPANION]`, and `[BOT] finished`. The bot run used `AGENT_NO_LLM=1`, so the LLM path was not exercised headlessly.
+- Commands verified: 2/2 valid. Note that `~/.unity/bin/Unity` is a CLI wrapper, not the editor. The editor is `/Applications/Unity/Hub/Editor/6000.4.8f1/Unity.app/Contents/MacOS/Unity`, and CLAUDE.md uses that path.
+- Not verified: the kev/systemone endpoint. No server implementation exists in the repo, so the request and parse format is documented from `KevScorer` and its tests only. This is stated in spec section 7.5.
+- The ECS rationale in spec 8.1 is inferred from code structure and the manifest because the repo does not state it. This is marked as inferred.
+
+Inconsistencies and undocumented behaviour found in the code:
+1. `AGENT_LLM_URL` affects only kev. pi's endpoint is hard-coded to `http://127.0.0.1:11434/v1` in `PiHost.WriteModels`. This is now documented in CLAUDE.md.
+2. `NemesisBrain.Refine` sets `fromLlm = true` as soon as JSON parses, even if `Sanitize` replaces the whole sequence with the fallback. So `[PLAN] llm=True` does not prove the LLM plan was used. Documented in spec 2.3.
+3. `TacticScript.Pick` is called only from tests. Production uses `RuleScorer` → `TacticScript.Eval`.
+4. `PiHost.Open` has a `--session-id` branch, but `GameApp` always passes `null`, so every call is `--no-session`.
+5. Prompt length limits do not match the code. The Companion prompt says 30 characters, but the code truncates at 50. The Nemesis prompt says 40, but the code truncates at 60.
+6. `Core` asmdef does not set `noEngineReferences`, and Core uses `UnityEngine` types (`Mathf`, `JsonUtility`, `Debug`). So "engine-light" is only partially true. Documented in CLAUDE.md and the overview.
+7. `BuildTools.RunBot` does not check `AGENT_BOT`. It only enters Play mode, and the bot is enabled by the environment variable inside `GameApp`.
+8. PLAN vs. code gaps are listed as proposals P1–P10. The main ones are: PLAN says 5–8 rooms, but `CombatRooms = 3`; there is no URP package in the manifest; there are no prefab rooms; companion behaviour intent and player commands are missing; there is no move cooldown field; and there is no boss portrait close-up. The "kev 9B evaluation" idea is in P8. The repo has no 9B reference, and the default model is `tev1:0.8b`, not the 7–8B model mentioned in PLAN.</result>
+
+The project documentation has been completed successfully.
