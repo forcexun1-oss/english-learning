@@ -20892,3 +20892,4 @@
 - 2026-10-18 07:11 — “Hit the limit” sounds more natural than “the limit was reached” in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 07:12 — Use past tense consistently in status updates: say “The agent completed and committed” rather than mixing present and past tense.

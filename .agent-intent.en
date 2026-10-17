@@ -1,5 +1,11 @@
-<<<<<<< Updated upstream
-Your Claude.ai usage limit has reset. Continue the task you were working on when you hit the limit, and don’t redo any work that’s already complete.
-=======
-Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
->>>>>>> Stashed changes
+The agent completed and committed the boss-duel design proposal as `3836b95` on `feature/boss-duel`. It also added an index entry to `docs/README.md`. Nothing was merged or pushed, and no gameplay code was changed.
+
+The proposal identifies two bugs in the current Feint move: its real swing has only a 0.4-second warning, below the 0.45-second minimum, and it does not mark its warning, so `TelegraphFrac` remains `-1` and skews the boss's `EarlyRatio` statistic.
+
+The design recommends a decision-focused boss fight with visible Focus and Poise systems, a universal commit point with at least 450 ms of reaction time, adaptive but bounded boss behavior, an attackable companion with targeting safeguards, and rule-based mid-fight behavior. The LLM should only configure bounded personality parameters and generate taunts between fights.
+
+The document includes research references, a four-milestone implementation plan, and several open questions, including the reaction-time floor, whether the companion can be downed, whether to include the second character pairing, whether to show Focus, branch ownership for `Poise`, `Threat`, and `DamageTaken`, and potential key conflicts.
+
+Files:
+- `docs/proposals/boss-duel.md`
+- `docs/README.md`
