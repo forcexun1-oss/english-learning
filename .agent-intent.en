@@ -1,1 +1,1 @@
-The pause menu and settings screen have been implemented and committed on the `feature/pause` branch. All 236 EditMode tests pass, including 22 new tests for the menu logic. Keyboard and mouse input were not tested directly.
+This is already natural and idiomatic.
