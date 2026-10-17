@@ -1,1 +1,1 @@
-Dispatch your own subagents to investigate this in parallel.
+The review is complete. The Unity-pi plumbing works, but the model spends its entire token budget on reasoning and often produces no text. The main fixes are to disable thinking or reduce `maxTokens`, limit concurrent Ollama requests, handle retries and prompt errors in `PiRpcChannel`, and address the smaller process-lifecycle issues.
