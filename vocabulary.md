@@ -20768,3 +20768,4 @@
 - 2026-10-17 19:15 — Use “adopt” or “use” with a design pattern; “most modern games” sounds more natural than “games nowadays” here.
 - 2026-10-17 19:22 — Use “approach” for 方案 and “typically implemented” for 目前都是怎么做的; both sound more natural in technical discussions.
 - 2026-10-17 19:23 — Use “while” to clearly contrast two components with different responsibilities.
+- 2026-10-17 19:26 — Use “something like this” to refer to an example or link.
