@@ -20783,4 +20783,7 @@
 - 2026-10-17 20:33 — Use “It may be more practical to...” to make a suggestion sound natural and measured.
 - 2026-10-17 20:37 — Use “simultaneously” or “at the same time” for 一起运行; “combined setup” clearly refers to their total resource usage.
 - 2026-10-17 20:37 — Use “the one with the best overall reputation” for “评价最好的,” and “try running it first” sounds natural for testing a model.
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
+=======
+>>>>>>> Stashed changes
