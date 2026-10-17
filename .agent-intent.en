@@ -1,1 +1,1 @@
-The review is complete. The Unity-pi plumbing works, but the model spends its entire token budget on reasoning and often produces no text. The main fixes are to disable thinking or reduce `maxTokens`, limit concurrent Ollama requests, handle retries and prompt errors in `PiRpcChannel`, and address the smaller process-lifecycle issues.
+What else can be done in parallel without needing my input or depending on the results of the previous tasks? Go ahead and work on those in parallel, especially the assets and anything related to them. They also need to be downloaded.

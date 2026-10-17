@@ -20774,3 +20774,4 @@
 - 2026-10-17 19:48 — Use “Upgrade it” when referring to a specific thing; “Upgrade” alone works as a short command.
 - 2026-10-17 19:48 — Use “Has ... been fixed?” to ask whether a problem has been resolved, and “works fine” for informal confirmation.
 - 2026-10-17 19:50 — Use “dispatch subagents” for assigning tasks to multiple agents, and “in parallel” to describe simultaneous work.
+- 2026-10-17 20:04 — Use “without needing my input” for tasks that do not require your decisions, and “in parallel” for simultaneous work.
