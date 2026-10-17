@@ -20866,6 +20866,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 01:55 — Use “implemented” or “built” for completed software features, and “tested directly” to clarify that real user interaction was not exercised.
 =======
 >>>>>>> Stashed changes
@@ -20894,3 +20895,5 @@
 >>>>>>> Stashed changes
 - 2026-10-18 07:12 — Use past tense consistently in status updates: say “The agent completed and committed” rather than mixing present and past tense.
 - 2026-10-18 07:12 — Use “waiting for ... to finish” rather than “waiting on ...” for clearer, more idiomatic phrasing.
+=======
+>>>>>>> Stashed changes

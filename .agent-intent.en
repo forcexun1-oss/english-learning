@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>a55de2f370c01d6dc</task-id>
 <tool-use-id>toolu_01XpGdzZQkHMbjviKbYfrVZU</tool-use-id>
@@ -8,3 +9,6 @@
 <result>Waiting for the screenshot run to finish.</result>
 <usage>...</usage>
 </task-notification>
+=======
+Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
+>>>>>>> Stashed changes
