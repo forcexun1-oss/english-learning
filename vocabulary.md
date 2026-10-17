@@ -20807,3 +20807,4 @@
 - 2026-10-17 21:04 — Use “has finished downloading” to describe a recently completed action with a present result.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 21:42 — Use present perfect passive, "has been added," to ask whether something has been completed.
