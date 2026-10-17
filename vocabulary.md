@@ -20786,6 +20786,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
@@ -20794,5 +20795,7 @@
 >>>>>>> Stashed changes
 - 2026-10-17 20:51 — Use “from ModelScope” for the download source, and “in parallel” to describe simultaneous downloads.
 - 2026-10-17 20:53 — Use “has completed” for a finished task whose result is relevant now; “finished” is also correct but slightly less descriptive.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
