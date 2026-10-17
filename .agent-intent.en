@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>a2a6af971559deff8</task-id>
 <tool-use-id>toolu_013p8p4TAQJzUgTPnZP5sMQV</tool-use-id>
@@ -45,6 +46,9 @@
 - I copied the Unity-generated `.meta` files for the new files into the commits. The `BossIntro` feature on `main` has no committed metas, so the repository is inconsistent in this respect.
 - I did not touch the main checkout. The temporary probe existed only in the scratch copy.</result>
 <usage><subagent_tokens>223378</subagent_tokens><tool_uses>35</tool_uses><duration_ms>446681</duration_ms></usage>
+=======
+Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
+>>>>>>> Stashed changes
 =======
 Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
 >>>>>>> Stashed changes
