@@ -20884,3 +20884,4 @@
 - 2026-10-18 02:20 — Use “start by + -ing” to describe the first step in a process.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 02:22 — Use “visual effects” or “VFX” for 游戏特效, and “implemented” for 功能已完成.
