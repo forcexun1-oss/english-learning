@@ -20857,3 +20857,4 @@
 =======
 - 2026-10-17 23:02 — Use the passive voice with “was stopped” to describe what happened to the agent.
 >>>>>>> Stashed changes
+- 2026-10-18 01:53 — Use parallel structure and explicit subjects to make technical status reports easier to scan.
