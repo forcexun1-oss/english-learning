@@ -20811,3 +20811,4 @@
 - 2026-10-17 21:42 — Use present perfect passive, "has been added," to ask whether something has been completed.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 21:45 — “Put my finger on” is a natural way to say you can sense a problem but cannot clearly explain it.
