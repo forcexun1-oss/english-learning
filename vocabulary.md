@@ -20741,3 +20741,4 @@
 - 2026-10-16 23:45 — Use “rerun” for running a task again, and “perhaps” to make the request sound more polite and natural.
 - 2026-10-16 23:51 — Use “no longer” or “has stopped” to express that an action is not continuing; “we can start” is natural for beginning a task.
 - 2026-10-16 23:53 — Use "has finished" for a recently completed task, and "on the Mac" rather than "in the Mac" when referring to work performed on a computer.
+- 2026-10-17 12:56 — Use "What's the status?" for "咋样" in a technical context; "poll" means repeatedly checking a task or process.
