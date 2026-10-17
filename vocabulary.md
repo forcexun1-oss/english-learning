@@ -20757,3 +20757,4 @@
 - 2026-10-17 17:24 — “先……着” means to leave something ongoing for the time being; “下” refers to downloading in this context.
 - 2026-10-17 18:32 — Use parentheses for platform labels like "(arm64)" and "finished with exit code" for a more natural status message.
 - 2026-10-17 18:40 — Use the present perfect, “Has ... finished?”, to ask whether an action is complete.
+- 2026-10-17 18:42 — Use “Does it need to be upgraded?” to ask whether an upgrade is necessary; “need” is followed by the passive form “to be upgraded.”
