@@ -1,1 +1,1 @@
-Don’t just use whatever is currently available. Find the most capable model.
+`qwen3.8:27b-mxfp8` is too demanding in terms of performance, so the latency will probably be high.
