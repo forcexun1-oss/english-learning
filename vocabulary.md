@@ -20840,3 +20840,4 @@
 - 2026-10-17 22:56 — Use “in parallel” to describe doing multiple tasks at the same time.
 - 2026-10-17 22:57 — Use “if even …” to emphasize that the situation is unexpectedly restrictive.
 - 2026-10-17 22:59 — Use “repository” instead of just “Git” when referring to the project’s local or remote repo.
+- 2026-10-17 23:01 — Use “Next time, we should...” to suggest a better workflow, and “merge it back into” for merging changes into the main branch.
