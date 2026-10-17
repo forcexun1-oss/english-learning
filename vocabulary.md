@@ -20893,3 +20893,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 07:12 — Use past tense consistently in status updates: say “The agent completed and committed” rather than mixing present and past tense.
+- 2026-10-18 07:12 — Use “waiting for ... to finish” rather than “waiting on ...” for clearer, more idiomatic phrasing.
