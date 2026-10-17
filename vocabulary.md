@@ -20841,5 +20841,9 @@
 - 2026-10-17 22:57 — Use “if even …” to emphasize that the situation is unexpectedly restrictive.
 - 2026-10-17 22:59 — Use “repository” instead of just “Git” when referring to the project’s local or remote repo.
 - 2026-10-17 23:01 — Use “Next time, we should...” to suggest a better workflow, and “merge it back into” for merging changes into the main branch.
+<<<<<<< Updated upstream
 - 2026-10-17 23:02 — Use "was stopped" for a completed event, and "resume it" when asking to continue an interrupted task.
 - 2026-10-17 23:02 — Use “was stopped while working on” for an interrupted task, and “resume the task” for continuing it.
+=======
+- 2026-10-17 23:02 — Use the passive voice with “was stopped” to describe what happened to the agent.
+>>>>>>> Stashed changes
