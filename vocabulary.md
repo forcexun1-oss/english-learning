@@ -20836,3 +20836,4 @@
 - 2026-10-17 22:35 — Use “anything else that hasn't been implemented yet” for “还有什么没做” and “make sure all of them can speak” for “让他们都可以说话.”
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 22:56 — “挨个来” means “one by one” or “individually”; “把” is omitted in natural English here.
