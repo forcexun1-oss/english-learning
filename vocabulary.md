@@ -20862,6 +20862,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 01:55 — Use “implemented” or “built” for completed software features, and “tested directly” to clarify that real user interaction was not exercised.
 =======
 >>>>>>> Stashed changes
@@ -20874,5 +20875,7 @@
 - 2026-10-18 02:12 — Use “comprehensive” for “要全” and “established projects” instead of the literal “everyone” when referring to industry practices.
 - 2026-10-18 02:13 — Use "there should also be..." to suggest an additional feature, and "such as" to give an example.
 - 2026-10-18 02:15 — Use “including” to introduce a list of features, and “delegate each ... to a separate task” sounds natural when assigning work to different agents.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
