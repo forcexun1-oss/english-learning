@@ -20799,3 +20799,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 20:58 — Use “still running” for ongoing processes and “assigned” for tasks given to someone.
