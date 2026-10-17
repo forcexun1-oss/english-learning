@@ -1,1 +1,1 @@
-A lot is still missing. The smaller enemies don't have health bars either. The current visual effects are too subtle and don't look good, so the combat lacks impact.
+Check for anything else that hasn't been implemented yet. There's no results screen either. Also, make sure all of them can speak. The computer should have TTS, so please check. If it doesn't, implement it—maybe it's running inside Docker. If so, find a suitable solution yourself and use streaming from the LLM.
