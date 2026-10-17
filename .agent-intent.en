@@ -1,1 +1,1 @@
-The results screen is just a UI right now. When the boss dies, there should also be an animation, such as the boss falling down.
+We also need a progression system, including stats for both the player and followers, as well as talents, items, and equipment. Please delegate each of these to a separate task.

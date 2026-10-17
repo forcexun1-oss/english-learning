@@ -20872,3 +20872,4 @@
 - 2026-10-18 02:11 — “吧” often softens a suggestion; “Let's continue” sounds natural here.
 - 2026-10-18 02:12 — Use “comprehensive” for “要全” and “established projects” instead of the literal “everyone” when referring to industry practices.
 - 2026-10-18 02:13 — Use "there should also be..." to suggest an additional feature, and "such as" to give an example.
+- 2026-10-18 02:15 — Use “including” to introduce a list of features, and “delegate each ... to a separate task” sounds natural when assigning work to different agents.
