@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Why is the hand holding the shield also holding a knife?
-=======
-Please don't download and test all of them. Pick the one with the best overall reputation that is also fast, and try running that one first.
->>>>>>> Stashed changes
-=======
-Please don't download and test all of them. Pick the one with the best overall reputation that is also fast, and try running that one first.
->>>>>>> Stashed changes
+The objects in the scene don't block bullets, and the bullets and other related elements don't have any assets yet. Hits should trigger a hit effect, and ground-based skills should also have visual effects.

@@ -20826,3 +20826,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 22:13 — Use "block bullets" for "挡不了子弹" and "visual effects" for game-related "特效".
