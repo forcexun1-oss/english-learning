@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Check for anything else that hasn't been implemented yet. There's no results screen either. Also, make sure all of them can speak. The computer should have TTS, so please check. If it doesn't, implement it—maybe it's running inside Docker. If so, find a suitable solution yourself and use streaming from the LLM.
+=======
+Please don't download and test all of them. Pick the one with the best overall reputation that is also fast, and try running that one first.
+>>>>>>> Stashed changes

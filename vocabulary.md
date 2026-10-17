@@ -20794,6 +20794,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
@@ -20833,3 +20834,5 @@
 >>>>>>> Stashed changes
 - 2026-10-17 22:29 — Use “either” after a negative statement to mean “也”: “The smaller enemies don’t have health bars either.”
 - 2026-10-17 22:35 — Use “anything else that hasn't been implemented yet” for “还有什么没做” and “make sure all of them can speak” for “让他们都可以说话.”
+=======
+>>>>>>> Stashed changes
