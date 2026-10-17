@@ -20748,3 +20748,4 @@
 - 2026-10-17 15:54 — Use “too” at the end to mean “also.”
 - 2026-10-17 16:08 — Use “China-based” for 国内的 and “mirror” for a regional download source.
 - 2026-10-17 16:11 — Use “returned” to describe an HTTP status code, and use “at” for a measured speed.
+- 2026-10-17 16:26 — Use “How large is it?” or “How big is it?” to ask about a file’s size.
