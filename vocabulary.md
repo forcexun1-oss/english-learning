@@ -20782,3 +20782,4 @@
 - 2026-10-17 20:33 — Use “demanding in terms of performance” for 性能要求高, and “latency will probably be high” for 估计延时很高.
 - 2026-10-17 20:33 — Use “It may be more practical to...” to make a suggestion sound natural and measured.
 - 2026-10-17 20:37 — Use “simultaneously” or “at the same time” for 一起运行; “combined setup” clearly refers to their total resource usage.
+- 2026-10-17 20:37 — Use “the one with the best overall reputation” for “评价最好的,” and “try running it first” sounds natural for testing a model.
