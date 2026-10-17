@@ -20860,7 +20860,10 @@
 - 2026-10-18 01:53 — Use parallel structure and explicit subjects to make technical status reports easier to scan.
 - 2026-10-18 01:53 — Use “have finished” for completed actions that are relevant now; “are ready for review” clearly states the next step.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 01:55 — Use “implemented” or “built” for completed software features, and “tested directly” to clarify that real user interaction was not exercised.
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 02:01 — Use the present perfect, such as “has completed” and “are in place,” to describe recently finished work that still matters now.
+=======
+>>>>>>> Stashed changes
