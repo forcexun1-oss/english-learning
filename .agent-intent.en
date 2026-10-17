@@ -1,1 +1,1 @@
-`qwen3.8:27b-mxfp8` is too demanding in terms of performance, so the latency will probably be high.
+It may be more practical to look for a 3.6B MoE model.
