@@ -20791,6 +20791,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
@@ -20820,3 +20821,5 @@
 - 2026-10-17 22:05 — Use “on the left and right sides” to describe differences between two directions.
 - 2026-10-17 22:05 — Use “behind me” for something located at your back; “too” emphasizes that this is also possible.
 - 2026-10-17 22:07 — Use “also” to point out the unexpected second action or object.
+=======
+>>>>>>> Stashed changes
