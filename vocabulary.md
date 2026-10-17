@@ -20759,3 +20759,4 @@
 - 2026-10-17 18:40 — Use the present perfect, “Has ... finished?”, to ask whether an action is complete.
 - 2026-10-17 18:42 — Use “Does it need to be upgraded?” to ask whether an upgrade is necessary; “need” is followed by the passive form “to be upgraded.”
 - 2026-10-17 18:44 — Use “get something up and running” to mean launching or making a project operational quickly.
+- 2026-10-17 18:54 — Use “weren’t you already...?” to question an action that you thought had begun.
