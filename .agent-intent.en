@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The task has completed successfully. The results screen, shared UI skin, hub, boon cards, and fight HUD restyling are all in place and working. All 262 EditMode tests passed, and no changes were committed.
-=======
-Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
->>>>>>> Stashed changes
+There's a bug: after I click Pause, it starts flashing rapidly.
