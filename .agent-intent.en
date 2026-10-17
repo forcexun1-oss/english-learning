@@ -1,1 +1,10 @@
-Download the model from ModelScope instead; it should be faster. Large models can be downloaded in parallel now.
+The research agent has completed its report on LLM-plus-fast-executor patterns. The report covers all five areas and includes a system/paper comparison table, 12 prioritized recommendations labeled SUPPORTED-BY-SOURCE or INFERENCE, a risk analysis, and a list of unanswered questions. It was saved to `/Users/youxun/project/game/agent-roguelite/docs/research/llm-plus-fast-executor.md` without modifying any other project files.
+
+Key findings:
+- Keep the LLM off the real-time tick path. Use a behavior tree or other fast executor for reflexes and per-tick actions.
+- Validate generated DSL syntax and semantics, retry invalid outputs, and provide a known-good fallback policy.
+- Treat decision-model benchmark results as preliminary because they are not based on game-control tasks. Add an explicit `none` option and validate thresholds on labeled game examples.
+- Combine scorers with weighted averaging and softmax, but let rules veto impossible actions and fall back to rules when confidence is low.
+- On Apple Silicon, batch all questions for a tick into one `/v1/systemone` call, keep the decision model resident, and use `NUM_PARALLEL=1`.
+
+The report also documents missing latency data, calibration metrics, reliable small-model tool-selection benchmarks, and several unavailable primary sources.
