@@ -20803,3 +20803,4 @@
 - 2026-10-17 20:58 — Use “still running” for ongoing processes and “assigned” for tasks given to someone.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 21:04 — Use “has finished downloading” to describe a recently completed action with a present result.
