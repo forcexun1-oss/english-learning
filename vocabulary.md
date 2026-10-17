@@ -20778,3 +20778,4 @@
 - 2026-10-17 20:28 — “现在什么状况” is naturally translated as “What’s the current status?” in a project or task context.
 - 2026-10-17 20:29 — Use “What model are we using?” for a natural way to ask about the current model.
 - 2026-10-17 20:30 — Use “both A and B” to clearly connect two capabilities; “LLM” is the standard technical abbreviation for “large language model.”
+- 2026-10-17 20:31 — “Don’t settle for...” is a natural way to say “不要将就用...”.
