@@ -20816,3 +20816,4 @@
 - 2026-10-17 21:56 — Use “see me” for “看到我”; “telemetry” refers to data collected remotely about a system or user.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 22:04 — Use “toggle ... on and off” for a feature that can be enabled or disabled with a switch.
