@@ -20851,3 +20851,4 @@
 =======
 - 2026-10-17 23:02 — Use the passive voice with “was stopped” to describe what happened to the agent.
 >>>>>>> Stashed changes
+- 2026-10-17 23:14 — Use a complete sentence with "isn't available" when reporting that a dependency or tool is missing.

@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-The agent was stopped while working on the pause and settings menu. It also reported that a stray `=====` broke the shell. Please resume the task and continue from where it left off.
-=======
-The background music feature agent was stopped by Claude.
->>>>>>> Stashed changes
-=======
-The background music feature agent was stopped by Claude.
->>>>>>> Stashed changes
+libvorbis isn't available. Check the alternatives.
