@@ -20901,3 +20901,4 @@
 - 2026-10-18 07:16 — Use the past tense to describe completed work.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 07:18 — Use consistent capitalization and active voice, and write technical status updates in concise, direct sentences.

@@ -1,5 +1,46 @@
-<<<<<<< Updated upstream
-The task completed successfully. The logging system was implemented and committed, and all 391 EditMode tests passed.
-=======
-Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
->>>>>>> Stashed changes
+<task-notification>
+<task-id>a2a6af971559deff8</task-id>
+<tool-use-id>toolu_013p8p4TAQJzUgTPnZP5sMQV</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/a2a6af971559deff8.output</output-file>
+<status>completed</status>
+<summary>Agent "Feature: enemy and boss death animations" finished</summary>
+<note>A task-notification fires each time this agent stops with no live background children of its own. The user can send it another message and resume it, so the same task-id may notify more than once.</note>
+<result>Monsters did have death animations. The real problems were what happened around them. All three issues are fixed on `feature/death-anim` in 3 commits; nothing is merged or pushed. EditMode tests: 349/349 pass (335 before, plus 14 new). Every headless bot run finished, and the boss death cinematic played in full whenever the bot won.
+
+## Why the user saw no death animation (proven with a temporary scratch-only probe that logged animator state and took screenshots)
+- **Minions:** The Die state exists and does fire. Every rig has the 0.8 s `Death_A` clip, and the probe logged `die=True` about 0.3 s after the kill. However, the first frames are hidden by the existing white flash and bone-spark burst. Then the body vanishes in a single frame at 1.4 s (`Destroy(gameObject, 1.4f)` with no fade), so it looked as if there were no death animation. The screenshots show the skeleton falling backward and lying there, then simply disappearing.
+- **Boss:** `RunDirector` subscribed `BossDefeated += () => EndRun(true)`, so the result screen opened in the same frame. The probe logged `phase=Result` at +0.00 s, meaning the Die clip played behind the results UI.
+- **Player:** `Die()` was already triggered, but the result screen opened in the same frame, so the collapse was never visible.
+
+## What changed
+- **Separate bug found and fixed (commit 880d7d0):** After a lost boss fight, the boss was never removed. It is not parented to the arena, so resetting the room did not remove it, and it kept fighting in the next run. `ResetRoom` now destroys it. This fix is already on `main` and is independent of the death-animation work.
+- **`Actors/Corpse.cs`** (new): Every dying actor plays its Die clip or tips over procedurally if the model has none. It lies still for 1.2 s, puffs dust when it lands, then sinks and shrinks over 0.6 s before being destroyed. The HP bar is hidden, and dead actors cannot be hit, targeted, or collided with.
+  - `Enemy.Collapse()` kills a minion without counting it as a kill or dropping loot. The boss death uses it.
+  - The boss now stops its in-progress move when it dies.
+- **`Features/BossDeath/BossDeathModule.cs`** (new module, 2.5 s, hooked to `BossDefeated` and `PhaseChanged`):
+  - Hit-stop on the killing blow, followed by 0.4x slow motion for 1.5 s, easing back over 0.3 s.
+  - Camera push-in via `PushShot`/`ClearShot`, plus letterbox bars.
+  - Dust, ember, and bone bursts with a shake when the body lands, at about 1.63 s.
+  - Remaining minions, projectiles, and ground warnings are cleared.
+- **Slow motion without writing `Time.timeScale`:** It temporarily lowers `Juice.BaseScale` and goes through `HitStop`/`ResetTime`, so `Juice.cs` remains untouched.
+- **`RunDirector`:** It waits 2.5 s after the boss dies and 1.6 s after the player dies before showing the results. The delay is measured in real time multiplied by the normal game speed, so the 4x bot still finishes, and the countdown stops while paused.
+- **`Core/DeathTimeline.cs`:** Added pure timing logic, covered by `Tests/Editor/DeathTimelineTests.cs`. Added one line to `docs/architecture/overview.md`.
+
+## What the screenshots show (headless bot; files in `/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/scratchpad/shots-death3/`)
+- **Enemy mid-death (0.3 s):** The skeleton is falling backward, partly hidden by the knight and the gold hit sparks.
+- **Enemy fading:** One frame shows the body lying flat with its weapon dropped; another shows only the skull and shoulder above the floor as it sinks.
+- **Boss at 0.35 s:** The boss is mostly washed out by the existing white flare and bone burst.
+- **Boss at 1.2 s:** A clear flank close-up shows the large skeleton falling backward with its axe, unobstructed. The camera was moved off to the side because the first placement had the knight blocking the view.
+- **Boss at 2.3 s:** The camera is mostly back to the gameplay view, with a dust patch. The boss is lying at the bottom edge of the frame, so this final beat is weak.
+
+## Limits
+- The screenshots render only the 3D world, so the letterbox bars and hidden HP bar are not shown. The player collapse was not captured. The bot did lose runs and move to the results screen normally, so the delay works, but nothing captured that moment.
+- The procedural topple runs only when a model has no Die clip, and every current model has one. That path has unit tests for its timing but was never observed running.
+- The interaction between slow motion and the pause menu is reasoned through but not tested. The in-progress `fix/pause-time` branch keeps `BaseScale` as the base speed, so this approach should survive the merge.
+- Two runs failed before succeeding:
+  - The first run hung at `TrimDiskCacheJob`; I killed it and retried once.
+  - The retry got stuck in the hub because the HUD screenshot queue never emptied in batch mode. I patched only the scratch copy to skip HUD screenshots and get past it. The worktree is unchanged.
+- The bot lost some later runs. The boss learns the bot's fixed habit of always dodging right, so I do not think this change caused the failures, but I did not prove that.
+- I copied the Unity-generated `.meta` files for the new files into the commits. The `BossIntro` feature on `main` has no committed metas, so the repository is inconsistent in this respect.
+- I did not touch the main checkout. The temporary probe existed only in the scratch copy.</result>
+<usage><subagent_tokens>223378</subagent_tokens><tool_uses>35</tool_uses><duration_ms>446681</duration_ms></usage>
