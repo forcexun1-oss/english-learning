@@ -20817,3 +20817,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-17 22:04 — Use “toggle ... on and off” for a feature that can be enabled or disabled with a switch.
+- 2026-10-17 22:05 — Use “on the left and right sides” to describe differences between two directions.

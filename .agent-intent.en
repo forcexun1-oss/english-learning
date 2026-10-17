@@ -1,1 +1,1 @@
-Why is there a white square in the general-purpose worker view? Its shape seems wrong when moving up and down. Is it the tool's collision check? Please add a hotkey to toggle it on and off, with the default set to off.
+The pet's follow distance is different on the left and right sides.
