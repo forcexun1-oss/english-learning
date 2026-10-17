@@ -20751,3 +20751,4 @@
 - 2026-10-17 16:26 — Use “How large is it?” or “How big is it?” to ask about a file’s size.
 - 2026-10-17 16:27 — Use “then” to express a decision based on the previous situation; “use a proxy” is the natural technical phrase.
 - 2026-10-17 16:30 — Use “it should be about the same” to express that the result or speed is expected to be similar.
+- 2026-10-17 16:55 — Use “based on” to introduce the evidence or reason for your conclusion.
