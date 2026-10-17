@@ -1,1 +1,1 @@
-The equipment feature is complete and committed in three commits on `feature/equipment`. All 388 EditMode tests pass, including 39 new tests, and the headless bot completes its runs with the equipment module installed. The changes have not been merged, rebased, or pushed.
+The equipment and stats features have both been completed, tested, and committed on separate branches. The next step is to merge them into the main development branch and resolve any integration conflicts, especially in shared files such as `Player.cs`, `Companion.cs`, `Data.cs`, and `Stats.cs`.
