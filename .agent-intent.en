@@ -1,1 +1,1 @@
-What's the status? It still hasn't run, and you haven't polled it either.
+The background command "Retry hermes S3 once, keeping the failed probe directory" failed with exit code 1.
