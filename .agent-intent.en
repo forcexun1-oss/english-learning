@@ -1,1 +1,7 @@
-It looks like everything has finished downloading, right?
+<task-notification>
+  <task-id>bdlffqbmg</task-id>
+  <tool-use-id>toolu_01QNqmjQAsDoAFMV6JoM2WfW</tool-use-id>
+  <output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/bdlffqbmg.output</output-file>
+  <status>failed</status>
+  <summary>Background command ... failed with exit code 1</summary>
+</task-notification>
