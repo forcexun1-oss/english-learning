@@ -20755,3 +20755,4 @@
 - 2026-10-17 16:56 — “再试试” is naturally translated as “try it again” or simply “give it another try.”
 - 2026-10-17 17:23 — Use “leave it ...ing” to say that something should continue running while you do something else.
 - 2026-10-17 17:24 — “先……着” means to leave something ongoing for the time being; “下” refers to downloading in this context.
+- 2026-10-17 18:32 — Use parentheses for platform labels like "(arm64)" and "finished with exit code" for a more natural status message.
