@@ -20897,3 +20897,4 @@
 - 2026-10-18 07:12 — Use “waiting for ... to finish” rather than “waiting on ...” for clearer, more idiomatic phrasing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 07:16 — Use the past tense to describe completed work.
