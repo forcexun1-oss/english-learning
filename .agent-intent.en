@@ -1,1 +1,1 @@
-The objects in the scene don't block bullets, and the bullets and other related elements don't have any assets yet. Hits should trigger a hit effect, and ground-based skills should also have visual effects.
+Casting doesn't have an animation either. Does it include a cast time and recovery time?

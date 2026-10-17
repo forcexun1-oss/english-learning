@@ -20827,3 +20827,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-17 22:13 — Use "block bullets" for "挡不了子弹" and "visual effects" for game-related "特效".
+- 2026-10-17 22:15 — Use "animation" for a character's casting movement; "cast time" and "recovery time" are natural game-development terms for 前摇 and 后摇.
