@@ -20831,3 +20831,4 @@
 - 2026-10-17 22:15 — Use "animation" for a character's casting movement; "cast time" and "recovery time" are natural game-development terms for 前摇 and 后摇.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 22:29 — Use “either” after a negative statement to mean “也”: “The smaller enemies don’t have health bars either.”
