@@ -1,1 +1,1 @@
-The logging needs to be comprehensive, especially the error logs. We need a proper logging system, so please look into how established projects integrate logging and implement it professionally.
+The results screen is just a UI right now. When the boss dies, there should also be an animation, such as the boss falling down.
