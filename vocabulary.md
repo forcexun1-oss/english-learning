@@ -20763,3 +20763,4 @@
 - 2026-10-17 18:56 — “把” is a colloquial sentence-ending particle here; “go ahead and...” conveys the same casual, encouraging tone.
 - 2026-10-17 18:57 — Use “empty scene” for “空场景” and “there's nothing in it” for “啥也没有.”
 - 2026-10-17 18:59 — Use “doesn't seem to be working” to describe something that appears not to work.
+- 2026-10-17 19:07 — Use “feel free to” to give permission or encouragement, and “best practices” for recommended ways of writing code.
