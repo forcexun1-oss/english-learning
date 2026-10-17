@@ -20787,6 +20787,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
@@ -20800,3 +20801,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-17 20:58 — Use “still running” for ongoing processes and “assigned” for tasks given to someone.
+=======
+>>>>>>> Stashed changes
