@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <task-notification>
   <task-id>bdlffqbmg</task-id>
   <tool-use-id>toolu_01QNqmjQAsDoAFMV6JoM2WfW</tool-use-id>
@@ -5,3 +6,6 @@
   <status>failed</status>
   <summary>Background command ... failed with exit code 1</summary>
 </task-notification>
+=======
+Please don't download and test all of them. Pick the one with the best overall reputation that is also fast, and try running that one first.
+>>>>>>> Stashed changes
