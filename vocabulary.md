@@ -20879,3 +20879,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 02:20 — Use “should” for design recommendations, and say “wind-up” or “cast animation” for 技能前摇.
