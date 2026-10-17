@@ -20863,6 +20863,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 01:55 — Use “implemented” or “built” for completed software features, and “tested directly” to clarify that real user interaction was not exercised.
 =======
 >>>>>>> Stashed changes
@@ -20881,3 +20882,5 @@
 >>>>>>> Stashed changes
 - 2026-10-18 02:20 — Use “should” for design recommendations, and say “wind-up” or “cast animation” for 技能前摇.
 - 2026-10-18 02:20 — Use “start by + -ing” to describe the first step in a process.
+=======
+>>>>>>> Stashed changes
