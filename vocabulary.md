@@ -20870,3 +20870,4 @@
 - 2026-10-18 02:06 — Use “after I click...” to describe what happens after an action; “flashing rapidly” sounds more natural than “flashing wildly.”
 - 2026-10-18 02:06 — Use "Doesn't ... have ...?" to ask whether something is missing or absent.
 - 2026-10-18 02:11 — “吧” often softens a suggestion; “Let's continue” sounds natural here.
+- 2026-10-18 02:12 — Use “comprehensive” for “要全” and “established projects” instead of the literal “everyone” when referring to industry practices.
