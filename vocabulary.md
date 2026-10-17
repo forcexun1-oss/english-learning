@@ -20744,3 +20744,4 @@
 - 2026-10-17 12:56 — Use "What's the status?" for "咋样" in a technical context; "poll" means repeatedly checking a task or process.
 - 2026-10-17 13:44 — Use “upgrade ... to the latest version” for software updates.
 - 2026-10-17 13:50 — Use the present continuous tense, “is installing,” for an action happening right now.
+- 2026-10-17 15:53 — Use “take it from here” to naturally mean “continue handling it from this point.”
