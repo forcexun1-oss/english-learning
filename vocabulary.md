@@ -20787,3 +20787,4 @@
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 20:48 — Use "Did you..." for past actions, and "or" to present two alternatives.
