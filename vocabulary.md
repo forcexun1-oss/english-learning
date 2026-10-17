@@ -20868,3 +20868,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 02:06 — Use “after I click...” to describe what happens after an action; “flashing rapidly” sounds more natural than “flashing wildly.”
+- 2026-10-18 02:06 — Use "Doesn't ... have ...?" to ask whether something is missing or absent.
