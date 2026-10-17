@@ -20791,3 +20791,4 @@
 - 2026-10-17 20:48 — Use "Did you..." for past actions, and "or" to present two alternatives.
 =======
 >>>>>>> Stashed changes
+- 2026-10-17 20:51 — Use “from ModelScope” for the download source, and “in parallel” to describe simultaneous downloads.
