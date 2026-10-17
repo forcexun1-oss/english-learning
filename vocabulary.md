@@ -20766,3 +20766,4 @@
 - 2026-10-17 19:07 — Use “feel free to” to give permission or encouragement, and “best practices” for recommended ways of writing code.
 - 2026-10-17 19:12 — Use “start from scratch” for “从头写,” and “refer to” when using an existing project as a reference.
 - 2026-10-17 19:15 — Use “adopt” or “use” with a design pattern; “most modern games” sounds more natural than “games nowadays” here.
+- 2026-10-17 19:22 — Use “approach” for 方案 and “typically implemented” for 目前都是怎么做的; both sound more natural in technical discussions.

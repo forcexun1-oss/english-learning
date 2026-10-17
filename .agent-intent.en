@@ -1,1 +1,1 @@
-I see that most modern games use ECS. Do we need to adopt this design pattern?
+What approach should we use for skill execution? An LLM probably isn't suitable. Should we use a model in the jev class instead? There are many of them now, so please find the one with the best current performance and results. Also, look into how this is typically implemented today. Is it usually a combination of jev and traditional game AI?
