@@ -20773,3 +20773,4 @@
 - 2026-10-17 19:32 — Use “rely on it alone” instead of “only depend on it” for a more natural expression.
 - 2026-10-17 19:48 — Use “Upgrade it” when referring to a specific thing; “Upgrade” alone works as a short command.
 - 2026-10-17 19:48 — Use “Has ... been fixed?” to ask whether a problem has been resolved, and “works fine” for informal confirmation.
+- 2026-10-17 19:50 — Use “dispatch subagents” for assigning tasks to multiple agents, and “in parallel” to describe simultaneous work.
