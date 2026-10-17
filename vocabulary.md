@@ -20870,6 +20870,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 01:55 — Use “implemented” or “built” for completed software features, and “tested directly” to clarify that real user interaction was not exercised.
 =======
 >>>>>>> Stashed changes
@@ -20910,3 +20911,5 @@
 >>>>>>> Stashed changes
 - 2026-10-18 07:28 — Use “committed in” for commits on a branch, and use “including” to add a specific detail naturally.
 - 2026-10-18 07:49 — Use "the next step is to..." to describe the recommended action after completing a task.
+=======
+>>>>>>> Stashed changes

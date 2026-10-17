@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The equipment and stats features have both been completed, tested, and committed on separate branches. The next step is to merge them into the main development branch and resolve any integration conflicts, especially in shared files such as `Player.cs`, `Companion.cs`, `Data.cs`, and `Stats.cs`.
+=======
+Both feature agents have finished. The music feature and boss entrance cinematic are ready for review and integration.
+>>>>>>> Stashed changes
