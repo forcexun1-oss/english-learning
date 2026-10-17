@@ -20749,3 +20749,4 @@
 - 2026-10-17 16:08 — Use “China-based” for 国内的 and “mirror” for a regional download source.
 - 2026-10-17 16:11 — Use “returned” to describe an HTTP status code, and use “at” for a measured speed.
 - 2026-10-17 16:26 — Use “How large is it?” or “How big is it?” to ask about a file’s size.
+- 2026-10-17 16:27 — Use “then” to express a decision based on the previous situation; “use a proxy” is the natural technical phrase.
