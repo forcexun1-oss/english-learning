@@ -20790,6 +20790,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-17 20:46 — Use the present perfect passive, "has been finalized," to ask whether a decision has already been made.
 =======
 >>>>>>> Stashed changes
@@ -20813,3 +20814,5 @@
 >>>>>>> Stashed changes
 - 2026-10-17 21:45 — “Put my finger on” is a natural way to say you can sense a problem but cannot clearly explain it.
 - 2026-10-17 21:56 — Use “see me” for “看到我”; “telemetry” refers to data collected remotely about a system or user.
+=======
+>>>>>>> Stashed changes
