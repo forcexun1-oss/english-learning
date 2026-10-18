@@ -21023,3 +21023,4 @@
 >>>>>>> Stashed changes
 - 2026-10-18 22:14 — Use “be able to understand it” to ask whether something is clear to others.
 - 2026-10-18 22:19 — Use “has been updated” for a completed result whose effect is still relevant now; use “was updated” when describing only a past event.
+- 2026-10-18 22:20 — Use “right?” to confirm something, and use “both ... and ...” for two items.
