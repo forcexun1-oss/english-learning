@@ -21016,3 +21016,4 @@
 - 2026-10-18 21:39 — Use “at the same time” for “同时,” and “configured” is a natural technical term for “配过了.”
 - 2026-10-18 22:01 — Use "Has ... been tested" for asking whether something has been tested, and "on the board" for hardware-device testing.
 - 2026-10-18 22:04 — Use “This is all I need” for “我就要这个就可以了,” and “Has it ... yet?” to ask whether something has happened by now.
+- 2026-10-18 22:11 — “Hit the limit” sounds more natural than “when the limit was reached” in direct developer instructions.
