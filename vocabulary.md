@@ -20925,3 +20925,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 09:29 — Use "because it hit" to state the cause directly, and use "resume" for continuing an interrupted task.
+- 2026-10-18 12:11 — Use “resume” instead of “continue” when restarting an interrupted task.
