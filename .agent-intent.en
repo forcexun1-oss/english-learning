@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>bs693ppui</task-id>
 <tool-use-id>toolu_019yQUNyR7fDabRFV7XtbyPQ</tool-use-id>
@@ -6,6 +7,9 @@
 <status>completed</status>
 <summary>Background command "until grep -q \"bot-exit\" /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/bgd4gr3sc.output 2&gt;/dev/null; do sleep 5; done; tail -12 /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/bgd4gr3sc.output" completed (exit code 0)</summary>
 </task-notification>
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
 =======
 Is the process stuck? You need a polling mechanism to check its status periodically.
 >>>>>>> Stashed changes
