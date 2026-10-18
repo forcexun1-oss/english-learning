@@ -20931,6 +20931,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 09:26 — Use "open world" for "开放世界/无限地图" and "instanced areas" for separate, self-contained game areas.
 =======
 >>>>>>> Stashed changes
@@ -20980,3 +20981,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 17:11 — Use “no translation is needed” when the source text is already in the target language.
+=======
+>>>>>>> Stashed changes
