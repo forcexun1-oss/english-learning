@@ -21014,3 +21014,4 @@
 - 2026-10-18 18:29 — Use “keep ... in mind” to express remembering and following a guideline during ongoing work.
 - 2026-10-18 18:30 — Use "hit the session limit" for rate-limit errors, and "resume the task" when continuing interrupted work.
 - 2026-10-18 21:39 — Use “at the same time” for “同时,” and “configured” is a natural technical term for “配过了.”
+- 2026-10-18 22:01 — Use "Has ... been tested" for asking whether something has been tested, and "on the board" for hardware-device testing.
