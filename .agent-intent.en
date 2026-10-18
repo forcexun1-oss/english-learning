@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The UI looks really ugly. Did you design it yourself?
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes

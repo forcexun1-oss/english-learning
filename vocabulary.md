@@ -20928,6 +20928,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 09:26 — Use "open world" for "开放世界/无限地图" and "instanced areas" for separate, self-contained game areas.
 =======
 >>>>>>> Stashed changes
@@ -20968,3 +20969,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 15:18 — Use “design” for creating a UI; “draw” is usually for making pictures by hand.
+=======
+>>>>>>> Stashed changes
