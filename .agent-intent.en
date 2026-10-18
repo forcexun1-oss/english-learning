@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The talent system is too simple. Research how other games handle it: it should be a tree where players choose a path and can unlock key talents. It also needs a sense of progression. Talents for the player and followers should be separate, and there should eventually be support for multiple followers. Followers should use the same overall design: a unified, tree-based system that also includes equipment and similar features. We should standardize the design across the board. That is how it works now, right?
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
