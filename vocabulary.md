@@ -20999,3 +20999,4 @@
 - 2026-10-18 17:43 — Use the present perfect, such as “has finished,” for a recently completed action with present relevance.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 18:13 — Use “already in English” to say that translation is unnecessary.
