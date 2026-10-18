@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Let's go with your recommendation: dim the health orb when the player's health is full and show a prompt indicating that it can't be picked up. The green orb should not be collectible in that state.
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
