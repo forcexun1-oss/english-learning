@@ -20940,3 +20940,4 @@
 - 2026-10-18 12:27 — Use “provided” rather than “given” in formal contexts when referring to input or information.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:31 — Use “has been completed” or “finished” for task status updates; both are natural in technical contexts.
