@@ -21003,3 +21003,4 @@
 - 2026-10-18 18:13 — Use “already in English” to say that translation is unnecessary.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 18:25 — Use “keep going” or “continue” to tell someone to proceed, and “so” to show the reason or result.
