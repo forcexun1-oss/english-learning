@@ -20929,3 +20929,4 @@
 - 2026-10-18 12:11 — Use “resume” instead of “continue” when restarting an interrupted task.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:15 — Use “merged with” for a branch that has incorporated another branch’s changes; use “merged into” when describing the destination branch.
