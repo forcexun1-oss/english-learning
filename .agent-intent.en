@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<task-notification>
-<task-id>aa8c10205adf919fe</task-id>
-<tool-use-id>toolu_01YBFoq3TPFyaj724p94v3Qn</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/7cf6507c-b688-43d0-9e91-b78620dd6a1f/tasks/aa8c10205adf919fe.output</output-file>
-<status>completed</status>
-<summary>Agent "Fix health orb pickup and hint" is waiting on its own background work</summary>
-<note>This agent stopped while background work was still running. It may resume on its own when the work completes or reports, and the same task-id will trigger another notification if it does.</note>
-<result>The EditMode run is still in progress; waiting for its completion notification.</result>
-<usage><subagent_tokens>116785</subagent_tokens><tool_uses>43</tool_uses><duration_ms>239549</duration_ms></usage>
-=======
-Is the process stuck? You need a polling mechanism to check its status periodically.
->>>>>>> Stashed changes
+The message is already natural English and does not require correction.

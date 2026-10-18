@@ -20995,3 +20995,4 @@
 - 2026-10-18 17:26 — Use "while ... was still running" for a more natural description of an unfinished background task.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 17:43 — Use the present perfect, such as “has finished,” for a recently completed action with present relevance.
