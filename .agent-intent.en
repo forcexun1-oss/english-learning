@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-There should be merchants, and merchants should also be agents.
-=======
-Is the process stuck? You need a polling mechanism to check its status periodically.
->>>>>>> Stashed changes
+The "Build walkable hub lobby" agent failed because it hit the session limit. Its work has been saved. Once the limit resets at 12:10 p.m. (Asia/Shanghai), send a message to the same agent to resume it instead of starting a new one.

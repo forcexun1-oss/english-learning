@@ -20924,3 +20924,4 @@
 - 2026-10-18 09:28 — Use “there should be” to express that something needs to exist or be included.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 09:29 — Use "because it hit" to state the cause directly, and use "resume" for continuing an interrupted task.
