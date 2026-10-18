@@ -20913,3 +20913,4 @@
 - 2026-10-18 07:49 — Use "the next step is to..." to describe the recommended action after completing a task.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 09:18 — Use “polling mechanism” for 轮询机制 and “periodically” for 定期地.
