@@ -20920,3 +20920,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 09:28 — “要” can mean “want,” “need,” or “will,” depending on the context.
+- 2026-10-18 09:28 — Use “there should be” to express that something needs to exist or be included.
