@@ -20948,3 +20948,4 @@
 - 2026-10-18 12:39 — Use “seems to be stuck” for a task that is not progressing, and “Is anyone testing it?” to ask whether someone is currently testing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:43 — Use “research how other games handle it” instead of the more literal “investigate how others do it” for a natural product-development request.
