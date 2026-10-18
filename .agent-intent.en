@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 The talents branch is finished, merged with `main`, and committed as `d0fcb7e` on `feature/talents`. All 621 EditMode tests pass, and the final watched bot run completed all 3 runs. It has not been merged into `main` yet.
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
 =======
 Is the process stuck? You need a polling mechanism to check its status periodically.
 >>>>>>> Stashed changes
