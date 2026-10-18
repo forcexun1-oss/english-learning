@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Keep going—there's nothing you need to ask me, so don't stop.
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
