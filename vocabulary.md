@@ -20917,6 +20917,7 @@
 - 2026-10-18 09:19 — Use “polling mechanism” for repeatedly checking a task or process, and “stuck” for one that has stopped making progress.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 09:26 — Use "open world" for "开放世界/无限地图" and "instanced areas" for separate, self-contained game areas.
 =======
 >>>>>>> Stashed changes
@@ -20926,3 +20927,5 @@
 >>>>>>> Stashed changes
 - 2026-10-18 09:29 — Use "because it hit" to state the cause directly, and use "resume" for continuing an interrupted task.
 - 2026-10-18 12:11 — Use “resume” instead of “continue” when restarting an interrupted task.
+=======
+>>>>>>> Stashed changes
