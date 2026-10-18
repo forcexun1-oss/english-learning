@@ -20979,3 +20979,4 @@
 - 2026-10-18 15:32 — Use an imperative verb like “work on” to make the instruction complete and natural.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 17:11 — Use “no translation is needed” when the source text is already in the target language.
