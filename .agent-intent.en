@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Use the recommended option.
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
