@@ -21036,3 +21036,4 @@
 - 2026-10-18 22:34 — Use "without any live background children" and "continue from where it stopped" for more natural, precise phrasing.
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
 - 2026-10-19 00:50 — Use “right?” to express the confirmation implied by “把” in this context.
+- 2026-10-19 00:51 — Use “I’m using...” to clearly describe your current setup.
