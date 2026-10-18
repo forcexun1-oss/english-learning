@@ -20938,6 +20938,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 09:26 — Use "open world" for "开放世界/无限地图" and "instanced areas" for separate, self-contained game areas.
 =======
 >>>>>>> Stashed changes
@@ -21008,3 +21009,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 18:28 — Use “assets” for game/app resources such as UI images, effects, and other media; “right?” naturally expresses confirmation.
+=======
+>>>>>>> Stashed changes
