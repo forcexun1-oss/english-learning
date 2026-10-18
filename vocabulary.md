@@ -20919,3 +20919,4 @@
 - 2026-10-18 09:26 — Use "open world" for "开放世界/无限地图" and "instanced areas" for separate, self-contained game areas.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 09:28 — “要” can mean “want,” “need,” or “will,” depending on the context.
