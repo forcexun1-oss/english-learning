@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The assets and code are separate, right? When we change the UI, visual effects, or other assets later, we can just replace the assets directly, right?
-=======
-Is the process stuck? You need a polling mechanism to check its status periodically.
->>>>>>> Stashed changes
+Please refactor it, and keep this standard in mind throughout the project.

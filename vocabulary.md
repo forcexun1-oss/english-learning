@@ -21011,3 +21011,4 @@
 - 2026-10-18 18:28 — Use “assets” for game/app resources such as UI images, effects, and other media; “right?” naturally expresses confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 18:29 — Use “keep ... in mind” to express remembering and following a guideline during ongoing work.
