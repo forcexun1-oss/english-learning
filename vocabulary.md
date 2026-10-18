@@ -21037,3 +21037,4 @@
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
 - 2026-10-19 00:50 — Use “right?” to express the confirmation implied by “把” in this context.
 - 2026-10-19 00:51 — Use “I’m using...” to clearly describe your current setup.
+- 2026-10-19 00:51 — Use "right?" to ask for confirmation naturally; capitalize the model name if it is a proper name.
