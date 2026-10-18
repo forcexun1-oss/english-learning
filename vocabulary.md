@@ -20952,3 +20952,4 @@
 - 2026-10-18 12:43 — Use “research how other games handle it” instead of the more literal “investigate how others do it” for a natural product-development request.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:45 — Use "for each companion" to clarify that the points belong to individual companions, and "are separate" to express that they are not shared.
