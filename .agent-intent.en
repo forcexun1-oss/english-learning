@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The task notification is already written in natural English.
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
