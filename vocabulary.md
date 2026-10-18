@@ -20914,3 +20914,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-18 09:18 — Use “polling mechanism” for 轮询机制 and “periodically” for 定期地.
+- 2026-10-18 09:19 — Use “polling mechanism” for repeatedly checking a task or process, and “stuck” for one that has stopped making progress.
