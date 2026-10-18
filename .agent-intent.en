@@ -1,9 +1,1 @@
-From now on, assign all subsequent tasks to Codex's subscription plan using:
-
-```sh
-env -u OPENAI_API_KEY -u OPENAI_BASE_URL \
-  codex \
-  -c 'model_provider="openai"'
-```
-
-Remember: under no circumstances should you use the API-key-based Codex to execute them.
+This is the subscription version executing it, right?
