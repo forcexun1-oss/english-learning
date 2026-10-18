@@ -20971,3 +20971,4 @@
 - 2026-10-18 15:18 — Use “design” for creating a UI; “draw” is usually for making pictures by hand.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 15:19 — Use “let's” for suggestions, and “I remember the plan mentioned...” to refer naturally to something stated earlier.
