@@ -20963,3 +20963,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 15:15 — “按推荐”通常译为 “as recommended” 或 “use the recommended option”，后者更适合作为开发指令。
