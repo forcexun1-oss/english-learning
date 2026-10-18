@@ -21007,3 +21007,4 @@
 - 2026-10-18 18:25 — Use “keep going” or “continue” to tell someone to proceed, and “so” to show the reason or result.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 18:28 — Use “assets” for game/app resources such as UI images, effects, and other media; “right?” naturally expresses confirmation.
