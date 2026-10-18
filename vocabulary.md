@@ -21021,3 +21021,4 @@
 =======
 - 2026-10-18 18:30 — Use "won't" instead of "I'll not" in natural developer communication.
 >>>>>>> Stashed changes
+- 2026-10-18 22:14 — Use “be able to understand it” to ask whether something is clear to others.
