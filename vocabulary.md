@@ -20936,3 +20936,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:27 — Use “provided” rather than “given” in formal contexts when referring to input or information.
