@@ -20991,3 +20991,4 @@
 - 2026-10-18 17:22 — Use “when ... is full” for a condition, and “can't be picked up” for an item that is unavailable for collection.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 17:26 — Use "while ... was still running" for a more natural description of an unfinished background task.
