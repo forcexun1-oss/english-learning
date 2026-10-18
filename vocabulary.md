@@ -21014,6 +21014,7 @@
 - 2026-10-18 18:29 — Use “keep ... in mind” to express remembering and following a guideline during ongoing work.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 18:30 — Use "hit the session limit" for rate-limit errors, and "resume the task" when continuing interrupted work.
 - 2026-10-18 21:39 — Use “at the same time” for “同时,” and “configured” is a natural technical term for “配过了.”
 - 2026-10-18 22:01 — Use "Has ... been tested" for asking whether something has been tested, and "on the board" for hardware-device testing.
@@ -21025,6 +21026,9 @@
 - 2026-10-18 22:14 — Use “be able to understand it” to ask whether something is clear to others.
 - 2026-10-18 22:19 — Use “has been updated” for a completed result whose effect is still relevant now; use “was updated” when describing only a past event.
 - 2026-10-18 22:20 — Use “right?” to confirm something, and use “both ... and ...” for two items.
+=======
+- 2026-10-18 18:30 — Use "won't" instead of "I'll not" in natural developer communication.
+>>>>>>> Stashed changes
 =======
 - 2026-10-18 18:30 — Use "won't" instead of "I'll not" in natural developer communication.
 >>>>>>> Stashed changes

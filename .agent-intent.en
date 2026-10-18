@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Both Chinese and English have been tested, right?
+=======
+The agent stopped early because of an API rate-limit error. Its work so far has been saved, and it can resume from the same task once the limit resets. The editor is open on `main`; I won't copy its `Library` directory. I'm starting the baseline copy and bot run now.
+>>>>>>> Stashed changes
 =======
 The agent stopped early because of an API rate-limit error. Its work so far has been saved, and it can resume from the same task once the limit resets. The editor is open on `main`; I won't copy its `Library` directory. I'm starting the baseline copy and bot run now.
 >>>>>>> Stashed changes
