@@ -20944,3 +20944,4 @@
 - 2026-10-18 12:31 — Use “has been completed” or “finished” for task status updates; both are natural in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 12:39 — Use “seems to be stuck” for a task that is not progressing, and “Is anyone testing it?” to ask whether someone is currently testing.
