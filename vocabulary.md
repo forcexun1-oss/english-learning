@@ -21032,9 +21032,13 @@
 =======
 - 2026-10-18 18:30 — Use "won't" instead of "I'll not" in natural developer communication.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-10-18 22:34 — Use "the changes" for clarity, and "is running" sounds more natural here than "runs."
 - 2026-10-18 22:34 — Use "without any live background children" and "continue from where it stopped" for more natural, precise phrasing.
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
 - 2026-10-19 00:50 — Use “right?” to express the confirmation implied by “把” in this context.
 - 2026-10-19 00:51 — Use “I’m using...” to clearly describe your current setup.
 - 2026-10-19 00:51 — Use "right?" to ask for confirmation naturally; capitalize the model name if it is a proper name.
+=======
+- 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
+>>>>>>> Stashed changes
