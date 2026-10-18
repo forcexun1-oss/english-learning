@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The task seems to be stuck. Is anyone testing it?
+=======
+Is the process stuck? You need a polling mechanism to check its status periodically.
+>>>>>>> Stashed changes
