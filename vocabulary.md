@@ -20975,3 +20975,4 @@
 - 2026-10-18 15:19 — Use “let's” for suggestions, and “I remember the plan mentioned...” to refer naturally to something stated earlier.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 15:32 — Use an imperative verb like “work on” to make the instruction complete and natural.
