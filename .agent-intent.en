@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-The task notification is already written in natural English.
-=======
-Is the process stuck? You need a polling mechanism to check its status periodically.
->>>>>>> Stashed changes
+Let's go with your recommendation: dim the health orb when the player's health is full and show a prompt indicating that it can't be picked up. The green orb should not be collectible in that state.

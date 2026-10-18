@@ -20987,3 +20987,4 @@
 - 2026-10-18 17:16 — Use “written in natural English” to describe text that does not need correction.
 =======
 >>>>>>> Stashed changes
+- 2026-10-18 17:22 — Use “when ... is full” for a condition, and “can't be picked up” for an item that is unavailable for collection.
