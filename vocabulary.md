@@ -21475,3 +21475,4 @@
 - 2026-10-19 19:05 — Use “base something on” or “use something as a reference” to ask about the source of a design.
 - 2026-10-19 19:36 — Use “every 30 minutes” for recurring intervals, and “Are they there?” to ask whether something exists.
 - 2026-10-19 20:29 — Use the past tense “did you draw” to ask whether someone created an image.
+- 2026-10-19 20:34 — Use “start with” for the first step and “then” to show the next step clearly.
