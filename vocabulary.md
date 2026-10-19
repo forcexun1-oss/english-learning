@@ -21365,3 +21365,4 @@
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
+- 2026-10-19 15:47 — Use "before and after" for comparing two states, and "go ahead and" to make the instruction sound natural.
