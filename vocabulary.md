@@ -21501,6 +21501,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21545,6 +21546,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-19 23:18 — Use “end up in” to describe something unexpectedly being placed or moved somewhere.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
