@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 How is the new session cache implementation coming along? Will it cause serious conflicts every time we merge? Of course, I expect it to be implemented in a relatively independent way.
+=======
+As for inference engines, let's discuss this further. Llama is clearly not a very good option.
+>>>>>>> Stashed changes
