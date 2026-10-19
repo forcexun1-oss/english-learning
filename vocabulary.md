@@ -21459,3 +21459,4 @@
 - 2026-10-19 17:21 — Use “eliminate the inconsistency” for a clear, direct statement; “resolve the discrepancy” is also natural in technical contexts.
 - 2026-10-19 17:26 — “按你的处理” is naturally expressed as “the way you suggested” or “as you see fit.”
 - 2026-10-19 17:27 — Use “the options you mentioned” to refer to previously discussed choices; “sound poor” is natural when evaluating audio or TTS quality.
+- 2026-10-19 17:28 — Use “on this machine” when referring to whether software can run on a specific computer.
