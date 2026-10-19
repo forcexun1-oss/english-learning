@@ -21504,3 +21504,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 22:00 — Use “so I can...” to express the purpose of an action.
