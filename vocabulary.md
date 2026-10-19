@@ -21452,3 +21452,4 @@
 - 2026-10-19 17:06 — Use “consistently reproducible” for “必现的” in technical contexts, and “Does it count as...?” to ask whether something qualifies as a bug.
 - 2026-10-19 17:06 — “影响是什么” is naturally translated as “What is the impact?” in a technical context.
 - 2026-10-19 17:07 — Use “move ... into” for relocating code, and “should have already + past participle” to describe an expected past action.
+- 2026-10-19 17:14 — Use “introduced by our changes” to describe a problem caused by your code changes; “an upstream issue” refers to a problem in the original project or dependency.
