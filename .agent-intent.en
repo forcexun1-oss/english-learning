@@ -1,1 +1,1 @@
-Can we determine whether this was introduced by our changes or is an upstream issue?
+So, is the root cause a KV cache issue or an APC issue?
