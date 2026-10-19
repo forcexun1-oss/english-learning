@@ -21515,3 +21515,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 22:14 — Use “use ... as a reference” for a more natural and professional way to express “抄,” while “copy” is fine when you want to be direct.
