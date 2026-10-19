@@ -21160,6 +21160,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 11:04 — Use “switch to Windows” for changing the development platform, and “for development” to describe the purpose.
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
@@ -21268,3 +21269,6 @@
 >>>>>>> Stashed changes
 - 2026-10-19 14:33 — Use “isn't just for...” to express that something serves purposes beyond one specific use.
 - 2026-10-19 14:33 — Use “the listening experience” for the overall quality or feel of audio playback.
+=======
+- 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
+>>>>>>> Stashed changes
