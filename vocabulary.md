@@ -21368,6 +21368,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 15:40 — Use “resume the download” when continuing an interrupted download.
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
@@ -21395,6 +21396,9 @@
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 16:17 — “巡检” is naturally translated as “periodic check,” “routine check,” or “monitoring job,” depending on the context.
+=======
+- 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
+>>>>>>> Stashed changes
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
