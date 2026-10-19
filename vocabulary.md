@@ -21526,6 +21526,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21639,5 +21640,7 @@
 >>>>>>> Stashed changes
 - 2026-10-20 04:47 — Use “source of truth” to express “以配置为准” in technical English.
 - 2026-10-20 04:49 — Use “during the design phase” for 设计的时候, and “there’s no reason to...” to express 没有必要不...
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
