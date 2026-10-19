@@ -21618,3 +21618,4 @@
 - 2026-10-20 04:37 — Use “still unfinished” or “still incomplete” to ask about tasks that have not been completed yet.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:38 — “For now” naturally expresses “先这样”; use “one by one” for “挨个”.
