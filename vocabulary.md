@@ -21619,3 +21619,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 04:38 — “For now” naturally expresses “先这样”; use “one by one” for “挨个”.
+- 2026-10-20 04:39 — Use “set up” for arranging a task and “in the background” when it should run without interrupting the current work.
