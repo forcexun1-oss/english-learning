@@ -21361,9 +21361,13 @@
 - 2026-10-19 15:36 — “顺序实现” is naturally expressed as “implement them in order”; “都干完” means “finish everything.”
 - 2026-10-19 15:38 — Use “again” after the verb phrase: “download ... again” sounds natural for repeating an action.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 15:40 — Use “resume the download” when continuing an interrupted download.
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 15:47 — Use "before and after" for comparing two states, and "go ahead and" to make the instruction sound natural.
 - 2026-10-19 15:48 — Use “has completed successfully” for a finished task, and “before and after the fork” for a natural comparison.
+=======
+- 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
+>>>>>>> Stashed changes

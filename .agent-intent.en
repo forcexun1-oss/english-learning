@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 The background command has completed successfully (exit code 0). Check the output and compare the results before and after the fork.
+=======
+CosyVoice doesn't run on an NPU or GPU, right?
+>>>>>>> Stashed changes
