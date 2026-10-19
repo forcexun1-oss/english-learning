@@ -21365,6 +21365,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 15:40 — Use “resume the download” when continuing an interrupted download.
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
@@ -21379,6 +21380,9 @@
 >>>>>>> Stashed changes
 - 2026-10-19 15:57 — Use “completed successfully” to state clearly that the command finished without errors.
 - 2026-10-19 15:57 — Use “too high a precision” to describe a model’s precision level; “Is it because...” is natural for asking for confirmation.
+=======
+- 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
+>>>>>>> Stashed changes
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
