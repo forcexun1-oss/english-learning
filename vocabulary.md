@@ -21484,9 +21484,12 @@
 - 2026-10-19 21:02 — Use “Has ... been set up?” to ask whether a configuration or feature is already completed.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 - 2026-10-19 21:15 — Use "Do ... usually ...?" for general questions, and "either" in negative questions to mean "also."
+=======
+>>>>>>> Stashed changes
