@@ -21461,3 +21461,4 @@
 - 2026-10-19 17:27 — Use “the options you mentioned” to refer to previously discussed choices; “sound poor” is natural when evaluating audio or TTS quality.
 - 2026-10-19 17:28 — Use “on this machine” when referring to whether software can run on a specific computer.
 - 2026-10-19 17:28 — “查一下” is naturally translated as “look into it” or “check it out,” depending on the context.
+- 2026-10-19 17:34 — Use “requires immediate user action” and “does not require one” for more natural, concise phrasing.
