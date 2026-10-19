@@ -21521,6 +21521,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21620,3 +21621,5 @@
 >>>>>>> Stashed changes
 - 2026-10-20 04:38 — “For now” naturally expresses “先这样”; use “one by one” for “挨个”.
 - 2026-10-20 04:39 — Use “set up” for arranging a task and “in the background” when it should run without interrupting the current work.
+=======
+>>>>>>> Stashed changes
