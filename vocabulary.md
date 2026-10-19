@@ -21107,6 +21107,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 10:17 — Use “on” for operating systems, and write “macOS” with a capital S.
 =======
 - 2026-10-19 10:16 — Use “optimized for running” to describe software designed to run a particular type of model efficiently.
@@ -21119,3 +21120,6 @@
 >>>>>>> Stashed changes
 - 2026-10-19 10:50 — Use “switch ... back to” to describe returning to a previous choice, and “right?” to confirm an assumption.
 - 2026-10-19 10:50 — Use “right?” to make a brief confirmation question. “NVIDIA” is the official English name for 英伟达.
+=======
+- 2026-10-19 10:16 — Use “optimized for running” to describe software designed to run a particular type of model efficiently.
+>>>>>>> Stashed changes

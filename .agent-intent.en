@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 NVIDIA, right?
+=======
+Please research which inference engines are specifically optimized for running Qwen models. Ideally, I’m looking for an MoE-focused engine similar to Strata.
+>>>>>>> Stashed changes
