@@ -21608,3 +21608,4 @@
 - 2026-10-20 03:16 — Use “base ... on” for dependencies between branches, and “wait for the user’s confirmation” for pending approval.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 03:46 — Use “based on X’s branch, not on main” for branch dependencies, and “wait until the user confirms” for approval requirements.
