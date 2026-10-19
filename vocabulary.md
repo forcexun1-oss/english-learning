@@ -21628,3 +21628,4 @@
 - 2026-10-20 04:39 — Use “assign tasks to” for delegating work, and “using” to specify the model or tool.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:41 — Use “whether” or “if” after “check” to introduce an indirect yes/no question.
