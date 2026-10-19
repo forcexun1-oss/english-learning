@@ -21612,3 +21612,4 @@
 - 2026-10-20 03:46 — Use “based on X’s branch, not on main” for branch dependencies, and “wait until the user confirms” for approval requirements.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:33 — Use “Open it” when asking someone to open a specific item; “Open” is also fine as a short command.
