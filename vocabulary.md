@@ -21448,3 +21448,4 @@
 - 2026-10-19 16:51 — Use “whether there are any other options” for a natural way to ask if alternatives exist.
 - 2026-10-19 16:52 — Use "completed successfully" for a concise status update; "exit code 0" indicates success.
 - 2026-10-19 16:58 — Use "do ... require" because the subject contains two models; "memory" is more natural than "RAM" when the type of memory is unspecified.
+- 2026-10-19 16:58 — Use "have to run on" to ask whether software requires a specific device; "GPU" is the standard term for 显卡 in technical English.
