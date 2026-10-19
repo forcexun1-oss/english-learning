@@ -21157,6 +21157,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 11:04 — Use “switch to Windows” for changing the development platform, and “for development” to describe the purpose.
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
@@ -21254,3 +21255,6 @@
 >>>>>>> Stashed changes
 - 2026-10-19 14:07 — Use “polling check” for periodically checking a status or condition; “still need to” clearly expresses that the requirement remains.
 - 2026-10-19 14:07 — Use “Have all ... been merged” to ask whether completed work has been merged, and “main branch” is the natural term for 主线.
+=======
+- 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
+>>>>>>> Stashed changes
