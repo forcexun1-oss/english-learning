@@ -21493,3 +21493,4 @@
 - 2026-10-19 21:15 — Use "Do ... usually ...?" for general questions, and "either" in negative questions to mean "also."
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 21:17 — Use “either” in negative sentences, and add “right?” to ask for confirmation.
