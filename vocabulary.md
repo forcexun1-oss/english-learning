@@ -21637,3 +21637,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 04:47 — Use “source of truth” to express “以配置为准” in technical English.
+- 2026-10-20 04:49 — Use “during the design phase” for 设计的时候, and “there’s no reason to...” to express 没有必要不...

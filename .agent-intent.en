@@ -1,1 +1,1 @@
-I don't quite understand. The graph is only used to support design and can be read by robots at runtime to help them make decisions. Other programs should of course read their own configuration while running and use that configuration as the source of truth; they shouldn't read from the graph database.
+Of course, it should be read during the design phase. There’s no reason to hide it from the agent—we should provide it with the graph.
