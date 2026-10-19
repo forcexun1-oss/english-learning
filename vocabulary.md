@@ -21099,3 +21099,4 @@
 =======
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
+- 2026-10-19 10:09 — Use “review the terms” for “看看条款”; “would they mistakenly think” expresses concern about a possible misunderstanding.
