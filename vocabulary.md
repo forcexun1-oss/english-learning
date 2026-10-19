@@ -21479,3 +21479,4 @@
 - 2026-10-19 20:34 — “The same applies to...” is a natural way to say “其他……也一样.”
 - 2026-10-19 20:38 — Use “layout” for the arrangement or design of a page; “format” is more general.
 - 2026-10-19 20:39 — "基于一个自己写也行" is more natural as "build it from scratch," and "成体系" can be translated as "cohesive" or "systematic."
+- 2026-10-19 20:39 — “好好” is naturally expressed as “carefully” or “properly” in English, depending on the context.
