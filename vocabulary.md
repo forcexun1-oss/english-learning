@@ -21048,3 +21048,4 @@
 =======
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
+- 2026-10-19 08:26 — Use parallel imperative verbs for a clear sequence: “finish,” “verify,” and “merge.”
