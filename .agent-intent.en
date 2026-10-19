@@ -1,1 +1,1 @@
-Observability isn't just for testing; it needs to be continuous. It should also help us investigate problems in production. We just may not be able to log excessively, so the logs need to have appropriate levels. But when something goes wrong in production, we shouldn't be left wondering why after looking at the logs.
+Could adding caching affect the listening experience?
