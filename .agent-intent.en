@@ -1,17 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Wait, did you design all of this yourself? Why not use an existing game as a reference—especially for the talent system, UI, display logic, and click interactions? The current level of completion is too low. If necessary, just copy League of Legends. Do the same for the other pages. You could also copy the equipment system from World of Warcraft.
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
+For the code on the client side, should we use inheritance or composition?

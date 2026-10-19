@@ -21528,3 +21528,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 22:36 — Use "inheritance" and "composition" as the standard terms when discussing object-oriented design patterns.
