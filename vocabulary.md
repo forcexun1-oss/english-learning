@@ -21497,3 +21497,4 @@
 - 2026-10-19 21:17 — Use “either” in negative sentences, and add “right?” to ask for confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 21:20 — Use “reach for the mouse” for “伸手拿鼠标,” and “switch back and forth” for repeatedly moving between two things.
