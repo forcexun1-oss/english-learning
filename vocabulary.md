@@ -21036,6 +21036,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 22:34 — Use "the changes" for clarity, and "is running" sounds more natural here than "runs."
 - 2026-10-18 22:34 — Use "without any live background children" and "continue from where it stopped" for more natural, precise phrasing.
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
@@ -21059,3 +21060,6 @@
 >>>>>>> Stashed changes
 - 2026-10-19 09:32 — Use “switch between A and B” to describe moving back and forth between two options.
 - 2026-10-19 09:42 — Use “has begun being ported” for an ongoing migration, and “re-exported” when a model export must be performed again.
+=======
+- 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
+>>>>>>> Stashed changes
