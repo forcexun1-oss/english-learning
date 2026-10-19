@@ -21105,7 +21105,11 @@
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 10:17 — Use “on” for operating systems, and write “macOS” with a capital S.
+=======
+- 2026-10-19 10:16 — Use “optimized for running” to describe software designed to run a particular type of model efficiently.
+>>>>>>> Stashed changes
 =======
 - 2026-10-19 10:16 — Use “optimized for running” to describe software designed to run a particular type of model efficiently.
 >>>>>>> Stashed changes
