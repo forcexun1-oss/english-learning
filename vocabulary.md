@@ -21457,3 +21457,4 @@
 - 2026-10-19 17:18 — Use “Couldn’t we...?” to make a natural suggestion or ask whether an alternative is possible.
 - 2026-10-19 17:20 — Use “completely fix” or “solve the problem at its root” for “根治.”
 - 2026-10-19 17:21 — Use “eliminate the inconsistency” for a clear, direct statement; “resolve the discrepancy” is also natural in technical contexts.
+- 2026-10-19 17:26 — “按你的处理” is naturally expressed as “the way you suggested” or “as you see fit.”
