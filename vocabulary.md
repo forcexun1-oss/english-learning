@@ -21244,3 +21244,4 @@
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
 >>>>>>> Stashed changes
+- 2026-10-19 13:50 — Use “separately” or “standalone” to describe an independent test, and “launch” is a natural verb for starting an application.
