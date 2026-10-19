@@ -21623,3 +21623,4 @@
 - 2026-10-20 04:39 — Use “set up” for arranging a task and “in the background” when it should run without interrupting the current work.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:39 — Use "finished with" for a completed process, and lowercase the error message unless it is an exact literal.
