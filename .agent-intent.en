@@ -1,36 +1,16 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Run a 30-minute inspection of `agent-roguelite`. Always delegate Codex tasks through `~/.claude/bin/codex-sub` using the subscription `gpt-6-luna` model; I will not write the code myself.
+Run a 30-minute inspection for `agent-roguelite`. Always delegate work to Codex via `~/.claude/bin/codex-sub` (subscription mode, `gpt-6-luna`); I will not write code myself.
 
-1) Use `ps` to check for `codex exec` processes. There are currently three tasks, with logs at `scratchpad/codex-prompts/<name>.log` and `.wrap.log`, and `OUTBOX`/`INBOX` under `scratchpad/box/<directory>/`:
-- `eqfix`: leftover issues in the equipment UI; worktree `agent-roguelite-worktrees/ui-equipment-wow`; box `box/eqfix`
+1) Use `ps` to check for `codex exec` processes. There are currently three tasks (logs at `scratchpad/codex-prompts/<name>.log` and `.wrap.log`; `OUTBOX`/`INBOX` at `scratchpad/box/<directory>/`):
+- `eqfix`: remaining equipment-screen issues; worktree `agent-roguelite-worktrees/ui-equipment-wow`; box `box/eqfix`
 - `a0`: A0 command-layer skeleton; worktree `.../commands-a0`; box `box/a0`
-- `g1`: Design Graph G1 (JSON is authoritative, one-way graph import, read-only for partners); worktree `.../design-graph-g1`; box `box/g1`
+- `g1`: design graph G1 (JSON is authoritative, one-way graph import, read-only for partners); worktree `.../design-graph-g1`; box `box/g1`
 
-For each task, check the log's last-modified time, new `OUTBOX` entries, `git log main..HEAD`, `git status`, and whether `codex-exit` exists. If the log has not changed for more than 15 minutes while the process is still running, treat it as possibly stuck and inspect the end of the log for the cause. If you see `[GATE]` or `[BLOCKED]`, read the supporting evidence and reply in `INBOX.md`.
+For each task, check: the log's last modification time, new `OUTBOX` entries, `git log main..HEAD`, `git status`, and whether `codex-exit` exists. If the log has not changed for more than 15 minutes while the process is still running, consider it potentially stuck and inspect the end of the log for the cause. If you find `[GATE]` or `[BLOCKED]`, read the evidence and reply in `INBOX.md`.
 
-2) When a task finishes, read the final report, create a fresh scratchpad copy yourself with both Library and Art, rerun all EditMode tests and `tools/run-bot-watched.sh`, and, for UI tasks, render the UI and open the screenshot for a manual check. Do not trust Codex's claims; verify with your own `git status` and `git diff`.
+2) When a task finishes, read the final report, create a fresh scratchpad copy yourself (including `Library` and `Art`), rerun all EditMode tests and `tools/run-bot-watched.sh`, and report the results. For UI tasks, render the UI and open the screenshot for a visual check. Do not trust Codex's claims; verify with your own `git status` and `git diff`.
 
-3) Rules: Leave branches containing functional changes (gameplay, UI, or behavior) for user acceptance; do not merge them. Pure tooling or documentation changes may be merged. If G1 passes acceptance, its data format becomes the prerequisite for R2.
+3) Rules: leave functional changes (gameplay, UI, or behavior) on their branches for the user to review; do not merge them. Pure tooling or documentation changes may be merged. If G1 passes acceptance, its data format becomes a prerequisite for R2.
 
-4) Follow-up queue (handle items one at a time, and parallelize only when it is genuinely safe; do not force parallel execution):
-- After G1 passes acceptance, delegate R2 (make moves data-driven), based on `feature/refactor-actor`, and merge in G1's data format.
-- After both G1 and `eqfix` pass acceptance, delegate a redesign of the talent page to resemble the World of Warcraft talent tree, based on the UI-chain branch.
-- After A0 is accepted, report to the user before starting A1.
-- R1 cleanup was already committed as `ac9b031`; wait for the user's confirmation.
+4) Follow-up queue (do them one at a time; parallelize only when it is genuinely safe—do not force parallel execution): after G1 passes acceptance, delegate R2 (convert moves to data, based on `feature/refactor-actor`, and merge in G1's data format); after both G1 and `eqfix` pass acceptance, delegate a Warcraft-style talent-tree redesign for the talent page (based on the UI chain branch); after A0 passes acceptance, report to the user before starting A1. R1 cleanup has already been committed as `ac9b031` and is waiting for the user's confirmation.
 
-5) Report "no changes" only when no tasks are running and the queue is empty.
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
+5) Only report "no changes" when no tasks are running and the queue is empty.

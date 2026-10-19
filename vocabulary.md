@@ -21670,3 +21670,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 07:47 — Use imperative verbs such as “check,” “read,” and “rerun” for step-by-step instructions; “do not” expresses a firm prohibition.
