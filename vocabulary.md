@@ -21345,3 +21345,4 @@
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
 >>>>>>> Stashed changes
+- 2026-10-19 15:32 — Use “reimplement” for implementing existing functionality again, and “non-intrusive” for a design that minimizes changes to existing code.
