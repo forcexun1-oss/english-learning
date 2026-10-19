@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>balnz3e5q</task-id>
 <tool-use-id>toolu_01N3Z9Msx1rCTzkLLn7j4n</tool-use-id>
@@ -6,6 +7,9 @@
 <status>completed</status>
 <summary>Background command "while kill -0 57684 2&gt;/dev/null; do sleep 20; done; echo "refactor-actor (run 2) codex exited"" completed (exit code 0)</summary>
 </task-notification>
+=======
+Is everything running normally? Has the polling been set up properly?
+>>>>>>> Stashed changes
 =======
 Is everything running normally? Has the polling been set up properly?
 >>>>>>> Stashed changes
