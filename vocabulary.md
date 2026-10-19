@@ -21535,6 +21535,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21671,3 +21672,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 07:47 — Use imperative verbs such as “check,” “read,” and “rerun” for step-by-step instructions; “do not” expresses a firm prohibition.
+=======
+>>>>>>> Stashed changes
