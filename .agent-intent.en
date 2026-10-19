@@ -1,8 +1,1 @@
-<<<<<<< Updated upstream
-Both claude.ai and ANTHROPIC_API_KEY are configured; authentication may not work as expected.
-  · To use claude.ai: unset the ANTHROPIC_API_KEY environment variable, or run claude /logout and answer "No" when asked whether to approve the API key before logging in.
-  · To use ANTHROPIC_API_KEY: run claude /logout to sign out of claude.ai.
-⚠ Remote managed settings failed to load (authentication rejected with 401); no remote policy was applied. Run /status for details.
-=======
-Now add the EditMode tests for the catalog.
->>>>>>> Stashed changes
+It’s not the API version.
