@@ -21084,3 +21084,4 @@
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
 - 2026-10-19 10:02 — Use the past tense "Did ... hit" for a completed request; "just now" means a moment ago.
+- 2026-10-19 10:03 — Use “I mean...” to clarify what you are referring to; “sent to” is natural for requests targeting an endpoint.
