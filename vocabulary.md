@@ -21524,6 +21524,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21633,3 +21634,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 04:44 — Use “go with A or B” to ask someone to choose between two options.
+=======
+>>>>>>> Stashed changes
