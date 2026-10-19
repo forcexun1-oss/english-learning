@@ -21624,3 +21624,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 04:39 — Use "finished with" for a completed process, and lowercase the error message unless it is an exact literal.
+- 2026-10-20 04:39 — Use “assign tasks to” for delegating work, and “using” to specify the model or tool.
