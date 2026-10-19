@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have we tested the multi-slot functionality yet?
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
+Go ahead. First, write the specification, and also measure the caching behavior as you suggested.
