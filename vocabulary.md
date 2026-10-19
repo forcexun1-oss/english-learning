@@ -21447,3 +21447,4 @@
 - 2026-10-19 16:48 — Use “smaller version” for “小版本,” and “the only size available” to ask whether no other sizes exist.
 - 2026-10-19 16:51 — Use “whether there are any other options” for a natural way to ask if alternatives exist.
 - 2026-10-19 16:52 — Use "completed successfully" for a concise status update; "exit code 0" indicates success.
+- 2026-10-19 16:58 — Use "do ... require" because the subject contains two models; "memory" is more natural than "RAM" when the type of memory is unspecified.
