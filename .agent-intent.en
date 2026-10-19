@@ -1,1 +1,1 @@
-Please design the code carefully.
+There’s one more design requirement to keep in mind: for all of these relationship-related designs, everything must be controllable by partner agents through either MCP or the CLI. Choose one: MCP or CLI.

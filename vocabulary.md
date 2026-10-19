@@ -21480,3 +21480,4 @@
 - 2026-10-19 20:38 — Use “layout” for the arrangement or design of a page; “format” is more general.
 - 2026-10-19 20:39 — "基于一个自己写也行" is more natural as "build it from scratch," and "成体系" can be translated as "cohesive" or "systematic."
 - 2026-10-19 20:39 — “好好” is naturally expressed as “carefully” or “properly” in English, depending on the context.
+- 2026-10-19 20:41 — Use “requirement” for a design constraint, and “either … or …” when choosing between two options.
