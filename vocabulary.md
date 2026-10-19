@@ -21443,3 +21443,4 @@
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 16:45 — Use “GPU memory” or “VRAM” for 显存; “How much ... will it use?” is the natural question form.
+- 2026-10-19 16:46 — Use “have any issues” for a natural way to ask whether something has problems.
