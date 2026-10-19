@@ -21063,3 +21063,4 @@
 =======
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
+- 2026-10-19 09:51 — Use "are configured" instead of "set" when describing authentication settings, and use "with 401" for the error code.

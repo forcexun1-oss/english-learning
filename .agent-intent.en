@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
-1. The on-device agent has begun being ported to a Rockchip development board. Optimization is ongoing, and several issues have been resolved. The Qwen-VL-4B model was re-exported and appears to be useful based on the current results. However, the export still has issues, so it needs to be re-exported.
-
-2. Graphiti has been introduced as the external memory system for the on-device agent. A dedicated evaluation system for the memory components has been mostly completed. However, each evaluation run currently takes several days, so we need to investigate ways to reduce the runtime.
-
-3. Qwen3-ASR-1.7B was exported for the Rockchip development board. It has not been optimized yet; the main purpose was to demonstrate its performance to Nissan.
-=======
-Now add the EditMode tests for the catalog.
->>>>>>> Stashed changes
+Both claude.ai and ANTHROPIC_API_KEY are configured; authentication may not work as expected.
+  · To use claude.ai: unset the ANTHROPIC_API_KEY environment variable, or run claude /logout and answer "No" when asked whether to approve the API key before logging in.
+  · To use ANTHROPIC_API_KEY: run claude /logout to sign out of claude.ai.
+⚠ Remote managed settings failed to load (authentication rejected with 401); no remote policy was applied. Run /status for details.
