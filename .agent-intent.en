@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Run a 30-minute inspection of `agent-roguelite`. Always delegate Codex tasks through `~/.claude/bin/codex-sub` using the subscription `gpt-6-luna` model; I will not write the code myself.
 
 1) Use `ps` to check for `codex exec` processes. There are currently three tasks, with logs at `scratchpad/codex-prompts/<name>.log` and `.wrap.log`, and `OUTBOX`/`INBOX` under `scratchpad/box/<directory>/`:
@@ -18,3 +19,6 @@ For each task, check the log's last-modified time, new `OUTBOX` entries, `git lo
 - R1 cleanup was already committed as `ac9b031`; wait for the user's confirmation.
 
 5) Report "no changes" only when no tasks are running and the queue is empty.
+=======
+Is everything running normally? Has the polling been set up properly?
+>>>>>>> Stashed changes
