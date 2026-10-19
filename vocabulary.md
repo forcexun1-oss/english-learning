@@ -21420,3 +21420,4 @@
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 16:30 — Use “Do all of them” for a concise instruction meaning “complete every item.”
+- 2026-10-19 16:31 — Use "provide any ... himself" for emphasis, and use "on" with platforms such as Windows and GPUs.
