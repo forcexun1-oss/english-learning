@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have all the implemented changes been merged into the main branch?
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
+You still need to add a polling check.

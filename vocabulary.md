@@ -21252,3 +21252,4 @@
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
 >>>>>>> Stashed changes
+- 2026-10-19 14:07 — Use “polling check” for periodically checking a status or condition; “still need to” clearly expresses that the requirement remains.
