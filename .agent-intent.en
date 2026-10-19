@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-<task-notification>
-<task-id>bbf5vdbvt</task-id>
-<tool-use-id>toolu_01GqA3mAdxW98FHn7gnjHch9</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/938607da-1724-463e-b15f-8df1e870e8ff/tasks/bbf5vdbvt.output</output-file>
-<status>completed</status>
-<summary>Background command "E=/Users/youxun/project/edgeAgent-r205/docs/proposals/evidence/tts-punct-r205; ls $E | grep -i \"inbox\"; exec ~/.claude/bin/codex-watch.sh $(cat /tmp/r205.pid) 01a15317-9623-72a2-a1f7-1a0474778bc1 $E 1800 1500" completed (exit code 0)</summary>
-</task-notification>
-=======
-CosyVoice doesn't run on an NPU or GPU, right?
->>>>>>> Stashed changes
+Aren't you going to set up a periodic check?
