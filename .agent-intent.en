@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 30-minute inspection for the agent-roguelite Codex subscription task.
 
 1) Use `ps` to find the `codex exec` process and its `--cd` worktree. Current task: `ui-skin` (logs: `scratchpad/codex-prompts/ui-skin.log` and `ui-skin.wrap.log`; `OUTBOX`/`INBOX` are under `scratchpad/box/skin/`). Check the logs' last-modified times, new `OUTBOX` entries, `git log main..HEAD`, `git status`, and whether `codex-exit` exists. If the logs have not changed for more than 15 minutes while the process is still running, treat it as potentially stuck and inspect the end of the logs for the cause. If there is a `[GATE]` or `[BLOCKED]`, read the evidence and reply in `INBOX.md`.
@@ -9,3 +10,6 @@ Important: Under the user's new rule from 2026-10-19, after I approve a function
 3) For the follow-up tasks (component -> equipment UI layout A + real icons -> command layer A0 -> minor talent fixes), dispatch only one task at a time. Since merges are no longer automatic, each subsequent task must be based on the previous task's branch (create a new worktree from that branch, not from `main`), and the report must clearly state the dependency chain.
 
 4) Report to the user in concise Chinese: the status of each task, any problems encountered, and the list of items awaiting the user's confirmation. If nothing has changed, report only one sentence.
+=======
+Is everything running normally? Has the polling been set up properly?
+>>>>>>> Stashed changes

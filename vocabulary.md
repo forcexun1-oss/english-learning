@@ -21515,6 +21515,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21594,3 +21595,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 01:46 — Use imperative verbs consistently in task instructions: “Check…”, “read…”, “rerun…”, and “report…”. Keep commands, paths, branch names, and other technical terms unchanged.
+=======
+>>>>>>> Stashed changes
