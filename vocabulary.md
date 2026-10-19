@@ -21456,3 +21456,4 @@
 - 2026-10-19 17:16 — Use “whether ... or ...” or “... or ...” to present two possible causes clearly.
 - 2026-10-19 17:18 — Use “Couldn’t we...?” to make a natural suggestion or ask whether an alternative is possible.
 - 2026-10-19 17:20 — Use “completely fix” or “solve the problem at its root” for “根治.”
+- 2026-10-19 17:21 — Use “eliminate the inconsistency” for a clear, direct statement; “resolve the discrepancy” is also natural in technical contexts.
