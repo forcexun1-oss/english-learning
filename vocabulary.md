@@ -21375,3 +21375,4 @@
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
+- 2026-10-19 15:57 — Use “completed successfully” to state clearly that the command finished without errors.
