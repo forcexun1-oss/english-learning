@@ -21471,3 +21471,4 @@
 - 2026-10-19 18:41 — Use “add this information to” when asking someone to update a documentation file.
 - 2026-10-19 18:50 — Use “so I can take a look” to express the purpose naturally.
 - 2026-10-19 18:57 — “试试吧” can be naturally expressed as “give it a try” to sound casual and encouraging.
+- 2026-10-19 19:01 — Use “Are ... finished?” to ask whether multiple tasks have been completed.
