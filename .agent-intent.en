@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is it because you downloaded a model with too high a precision?
+=======
+CosyVoice doesn't run on an NPU or GPU, right?
+>>>>>>> Stashed changes
