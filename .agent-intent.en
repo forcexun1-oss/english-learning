@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Could adding caching affect the listening experience?
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
+Yes, include it in the spec.
