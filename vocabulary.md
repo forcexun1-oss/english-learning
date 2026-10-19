@@ -21467,3 +21467,4 @@
 - 2026-10-19 17:58 — Added “successfully” to make the completion status sound more natural.
 - 2026-10-19 18:03 — Use “serious problem” or “harmful” to express “危害大吗”; “misalignment” is the noun for “不对齐.”
 - 2026-10-19 18:03 — Use “power off” for shutting down a device; “the board” refers to the hardware board.
+- 2026-10-19 18:06 — Use “by default” to describe the initial setting or behavior.
