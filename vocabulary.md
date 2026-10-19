@@ -21449,3 +21449,4 @@
 - 2026-10-19 16:52 — Use "completed successfully" for a concise status update; "exit code 0" indicates success.
 - 2026-10-19 16:58 — Use "do ... require" because the subject contains two models; "memory" is more natural than "RAM" when the type of memory is unspecified.
 - 2026-10-19 16:58 — Use "have to run on" to ask whether software requires a specific device; "GPU" is the standard term for 显卡 in technical English.
+- 2026-10-19 17:06 — Use “consistently reproducible” for “必现的” in technical contexts, and “Does it count as...?” to ask whether something qualifies as a bug.
