@@ -21604,3 +21604,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 03:16 — Use “base ... on” for dependencies between branches, and “wait for the user’s confirmation” for pending approval.
