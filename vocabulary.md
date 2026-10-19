@@ -21597,3 +21597,4 @@
 - 2026-10-20 01:46 — Use imperative verbs consistently in task instructions: “Check…”, “read…”, “rerun…”, and “report…”. Keep commands, paths, branch names, and other technical terms unchanged.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 02:16 — Use “if ... and ...” for combined conditions, and “must not” for strict prohibitions.
