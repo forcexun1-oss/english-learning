@@ -1,6 +1,6 @@
 <task-notification>
 <task-id>bhr7hgj5t</task-id>
 <summary>Monitor event: "upstream-only APC on/off chain (old 952d4f6b, new 73d366ec): per-run done/fail/panic/stall"</summary>
-<event>DONE[up-old-apcoff]: exit 0 | status Counter({200: 24})</event>
-If this is something the user should act on now, send a PushNotification. Routine or benign output doesn't need one.
+<event>heartbeat[up-old-apcon]: elapsed=462s</event>
+If this event is something the user would act on now, send a PushNotification.
 </task-notification>
