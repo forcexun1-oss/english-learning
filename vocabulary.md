@@ -21614,3 +21614,4 @@
 >>>>>>> Stashed changes
 - 2026-10-20 04:33 — Use “Open it” when asking someone to open a specific item; “Open” is also fine as a short command.
 - 2026-10-20 04:36 — Use “continue the previous session” for resuming an earlier work context, and “unfinished tasks” for tasks that are not yet complete.
+- 2026-10-20 04:37 — Use “still unfinished” or “still incomplete” to ask about tasks that have not been completed yet.
