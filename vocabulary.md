@@ -21033,6 +21033,7 @@
 - 2026-10-18 18:30 — Use "won't" instead of "I'll not" in natural developer communication.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 22:34 — Use "the changes" for clarity, and "is running" sounds more natural here than "runs."
 - 2026-10-18 22:34 — Use "without any live background children" and "continue from where it stopped" for more natural, precise phrasing.
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
@@ -21044,3 +21045,6 @@
 >>>>>>> Stashed changes
 - 2026-10-19 08:11 — Use "Is everything finished?" to ask whether the work is complete, and "Why did you stop?" to ask why someone halted.
 - 2026-10-19 08:13 — Use the present perfect, "Has ... been completed?", to ask whether a task is finished; use "Why did you stop?" for a past action.
+=======
+- 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
+>>>>>>> Stashed changes
