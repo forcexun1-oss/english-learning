@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Didn't he provide any performance data himself? What does the performance look like on Windows and NVIDIA GPUs?
+=======
+CosyVoice doesn't run on an NPU or GPU, right?
+>>>>>>> Stashed changes
