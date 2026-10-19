@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Take a look at the loading logic. Why does it require 5 GB right from the start?
+=======
+As for inference engines, let's discuss this further. Llama is clearly not a very good option.
+>>>>>>> Stashed changes
