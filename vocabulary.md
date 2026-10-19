@@ -21657,3 +21657,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 06:17 — Use “delegate a task to” for assigning work, and “based on” for specifying the branch or implementation foundation.
