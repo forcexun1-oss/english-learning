@@ -1,1 +1,5 @@
-Please look into it first.
+<task-notification>
+<task-id>b0s9uw6mx</task-id>
+<summary>Monitor event: "multi-prefix align validation (v-off control, v-on): per-group results, fail/panic/stall"</summary>
+<event>[v-off] 14643 prompt_tokens 3414 cached 3332 parent_eq [False, False] fork_eq [4, 4] / 7 stable 7</event>
+</task-notification>
