@@ -21376,6 +21376,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 15:40 — Use “resume the download” when continuing an interrupted download.
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
@@ -21431,6 +21432,9 @@
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 16:35 — Use “completed successfully” when you want to emphasize that a command finished without errors.
+=======
+- 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
+>>>>>>> Stashed changes
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
