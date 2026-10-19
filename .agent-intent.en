@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 `session_cache.py` isn't reimplementing existing functionality, right? Please don't copy any of the existing code. Ideally, use a non-intrusive, plugin-based approach.
+=======
+As for inference engines, let's discuss this further. Llama is clearly not a very good option.
+>>>>>>> Stashed changes
