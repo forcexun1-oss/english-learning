@@ -21078,3 +21078,4 @@
 =======
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
+- 2026-10-19 10:01 — Use “Are you using...?” to ask about someone’s current setup or choice.
