@@ -21485,6 +21485,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21494,3 +21495,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-19 21:17 — Use “either” in negative sentences, and add “right?” to ask for confirmation.
+=======
+>>>>>>> Stashed changes
