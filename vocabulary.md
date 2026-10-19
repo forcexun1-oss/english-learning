@@ -21477,3 +21477,4 @@
 - 2026-10-19 20:29 — Use the past tense “did you draw” to ask whether someone created an image.
 - 2026-10-19 20:34 — Use “start with” for the first step and “then” to show the next step clearly.
 - 2026-10-19 20:34 — “The same applies to...” is a natural way to say “其他……也一样.”
+- 2026-10-19 20:38 — Use “layout” for the arrangement or design of a page; “format” is more general.
