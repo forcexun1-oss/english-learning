@@ -21489,3 +21489,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 21:15 — Use "Do ... usually ...?" for general questions, and "either" in negative questions to mean "also."
