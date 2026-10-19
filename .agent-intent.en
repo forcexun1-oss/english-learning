@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is the current status of this project, and how much of what was outlined in the implementation plan has been completed?
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
+The prerequisite in the plan is to improve observability for the external systems, right? Has all of that work been completed?

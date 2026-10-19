@@ -21203,3 +21203,4 @@
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
 >>>>>>> Stashed changes
+- 2026-10-19 13:35 — Use “improve observability” for 可观测的改造 and “Has all of that work been completed?” to ask whether everything is finished.
