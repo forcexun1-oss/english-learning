@@ -21494,6 +21494,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21519,6 +21520,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-19 22:14 — Use “use ... as a reference” for a more natural and professional way to express “抄,” while “copy” is fine when you want to be direct.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
