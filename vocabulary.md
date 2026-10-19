@@ -21319,3 +21319,4 @@
 >>>>>>> Stashed changes
 - 2026-10-19 15:14 — Use “As I recall” for “我记得,” and “merge in the latest code from the remote repository” for “用最新的远端代码合入.”
 - 2026-10-19 15:16 — Use “Yes, please add it” to clearly express agreement with the previous suggestion.
+- 2026-10-19 15:20 — Use “only if” for conditions, and use “has/have finished” for completed work rather than “is/are finished” when referring to delegates.
