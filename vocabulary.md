@@ -21632,3 +21632,4 @@
 - 2026-10-20 04:41 — Use “whether” or “if” after “check” to introduce an indirect yes/no question.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:44 — Use “go with A or B” to ask someone to choose between two options.
