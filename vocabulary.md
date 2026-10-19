@@ -21372,6 +21372,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 15:40 — Use “resume the download” when continuing an interrupted download.
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
@@ -21406,6 +21407,9 @@
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
 - 2026-10-19 16:23 — Use “set up a monitor” for 配置持续巡检；“Aren’t you going to...?” expresses a reminder or expectation.
+=======
+- 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
+>>>>>>> Stashed changes
 =======
 - 2026-10-19 15:40 — Use “doesn't run on” to ask whether software uses a specific type of hardware.
 >>>>>>> Stashed changes
