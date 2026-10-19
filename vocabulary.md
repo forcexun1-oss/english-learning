@@ -21058,3 +21058,4 @@
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
 - 2026-10-19 09:32 — Use “switch between A and B” to describe moving back and forth between two options.
+- 2026-10-19 09:42 — Use “has begun being ported” for an ongoing migration, and “re-exported” when a model export must be performed again.

@@ -1,1 +1,5 @@
-I have a Claude API key and created a `claude-api` command. How can I switch freely between using the API and my subscription plan?
+1. The on-device agent has begun being ported to a Rockchip development board. Optimization is ongoing, and several issues have been resolved. The Qwen-VL-4B model was re-exported and appears to be useful based on the current results. However, the export still has issues, so it needs to be re-exported.
+
+2. Graphiti has been introduced as the external memory system for the on-device agent. A dedicated evaluation system for the memory components has been mostly completed. However, each evaluation run currently takes several days, so we need to investigate ways to reduce the runtime.
+
+3. Qwen3-ASR-1.7B was exported for the Rockchip development board. It has not been optimized yet; the main purpose was to demonstrate its performance to Nissan.
