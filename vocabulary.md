@@ -21040,6 +21040,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-18 22:34 — Use "the changes" for clarity, and "is running" sounds more natural here than "runs."
 - 2026-10-18 22:34 — Use "without any live background children" and "continue from where it stopped" for more natural, precise phrasing.
 - 2026-10-19 00:50 — Use “under no circumstances” for strong negative instructions, and “API-key-based” as a compound adjective.
@@ -21079,3 +21080,6 @@
 - 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
 >>>>>>> Stashed changes
 - 2026-10-19 10:01 — Use “Are you using...?” to ask about someone’s current setup or choice.
+=======
+- 2026-10-18 22:34 — Use an imperative verb like “add” to turn the fragment into a clear task.
+>>>>>>> Stashed changes
