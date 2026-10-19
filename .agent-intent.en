@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>b687fid3h</task-id>
 <tool-use-id>toolu_01QPznUjh7vWmVwJ4xwrgpvG</tool-use-id>
@@ -6,6 +7,9 @@
 <status>completed</status>
 <summary>Background command "while kill -0 75686 2&gt;/dev/null; do sleep 20; done; echo &quot;ui-equipment-wow codex exited&quot;" completed (exit code 0)</summary>
 </task-notification>
+=======
+Is everything running normally? Has the polling been set up properly?
+>>>>>>> Stashed changes
 =======
 Is everything running normally? Has the polling been set up properly?
 >>>>>>> Stashed changes
