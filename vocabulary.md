@@ -21529,3 +21529,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-19 22:36 — Use "inheritance" and "composition" as the standard terms when discussing object-oriented design patterns.
+- 2026-10-19 22:36 — Use “approach an issue” to ask how people or systems deal with a problem; “modern” sounds more natural than “current” here.
