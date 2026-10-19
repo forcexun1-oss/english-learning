@@ -21593,3 +21593,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 01:46 — Use imperative verbs consistently in task instructions: “Check…”, “read…”, “rerun…”, and “report…”. Keep commands, paths, branch names, and other technical terms unchanged.
