@@ -21128,3 +21128,4 @@
 =======
 - 2026-10-19 10:16 — Use “optimized for running” to describe software designed to run a particular type of model efficiently.
 >>>>>>> Stashed changes
+- 2026-10-19 11:02 — Use “the remaining quarter” for “还有1/4”; “What is ... used for?” asks about its purpose.
