@@ -21145,6 +21145,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 11:04 — Use “switch to Windows” for changing the development platform, and “for development” to describe the purpose.
 =======
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
@@ -21194,3 +21195,6 @@
 - 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
 >>>>>>> Stashed changes
 - 2026-10-19 13:30 — “按你说的” is naturally translated as “as you suggested” or “as you mentioned,” rather than literally “according to what you said.”
+=======
+- 2026-10-19 11:04 — Use “as for” to introduce a topic, and capitalize “Llama” if referring to the model family.
+>>>>>>> Stashed changes
