@@ -21542,3 +21542,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-19 23:18 — Use “end up in” to describe something unexpectedly being placed or moved somewhere.
