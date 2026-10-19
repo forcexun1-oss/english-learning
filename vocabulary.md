@@ -21496,6 +21496,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21531,5 +21532,7 @@
 >>>>>>> Stashed changes
 - 2026-10-19 22:36 — Use "inheritance" and "composition" as the standard terms when discussing object-oriented design patterns.
 - 2026-10-19 22:36 — Use “approach an issue” to ask how people or systems deal with a problem; “modern” sounds more natural than “current” here.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
