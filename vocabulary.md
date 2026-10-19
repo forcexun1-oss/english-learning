@@ -21473,3 +21473,4 @@
 - 2026-10-19 18:57 — “试试吧” can be naturally expressed as “give it a try” to sound casual and encouraging.
 - 2026-10-19 19:01 — Use “Are ... finished?” to ask whether multiple tasks have been completed.
 - 2026-10-19 19:05 — Use “base something on” or “use something as a reference” to ask about the source of a design.
+- 2026-10-19 19:36 — Use “every 30 minutes” for recurring intervals, and “Are they there?” to ask whether something exists.
