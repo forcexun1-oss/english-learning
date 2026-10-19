@@ -21469,3 +21469,4 @@
 - 2026-10-19 18:03 — Use “power off” for shutting down a device; “the board” refers to the hardware board.
 - 2026-10-19 18:06 — Use “by default” to describe the initial setting or behavior.
 - 2026-10-19 18:41 — Use “add this information to” when asking someone to update a documentation file.
+- 2026-10-19 18:50 — Use “so I can take a look” to express the purpose naturally.
