@@ -1,1 +1,1 @@
-So, is the root cause a KV cache issue or an APC issue?
+One more question: why does my fork need to depend on APC? Couldn't we just make our own copy of the KV cache in memory?
