@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Have all the implemented changes been merged into the main branch?
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
-=======
-As for inference engines, let's discuss this further. Llama is clearly not a very good option.
->>>>>>> Stashed changes
+Observability isn't just for testing; it needs to be continuous. It should also help us investigate problems in production. We just may not be able to log excessively, so the logs need to have appropriate levels. But when something goes wrong in production, we shouldn't be left wondering why after looking at the logs.
