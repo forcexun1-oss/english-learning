@@ -21636,3 +21636,4 @@
 - 2026-10-20 04:44 — Use “go with A or B” to ask someone to choose between two options.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 04:47 — Use “source of truth” to express “以配置为准” in technical English.

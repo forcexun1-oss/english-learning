@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Should we go with A or B?
-=======
-Is everything running normally? Has the polling been set up properly?
->>>>>>> Stashed changes
+I don't quite understand. The graph is only used to support design and can be read by robots at runtime to help them make decisions. Other programs should of course read their own configuration while running and use that configuration as the source of truth; they shouldn't read from the graph database.
