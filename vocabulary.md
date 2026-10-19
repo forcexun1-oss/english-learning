@@ -21444,3 +21444,4 @@
 >>>>>>> Stashed changes
 - 2026-10-19 16:45 — Use “GPU memory” or “VRAM” for 显存; “How much ... will it use?” is the natural question form.
 - 2026-10-19 16:46 — Use “have any issues” for a natural way to ask whether something has problems.
+- 2026-10-19 16:48 — Use “smaller version” for “小版本,” and “the only size available” to ask whether no other sizes exist.
