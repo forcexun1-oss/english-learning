@@ -1,1 +1,1 @@
-One more question: why does my fork need to depend on APC? Couldn't we just make our own copy of the KV cache in memory?
+Would adding a hook directly completely fix the problem?

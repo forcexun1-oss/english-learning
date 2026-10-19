@@ -21455,3 +21455,4 @@
 - 2026-10-19 17:14 — Use “introduced by our changes” to describe a problem caused by your code changes; “an upstream issue” refers to a problem in the original project or dependency.
 - 2026-10-19 17:16 — Use “whether ... or ...” or “... or ...” to present two possible causes clearly.
 - 2026-10-19 17:18 — Use “Couldn’t we...?” to make a natural suggestion or ask whether an alternative is possible.
+- 2026-10-19 17:20 — Use “completely fix” or “solve the problem at its root” for “根治.”
