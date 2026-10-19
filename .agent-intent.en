@@ -1,1 +1,1 @@
-What is the impact?
+Create a separate TTS project, move the existing code into it, and also take a look at EdgeAgent. We should have already tested quite a few TTS options there.
