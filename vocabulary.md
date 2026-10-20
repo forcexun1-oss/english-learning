@@ -21942,3 +21942,4 @@
 >>>>>>> Stashed changes
 - 2026-10-21 00:28 — "上哪里" = "where am I supposed to / how would I", so use "where am I supposed to get/find it" rather than a literal "go up to where"; adding "yourself" + "supposed to" keeps the mild exasperation.
 - 2026-10-21 00:28 — The rhetorical pattern 不是……了吗 means 'aren't/can't we ... now?' — e.g. 不是可以并行了吗 → "Can't we run them in parallel now?" 派出去 here means 'dispatch them' (send the agents out), not 'send them away'.
+- 2026-10-21 00:29 — "持续推进" is naturally rendered as "keep pushing forward" or "keep making progress"; after "unless", use the present tense ("unless it needs..."), not "will need".
