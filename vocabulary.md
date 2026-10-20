@@ -22155,3 +22155,4 @@
 >>>>>>> Stashed changes
 - 2026-10-21 07:24 — "别的" here means "other options/alternatives" rather than the literal "other things"; a dash works well to link the topic ("the target page") to the follow-up instruction.
 - 2026-10-21 07:24 — Use “similar ones” to refer back to countable items, and “there should be some” for expected availability.
+- 2026-10-21 07:25 — Use "how was it decided" for a final decision; "最后" here maps naturally to "ultimately" or "in the end."
