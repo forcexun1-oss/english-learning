@@ -21737,3 +21737,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 10:09 — Use "on a Mac" when asking whether software or a model can run on Apple's computers.
+- 2026-10-20 10:12 — Use "Doesn't it..." to ask whether something supports a feature or technology.
