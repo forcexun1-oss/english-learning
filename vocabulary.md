@@ -21756,3 +21756,4 @@
 - 2026-10-20 15:45 — “你来搞啊” is a casual way to say “You handle it” or “You do it.”
 - 2026-10-20 15:58 — Use “continue using” to express that an existing action should proceed with a specified tool, method, or configuration.
 - 2026-10-20 16:08 — Use “above the name” for something placed on top of it; use “next to the name” if it is placed beside it.
+- 2026-10-20 16:10 — Use “Do it” for a concise, direct instruction.
