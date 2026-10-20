@@ -22124,3 +22124,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 07:04 — The Chinese pattern "没有要确认的" becomes a clause in English — "if there's nothing that needs confirming" — rather than a bare noun phrase; the trailing "报告什么" is best rendered as a full question: "what is there to report?"
