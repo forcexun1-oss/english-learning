@@ -21794,3 +21794,4 @@
 - 2026-10-20 22:10 — Use “collaborate with each other” for “相互协助,” and “the remaining requirements” for “其他的需求.”
 - 2026-10-20 22:12 — Use “whether” in indirect yes/no questions, as in “check whether any of them are stuck.”
 - 2026-10-20 22:13 — Use “whenever” for repeated events, and “their” to refer to each person’s branch collectively.
+- 2026-10-20 22:42 — Use “as soon as” to mean “一……就……,” and “prewarm” is the standard technical term for preparing a resource in advance.
