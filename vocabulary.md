@@ -21781,3 +21781,4 @@
 - 2026-10-20 19:28 — Use “plugin-based” for a UI that can be extended through plugins, and “companions” for in-game followers.
 - 2026-10-20 19:32 — Use “decide later whether to...” to express postponing a yes-or-no decision.
 - 2026-10-20 19:59 — Use “switch ... to” or “migrate ... to” when asking to replace one implementation with another.
+- 2026-10-20 21:52 — Use “deliver dialogue” or “read lines aloud” for 朗读台词; “logical stress” is the standard term for 逻辑重音.
