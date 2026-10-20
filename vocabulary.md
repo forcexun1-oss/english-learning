@@ -21915,3 +21915,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 00:23 — Use "doesn't necessarily have to be X" (or "not necessarily X") for 不一定 — placing "not" before "necessarily" changes the meaning to "not always." Also keep product names capitalized: Ollama.

@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Would it be better to switch to a smaller model during battle — maybe even a small omni model?
-=======
-Please help me check why this function returns empty.
->>>>>>> Stashed changes
+It's definitely loaded when entering the room, and the inference engine doesn't necessarily have to be Ollama.
