@@ -21930,3 +21930,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 00:26 — For an open-ended request, English prefers "What are the UI tasks?" — "which" implies a known, limited set to choose from.
