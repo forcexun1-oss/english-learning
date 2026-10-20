@@ -21751,3 +21751,4 @@
 - 2026-10-20 13:39 — Use “Is it still a reasonable choice…” for “现在的选型合理吗,” and “Does that mean…” to ask about an implication.
 - 2026-10-20 13:42 — Use “unreachable” or “unable to connect” for connection problems, and “I keep getting...” to describe a repeated issue.
 - 2026-10-20 14:18 — Use “Please + verb” to make a polite request.
+- 2026-10-20 15:38 — Use “Can ... run on ...?” to ask whether software or a model is supported by a platform.
