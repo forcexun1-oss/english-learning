@@ -21681,3 +21681,4 @@
 - 2026-10-20 08:24 — Use “pause everything” for 暂停所有任务; “for now” means 暂时.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 08:57 — Use “has arrived” for something that arrived recently and is relevant now.
