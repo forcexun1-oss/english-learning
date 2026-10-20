@@ -21752,3 +21752,4 @@
 - 2026-10-20 13:42 — Use “unreachable” or “unable to connect” for connection problems, and “I keep getting...” to describe a repeated issue.
 - 2026-10-20 14:18 — Use “Please + verb” to make a polite request.
 - 2026-10-20 15:38 — Use “Can ... run on ...?” to ask whether software or a model is supported by a platform.
+- 2026-10-20 15:41 — Use “from a Chinese mirror” for “用国内镜像,” and “I’ll give it a try” sounds natural for “我试试.”
