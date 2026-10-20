@@ -21539,6 +21539,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-19 21:11 — Use “verify that ... works” for confirming functionality, and “review it with someone” for checking it together.
 =======
 >>>>>>> Stashed changes
@@ -21686,3 +21687,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 09:09 — Use "It's ready" when something has been prepared; use "Done" when you mean the task is complete.
+=======
+>>>>>>> Stashed changes
