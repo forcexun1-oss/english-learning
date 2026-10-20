@@ -21689,3 +21689,4 @@
 - 2026-10-20 09:09 — Use "It's ready" when something has been prepared; use "Done" when you mean the task is complete.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:13 — Use “go to waste” to describe effort that produces no useful result.
