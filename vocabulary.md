@@ -21769,3 +21769,4 @@
 - 2026-10-20 18:52 — “继续吧” is naturally translated as “Let's continue” when suggesting that work should resume.
 - 2026-10-20 18:54 — Use “quest system” for in-game missions; “task system” sounds more like a software or workflow feature.
 - 2026-10-20 19:00 — Use the past tense “didn't ... verify” to ask why a completed action was not taken.
+- 2026-10-20 19:05 — Use “as a reference” for 参考；“build one like it” sounds more natural than directly translating 做一个.
