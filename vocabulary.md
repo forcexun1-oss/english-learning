@@ -21850,3 +21850,4 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-20 23:18 — “干等” means “wait idly / wait around,” not literally “dry wait.”
+- 2026-10-20 23:20 — In software testing, 夹具 is a "fixture" (not a physical clamp or jig); 怎么样了 is naturally "how is ... doing" or "how's ... coming along."
