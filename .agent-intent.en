@@ -2,7 +2,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 For now, remove the English coach functionality from the Python code in Claude Code's hook.
+=======
+It should stay active all the time, and it should also speak when we're outside.
+>>>>>>> Stashed changes
 =======
 It should stay active all the time, and it should also speak when we're outside.
 >>>>>>> Stashed changes
