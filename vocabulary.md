@@ -21743,3 +21743,4 @@
 - 2026-10-20 10:33 — Use “public IP address” rather than “external IP” when referring to an Internet-facing address.
 - 2026-10-20 10:36 — Use “on a network” for devices or services connected through a network.
 - 2026-10-20 10:38 — Use “internal network” or “local network” for 内网; “that should work” sounds natural for 可以的吧.
+- 2026-10-20 10:49 — Use the article "a" before a singular countable noun like "mutation" when asking about its meaning.
