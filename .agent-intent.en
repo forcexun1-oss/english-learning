@@ -1,1 +1,1 @@
-Let's dispatch them this way: when you dispatch the agents, tell them that the others exist. Each agent should have an inbox and an outbox for sending messages to others and negotiating with one another. You need to check whether any of them are stuck, and poll a little more frequently to detect any problems.
+It would be better for everyone to rebase their component branches and merge them. Broadcast whenever there is a new component.
