@@ -21951,3 +21951,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 00:30 — For completion, English prefers "have you finished + -ing" over a bare "画完" — and "all" goes before the noun: "all the other UIs."
