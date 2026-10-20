@@ -1,1 +1,1 @@
-Why is prefill so much slower? That doesn't seem right—check it. Is it a configuration issue? Why is the generation speed still like that of a 35B model?
+Actually download bonsai-2:9b with Ollama, and once it's downloaded, arrange a test for it as well.
