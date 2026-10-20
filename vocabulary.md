@@ -21768,3 +21768,4 @@
 - 2026-10-20 18:20 — Use “anymore” for something that is no longer needed, and “power it off” for turning off a device.
 - 2026-10-20 18:52 — “继续吧” is naturally translated as “Let's continue” when suggesting that work should resume.
 - 2026-10-20 18:54 — Use “quest system” for in-game missions; “task system” sounds more like a software or workflow feature.
+- 2026-10-20 19:00 — Use the past tense “didn't ... verify” to ask why a completed action was not taken.
