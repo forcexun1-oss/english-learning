@@ -21732,3 +21732,4 @@
 - 2026-10-20 10:03 — Use “both ... should be ...” to describe the expected state of two items; “right?” makes it sound like a confirmation.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 10:05 — Use “How long will it take if ...?” to ask about the required time for an action or process.
