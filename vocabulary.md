@@ -21712,3 +21712,4 @@
 - 2026-10-20 09:45 — Use “will ... decrease?” for a possible future effect, and “refer to” to clarify what a statement means.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:46 — Use “in the previous session” to refer to something that appeared during an earlier chat.
