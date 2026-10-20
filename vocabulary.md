@@ -21764,3 +21764,4 @@
 - 2026-10-20 17:25 — “补一下” usually means “fill in the missing parts” or “complete it,” depending on the context.
 - 2026-10-20 17:59 — Use “What happened?” to ask about an unexpected situation or result.
 - 2026-10-20 18:13 — Use “Which machine is it on?” to ask where something is installed or running; “the board” is a natural way to clarify.
+- 2026-10-20 18:18 — Use “merge ... into ...” when combining changes from one branch into another.
