@@ -21736,3 +21736,4 @@
 - 2026-10-20 10:05 — Use “How long will it take if ...?” to ask about the required time for an action or process.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 10:09 — Use "on a Mac" when asking whether software or a model can run on Apple's computers.
