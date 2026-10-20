@@ -22135,3 +22135,4 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-21 07:07 — "验收" is best rendered as "sign off on" or "accept" (not "check") when the user is the one giving final approval.
+- 2026-10-21 07:07 — "直接" here maps to "directly" or the softer "just" (as in "just open it") — using "just" alone often sounds more natural in casual instructions.
