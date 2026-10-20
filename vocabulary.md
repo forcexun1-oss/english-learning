@@ -21791,3 +21791,4 @@
 - 2026-10-20 22:03 — Use “language-specific” to express “区分语言的,” and “apply to both A and B” to mean “适用于 A 和 B。”
 - 2026-10-20 22:05 — Use "Can it run...?" to ask whether something is currently able to run.
 - 2026-10-20 22:06 — Use “in parallel” to describe doing multiple tasks at the same time.
+- 2026-10-20 22:10 — Use “collaborate with each other” for “相互协助,” and “the remaining requirements” for “其他的需求.”
