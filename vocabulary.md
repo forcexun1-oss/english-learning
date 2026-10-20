@@ -21788,3 +21788,4 @@
 - 2026-10-20 21:55 — Use “be supposed to” to ask about an expected action or schedule.
 - 2026-10-20 21:56 — Use “go + verb” for a direct, natural command; “now” emphasizes urgency.
 - 2026-10-20 21:57 — Use “mirror” for an alternative download source, and “in China” sounds more natural than “domestic” in this context.
+- 2026-10-20 22:03 — Use “language-specific” to express “区分语言的,” and “apply to both A and B” to mean “适用于 A 和 B。”
