@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 It's definitely loaded when entering the room, and the inference engine doesn't necessarily have to be Ollama.
+=======
+Please help me check why this function returns empty.
+>>>>>>> Stashed changes
