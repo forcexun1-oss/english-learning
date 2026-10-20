@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 1. Should the default alignment setting be changed to enabled? (Validated across five groups: 70/70 were consistent; the reuse loss for short prefixes increased from 33% to 38%, while for long prefixes it increased from 4% to 9%.) What exactly does this refer to?
+=======
+It was in the previous session.
+>>>>>>> Stashed changes

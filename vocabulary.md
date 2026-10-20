@@ -21714,7 +21714,10 @@
 >>>>>>> Stashed changes
 - 2026-10-20 09:46 — Use “in the previous session” to refer to something that appeared during an earlier chat.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-20 09:48 — Use “Simply put” for “简单说,” and “enable” is a natural technical term for turning on a feature or switch.
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 09:55 — Use “increased from A to B” to describe a change in a measured value, and “What exactly does this refer to?” to ask for clarification.
+=======
+>>>>>>> Stashed changes
