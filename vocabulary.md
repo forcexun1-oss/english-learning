@@ -21748,3 +21748,4 @@
 - 2026-10-20 11:31 — Use “we used previously” to make it clear that you mean the test set from an earlier time.
 - 2026-10-20 11:35 — Use “include” for adding items to a set or document, and “items that we've tested” sounds natural for this context.
 - 2026-10-20 11:55 — Use “still running” for processes or tasks that have not finished, and “polling” for repeatedly checking their status.
+- 2026-10-20 13:39 — Use “Is it still a reasonable choice…” for “现在的选型合理吗,” and “Does that mean…” to ask about an implication.
