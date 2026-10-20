@@ -21693,3 +21693,4 @@
 - 2026-10-20 09:13 — Use “go to waste” to describe effort that produces no useful result.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:14 — Use “in parallel” to describe tasks running at the same time.
