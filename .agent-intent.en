@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Try switching to this model and test its performance first.
-=======
-It should stay active all the time, and it should also speak when we're outside.
->>>>>>> Stashed changes
+For now, remove the English coach functionality from the Python code in Claude Code's hook.

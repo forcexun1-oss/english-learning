@@ -21805,3 +21805,4 @@
 =======
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
+- 2026-10-20 22:59 — Use “remove ... from ...” to clearly express taking functionality out of a specific file or component.
