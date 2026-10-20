@@ -21754,3 +21754,4 @@
 - 2026-10-20 15:38 — Use “Can ... run on ...?” to ask whether software or a model is supported by a platform.
 - 2026-10-20 15:41 — Use “from a Chinese mirror” for “用国内镜像,” and “I’ll give it a try” sounds natural for “我试试.”
 - 2026-10-20 15:45 — “你来搞啊” is a casual way to say “You handle it” or “You do it.”
+- 2026-10-20 15:58 — Use “continue using” to express that an existing action should proceed with a specified tool, method, or configuration.
