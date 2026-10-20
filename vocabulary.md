@@ -21759,3 +21759,4 @@
 - 2026-10-20 16:10 — Use “Do it” for a concise, direct instruction.
 - 2026-10-20 16:13 — Use a negative question with a tag like “is it?” to confirm an assumption.
 - 2026-10-20 16:18 — Use “I think …, right?” to express uncertainty while checking something, and “I seem to remember …” sounds natural when recalling information.
+- 2026-10-20 16:30 — Use “access” or “log in to” for entering a service, and “on this machine” sounds more natural than a literal translation of “这个机器的.”
