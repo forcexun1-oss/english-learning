@@ -21901,3 +21901,4 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-21 00:19 — Use "currently" (adverb) rather than "now" for the current state in technical writing; "what performs best" is more natural than "what is the best effect."
+- 2026-10-21 00:19 — “性价比” is naturally translated as “cost-effectiveness” or “price-performance”; “注意” here works well as “keep … in mind.”
