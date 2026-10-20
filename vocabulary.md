@@ -21844,3 +21844,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-20 23:16 — 派 means "assign/dispatch"; 补测 is best rendered as "supplementary test" or "retest" — "make-up test" works too but sounds more like school exams.
