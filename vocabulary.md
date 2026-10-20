@@ -21773,3 +21773,4 @@
 - 2026-10-20 19:05 — Use “launch” or “start up” for applications; “launch” sounds more natural in technical contexts.
 - 2026-10-20 19:09 — Use “How can ...?” for asking how something is possible, and “whether ... is correct” for an indirect yes/no question.
 - 2026-10-20 19:11 — Use “the subscription version” when referring to a specific version or plan.
+- 2026-10-20 19:11 — “把事情都自己处理完” is naturally expressed as “handle everything yourself until it’s all completed.”
