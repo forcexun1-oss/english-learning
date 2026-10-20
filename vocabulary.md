@@ -21697,3 +21697,4 @@
 - 2026-10-20 09:14 — Use “in parallel” to describe tasks running at the same time.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:36 — Use “completed successfully” to clearly describe a finished command and its result.
