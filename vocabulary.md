@@ -21717,6 +21717,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-20 09:48 — Use “Simply put” for “简单说,” and “enable” is a natural technical term for turning on a feature or switch.
 =======
 >>>>>>> Stashed changes
@@ -21729,3 +21730,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-20 10:03 — Use “both ... should be ...” to describe the expected state of two items; “right?” makes it sound like a confirmation.
+=======
+>>>>>>> Stashed changes
