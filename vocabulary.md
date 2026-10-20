@@ -21957,3 +21957,4 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-21 00:31 — 巡检 in a dev/monitoring context is best rendered as "inspection" or "health check"; "keep + verb-ing" (keep pushing) is the natural way to express 持续做某事.
+- 2026-10-21 00:32 — Your text used 把 where you meant 吧 — 把 is the object marker, while 吧 is the sentence particle that softens a statement into a confirmation ("...right?").
