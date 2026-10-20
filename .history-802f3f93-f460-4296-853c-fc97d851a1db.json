@@ -21,7 +21,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["要合入main", "板子是可以不用了,可以断电了把"]
+=======
+["<task-notification>\n<task-id>bxag89ttv</task-id>\n<tool-use-id>toolu_01KEtrRrx1VLZ6745Y912cv8</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/bdbf1417-4d34-4d19-8979-21d485f5dd5d/tasks/bxag89ttv.output</output-file>\n<status>completed</status>\n<summary>Background command \"SP=/private/tmp/claude-501/-Users-youxun-project-edgeAgent/802f3f93-f460-4296-853c-fc97d851a1db/scratchpad; for i in $(seq 1 25); do grep -q \"test result\" $SP/xcheck-D-run.txt 2&gt;/dev/null &amp;&amp; break; grep -q \"^error\" $SP/xcheck-D-run.txt 2&gt;/dev/null &amp;&amp; break; sleep 20; done; grep -c \"^XCHECK\t\" $SP/xcheck-D-run.txt; grep \"XCHECK_MISMATCHES\\|test result\\|^error\" $SP/xcheck-D-run.txt\" completed (exit code 0)</summary>\n</task-notification>"]
+>>>>>>> Stashed changes
 =======
 ["<task-notification>\n<task-id>bxag89ttv</task-id>\n<tool-use-id>toolu_01KEtrRrx1VLZ6745Y912cv8</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/bdbf1417-4d34-4d19-8979-21d485f5dd5d/tasks/bxag89ttv.output</output-file>\n<status>completed</status>\n<summary>Background command \"SP=/private/tmp/claude-501/-Users-youxun-project-edgeAgent/802f3f93-f460-4296-853c-fc97d851a1db/scratchpad; for i in $(seq 1 25); do grep -q \"test result\" $SP/xcheck-D-run.txt 2&gt;/dev/null &amp;&amp; break; grep -q \"^error\" $SP/xcheck-D-run.txt 2&gt;/dev/null &amp;&amp; break; sleep 20; done; grep -c \"^XCHECK\t\" $SP/xcheck-D-run.txt; grep \"XCHECK_MISMATCHES\\|test result\\|^error\" $SP/xcheck-D-run.txt\" completed (exit code 0)</summary>\n</task-notification>"]
 >>>>>>> Stashed changes
