@@ -21708,3 +21708,4 @@
 - 2026-10-20 09:39 — Use “run a model locally” for 本地跑模型, and “support converting it” for 是否支持转换。
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:45 — Use “will ... decrease?” for a possible future effect, and “refer to” to clarify what a statement means.
