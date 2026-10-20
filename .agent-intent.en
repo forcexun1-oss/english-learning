@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 What can we use to run the EdgeRock-4B model locally? Let's use the Q4_K_M version. Can Rockchip chips run it? Also, does the official conversion tool support converting it?
+=======
+Is everything running normally? Has the polling been set up properly?
+>>>>>>> Stashed changes
