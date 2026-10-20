@@ -22129,3 +22129,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 07:06 — In English questions, put the verb first: "What is A0?" rather than "A0 is what?"
