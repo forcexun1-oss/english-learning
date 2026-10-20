@@ -21792,3 +21792,4 @@
 - 2026-10-20 22:05 — Use "Can it run...?" to ask whether something is currently able to run.
 - 2026-10-20 22:06 — Use “in parallel” to describe doing multiple tasks at the same time.
 - 2026-10-20 22:10 — Use “collaborate with each other” for “相互协助,” and “the remaining requirements” for “其他的需求.”
+- 2026-10-20 22:12 — Use “whether” in indirect yes/no questions, as in “check whether any of them are stuck.”
