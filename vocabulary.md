@@ -21685,3 +21685,4 @@
 - 2026-10-20 08:57 — Use “has arrived” for something that arrived recently and is relevant now.
 =======
 >>>>>>> Stashed changes
+- 2026-10-20 09:09 — Use "It's ready" when something has been prepared; use "Done" when you mean the task is complete.
