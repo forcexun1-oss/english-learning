@@ -21834,4 +21834,8 @@
 =======
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-10-20 23:12 — Use the third-person singular form 'returns' for 'this function'.
+=======
+- 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
+>>>>>>> Stashed changes
