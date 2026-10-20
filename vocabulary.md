@@ -21835,8 +21835,12 @@
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-20 23:12 — Use the third-person singular form 'returns' for 'this function'.
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-20 23:13 — For a service returning to normal, use "be back up" / "be back" (or "recover") and form the question by inverting the auxiliary: "Is Codex ...?" — not "Codex also recovered?".
+=======
+- 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
+>>>>>>> Stashed changes
