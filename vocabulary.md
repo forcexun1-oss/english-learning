@@ -21784,3 +21784,4 @@
 - 2026-10-20 21:52 — Use “deliver dialogue” or “read lines aloud” for 朗读台词; “logical stress” is the standard term for 逻辑重音.
 - 2026-10-20 21:52 — Use “How is it going?” for a casual progress check; “How’s it going?” is the more conversational contraction.
 - 2026-10-20 21:53 — “咋样了” is a casual way to ask for an update, so “How's it going?” sounds natural.
+- 2026-10-20 21:54 — Use "failed with exit code" to report a process failure and its numeric exit status.
