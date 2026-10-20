@@ -21849,3 +21849,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-20 23:18 — “干等” means “wait idly / wait around,” not literally “dry wait.”
