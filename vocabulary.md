@@ -22144,6 +22144,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 07:07 — "直接" here maps to "directly" or the softer "just" (as in "just open it") — using "just" alone often sounds more natural in casual instructions.
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
@@ -22166,6 +22167,9 @@
 >>>>>>> Stashed changes
 - 2026-10-21 07:25 — 「按推荐」= "go with / follow the recommendation"; "按" here means "according to," not "press" — avoid the literal "according to recommend."
 - 2026-10-21 07:27 — 「随便看看」= a quick look / a casual glance — use "look" as a noun here, not "look at".
+=======
+- 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
+>>>>>>> Stashed changes
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
