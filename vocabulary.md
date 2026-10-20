@@ -21739,3 +21739,4 @@
 - 2026-10-20 10:09 — Use "on a Mac" when asking whether software or a model can run on Apple's computers.
 - 2026-10-20 10:12 — Use "Doesn't it..." to ask whether something supports a feature or technology.
 - 2026-10-20 10:21 — Use “validate it on a Mac” for “在 Mac 上验证一下”; “on” is the natural preposition for platforms and devices.
+- 2026-10-20 10:24 — Use “standalone app” for an independent application and “installed in” for software added to another app.
