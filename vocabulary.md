@@ -21777,3 +21777,4 @@
 - 2026-10-20 19:12 — Use “take care of it” or “handle it” for 处理一下, and “run” for executing a command.
 - 2026-10-20 19:17 — Use “Has ... started being designed?” to ask whether a design process has begun.
 - 2026-10-20 19:23 — Use "Isn't there..." to ask whether something exists, and "domestic mirror" for 国内镜像.
+- 2026-10-20 19:24 — Use “can be run in parallel” to describe tasks that may execute concurrently; “in parallel” is the natural technical phrase.
