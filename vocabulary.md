@@ -21795,4 +21795,8 @@
 - 2026-10-20 22:12 — Use “whether” in indirect yes/no questions, as in “check whether any of them are stuck.”
 - 2026-10-20 22:13 — Use “whenever” for repeated events, and “their” to refer to each person’s branch collectively.
 - 2026-10-20 22:42 — Use “as soon as” to mean “一……就……,” and “prewarm” is the standard technical term for preparing a resource in advance.
+<<<<<<< Updated upstream
 - 2026-10-20 22:42 — Use “separately later” or “in a separate pass later” to express postponing a task for focused optimization.
+=======
+- 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
+>>>>>>> Stashed changes
