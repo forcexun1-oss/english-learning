@@ -22154,3 +22154,4 @@
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
 - 2026-10-21 07:24 — "别的" here means "other options/alternatives" rather than the literal "other things"; a dash works well to link the topic ("the target page") to the follow-up instruction.
+- 2026-10-21 07:24 — Use “similar ones” to refer back to countable items, and “there should be some” for expected availability.
