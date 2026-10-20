@@ -21859,3 +21859,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-20 23:24 — "不对吧" is a rhetorical challenge; "That doesn't seem right" sounds more natural than a literal "not correct."

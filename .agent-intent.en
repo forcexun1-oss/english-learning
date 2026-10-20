@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-What is a fixture, and how is the large model doing?
-=======
-Please help me check why this function returns empty.
->>>>>>> Stashed changes
-=======
-Please help me check why this function returns empty.
->>>>>>> Stashed changes
+Why is prefill so much slower? That doesn't seem right—check it. Is it a configuration issue? Why is the generation speed still like that of a 35B model?
