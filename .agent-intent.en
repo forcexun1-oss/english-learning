@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It's definitely loaded when entering the room, and the inference engine doesn't necessarily have to be Ollama.
-=======
-Please help me check why this function returns empty.
->>>>>>> Stashed changes
+Right now we're just testing out approaches — eventually we'll definitely be deploying on Windows.
