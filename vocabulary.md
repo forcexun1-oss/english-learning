@@ -21891,3 +21891,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 00:16 — 「排上」= put it on the queue / add it to the backlog; use "queue it up" or "put it on the list" rather than a literal verb.
