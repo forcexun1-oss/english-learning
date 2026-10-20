@@ -21800,3 +21800,4 @@
 =======
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
+- 2026-10-20 22:44 — Use "switch to" for changing models, and "test its performance" is a natural way to describe evaluating speed or quality.
