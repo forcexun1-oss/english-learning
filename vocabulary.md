@@ -22119,3 +22119,4 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-21 07:02 — 「做……对比」is natural as “do/run a comparison on …” or simply “compare …”; keeping names like Kev unchanged is fine, but if you meant “key”, write 「key 对比」→ “compare the keys”.
+- 2026-10-21 07:03 — "搞完" translates naturally as "done" or "finished"; use "everything else" for "其他的" when referring to remaining tasks in general.
