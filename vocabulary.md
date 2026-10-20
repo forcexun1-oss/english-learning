@@ -21799,6 +21799,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-20 22:42 — Use “separately later” or “in a separate pass later” to express postponing a task for focused optimization.
 =======
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
@@ -21808,6 +21809,9 @@
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
 - 2026-10-20 22:59 — Use “remove ... from ...” to clearly express taking functionality out of a specific file or component.
+=======
+- 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
+>>>>>>> Stashed changes
 =======
 - 2026-10-20 22:42 — Use “should also” to express an additional requirement clearly.
 >>>>>>> Stashed changes
