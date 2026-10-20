@@ -21925,3 +21925,4 @@
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
+- 2026-10-21 00:26 — In software contexts, “巡检” is usually better translated as “run health checks” or “do a routine check” rather than “inspection.”
