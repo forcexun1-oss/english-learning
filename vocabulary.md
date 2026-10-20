@@ -21742,3 +21742,4 @@
 - 2026-10-20 10:24 — Use “standalone app” for an independent application and “installed in” for software added to another app.
 - 2026-10-20 10:33 — Use “public IP address” rather than “external IP” when referring to an Internet-facing address.
 - 2026-10-20 10:36 — Use “on a network” for devices or services connected through a network.
+- 2026-10-20 10:38 — Use “internal network” or “local network” for 内网; “that should work” sounds natural for 可以的吧.
