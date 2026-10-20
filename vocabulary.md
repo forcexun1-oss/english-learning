@@ -21776,3 +21776,4 @@
 - 2026-10-20 19:11 — “把事情都自己处理完” is naturally expressed as “handle everything yourself until it’s all completed.”
 - 2026-10-20 19:12 — Use “take care of it” or “handle it” for 处理一下, and “run” for executing a command.
 - 2026-10-20 19:17 — Use “Has ... started being designed?” to ask whether a design process has begun.
+- 2026-10-20 19:23 — Use "Isn't there..." to ask whether something exists, and "domestic mirror" for 国内镜像.
