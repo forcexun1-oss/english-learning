@@ -21852,6 +21852,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-20 23:12 — Use the third-person singular form 'returns' for 'this function'.
 =======
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
@@ -21921,3 +21922,6 @@
 - 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
 >>>>>>> Stashed changes
 - 2026-10-21 00:24 — Use "be + just testing" to convey 只是在测; "上" in 上Windows means "deploy/ship on", so pair it with "eventually" or "down the line" rather than "later" alone.
+=======
+- 2026-10-20 23:12 — "返回空" can be "returns empty" (empty value) or "returns nothing" (no return value).
+>>>>>>> Stashed changes
