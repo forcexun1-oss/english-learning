@@ -21762,3 +21762,4 @@
 - 2026-10-20 16:30 — Use “access” or “log in to” for entering a service, and “on this machine” sounds more natural than a literal translation of “这个机器的.”
 - 2026-10-20 17:22 — Use “performing overall” to ask about a system’s general effectiveness or current performance.
 - 2026-10-20 17:25 — “补一下” usually means “fill in the missing parts” or “complete it,” depending on the context.
+- 2026-10-20 17:59 — Use “What happened?” to ask about an unexpected situation or result.
