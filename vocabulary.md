@@ -21745,3 +21745,4 @@
 - 2026-10-20 10:38 — Use “internal network” or “local network” for 内网; “that should work” sounds natural for 可以的吧.
 - 2026-10-20 10:49 — Use the article "a" before a singular countable noun like "mutation" when asking about its meaning.
 - 2026-10-20 11:18 — Use “Where's the evidence?” to ask for supporting proof, and add “the” before a specific process like “the mutation testing.”
+- 2026-10-20 11:31 — Use “we used previously” to make it clear that you mean the test set from an earlier time.
