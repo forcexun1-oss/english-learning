@@ -22281,3 +22281,4 @@
 - 2026-10-21 10:56 — "Send someone off to do something" is the natural collocation; "干嘛去了" here means "what did you send her to work on", not literally "where did she go".
 - 2026-10-21 11:08 — When asking about quantization level, say "what precision was it quantized to?" rather than "quantized to how much".
 - 2026-10-21 11:12 — Chinese 干嘛去了 implies someone left to do something, so "go off to do X" captures it naturally; "What's he up to?" is another casual option.
+- 2026-10-21 11:18 — Chinese often doubles the pronoun (给什么给他); in English pick one object: "give it" / "send it", not "give what to it to it".
