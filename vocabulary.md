@@ -22323,3 +22323,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 16:06 — In English, use "specifically for" (not "specially for") to mean 专门为; "specially" usually means 特意/特别地 in other senses.
