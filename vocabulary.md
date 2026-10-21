@@ -22378,3 +22378,4 @@
 - 2026-10-21 19:03 — In software contexts, “跑” usually means “run”; add “it” to make the object clear.
 - 2026-10-21 19:25 — Use “吧” (suggestion particle), not “把”; “set it up” is more natural than “configure it well” here.
 - 2026-10-21 19:32 — "Prepare the environment" is fine; for the second clause use "download the model in parallel" — "in parallel" already implies "at the same time", so you can also just say "Prepare the environment and start downloading the model in parallel."
+- 2026-10-21 19:33 — 「还有…也」translates naturally as 'also … as well' or simply 'download this one too'; avoid stacking 'also' and 'too' in the same clause.
