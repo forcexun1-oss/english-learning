@@ -22151,6 +22151,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 07:07 — "直接" here maps to "directly" or the softer "just" (as in "just open it") — using "just" alone often sounds more natural in casual instructions.
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
@@ -22208,3 +22209,6 @@
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
 - 2026-10-21 09:06 — Use 'distributed across' for how time is spread over parts of a system; 'latency' is the natural term for delay.
+=======
+- 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
+>>>>>>> Stashed changes
