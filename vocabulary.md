@@ -22368,3 +22368,4 @@
 >>>>>>> Stashed changes
 - 2026-10-21 16:41 — Use "too few" for countable things and "too little" for uncountable amounts; 太少了 depends on context.
 - 2026-10-21 17:16 — "性能上呢" is a short follow-up; English keeps it equally brief as "What about performance?" Add "-wise" ("performance-wise") only in casual speech — it's informal.
+- 2026-10-21 17:18 — In English questions, put the verb first: "Is the one on the board the 4-bit version?" — Chinese "...上的是4bit的?" has no verb, so add "Is" at the front.
