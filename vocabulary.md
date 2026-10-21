@@ -22382,3 +22382,4 @@
 - 2026-10-21 19:39 — For "国内的地址" in a download context, English speakers usually say "a domestic/China-based mirror or URL" rather than "address" — "address" sounds like a physical or IP address.
 - 2026-10-21 19:52 — "咋" is colloquial northern Chinese for "怎么/为什么" — in English use "Why..."; "又" = "again", placed before the verb.
 - 2026-10-21 20:01 — Chinese "如何了" asks for a status update; English usually uses a progressive form like "How's ... coming along?" or "How's ... going?" rather than "How is the environment?" (which sounds like a general description, not a progress check).
+- 2026-10-21 20:11 — For 定时, use “on a schedule” or “on a timer”; “挂上” is colloquial here, so “set it up” is more natural than literal “hang it up.”
