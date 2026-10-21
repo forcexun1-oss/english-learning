@@ -22270,3 +22270,4 @@
 - 2026-10-21 10:09 — Use 'must have + past participle' for strong guesses about what already happened (e.g., 'You must have misconfigured it'), rather than 'it's probably your config that's wrong'.
 - 2026-10-21 10:15 — Use "four 640x640 images" rather than "4 images of 640x640"; also, "how many input tokens are needed" is more natural than "need how many input tokens."
 - 2026-10-21 10:16 — 写死 is best rendered as "hardcoded" (verb form: "hardcode"); avoid a literal "written to death." The two clauses can stay as two short questions, matching your Chinese punctuation.
+- 2026-10-21 10:18 — 「写死」= hardcoded; asking "can it be made configurable" is more specific than "can it be changed".
