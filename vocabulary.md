@@ -22367,3 +22367,4 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 16:41 — Use "too few" for countable things and "too little" for uncountable amounts; 太少了 depends on context.
+- 2026-10-21 17:16 — "性能上呢" is a short follow-up; English keeps it equally brief as "What about performance?" Add "-wise" ("performance-wise") only in casual speech — it's informal.
