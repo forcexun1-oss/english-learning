@@ -22292,3 +22292,4 @@
 - 2026-10-21 11:45 — "从0开始" is idiomatic as "start from scratch" (or "start over"), not literally "start from 0".
 - 2026-10-21 11:47 — Use "according to" for 按…(改正/修改); "put it into that folder under `document`" sounds more natural than a literal "put it down into".
 - 2026-10-21 11:48 — The 了 in 别交给他了 signals a change of state, so render it as "anymore" ("don't send it to him anymore"), not just "don't send it".
+- 2026-10-21 11:50 — 「单发」= send separately/only that item — render it as 'just send ... on its own' or 'send ... by itself'; 「是不是…就够了」= 'Is it / Would it be enough to ...?'
