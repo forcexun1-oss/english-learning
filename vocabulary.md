@@ -22388,3 +22388,4 @@
 - 2026-10-21 22:04 — The tag question "是不是要…" is best rendered as "Does … need to …?" in English rather than a literal "Is it or not that…".
 - 2026-10-21 22:07 — For a negative statement with a checking tag, use "..., is it?" — and use "either" (not "also") at the end of a negative sentence: "isn't set right either."
 - 2026-10-21 22:25 — "repeatedly" is an adverb modifying the verb ("calling repeatedly"); if you want a noun phrase, use "repeated calls". "配一下" maps naturally to "configure it" or "set it up".
+- 2026-10-21 22:58 — Use "keep + -ing" (keep throwing errors) for repeated actions; "so often" sounds more natural than "often" alone here.
