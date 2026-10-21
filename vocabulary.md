@@ -22299,3 +22299,4 @@
 - 2026-10-21 11:54 — In casual Chinese, "动" before a file/object means "touch or modify"; "…没有" at the end forms a yes/no question, best rendered in English as "Have you … yet?" or "Did you … or not?".
 - 2026-10-21 11:54 — Use "except" or "apart from" for 除了…其他 (excluding); "besides" would mean "in addition to," which changes the meaning.
 - 2026-10-21 15:38 — 瑞芯微 is commonly written as Rockchip in English; “每次” can be translated as “every time” or “each time.”
+- 2026-10-21 15:39 — Use a tag question like "have we?" to confirm an assumption, and "or maybe" to make a softer suggestion.
