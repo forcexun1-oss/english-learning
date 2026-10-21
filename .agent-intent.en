@@ -1,1 +1,1 @@
-For Qwen's ASR, we're all using quantized versions, right? For the 1.7B model, what quantized versions are available and how much memory does each take?
+Ours runs on CPU, right? Why couldn't the Rockchip 3576 board run it on CPU back then — or did we actually test it and find the performance was just too poor?

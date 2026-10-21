@@ -22301,3 +22301,4 @@
 - 2026-10-21 15:38 — 瑞芯微 is commonly written as Rockchip in English; “每次” can be translated as “every time” or “each time.”
 - 2026-10-21 15:39 — Use a tag question like "have we?" to confirm an assumption, and "or maybe" to make a softer suggestion.
 - 2026-10-21 15:41 — Use "how much memory does each take" instead of a literal translation of "占多少内存"; "available" pairs naturally with "what versions are...".
+- 2026-10-21 15:45 — The sentence-final 吧 works like a tag question in English, so render it as "..., right?" or "..., isn't it?" rather than dropping it — and note 把 here is a typo for 吧.
