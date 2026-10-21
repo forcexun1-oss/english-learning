@@ -1,1 +1,1 @@
-Go check edgerock and figure out what's going on — why is it behaving like this?
+First check the prefix cache for the LLM input.

@@ -22272,3 +22272,4 @@
 - 2026-10-21 10:16 — 写死 is best rendered as "hardcoded" (verb form: "hardcode"); avoid a literal "written to death." The two clauses can stay as two short questions, matching your Chinese punctuation.
 - 2026-10-21 10:18 — 「写死」= hardcoded; asking "can it be made configurable" is more specific than "can it be changed".
 - 2026-10-21 10:27 — "咋回事" maps naturally to "what's going on" or "what's the matter"; "怎么这样" is often best rendered as "why is it acting/behaving like this" rather than a literal "why so".
+- 2026-10-21 10:39 — In English, "first" as a sequencing adverb usually goes at the start ("First, check...") or end ("...check it first") rather than right after the verb phrase; also "for the LLM input" reads more naturally than the stacked noun phrase "LLM input prefix cache".
