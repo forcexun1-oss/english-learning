@@ -22379,3 +22379,4 @@
 - 2026-10-21 19:25 — Use “吧” (suggestion particle), not “把”; “set it up” is more natural than “configure it well” here.
 - 2026-10-21 19:32 — "Prepare the environment" is fine; for the second clause use "download the model in parallel" — "in parallel" already implies "at the same time", so you can also just say "Prepare the environment and start downloading the model in parallel."
 - 2026-10-21 19:33 — 「还有…也」translates naturally as 'also … as well' or simply 'download this one too'; avoid stacking 'also' and 'too' in the same clause.
+- 2026-10-21 19:39 — For "国内的地址" in a download context, English speakers usually say "a domestic/China-based mirror or URL" rather than "address" — "address" sounds like a physical or IP address.
