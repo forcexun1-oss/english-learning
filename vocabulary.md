@@ -22342,3 +22342,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 16:27 — Use 'running it directly' as a gerund phrase to express '直接执行' naturally.
