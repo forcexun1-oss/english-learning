@@ -22291,3 +22291,4 @@
 - 2026-10-21 11:45 — For "他要什么都…", use "whatever he needs" (not "whatever he wants all"); add "all" after "should" to capture the "都" emphasis.
 - 2026-10-21 11:45 — "从0开始" is idiomatic as "start from scratch" (or "start over"), not literally "start from 0".
 - 2026-10-21 11:47 — Use "according to" for 按…(改正/修改); "put it into that folder under `document`" sounds more natural than a literal "put it down into".
+- 2026-10-21 11:48 — The 了 in 别交给他了 signals a change of state, so render it as "anymore" ("don't send it to him anymore"), not just "don't send it".
