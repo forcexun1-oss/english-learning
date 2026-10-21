@@ -22266,3 +22266,4 @@
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
 - 2026-10-21 09:50 — 「再看看」here means "have another look" or "look again" — 再 = again/once more, not "then".
+- 2026-10-21 09:51 — 你配错了把 — the sentence-final particle should be 吧 (suggestion/confirmation), not 把; 吧 here works like English "..., right?" or "..., didn't you?"
