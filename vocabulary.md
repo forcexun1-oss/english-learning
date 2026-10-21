@@ -22294,3 +22294,4 @@
 - 2026-10-21 11:48 — The 了 in 别交给他了 signals a change of state, so render it as "anymore" ("don't send it to him anymore"), not just "don't send it".
 - 2026-10-21 11:50 — 「单发」= send separately/only that item — render it as 'just send ... on its own' or 'send ... by itself'; 「是不是…就够了」= 'Is it / Would it be enough to ...?'
 - 2026-10-21 11:51 — "让他读" uses the causative pattern "have him read" (not "let him read", which implies permission); "单独再读" here means "read it on its own / as a separate step".
+- 2026-10-21 11:52 — You wrote 把 at the end, but the confirmation particle is 吧 (ba) — 把 is a different word (preposition/measure word). In English, tag questions like "..., right?" or "..., did they?" carry that same "confirming" tone.
