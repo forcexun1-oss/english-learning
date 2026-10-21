@@ -22198,3 +22198,4 @@
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
+- 2026-10-21 08:54 — "继续吧" is best rendered as "Go ahead" or "Continue" — "Go ahead" adds the encouraging 'you may proceed' tone that 吧 conveys.
