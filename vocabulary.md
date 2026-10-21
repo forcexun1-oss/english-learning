@@ -22376,3 +22376,4 @@
 - 2026-10-21 18:21 — "断电" is naturally "power off" or "cut the power"; use the passive "be powered off" when asking whether it's OK to remove power from the board.
 - 2026-10-21 18:36 — Use "without + -ing" for "不...": without rolling back.
 - 2026-10-21 19:03 — In software contexts, “跑” usually means “run”; add “it” to make the object clear.
+- 2026-10-21 19:25 — Use “吧” (suggestion particle), not “把”; “set it up” is more natural than “configure it well” here.
