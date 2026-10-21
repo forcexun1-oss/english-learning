@@ -22278,3 +22278,4 @@
 - 2026-10-21 10:50 — "派某人去干嘛" maps to "send someone off to do something" or the simpler "assign someone to do something"; "干嘛去了" here is a purpose question, not a greeting.
 - 2026-10-21 10:54 — “把” should be “吧” here; use “reliably supports” instead of “stably supports” for feature behavior.
 - 2026-10-21 10:54 — For questions, use 'Which backend does bonsai use...' rather than 'bonsai uses which backend...'.
+- 2026-10-21 10:56 — "Send someone off to do something" is the natural collocation; "干嘛去了" here means "what did you send her to work on", not literally "where did she go".
