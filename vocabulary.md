@@ -22328,3 +22328,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 16:10 — For latency questions, 'Does the first audio take ...?' is natural; 'first-audio latency' is the technical noun phrase.
