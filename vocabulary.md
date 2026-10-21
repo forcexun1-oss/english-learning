@@ -22290,3 +22290,4 @@
 - 2026-10-21 11:43 — "够了" = "is enough"; use the pattern "Is it enough if I ...?" or "Will just giving him that document be enough?"
 - 2026-10-21 11:45 — For "他要什么都…", use "whatever he needs" (not "whatever he wants all"); add "all" after "should" to capture the "都" emphasis.
 - 2026-10-21 11:45 — "从0开始" is idiomatic as "start from scratch" (or "start over"), not literally "start from 0".
+- 2026-10-21 11:47 — Use "according to" for 按…(改正/修改); "put it into that folder under `document`" sounds more natural than a literal "put it down into".
