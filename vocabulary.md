@@ -22241,3 +22241,4 @@
 >>>>>>> Stashed changes
 - 2026-10-21 09:37 — "试试看效果" translates naturally as "try them out" / "see how they perform" rather than a literal "try see the effect".
 - 2026-10-21 09:37 — For a model's 最大规格, 'maximum size' is natural; 'specification' is broader and less specific.
+- 2026-10-21 09:39 — The sentence-ending particle is 吧 (suggestion/soft request), not 把 — 把 is a preposition meaning 'take/handle'.
