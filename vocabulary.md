@@ -22309,6 +22309,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 15:50 — Use "the Qwen one" to refer to a named version or product; "Qwen's" means belonging to Qwen.
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
@@ -22330,6 +22331,9 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 16:10 — For latency questions, 'Does the first audio take ...?' is natural; 'first-audio latency' is the technical noun phrase.
+=======
+- 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
+>>>>>>> Stashed changes
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
