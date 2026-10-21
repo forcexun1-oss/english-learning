@@ -22384,3 +22384,4 @@
 - 2026-10-21 20:01 — Chinese "如何了" asks for a status update; English usually uses a progressive form like "How's ... coming along?" or "How's ... going?" rather than "How is the environment?" (which sounds like a general description, not a progress check).
 - 2026-10-21 20:11 — For 定时, use “on a schedule” or “on a timer”; “挂上” is colloquial here, so “set it up” is more natural than literal “hang it up.”
 - 2026-10-21 20:12 — "状况" is often translated as "status" or "situation"; "current status" is the natural phrasing for checking progress.
+- 2026-10-21 20:12 — Use "poll" as a verb for repeatedly checking something; "once every 25 minutes" is the natural frequency phrase.
