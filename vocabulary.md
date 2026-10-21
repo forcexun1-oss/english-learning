@@ -22375,3 +22375,4 @@
 - 2026-10-21 18:18 — "啥情况" is casual Chinese for "what's the status/situation" — in English use "What's the status?" or "What's going on now?" rather than a literal "what situation".
 - 2026-10-21 18:21 — "断电" is naturally "power off" or "cut the power"; use the passive "be powered off" when asking whether it's OK to remove power from the board.
 - 2026-10-21 18:36 — Use "without + -ing" for "不...": without rolling back.
+- 2026-10-21 19:03 — In software contexts, “跑” usually means “run”; add “it” to make the object clear.
