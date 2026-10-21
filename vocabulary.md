@@ -22293,3 +22293,4 @@
 - 2026-10-21 11:47 — Use "according to" for 按…(改正/修改); "put it into that folder under `document`" sounds more natural than a literal "put it down into".
 - 2026-10-21 11:48 — The 了 in 别交给他了 signals a change of state, so render it as "anymore" ("don't send it to him anymore"), not just "don't send it".
 - 2026-10-21 11:50 — 「单发」= send separately/only that item — render it as 'just send ... on its own' or 'send ... by itself'; 「是不是…就够了」= 'Is it / Would it be enough to ...?'
+- 2026-10-21 11:51 — "让他读" uses the causative pattern "have him read" (not "let him read", which implies permission); "单独再读" here means "read it on its own / as a separate step".
