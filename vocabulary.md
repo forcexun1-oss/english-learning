@@ -22357,3 +22357,4 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 16:36 — “跟着改一下” is naturally translated as “update ... accordingly”; “名字要改一下” is more concise as “rename it.”
+- 2026-10-21 16:36 — 「你别管了」can be softened to "never mind that" or "don't worry about that"; 「跟踪」here is "keep track of" / "monitor" rather than "trace".

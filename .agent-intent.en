@@ -1,1 +1,1 @@
-In the Claude Code English coach script, rename the key used by DeepSeek. It's currently named carher, which will conflict with other things. Rename it, and update the Codex one accordingly too.
+Never mind that — just keep track of how the model is executing.
