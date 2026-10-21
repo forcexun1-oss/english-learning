@@ -22251,3 +22251,4 @@
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
+- 2026-10-21 09:43 — "搞错" here maps naturally to "get ... wrong" (or "mix up"); "参数" = parameters/arguments — keep whichever matches the code context.
