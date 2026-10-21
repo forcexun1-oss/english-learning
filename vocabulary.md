@@ -22313,3 +22313,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 15:54 — 「量化过的版本」→ "quantized version"; the past participle "quantized" works as an adjective before the noun, so no "that has been" is needed.
