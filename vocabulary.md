@@ -22308,3 +22308,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 15:51 — Use "4-bit" as an adjective before a noun, e.g. "the 4-bit version"; for size questions, "how big/large" is natural.
