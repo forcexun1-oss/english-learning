@@ -22158,6 +22158,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 07:07 — "直接" here maps to "directly" or the softer "just" (as in "just open it") — using "just" alone often sounds more natural in casual instructions.
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
@@ -22242,3 +22243,6 @@
 - 2026-10-21 09:37 — "试试看效果" translates naturally as "try them out" / "see how they perform" rather than a literal "try see the effect".
 - 2026-10-21 09:37 — For a model's 最大规格, 'maximum size' is natural; 'specification' is broader and less specific.
 - 2026-10-21 09:39 — The sentence-ending particle is 吧 (suggestion/soft request), not 把 — 把 is a preposition meaning 'take/handle'.
+=======
+- 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
+>>>>>>> Stashed changes
