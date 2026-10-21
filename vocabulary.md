@@ -22318,3 +22318,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 16:02 — "之前不是有个环境了吗" is a rhetorical confirmation — English often renders it as "Didn't we already have...?" rather than a literal statement.
