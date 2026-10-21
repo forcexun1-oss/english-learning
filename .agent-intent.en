@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Go ahead and continue.
-=======
-How do I view the acceptance items?
->>>>>>> Stashed changes
-=======
-How do I view the acceptance items?
->>>>>>> Stashed changes
+How is the time consumption distributed across the overall pipeline now? Is it mainly the LLM latency?
