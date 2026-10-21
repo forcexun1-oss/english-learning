@@ -22239,3 +22239,4 @@
 =======
 - 2026-10-21 07:07 — Chinese often drops the object ("验收的"); in English, name it explicitly — e.g., "the acceptance items" or "what needs my sign-off" — instead of leaving "view" without an object.
 >>>>>>> Stashed changes
+- 2026-10-21 09:37 — "试试看效果" translates naturally as "try them out" / "see how they perform" rather than a literal "try see the effect".
