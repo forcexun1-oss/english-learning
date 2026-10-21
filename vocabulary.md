@@ -22274,3 +22274,4 @@
 - 2026-10-21 10:27 — "咋回事" maps naturally to "what's going on" or "what's the matter"; "怎么这样" is often best rendered as "why is it acting/behaving like this" rather than a literal "why so".
 - 2026-10-21 10:39 — In English, "first" as a sequencing adverb usually goes at the start ("First, check...") or end ("...check it first") rather than right after the verb phrase; also "for the LLM input" reads more naturally than the stacked noun phrase "LLM input prefix cache".
 - 2026-10-21 10:43 — "Official model" vs. "converted model" — use "our own" rather than "ourselves" before a noun; "自己转的" = "our own converted/self-converted".
+- 2026-10-21 10:45 — "一次性" here means "in one go / in a single pass" (not "one-time"); "搞清楚" → "figure out / get clear on".
