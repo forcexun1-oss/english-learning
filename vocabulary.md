@@ -22282,3 +22282,4 @@
 - 2026-10-21 11:08 — When asking about quantization level, say "what precision was it quantized to?" rather than "quantized to how much".
 - 2026-10-21 11:12 — Chinese 干嘛去了 implies someone left to do something, so "go off to do X" captures it naturally; "What's he up to?" is another casual option.
 - 2026-10-21 11:18 — Chinese often doubles the pronoun (给什么给他); in English pick one object: "give it" / "send it", not "give what to it to it".
+- 2026-10-21 11:21 — You wrote 改干什么 but meant 该干什么 ("what one should do"); 改 means "to change/modify".
