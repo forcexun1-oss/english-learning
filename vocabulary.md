@@ -22305,6 +22305,7 @@
 - 2026-10-21 15:49 — Use "Let's + verb" for a casual suggestion (the Chinese 吧 softens it into a proposal), and "4-bit" keeps the hyphen when used as an adjective before a noun.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 15:50 — Use "the Qwen one" to refer to a named version or product; "Qwen's" means belonging to Qwen.
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
@@ -22314,3 +22315,6 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 15:54 — 「量化过的版本」→ "quantized version"; the past participle "quantized" works as an adjective before the noun, so no "that has been" is needed.
+=======
+- 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
+>>>>>>> Stashed changes
