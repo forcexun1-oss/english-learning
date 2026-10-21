@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-It should be fine—running it directly works.
-=======
-What version of the TTS did we download?
->>>>>>> Stashed changes
-=======
-What version of the TTS did we download?
->>>>>>> Stashed changes
+It should be fine — running it directly works. The CARHER_PROD_KEY in your shell is a different value (35 characters). How do I fix this issue?

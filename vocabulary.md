@@ -22351,3 +22351,4 @@
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
+- 2026-10-21 16:31 — Use “How do I fix...?” for “要怎么修...?”; “should be fine” naturally renders “应该没问题”.
