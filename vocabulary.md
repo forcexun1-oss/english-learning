@@ -22283,3 +22283,4 @@
 - 2026-10-21 11:12 — Chinese 干嘛去了 implies someone left to do something, so "go off to do X" captures it naturally; "What's he up to?" is another casual option.
 - 2026-10-21 11:18 — Chinese often doubles the pronoun (给什么给他); in English pick one object: "give it" / "send it", not "give what to it to it".
 - 2026-10-21 11:21 — You wrote 改干什么 but meant 该干什么 ("what one should do"); 改 means "to change/modify".
+- 2026-10-21 11:32 — Your original said "没有让你现在文档的长度" — the verb 限制 was dropped, so it reads as "didn't let you the document's length." Say "没有限制文档的长度" = "I'm not limiting/capping the document length."
