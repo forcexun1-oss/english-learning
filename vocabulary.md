@@ -22284,3 +22284,4 @@
 - 2026-10-21 11:18 — Chinese often doubles the pronoun (给什么给他); in English pick one object: "give it" / "send it", not "give what to it to it".
 - 2026-10-21 11:21 — You wrote 改干什么 but meant 该干什么 ("what one should do"); 改 means "to change/modify".
 - 2026-10-21 11:32 — Your original said "没有让你现在文档的长度" — the verb 限制 was dropped, so it reads as "didn't let you the document's length." Say "没有限制文档的长度" = "I'm not limiting/capping the document length."
+- 2026-10-21 11:35 — 「不是…是…」用 "It's not that…, it's that…" 更自然；「在哪个工程下执行」这里不是提问，所以用 "under that same project"，别用 "which project"。
