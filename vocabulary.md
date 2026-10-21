@@ -22307,6 +22307,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 15:50 — Use "the Qwen one" to refer to a named version or product; "Qwen's" means belonging to Qwen.
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
@@ -22324,3 +22325,6 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 16:06 — In English, use "specifically for" (not "specially for") to mean 专门为; "specially" usually means 特意/特别地 in other senses.
+=======
+- 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
+>>>>>>> Stashed changes
