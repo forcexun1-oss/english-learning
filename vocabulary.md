@@ -22273,3 +22273,4 @@
 - 2026-10-21 10:18 — 「写死」= hardcoded; asking "can it be made configurable" is more specific than "can it be changed".
 - 2026-10-21 10:27 — "咋回事" maps naturally to "what's going on" or "what's the matter"; "怎么这样" is often best rendered as "why is it acting/behaving like this" rather than a literal "why so".
 - 2026-10-21 10:39 — In English, "first" as a sequencing adverb usually goes at the start ("First, check...") or end ("...check it first") rather than right after the verb phrase; also "for the LLM input" reads more naturally than the stacked noun phrase "LLM input prefix cache".
+- 2026-10-21 10:43 — "Official model" vs. "converted model" — use "our own" rather than "ourselves" before a noun; "自己转的" = "our own converted/self-converted".
