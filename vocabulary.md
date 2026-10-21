@@ -22296,3 +22296,4 @@
 - 2026-10-21 11:51 — "让他读" uses the causative pattern "have him read" (not "let him read", which implies permission); "单独再读" here means "read it on its own / as a separate step".
 - 2026-10-21 11:52 — You wrote 把 at the end, but the confirmation particle is 吧 (ba) — 把 is a different word (preposition/measure word). In English, tag questions like "..., right?" or "..., did they?" carry that same "confirming" tone.
 - 2026-10-21 11:53 — "和……一样" is "the same as …"; "对方" here is best rendered as "the other party" (or just "him"), since "opponent" would sound confrontational.
+- 2026-10-21 11:54 — In casual Chinese, "动" before a file/object means "touch or modify"; "…没有" at the end forms a yes/no question, best rendered in English as "Have you … yet?" or "Did you … or not?".
