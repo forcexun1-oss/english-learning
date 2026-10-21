@@ -22268,3 +22268,4 @@
 - 2026-10-21 09:50 — 「再看看」here means "have another look" or "look again" — 再 = again/once more, not "then".
 - 2026-10-21 09:51 — 你配错了把 — the sentence-final particle should be 吧 (suggestion/confirmation), not 把; 吧 here works like English "..., right?" or "..., didn't you?"
 - 2026-10-21 10:09 — Use 'must have + past participle' for strong guesses about what already happened (e.g., 'You must have misconfigured it'), rather than 'it's probably your config that's wrong'.
+- 2026-10-21 10:15 — Use "four 640x640 images" rather than "4 images of 640x640"; also, "how many input tokens are needed" is more natural than "need how many input tokens."
