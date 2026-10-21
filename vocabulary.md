@@ -22303,3 +22303,4 @@
 - 2026-10-21 15:41 — Use "how much memory does each take" instead of a literal translation of "占多少内存"; "available" pairs naturally with "what versions are...".
 - 2026-10-21 15:45 — The sentence-final 吧 works like a tag question in English, so render it as "..., right?" or "..., isn't it?" rather than dropping it — and note 把 here is a typo for 吧.
 - 2026-10-21 15:49 — Use "Let's + verb" for a casual suggestion (the Chinese 吧 softens it into a proposal), and "4-bit" keeps the hyphen when used as an adjective before a noun.
+- 2026-10-21 15:50 — Use "the Qwen one" to refer to a named version or product; "Qwen's" means belonging to Qwen.
