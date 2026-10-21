@@ -22277,3 +22277,4 @@
 - 2026-10-21 10:45 — "一次性" here means "in one go / in a single pass" (not "one-time"); "搞清楚" → "figure out / get clear on".
 - 2026-10-21 10:50 — "派某人去干嘛" maps to "send someone off to do something" or the simpler "assign someone to do something"; "干嘛去了" here is a purpose question, not a greeting.
 - 2026-10-21 10:54 — “把” should be “吧” here; use “reliably supports” instead of “stably supports” for feature behavior.
+- 2026-10-21 10:54 — For questions, use 'Which backend does bonsai use...' rather than 'bonsai uses which backend...'.
