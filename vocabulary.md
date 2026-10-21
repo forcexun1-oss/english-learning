@@ -22370,3 +22370,4 @@
 - 2026-10-21 17:16 — "性能上呢" is a short follow-up; English keeps it equally brief as "What about performance?" Add "-wise" ("performance-wise") only in casual speech — it's informal.
 - 2026-10-21 17:18 — In English questions, put the verb first: "Is the one on the board the 4-bit version?" — Chinese "...上的是4bit的?" has no verb, so add "Is" at the front.
 - 2026-10-21 17:22 — In English questions the preposition usually stays with its verb at the end ("exported at"), and the file path reads more naturally after the verb than at the start of the sentence.
+- 2026-10-21 17:28 — 「怎么做」in a technical context is often better rendered as "how do we implement/build X" rather than the vaguer "how do we do X"; also, 输入 as data is usually "input data" (uncountable) rather than "inputs".
