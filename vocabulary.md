@@ -22310,6 +22310,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-21 15:50 — Use "the Qwen one" to refer to a named version or product; "Qwen's" means belonging to Qwen.
 =======
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
@@ -22338,3 +22339,6 @@
 - 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
 >>>>>>> Stashed changes
 - 2026-10-21 16:25 — Use "don't run anything" (or "don't execute anything") rather than "but not execute", since a negative imperative needs "don't" after "but"; also "check the logs" is more natural than "go look at the logs" in engineering contexts.
+=======
+- 2026-10-21 15:50 — In English, don't end a question with a comma; use a question mark instead.
+>>>>>>> Stashed changes
