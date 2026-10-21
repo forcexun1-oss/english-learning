@@ -22289,3 +22289,4 @@
 - 2026-10-21 11:39 — Use "on another machine" (preposition "on" for machines/devices), and "你看…做什么" is rhetorical — render it as "Why are you looking at…?" rather than "What are you looking at this for?"
 - 2026-10-21 11:43 — "够了" = "is enough"; use the pattern "Is it enough if I ...?" or "Will just giving him that document be enough?"
 - 2026-10-21 11:45 — For "他要什么都…", use "whatever he needs" (not "whatever he wants all"); add "all" after "should" to capture the "都" emphasis.
+- 2026-10-21 11:45 — "从0开始" is idiomatic as "start from scratch" (or "start over"), not literally "start from 0".
