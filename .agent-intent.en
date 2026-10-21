@@ -1,17 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-You configured it wrong, didn't you?
-=======
-=======
->>>>>>> Stashed changes
-<task-notification>
-<task-id>b1dq9cupz</task-id>
-<tool-use-id>toolu_01PQJ3BpRmUqLYqzNyhxmE2</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/bdbf1417-4d34-4d19-8979-21d485f5dd5d/tasks/b1dq9cupz.output</output-file>
-<status>completed</status>
-<summary>Background command "E=/Users/youxun/project/edgeAgent-r208/docs/proposals/evidence/latency-chain-r208; wc -c &lt; $E/OUTBOX.md &gt; $E/.outbox-seen-01a15c24-8735-74c2-9d89-5c0b173657ff; ~/.claude/bin/codex-watch.sh 86638 01a15c24-8735-74c2-9d89-5c0b173657ff $E 1500 900 2&gt;&amp;1 | tail -8" completed (exit code 0)</summary>
-</task-notification>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+Why aren't they calling tools anymore? You must have misconfigured something — it wasn't like this just now.
