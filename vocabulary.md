@@ -22279,3 +22279,4 @@
 - 2026-10-21 10:54 — “把” should be “吧” here; use “reliably supports” instead of “stably supports” for feature behavior.
 - 2026-10-21 10:54 — For questions, use 'Which backend does bonsai use...' rather than 'bonsai uses which backend...'.
 - 2026-10-21 10:56 — "Send someone off to do something" is the natural collocation; "干嘛去了" here means "what did you send her to work on", not literally "where did she go".
+- 2026-10-21 11:08 — When asking about quantization level, say "what precision was it quantized to?" rather than "quantized to how much".
