@@ -22372,3 +22372,4 @@
 - 2026-10-21 17:22 — In English questions the preposition usually stays with its verb at the end ("exported at"), and the file path reads more naturally after the verb than at the start of the sentence.
 - 2026-10-21 17:28 — 「怎么做」in a technical context is often better rendered as "how do we implement/build X" rather than the vaguer "how do we do X"; also, 输入 as data is usually "input data" (uncountable) rather than "inputs".
 - 2026-10-21 17:34 — Use "whether" (not "how") when the question is if something is true — "a conclusion on whether the new model gets a discount"; "yet" carries the 了吗 sense of "has it happened so far".
+- 2026-10-21 18:18 — "啥情况" is casual Chinese for "what's the status/situation" — in English use "What's the status?" or "What's going on now?" rather than a literal "what situation".
