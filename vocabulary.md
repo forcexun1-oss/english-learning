@@ -22455,3 +22455,4 @@
 - 2026-10-22 15:04 — English yes/no questions need an auxiliary: "Can these two run together?" rather than "These two can run together?" — and "run together" / "run at the same time" both work for concurrent execution.
 - 2026-10-22 15:04 — Use the comparative form "faster" when comparing two options; "哪个快" literally translates as "which is fast," but English naturally says "which is faster."
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
+- 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
