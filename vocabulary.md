@@ -22467,3 +22467,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 16:12 — "峰值内存" is "peak memory (usage)"; for 接近 + 数值/状态 in a time clause, use "when ... approaches 2048".
