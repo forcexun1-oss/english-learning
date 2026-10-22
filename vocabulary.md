@@ -22410,3 +22410,4 @@
 - 2026-10-22 10:26 — "突出" here means to make something stand out — use "highlight" or "call out", not "project".
 - 2026-10-22 10:28 — "Have someone do something" takes a bare infinitive (have him verify, not "have him to verify"); the dash cleanly separates the two instructions.
 - 2026-10-22 10:32 — "要给的东西" is more natural as "things to be handed over/delivered" in a work context.
+- 2026-10-22 10:34 — 让他做某事 = 'have him do something' (causative 'have' + bare infinitive); avoid 'let him', which means 'allow' rather than 'instruct'.
