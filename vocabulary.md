@@ -22654,3 +22654,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:20 — You wrote 以外 ("besides/other than") but meant 意外 ("accidental/unexpected"); the fixed phrase is 意外重启了.
