@@ -22549,3 +22549,4 @@
 - 2026-10-22 19:31 — Use "keep downloading" or "continue the download" for 接着下; "switch/swap the model" is natural for 把模型换了.
 - 2026-10-22 19:38 — For size or scale, "How big is ...?" sounds more natural than "How large is ...?" in casual technical chat.
 - 2026-10-22 19:39 — "算了" here means "let's just / might as well" — use "just" to convey that resigned, simplest-option tone.
+- 2026-10-22 19:46 — "怎么感觉…呢" is best rendered as "why does it feel like…"; note that English puts the comparison phrase after the adjective: "faster before the switch than now," not "than now fast."
