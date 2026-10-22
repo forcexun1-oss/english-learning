@@ -22395,3 +22395,4 @@
 - 2026-10-22 08:30 — Use the present perfect "Has ... finished?" for an action whose completion you're checking; "先" here is best rendered as "for now".
 - 2026-10-22 08:31 — For 也 ("also"), put "too" at the end of the sentence or "also" before the verb — e.g., "also stop the inspection" — rather than placing it after the verb as in Chinese.
 - 2026-10-22 08:32 — For "都没跑" with a plural subject, English prefers "none of the tasks ran" (not "all the tasks didn't run").
+- 2026-10-22 09:22 — In this context 查 means 'investigate/look into', not just 'check'; 吧 here softens the instruction into a suggestion, which English renders with a plain imperative like 'keep investigating'.
