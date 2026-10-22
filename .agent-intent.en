@@ -1,2 +1,1 @@
-Did you hardcode it on the server side when you were testing?
-Try sending a request to the server directly.
+It's not just outputting the thinking — it spits out one token and then stops, which means the output is capped at 1 token.
