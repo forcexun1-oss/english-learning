@@ -22540,3 +22540,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 19:19 — In English, "again" goes after the verb — "Try again", not "Again try"; add "it" ("Try it again") when referring to a specific action like generating an image.
