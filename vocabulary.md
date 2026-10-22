@@ -22433,3 +22433,4 @@
 - 2026-10-22 13:38 — Use 'explicit setting/configuration issue' rather than 'explicit problem' when referring to configuration.
 - 2026-10-22 13:38 — Use "this link/chain" for 链路, but in software contexts "pipeline" or "flow" sounds more natural in English.
 - 2026-10-22 13:39 — For emphasis with 'be', put the adverb after the verb: 'it really is 1' / 'it is indeed 1' — not 'it indeed is 1'.
+- 2026-10-22 13:39 — The pattern 「就是……就停了」 conveys "it just did X and then stopped" — English uses "just" for emphasis plus "and then" for the sequence, rather than translating 就是 literally as "is exactly".
