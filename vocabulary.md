@@ -22669,3 +22669,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:27 — "参考" is better rendered as "draw on" or "look at" than "refer" here; "真人感" = "feel like real people / have a human feel," not "a real-person feeling."
