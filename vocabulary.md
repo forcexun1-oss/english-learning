@@ -22408,3 +22408,4 @@
 - 2026-10-22 10:17 — Use "have someone do something" for delegating: "I'll have him do it" — not "I let him to do it."
 - 2026-10-22 10:25 — '先别动手' means 'hold off for now' — literally 'don't move your hands', i.e. don't take action yet. 'Don't do anything yet' or 'hold off for now' both sound natural.
 - 2026-10-22 10:26 — "突出" here means to make something stand out — use "highlight" or "call out", not "project".
+- 2026-10-22 10:28 — "Have someone do something" takes a bare infinitive (have him verify, not "have him to verify"); the dash cleanly separates the two instructions.
