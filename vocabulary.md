@@ -22424,3 +22424,4 @@
 - 2026-10-22 11:48 — 「卡」in the sense of stalling/hanging is 'stuck' or 'hung up'; 'Why did you get stuck here?' is also fine, but the simple present 'Why are you stuck here?' sounds more natural in the moment.
 - 2026-10-22 11:51 — Use “get someone to + verb” to mean “cause/prompt someone to do something”; “in principle” is more natural than “by reason” for 按道理.
 - 2026-10-22 11:52 — "继续" is a bare imperative in Chinese; in English, "Continue." or "Go ahead." works alone, but adding "Please" ("Please continue.") sounds more polite when instructing a tool or colleague.
+- 2026-10-22 13:05 — "本机" = "this machine" / "the local machine"; for status checks, "How are ... going?" or "What's the status of ...?" both sound natural.
