@@ -22441,3 +22441,4 @@
 - 2026-10-22 14:13 — "开了" (turned on/enabled) maps naturally to "enabled" or "turned on" in a question like this — use present perfect "has been enabled" or simple "is MTP enabled now?"
 - 2026-10-22 14:18 — Use "Does ... provide ...?" for yes/no questions; keep "Q6" as the model quantization label.
 - 2026-10-22 14:21 — In this context, “镜像地址” is naturally translated as “mirror URL” or “mirror address”; use “for China” rather than “China's.”
+- 2026-10-22 14:22 — Use "include" (or "come with") for whether a package/model ships a feature; "again" goes at the end of the question.
