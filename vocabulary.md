@@ -22404,3 +22404,4 @@
 - 2026-10-22 10:09 — Use "Did you switch...?" for a completed change; "推理引擎" is "inference engine".
 - 2026-10-22 10:09 — Don't translate 你有病啊 literally as "Do you have an illness?" — English speakers use "What's wrong with you?" or "Are you out of your mind?" to express this kind of exasperation.
 - 2026-10-22 10:10 — In English, 'convert' needs an object: say 'convert it' rather than just 'convert'. Also, 'isn't right' sounds more natural than 'is not correct' in casual dev talk.
+- 2026-10-22 10:16 — "生效" = "take effect" / "be in effect"; use "verify" or "prove" + "that" clause for 证明...是...的.
