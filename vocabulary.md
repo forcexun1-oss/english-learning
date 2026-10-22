@@ -22620,3 +22620,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 22:21 — Use "Take a look at..." for 你看看; "reference" works as a verb here, but "use as a reference" is clearer.
