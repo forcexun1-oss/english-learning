@@ -22560,3 +22560,4 @@
 >>>>>>> Stashed changes
 - 2026-10-22 20:15 — 「对比测试」translates naturally as "comparison test" or "side-by-side test"; "对比" as a verb is "compare", not "contrast" here.
 - 2026-10-22 20:24 — Use "Why is there..." for asking about the cause of a problem.
+- 2026-10-22 20:28 — "挂了" is colloquial for "crashed" or "is down"; "again" naturally goes at the end.
