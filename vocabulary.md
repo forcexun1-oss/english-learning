@@ -22438,3 +22438,4 @@
 - 2026-10-22 13:44 — "说明" here works best as "which means/indicating"; use "capped at" or "limited to" for 被限制在.
 - 2026-10-22 13:49 — "改到很大" means "change it to a very large value" — use "set/change it to" with a value, not "change to very big".
 - 2026-10-22 13:56 — In casual speech, "That was fast" is more natural than "Very fast" on its own; "KV cache" is usually used with "a" or as an uncountable technical noun.
+- 2026-10-22 14:13 — "开了" (turned on/enabled) maps naturally to "enabled" or "turned on" in a question like this — use present perfect "has been enabled" or simple "is MTP enabled now?"
