@@ -22413,3 +22413,4 @@
 - 2026-10-22 10:34 — 让他做某事 = 'have him do something' (causative 'have' + bare infinitive); avoid 'let him', which means 'allow' rather than 'instruct'.
 - 2026-10-22 10:35 — 「被动过了」is a passive in Chinese; in English use the passive voice or an indefinite subject: "it has been modified" / "someone has modified it." Note "补文档" here means "add to/update the document," not "write a separate one" — say "just add to the doc on its own" if you mean appending.
 - 2026-10-22 10:47 — Your message had a typo: 改清理 should be 该清理 ("should be cleaned"), since 该 means "ought to". In English, use a dash or semicolon to join the permission and the instruction: "...can be deleted — clean up...".
+- 2026-10-22 10:50 — “开始干吧” is naturally rendered as “Go ahead and start” or “Let’s get started”; avoid literal “start doing it.”
