@@ -22454,3 +22454,4 @@
 - 2026-10-22 14:59 — Use "Why hasn't ... yet?" with the present perfect to ask why something expected still hasn't happened.
 - 2026-10-22 15:04 — English yes/no questions need an auxiliary: "Can these two run together?" rather than "These two can run together?" — and "run together" / "run at the same time" both work for concurrent execution.
 - 2026-10-22 15:04 — Use the comparative form "faster" when comparing two options; "哪个快" literally translates as "which is fast," but English naturally says "which is faster."
+- 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
