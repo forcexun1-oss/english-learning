@@ -22552,3 +22552,4 @@
 - 2026-10-22 19:46 — "怎么感觉…呢" is best rendered as "why does it feel like…"; note that English puts the comparison phrase after the adjective: "faster before the switch than now," not "than now fast."
 - 2026-10-22 19:53 — "不说明问题" means "doesn't prove anything / isn't conclusive," not "doesn't explain the problem."
 - 2026-10-22 19:58 — "还有…的空间" maps naturally to "is there any room to…"; avoid the literal "space to adjust" — use "room to tune/adjust".
+- 2026-10-22 20:09 — In English, use the verb phrase "finish downloading" rather than treating "download" as a noun here; "Is the download done?" also works.
