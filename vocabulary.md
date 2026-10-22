@@ -22496,3 +22496,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 17:02 — "Thinking depth" is fine as a technical noun phrase, but in English it often reads more naturally with an article or as a setting name: "support a thinking-depth setting" / "support configurable thinking depth".
+- 2026-10-22 17:06 — Use "disable" or "turn off" for 关闭 in technical contexts; "close" is not natural here.

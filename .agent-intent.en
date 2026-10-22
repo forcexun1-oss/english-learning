@@ -1,1 +1,1 @@
-Does our current qwen3.6 35B support thinking depth? How are we passing this parameter? Does it actually work?
+Why does reasoning_effort=minimal disable thinking?
