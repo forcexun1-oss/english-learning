@@ -22535,3 +22535,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 19:17 — In English, "try and see if..." (or "try to see if...") splits the two ideas; use "now" (not "already") for the sense of 可以…了吗.
