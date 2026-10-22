@@ -3,7 +3,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Let's get the decision quality solid first — it's fine to simulate with a local model for now. I just installed kapitsa and local models run blazing fast here; currently it's qwen3.6 35B. You can hit it with cache hits and see whether we get the results we want. Turning off thinking should make it fast — but don't worry about speed for now, just get the quality right.
+=======
+How's the download going?
+>>>>>>> Stashed changes
 =======
 How's the download going?
 >>>>>>> Stashed changes
