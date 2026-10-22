@@ -22447,3 +22447,4 @@
 - 2026-10-22 14:28 — Use "prepend" (or "add ... at the front") for 前面要加; "走的代码" here means "still going through the code path", not literally "walking the code".
 - 2026-10-22 14:32 — "接下来" translates naturally as "next"; use "What should we do next?" rather than the fragment "What to do next?", which has no subject or auxiliary verb.
 - 2026-10-22 14:36 — Use a semicolon to link two related instructions; "dispatch" fits sending out a task better than "send".
+- 2026-10-22 14:44 — "镜像" = mirror here; "是不是…没有" is a yes/no guess, so English often uses "is it that…" or "maybe…isn't available" rather than a literal "is it not have".
