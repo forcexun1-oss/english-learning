@@ -22486,6 +22486,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22633,3 +22634,6 @@
 - 2026-10-22 22:27 — The sentence-final 啊 adds a tone of mild insistence or surprise; in English this is often carried by a tag question like "don't they?" or a phrase like "you know" rather than a literal word.
 - 2026-10-22 22:30 — "Continue" works on its own as an instruction; "Go on" or "Keep going" are more casual alternatives.
 - 2026-10-22 22:31 — 硬接 = "force the integration / force it to work"; use "force" with a noun object rather than translating 接 literally as "connect".
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
