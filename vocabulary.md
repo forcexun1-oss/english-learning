@@ -22420,3 +22420,4 @@
 - 2026-10-22 11:33 — "How come...?" is informal; "Why is one 'k' missing?" is clearer and more natural here.
 - 2026-10-22 11:33 — 「再改大」means 'make it bigger again'; in English just say 'make it bigger' — adding 'again' isn't needed since the change is implied by context.
 - 2026-10-22 11:34 — In English, technical nouns like "KV cache" need an article or plural marker — say "the KV cache", not just "KV". For yes/no questions, invert the verb: "Is ... quantized?" rather than "KV has quantization?"
+- 2026-10-22 11:36 — For a completed state, use "set up" as the past participle: "Is it set up?" — not "Did you set up?" unless you name the object ("Did you set up the config?").
