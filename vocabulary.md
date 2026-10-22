@@ -22394,3 +22394,4 @@
 - 2026-10-22 08:23 — 授权 can mean "authorize" or "grant permission"; adding an object like "it" makes the instruction clearer.
 - 2026-10-22 08:30 — Use the present perfect "Has ... finished?" for an action whose completion you're checking; "先" here is best rendered as "for now".
 - 2026-10-22 08:31 — For 也 ("also"), put "too" at the end of the sentence or "also" before the verb — e.g., "also stop the inspection" — rather than placing it after the verb as in Chinese.
+- 2026-10-22 08:32 — For "都没跑" with a plural subject, English prefers "none of the tasks ran" (not "all the tasks didn't run").
