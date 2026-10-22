@@ -22402,3 +22402,4 @@
 - 2026-10-22 09:51 — "派出去" in a work context is best rendered as "delegate (them)" or "hand (them) off"; the phrase "太费token" becomes "it burns/uses too many tokens".
 - 2026-10-22 09:58 — 了 here marks a completed/current state, naturally rendered with "already"; 啊 adds mild emphasis and can be softened with "though" or dropped in English.
 - 2026-10-22 10:09 — Use "Did you switch...?" for a completed change; "推理引擎" is "inference engine".
+- 2026-10-22 10:09 — Don't translate 你有病啊 literally as "Do you have an illness?" — English speakers use "What's wrong with you?" or "Are you out of your mind?" to express this kind of exasperation.
