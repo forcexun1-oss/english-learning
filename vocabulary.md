@@ -22415,3 +22415,4 @@
 - 2026-10-22 10:47 — Your message had a typo: 改清理 should be 该清理 ("should be cleaned"), since 该 means "ought to". In English, use a dash or semicolon to join the permission and the instruction: "...can be deleted — clean up...".
 - 2026-10-22 10:50 — “开始干吧” is naturally rendered as “Go ahead and start” or “Let’s get started”; avoid literal “start doing it.”
 - 2026-10-22 10:56 — Use the present perfect "Have you dispatched… yet?" for an action expected to be done by now; "前面的任务" = "the earlier/previous task".
+- 2026-10-22 10:57 — "规范" here means "spec/specification"; "派出去" can be translated as "delegate" in a work-assignment context.
