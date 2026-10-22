@@ -22571,3 +22571,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 21:16 — Use "full-screen" as an adjective before a noun, and "full screen" as a noun phrase.
