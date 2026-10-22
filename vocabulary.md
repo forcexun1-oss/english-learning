@@ -22562,3 +22562,4 @@
 - 2026-10-22 20:24 — Use "Why is there..." for asking about the cause of a problem.
 - 2026-10-22 20:28 — "挂了" is colloquial for "crashed" or "is down"; "again" naturally goes at the end.
 - 2026-10-22 20:37 — Use "permanent" for 永久 and "just hide it" instead of the literal "not display."
+- 2026-10-22 20:40 — “无法找回” can be translated as “cannot be recovered” or, more naturally in a question, “Is there no way to get it back?”
