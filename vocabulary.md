@@ -22625,3 +22625,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 22:25 — 你写的「又害处」应为「有害处」(there is harm) — 有 (to have) vs 又 (again/also); also "downside" is the natural English word for 害处 in this context.
