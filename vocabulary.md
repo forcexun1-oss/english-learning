@@ -22461,3 +22461,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 15:47 — Use “doesn't seem to be + -ing” for “好像没在……”; avoid translating 哦 literally.
