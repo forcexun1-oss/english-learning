@@ -22417,3 +22417,4 @@
 - 2026-10-22 10:56 — Use the present perfect "Have you dispatched… yet?" for an action expected to be done by now; "前面的任务" = "the earlier/previous task".
 - 2026-10-22 10:57 — "规范" here means "spec/specification"; "派出去" can be translated as "delegate" in a work-assignment context.
 - 2026-10-22 11:24 — 「把服务启动起来」uses 起来 to stress the resulting state, which English captures with "get the service started" rather than just "start the service".
+- 2026-10-22 11:33 — "How come...?" is informal; "Why is one 'k' missing?" is clearer and more natural here.
