@@ -22400,3 +22400,4 @@
 - 2026-10-22 09:33 — "话说" works like "By the way" as a casual opener; in negative sentences use "either" (not "too") for "也": "You didn't give them another machine either."
 - 2026-10-22 09:38 — "拉git" doesn't translate literally — use "clone/pull the repo"; "跑一下...给我" becomes "run ... for me".
 - 2026-10-22 09:51 — "派出去" in a work context is best rendered as "delegate (them)" or "hand (them) off"; the phrase "太费token" becomes "it burns/uses too many tokens".
+- 2026-10-22 09:58 — 了 here marks a completed/current state, naturally rendered with "already"; 啊 adds mild emphasis and can be softened with "though" or dropped in English.
