@@ -22455,6 +22455,7 @@
 - 2026-10-22 15:04 — English yes/no questions need an auxiliary: "Can these two run together?" rather than "These two can run together?" — and "run together" / "run at the same time" both work for concurrent execution.
 - 2026-10-22 15:04 — Use the comparative form "faster" when comparing two options; "哪个快" literally translates as "which is fast," but English naturally says "which is faster."
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22463,3 +22464,6 @@
 >>>>>>> Stashed changes
 - 2026-10-22 15:47 — Use “doesn't seem to be + -ing” for “好像没在……”; avoid translating 哦 literally.
 - 2026-10-22 15:48 — "Aren't you...?" is the natural negative question form for surprise; use "it" for a process/session, "him" only for a person.
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
