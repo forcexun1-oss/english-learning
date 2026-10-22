@@ -22453,3 +22453,4 @@
 - 2026-10-22 14:57 — "好了" here softens a decision into "just go ahead / that's fine then"; "用 X 下载" = "download using X", so "using ModelScope" (no article needed for a proper name).
 - 2026-10-22 14:59 — Use "Why hasn't ... yet?" with the present perfect to ask why something expected still hasn't happened.
 - 2026-10-22 15:04 — English yes/no questions need an auxiliary: "Can these two run together?" rather than "These two can run together?" — and "run together" / "run at the same time" both work for concurrent execution.
+- 2026-10-22 15:04 — Use the comparative form "faster" when comparing two options; "哪个快" literally translates as "which is fast," but English naturally says "which is faster."
