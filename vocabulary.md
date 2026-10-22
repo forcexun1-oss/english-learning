@@ -22499,3 +22499,4 @@
 - 2026-10-22 17:06 — Use "disable" or "turn off" for 关闭 in technical contexts; "close" is not natural here.
 - 2026-10-22 17:07 — “生效” is best rendered as “take effect” — e.g. “Did it take effect?” rather than “Is it effective?” which sounds like a general quality judgement.
 - 2026-10-22 17:08 — "通过…控制" translates naturally as "control ... through/via ..."; no article is needed before "thinking budget" when it's used as a parameter concept.
+- 2026-10-22 17:10 — 预填充 in LLM inference = "prefill" (or "prompt prefill"); 支持 + noun → "support + noun", e.g., "Does this model support prefill?"
