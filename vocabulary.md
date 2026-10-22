@@ -22774,3 +22774,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 06:47 — '卡死' as 'stuck' works well; note 'per the user's instruction' / 'as instructed by the user' both read naturally, and use 'verifying each item against...' rather than 'check item by item against...' for smoother flow.
