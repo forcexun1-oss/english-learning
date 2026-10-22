@@ -1,1 +1,1 @@
-I mean the result of my tool call — can I feed it to the model chunk by chunk, generating the KV cache without starting decode?
+Do the OpenAI and Anthropic protocols support this?

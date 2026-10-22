@@ -22501,3 +22501,4 @@
 - 2026-10-22 17:08 — "通过…控制" translates naturally as "control ... through/via ..."; no article is needed before "thinking budget" when it's used as a parameter concept.
 - 2026-10-22 17:10 — 预填充 in LLM inference = "prefill" (or "prompt prefill"); 支持 + noun → "support + noun", e.g., "Does this model support prefill?"
 - 2026-10-22 17:15 — Use "chunk by chunk" or "in chunks" for 一段一段地; after "without" use a gerund or bare noun ("without starting decode"), not "without start".
+- 2026-10-22 17:16 — Use "Do ... protocols support" (plural subject) rather than "is there"; note the spelling is "Anthropic".
