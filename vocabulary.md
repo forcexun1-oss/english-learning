@@ -22640,3 +22640,4 @@
 - 2026-10-22 22:38 — The sentence-final 吧 softens a suggestion; in English use a hedge like "I feel" or "I think" instead. Also, "the most important thing is ... design" reads better than "the most important is the design".
 - 2026-10-22 22:39 — The sentence-final "吧" here asks for confirmation, so use "right?" rather than translating it literally.
 - 2026-10-22 22:39 — "Discuss" is transitive — say "discuss this / discuss the design", never "discuss about it" (unlike 关于...讨论). Also, "I'd like to" sounds slightly more polite than "I want to" in a work chat.
+- 2026-10-22 22:39 — 「派任务」= dispatch/assign tasks; 「先不要…」= "don't … for now" or "hold off on … for now".
