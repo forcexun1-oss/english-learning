@@ -22445,3 +22445,4 @@
 - 2026-10-22 14:23 — Use "mirror" (or "mirror site") for 镜像地址; "download one" is fine since "one" refers back to the model/quant version just discussed.
 - 2026-10-22 14:24 — "咋样了" is casual — "How's it going?" or "Any progress?" both work; a literal "How is it?" sounds odd when asking about task status.
 - 2026-10-22 14:28 — Use "prepend" (or "add ... at the front") for 前面要加; "走的代码" here means "still going through the code path", not literally "walking the code".
+- 2026-10-22 14:32 — "接下来" translates naturally as "next"; use "What should we do next?" rather than the fragment "What to do next?", which has no subject or auxiliary verb.
