@@ -22426,3 +22426,4 @@
 - 2026-10-22 11:52 — "继续" is a bare imperative in Chinese; in English, "Continue." or "Go ahead." works alone, but adding "Please" ("Please continue.") sounds more polite when instructing a tool or colleague.
 - 2026-10-22 13:05 — "本机" = "this machine" / "the local machine"; for status checks, "How are ... going?" or "What's the status of ...?" both sound natural.
 - 2026-10-22 13:07 — "快干吧" is a nudge to start working — "get on with it" or "get going" captures that urgency better than a literal "do it quickly."
+- 2026-10-22 13:16 — "Copy it back locally" (adverb) is more natural than "copy back to local"; also, "this one that's running" needs a subject-linker — "the one that's running" reads more smoothly.
