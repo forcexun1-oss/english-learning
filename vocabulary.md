@@ -22659,3 +22659,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:24 — For 中等复杂, say "moderately complex" (not "medium complex"); when comparing a design or mechanic, "like in Hades" sounds more natural than just "like Hades".
