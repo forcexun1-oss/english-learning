@@ -22590,3 +22590,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 22:09 — "还有多少" maps naturally to "how many ... are left" — use "left" or "remaining" rather than a literal "still have how many".
