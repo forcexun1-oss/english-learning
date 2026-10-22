@@ -22664,3 +22664,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:25 — Chinese "按我们说的来" maps naturally to "follow what we discussed" or "go the way we discussed" — not a literal "come according to what we said". Also, "skilldes" looks like a typo for "skills" or "skill design".
