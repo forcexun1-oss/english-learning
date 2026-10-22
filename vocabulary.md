@@ -22710,3 +22710,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 00:00 — "把效果调出来" means "tune it until the results are good" — avoid a literal "tune out the effect," which means something different in English.
+- 2026-10-23 00:03 — 「先用本地模型来模拟都行」→ "it's fine to simulate with a local model for now"; 「慢先不管」→ "don't worry about speed for now" (not "ignore slow first").
