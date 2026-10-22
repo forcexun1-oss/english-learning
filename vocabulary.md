@@ -22601,3 +22601,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 22:11 — Use 它 (not 他) for objects; in English, refer to an app as "it".
+- 2026-10-22 22:12 — In an embedded question, use "whether + subject + verb" (whether they are usable), not the question order "are they usable".
