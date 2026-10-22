@@ -22704,3 +22704,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 23:54 — 「写资料」looks like a typo for 「些资料」(some materials); 收集资料 = "collect/gather materials", and 看看人家是怎么做的 = "see how others do it".
+- 2026-10-22 23:54 — Use “take + time” for duration: “Does kev take 0.8 seconds?”; “有点慢” naturally becomes “a bit slow.”
