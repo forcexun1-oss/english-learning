@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does kev take 0.8 seconds? That's a bit slow.
-=======
-How's the download going?
->>>>>>> Stashed changes
+First, make the decision quality solid. It's fine to simulate it with a local model for now. I just installed kapitsa — running models locally is blazing fast. It's currently qwen3.6 35B. You can call it using cache hits to see whether it achieves the desired results. With thinking disabled it should be fast; or don't worry about speed for now — just get the results right.
