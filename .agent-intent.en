@@ -1,1 +1,2 @@
-It just output one thought and then stopped.
+Did you hardcode it on the server side when you were testing?
+Try sending a request to the server directly.

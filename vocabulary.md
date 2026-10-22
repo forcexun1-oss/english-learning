@@ -22434,3 +22434,4 @@
 - 2026-10-22 13:38 — Use "this link/chain" for 链路, but in software contexts "pipeline" or "flow" sounds more natural in English.
 - 2026-10-22 13:39 — For emphasis with 'be', put the adverb after the verb: 'it really is 1' / 'it is indeed 1' — not 'it indeed is 1'.
 - 2026-10-22 13:39 — The pattern 「就是……就停了」 conveys "it just did X and then stopped" — English uses "just" for emphasis plus "and then" for the sequence, rather than translating 就是 literally as "is exactly".
+- 2026-10-22 13:41 — 「写死了」= hardcode (verb) / hardcoded (adjective) — never "write dead". Also, "separately request the server" sounds unnatural in English; say "send a request to the server directly" or "test the server on its own".
