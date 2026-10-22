@@ -22508,3 +22508,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 17:35 — "Drop-in" is often shorthand for "drop-in replacement"—something that can replace another part without changes.
+- 2026-10-22 17:36 — "跑完" (finish running) works as a time clause: use "once/after ... finish running" rather than a literal "you these run完" — English needs an explicit subject like "these" plus the verb "finish".
