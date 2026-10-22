@@ -22697,3 +22697,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:51 — 想办法 = "figure out a way" (or "find a way"); 试试 = "give it a try" — combining them as "figure out a way and give it a try" also works, while a literal "think method try" does not.
