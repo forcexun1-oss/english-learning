@@ -22638,3 +22638,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 22:38 — The sentence-final 吧 softens a suggestion; in English use a hedge like "I feel" or "I think" instead. Also, "the most important thing is ... design" reads better than "the most important is the design".
+- 2026-10-22 22:39 — The sentence-final "吧" here asks for confirmation, so use "right?" rather than translating it literally.
