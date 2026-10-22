@@ -22585,3 +22585,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 22:08 — The particle 呗 adds a casual "then, I suppose / may as well" tone — English conveys this with "just" or a trailing "then," not with a separate word.
