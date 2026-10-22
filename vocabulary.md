@@ -22443,3 +22443,4 @@
 - 2026-10-22 14:21 — In this context, “镜像地址” is naturally translated as “mirror URL” or “mirror address”; use “for China” rather than “China's.”
 - 2026-10-22 14:22 — Use "include" (or "come with") for whether a package/model ships a feature; "again" goes at the end of the question.
 - 2026-10-22 14:23 — Use "mirror" (or "mirror site") for 镜像地址; "download one" is fine since "one" refers back to the model/quant version just discussed.
+- 2026-10-22 14:24 — "咋样了" is casual — "How's it going?" or "Any progress?" both work; a literal "How is it?" sounds odd when asking about task status.
