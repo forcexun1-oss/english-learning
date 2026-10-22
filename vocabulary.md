@@ -22679,3 +22679,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:28 — In English, '写完后' becomes a clause introduced by 'after' or 'once' ("after Luna finishes writing"), not a standalone '-ed' phrase; use 'have X do Y' for '让/派某人做某事'.
