@@ -22419,3 +22419,4 @@
 - 2026-10-22 11:24 — 「把服务启动起来」uses 起来 to stress the resulting state, which English captures with "get the service started" rather than just "start the service".
 - 2026-10-22 11:33 — "How come...?" is informal; "Why is one 'k' missing?" is clearer and more natural here.
 - 2026-10-22 11:33 — 「再改大」means 'make it bigger again'; in English just say 'make it bigger' — adding 'again' isn't needed since the change is implied by context.
+- 2026-10-22 11:34 — In English, technical nouns like "KV cache" need an article or plural marker — say "the KV cache", not just "KV". For yes/no questions, invert the verb: "Is ... quantized?" rather than "KV has quantization?"
