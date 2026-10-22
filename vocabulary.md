@@ -22450,3 +22450,4 @@
 - 2026-10-22 14:44 — "镜像" = mirror here; "是不是…没有" is a yes/no guess, so English often uses "is it that…" or "maybe…isn't available" rather than a literal "is it not have".
 - 2026-10-22 14:46 — Use "Also, ..." or "Besides that, ..." to render 而且 at the start of a follow-up question; "the one you downloaded" sounds more natural than "this that you downloaded".
 - 2026-10-22 14:52 — "特制的" translates naturally as "custom-made" or "custom-built"; use "they/them" for an unspecified party rather than "he".
+- 2026-10-22 14:57 — "好了" here softens a decision into "just go ahead / that's fine then"; "用 X 下载" = "download using X", so "using ModelScope" (no article needed for a proper name).
