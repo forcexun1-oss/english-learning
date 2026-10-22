@@ -22403,3 +22403,4 @@
 - 2026-10-22 09:58 — 了 here marks a completed/current state, naturally rendered with "already"; 啊 adds mild emphasis and can be softened with "though" or dropped in English.
 - 2026-10-22 10:09 — Use "Did you switch...?" for a completed change; "推理引擎" is "inference engine".
 - 2026-10-22 10:09 — Don't translate 你有病啊 literally as "Do you have an illness?" — English speakers use "What's wrong with you?" or "Are you out of your mind?" to express this kind of exasperation.
+- 2026-10-22 10:10 — In English, 'convert' needs an object: say 'convert it' rather than just 'convert'. Also, 'isn't right' sounds more natural than 'is not correct' in casual dev talk.
