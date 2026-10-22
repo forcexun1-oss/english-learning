@@ -22411,3 +22411,4 @@
 - 2026-10-22 10:28 — "Have someone do something" takes a bare infinitive (have him verify, not "have him to verify"); the dash cleanly separates the two instructions.
 - 2026-10-22 10:32 — "要给的东西" is more natural as "things to be handed over/delivered" in a work context.
 - 2026-10-22 10:34 — 让他做某事 = 'have him do something' (causative 'have' + bare infinitive); avoid 'let him', which means 'allow' rather than 'instruct'.
+- 2026-10-22 10:35 — 「被动过了」is a passive in Chinese; in English use the passive voice or an indefinite subject: "it has been modified" / "someone has modified it." Note "补文档" here means "add to/update the document," not "write a separate one" — say "just add to the doc on its own" if you mean appending.
