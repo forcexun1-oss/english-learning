@@ -22576,3 +22576,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 21:17 — "同时" here means "also/besides" rather than "at the same time" — use "Also," to add a second request. "使用完会删除吧" is a tag question, so end with "...will they be deleted after use?"
