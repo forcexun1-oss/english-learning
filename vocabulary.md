@@ -22692,3 +22692,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 23:50 — "咋样了" is casual for "how is it going / what's the status" — "How's the UI coming along?" or "What's the status of the UI?" both sound natural.
