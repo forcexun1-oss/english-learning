@@ -22546,3 +22546,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 19:28 — Use "Has ... finished?" for an action still in progress; "Is the download done?" is more informal.
+- 2026-10-22 19:31 — Use "keep downloading" or "continue the download" for 接着下; "switch/swap the model" is natural for 把模型换了.
