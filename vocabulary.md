@@ -22425,3 +22425,4 @@
 - 2026-10-22 11:51 — Use “get someone to + verb” to mean “cause/prompt someone to do something”; “in principle” is more natural than “by reason” for 按道理.
 - 2026-10-22 11:52 — "继续" is a bare imperative in Chinese; in English, "Continue." or "Go ahead." works alone, but adding "Please" ("Please continue.") sounds more polite when instructing a tool or colleague.
 - 2026-10-22 13:05 — "本机" = "this machine" / "the local machine"; for status checks, "How are ... going?" or "What's the status of ...?" both sound natural.
+- 2026-10-22 13:07 — "快干吧" is a nudge to start working — "get on with it" or "get going" captures that urgency better than a literal "do it quickly."
