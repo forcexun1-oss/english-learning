@@ -22765,3 +22765,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 05:47 — Use 'a subagent with model=opus' rather than 'a model=opus subagent' for clarity, and 'check its screenshots and report before reporting back' — repeating 'report' twice is awkward but acceptable in instructions.
