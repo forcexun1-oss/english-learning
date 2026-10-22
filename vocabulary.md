@@ -22530,3 +22530,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 19:11 — For restarting paused tasks, "resume" is more precise than "continue"; "continue all tasks" is understandable but "resume" signals picking up after a stop.
