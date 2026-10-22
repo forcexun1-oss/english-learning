@@ -22392,3 +22392,4 @@
 - 2026-10-21 23:00 — 还是 + verb in this context means "after all, just..." — in English, phrases like "go ahead and" or "just" capture that tone better than a literal "still".
 - 2026-10-22 08:22 — In English, include the subject and verb: “Where is it?” rather than just “Where?” when asking about a specific thing.
 - 2026-10-22 08:23 — 授权 can mean "authorize" or "grant permission"; adding an object like "it" makes the instruction clearer.
+- 2026-10-22 08:30 — Use the present perfect "Has ... finished?" for an action whose completion you're checking; "先" here is best rendered as "for now".
