@@ -22632,3 +22632,4 @@
 >>>>>>> Stashed changes
 - 2026-10-22 22:27 — The sentence-final 啊 adds a tone of mild insistence or surprise; in English this is often carried by a tag question like "don't they?" or a phrase like "you know" rather than a literal word.
 - 2026-10-22 22:30 — "Continue" works on its own as an instruction; "Go on" or "Keep going" are more casual alternatives.
+- 2026-10-22 22:31 — 硬接 = "force the integration / force it to work"; use "force" with a noun object rather than translating 接 literally as "connect".
