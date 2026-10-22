@@ -22437,3 +22437,4 @@
 - 2026-10-22 13:41 — 「写死了」= hardcode (verb) / hardcoded (adjective) — never "write dead". Also, "separately request the server" sounds unnatural in English; say "send a request to the server directly" or "test the server on its own".
 - 2026-10-22 13:44 — "说明" here works best as "which means/indicating"; use "capped at" or "limited to" for 被限制在.
 - 2026-10-22 13:49 — "改到很大" means "change it to a very large value" — use "set/change it to" with a value, not "change to very big".
+- 2026-10-22 13:56 — In casual speech, "That was fast" is more natural than "Very fast" on its own; "KV cache" is usually used with "a" or as an uncountable technical noun.
