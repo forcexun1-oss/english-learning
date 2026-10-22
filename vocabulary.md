@@ -22429,3 +22429,4 @@
 - 2026-10-22 13:16 — "Copy it back locally" (adverb) is more natural than "copy back to local"; also, "this one that's running" needs a subject-linker — "the one that's running" reads more smoothly.
 - 2026-10-22 13:19 — "come to match" is awkward — just say "match" or "are the same"
 - 2026-10-22 13:30 — "又卡哪里了" translates naturally as "Where are you stuck this time/again?" — "again" or "this time" captures the 又 better than "also".
+- 2026-10-22 13:33 — Use “which setting did I miss changing?” rather than “where did I not change it?” for a more natural question about a configuration value.
