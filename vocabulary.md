@@ -22631,3 +22631,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-22 22:27 — The sentence-final 啊 adds a tone of mild insistence or surprise; in English this is often carried by a tag question like "don't they?" or a phrase like "you know" rather than a literal word.
+- 2026-10-22 22:30 — "Continue" works on its own as an instruction; "Go on" or "Keep going" are more casual alternatives.
