@@ -22431,3 +22431,4 @@
 - 2026-10-22 13:30 — "又卡哪里了" translates naturally as "Where are you stuck this time/again?" — "again" or "this time" captures the 又 better than "also".
 - 2026-10-22 13:33 — Use “which setting did I miss changing?” rather than “where did I not change it?” for a more natural question about a configuration value.
 - 2026-10-22 13:38 — Use 'explicit setting/configuration issue' rather than 'explicit problem' when referring to configuration.
+- 2026-10-22 13:38 — Use "this link/chain" for 链路, but in software contexts "pipeline" or "flow" sounds more natural in English.
