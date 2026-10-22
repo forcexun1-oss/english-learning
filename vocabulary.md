@@ -22553,3 +22553,4 @@
 - 2026-10-22 19:53 — "不说明问题" means "doesn't prove anything / isn't conclusive," not "doesn't explain the problem."
 - 2026-10-22 19:58 — "还有…的空间" maps naturally to "is there any room to…"; avoid the literal "space to adjust" — use "room to tune/adjust".
 - 2026-10-22 20:09 — In English, use the verb phrase "finish downloading" rather than treating "download" as a noun here; "Is the download done?" also works.
+- 2026-10-22 20:09 — “开一下” in the sense of switching a feature on is best rendered as “turn on” (or “re-enable” if it was on before) rather than “open”.
