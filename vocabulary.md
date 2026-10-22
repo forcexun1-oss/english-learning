@@ -22485,3 +22485,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-22 16:27 — Chinese yes/no questions ending in 吗 need an inverted auxiliary in English (Is it...? / Are we...?), not just statement word order. Here 转…出来 is best rendered as 'produce' or 'generate' rather than the literal 'turn out'.
