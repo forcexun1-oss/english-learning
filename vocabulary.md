@@ -22418,3 +22418,4 @@
 - 2026-10-22 10:57 — "规范" here means "spec/specification"; "派出去" can be translated as "delegate" in a work-assignment context.
 - 2026-10-22 11:24 — 「把服务启动起来」uses 起来 to stress the resulting state, which English captures with "get the service started" rather than just "start the service".
 - 2026-10-22 11:33 — "How come...?" is informal; "Why is one 'k' missing?" is clearer and more natural here.
+- 2026-10-22 11:33 — 「再改大」means 'make it bigger again'; in English just say 'make it bigger' — adding 'again' isn't needed since the change is implied by context.
