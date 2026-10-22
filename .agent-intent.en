@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-How's the local task going?
-=======
-How's the download going?
->>>>>>> Stashed changes
+Does our current qwen3.6 35B support thinking depth? How are we passing this parameter? Does it actually work?
