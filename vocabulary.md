@@ -22497,3 +22497,4 @@
 >>>>>>> Stashed changes
 - 2026-10-22 17:02 — "Thinking depth" is fine as a technical noun phrase, but in English it often reads more naturally with an article or as a setting name: "support a thinking-depth setting" / "support configurable thinking depth".
 - 2026-10-22 17:06 — Use "disable" or "turn off" for 关闭 in technical contexts; "close" is not natural here.
+- 2026-10-22 17:07 — “生效” is best rendered as “take effect” — e.g. “Did it take effect?” rather than “Is it effective?” which sounds like a general quality judgement.
