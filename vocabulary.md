@@ -22743,3 +22743,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 03:18 — Use 'the agent that is running' or 'the running agents' rather than 'in-flight agent' in casual technical writing; 'in-flight' is fine but sounds like aviation/API jargon. Also note 'check ... whether the process is alive' — keep the 'whether' after 'check' to avoid a Chinese-style bare clause.
