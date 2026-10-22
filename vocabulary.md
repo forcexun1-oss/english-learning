@@ -22399,3 +22399,4 @@
 - 2026-10-22 09:28 — Use "nothing you need to ask me" rather than "no need to ask me" when it's the condition for continuing; "keep going" is the natural way to say 继续 (keep moving forward).
 - 2026-10-22 09:33 — "话说" works like "By the way" as a casual opener; in negative sentences use "either" (not "too") for "也": "You didn't give them another machine either."
 - 2026-10-22 09:38 — "拉git" doesn't translate literally — use "clone/pull the repo"; "跑一下...给我" becomes "run ... for me".
+- 2026-10-22 09:51 — "派出去" in a work context is best rendered as "delegate (them)" or "hand (them) off"; the phrase "太费token" becomes "it burns/uses too many tokens".
