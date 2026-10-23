@@ -23000,3 +23000,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:40 — Use "whatever you're missing" for "你缺什么"; "don't ask for anything you already have" is more natural than repeating "again".
