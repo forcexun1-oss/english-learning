@@ -1,1 +1,1 @@
-What precision is kapitsa currently using for its KV cache? Can it be switched to fp8 or int8, and which is better?
+Does the generated content still need prefill? Isn't the KV already there during generation?
