@@ -1,1 +1,1 @@
-Are you fucking guessing?
+Take a look—my first turn got an instant reply, but the second turn was slower instead. Is that because I sent less thinking, which caused the KV cache to be recomputed? Check the logs; if there aren't any, add logging, and then I'll ask you to take another look.
