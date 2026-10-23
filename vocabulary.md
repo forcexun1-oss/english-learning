@@ -22821,3 +22821,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 09:55 — Note the typo: 次 (cì, 'time/occurrence') vs. 词 (cí, 'word'). Also, 'key words' (重点词, separate words) differs from 'keywords' (关键词, technical search terms) — pick based on meaning.
