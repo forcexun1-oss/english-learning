@@ -23508,3 +23508,4 @@
 - 2026-10-24 00:14 — The Chinese particle should be 吧, not 把; in English, use tag questions like 'right?' or 'isn't it?' to confirm.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:17 — Use 'need to be included/read' for passive meaning, or 'need to read them' when the actors do the reading.
