@@ -22553,6 +22553,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22980,3 +22981,6 @@
 - 2026-10-23 15:22 — Use "Isn't ... already ...?" for a surprised confirmation question; keep technical nouns like prefill and KV unchanged.
 - 2026-10-23 15:25 — "重转" = "re-convert"; use "Can't we just...?" for a natural suggestion/question, and keep "config" as-is.
 - 2026-10-23 15:25 — "配置" as a noun needs an article or modifier in English — say "a config option" or "a configuration setting" rather than bare "config" when asking whether something exists.
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
