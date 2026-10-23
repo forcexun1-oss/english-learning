@@ -1,1 +1,1 @@
-What precision is kapitsa currently using for KV? Can it be changed to fp8 or int8, and which is better?
+What precision is kapitsa currently using for its KV cache? Can it be switched to fp8 or int8, and which is better?
