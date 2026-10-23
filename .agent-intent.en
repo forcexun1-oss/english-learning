@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Externally, the style is designed through prompts — though toggles are also an option; this design can be discussed further. Internally, I think we could later use voice control, but it would still send a message to the LLM. Buttons would work too, but it would still be a decision made by the LLM or the decision model, not something hard-coded.
-=======
-If there are 20 items, can it be done within 1.5 hours?
->>>>>>> Stashed changes
-=======
-If there are 20 items, can it be done within 1.5 hours?
->>>>>>> Stashed changes
+Combat could be split into phases, which would give the fight more rhythm. Also, when switching phases we can bring in the large model, so there's plenty of time to formulate strategy. Of course, skills could also include things like holds/roots — giving the boss's minions time to think, or letting them think while they're immobilized; these are all very human-like behaviors. And every design should pay attention to one thing: pacing.
