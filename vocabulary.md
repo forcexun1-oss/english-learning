@@ -22855,3 +22855,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 11:09 — Use 'without streaming' or 'if we don't use streaming'; 'don't use streaming' is clearer than 'not use streaming'.
+- 2026-10-23 11:13 — Use 'start so slowly' (adverb) rather than 'start so slow'; use 'enable' for turning on a feature.
