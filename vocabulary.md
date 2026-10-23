@@ -23624,3 +23624,4 @@
 - 2026-10-24 02:18 — In English, avoid pairing "speed" with "faster" (redundant); either ask "Is it faster now?" or "Has the speed improved?"
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 02:21 — 先...吧 = "let's ... for now"; 断电 is "power off / cut the power" (power-cycle would be 重启/重新上电).
