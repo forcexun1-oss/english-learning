@@ -23508,6 +23508,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23582,3 +23583,5 @@
 >>>>>>> Stashed changes
 - 2026-10-24 00:53 — "就剩…了" maps naturally to "only … is left" — keep "only" before the noun and put "left" after it ("only T8 is left", not "is left only T8").
 - 2026-10-24 00:54 — "What ... for?" is a natural, slightly informal way to ask "why?"; note that macOS "Keychain" is written as one word.
+=======
+>>>>>>> Stashed changes
