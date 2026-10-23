@@ -1,1 +1,1 @@
-Go ahead and send it out — doesn't C2 need a try too? Or is it that the other machine doesn't have it installed? Just get the job done as required.
+Let's just change the translation then — merge the three features into one, and use the LLM for the phonetics too. We can look up the dictionary entries and pass them in as context, that way we can get up to 1024.
