@@ -22939,3 +22939,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 14:30 — Use 'like that' for something already shown; 'get the model to...' is a natural way to say 'make the model...'.
+- 2026-10-23 14:35 — "咋样了" is casual for "How are things going?"; when asking about a task's progress, "What's the status?" or "Any progress?" sounds more precise.
