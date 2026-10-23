@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["板子上没有工作要做吗"]
+=======
+["他要多久,要不要等他做完", "我们这边要多久,要不要等我们这边搞完,统一告诉他怎么做", "先在要做的事情,给我一段话,我告诉他", "<task-notification>\n<task-id>bs64211rg</task-id>\n<tool-use-id>toolu_bdrk_0114jCVWbgn1hu4xxhH7zMX2</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/624a9db1-a252-415a-b1ce-390842b7f176/tasks/bs64211rg.output</output-file>\n<status>completed</status>\n<summary>Background command \"Rearm outbox watcher\" completed (exit code 0)</summary>\n</task-notification>", "任务都做完了吗", "已经发了", "那派啊等啥呢", "咋样了", "那能说明官方模型用的是什么精度的kv吗", "int4 KV效果有变差吗", "通常量化到什么版本,是没有损失的", "看看,试试", "为什么还要重转啊,不能直接改配置控制吗", "有必要做int8吗?,现在还有哪些要对方做都罗列一下,后面再弄就烦了,最好是弄完,我就能决策用不用我们新转出的模型", "我的意思是还有什么需要对方做的,你怎么还有要执行了才知道要对方做的事情", "int8也做好了,你让再做一份或者几份,后面不要在问他要了,产物也让他都放到一个文件夹下面去,别再漏了", "你缺什么让他给什么,有了的就别再要了,文件太大,拷贝也是问题", "都让他做,int8我没有说有了,我说要做,重新把整个话,再整理一下,我发给他", "20条效果是不是太差了", "20条的话1:30小时内能做完吗"]
+>>>>>>> Stashed changes
 =======
 ["他要多久,要不要等他做完", "我们这边要多久,要不要等我们这边搞完,统一告诉他怎么做", "先在要做的事情,给我一段话,我告诉他", "<task-notification>\n<task-id>bs64211rg</task-id>\n<tool-use-id>toolu_bdrk_0114jCVWbgn1hu4xxhH7zMX2</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/624a9db1-a252-415a-b1ce-390842b7f176/tasks/bs64211rg.output</output-file>\n<status>completed</status>\n<summary>Background command \"Rearm outbox watcher\" completed (exit code 0)</summary>\n</task-notification>", "任务都做完了吗", "已经发了", "那派啊等啥呢", "咋样了", "那能说明官方模型用的是什么精度的kv吗", "int4 KV效果有变差吗", "通常量化到什么版本,是没有损失的", "看看,试试", "为什么还要重转啊,不能直接改配置控制吗", "有必要做int8吗?,现在还有哪些要对方做都罗列一下,后面再弄就烦了,最好是弄完,我就能决策用不用我们新转出的模型", "我的意思是还有什么需要对方做的,你怎么还有要执行了才知道要对方做的事情", "int8也做好了,你让再做一份或者几份,后面不要在问他要了,产物也让他都放到一个文件夹下面去,别再漏了", "你缺什么让他给什么,有了的就别再要了,文件太大,拷贝也是问题", "都让他做,int8我没有说有了,我说要做,重新把整个话,再整理一下,我发给他", "20条效果是不是太差了", "20条的话1:30小时内能做完吗"]
 >>>>>>> Stashed changes
