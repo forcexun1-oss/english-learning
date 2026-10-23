@@ -22984,3 +22984,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:28 — The particle 呗 is casual and urging, similar to 'go on' or 'then'; in English, a dash or an imperative like 'go ahead and check' captures that tone rather than translating it literally.
