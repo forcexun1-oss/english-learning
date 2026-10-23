@@ -23034,6 +23034,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
@@ -23115,3 +23116,6 @@
 - 2026-10-23 17:41 — Use “make” or “build” for hardware; “do” is too general here.
 - 2026-10-23 17:41 — 「之前一直是好的」uses 一直 (continuously) with 是…的; in English, "it had been working fine" (past perfect) better conveys "up until now it was fine" than a simple past.
 - 2026-10-23 17:42 — Use "made for / built for" to render 为…做的; "显卡" is naturally "GPU" or "graphics card" in English.
+=======
+- 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
+>>>>>>> Stashed changes
