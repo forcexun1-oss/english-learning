@@ -23524,6 +23524,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23635,5 +23636,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 02:33 — 啥情况 is casual; natural English is "What's going on?" or "What's the situation?" — not a literal "what situation".
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
