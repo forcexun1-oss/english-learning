@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-So what should we do next?
-=======
-How's the download going?
->>>>>>> Stashed changes
+How much context does translation need? Open another slot for it. Previously it was two requests, right? Change it to one request, bring all the information back, and try it. Don't change the code yet—open the slot first, make a separate request, and see how fast it is with a cache hit.

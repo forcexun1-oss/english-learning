@@ -22804,3 +22804,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 09:21 — Use 'it was two requests' (singular subject) or 'there were two requests'; '先不要改代码' is naturally 'don't change the code yet'.
