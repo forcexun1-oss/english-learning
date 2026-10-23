@@ -22828,3 +22828,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 10:27 — Here, “凑” means “pad out” or “bulk it up,” not “gather”; use “pad” when filling context to reach a token target.
+- 2026-10-23 10:27 — The sentence-ending particle 嘛 gives a casual "isn't it obvious / just do it" tone — English conveys this with "just" or a tag question ("...right?") rather than translating it directly.
