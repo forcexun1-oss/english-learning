@@ -23046,3 +23046,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 16:43 — Use the present perfect "I've restarted it" for an action just completed whose result matters now; simple past "I restarted it" is also fine but puts the focus on the past moment.
