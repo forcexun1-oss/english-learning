@@ -22836,3 +22836,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 10:34 — In a process context, 杀掉 means "kill" — e.g., "kill the process." Adding "just" captures the casual 吧 tone.
+- 2026-10-23 10:35 — "那么的" should be "那么多" (that many); in English use "so many warnings" rather than "how so many warning" — and "warning" needs the plural -s.
