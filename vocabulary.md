@@ -23656,3 +23656,4 @@
 - 2026-10-24 02:53 — "断电重启" translates naturally as the verb "power-cycle" (or "power cycle" as a noun); "试一下" becomes "try" — e.g. "Let me try power-cycling it" for a statement, or "Should I ...?" for a question.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 02:53 — Your message ran two words together — "看看起来了吗" should be split as "看看 起来了吗" (check whether it has come up). For a device booting up, natural English is "see if it's up" or "see if it has booted".
