@@ -23482,7 +23482,10 @@
 - 2026-10-23 23:51 — "In more detail" is the natural adverbial form; "more detailed" describes the thing itself (e.g., "a more detailed spec"). Also, "flag it explicitly" is a good idiom for "特别提出".
 - 2026-10-23 23:55 — 你打的“把”应为句末语气词“吧”(bɑ)，表确认/建议；“横着连”在英文里常说 link/connect horizontally，比 connect sideways 更自然。
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:01 — Use "needs my decision" or "requires a decision from me"; "decision" as a verb doesn't exist, so avoid "needs me to decision".
+=======
+>>>>>>> Stashed changes
