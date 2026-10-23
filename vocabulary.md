@@ -23485,6 +23485,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23495,5 +23496,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:06 — "search" needs a preposition or object: "search for that" or "look it up," not "search it." Also, "with many stars" sounds more natural as "with a lot of stars."
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
