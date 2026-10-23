@@ -22856,3 +22856,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 11:09 — Use 'without streaming' or 'if we don't use streaming'; 'don't use streaming' is clearer than 'not use streaming'.
 - 2026-10-23 11:13 — Use 'start so slowly' (adverb) rather than 'start so slow'; use 'enable' for turning on a feature.
+- 2026-10-23 11:15 — Use "when I was testing" or "during my testing" rather than a literal "when I tested"; "right next to" is the natural way to say 就在...旁边.
