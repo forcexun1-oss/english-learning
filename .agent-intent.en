@@ -1,1 +1,1 @@
-When dispatching tasks, if they can be run in parallel, send them out in parallel.
+When dispatching tasks, parallelize them wherever possible.
