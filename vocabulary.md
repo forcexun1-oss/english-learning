@@ -23005,3 +23005,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:43 — "Have him do it" (causative = make/ask someone to do it) is correct here, not "let him do it" (which means give permission). Also, "I said it needs to be done" is clearer than "I said to do".
