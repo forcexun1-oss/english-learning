@@ -23501,6 +23501,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23557,3 +23558,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:48 — "一直" maps to "keep ...ing" or "constantly"; for past states use "didn't use to" (not "didn't used to").
+=======
+>>>>>>> Stashed changes

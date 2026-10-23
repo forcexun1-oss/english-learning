@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Why does the fan keep running? It didn't use to run constantly before.
+=======
+The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
+>>>>>>> Stashed changes
