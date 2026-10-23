@@ -23042,6 +23042,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
@@ -23154,3 +23155,6 @@
 >>>>>>> Stashed changes
 - 2026-10-23 18:19 — Use "Do you want me to...?" for "要不要...?"; "what for" naturally asks the purpose.
 - 2026-10-23 18:19 — Use 'over 90 GB' instead of '90多个G' for clarity; 'G' is casual shorthand for gigabytes.
+=======
+- 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
+>>>>>>> Stashed changes
