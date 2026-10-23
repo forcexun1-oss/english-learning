@@ -1,17 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-There isn't much left to run, right? How much longer will it take?
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
+Should the 0.98 cosine threshold be demoted to a reference-only metric? What do you recommend we do?
+- Does int8 KV need the other side to rebuild (what's missing is the build cache, not support)? If it can't run, just skip it.
+- Should C-carcal be deployed to the board? Yes, put it on the board.

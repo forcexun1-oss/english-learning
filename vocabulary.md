@@ -23536,3 +23536,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:35 — 「就算瞭」= 「if it can't run, just skip it / drop it」 — not 「can't run then forget it」; 「上板」 = 「deploy/flash it to the board」.
