@@ -23512,3 +23512,4 @@
 - 2026-10-24 00:17 — Use 'need to be included/read' for passive meaning, or 'need to read them' when the actors do the reading.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:20 — Use "go with the default" for 按默认来, and refer to software as "it", not "he".

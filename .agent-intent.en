@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Equipment, items, monsters, skills, etc.—these design-related things need to be included; they're needed during design. Partner, actually all monster actors need to read them—they should all be able to read them.
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
+Go with the default; no need to distinguish between them. We can control it later so it doesn't read them, right?
