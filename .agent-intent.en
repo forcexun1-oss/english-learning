@@ -1,1 +1,1 @@
-Does the generated content still need prefill? Isn't the KV already there during generation?
+Why do we need to re-convert it? Can't we just change the config to control that?
