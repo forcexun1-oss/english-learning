@@ -23096,3 +23096,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 17:25 — In English questions, put the question mark at the end and start with a capitalized 'What' — Chinese word order 'X 是什么' becomes 'What is X?' in English.
