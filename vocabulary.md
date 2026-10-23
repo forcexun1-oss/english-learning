@@ -22830,3 +22830,4 @@
 - 2026-10-23 10:27 — Here, “凑” means “pad out” or “bulk it up,” not “gather”; use “pad” when filling context to reach a token target.
 - 2026-10-23 10:27 — The sentence-ending particle 嘛 gives a casual "isn't it obvious / just do it" tone — English conveys this with "just" or a tag question ("...right?") rather than translating it directly.
 - 2026-10-23 10:29 — Use "did" + base verb in questions (did ... start), not the past tense "started".
+- 2026-10-23 10:31 — For processes or services, say "two instances" rather than just "two" to be clear.
