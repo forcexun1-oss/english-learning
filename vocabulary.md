@@ -22868,3 +22868,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 11:31 — 「先在」is a typo for「现在」(now); also, 「我告诉他」reads more naturally as "I'll tell him" or "I'll pass it on to him" when relaying instructions.
