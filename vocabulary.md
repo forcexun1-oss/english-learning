@@ -22957,3 +22957,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 14:59 — Use "whether it's actually being reused" for "看看是复用了吗" when asking to verify a fact.
