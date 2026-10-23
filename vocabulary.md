@@ -23271,3 +23271,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 19:58 — For a UI on/off control, "toggle" or "switch" is more natural than a literal "switch" used as a verb; also, 强制 here means "enforced/mandatory", so "not hard-coded" or "not enforced" reads better than "not forced".
