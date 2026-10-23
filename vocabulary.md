@@ -23015,3 +23015,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
