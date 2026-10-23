@@ -22863,3 +22863,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 11:25 — “统一告诉他” means “tell him all at once” or “give him one consolidated set of instructions,” not “uniformly tell him.”
