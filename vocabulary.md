@@ -23493,3 +23493,4 @@
 - 2026-10-24 00:03 — In a development context, “好做” means “easy to implement,” not “good to do.”
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:06 — "search" needs a preposition or object: "search for that" or "look it up," not "search it." Also, "with many stars" sounds more natural as "with a lot of stars."
