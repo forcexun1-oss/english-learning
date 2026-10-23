@@ -23033,6 +23033,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
@@ -23108,3 +23109,6 @@
 >>>>>>> Stashed changes
 - 2026-10-23 17:32 — The particle “啊” adds a casual tone; English usually drops it in wh-questions.
 - 2026-10-23 17:34 — Use "Why does X keep + base verb?" (e.g., "Why does Codex keep reporting...?"), not "Why Codex is always reporting...?"
+=======
+- 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
+>>>>>>> Stashed changes
