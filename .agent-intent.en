@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Go with the default; no need to distinguish between them. We can control it later so it doesn't read them, right?
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
+Let's go ahead and add a 30-minute check-in anyway, to keep pushing the task forward — try not to stop. Unless something needs my confirmation: if I haven't confirmed yet, just go ahead with whatever you can and push as far forward as possible.
