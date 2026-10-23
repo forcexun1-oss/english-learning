@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-What is continues_best?
-=======
-If there are 20 items, can it be done within 1.5 hours?
->>>>>>> Stashed changes
+Modify the mac-assistant script to limit the disk cache to 10G.
