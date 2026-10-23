@@ -23620,3 +23620,4 @@
 - 2026-10-24 02:15 — In English questions the object comes right after 'which' + noun ("Which model..."), and the verb follows the subject without inversion of the main verb — so "Which model do you recommend?" rather than "Which model you recommend?"
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 02:18 — In English, avoid pairing "speed" with "faster" (redundant); either ask "Is it faster now?" or "Has the speed improved?"
