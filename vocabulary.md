@@ -23580,3 +23580,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:53 — "就剩…了" maps naturally to "only … is left" — keep "only" before the noun and put "left" after it ("only T8 is left", not "is left only T8").
