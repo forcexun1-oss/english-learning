@@ -23406,3 +23406,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 23:16 — "写死" = hard-code (not "write dead"); also note "let + object + bare verb" — "let them die", not "let them to die".
