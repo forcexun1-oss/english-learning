@@ -22530,6 +22530,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22859,3 +22860,6 @@
 - 2026-10-23 11:15 — Use "when I was testing" or "during my testing" rather than a literal "when I tested"; "right next to" is the natural way to say 就在...旁边.
 - 2026-10-23 11:22 — 「没有配…吗」is a negative question, which in English reads most naturally as "didn't it get configured with…?" or "isn't it configured with…?" — put the tag/auxiliary first rather than literally translating 没有.
 - 2026-10-23 11:23 — 要不要 literally means 'want or not,' but in questions like this it naturally translates to 'should we' or 'do we need to.'
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
