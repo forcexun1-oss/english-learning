@@ -23114,3 +23114,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 17:41 — Use “make” or “build” for hardware; “do” is too general here.
 - 2026-10-23 17:41 — 「之前一直是好的」uses 一直 (continuously) with 是…的; in English, "it had been working fine" (past perfect) better conveys "up until now it was fine" than a simple past.
+- 2026-10-23 17:42 — Use "made for / built for" to render 为…做的; "显卡" is naturally "GPU" or "graphics card" in English.
