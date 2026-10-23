@@ -23480,3 +23480,4 @@
 - 2026-10-23 23:48 — "开关" (feature toggle) is best rendered as "toggles" or "feature flags"; "你按合理的顺序来" sounds natural as "just go with a sensible order" rather than a literal "you follow the reasonable order."
 - 2026-10-23 23:50 — '讨价还价' → 'haggle/bargain over prices'; for 让商人听 use the passive 'be heard by merchants' rather than 'let merchants hear'.
 - 2026-10-23 23:51 — "In more detail" is the natural adverbial form; "more detailed" describes the thing itself (e.g., "a more detailed spec"). Also, "flag it explicitly" is a good idiom for "特别提出".
+- 2026-10-23 23:55 — 你打的“把”应为句末语气词“吧”(bɑ)，表确认/建议；“横着连”在英文里常说 link/connect horizontally，比 connect sideways 更自然。
