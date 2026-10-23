@@ -23497,6 +23497,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23539,6 +23540,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:35 — 「就算瞭」= 「if it can't run, just skip it / drop it」 — not 「can't run then forget it」; 「上板」 = 「deploy/flash it to the board」.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
