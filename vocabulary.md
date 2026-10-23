@@ -23056,3 +23056,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 16:52 — Place "too" at the end of the clause ("has this plugin too") rather than mid-sentence, and say "the same problem" when referring back to an issue just discussed.
