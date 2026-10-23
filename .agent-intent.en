@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Does int4 KV quantization degrade quality?
-=======
-How's the download going?
->>>>>>> Stashed changes
+What precision is it usually quantized to with no loss?

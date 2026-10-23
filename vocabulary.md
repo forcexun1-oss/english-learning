@@ -22965,3 +22965,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:09 — Use "What ... to?" for the target of quantization; "quantized to X" is the standard collocation, and "with no loss" replaces the literal "是没有损失的".
