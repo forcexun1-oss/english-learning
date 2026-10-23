@@ -23530,6 +23530,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23657,3 +23658,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 02:53 — Your message ran two words together — "看看起来了吗" should be split as "看看 起来了吗" (check whether it has come up). For a device booting up, natural English is "see if it's up" or "see if it has booted".
+=======
+>>>>>>> Stashed changes
