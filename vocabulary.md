@@ -22549,6 +22549,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22953,3 +22954,6 @@
 - 2026-10-23 14:42 — Use “written like that” instead of “is this” when referring to how a symbol is displayed.
 - 2026-10-23 14:43 — 本身 is best rendered as 'natively' or 'by itself' here; 'Doesn't it…?' is the natural way to ask a confirming negative question.
 - 2026-10-23 14:45 — After “check,” use “whether” for a yes/no clause; “misjudged” is a concise way to say “判断错” for a slot.
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
