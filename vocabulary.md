@@ -23517,3 +23517,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:22 — "还是…吧" is a soft suggestion meaning "let's just go ahead and…", so "Let's go ahead and add… anyway" captures it better than a literal "still add".
+- 2026-10-24 00:24 — Use "dispatch/send out" + "in parallel" for 并行派出去; "if they can be …, do …" keeps the conditional structure clean.
