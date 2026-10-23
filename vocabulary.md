@@ -22924,3 +22924,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 14:00 — 派 (dispatch/send out a task) works well as "dispatch" or "send it out"; "等啥呢" is colloquial for "what are we waiting for?" — keep the question form to preserve the impatient tone.
