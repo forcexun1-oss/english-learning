@@ -23019,6 +23019,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
@@ -23037,3 +23038,6 @@
 - 2026-10-23 16:23 — "带上" here means "include/carry along" → "include the reasoning" or "pass the reasoning along"; "是否确认这一点" is best phrased as a direct question: "can you confirm that?"
 - 2026-10-23 16:25 — 你TM is a crude intensifier — in English it goes before the verb ("are you fucking guessing"), not after the subject; drop it entirely in professional contexts.
 - 2026-10-23 16:32 — “秒回” means “an instant reply”; “反而” is naturally rendered as “instead” or “on the contrary.”
+=======
+- 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
+>>>>>>> Stashed changes
