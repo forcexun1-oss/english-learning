@@ -23476,3 +23476,4 @@
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
 - 2026-10-23 23:45 — You likely meant 可以吧 ("okay/sure"), not 可以把 — 把 is a preposition, not a sentence particle. "还有什么吗" is naturally "Anything else?"
+- 2026-10-23 23:48 — '激怒' works best as 'provoke' (or 'anger') here — 'provoke the boss' is tighter than 'make the boss angry'. Also, '后面就是发语音了' = 'later it'll be voice input', not 'later it is sending voice'.
