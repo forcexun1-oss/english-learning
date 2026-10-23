@@ -23626,3 +23626,4 @@
 >>>>>>> Stashed changes
 - 2026-10-24 02:21 — 先...吧 = "let's ... for now"; 断电 is "power off / cut the power" (power-cycle would be 重启/重新上电).
 - 2026-10-24 02:23 — "Why not + verb?" is a natural way to suggest or ask about an alternative; "Why don't we use C2?" is slightly softer and more conversational.
+- 2026-10-24 02:23 — The Chinese tag question "不是……吗" maps naturally to an English negative question: "Isn't C-carcal better?" rather than "Is C-carcal not better?"
