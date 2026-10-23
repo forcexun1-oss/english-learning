@@ -22799,3 +22799,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 09:08 — Use a semicolon or "and" to join two independent instructions; "don't start ... anymore" captures 不要启动了 more naturally than "don't start ...".
+- 2026-10-23 09:16 — "接下来" maps to "next" or "from here"; the sentence-final "呢" adds a soft, inquiring tone that English handles with word order ("So what...?") rather than an extra word.
