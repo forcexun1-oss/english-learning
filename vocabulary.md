@@ -22543,6 +22543,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22917,6 +22918,9 @@
 - 2026-10-23 13:03 — "跑了70万token" here means "used/consumed 700k tokens" — use "used" or "burned" rather than a literal "ran"; "怎么可能" translates naturally as "how could ... possibly".
 - 2026-10-23 13:08 — Use "What I want to see is..." to emphasize the object; it sounds more natural than literally translating "我想看到的是..." as "The thing I want to see is..."
 - 2026-10-23 13:23 — Use the plural "warnings" with "so many" (countable nouns), and "go fix them" is a natural casual imperative in English.
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
