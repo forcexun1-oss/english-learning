@@ -22858,3 +22858,4 @@
 - 2026-10-23 11:13 — Use 'start so slowly' (adverb) rather than 'start so slow'; use 'enable' for turning on a feature.
 - 2026-10-23 11:15 — Use "when I was testing" or "during my testing" rather than a literal "when I tested"; "right next to" is the natural way to say 就在...旁边.
 - 2026-10-23 11:22 — 「没有配…吗」is a negative question, which in English reads most naturally as "didn't it get configured with…?" or "isn't it configured with…?" — put the tag/auxiliary first rather than literally translating 没有.
+- 2026-10-23 11:23 — 要不要 literally means 'want or not,' but in questions like this it naturally translates to 'should we' or 'do we need to.'
