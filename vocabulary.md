@@ -22951,3 +22951,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 14:40 — Use 'add X to Y' for parameters; 'Can you ...?' is a natural way to request a feature.
 - 2026-10-23 14:42 — Use “written like that” instead of “is this” when referring to how a symbol is displayed.
+- 2026-10-23 14:43 — 本身 is best rendered as 'natively' or 'by itself' here; 'Doesn't it…?' is the natural way to ask a confirming negative question.
