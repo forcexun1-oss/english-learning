@@ -23479,3 +23479,4 @@
 - 2026-10-23 23:48 — '激怒' works best as 'provoke' (or 'anger') here — 'provoke the boss' is tighter than 'make the boss angry'. Also, '后面就是发语音了' = 'later it'll be voice input', not 'later it is sending voice'.
 - 2026-10-23 23:48 — "开关" (feature toggle) is best rendered as "toggles" or "feature flags"; "你按合理的顺序来" sounds natural as "just go with a sensible order" rather than a literal "you follow the reasonable order."
 - 2026-10-23 23:50 — '讨价还价' → 'haggle/bargain over prices'; for 让商人听 use the passive 'be heard by merchants' rather than 'let merchants hear'.
+- 2026-10-23 23:51 — "In more detail" is the natural adverbial form; "more detailed" describes the thing itself (e.g., "a more detailed spec"). Also, "flag it explicitly" is a good idiom for "特别提出".
