@@ -23237,3 +23237,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 19:00 — Use "How long will it take to..." to ask about the time needed to complete an action.
