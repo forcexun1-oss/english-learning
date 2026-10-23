@@ -23100,6 +23100,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-23 15:48 — A standalone 整个 is ambiguous in English; use "the whole thing" or "all of it" depending on what you mean.
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
@@ -23418,3 +23419,6 @@
 >>>>>>> Stashed changes
 - 2026-10-23 23:21 — "先不搞复杂了" is naturally rendered as "let's not overcomplicate it/things for now" — the 了 here signals a decided change of approach, which "for now" captures.
 - 2026-10-23 23:21 — The repeated pattern "死了就死了" translates naturally as "if they die, they die" (or "dead is dead") — English uses the same emphatic repetition here. Also, "下局" in a roguelite is best rendered as "next run" rather than "next round".
+=======
+- 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
+>>>>>>> Stashed changes
