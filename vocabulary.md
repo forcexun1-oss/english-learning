@@ -23489,6 +23489,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23513,3 +23514,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:20 — Use "go with the default" for 按默认来, and refer to software as "it", not "he".
+=======
+>>>>>>> Stashed changes
