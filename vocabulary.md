@@ -23243,3 +23243,4 @@
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
 - 2026-10-23 19:36 — 「继续」as a standalone instruction is simply "Continue." or "Go on."; use "Continue with..." when naming what to resume.
+- 2026-10-23 19:37 — Chinese often drops the subject, but English questions need one — add "I" or "we" (e.g. "What should we do next?"). "接下来" maps to "next", placed at the end of the question.
