@@ -23503,6 +23503,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23564,3 +23565,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:50 — You typed 把 (bǎ, a preposition) where you meant 吧 (ba), the sentence-final particle that turns a statement into a "right?" / "won't it?" check — in English that's a tag question ("..., right?" / "..., will it?").
+=======
+>>>>>>> Stashed changes
