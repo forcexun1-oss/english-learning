@@ -23660,3 +23660,4 @@
 - 2026-10-24 02:53 — Your message ran two words together — "看看起来了吗" should be split as "看看 起来了吗" (check whether it has come up). For a device booting up, natural English is "see if it's up" or "see if it has booted".
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 02:58 — The sentence-final 吧 here seeks confirmation, so use a tag like "right?" or "okay?" instead of translating it literally; also 都留着 → "keep them all" needs the plural object in English.
