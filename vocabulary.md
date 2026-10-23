@@ -23119,3 +23119,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 17:45 — 「那个没」means "not that one" — in English, negate with "not" + the noun ("not that one") rather than a standalone negative word after the noun.
