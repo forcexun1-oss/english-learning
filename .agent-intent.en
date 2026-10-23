@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 http://127.0.0.1:11435/v1/chat/completions: Connection Failed: Connect error: Connection refused (os error 61). Is the address for the translation request wrong?
+=======
+How's the download going?
+>>>>>>> Stashed changes
