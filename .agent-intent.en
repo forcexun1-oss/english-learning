@@ -1,1 +1,1 @@
-Then take a look — why exactly is that?
+Is it really necessary to do int8? Also, list out everything that still needs to be done on their side — it'll be a pain to deal with later, so it's best to just finish it all now, and then I can decide whether to use our newly converted model.
