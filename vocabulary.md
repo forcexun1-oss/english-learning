@@ -22944,3 +22944,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 14:37 — "说明" here means "indicate/show", so "Does that show..." or "Does that tell us..." works; "KV" is usually short for "KV cache" in this context.
