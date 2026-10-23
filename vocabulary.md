@@ -23427,3 +23427,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 23:24 — '叫X' is 'call it X' (no 'as'); and for '技术上要兼容' say 'the design needs to support both' — 'compatible' normally takes 'with', e.g. 'compatible with both approaches'.
