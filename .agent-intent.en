@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I've restarted it — take a look at the logs.
-=======
-If there are 20 items, can it be done within 1.5 hours?
->>>>>>> Stashed changes
+Take a look at the client side to see how to change it — it's a plugin issue, right? The pi agent is invoked by mac-assistant; check where to fix it.
