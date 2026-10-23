@@ -22827,3 +22827,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 10:27 — Here, “凑” means “pad out” or “bulk it up,” not “gather”; use “pad” when filling context to reach a token target.
