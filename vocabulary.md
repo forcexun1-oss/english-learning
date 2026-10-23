@@ -23353,3 +23353,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 22:06 — 「按…」= "according to / following…"; 「来」 here just means "go ahead", so "Do it in this order" or "Follow this order" reads naturally.
