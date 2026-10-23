@@ -22914,3 +22914,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 13:03 — "跑了70万token" here means "used/consumed 700k tokens" — use "used" or "burned" rather than a literal "ran"; "怎么可能" translates naturally as "how could ... possibly".
+- 2026-10-23 13:08 — Use "What I want to see is..." to emphasize the object; it sounds more natural than literally translating "我想看到的是..." as "The thing I want to see is..."
