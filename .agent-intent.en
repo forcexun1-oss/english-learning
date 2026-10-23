@@ -1,1 +1,1 @@
-So can the translation hit the cache now? Is changing it to a single request enough, or should we open another slot?
+How many tokens are needed to hit the cache?

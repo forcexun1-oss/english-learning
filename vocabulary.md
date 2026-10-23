@@ -22806,3 +22806,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 09:21 — Use 'it was two requests' (singular subject) or 'there were two requests'; '先不要改代码' is naturally 'don't change the code yet'.
 - 2026-10-23 09:36 — Use "hit the cache" for a cache hit; "one request" can be more concise than "changing it to a single request."
+- 2026-10-23 09:38 — Use "how many tokens" for countable items; for cache behaviour, natural phrasings are "to hit the cache" or "for a cache hit" rather than "can hit cache".
