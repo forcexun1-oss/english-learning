@@ -22881,3 +22881,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 11:43 — "乱串" has no direct English equivalent — use "getting mixed up" or "bleeding into each other"; for a technical bug you can also say "slot crossover" or "requests landing in the wrong slot".
