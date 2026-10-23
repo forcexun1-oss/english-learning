@@ -22990,3 +22990,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:36 — "对方" can be translated as "the other side" or "the other party" depending on context; here, "the other side" sounds more natural in engineering back-and-forth.
