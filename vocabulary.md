@@ -23494,6 +23494,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23527,6 +23528,8 @@
 >>>>>>> Stashed changes
 - 2026-10-24 00:32 — "还是……吧" is a soft suggestion, best rendered as "Let's go ahead and …" rather than a literal "still".
 - 2026-10-24 00:33 — Use "there isn't much left to run" rather than "not many things to run" — "much" pairs with uncountable/abstract amounts like work or time remaining.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
