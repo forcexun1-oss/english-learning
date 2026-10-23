@@ -23180,3 +23180,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 18:26 — “让某人做某事”常用 get someone to do something；更直接也可说 make him submit，但 make 语气更强。
