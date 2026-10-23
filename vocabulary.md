@@ -23489,3 +23489,4 @@
 - 2026-10-24 00:01 — Use "needs my decision" or "requires a decision from me"; "decision" as a verb doesn't exist, so avoid "needs me to decision".
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:03 — In a development context, “好做” means “easy to implement,” not “good to do.”
