@@ -22959,3 +22959,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 14:59 — Use "whether it's actually being reused" for "看看是复用了吗" when asking to verify a fact.
 - 2026-10-23 15:00 — "报错" maps naturally to "throw/report an error"; "重进" is best rendered as "restart" or "start over" rather than literally "re-enter".
+- 2026-10-23 15:02 — "反而" means "instead / on the contrary" and marks an unexpected contrast; here it signals that the complex cases are missing, which is the opposite of what you'd expect.

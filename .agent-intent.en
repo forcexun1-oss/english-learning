@@ -1,1 +1,1 @@
-It's still throwing an error. Should I quit and restart?
+The phonetic transcriptions are looked up in a dictionary, right? Just have the model return them. Also, for words that do have phonetic transcriptions, write the common, simple ones — the uncommon, complex ones are missing instead. Guide it with your prompt.
