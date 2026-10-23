@@ -22933,3 +22933,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 14:18 — The Chinese comma between the two questions isn't needed in English — use a period and start a new question. Also, "入参" translates best as "input parameter" (or "argument").
