@@ -22844,3 +22844,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 11:00 — Use “slow to start” for startup speed; “every time” is more natural than “each time” here.
 - 2026-10-23 11:02 — Use "the last few times" (or "the later runs") for 后面几次; add "is that" or "is it" to make "why?" sound more natural in English.
+- 2026-10-23 11:04 — Use "regarding" or "as for" to introduce a topic naturally; "it'll be hard to..." is a concise way to express future difficulty.
