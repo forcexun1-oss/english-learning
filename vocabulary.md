@@ -22979,3 +22979,4 @@
 - 2026-10-23 15:20 — Use "switch to" for changing a setting or format; "change to" also works but is less specific.
 - 2026-10-23 15:22 — Use "Isn't ... already ...?" for a surprised confirmation question; keep technical nouns like prefill and KV unchanged.
 - 2026-10-23 15:25 — "重转" = "re-convert"; use "Can't we just...?" for a natural suggestion/question, and keep "config" as-is.
+- 2026-10-23 15:25 — "配置" as a noun needs an article or modifier in English — say "a config option" or "a configuration setting" rather than bare "config" when asking whether something exists.
