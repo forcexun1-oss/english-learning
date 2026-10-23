@@ -23507,6 +23507,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23571,6 +23572,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 00:51 — For "还有多久" use "How much longer…?" or "How long until…?" — e.g., "How long until the run finishes?" Avoid "How long time".
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
