@@ -22524,6 +22524,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-22 15:20 — "怎么样了" as a progress check is best rendered with the idiom "How's it going?" — a literal "How is it?" sounds odd in English.
 - 2026-10-22 15:22 — 「赶紧」means "hurry up / right away"; in English imperatives it sounds more natural as "Go ahead and download it now" or "Download it right away" rather than a literal single word.
 - 2026-10-22 15:24 — "多开几个线程" translates naturally as "spawn/use multiple threads" — English doesn't use "open" for threads; and "分片下载" is "chunked/segmented download".
@@ -22811,6 +22812,9 @@
 - 2026-10-23 09:38 — Use "how many tokens" for countable items; for cache behaviour, natural phrasings are "to hit the cache" or "for a cache hit" rather than "can hit cache".
 - 2026-10-23 09:41 — "派出去" ≈ "send it out / dispatch it"; "试试" in a testing context is better as "test it" or "give it a try" than "try it".
 - 2026-10-23 09:43 — The sentence-final 把 is a typo for 吧 (a soft suggestion particle). 凑够 means "to make up / reach a required amount" — here "get up to 1024 tokens" is more natural than "gather enough 1024".
+=======
+- 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
+>>>>>>> Stashed changes
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
