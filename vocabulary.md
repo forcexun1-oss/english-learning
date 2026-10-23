@@ -22793,3 +22793,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 08:22 — Bare 查 needs a verb + object in English — "investigate" or "look into it" reads more naturally than a standalone "check", which sounds like a quick verification rather than research.
