@@ -22907,3 +22907,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 12:47 — "任务都做完了吗" maps naturally to "Are all the tasks done?" — use present perfect "have all the tasks been finished" for a more formal tone.
