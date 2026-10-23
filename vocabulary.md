@@ -22843,3 +22843,4 @@
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
 - 2026-10-23 11:00 — Use “slow to start” for startup speed; “every time” is more natural than “each time” here.
+- 2026-10-23 11:02 — Use "the last few times" (or "the later runs") for 后面几次; add "is that" or "is it" to make "why?" sound more natural in English.
