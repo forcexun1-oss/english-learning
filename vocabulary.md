@@ -23485,3 +23485,4 @@
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:01 — Use "needs my decision" or "requires a decision from me"; "decision" as a verb doesn't exist, so avoid "needs me to decision".
