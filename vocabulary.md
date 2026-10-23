@@ -23010,3 +23010,4 @@
 =======
 - 2026-10-22 15:20 — '怎么样了' asking about progress = 'How's ... going?'; use the present progressive to ask about an ongoing action.
 >>>>>>> Stashed changes
+- 2026-10-23 15:45 — In English, 条 as a counter for test cases becomes 'items / prompts / samples' rather than a literal word; also, 'too poor' judges quality, while 'too few' would judge quantity — pick based on what you mean.
