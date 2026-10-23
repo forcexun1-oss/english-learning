@@ -23076,3 +23076,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 17:01 — 「不行」here means "it's still not working," so use "That doesn't work" rather than just "No"; add "still" ("That still doesn't work") if the problem persisted after a fix.
