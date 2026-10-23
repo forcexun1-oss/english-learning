@@ -23477,3 +23477,4 @@
 >>>>>>> Stashed changes
 - 2026-10-23 23:45 — You likely meant 可以吧 ("okay/sure"), not 可以把 — 把 is a preposition, not a sentence particle. "还有什么吗" is naturally "Anything else?"
 - 2026-10-23 23:48 — '激怒' works best as 'provoke' (or 'anger') here — 'provoke the boss' is tighter than 'make the boss angry'. Also, '后面就是发语音了' = 'later it'll be voice input', not 'later it is sending voice'.
+- 2026-10-23 23:48 — "开关" (feature toggle) is best rendered as "toggles" or "feature flags"; "你按合理的顺序来" sounds natural as "just go with a sensible order" rather than a literal "you follow the reasonable order."
