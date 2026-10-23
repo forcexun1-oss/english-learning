@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-If the branch is fine, go ahead and merge it. As for the feature flags, just use a sensible order.
-=======
-Notify on C1 exit or budget question
->>>>>>> Stashed changes
-=======
-Notify on C1 exit or budget question
->>>>>>> Stashed changes
+Speech should also be audible to merchants — for haggling over prices — so let's design the architecture this way first and implement it later. List these out; you can keep pushing forward according to implementation progress.
