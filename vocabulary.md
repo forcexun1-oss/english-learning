@@ -23546,3 +23546,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 00:43 — "对…有影响" maps to "have an impact/effect on …" — use the preposition "on", not "to". "Keep an eye on X" is a natural way to say "关注/留意 X".
