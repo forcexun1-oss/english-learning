@@ -23257,3 +23257,4 @@
 =======
 - 2026-10-23 15:47 — Use "1.5 hours" or "1 hour and 30 minutes" to avoid ambiguity; "1:30" can sound like a time of day.
 >>>>>>> Stashed changes
+- 2026-10-23 19:52 — After a preposition like "from," use a gerund or noun: "learn from dying" / "learn from death," not "learn from die."
