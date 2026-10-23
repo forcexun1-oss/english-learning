@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Externally, the style is designed through prompts — though toggles are also an option; this design can be discussed further. Internally, I think we could later use voice control, but it would still send a message to the LLM. Buttons would work too, but it would still be a decision made by the LLM or the decision model, not something hard-coded.
+=======
+If there are 20 items, can it be done within 1.5 hours?
+>>>>>>> Stashed changes
