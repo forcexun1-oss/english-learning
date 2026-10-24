@@ -24123,3 +24123,4 @@
 - 2026-10-24 21:51 — Use “Let’s just call it ...” for a casual suggestion about naming; “after getting hit” sounds more natural than “after being hit” here.
 - 2026-10-24 21:54 — Use 'a block' (with the article) when naming a mechanic; 'block' alone sounds like a verb. '格挡' is 'block', or 'parry' if it's a timed counter.
 - 2026-10-24 21:57 — "定身" is usually "root" (noun/verb) or "immobilize"; use "cause a root" or "root them" rather than "make fixed body".
+- 2026-10-24 21:58 — For "什么攻击" asking to pick from a known set, use "which" rather than "what": "which attacks can be reflected?"
