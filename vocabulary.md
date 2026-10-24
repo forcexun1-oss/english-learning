@@ -24116,3 +24116,4 @@
 - 2026-10-24 21:36 — In English, put the object right after the verb: "open the playtest for me," not "open for me the playtest."
 - 2026-10-24 21:41 — Use "the spacebar" or "the space key" when referring to the keyboard key; "space" alone often means empty area.
 - 2026-10-24 21:43 — Chinese often drops the subject (没有鼠标很难…); English needs a dummy 'it': "it's hard to hit the target" — and use 'too' at the end for 也/都这样吗.
+- 2026-10-24 21:45 — Use 'How do Q and E work?' or 'What do Q and E do?' for asking a key's function; avoid the literal '怎么用的' phrasing.
