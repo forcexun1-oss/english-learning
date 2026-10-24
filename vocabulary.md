@@ -24063,3 +24063,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 19:02 — “直接” as an adverb is usually placed before the main verb or after the object: “directly start G4” or “start G4 directly.”
