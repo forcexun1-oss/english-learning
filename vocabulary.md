@@ -24113,3 +24113,4 @@
 - 2026-10-24 21:10 — 「还是…吧」signals a final, slightly resigned decision — English captures it with "let's just … after all" or "I'd rather just …". Note 把 here is a typo for the sentence-final particle 吧.
 - 2026-10-24 21:11 — In English, "first" naturally goes at the end of an imperative sentence ("Close all the tools first"), rather than right after the verb as in Chinese word order.
 - 2026-10-24 21:11 — In English, use the imperative "Upgrade to the latest version" — no need for "version upgrade to latest" word order from Chinese.
+- 2026-10-24 21:36 — In English, put the object right after the verb: "open the playtest for me," not "open for me the playtest."
