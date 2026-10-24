@@ -23739,3 +23739,4 @@
 - 2026-10-24 09:55 — “并行” = “in parallel”; use “right now” for the immediacy of “现在” in a question about current state.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 09:56 — Use “it” for software, not “him”; “start it up” is the natural phrasal verb for launching an app.
