@@ -23764,4 +23764,8 @@
 - 2026-10-24 10:28 — "超模" (literally "beyond the model") is best rendered as "overtuned" or "overpowered" in game-design English, not "supermodel." Also, "不一定要照抄" reads more naturally as "you don't necessarily have to copy" than "not must to copy."
 =======
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
