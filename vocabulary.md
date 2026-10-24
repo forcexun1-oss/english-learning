@@ -23556,6 +23556,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23749,3 +23750,5 @@
 >>>>>>> Stashed changes
 - 2026-10-24 10:16 — Use "merge into main" rather than "merge to main" for branch integration; "派发" here is best rendered as "dispatch" (assign a task to Luna), not "send".
 - 2026-10-24 10:17 — For 完全没感受到, English usually says "I don't notice any difference" or "it doesn't feel any different" rather than the literal "I don't feel it" — 感受 maps better to notice/feel a difference here.
+=======
+>>>>>>> Stashed changes
