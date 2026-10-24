@@ -24129,3 +24129,4 @@
 - 2026-10-24 22:07 — "Binding" works as a noun modifier here ("a binding feature"); also note "still" goes before the verb: "do I still have to...", not "do I have to still...".
 - 2026-10-24 22:12 — 「记进待办」is naturally "add it to the todo list" (or "note it down as a TODO"); use "first ... after ..." or "once X is done, then Y" to keep the ordering clear.
 - 2026-10-24 22:14 — "看哪个成本低" becomes "whichever is cheaper" — use "whichever" to pick between options; "像样的" is best rendered as "decent" here.
+- 2026-10-24 22:15 — "瞎琢磨" means "to blindly guess/overthink" — note that 瞎 (blindly) + 琢磨 (ponder) implies wasted effort without a solid basis; "don't overthink it" or "don't reinvent the wheel" captures it naturally in English.
