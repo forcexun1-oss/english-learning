@@ -23871,3 +23871,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:48 — Use “expired” rather than “ended” for subscriptions; “quota” is fine, though “usage limit” is also common.
