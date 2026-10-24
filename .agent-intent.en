@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>byoytjwld</task-id>
 <tool-use-id>toolu_019FtS5SQwFWUCQbjKozqXSH4</tool-use-id>
@@ -6,6 +7,9 @@
 <status>completed</status>
 <summary>Background command "Wait for new G1 outbox entry or exit" completed (exit code 0)</summary>
 </task-notification>
+=======
+Wait, don't use Opus for the research.
+>>>>>>> Stashed changes
 =======
 Wait, don't use Opus for the research.
 >>>>>>> Stashed changes
