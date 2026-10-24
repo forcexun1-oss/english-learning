@@ -23787,6 +23787,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
@@ -23872,3 +23873,6 @@
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
 - 2026-10-24 11:48 — Use “expired” rather than “ended” for subscriptions; “quota” is fine, though “usage limit” is also common.
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
