@@ -24114,3 +24114,4 @@
 - 2026-10-24 21:11 — In English, "first" naturally goes at the end of an imperative sentence ("Close all the tools first"), rather than right after the verb as in Chinese word order.
 - 2026-10-24 21:11 — In English, use the imperative "Upgrade to the latest version" — no need for "version upgrade to latest" word order from Chinese.
 - 2026-10-24 21:36 — In English, put the object right after the verb: "open the playtest for me," not "open for me the playtest."
+- 2026-10-24 21:41 — Use "the spacebar" or "the space key" when referring to the keyboard key; "space" alone often means empty area.
