@@ -23731,3 +23731,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 09:54 — Use "running in parallel" when asking whether processes execute simultaneously; "parallel" alone sounds more like a property than an activity.
