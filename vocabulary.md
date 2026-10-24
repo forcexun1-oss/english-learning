@@ -24120,3 +24120,4 @@
 - 2026-10-24 21:47 — Use "is for + -ing" to describe what a key does, e.g., "E is for interrupting casts."
 - 2026-10-24 21:49 — The character should be 叫 (jiào, 'to call'), not 交; use 'confusing' for something hard to understand.
 - 2026-10-24 21:50 — Use "move ... to ..." for changing a position and "on the right-hand side" for location; "to the right hand" alone sounds like you're handing something to a person.
+- 2026-10-24 21:51 — Use “Let’s just call it ...” for a casual suggestion about naming; “after getting hit” sounds more natural than “after being hit” here.
