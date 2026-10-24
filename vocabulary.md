@@ -23962,3 +23962,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 17:07 — This is an auto-generated system notification, not a message of yours to rewrite — the wording is already fine for a status line. If you were describing it yourself, a natural dev phrasing would be: "The background job watching the G1 reruns finished with exit code 0."
