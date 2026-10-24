@@ -24131,3 +24131,4 @@
 - 2026-10-24 22:14 — "看哪个成本低" becomes "whichever is cheaper" — use "whichever" to pick between options; "像样的" is best rendered as "decent" here.
 - 2026-10-24 22:15 — "瞎琢磨" means "to blindly guess/overthink" — note that 瞎 (blindly) + 琢磨 (ponder) implies wasted effort without a solid basis; "don't overthink it" or "don't reinvent the wheel" captures it naturally in English.
 - 2026-10-25 00:06 — The sentence-final particle should be 吧, not 把; it softens the suggestion to “let’s keep pushing forward.”
+- 2026-10-25 05:27 — "Keep going" / "keep pushing forward" is more natural than "continue to advance"; in dev instructions, prefer short adjectives like "hard/easy" over "difficult/simple" pairs.
