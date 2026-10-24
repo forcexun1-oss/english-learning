@@ -23862,3 +23862,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:45 — Use "more/less likely to get banned" for 更容易/不容易封号; "easier to ban" sounds like it is simpler to perform the ban.
