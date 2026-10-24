@@ -23718,3 +23718,4 @@
 - 2026-10-24 08:46 — "独立核对" is best rendered as "verify independently" rather than "check independently by yourself"; "拍板" (make the final call) becomes "needs the user's decision". Keep such connective phrases as "for anything that's finished" to make the long instruction chain readable.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 08:49 — 人家 here means "other people / others," not "he/she" — use "how others do it" rather than a pronoun. The rhetorical 怎么可能 works well as "how could it possibly...".
