@@ -24126,3 +24126,4 @@
 - 2026-10-24 21:58 — For "什么攻击" asking to pick from a known set, use "which" rather than "what": "which attacks can be reflected?"
 - 2026-10-24 22:00 — In English, "先…再…" maps to "... first, then ..." (e.g., "finish it first, then I'll test it"), rather than literally "first ... again ...".
 - 2026-10-24 22:01 — Use "either" (not "too") at the end of a negative sentence to add another missing thing; "动作" in a game context is usually "animation" or "motion", not "action".
+- 2026-10-24 22:07 — "Binding" works as a noun modifier here ("a binding feature"); also note "still" goes before the verb: "do I still have to...", not "do I have to still...".
