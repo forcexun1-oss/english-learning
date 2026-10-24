@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-All the combat stuff is supposedly done, but I don't notice any of it at all — is there a decision model in place now?
-=======
-The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
->>>>>>> Stashed changes
+Are skills something you just make up however you like?
