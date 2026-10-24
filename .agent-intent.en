@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 30-minute inspection (continuing to push agent-roguelite forward). Steps: 1) Check Luna's tasks: $S=/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad; check $S/box/comp/OUTBOX.md and box/soft; check the git log/status of the worktree companion-actor; pgrep Unity for the process. 2) If anything is done, independently verify it (full EditMode, bot 3 runs, cmp on protected files, git diff scope; Luna's own account doesn't count). If it passes, merge into main (don't push); if it fails, write to INBOX to have it fixed or record it. 3) For the response-curve feature/soft-rules: once Unity is idle, run my own bot (AGENT_BOT=1 AGENT_BOT_RUNS=3 AGENT_NO_LLM=1 AGENT_MUTE=1, fresh save); if it passes, merge into main. 4) Then follow docs/proposals/ai-roadmap.md and advance the next item that can be advanced (order: B2 cliff decomposition data, E1 dialogue-node spec and dispatch, then later items whose dependencies are satisfied). For each item, write a detailed spec, dispatch Luna (codex-sub, verify the log header is gpt-6-luna/openai), independently verify it, and merge once it passes. 5) Only stop to ask when a decision truly needs the user (AskUserQuestion); if the user hasn't confirmed anything for now, keep doing things that don't need confirmation. 6) Update the status in ai-roadmap.md. Briefly report what was done this round and where it's blocked.
+=======
+Wait, don't use Opus for the research.
+>>>>>>> Stashed changes
 =======
 Wait, don't use Opus for the research.
 >>>>>>> Stashed changes
