@@ -23743,3 +23743,4 @@
 - 2026-10-24 09:56 — Use “it” for software, not “him”; “start it up” is the natural phrasal verb for launching an app.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 10:04 — "Fullscreen" is one word as an adjective/adverb; use "go fullscreen" or "make it fullscreen" rather than "do fullscreen".
