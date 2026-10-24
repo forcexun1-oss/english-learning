@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are you using Decision and the large model now?
-=======
-Wait, don't use Opus for the research.
->>>>>>> Stashed changes
+Add it. I'll try out the earlier part first, including the options in decision — is the current one appropriate? Use kapitsa for the LLM. Note that the cache only triggers when the prefix has more than 1024 tokens, so test more to make full use of the cache. Also, it seems pretty arbitrary right now which content should be added to decision and LLM. I'm not sure whether telemetry has been completed yet. Previously there were only 2 dodge directions — that needs to be completed; don't make this kind of mistake again.
