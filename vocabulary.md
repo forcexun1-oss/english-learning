@@ -23775,3 +23775,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 10:42 — “头绪有点多” is better rendered as “there are a lot of moving parts” or “there’s a lot going on,” not literally “many thoughts.”
