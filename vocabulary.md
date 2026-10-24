@@ -23696,3 +23696,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 08:15 — 什么状况 is casual for 'what's the situation / what happened'; for a status check on a task, 'What's the status?' is clearer.
