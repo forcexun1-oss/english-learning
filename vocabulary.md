@@ -23760,3 +23760,4 @@
 - 2026-10-24 10:23 — "Put to use" is a natural phrase for "用起来"; "hasn't been put to use" correctly shows the passive present perfect.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 10:28 — "超模" (literally "beyond the model") is best rendered as "overtuned" or "overpowered" in game-design English, not "supermodel." Also, "不一定要照抄" reads more naturally as "you don't necessarily have to copy" than "not must to copy."
