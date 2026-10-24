@@ -23789,6 +23789,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
@@ -23878,6 +23879,9 @@
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
 - 2026-10-24 11:51 — "封号" can be translated as "get banned" or "be suspended"; "钱退回来" is naturally "get my money back" or "get a refund."
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
