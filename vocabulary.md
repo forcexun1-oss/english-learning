@@ -23714,3 +23714,4 @@
 - 2026-10-24 08:46 — “多开” means “run multiple instances,” not literally “open more”; “串行” translates to “serially” or “sequentially.”
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 08:46 — "独立核对" is best rendered as "verify independently" rather than "check independently by yourself"; "拍板" (make the final call) becomes "needs the user's decision". Keep such connective phrases as "for anything that's finished" to make the long instruction chain readable.
