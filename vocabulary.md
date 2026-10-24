@@ -23898,3 +23898,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 12:32 — "派...做..." is naturally rendered as "have someone do something" (causative), not "send someone to do" — e.g., "have Opus handle the numerical layer."
