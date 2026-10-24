@@ -23706,3 +23706,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 08:42 — "How much longer" is the natural way to ask about remaining time; "How long" alone would ask about total duration.
