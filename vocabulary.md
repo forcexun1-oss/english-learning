@@ -23735,3 +23735,4 @@
 - 2026-10-24 09:54 — Use "running in parallel" when asking whether processes execute simultaneously; "parallel" alone sounds more like a property than an activity.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 09:55 — “并行” = “in parallel”; use “right now” for the immediacy of “现在” in a question about current state.
