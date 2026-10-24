@@ -23893,3 +23893,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 12:26 — Use "didn't I?" for a confirmation tag question, and "bring it up again" for making a dialog/popup appear again.
