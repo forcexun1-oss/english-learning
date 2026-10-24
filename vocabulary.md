@@ -23848,3 +23848,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:38 — Chinese often drops the subject in questions like 考虑了吗; in English, use passive "has that been considered / taken into account" or add the subject: "did we consider that?"
