@@ -23788,3 +23788,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 10:47 — "What I say isn't necessarily reasonable" sounds odd in English; "isn't necessarily the best approach / isn't necessarily right" is more natural — and note "don't just do what I said" means "follow my words literally".
