@@ -24103,3 +24103,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 20:16 — Use "dispatch to Luna" or "assign Luna" for 派发; "派" alone is too literal in English. Also "sign-off" is a natural term for 拍板/确认.
