@@ -23825,3 +23825,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:22 — For written docs, prefer 'The only remaining marker is in the title of §9' over the casual 'The only one left is in the title' — 'remaining' is more precise and formal.
