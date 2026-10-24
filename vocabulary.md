@@ -23800,6 +23800,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
@@ -23929,3 +23930,6 @@
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
 - 2026-10-24 16:45 — “开始在写” is best rendered as "have started writing" — use "start + verb-ing" (start writing), not "start to write" when describing an ongoing activity.
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
