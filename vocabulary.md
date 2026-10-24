@@ -24119,3 +24119,4 @@
 - 2026-10-24 21:45 — Use 'How do Q and E work?' or 'What do Q and E do?' for asking a key's function; avoid the literal '怎么用的' phrasing.
 - 2026-10-24 21:47 — Use "is for + -ing" to describe what a key does, e.g., "E is for interrupting casts."
 - 2026-10-24 21:49 — The character should be 叫 (jiào, 'to call'), not 交; use 'confusing' for something hard to understand.
+- 2026-10-24 21:50 — Use "move ... to ..." for changing a position and "on the right-hand side" for location; "to the right hand" alone sounds like you're handing something to a person.
