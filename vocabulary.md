@@ -24118,3 +24118,4 @@
 - 2026-10-24 21:43 — Chinese often drops the subject (没有鼠标很难…); English needs a dummy 'it': "it's hard to hit the target" — and use 'too' at the end for 也/都这样吗.
 - 2026-10-24 21:45 — Use 'How do Q and E work?' or 'What do Q and E do?' for asking a key's function; avoid the literal '怎么用的' phrasing.
 - 2026-10-24 21:47 — Use "is for + -ing" to describe what a key does, e.g., "E is for interrupting casts."
+- 2026-10-24 21:49 — The character should be 叫 (jiào, 'to call'), not 交; use 'confusing' for something hard to understand.
