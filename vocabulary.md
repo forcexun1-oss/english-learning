@@ -24122,3 +24122,4 @@
 - 2026-10-24 21:50 — Use "move ... to ..." for changing a position and "on the right-hand side" for location; "to the right hand" alone sounds like you're handing something to a person.
 - 2026-10-24 21:51 — Use “Let’s just call it ...” for a casual suggestion about naming; “after getting hit” sounds more natural than “after being hit” here.
 - 2026-10-24 21:54 — Use 'a block' (with the article) when naming a mechanic; 'block' alone sounds like a verb. '格挡' is 'block', or 'parry' if it's a timed counter.
+- 2026-10-24 21:57 — "定身" is usually "root" (noun/verb) or "immobilize"; use "cause a root" or "root them" rather than "make fixed body".
