@@ -24088,3 +24088,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 19:52 — Use “吧” for a suggestion or confirmation, like “okay?”; “把” is a different word.
