@@ -23756,3 +23756,4 @@
 - 2026-10-24 10:22 — 「随便弄」isn't literally "casually do"; natural options are "make (something) up as you go", "wing it", or "throw together however you like" — pick based on how careless the tone should be.
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 10:23 — "Put to use" is a natural phrase for "用起来"; "hasn't been put to use" correctly shows the passive present perfect.
