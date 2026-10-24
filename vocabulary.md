@@ -23747,3 +23747,4 @@
 - 2026-10-24 10:04 — "Fullscreen" is one word as an adjective/adverb; use "go fullscreen" or "make it fullscreen" rather than "do fullscreen".
 =======
 >>>>>>> Stashed changes
+- 2026-10-24 10:16 — Use "merge into main" rather than "merge to main" for branch integration; "派发" here is best rendered as "dispatch" (assign a task to Luna), not "send".
