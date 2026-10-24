@@ -23778,6 +23778,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
@@ -23827,3 +23828,6 @@
 >>>>>>> Stashed changes
 - 2026-10-24 11:22 — For written docs, prefer 'The only remaining marker is in the title of §9' over the casual 'The only one left is in the title' — 'remaining' is more precise and formal.
 - 2026-10-24 11:22 — 「还是」here means "still / as before" — the English "still" carries that sense; put it before the verb ("are still done").「验收」is "acceptance testing/check" in engineering contexts.
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
