@@ -23765,9 +23765,13 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 10:30 — The pattern "用 X 做 Y" maps to "use X for Y" — e.g., "Use Opus for design" — and model names like Opus are capitalized.
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
 - 2026-10-24 10:30 — Chinese often drops the verb (去搞); English needs one — 'handle it' / 'take care of it' — and 'A or B?' works well as 'Should we X, or Y?'
 - 2026-10-24 10:30 — 「还是」in an either-or question maps to "or"; 「去搞」is casual, so "have Codex do it" or "let Codex handle it" sounds natural in English.
+=======
+- 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
+>>>>>>> Stashed changes
