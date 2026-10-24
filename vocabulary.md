@@ -23837,3 +23837,4 @@
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
 - 2026-10-24 11:31 — Use "I mean" to clarify or rephrase your point; keep "skills" unchanged as the technical term.
+- 2026-10-24 11:31 — "合不合理" → "sound" reads more technical than "reasonable" for design/code; also "the core is that there's no X" is smoother as "the real core issue is that there's no X".
