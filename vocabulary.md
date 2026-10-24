@@ -23546,6 +23546,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-24 00:01 — The pattern 等……之后再…… maps to "wait until … before …" — put the verb after 'before' in the -ing form or base form after 'before you …'.
 =======
 >>>>>>> Stashed changes
@@ -23711,3 +23712,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-24 08:46 — “多开” means “run multiple instances,” not literally “open more”; “串行” translates to “serially” or “sequentially.”
+=======
+>>>>>>> Stashed changes
