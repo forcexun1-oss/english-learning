@@ -23933,3 +23933,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 16:48 — Use the imperative "delegate" for assigning work, and "don't do them yourself" for telling someone not to handle tasks personally.
