@@ -23842,3 +23842,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:35 — Use "or" to translate "还是" when presenting two alternatives in a question.
