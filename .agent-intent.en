@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-<task-notification>
-<task-id>bnaeaj8gg</task-id>
-<tool-use-id>toolu_01XXXMqLR3zqJzrcWasC52c</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/88da6e5c-69d1-4aa0-b4ec-646181c19911/tasks/bnaeaj8gg.output</output-file>
-<status>completed</status>
-<summary>Background command "Wait for G4 verify result" completed (exit code 0)</summary>
-</task-notification>
-=======
-Wait, don't use Opus for the research.
->>>>>>> Stashed changes
+Decisions should be things scripts can't do — immediate, tactical choices — while the LLM handles the overall strategy.
