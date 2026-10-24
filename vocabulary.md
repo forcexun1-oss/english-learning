@@ -23876,3 +23876,4 @@
 =======
 - 2026-10-24 10:30 — '等等' here means 'hold on/wait', not 'etc.' (which would be '等等' as a plural marker).
 >>>>>>> Stashed changes
+- 2026-10-24 11:51 — "封号" can be translated as "get banned" or "be suspended"; "钱退回来" is naturally "get my money back" or "get a refund."
