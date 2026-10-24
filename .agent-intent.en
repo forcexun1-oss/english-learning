@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 If you're not sure, go look it up — see how others do it, then try it. How could it possibly not be parallel? How long would we have to wait otherwise? Just create the worktree and you're set.
+=======
+The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
+>>>>>>> Stashed changes
 =======
 The talent system will be redesigned later anyway, right? Why can they still be linked horizontally right now? If the talents change, we just update the config, right? No need to touch the UI, right?
 >>>>>>> Stashed changes
