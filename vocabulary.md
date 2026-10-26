@@ -24150,3 +24150,4 @@
 - 2026-10-26 23:02 — Use 'Where are we stuck?' or 'What's blocking us?' to ask about current progress issues in a natural way.
 - 2026-10-26 23:03 — Use 'running out of memory' or 'OOM' (Out of Memory) instead of '内存不够' for a more natural technical expression.
 - 2026-10-26 23:05 — Use 'make a judgment' or 'use your best judgment' instead of '判断一下' for a more natural professional tone.
+- 2026-10-26 23:14 — Use 'high-poly' for high-resolution models and 'downsample' or 'retopologize' for converting to lower resolution, rather than 'turn into'.
