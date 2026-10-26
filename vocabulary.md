@@ -24132,3 +24132,4 @@
 - 2026-10-24 22:15 — "瞎琢磨" means "to blindly guess/overthink" — note that 瞎 (blindly) + 琢磨 (ponder) implies wasted effort without a solid basis; "don't overthink it" or "don't reinvent the wheel" captures it naturally in English.
 - 2026-10-25 00:06 — The sentence-final particle should be 吧, not 把; it softens the suggestion to “let’s keep pushing forward.”
 - 2026-10-25 05:27 — "Keep going" / "keep pushing forward" is more natural than "continue to advance"; in dev instructions, prefer short adjectives like "hard/easy" over "difficult/simple" pairs.
+- 2026-10-26 22:08 — In English technical logs, it is standard to place the timestamp in brackets [ ] and use a colon : after the log level (e.g., WARNING) to separate it from the message.
