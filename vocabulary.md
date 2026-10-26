@@ -24137,3 +24137,4 @@
 - 2026-10-26 22:09 — Use 'assign [model] to [agent]' or 'give [agent] [model]' to describe task delegation clearly.
 - 2026-10-26 22:10 — Use 'should be able to' to express expectation or logical deduction about capability.
 - 2026-10-26 22:13 — Use 'assign' or 'delegate' instead of '派' for task distribution. 'By default' is the natural translation for '默认' in this context.
+- 2026-10-26 22:24 — No changes needed; the message is already natural and idiomatic.
