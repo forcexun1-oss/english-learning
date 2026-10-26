@@ -24180,3 +24180,4 @@
 - 2026-10-27 05:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 'restart' is clearer than 'hang' when referring to background processes.
 - 2026-10-27 05:40 — In technical instructions, use 'background' or 'daemonize' instead of '后台' to clearly indicate running a process in the background.
 - 2026-10-27 06:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 're-launch' is clearer than 'hang' when referring to background processes.
+- 2026-10-27 06:40 — In technical instructions, use 'Inspect' or 'Check' instead of literal translations like 'Patrol'. Also, 're-attach' is clearer than 're-hang' for background processes.
