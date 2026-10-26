@@ -24161,3 +24161,4 @@
 - 2026-10-27 00:29 — In English, avoid literal translations like '弄把' (do it). Use action-oriented verbs like 'implement', 'proceed', or 'go ahead'.
 - 2026-10-27 00:30 — In English, 'push forward' or 'keep going' is more natural than 'continue to push' in this context. Using 'don't ask me' directly can sound a bit blunt; 'without checking with me' or 'without asking for confirmation' is softer, but 'don't ask me' works well for a direct command to an AI.
 - 2026-10-27 00:31 — Use 'high-poly model' for '高模' in 3D modeling contexts. 'High model' is a literal translation that sounds unnatural.
+- 2026-10-27 00:32 — Use 'bake' when transferring details from a high-poly to a low-poly model. '贴' (paste/apply) is often translated as 'bake' in 3D texturing workflows.
