@@ -24145,3 +24145,4 @@
 - 2026-10-26 22:58 — When asking about software updates, using the present perfect tense ('Has it been upgraded?') is more natural than the simple past ('Did it upgrade?') if the change is relevant to the current state.
 - 2026-10-26 22:59 — Use 'get the pipeline working' or 'get things running' to describe successfully executing a technical workflow.
 - 2026-10-26 22:59 — In English, 'CUDA' is a proper noun (a technology platform), so it is typically capitalized. Also, 'We have a machine with CUDA' is more natural than 'We have CUDA machine'.
+- 2026-10-26 23:01 — When specifying hardware, use 'with' or 'of' to connect the GPU model and its memory size (e.g., 'RTX 4060 Ti with 8GB').
