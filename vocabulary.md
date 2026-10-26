@@ -24154,3 +24154,4 @@
 - 2026-10-26 23:17 — Use 'achieve' or 'realize' instead of 'do out' for technical results. 'In 3D' is acceptable shorthand for 'in 3D rendering/graphics'.
 - 2026-10-26 23:20 — Removed the agent name 'luna' from the event message to keep it concise and standard for system logs.
 - 2026-10-26 23:27 — In raw text or logs, use the ASCII character `>=` instead of the HTML entity `&gt;=` to ensure compatibility with parsers and CLI tools.
+- 2026-10-26 23:34 — Use 'was copied' for passive voice in logs, and 'is missing' instead of 'has no' for clearer status reporting.
