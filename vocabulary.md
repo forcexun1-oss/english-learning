@@ -24171,3 +24171,4 @@
 - 2026-10-27 01:00 — Use 're-launch' or 'restart' instead of 're-hang' for background processes. 'Push forward' is a natural way to say 'continue advancing'.
 - 2026-10-27 01:40 — Use 'Inspect' or 'Check' instead of '巡检' for technical monitoring tasks. 'Pipeline' is the standard term for '流水线' in software development.
 - 2026-10-27 02:00 — In technical instructions, 'check' is often better than 'look at' for verifying status, and 'verify' is more precise than 'check' when confirming data accuracy.
+- 2026-10-27 02:40 — In technical instructions, 're-run' or 'restart' is clearer than 're-hang' (重新挂) for background processes.
