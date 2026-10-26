@@ -24141,3 +24141,4 @@
 - 2026-10-26 22:34 — In English, it is more natural to say 'The progress is slow' or 'We are making slow progress' rather than 'pushing slow'.
 - 2026-10-26 22:42 — The original text was already natural and idiomatic for a developer context.
 - 2026-10-26 22:55 — In English, use 'free tier' or 'free plan' to describe a service that offers basic features at no cost.
+- 2026-10-26 22:56 — Use 'Check out' or 'Look into' when suggesting someone explore a specific tool or topic.
