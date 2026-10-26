@@ -24158,3 +24158,4 @@
 - 2026-10-26 23:58 — Use 'fragmented pieces' or 'scattered bits' to describe broken or incomplete visual output instead of literal translations like '稀碎'.
 - 2026-10-27 00:03 — Use 'Let's focus on...' to politely prioritize a task. 'Rough' is a good adjective for something unfinished or low-quality.
 - 2026-10-27 00:20 — In 3D modeling contexts, 'polygon count' or 'poly count' is the standard term for '面数'. 'Unusable' or 'poor quality' is more natural than 'can't look at' for '没法看'.
+- 2026-10-27 00:29 — In English, avoid literal translations like '弄把' (do it). Use action-oriented verbs like 'implement', 'proceed', or 'go ahead'.
