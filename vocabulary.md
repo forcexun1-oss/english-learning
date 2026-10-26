@@ -24155,3 +24155,4 @@
 - 2026-10-26 23:20 — Removed the agent name 'luna' from the event message to keep it concise and standard for system logs.
 - 2026-10-26 23:27 — In raw text or logs, use the ASCII character `>=` instead of the HTML entity `&gt;=` to ensure compatibility with parsers and CLI tools.
 - 2026-10-26 23:34 — Use 'was copied' for passive voice in logs, and 'is missing' instead of 'has no' for clearer status reporting.
+- 2026-10-26 23:58 — Use 'fragmented pieces' or 'scattered bits' to describe broken or incomplete visual output instead of literal translations like '稀碎'.

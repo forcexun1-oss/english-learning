@@ -1,11 +1,1 @@
-<task-notification>
-<task-id>b3u3wtuw5</task-id>
-<tool-use-id>toolu_01K1mxWydf24KhYaJtuuRrRa</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/56dd26bb-3736-4ffa-9b52-6579d82b538b/tasks/b3u3wtuw5.output</output-file>
-<status>completed</status>
-<summary>Monitor "T1i: report when luna exits with its outbox and budget line" stream ended</summary>
-<event>luna T1i exited
-[UPDATE] Source staging hit a mismatch before the run: `badger-components.ply` was copied from the specified `ai3t1h/OUT`, but that directory is missing `mesh_voxels.npz`. A file with the same name exists in `ai3t1f/OUT`, but no substitute was copied. No pipeline run started. Please provide the required asset at `ai3t1h/OUT/mesh_voxels.npz` or authorize using the alternate source.
-23:34:06 SOFT 80937 >= 80000: wrote INBOX.md</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+But what I'm seeing now is just a bunch of fragmented pieces.
