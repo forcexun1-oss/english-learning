@@ -24175,3 +24175,4 @@
 - 2026-10-27 02:57 — Use 'renew' or 'becomes available' instead of 'recover' when referring to subscription quotas or limits becoming active again.
 - 2026-10-27 03:00 — In technical instructions, 'inspect' or 'check' is often more natural than 'inspection' when used as a verb or action item. Also, 'push forward' or 'keep moving forward' is a common idiom for '持续推进'.
 - 2026-10-27 03:40 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-run' is clearer than 're-hang' when referring to background processes.
+- 2026-10-27 04:00 — In technical instructions, use 'high-poly' instead of 'high model' and 'low-poly' instead of 'low model' for standard 3D graphics terminology.
