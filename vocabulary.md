@@ -24166,3 +24166,4 @@
 - 2026-10-27 00:38 — Use 'high-poly model' for 高模 in 3D modeling contexts. 'Concept art' is the standard term for 概念图.
 - 2026-10-27 00:40 — Use 'have [someone] do [something]' to instruct an agent or person to perform a task, rather than 'let' which implies permission.
 - 2026-10-27 00:41 — Use 'pipeline' for 流水线 in a technical context. When listing multiple steps, use parallel structure: 'establish..., determine..., and identify...'
+- 2026-10-27 00:44 — In English, 'push forward' is a common phrasal verb for advancing tasks. 'Inspection cycle' is a natural way to describe a recurring check or audit process.
