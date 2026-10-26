@@ -24164,3 +24164,4 @@
 - 2026-10-27 00:32 — Use 'bake' when transferring details from a high-poly to a low-poly model. '贴' (paste/apply) is often translated as 'bake' in 3D texturing workflows.
 - 2026-10-27 00:33 — In English, '贴图' is usually translated as 'textures' in a 3D modeling context. '贴图' literally means 'paste picture', but 'texture' is the standard technical term.
 - 2026-10-27 00:38 — Use 'high-poly model' for 高模 in 3D modeling contexts. 'Concept art' is the standard term for 概念图.
+- 2026-10-27 00:40 — Use 'have [someone] do [something]' to instruct an agent or person to perform a task, rather than 'let' which implies permission.
