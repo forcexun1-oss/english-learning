@@ -24170,3 +24170,4 @@
 - 2026-10-27 00:47 — Use 'runs out of memory' for '内存不够' to sound more natural in a technical context.
 - 2026-10-27 01:00 — Use 're-launch' or 'restart' instead of 're-hang' for background processes. 'Push forward' is a natural way to say 'continue advancing'.
 - 2026-10-27 01:40 — Use 'Inspect' or 'Check' instead of '巡检' for technical monitoring tasks. 'Pipeline' is the standard term for '流水线' in software development.
+- 2026-10-27 02:00 — In technical instructions, 'check' is often better than 'look at' for verifying status, and 'verify' is more precise than 'check' when confirming data accuracy.
