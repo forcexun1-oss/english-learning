@@ -24159,3 +24159,4 @@
 - 2026-10-27 00:03 — Use 'Let's focus on...' to politely prioritize a task. 'Rough' is a good adjective for something unfinished or low-quality.
 - 2026-10-27 00:20 — In 3D modeling contexts, 'polygon count' or 'poly count' is the standard term for '面数'. 'Unusable' or 'poor quality' is more natural than 'can't look at' for '没法看'.
 - 2026-10-27 00:29 — In English, avoid literal translations like '弄把' (do it). Use action-oriented verbs like 'implement', 'proceed', or 'go ahead'.
+- 2026-10-27 00:30 — In English, 'push forward' or 'keep going' is more natural than 'continue to push' in this context. Using 'don't ask me' directly can sound a bit blunt; 'without checking with me' or 'without asking for confirmation' is softer, but 'don't ask me' works well for a direct command to an AI.
