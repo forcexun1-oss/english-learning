@@ -24177,3 +24177,4 @@
 - 2026-10-27 03:40 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-run' is clearer than 're-hang' when referring to background processes.
 - 2026-10-27 04:00 — In technical instructions, use 'high-poly' instead of 'high model' and 'low-poly' instead of 'low model' for standard 3D graphics terminology.
 - 2026-10-27 04:40 — In technical instructions, 'check' is often more natural than 'inspect' for routine monitoring tasks. Also, ensure consistency in verb forms (e.g., 'verify' instead of 'check' for specific data points) to improve clarity.
+- 2026-10-27 05:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 'restart' is clearer than 'hang' when referring to background processes.
