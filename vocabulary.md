@@ -24182,3 +24182,4 @@
 - 2026-10-27 06:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 're-launch' is clearer than 'hang' when referring to background processes.
 - 2026-10-27 06:40 — In technical instructions, use 'Inspect' or 'Check' instead of literal translations like 'Patrol'. Also, 're-attach' is clearer than 're-hang' for background processes.
 - 2026-10-27 07:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 're-launch' is clearer than 'hang' for background processes.
+- 2026-10-27 07:40 — In technical instructions, 'inspect' or 'check' is often more natural than 'patrol' (巡检). Also, ensure parallel steps (like reading logs and checking files) are clearly separated for readability.
