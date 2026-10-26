@@ -24148,3 +24148,4 @@
 - 2026-10-26 23:01 — When specifying hardware, use 'with' or 'of' to connect the GPU model and its memory size (e.g., 'RTX 4060 Ti with 8GB').
 - 2026-10-26 23:01 — In English, questions usually require an auxiliary verb (like 'do', 'should', 'will') at the beginning. '要不要' translates to 'Should I...' or 'Do you want to...'
 - 2026-10-26 23:02 — Use 'Where are we stuck?' or 'What's blocking us?' to ask about current progress issues in a natural way.
+- 2026-10-26 23:03 — Use 'running out of memory' or 'OOM' (Out of Memory) instead of '内存不够' for a more natural technical expression.

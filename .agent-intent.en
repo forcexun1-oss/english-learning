@@ -1,1 +1,1 @@
-Where are we stuck right now?
+We're running out of memory. Kill the large model, and don't assign any tasks to Pi until it's back.
