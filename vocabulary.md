@@ -24134,3 +24134,4 @@
 - 2026-10-25 05:27 — "Keep going" / "keep pushing forward" is more natural than "continue to advance"; in dev instructions, prefer short adjectives like "hard/easy" over "difficult/simple" pairs.
 - 2026-10-26 22:08 — In English technical logs, it is standard to place the timestamp in brackets [ ] and use a colon : after the log level (e.g., WARNING) to separate it from the message.
 - 2026-10-26 22:08 — Use 'Isn't...' to ask a rhetorical question confirming something you believe is already true.
+- 2026-10-26 22:09 — Use 'assign [model] to [agent]' or 'give [agent] [model]' to describe task delegation clearly.
