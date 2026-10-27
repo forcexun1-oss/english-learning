@@ -24248,3 +24248,4 @@
 - 2026-10-27 15:20 — Use 'concatenating' or 'joining' instead of '拼起来' for technical contexts. 'Incomplete generation' is clearer than '不完整生成'.
 - 2026-10-27 15:28 — Use 'commit' instead of 'submit' when referring to pushing code changes to a repository.
 - 2026-10-27 15:30 — Use 'stop doing something' or 'hold off on changes' to clearly indicate pausing work. 'And' is better than 'but' when connecting two related thoughts about what to keep vs. discard.
+- 2026-10-27 15:32 — Use 'switch to' or 'checkout' when referring to changing Git commits. 'Artifact' is the standard term for build outputs.
