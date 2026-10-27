@@ -24270,3 +24270,4 @@
 - 2026-10-27 17:10 — In English, it's more natural to say 'Decode on my machine' or 'Run decoding on my machine' rather than just 'decode' as a standalone phrase.
 - 2026-10-27 17:12 — In English, 'over 30' or 'more than 30' is more natural than '30 plus' when referring to quantities. Also, ensure the subject (e.g., 'it') is clear.
 - 2026-10-27 17:14 — In English, '做啊' in this context is best translated as 'Go ahead' or 'Get started' rather than a literal 'Do it.' 'Don't wait' is correct, but 'don't hold up' or 'don't delay' can also sound more natural in a professional setting.
+- 2026-10-27 17:27 — Use 'universal' or 'general-purpose' instead of 'common' when describing something that applies broadly across different contexts.
