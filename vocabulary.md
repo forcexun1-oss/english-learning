@@ -24530,3 +24530,4 @@
 - 2026-10-27 23:42 — In English, it is more natural to say 'What is the purpose of the downloaded model?' or 'What is the downloaded model used for?' rather than 'What is the downloaded model doing?'
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 23:43 — Use 'up to date' instead of 'latest version' when referring to current status. 'Previously investigated' is clearer than 'previously checked' in technical contexts.
