@@ -24723,3 +24723,4 @@
 - 2026-10-28 03:56 — Use 'Run' or 'Execute' for instructions to perform a process. 'PM patrol' is better phrased as 'Run the PM patrol' or 'Perform the patrol routine'.
 - 2026-10-28 04:16 — Use 'execute' or 'run' for routines. 'Items requiring action' is more idiomatic than 'things that need them' in technical contexts.
 - 2026-10-28 04:36 — Use 'execute' or 'run' instead of 'run its routine now' for a more professional tone. 'Action items' is a common term for tasks requiring user intervention.
+- 2026-10-28 04:51 — Use 'Ask him to...' for clear instructions. 'Should be unnecessary' is more natural than 'should not need' in this context.
