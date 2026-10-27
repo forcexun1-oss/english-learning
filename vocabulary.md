@@ -24267,3 +24267,4 @@
 - 2026-10-27 16:53 — In English, '咋样了' is best translated as 'How's it going?' or 'What's the status?' to ask for an update on progress.
 - 2026-10-27 17:03 — Use 'required' instead of 'need' for a more formal tone in technical contexts.
 - 2026-10-27 17:10 — Use 'performance' or 'speed' instead of 'run to how much' to describe model capabilities more naturally.
+- 2026-10-27 17:10 — In English, it's more natural to say 'Decode on my machine' or 'Run decoding on my machine' rather than just 'decode' as a standalone phrase.
