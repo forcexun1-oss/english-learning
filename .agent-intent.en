@@ -1,16 +1,22 @@
 <task-notification>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <task-id>bpb8jw2pl</task-id>
 <summary>Monitor event: "Tripo web task events 10"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
 [PROGRESS] The Dispatcher updated the scope in INBOX.read-2.md: it allows one retopo of an existing asset and auto-rigging, each costing <=100 displayed credits and <=250 additional total beyond the prior 30; preserve the original and inspect the retopo before rigging. The separate Rig Check remains unavailable/untested in the inspected panel and is not invoked. Proceeding to inspect the retopo UI under the new workflow and record running totals.
 =======
+=======
+>>>>>>> Stashed changes
 <task-id>b0wk0hhls</task-id>
 <summary>Monitor event: "Tripo web task events 9"</summary>
 <event>REASON=OUTBOX kind=GATE
 --- new OUTBOX text ---
 [GATE] Step 5 Rig Check is not exposed in the inspected Studio rig panel. OUT/05-rig-panel.png and OUT/05-rig-menu.png OPENED; DOM visible controls saved OUT/05-rig-visible-controls.json. Panel shows 人形 (humanoid) selected, 其他 alternative, default skeleton preset Mixamo, and 自动绑定 20 credits. There is no visible separate Rig Check/绑定检查 control or free/0 check price/result. The binding arrow did not reveal a check control. No auto-rig click made. Balance remains 4770. Need dispatcher guidance: ide...(truncated)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
