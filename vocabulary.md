@@ -24204,3 +24204,4 @@
 - 2026-10-27 09:41 — Use 'still' to indicate that a problem persists despite previous fixes.
 - 2026-10-27 09:54 — Use 'unclear' or 'indistinct' instead of '听不清' for audio quality. Use 'slightly better' to describe partial improvement.
 - 2026-10-27 10:05 — In English, 'pull' is the standard verb for fetching and merging changes from a remote branch (e.g., 'git pull').
+- 2026-10-27 10:07 — Use 'breaks' or 'gaps' instead of 'disconnected' for describing interruptions in audio or text flow. 'Unclear' or 'indistinct' is better than 'can't hear clearly' for text-based outputs.
