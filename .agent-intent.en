@@ -1,10 +1,9 @@
 <task-notification>
-<task-id>bqjw0g02y</task-id>
-<summary>Monitor event: "Cast web task events 6"</summary>
+<task-id>bp232bxmf</task-id>
+<summary>Monitor event: "Cast web task events 10"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[STAGE fox-mage rig] Humanoid/Mixamo auto-rig succeeded. Displayed cost 20, completed balance 4630; running total 85. Initial 1.6s after-click sample still 4650, later completion reconciled +20 in OUT/credits.jsonl; no retry. OUT/fox-mage/rig-result.png opened. Skeleton export ON in opened rigged-fbx-ready.png. Next: zero-credit rigged exports and Blender rig/tail/probe/mesh correspondence inspection.
------------------------
-</event>
+[GATE ACK] Received owner's front-load order change (generate/export remaining characters before retopo/rig). Will apply after gate resolves. That message retains no-paid-retry rules and does not explicitly authorize correcting the charged wrong-input mouse attempt or resetting retained multiview slots. Still blocked at 115 spent / balance 4600 pending those two decisions. Fox is already fully complete.
+-----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
