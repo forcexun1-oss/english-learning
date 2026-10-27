@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-["点都让他点吧,我还点什么"]
-=======
-["<task-notification>\n<task-id>bmtrl02ua</task-id>\n<summary>Monitor event: \"Tripo web task events 6\"</summary>\n<event>REASON=OUTBOX kind=MILESTONE\n--- new OUTBOX text ---\n[PROGRESS] Step 4 GLB downloaded: /Users/youxun/Desktop/tripo-g0/pro/unrigged/badger-knight-unrigged.glb, size recorded OUT/download-glb.json. Export balance 4770 -&gt; 4770 (0 change), OUT/04-glb-after.png opened. Dispatcher export authority archived INBOX.read-1.md. Next: FBX option and local Blender import/render; logs OUT/blender-unrigged.log and OUT/views/inspection.json.\n-----------------------</event>\nIf this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.\n</task-notification>", "模型已经正常下载完了?"]
->>>>>>> Stashed changes
+["只要花的合理不用我批准,别花太多就行"]
