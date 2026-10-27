@@ -24289,3 +24289,4 @@
 - 2026-10-27 20:31 — The original text was already in English and technically accurate, so no changes were made.
 - 2026-10-27 20:36 — The original text was already natural and idiomatic for a system log. I only corrected a truncated path in the `recent-output-file` field to match the project structure seen in previous messages.
 - 2026-10-27 20:39 — Use 'is [A] or [B] better?' to compare two options clearly.
+- 2026-10-27 20:39 — In English, 'check it' is more natural than a literal translation of '查一下' when asking someone to verify or look up information.
