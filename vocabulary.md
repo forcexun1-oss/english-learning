@@ -24509,3 +24509,4 @@
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
+- 2026-10-27 23:24 — Use 'stream' instead of 'stream ended' for clarity, or rephrase as 'The monitoring stream for... has ended'.
