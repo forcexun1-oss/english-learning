@@ -1,1 +1,1 @@
-I don't even want to commit these changes to main anymore. It seems like there's no benefit, and it's just introducing a lot of problems.
+Let's stop making further changes for now. We don't need the ASR timestamps anymore, but we should keep the other modifications.
