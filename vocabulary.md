@@ -24389,3 +24389,4 @@
 - 2026-10-27 22:00 — Use 'What I see' instead of 'Actually seen' for a more natural, professional tone. Also, 'does not look like' is more idiomatic than 'is not accepted as' when describing visual quality.
 - 2026-10-27 22:01 — Use 'baseline next to candidate' instead of 'baseline beside candidate' for clarity in visual comparisons.
 - 2026-10-27 22:03 — Use 'see' or 'refer to' for log files instead of just listing them in parentheses for better readability. Changed 'running in' to 'is running' for clearer status description.
+- 2026-10-27 22:08 — Use 'constraint' or 'requirement' instead of 'premise' in technical contexts. 'Premise' usually refers to an assumption or argument foundation, whereas 'constraint' fits data structure rules.

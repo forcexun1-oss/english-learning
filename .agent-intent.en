@@ -1,10 +1,1 @@
-<task-notification>
-<task-id>bcbuexa99</task-id>
-<summary>Monitor event: "cx-ears (sol) events re-arm 6"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[BUILD 3 / final rendering]
-Final allowed build completed at OUT/it3/region.glb (see OUT/it3/build.log, audit.json). The single build-script revision adds JSON-controlled rim-plane orientation and contour regularization; smoothing strength and front/back layers are defined in OUT/recipe-it3.json. Paired render/game proof is running (OUT/it3/render.log). Next: open all four comparisons, capture frozen ear-noise measurement, run independent packaging verification, then proceed to the single gate. No fourth geometry/render attempt will be made.
------------------------
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+[BLOCKED] The selected Sonnet ears GLB violates the shared original vertex count and index order constraint. OUT/asset_structure.json and OUT/ear_index_mismatch.json document the mismatch. Without a consistent index mapping, I can't compute a reliable ear delta. Please provide the ear position/normal data mapped to the original index order, or supply an ear asset that preserves the base accessor and indices. Alternatively, authorize a specific reconstruction method. No merge or render was attempted.
