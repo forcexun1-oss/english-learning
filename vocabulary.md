@@ -24281,3 +24281,4 @@
 - 2026-10-27 18:32 — Use 'turn it off' or 'shut it down' for devices. '关' translates to 'turn off' in this context.
 - 2026-10-27 18:58 — Use 'on the board' to refer to tasks related to the hardware board. 'Board's work' is less natural in this context.
 - 2026-10-27 19:37 — Use 'Wouldn't that be...' to express a rhetorical question or surprise about a logical consequence.
+- 2026-10-27 20:17 — Use 'proceed' instead of 'do' when asking about the next steps in a process.
