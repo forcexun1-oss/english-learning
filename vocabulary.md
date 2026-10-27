@@ -24641,3 +24641,4 @@
 - 2026-10-28 02:46 — In English, use 'Is' instead of 'Are' for singular subjects like 'progress' (进展).
 - 2026-10-28 02:49 — The input was already in natural, idiomatic English suitable for a developer context.
 - 2026-10-28 02:50 — Use 'completely black' or 'pitch black' instead of '全黑的' for more natural description. In technical contexts, 'rendering as black' is also common.
+- 2026-10-28 02:51 — Use 'not disclosed' or 'unknown' instead of '未测' (untested) when referring to missing information like pricing.
