@@ -24471,4 +24471,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-10-27 23:15 — Use the present perfect tense ('has ended') for completed actions with current relevance, or simple past ('ended') for a definitive past event. Avoid the passive construction 'stream ended' without an auxiliary verb.
+=======
+- 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
+>>>>>>> Stashed changes
