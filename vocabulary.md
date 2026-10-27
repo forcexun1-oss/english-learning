@@ -24719,3 +24719,4 @@
 - 2026-10-28 03:36 — Use 'execute' or 'run' for routines. 'Patrol' is a good metaphor for monitoring tasks.
 - 2026-10-28 03:37 — Changed 'Using single targeted retries' to 'Running single targeted retries' for more active, standard developer phrasing.
 - 2026-10-28 03:41 — Use 'Generated combined family sheet' instead of 'Combined fronts-family-sheet opened' for clearer action-oriented phrasing.
+- 2026-10-28 03:43 — Use 'security verification wall' or 'CAPTCHA challenge' to describe Cloudflare's bot verification pages in English.
