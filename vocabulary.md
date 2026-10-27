@@ -24534,3 +24534,4 @@
 - 2026-10-27 23:43 — Use 'up to date' instead of 'latest version' when referring to current status. 'Previously investigated' is clearer than 'previously checked' in technical contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 23:47 — Use 'skip downloading' to express 'not downloading' in a more natural way.
