@@ -24595,3 +24595,4 @@
 - 2026-10-28 01:26 — Use 'still fails' instead of 'nevertheless FAILS' for a more natural tone. Clarified 'stopped that owned process group' to 'stopped that process group' for better readability.
 - 2026-10-28 01:27 — Corrected a typo in the file path: '3e84' should be '4ffa' to match the session ID.
 - 2026-10-28 01:27 — Added 'the' before 'primary owner Tripo retopo FBX' for better flow and clarity.
+- 2026-10-28 01:28 — Use 'Leave [task] to [person]' to express delegating responsibility. 'Don't do it yourself' is a natural way to say '不要自己弄'.
