@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Monitor event: "gpt-concept3 (sol) events re-arm 6"
 
 <event>REASON=OUTBOX kind=MILESTONE
@@ -9,6 +10,8 @@ Monitor event: "gpt-concept3 (sol) events re-arm 6"
 
 If this event requires immediate user action, send a PushNotification. Routine or benign output does not need one.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <task-notification>
@@ -21,6 +24,9 @@ If this event requires immediate user action, send a PushNotification. Routine o
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
