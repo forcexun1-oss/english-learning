@@ -24194,3 +24194,4 @@
 - 2026-10-27 09:01 — In English, it's more natural to say 'Go ahead and run it' or 'Please run it' instead of just 'run it' when giving permission or instruction.
 - 2026-10-27 09:05 — Use 'right?' at the end of a statement to turn it into a question, which is more natural in spoken English than '应该...才对把'.
 - 2026-10-27 09:07 — In English, 'hear' is a stative verb and is rarely used in the imperative form for requests. Instead, use 'Listen' or 'Play it for me'.
+- 2026-10-27 09:09 — Use 'split' or 'broken' instead of 'disconnected' for text/data that is cut off. 'Read as' is natural for describing how a system interprets a value.
