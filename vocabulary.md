@@ -24695,3 +24695,4 @@
 - 2026-10-28 03:00 — In English, it's more natural to ask 'Is polling implemented?' or 'Does it use polling?' rather than a direct translation of '有的把'.
 - 2026-10-28 03:02 — Use 'packages' (plural) for multiple files and 'at 4735 each' for clarity. Replace 'paid rig' with 'paid rigging' to specify the action.
 - 2026-10-28 03:03 — In technical writing, use 'and' instead of '+' for better flow (e.g., 'download and inspection'). Also, ensure numbers like '18629' are formatted as '18,629' for readability.
+- 2026-10-28 03:04 — Use 'is ready' instead of 'ready' for complete sentences. Also, clarify '20 credits' as '20 credits displayed' to avoid ambiguity.

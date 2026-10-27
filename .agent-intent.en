@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>br2xe7720</task-id>
-<summary>Monitor event: "Tripo web task events 14"</summary>
+<task-id>bif0svhm4</task-id>
+<summary>Monitor event: "Tripo web task events 11"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] Retopo download and inspection complete. OUT/retopo-views/inspection.json: 18,629 triangles; UVMap present; no armature; bbox height 0.998046875, X span/height ratio ~0.9843. Basecolor 2048x2048; normal and RM 1024x1024 (quality downgrade). All four OUT/retopo-views/*.png renders OPENED; visible detail loss compared to original described in OUT/defects.md. Original exports preserved. INBOX.read-3.md explicitly confirms no UI Rig Check exists, authorizes skipping it as untested, and notes one 20-credit humanoid/Mixamo ...(truncated)
+[PROGRESS] Step 6 auto-rig is ready on the retopo result: 18,629 visible faces, humanoid selected, default Mixamo skeleton, and 20 credits displayed. OUT/06-rig-ready.png has been opened; balance is 4735. Next step: click auto-rig under INBOX.read-3.md. Expected additional cost: 55 credits (total 250 cap), bringing the task total to 85 credits including the initial generation, if charged as displayed. No separate Rig Check: explicitly skipped per the dispatcher (未测).
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
