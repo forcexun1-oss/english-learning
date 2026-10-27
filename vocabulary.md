@@ -24524,3 +24524,4 @@
 - 2026-10-27 23:31 — In English, 'ugly' is a strong subjective term. In professional contexts, consider using 'unappealing', 'low quality', or 'not visually pleasing' to sound more objective.
 - 2026-10-27 23:31 — Use 'outputs' or 'generations' instead of 'model' when referring to the images produced. 'Ugly' is fine for informal feedback, but 'poor quality' or 'visually unappealing' is more professional.
 - 2026-10-27 23:32 — Use 'Never mind' or 'Forget about' to dismiss previous points. '衣服' is best translated as 'clothing' or 'outfit' in a character design context.
+- 2026-10-27 23:32 — Use 'also' or 'too' at the end of the sentence to add another point. 'Off' is a natural way to say something is incorrect or not as expected.
