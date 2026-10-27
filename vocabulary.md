@@ -24615,3 +24615,4 @@
 - 2026-10-28 02:09 — In English, 'open' is a verb. '直接' translates to 'directly' or 'just'. A natural command is 'Open it directly' or simply 'Open it'.
 - 2026-10-28 02:11 — Use 'What am I supposed to look at and decide?' to clearly ask for the specific action or decision required.
 - 2026-10-28 02:12 — In English, it's more natural to say 'The models need to look good' rather than 'The model wants to be good-looking'.
+- 2026-10-28 02:13 — Use 'Verdict' or 'Decision' to summarize user feedback concisely. Ensure technical paths and settings are clearly separated from narrative text for readability.
