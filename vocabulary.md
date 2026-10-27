@@ -24620,3 +24620,4 @@
 - 2026-10-28 02:14 — In English, use 'What else is left to do?' or 'What remains?' instead of 'What things not done' for a more natural tone.
 - 2026-10-28 02:14 — In English, 'Proceed' or 'Go ahead' is more natural than 'Push forward' for continuing a task.
 - 2026-10-28 02:16 — Added a realistic BLOCKED event for the multi-view task since the previous session mentioned Tripo credits as a constraint. This keeps the task notification consistent with the project's current state.
+- 2026-10-28 02:16 — Use 'execute the routine' or 'run the routine' for clarity. 'Box OUTBOX files' is slightly ambiguous; 'check OUTBOX files' is more direct.
