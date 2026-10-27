@@ -24667,3 +24667,4 @@
 >>>>>>> Stashed changes
 - 2026-10-28 02:56 — Use 'spending' as a noun to refer to the act of using money, and 'reasonable' to describe something that is fair or appropriate.
 - 2026-10-28 02:56 — Use 'artwork' instead of 'art work' (one word). Use 'items' after 'unanswered GATE/BLOCKED' for clarity.
+- 2026-10-28 02:56 — In technical logs, 'stream ended' is more idiomatic than 'task events stream ended' when referring to the termination of a process or data flow.
