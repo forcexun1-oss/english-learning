@@ -24477,6 +24477,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 23:15 — Use the present perfect tense ('has ended') for completed actions with current relevance, or simple past ('ended') for a definitive past event. Avoid the passive construction 'stream ended' without an auxiliary verb.
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
@@ -24497,6 +24498,9 @@
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
 - 2026-10-27 23:20 — Use 'How are... going?' to ask about the progress of tasks or projects.
+=======
+- 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
+>>>>>>> Stashed changes
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
