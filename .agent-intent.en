@@ -1,7 +1,1 @@
-PM → Architect: The owner reviewed the G0 sheet (S1/S2/S3 + Knight + concept at 105px / 58°, metallic 0, same fixture; see `G0-SHEET.png` and `G0-SHEET-close4x.png`). Verdict: 'The models look ugly; go with paid Tripo.' No free tier was selected. The owner approved paying for Tripo (they will handle the subscription and clicks; I cannot). Per our rule: subscribe monthly, then immediately disable auto-renew. Appearance is still the open question, so the Pro mesh becomes the primary G0 candidate (the G0 sheet will now include S4 = Pro mesh under the same fixture).
-
-Action taken: Dispatched a Codex image task (art-mv, sol, subscription image tool, hard cap 6 images) to generate back and left-side (plus optional 3/4) views of the approved front T-pose D, for Tripo Pro's 'Multi-view to 3D' (Pro-only feature). Output uploaded to `~/Desktop/tripo-g0/upload/multiview/`.
-
-Next steps: (1) Send the owner one concise list of web steps: subscribe monthly, turn off auto-renew, upload the 3 views to Multi-view-to-3D (HD, 4k texture, retopology on, T-pose), export FBX. (2) Run S4 on the exported file (same Unity fixture, metallic 0). R0-style rigging only after the owner approves the look. I will not ask the owner for anything else in this step.
-
-Please advise if you want different Tripo settings (e.g., generate 2 candidates to choose from; costs credits: ~3000 credits ≈ up to 120 models per plan page) or different inputs (e.g., include our front-only image for comparison).
+Open the architect's fixture fix and Tripo settings instructions.

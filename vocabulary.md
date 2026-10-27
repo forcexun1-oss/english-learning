@@ -24616,3 +24616,4 @@
 - 2026-10-28 02:11 — Use 'What am I supposed to look at and decide?' to clearly ask for the specific action or decision required.
 - 2026-10-28 02:12 — In English, it's more natural to say 'The models need to look good' rather than 'The model wants to be good-looking'.
 - 2026-10-28 02:13 — Use 'Verdict' or 'Decision' to summarize user feedback concisely. Ensure technical paths and settings are clearly separated from narrative text for readability.
+- 2026-10-28 02:14 — Use 'Open' or 'Execute' for tasks. '直接打开' is too literal; 'Open the instructions' is more natural.
