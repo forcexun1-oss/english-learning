@@ -24562,3 +24562,4 @@
 - 2026-10-28 00:30 — Use 'none of which are' instead of 'none of them are' when referring to a plural noun in a relative clause for a more formal tone, though both are acceptable in dev chat.
 - 2026-10-28 00:31 — Use the passive voice ('How can I control...') when asking about system capabilities. Avoid '要怎么才能' (literal: 'what way can I') which is slightly awkward; 'How can I' is more natural.
 - 2026-10-28 00:32 — Use 'The desktop app' instead of 'Desktop-side application' for clarity. 'Haiku' should be capitalized as it refers to a specific model name.
+- 2026-10-28 00:33 — In English, it is more natural to use the imperative verb 'Install' or 'Please install' rather than the literal translation 'You install' (你装).
