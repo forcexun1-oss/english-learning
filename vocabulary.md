@@ -24192,3 +24192,4 @@
 - 2026-10-27 08:33 — In technical contexts, 'pause' is often more precise than 'stop' for temporary halts. 'Everything' is a natural way to refer to all running tasks or processes.
 - 2026-10-27 09:01 — Use 'the algorithm behind [Product]' to clarify that the algorithm is a core component of the product.
 - 2026-10-27 09:01 — In English, it's more natural to say 'Go ahead and run it' or 'Please run it' instead of just 'run it' when giving permission or instruction.
+- 2026-10-27 09:05 — Use 'right?' at the end of a statement to turn it into a question, which is more natural in spoken English than '应该...才对把'.
