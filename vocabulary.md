@@ -24253,3 +24253,4 @@
 - 2026-10-27 15:40 — Use 'production code' instead of '生产的代码' (which literally means 'produced code'). In software contexts, 'production' refers to the live/deployed environment.
 - 2026-10-27 15:44 — Use 'prior to' or 'before' to clearly indicate the sequence of events (e.g., 'code prior to the streaming updates').
 - 2026-10-27 15:48 — In English, use 'let me' instead of 'I' when offering to perform an action for yourself.
+- 2026-10-27 15:53 — Use 'pauses' (noun) instead of '停顿' (verb) when describing the audio artifacts. 'Except for' is a natural way to introduce the remaining issue.
