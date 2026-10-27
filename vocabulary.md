@@ -24737,3 +24737,4 @@
 - 2026-10-28 05:36 — Use 'execute' or 'run' for routines. 'Otherwise, provide a single short status line' is clearer than 'otherwise one short line'.
 - 2026-10-28 05:40 — Use parentheses for stats like face counts to improve readability. Replace slashes with 'using' or 'at' for clearer phrasing (e.g., 'using Smart Mesh P1.0').
 - 2026-10-28 05:44 — Use 'on the first attempt' instead of 'succeeded once' for clearer phrasing.
+- 2026-10-28 05:57 — Use 'execute' or 'run' instead of 'run its routine now' for a more direct command. 'Otherwise, provide a single short update' is clearer than 'otherwise one short line'.

@@ -1,9 +1,1 @@
-<task-notification>
-<task-id>b4ig0dio7</task-id>
-<summary>Monitor event: "Cast web task events 17"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[STAGE C mouse rig] Humanoid/Mixamo auto-rig succeeded on the first attempt for 20 credits (4470→4450; running total 265). Opened corrected/rig-result.png and rigged-fbx-ready.png confirm success and skeleton ON. Downloaded rigged FBX+GLB with zero delta, and extracted FBX/.fbm. Evidence in OUT/mouse-minion/corrected/{rig-click.log,rig-watch.log,rigged-fbx-download.log,rigged-glb-download.log}. Next: humanoid/Mixamo rig for the boar, followed by all remaining local inspections and milestones.
------------------------</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+Run the AI character art PM patrol. Read /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/PATROL.md and execute the routine: check running Codex tasks and box OUTBOX files, handle any unanswered GATE/BLOCKED items, re-arm monitors, relaunch dead tasks once, and respond to the architect session if it wrote. Report only changes or items requiring owner action (payment approval, Tripo web clicks, appearance judgment) to the owner; otherwise, provide a single short update.
