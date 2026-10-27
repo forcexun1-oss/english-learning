@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>bhntvwvkm</task-id>
-<summary>Monitor event: "Cast web task events 13"</summary>
+<task-id>blbxqnhz3</task-id>
+<summary>Monitor event: "Cast web task events 12"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] PRE-CLICK boar-boss: OPENED OUT/boar-boss/02-ready-check.png and source front/back/left. Three thumbnails show the BOAR front/left/back (tusks, charcoal coat, brown trim, spiked shoulders, hooves); right is empty. Displayed Generate 30, balance 4570, button enabled; H3.1, 2K/PBR/textures/triangles confirmed, ultra/parts/8K OFF. Receipt + opened review recorded. Readiness helper had over-escaped regex causing false timeouts; fixed, not a Studio failure. Submitting one boar generation.
+[MILESTONE] Phase A complete: fox, corrected mouse, and boar models generated and unrigged GLB+FBX files downloaded (.fbm preserved); all export deltas are 0. Boar generation cost 30 credits (4570→4540); total task spend is 175 credits, including the 30-credit wrong-input attempt. Logs: OUT/boar-boss/generation-click.log, unrigged-{glb,fbx}-download.log. Mesh stats: Mouse original Blender 972,488 triangles; Boar 955,872 triangles. UVs and 2K maps present. Four views opened for each: mouse (coarse weave, paws, rear helmet bands, single curled tail); boar (shorter sid...(truncated)
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
