@@ -24246,3 +24246,4 @@
 - 2026-10-27 15:13 — Use 'generate' instead of 'give me to listen' for text/audio synthesis. 'At once' or 'in one go' is more natural than 'whole sentence generation' in this context.
 - 2026-10-27 15:17 — Use 'introduced by' to describe bugs caused by recent code changes.
 - 2026-10-27 15:20 — Use 'concatenating' or 'joining' instead of '拼起来' for technical contexts. 'Incomplete generation' is clearer than '不完整生成'.
+- 2026-10-27 15:28 — Use 'commit' instead of 'submit' when referring to pushing code changes to a repository.
