@@ -24632,3 +24632,4 @@
 - 2026-10-28 02:29 — Use 'assigned to' or 'given to' instead of 'sent to' when talking about tasks or work distribution.
 - 2026-10-28 02:29 — Use 'delegate' to describe assigning tasks to someone else. 'Instead of' is a natural way to contrast two actions.
 - 2026-10-28 02:32 — Use 'non-uniform' (with a hyphen) when it acts as an adjective before a noun.
+- 2026-10-28 02:33 — Use 'figure out' or 'figure out how to' for '看看怎么' to sound more natural and active.
