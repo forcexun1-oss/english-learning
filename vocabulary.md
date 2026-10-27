@@ -24221,3 +24221,4 @@
 - 2026-10-27 10:56 — In English, it is more natural to use 'Can I use...' or 'Is this usable...' rather than a direct translation of '是不是' at the end of the sentence.
 - 2026-10-27 11:09 — Use 'update' or 'correct' instead of 'change' for formal technical contexts. 'Documentation' is often pluralized as 'docs' in casual speech, but 'documentation' is better for written instructions.
 - 2026-10-27 11:20 — In English, 'Go ahead' or 'Proceed' is a natural way to give permission or instruct someone to start a task, rather than a literal translation of '派' (assign/delegate).
+- 2026-10-27 11:36 — In English, '咋样了' is best translated as 'What's the status?' or 'How is it going?' depending on context. For technical updates, 'What's the status?' is precise and professional.
