@@ -24258,3 +24258,4 @@
 - 2026-10-27 15:57 — In English, 'split' is the correct term for text being broken into separate parts. 'Cut' usually implies removing something entirely.
 - 2026-10-27 16:00 — Use 'restart' or 'start over' for '重新改'. 'Worthless' or 'useless' is more natural than 'no value' in this context.
 - 2026-10-27 16:05 — Use 'prioritize quality' instead of 'quality first' for a more professional tone. Also, 'fast initial playback' is a clearer technical term for '起播快'.
+- 2026-10-27 16:11 — Use 'Do they all have to be executed sequentially?' for better grammar. 'Can we get started?' is a natural way to say '可以开干吧' in a professional context.
