@@ -24755,3 +24755,4 @@
 - 2026-10-28 06:31 — Use 'approved' instead of 'agreed' for formal task status. Break long instructions into bullet points for clarity, especially when defining technical constraints like 'URP Lit' or 'per-texel' data.
 - 2026-10-28 06:36 — Use 'resolve' instead of 'handle' for issues/tickets, and 'interactions' or 'actions' instead of 'clicks' for web tasks. 'Brief status line' is more idiomatic than 'one short line' in this context.
 - 2026-10-28 06:56 — Use 'action items' or 'items requiring action' instead of 'things that need them' for a more professional tone. 'Judgment' is the standard US spelling.
+- 2026-10-28 07:16 — Use 'items' or 'issues' after 'unanswered GATE/BLOCKED' for clarity. 'Otherwise, provide a single short line' is more direct than 'otherwise one short line'.
