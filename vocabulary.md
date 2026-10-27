@@ -24276,3 +24276,4 @@
 - 2026-10-27 18:12 — Use 'How much longer?' to ask about the remaining time for a task or event.
 - 2026-10-27 18:22 — In English, 'How much longer?' is a natural and concise way to ask about the remaining time for a task.
 - 2026-10-27 18:24 — Use 'enable line breaks' instead of '换行' directly translated. 'Floating box' is more natural than '浮个动态框'.
+- 2026-10-27 18:28 — Use 'power off' or 'cut power to' instead of '断电' (literally 'cut electricity') for hardware devices.
