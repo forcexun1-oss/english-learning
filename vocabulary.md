@@ -24295,3 +24295,4 @@
 - 2026-10-27 20:48 — In English, 'How's it going?' is a natural and common way to ask for a status update or check on progress.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 20:49 — Use 'handle' or 'solve' for '解决' in technical contexts. 'Budget' is more natural than 'quota' for financial limits.
