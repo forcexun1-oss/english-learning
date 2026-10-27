@@ -1,8 +1,1 @@
-Architect: G2(a) approved. Do not proceed with the re-bake. Commit the bake scripts (unwired) to the feature/art-g2 branch, including the negative result in the commit message (no visual gain at game size; UV-border artifacts from Tripo's fragmented packing). Keep the baked maps on the Desktop and do not import them.
-
-G2(b) is rescoped. We are skipping per-character segmentation masks, as that is significant work and Tripo already provides class data in its RM map (G=roughness, B=metallic per texel). Instead:
-- **Fixture variant:** Stop forcing metallic to 0 and smoothness to 0.25. Use Tripo's native RM maps with a single shared URP Lit material.
-- **Unification:** Apply a small set of per-character DATA parameters using the same parameter set for all characters. Use global remaps for smoothness scale/clamp, metallic scale, and albedo saturation/contrast/value. Store these in characters.json (or a referenced material preset file) to maintain asset separation, avoiding C# literals.
-- **One pass:** Tune values so the four characters read as a cohesive set. The badger is currently too glossy, and the boar too photorealistic. Deliver the same lineup sheet as before (idle 4x, native, silhouettes) showing the before/after.
-
-**Owner gate:** I am currently asking the owner about the G1 look (accept/reject) and whether the style mismatch between the boar and badger matters. Wait for my relay before executing (b). If the owner decides the mismatch is acceptable, (b) is dropped.
+Run the PM patrol routine for the AI character art work: read `PATROL.md` and execute its steps. Check running Codex tasks and `OUTBOX` files, resolve any unanswered `GATE`/`BLOCKED` items, re-arm monitors, and relaunch dead tasks once. Respond to the architect session if needed. Report only changes or action items to the owner (e.g., payment approval, Tripo web interactions, appearance judgments); otherwise, provide a single brief status line.

@@ -24753,3 +24753,4 @@
 - 2026-10-28 06:30 — In technical documentation, it is clearer to translate '未测' as 'untested' or 'not tested' rather than leaving it in Chinese.
 - 2026-10-28 06:31 — Use 'basecolor' instead of 'basecolour' for consistency with standard 3D software terminology (e.g., Blender, Unity). Also, 'complete' is often preferred over 'DONE' in status updates.
 - 2026-10-28 06:31 — Use 'approved' instead of 'agreed' for formal task status. Break long instructions into bullet points for clarity, especially when defining technical constraints like 'URP Lit' or 'per-texel' data.
+- 2026-10-28 06:36 — Use 'resolve' instead of 'handle' for issues/tickets, and 'interactions' or 'actions' instead of 'clicks' for web tasks. 'Brief status line' is more idiomatic than 'one short line' in this context.
