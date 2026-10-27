@@ -24201,3 +24201,4 @@
 - 2026-10-27 09:31 — Use 'unclear' or 'indistinct' to describe pronunciation that is hard to understand.
 - 2026-10-27 09:34 — Use 'pauses' or 'stutters' to describe breaks in speech. '块' is the character for 'piece' or 'block'.
 - 2026-10-27 09:37 — In English, 'continue' is a verb and does not need an object like 'a' after it. You can simply say 'Continue' or 'Keep going'.
+- 2026-10-27 09:41 — Use 'still' to indicate that a problem persists despite previous fixes.
