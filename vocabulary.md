@@ -24461,3 +24461,4 @@
 - 2026-10-27 23:09 — Use 'run in parallel' for tasks executing simultaneously. '并行' translates to 'parallel' in computing contexts.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 23:11 — Use 'requires immediate user action' for clarity. Change 'doesn't' to 'does not' for a slightly more formal tone in instructions, though 'doesn't' is acceptable in casual dev chat.
