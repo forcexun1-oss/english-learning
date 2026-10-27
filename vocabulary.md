@@ -24598,3 +24598,4 @@
 - 2026-10-28 01:28 — Use 'Leave [task] to [person]' to express delegating responsibility. 'Don't do it yourself' is a natural way to say '不要自己弄'.
 - 2026-10-28 01:31 — Use 'Leave everything to [person/tool]' to express delegating all tasks. 'Don't handle it yourself' is a natural way to say '不要自己弄'.
 - 2026-10-28 01:32 — Use semicolons or line breaks to separate distinct status updates (e.g., render results vs. git status) for better readability.
+- 2026-10-28 01:34 — In 3D animation contexts, 'rest pose' is the standard term for a model's default, unposed state, rather than 'rest-coordinate'.
