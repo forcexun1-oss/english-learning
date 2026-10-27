@@ -24241,3 +24241,4 @@
 - 2026-10-27 14:35 — Use 'split' or 'break' instead of 'cut' when referring to words or strings in programming contexts.
 - 2026-10-27 14:38 — Use 'Did you hear...' instead of 'Did you listen...' when asking if someone perceived a specific sound or event.
 - 2026-10-27 14:39 — Use 'without streaming' or 'non-streaming' to describe generating text all at once rather than token by token.
+- 2026-10-27 14:40 — In English, '都要' is best translated as 'Do both' or 'I want both' depending on context. Avoid literal translations like 'all want'.
