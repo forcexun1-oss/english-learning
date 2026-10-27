@@ -24608,3 +24608,4 @@
 - 2026-10-28 01:50 — Changed 'Knight captures' to 'capturing the Knight' for better flow. Clarified 'disappearance at sampled runtime' to 'disappearance at runtime' as 'sampled' was redundant in this context.
 - 2026-10-28 01:51 — In English, we typically say a monitoring process 'has ended' or 'stopped' rather than 'stream ended' when referring to the completion of a task.
 - 2026-10-28 01:54 — Use 'labeled' instead of 'labelled' for consistency with US English, which is standard in software development.
+- 2026-10-28 01:55 — Use 'single smoothing pass' instead of 'one smoothing operation' for more natural technical phrasing. Also, 'gap' is more precise than 'band' when describing mesh stretching artifacts.
