@@ -24559,3 +24559,4 @@
 - 2026-10-28 00:27 — In English, it is more natural to say 'I already have the key' rather than 'Already have key'.
 - 2026-10-28 00:29 — In English, you need a subject and verb. '有200' translates to 'There are 200' or 'I have 200,' depending on context.
 - 2026-10-28 00:30 — In English, 'control' or 'operate' is more natural than 'adjust' (调) when referring to software or browser automation.
+- 2026-10-28 00:30 — Use 'none of which are' instead of 'none of them are' when referring to a plural noun in a relative clause for a more formal tone, though both are acceptable in dev chat.
