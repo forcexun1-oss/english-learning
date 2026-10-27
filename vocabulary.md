@@ -24317,3 +24317,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 20:59 — Use 'stream ended' instead of 'stream end' for past tense.
