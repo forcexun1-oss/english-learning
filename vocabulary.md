@@ -24310,3 +24310,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 20:57 — Use 'stream' instead of 'stream ended' for better flow, or rephrase as 'The monitoring stream for... has ended'.
