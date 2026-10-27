@@ -24756,3 +24756,4 @@
 - 2026-10-28 06:36 — Use 'resolve' instead of 'handle' for issues/tickets, and 'interactions' or 'actions' instead of 'clicks' for web tasks. 'Brief status line' is more idiomatic than 'one short line' in this context.
 - 2026-10-28 06:56 — Use 'action items' or 'items requiring action' instead of 'things that need them' for a more professional tone. 'Judgment' is the standard US spelling.
 - 2026-10-28 07:16 — Use 'items' or 'issues' after 'unanswered GATE/BLOCKED' for clarity. 'Otherwise, provide a single short line' is more direct than 'otherwise one short line'.
+- 2026-10-28 07:36 — Added 'items' after 'GATE/BLOCKED' for clarity and 'their attention' to make the requirement for owner intervention more explicit. Changed 'otherwise one short line' to 'otherwise, provide one short status line' for better flow.
