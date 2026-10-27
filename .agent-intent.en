@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>blbxqnhz3</task-id>
-<summary>Monitor event: "Cast web task events 12"</summary>
+<task-id>bloxivvoc</task-id>
+<summary>Monitor event: "Cast web task events 15"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] Phase A complete: fox, corrected mouse, and boar models generated and unrigged GLB+FBX files downloaded (.fbm preserved); all export deltas are 0. Boar generation cost 30 credits (4570→4540); total task spend is 175 credits, including the 30-credit wrong-input attempt. Logs: OUT/boar-boss/generation-click.log, unrigged-{glb,fbx}-download.log. Mesh stats: Mouse original Blender 972,488 triangles; Boar 955,872 triangles. UVs and 2K maps present. Four views opened for each: mouse (coarse weave, paws, rear helmet bands, single curled tail); boar (shorter sid...(truncated)
+[STAGE B mouse retopo] Submitted one Smart Mesh P1.0 / triangles / 20k target at 35 credits (4540→4505; running total 210). UI result: 18,421 faces. GLB+FBX downloaded with zero export delta; .fbm extracted. Evidence in OUT/mouse-minion/corrected/{retopo-click.log, retopo-result.png, retopo-glb-download.log, retopo-fbx-download.log}. Next: retopo the boar using the same settings. Local retopo comparison deferred to the post-browser inspection phase, as requested.
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>

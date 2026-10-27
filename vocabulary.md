@@ -24733,3 +24733,4 @@
 - 2026-10-28 05:08 — Use 'Fox is already fully complete' instead of 'Fox already fully complete' for better grammar.
 - 2026-10-28 05:21 — Changed 'are BOAR' to 'show the BOAR' for clearer description of image thumbnails.
 - 2026-10-28 05:28 — Use semicolons to separate distinct status updates in a log summary for better readability.
+- 2026-10-28 05:34 — Use 'one' instead of 'once' when referring to a single task instance (e.g., 'Submitted one Smart Mesh job'). 'Once' usually refers to time (e.g., 'do it once').
