@@ -24605,3 +24605,4 @@
 - 2026-10-28 01:46 — Use a slash (roughness/smoothness) instead of 'roughness smoothness' to concisely group related technical terms.
 - 2026-10-28 01:47 — In English, use 'stream ended' or 'stream has ended' rather than 'stream end' for past/completed actions.
 - 2026-10-28 01:49 — Use 'Ran exactly one...' instead of 'Exactly one... call' for active, natural phrasing.
+- 2026-10-28 01:50 — Changed 'Knight captures' to 'capturing the Knight' for better flow. Clarified 'disappearance at sampled runtime' to 'disappearance at runtime' as 'sampled' was redundant in this context.
