@@ -1,9 +1,6 @@
-## Iteration 2 — reviewed, final revision next
-
-Opened `OUT/it2/close-000-pair.png`, `close-035-pair.png`, `close-090-pair.png`, `close-180-pair.png` individually, and `OUT/it2/paired-sheet.png` (which includes the above/rear 3/4 views).
-
-**Visuals:** The front and 35-degree views now show continuous brown strand texture on the tail patches, and the side view has a rounded volume instead of a flat sheet. However, the rear is still too scalloped/pinecone-like, with pale pointed ends facing the attachment and a dark circular exposed patch at the tip. The top-down view shows repeated overlapping blades rather than the source's triangular noise. Coverage is much improved, but the cream-colored tips near the root and the exposed patch at the terminal end remain defects.
-
-**Evidence:** `OUT/it2-build.log`, `OUT/it2/verification.json`, `OUT/it2-sheet.log`, and the paired PNGs. No likeness score is computed since the front concept has no tail target.
-
-**Diagnosis for the final build/render iteration:** The raw glTF UVs use downward V, while the layout controls follow Blender's upward-V convention. I need to fix this conversion so the cream tips align with the tail direction. I'll also add a short closing radial row whose tips converge beyond the retained core (with roots still sunk in) to close the terminal hole. This involves one complete build-script revision plus recipe data updates. Smoothing, base topology, source materials, and original images remain unchanged.
+[ITERATION 2 / visual review and measured result]
+Opened individually: OUT/it2/review/close-000-pair.png, close-035-pair.png, close-090-pair.png, close-180-pair.png, close-below-pair.png. Baseline is next to candidate in each.
+What I see: The front now has a continuous pale tuft band, but its hard, regular top edge looks like an attached beard. Long tips hang over the collar. At 35 degrees, the lower-left tufts stretch into broad parallel ribbons; the side view shows an obvious shelf projecting toward the shoulder; the below view exposes large flat cards along the jaw. The rear remains visually unchanged. The nose, mouth, and eyes are not covered. This does not look like a natural ruff.
+OUT/review2.log and OUT/it2/review/noise-summary.json record noise.chin at 2.9569829840399273 against a paired baseline of 3.709117400328865; this is an improvement but still FAILS against the 1.3 threshold. Geometry and unchanged-byte evidence: OUT/it2/build.json and invariants.json.
+Final allowed iteration change: use more, narrower, and shorter cards; raise the upper layer toward the cheek/mouth underside; stagger roots to break the beard boundary; lower the tint toward the source grey; and prevent drape onto distant collar/chest hits. Smoothing remains the same as iteration 2. Save explicit draped per-card geometry in the layout so the handoff records the actual curved mesh, not just the pre-drape controls. Single author-script change for this iteration. Parameters: OUT/recipe3.json.
+Next costly step: final candidate paired Cycles orbit, below, and game-scale renders. This is build/render/look iteration 3 of 3; no additional iterations are authorized.
