@@ -24217,3 +24217,4 @@
 - 2026-10-27 10:49 — Use 'How big is...' to ask about size. '还是' in this context implies 'still' or 'also,' so 'Are you still...' is the natural translation.
 - 2026-10-27 10:50 — Use 'check if' instead of '看...有吗' for a more natural and professional tone in technical contexts.
 - 2026-10-27 10:54 — Use 'It should be...' to confirm a technical requirement or specification.
+- 2026-10-27 10:54 — Use the imperative form 'Stop' to give a direct command.
