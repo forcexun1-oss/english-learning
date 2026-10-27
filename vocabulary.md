@@ -24272,3 +24272,4 @@
 - 2026-10-27 17:14 — In English, '做啊' in this context is best translated as 'Go ahead' or 'Get started' rather than a literal 'Do it.' 'Don't wait' is correct, but 'don't hold up' or 'don't delay' can also sound more natural in a professional setting.
 - 2026-10-27 17:27 — Use 'universal' or 'general-purpose' instead of 'common' when describing something that applies broadly across different contexts.
 - 2026-10-27 17:34 — Use 'the' before specific model names like 'the 6.1 terra model' for clarity.
+- 2026-10-27 18:03 — In English, it is better to use full sentences like 'Yes' or 'Yes, please' instead of just '要' to ensure clarity.
