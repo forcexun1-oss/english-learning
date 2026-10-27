@@ -24600,3 +24600,4 @@
 - 2026-10-28 01:32 — Use semicolons or line breaks to separate distinct status updates (e.g., render results vs. git status) for better readability.
 - 2026-10-28 01:34 — In 3D animation contexts, 'rest pose' is the standard term for a model's default, unposed state, rather than 'rest-coordinate'.
 - 2026-10-28 01:36 — Use 'patrol' as a verb to describe routine checks. 'Appearance judgment' is more idiomatic than 'appearance judgement' in this context.
+- 2026-10-28 01:39 — Use 'PM' as a verb (e.g., 'PM the patrol') to mean 'perform the monitoring task,' which is concise and natural in dev contexts.
