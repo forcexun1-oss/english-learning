@@ -24478,6 +24478,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 23:15 — Use the present perfect tense ('has ended') for completed actions with current relevance, or simple past ('ended') for a definitive past event. Avoid the passive construction 'stream ended' without an auxiliary verb.
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
@@ -24505,3 +24506,6 @@
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
 - 2026-10-27 23:22 — Added the definite article 'the' before 'high-poly comparison' for parallel structure in the list, and added 'in' before the artifact paths for clarity.
+=======
+- 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
+>>>>>>> Stashed changes
