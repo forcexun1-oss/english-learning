@@ -24687,3 +24687,4 @@
 =======
 - 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
 >>>>>>> Stashed changes
+- 2026-10-28 02:58 — In English, 'I won't be watching' is more natural than 'I no longer watch' for indicating you are stepping back from monitoring a task.
