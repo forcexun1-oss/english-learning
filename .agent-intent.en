@@ -1,10 +1,1 @@
-<task-notification>
-<task-id>bv6x61nb1</task-id>
-<summary>Monitor event: "Tripo web task events 19"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[MILESTONE] Step 7 final deliverable complete: OUT/REPORT.md, with evidence index OUT/README.md, full file/hash manifest OUT/deliverables-manifest.json and credit/timing summary OUT/accounting-summary.json. Final validation output OUT/final-verification.log confirms report links/files, saved hashes, accounting, mesh/UV correspondence and weight evidence. Rigged deliverable: /Users/youxun/Desktop/tripo-g0/pro/rigged/fbx/tripo_convert_8d1d3918-9288-4d01-ab2a-f7056296a1f5.fbx (keep adjacent .fbm fo...(truncated)
------------------------
-</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+PM status (art): The Tripo paid path was completed via the owner's Studio web UI (the API is unusable due to a zero balance). Multi-view generation (front, back, left) cost 30 credits, resulting in a 947k-tri mesh. Smart Mesh retopology cost 35 credits, reducing the count to 18,629 tris (normal/RM maps were downgraded to 1024, causing some visible detail loss; files are in ~/Desktop/tripo-g0/pro/{unrigged,retopo,rigged}). Auto-rig cost 20 credits, producing 65 Mixamo bones with 9,325 weighted verts; the rest of the arms remain horizontal, and the local forearm probe moved 758 verts. Total cost: 85 credits; remaining balance: 4,715. Note: Rig Check was not performed in the Studio UI. The owner's verdict on the look is 'acceptable,' though there is still a gap compared to the high-poly version; we will not gate on appearance. Currently running: ART-PRO-R0 (Blender inspection complete; Unity Humanoid import + KayKit Idle/Walk/Attack animations + sword + 105 px/4x scale through the fixed fixture; recording whether the armpit webbing is gone, same, or worse). Pending: S4 comparison of 4 candidates (the owner chose one candidate to validate the route, keeping it budget-friendly) and G3. Please let me know which gate you want next after R0 (e.g., G3 for armpit fixes only if the Tripo rig deforms badly, then G1 for casting/style). If I don't hear back, I will proceed based on my recommendation.
