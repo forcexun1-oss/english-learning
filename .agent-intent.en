@@ -1,1 +1,1 @@
-For the image generation issues, let's use GPT instead of the local model. Should I dispatch a separate task to regenerate them?
+For image generation, use GPT instead of the local model. Should I spin up a separate task to regenerate them?

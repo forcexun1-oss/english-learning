@@ -24396,3 +24396,4 @@
 - 2026-10-27 22:12 — The original text was already natural and idiomatic for a technical log. No changes were made.
 - 2026-10-27 22:13 — Use 'check passed' or 'passed' to describe a successful validation step, rather than 'passes' which can be ambiguous.
 - 2026-10-27 22:16 — Use 'dispatch' or 'assign' when asking an AI to create a new sub-task. '派' translates well to 'dispatch' in a workflow context.
+- 2026-10-27 22:18 — Use 'spin up' for starting a new process or task. 'GPT' is commonly used as a shorthand for OpenAI's models.
