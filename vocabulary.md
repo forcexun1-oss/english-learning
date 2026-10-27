@@ -24226,3 +24226,4 @@
 - 2026-10-27 11:54 — Use 'primarily' or 'mainly' instead of '主流' (mainstream) when referring to hardware support. Also, 'NVIDIA GPUs' is more precise than just 'NVIDIA cards'.
 - 2026-10-27 11:55 — In English, it is more natural to say 'the one I just downloaded' rather than 'just downloaded' to clearly specify the object.
 - 2026-10-27 12:34 — In streaming contexts, 'first token' (or 'time to first token') is the standard term for the delay before the first piece of output appears.
+- 2026-10-27 13:03 — In English, we usually say 'play' or 'listen to' rather than 'open to listen.' If you want the AI to generate audio, you can say 'Generate audio for this.'
