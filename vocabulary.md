@@ -24264,3 +24264,4 @@
 - 2026-10-27 16:35 — In English, it is more natural to use the verb 'run' with 'experiments' rather than 'do'.
 - 2026-10-27 16:35 — Use 'investigate' or 'research' for technical surveys. '调查' can mean 'investigate' (for problems/tasks) or 'survey' (for market/tech trends).
 - 2026-10-27 16:39 — Capitalize the first letter of the sentence.
+- 2026-10-27 16:53 — In English, '咋样了' is best translated as 'How's it going?' or 'What's the status?' to ask for an update on progress.
