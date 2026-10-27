@@ -24575,3 +24575,4 @@
 - 2026-10-28 00:55 — Use 'paid vs. free plans' or 'paid vs. free features' for clarity. Avoid literal translations like 'paying and not paying'.
 - 2026-10-28 00:56 — Use 'So, it means...' to summarize a conclusion. In Chinese, '还行' here likely means '还是' (or do I still have to...), not '还行' (not bad).
 - 2026-10-28 00:58 — Use 'proceed with the task' or 'continue with the task' to ask if work can move forward.
+- 2026-10-28 00:59 — Use 'as soon as possible' or 'ASAP' to convey '尽早' naturally in a professional context.
