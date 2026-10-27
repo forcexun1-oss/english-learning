@@ -24321,3 +24321,4 @@
 - 2026-10-27 20:59 — Use 'stream ended' instead of 'stream end' for past tense.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 21:01 — Use 'Next steps:' instead of 'Next:' for a more natural transition in technical updates.

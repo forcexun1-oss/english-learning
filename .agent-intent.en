@@ -1,5 +1,10 @@
-<<<<<<< Updated upstream
-Monitor "terra hair-cards events (re-arm 3)" stream ended
-=======
-For this task, is Claude Code better than Codex for Unity code? Please check.
->>>>>>> Stashed changes
+<task-notification>
+<task-id>bsqvtk3d1</task-id>
+<summary>Monitor event: "terra hair-cards events (resumed)"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+## Resumed: ear preparation
+The dispatcher confirmed the budget is still available and approved the atlas sources. Source geometry and UV-colour centroid extraction are recorded in OUT/spatial/spatial.json and OUT/spatial/plots. I've opened the front, side, and rear base head renders in OUT/base-head. Next steps: author the ear envelope and card layout, build a candidate with interpolated UVs at the cut, audit protected triangles, and render paired views.
+-----------------------</event>
+If this event requires immediate user action, send a PushNotification. Routine or benign output does not need one.
+</task-notification>
