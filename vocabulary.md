@@ -24587,3 +24587,4 @@
 - 2026-10-28 01:14 — Use 'and' before the last item in a list of three or more items for better flow.
 - 2026-10-28 01:15 — Use 'set up monitoring' or 'enable polling' instead of 'hang on inspection' to sound more natural in a technical context.
 - 2026-10-28 01:16 — Use 'CAPTCHA' instead of 'human check' for technical accuracy. Use 'in progress' or 'in flight' consistently for task status.
+- 2026-10-28 01:19 — Use 'Do we have to...?' to ask about necessity. 'Skip it' is a natural way to say 'don't do it yet'.
