@@ -24329,3 +24329,4 @@
 - 2026-10-27 21:03 — The original text is already natural and idiomatic for a developer context. No changes needed.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 21:04 — Use 'render' for generating visual output in 3D or graphics contexts.
