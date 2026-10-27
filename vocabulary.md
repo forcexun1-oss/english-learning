@@ -24609,3 +24609,4 @@
 - 2026-10-28 01:51 — In English, we typically say a monitoring process 'has ended' or 'stopped' rather than 'stream ended' when referring to the completion of a task.
 - 2026-10-28 01:54 — Use 'labeled' instead of 'labelled' for consistency with US English, which is standard in software development.
 - 2026-10-28 01:55 — Use 'single smoothing pass' instead of 'one smoothing operation' for more natural technical phrasing. Also, 'gap' is more precise than 'band' when describing mesh stretching artifacts.
+- 2026-10-28 01:56 — Use 'auto-weights' instead of 'automatic weights' for brevity, and 'validated' instead of 'answered' when confirming a technical route works.
