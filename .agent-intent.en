@@ -1,1 +1,9 @@
-Monitor "Tripo web task events 9" stream ended
+<task-notification>
+<task-id>bpb8jw2pl</task-id>
+<summary>Monitor event: "Tripo web task events 10"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[PROGRESS] The Dispatcher updated the scope in INBOX.read-2.md: it allows one retopo of an existing asset and auto-rigging, each costing <=100 displayed credits and <=250 additional total beyond the prior 30; preserve the original and inspect the retopo before rigging. The separate Rig Check remains unavailable/untested in the inspected panel and is not invoked. Proceeding to inspect the retopo UI under the new workflow and record running totals.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
