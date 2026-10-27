@@ -24720,3 +24720,4 @@
 - 2026-10-28 03:37 — Changed 'Using single targeted retries' to 'Running single targeted retries' for more active, standard developer phrasing.
 - 2026-10-28 03:41 — Use 'Generated combined family sheet' instead of 'Combined fronts-family-sheet opened' for clearer action-oriented phrasing.
 - 2026-10-28 03:43 — Use 'security verification wall' or 'CAPTCHA challenge' to describe Cloudflare's bot verification pages in English.
+- 2026-10-28 03:56 — Use 'Run' or 'Execute' for instructions to perform a process. 'PM patrol' is better phrased as 'Run the PM patrol' or 'Perform the patrol routine'.
