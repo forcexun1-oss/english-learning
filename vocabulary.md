@@ -24384,3 +24384,4 @@
 - 2026-10-27 21:56 — Use bullet points for lists of observations or data to improve readability in technical reports.
 - 2026-10-27 21:56 — Use backticks for file paths and variable names (e.g., `OUT/gates.json`) to improve readability and distinguish them from regular text.
 - 2026-10-27 21:57 — Use bold headers (e.g., **Visual findings:**) to structure technical reports, making it easier for reviewers to scan key sections quickly.
+- 2026-10-27 21:58 — The original message was missing the standard 'OUTBOX text' header and summary details found in similar completed task notifications. I added the standard structure to make it consistent with other milestone updates.
