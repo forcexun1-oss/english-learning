@@ -24212,3 +24212,4 @@
 - 2026-10-27 10:24 — In English, 'messy' is an adjective, so you should say 'Is the codebase messy?' rather than 'Is the codebase messy-ly?' or using it as a verb directly without proper structure.
 - 2026-10-27 10:31 — Use 'comprehensive review' or 'holistic review' instead of 'overall review' for code. 'Unintelligible' is more precise than 'can't hear clearly' for text/audio generation artifacts.
 - 2026-10-27 10:36 — In English, 'assign' is more precise than 'dispatch' for delegating tasks to an AI or team member.
+- 2026-10-27 10:42 — Use 'streaming performance' for 流式性能. When asking to hear something, 'play the audio' or 'let me hear the audio' is more natural than 'audio give me to listen'.
