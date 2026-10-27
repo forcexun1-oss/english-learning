@@ -24715,3 +24715,4 @@
 - 2026-10-28 03:29 — The original text is already natural and idiomatic for a technical log.
 - 2026-10-28 03:32 — Use 'due to' instead of 'for' when explaining a reason for rejection to sound more professional.
 - 2026-10-28 03:33 — Use a period to separate distinct thoughts instead of a semicolon for better readability.
+- 2026-10-28 03:36 — Use 'with' to introduce accompanying details (e.g., 'with subtle face/material redraw') for better flow. Clarify 'Starting rear/left' as 'Starting rear/left views' to specify what is being generated.
