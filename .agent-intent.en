@@ -1,13 +1,9 @@
-<<<<<<< Updated upstream
-It looks much better now, though there's still a gap compared to the high-poly model. It's acceptable. Keep running it and don't ask me again.
-=======
 <task-notification>
-<task-id>b0wk0hhls</task-id>
-<summary>Monitor event: "Tripo web task events 9"</summary>
-<event>REASON=OUTBOX kind=GATE
+<task-id>b62og1pfh</task-id>
+<summary>Monitor event: "Tripo web task events 8"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[GATE] Step 5 Rig Check is not exposed in the inspected Studio rig panel. OUT/05-rig-panel.png and OUT/05-rig-menu.png OPENED; DOM visible controls saved OUT/05-rig-visible-controls.json. Panel shows 人形 (humanoid) selected, 其他 alternative, default skeleton preset Mixamo, and 自动绑定 20 credits. There is no visible separate Rig Check/绑定检查 control or free/0 check price/result. The binding arrow did not reveal a check control. No auto-rig click made. Balance remains 4770. Need dispatcher guidance: ide...(truncated)
+[PROGRESS] Retopo configured on original asset: triangles, Smart Mesh P1.0 ON, target 20000 (slider aria-valuenow 20000 and input 20000), displayed cost 35. OUT/05-retopo-ready.png OPENED; OUT/05-retopo-config.log. Before balance 4770; authorized additional budget remaining 250, this step uses 35 if charged. Next: single paid retopo click and watch completion, no retry.
 -----------------------</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+If this event requires user action, send a PushNotification. Routine or benign output does not need one.
 </task-notification>
->>>>>>> Stashed changes

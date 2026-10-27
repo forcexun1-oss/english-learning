@@ -24682,3 +24682,4 @@
 =======
 - 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
 >>>>>>> Stashed changes
+- 2026-10-28 02:58 — Use 'requires user action' instead of 'something the user would act on now' for more concise and professional phrasing.
