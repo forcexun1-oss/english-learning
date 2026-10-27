@@ -1,7 +1,1 @@
-The probe failed: no browser-control tools are available in this session, so I couldn't reach Tripo.
-
-- **(1) Tools found:** None. The `enable__mcp__claude-in-chrome`, `enable__mcp__remote-devices__Claude_Browser__`, and `mcp__claude-in-chrome__*` names all returned "No matching deferred tools found." The `mcp__remote-devices__Claude_Browser__*` search also returned nothing. A keyword search for "chrome browser navigate screenshot tabs" surfaced only Figma, WebFetch, and Google/Gmail tools, none of which are browser-control. The chrome-browser and built-in-browser skills loaded, but they only describe tools that aren't present.
-- **(2) Steps (a) to (f):** Not reached. I did not open tripo3d.ai, so there is no login state, credit balance, upload entry point, licence text, or permission prompt to report.
-- **(3) Errors:** No permission prompt or error text. The tools simply aren't registered.
-
-Nothing was clicked, changed, or signed in. The probe can be retried once the Claude desktop app's built-in browser or the Chrome extension is connected and enabled for this session.
+How can I control the browser?
