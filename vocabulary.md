@@ -24292,7 +24292,10 @@
 - 2026-10-27 20:39 — In English, 'check it' is more natural than a literal translation of '查一下' when asking someone to verify or look up information.
 - 2026-10-27 20:39 — In English, it is more natural to use 'better than' instead of '还是...更好' directly. Also, 'Please check' is a polite and clear way to ask for verification.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 20:48 — In English, 'How's it going?' is a natural and common way to ask for a status update or check on progress.
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 20:49 — Use 'handle' or 'solve' for '解决' in technical contexts. 'Budget' is more natural than 'quota' for financial limits.
+=======
+>>>>>>> Stashed changes
