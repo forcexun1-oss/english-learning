@@ -24207,3 +24207,4 @@
 - 2026-10-27 10:07 — Use 'breaks' or 'gaps' instead of 'disconnected' for describing interruptions in audio or text flow. 'Unclear' or 'indistinct' is better than 'can't hear clearly' for text-based outputs.
 - 2026-10-27 10:16 — Use 'Should we...' to propose a sequence of actions. 'A/B testing' is the standard term for comparing two versions.
 - 2026-10-27 10:17 — Use 'proceed with' to indicate moving forward with a specific plan or action.
+- 2026-10-27 10:19 — Use 'comprehensive review' instead of 'overall review' for a more professional tone in technical contexts.
