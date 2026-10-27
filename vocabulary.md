@@ -24382,3 +24382,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 21:56 — Use bullet points for lists of observations or data to improve readability in technical reports.
+- 2026-10-27 21:56 — Use backticks for file paths and variable names (e.g., `OUT/gates.json`) to improve readability and distinguish them from regular text.
