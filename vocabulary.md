@@ -24403,3 +24403,4 @@
 - 2026-10-27 22:25 — Added a missing comma after 'side-a' and a space before 'and three-quarter-a' for better readability.
 - 2026-10-27 22:35 — In English, questions usually require an auxiliary verb like 'Do we have...?' or 'Is there...?' instead of just stating the subject and object.
 - 2026-10-27 22:41 — Use 'interim results' or 'progress so far' to describe阶段性成果 in a professional context.
+- 2026-10-27 22:42 — Use 'spin up' or 'start' for tasks/processes. 'Separate' is better than 'single' when contrasting with the current one.
