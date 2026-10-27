@@ -24570,3 +24570,4 @@
 - 2026-10-28 00:41 — In English, 'just' or 'only' is often placed before the noun or verb to emphasize limitation (e.g., 'Is it only one?' or 'Is there just one?').
 - 2026-10-28 00:42 — Use 'Does X affect Y?' for yes/no questions about impact. '方案判断' translates well to 'evaluate the solution' or 'assess the approach' in this context.
 - 2026-10-28 00:44 — In English, it is more natural to say 'Is exporting paid?' or 'Do I have to pay to export?' rather than 'Export needs money?'
+- 2026-10-28 00:52 — In English, it is more natural to say 'I can't export without this' rather than 'Must have this, I can't export'.
