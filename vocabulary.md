@@ -24186,3 +24186,4 @@
 - 2026-10-27 08:00 — In technical instructions, use 'verify' or 'check' instead of 'look at' for a more professional tone. Also, 're-attach' or 're-launch' is clearer than 're-hang' for background processes.
 - 2026-10-27 08:03 — Use 'resume' instead of 'restore' when continuing a paused task or process.
 - 2026-10-27 08:13 — Use 'render' for the final visual output in 3D or graphics contexts. 'Final render' is a common phrase to ask for the completed result.
+- 2026-10-27 08:15 — Use 'Show me' or 'Let me see' for natural requests. 'Rendered output' is the standard term for the final visual result.
