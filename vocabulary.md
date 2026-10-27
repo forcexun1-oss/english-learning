@@ -24407,3 +24407,4 @@
 - 2026-10-27 22:45 — Use 'sturdier' for robustness and 'goofier' for a silly/cute look to describe character design nuances.
 - 2026-10-27 22:46 — Use 'empty' or 'lacking detail' to describe areas that feel underdeveloped. 'Warrior's legs' is a natural way to specify the desired aesthetic.
 - 2026-10-27 22:46 — The original text was already idiomatic and technically accurate. No changes were needed.
+- 2026-10-27 22:47 — In 3D modeling, 'high-poly' (高模) refers to a detailed mesh. Use 'high-poly model' for clarity in technical discussions.
