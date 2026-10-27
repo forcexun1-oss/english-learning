@@ -24476,3 +24476,4 @@
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
+- 2026-10-27 23:17 — In English, 'concept map' is the correct term for a diagram that represents concepts and their relationships.
