@@ -24441,3 +24441,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 22:58 — The original text is already clear and idiomatic for a technical log. No changes needed.
+- 2026-10-27 23:00 — Use 'proportions' for 身体比例 and 'posture' for 体态 to be more precise in 3D modeling contexts.

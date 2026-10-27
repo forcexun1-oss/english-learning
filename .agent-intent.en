@@ -1,8 +1,1 @@
-Monitor event: "astra-fidelity events re-arm 2"
-
-Event: REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[STAGE] Pilot 1 executed; OUT/pilot1/renders opened. Front appearance is closer but rotated views expose duplicated eyes/trim, blue paint on ear fur and tail contamination; not accepted. Attempt 2 adds material rejection, front ownership of face/ears, stable normal field for view selection, low-frequency seam blending plus single-source detail, material-restricted local 3D fill, and tail exclusion. Added owner-requested direct-coloured high-poly control is running (OUT/highpoly.log).
------------------------
-
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+Use this image as a reference for the body posture, feet, and proportions. The hat is incorrect; it should be a different one.
