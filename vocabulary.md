@@ -24187,3 +24187,4 @@
 - 2026-10-27 08:03 — Use 'resume' instead of 'restore' when continuing a paused task or process.
 - 2026-10-27 08:13 — Use 'render' for the final visual output in 3D or graphics contexts. 'Final render' is a common phrase to ask for the completed result.
 - 2026-10-27 08:15 — Use 'Show me' or 'Let me see' for natural requests. 'Rendered output' is the standard term for the final visual result.
+- 2026-10-27 08:29 — Use 'Why is it so dark?' for natural, concise questions about lighting or brightness issues.
