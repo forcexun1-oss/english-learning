@@ -24677,3 +24677,4 @@
 =======
 - 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
 >>>>>>> Stashed changes
+- 2026-10-28 02:57 — Use 'high-poly model' for '高模' in 3D modeling contexts. 'Keep running it' is more natural than 'continue to run' for ongoing processes.
