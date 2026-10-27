@@ -24268,3 +24268,4 @@
 - 2026-10-27 17:03 — Use 'required' instead of 'need' for a more formal tone in technical contexts.
 - 2026-10-27 17:10 — Use 'performance' or 'speed' instead of 'run to how much' to describe model capabilities more naturally.
 - 2026-10-27 17:10 — In English, it's more natural to say 'Decode on my machine' or 'Run decoding on my machine' rather than just 'decode' as a standalone phrase.
+- 2026-10-27 17:12 — In English, 'over 30' or 'more than 30' is more natural than '30 plus' when referring to quantities. Also, ensure the subject (e.g., 'it') is clear.
