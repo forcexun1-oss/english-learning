@@ -24520,3 +24520,4 @@
 >>>>>>> Stashed changes
 - 2026-10-27 23:27 — Use 'Forget it' or 'Never mind' to express giving up on an idea. 'Concept map' is the correct term for a diagram showing relationships between concepts.
 - 2026-10-27 23:28 — The sentence is grammatically correct and uses standard technical phrasing for system logs. No changes needed.
+- 2026-10-27 23:28 — In technical logs, 'completed (exit code 0)' is standard. Ensure you use 'superseded by' when referring to a newer version replacing an older one.
