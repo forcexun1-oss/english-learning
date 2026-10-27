@@ -1,1 +1,1 @@
-The full-sentence generation also has issues. Can you generate audio using the previous version, or do you have a backup? Let me listen to it. The problem was likely introduced by the recent changes.
+The tests pass, so why isn't it generating the full output? Why are you concatenating the pieces?
