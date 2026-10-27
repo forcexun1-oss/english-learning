@@ -24368,3 +24368,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 21:52 — Use 're-armed' (past participle) instead of 're-arm' to describe the state of the monitor.
