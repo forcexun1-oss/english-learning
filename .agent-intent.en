@@ -1,1 +1,10 @@
-Monitor "Cast inputs task events 7" stream ended
+<task-notification>
+<task-id>ba52y1ivk</task-id>
+<summary>Monitor event: "Cast inputs task events 8"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[STAGE] Boar back-a/left-a explicitly opened. Targeted retries: rear hoof orientation; side apparent scale and far-leg occlusion while retaining deep belly/long snout. These exhaust allowed retries and character cap. Ordered references initial view + normalized front + selected original. Evidence: OUT/boar-boss/back-a.png, OUT/boar-boss/left-a.png, OUT/prompts.md.
+-----------------------
+</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
