@@ -24261,3 +24261,4 @@
 - 2026-10-27 16:11 — Use 'Do they all have to be executed sequentially?' for better grammar. 'Can we get started?' is a natural way to say '可以开干吧' in a professional context.
 - 2026-10-27 16:12 — Use 'separate' or 'isolated' instead of 'independent' when referring to code branches to avoid ambiguity.
 - 2026-10-27 16:31 — Use 'researched' or 'looked into' instead of 'surveyed' when asking about technical investigation or deep dives.
+- 2026-10-27 16:35 — In English, it is more natural to use the verb 'run' with 'experiments' rather than 'do'.
