@@ -24725,3 +24725,4 @@
 - 2026-10-28 04:36 — Use 'execute' or 'run' instead of 'run its routine now' for a more professional tone. 'Action items' is a common term for tasks requiring user intervention.
 - 2026-10-28 04:51 — Use 'Ask him to...' for clear instructions. 'Should be unnecessary' is more natural than 'should not need' in this context.
 - 2026-10-28 04:52 — Use 'Has the workflow been validated?' to ask if a process is working correctly. '流程跑通了' literally means 'the process ran through,' but in English, we usually say a workflow is 'validated,' 'working,' or 'running smoothly.'
+- 2026-10-28 04:53 — Use 'avoid + gerund' (e.g., 'avoid having to click') to express preventing a future action.
