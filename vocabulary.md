@@ -24550,3 +24550,4 @@
 - 2026-10-28 00:03 — Use 'What is' to ask about a specific issue. 'Route' can refer to a technical path (like a 2D vs. 3D pipeline) or a literal path.
 - 2026-10-28 00:04 — Use 'milestones' or 'checkpoints' to describe stages in a process that must be approved before moving forward.
 - 2026-10-28 00:06 — Use 'drive the project forward' or 'lead the project' instead of 'push' to sound more professional in a business context.
+- 2026-10-28 00:10 — In English, 'routes' usually refers to paths or directions. In a project context, 'approaches', 'paths', or 'strategies' is more natural.
