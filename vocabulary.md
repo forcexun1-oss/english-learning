@@ -24275,3 +24275,4 @@
 - 2026-10-27 18:03 — In English, it is better to use full sentences like 'Yes' or 'Yes, please' instead of just '要' to ensure clarity.
 - 2026-10-27 18:12 — Use 'How much longer?' to ask about the remaining time for a task or event.
 - 2026-10-27 18:22 — In English, 'How much longer?' is a natural and concise way to ask about the remaining time for a task.
+- 2026-10-27 18:24 — Use 'enable line breaks' instead of '换行' directly translated. 'Floating box' is more natural than '浮个动态框'.
