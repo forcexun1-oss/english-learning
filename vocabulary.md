@@ -24692,3 +24692,4 @@
 =======
 - 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
 >>>>>>> Stashed changes
+- 2026-10-28 03:00 — In English, it's more natural to ask 'Is polling implemented?' or 'Does it use polling?' rather than a direct translation of '有的把'.
