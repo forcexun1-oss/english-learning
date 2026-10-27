@@ -24670,6 +24670,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 02:56 — In technical logs, 'stream ended' is more idiomatic than 'task events stream ended' when referring to the termination of a process or data flow.
 - 2026-10-28 02:57 — In technical writing, use gerunds (e.g., 'auto-rigging') when referring to the action/process, and nouns (e.g., 'auto-rig') when referring to the feature or tool.
 =======
@@ -24683,3 +24684,6 @@
 - 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
 >>>>>>> Stashed changes
 - 2026-10-28 02:58 — Use 'requires user action' instead of 'something the user would act on now' for more concise and professional phrasing.
+=======
+- 2026-10-28 02:56 — In technical logs, keep specific UI labels (like 'Rig Check') in English or provide the English term in parentheses for clarity, rather than mixing Chinese characters directly into the English sentence structure.
+>>>>>>> Stashed changes
