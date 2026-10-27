@@ -24188,3 +24188,4 @@
 - 2026-10-27 08:13 — Use 'render' for the final visual output in 3D or graphics contexts. 'Final render' is a common phrase to ask for the completed result.
 - 2026-10-27 08:15 — Use 'Show me' or 'Let me see' for natural requests. 'Rendered output' is the standard term for the final visual result.
 - 2026-10-27 08:29 — Use 'Why is it so dark?' for natural, concise questions about lighting or brightness issues.
+- 2026-10-27 08:32 — Use 'so much better' or 'much better' instead of '好那么多' to sound more natural. 'Leftmost' is a precise way to refer to the first image in a sequence.
