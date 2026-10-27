@@ -24525,3 +24525,4 @@
 - 2026-10-27 23:31 — Use 'outputs' or 'generations' instead of 'model' when referring to the images produced. 'Ugly' is fine for informal feedback, but 'poor quality' or 'visually unappealing' is more professional.
 - 2026-10-27 23:32 — Use 'Never mind' or 'Forget about' to dismiss previous points. '衣服' is best translated as 'clothing' or 'outfit' in a character design context.
 - 2026-10-27 23:32 — Use 'also' or 'too' at the end of the sentence to add another point. 'Off' is a natural way to say something is incorrect or not as expected.
+- 2026-10-27 23:34 — Use 'going about this' to mean 'approaching this method'. 'Technicalities' refers to minor technical details or complexities.
