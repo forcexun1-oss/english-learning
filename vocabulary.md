@@ -24578,3 +24578,4 @@
 - 2026-10-28 00:59 — Use 'as soon as possible' or 'ASAP' to convey '尽早' naturally in a professional context.
 - 2026-10-28 01:02 — In technical contexts, use 'await authorization' or 'pending approval' instead of 'waiting for you to say yes' to sound more professional.
 - 2026-10-28 01:03 — Use 'regarding' or 'as for' to introduce a specific topic you want to address separately.
+- 2026-10-28 01:06 — Use 'regardless of' to translate '管他是什么' for a natural, decisive tone.
