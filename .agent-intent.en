@@ -1,1 +1,1 @@
-Check the TTS. It should have been working fine before the switch to streaming. Identify which commit it was, switch to that commit, and generate a sample to test. Is the artifact still on the board? Let me listen to it.
+By "other" I mean the other changes on the ASR branch, which should be the upgrades.

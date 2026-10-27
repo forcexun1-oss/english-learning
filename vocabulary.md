@@ -24249,3 +24249,4 @@
 - 2026-10-27 15:28 — Use 'commit' instead of 'submit' when referring to pushing code changes to a repository.
 - 2026-10-27 15:30 — Use 'stop doing something' or 'hold off on changes' to clearly indicate pausing work. 'And' is better than 'but' when connecting two related thoughts about what to keep vs. discard.
 - 2026-10-27 15:32 — Use 'switch to' or 'checkout' when referring to changing Git commits. 'Artifact' is the standard term for build outputs.
+- 2026-10-27 15:32 — Use 'I mean' to clarify your reference when a term like 'other' could be ambiguous.
