@@ -24235,3 +24235,4 @@
 - 2026-10-27 13:15 — Use 'compare A with B' to show similarities or differences between two things.
 - 2026-10-27 13:57 — Use 'address' or 'resolve' for handling issues in a professional context.
 - 2026-10-27 13:59 — Use 'in parallel' or 'at the same time' instead of '同步都做掉' for a more natural technical expression.
+- 2026-10-27 14:05 — Use 'That's it' or 'That's all' to confirm completion or indicate no further actions are needed.
