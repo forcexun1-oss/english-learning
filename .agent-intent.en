@@ -1,13 +1,8 @@
-<<<<<<< Updated upstream
-Monitor event: "gpt-concept2 (sol) events re-arm 5"
-=======
-<task-notification>
-<task-id>bk0p4aro4</task-id>
-<summary>Monitor event: "gpt-concept2 (sol) events re-arm 4"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
+Monitor event: "astra-fidelity events re-arm 2"
+
+Event: REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[STAGE] Sheets built and opened: OUT/turnaround.png and OUT/compare.png; compare shows accepted v1 beside selected v2 front, followed by selected v2 angles. No artwork repainting; deterministic composition only. Evidence: OUT/make_sheets.py, OUT/sheets.log, OUT/image-manifest.json. Next: run the copied background-connected Lab color key from tools/art/3d/gt_cutout.py, preserving the source algorithm, then inspect the grey/magenta sheet and report alpha counts.
------------------------</event>
+[STAGE] Pilot 1 executed; OUT/pilot1/renders opened. Front appearance is closer but rotated views expose duplicated eyes/trim, blue paint on ear fur and tail contamination; not accepted. Attempt 2 adds material rejection, front ownership of face/ears, stable normal field for view selection, low-frequency seam blending plus single-source detail, material-restricted local 3D fill, and tail exclusion. Added owner-requested direct-coloured high-poly control is running (OUT/highpoly.log).
+-----------------------
+
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
->>>>>>> Stashed changes
