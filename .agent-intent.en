@@ -1,1 +1,1 @@
-Can you generate this entire sentence using the production code? I want to listen to it.
+1. For ASR, we can drop the timestamp handling, but the other code changes should be kept. 2. For TTS, the upgrade was done before the streaming modifications. Can we isolate these changes and test with the code prior to the streaming updates?
