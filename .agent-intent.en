@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>b3ptruggj</task-id>
-<summary>Monitor event: "Cast web task events 14"</summary>
+<task-id>b4ig0dio7</task-id>
+<summary>Monitor event: "Cast web task events 17"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] Phase B complete: corrected mouse retopo (18,421 faces) and boar retopo (19,382 faces), both using Smart Mesh P1.0 / triangles / 20,000 target at 35 credits each. Boar balance 4505→4470; running spend 245. Both retopo GLB+FBX downloaded with zero export deltas; .fbm preserved. Evidence: OUT/boar-boss/retopo-{click,watch}.log, retopo-{glb,fbx}-download.log; corresponding mouse corrected logs. Next Phase C: humanoid/Mixamo rig for mouse then boar, expected 20 credits each; no alternative rig type unless gate.
+[STAGE C mouse rig] Humanoid/Mixamo auto-rig succeeded on the first attempt for 20 credits (4470→4450; running total 265). Opened corrected/rig-result.png and rigged-fbx-ready.png confirm success and skeleton ON. Downloaded rigged FBX+GLB with zero delta, and extracted FBX/.fbm. Evidence in OUT/mouse-minion/corrected/{rig-click.log,rig-watch.log,rigged-fbx-download.log,rigged-glb-download.log}. Next: humanoid/Mixamo rig for the boar, followed by all remaining local inspections and milestones.
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>

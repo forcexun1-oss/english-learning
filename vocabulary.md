@@ -24736,3 +24736,4 @@
 - 2026-10-28 05:34 — Use 'one' instead of 'once' when referring to a single task instance (e.g., 'Submitted one Smart Mesh job'). 'Once' usually refers to time (e.g., 'do it once').
 - 2026-10-28 05:36 — Use 'execute' or 'run' for routines. 'Otherwise, provide a single short status line' is clearer than 'otherwise one short line'.
 - 2026-10-28 05:40 — Use parentheses for stats like face counts to improve readability. Replace slashes with 'using' or 'at' for clearer phrasing (e.g., 'using Smart Mesh P1.0').
+- 2026-10-28 05:44 — Use 'on the first attempt' instead of 'succeeded once' for clearer phrasing.
