@@ -1,10 +1,1 @@
-<task-notification>
-<task-id>bu2b7vum8</task-id>
-<summary>Monitor event: "Cast inputs task events 7"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[STAGE] Selected and opened boar front-b; framing improved, but side hoof margins are still narrower than requested. Front retry exhausted; no further front generation. Starting back/left views with the normalized front as the authoritative reference for corrected hooves. Evidence: OUT/boar-boss/front-b.png, OUT/generation-actions.log, OUT/prompts.md.
------------------------
-</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+Monitor "Cast inputs task events 7" stream ended
