@@ -1,1 +1,10 @@
-Monitor "cx-chin (sol) events" stream ended
+<task-notification>
+<task-id>bdzedb9d0</task-id>
+<summary>Monitor event: "cx-ears (sol) events re-arm"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[BUILD 1 / rendering]
+Completed the first ear build. The exact output audit is at OUT/it1/audit.json, and the command output is in OUT/it1/build.log. The audit records preserved base accessor order/indices, 33,730 identical outside vertices, and 26,266 identical outside triangles. Plume accessors, materials, and images remain unchanged, with 768 new ear triangles added. Texture edits have zero changed pixels within the guarded outside footprint. Paired Cycles baseline/result and native game proof renders are running via OUT/it1/render.log; all four visual comparisons and frozen hp_eva...(truncated)
+-----------------------</event>
+If this event requires user action, send a PushNotification. Routine or benign output does not need one.
+</task-notification>
