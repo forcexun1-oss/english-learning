@@ -24603,3 +24603,4 @@
 - 2026-10-28 01:39 — Use 'PM' as a verb (e.g., 'PM the patrol') to mean 'perform the monitoring task,' which is concise and natural in dev contexts.
 - 2026-10-28 01:44 — Added 'and' before the final item in the list ('build sheets and compare') for better parallel structure.
 - 2026-10-28 01:46 — Use a slash (roughness/smoothness) instead of 'roughness smoothness' to concisely group related technical terms.
+- 2026-10-28 01:47 — In English, use 'stream ended' or 'stream has ended' rather than 'stream end' for past/completed actions.
