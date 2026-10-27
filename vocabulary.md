@@ -24557,3 +24557,4 @@
 - 2026-10-28 00:18 — Use 'Can [Tool] handle this?' to ask about capability, and 'Ultimately, [Agent] will execute' to clarify the final actor.
 - 2026-10-28 00:21 — In English, it's more natural to say 'go ahead and try' or 'give it a try' rather than a direct translation of 'you try'.
 - 2026-10-28 00:27 — In English, it is more natural to say 'I already have the key' rather than 'Already have key'.
+- 2026-10-28 00:29 — In English, you need a subject and verb. '有200' translates to 'There are 200' or 'I have 200,' depending on context.
