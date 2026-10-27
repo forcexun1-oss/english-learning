@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>bif0svhm4</task-id>
-<summary>Monitor event: "Tripo web task events 11"</summary>
+<task-id>bkipy2h0w</task-id>
+<summary>Monitor event: "Tripo web task events 16"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[PROGRESS] Step 6 auto-rig is ready on the retopo result: 18,629 visible faces, humanoid selected, default Mixamo skeleton, and 20 credits displayed. OUT/06-rig-ready.png has been opened; balance is 4735. Next step: click auto-rig under INBOX.read-3.md. Expected additional cost: 55 credits (total 250 cap), bringing the task total to 85 credits including the initial generation, if charged as displayed. No separate Rig Check: explicitly skipped per the dispatcher (未测).
+[PROGRESS] Step 6 auto-rig completed at a cost of 20 credits; balance updated from 4735 to 4715. Total additional spend is 55 / 250, and the task total is 85. OUT/06-rig-result.png has been opened: the skeleton is visible, and the UI states "Models with bound skeletons can be used for animation." The result retains 18,629 faces. A default humanoid/Mixamo skeleton was selected; no explicit rig model version string is shown. Next steps: export the rigged FBX, then perform Blender bone/weight/rest pose/mesh comparisons and open the renders. No paid retries or animations will be performed.
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>

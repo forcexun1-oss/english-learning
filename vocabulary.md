@@ -24696,3 +24696,4 @@
 - 2026-10-28 03:02 — Use 'packages' (plural) for multiple files and 'at 4735 each' for clarity. Replace 'paid rig' with 'paid rigging' to specify the action.
 - 2026-10-28 03:03 — In technical writing, use 'and' instead of '+' for better flow (e.g., 'download and inspection'). Also, ensure numbers like '18629' are formatted as '18,629' for readability.
 - 2026-10-28 03:04 — Use 'is ready' instead of 'ready' for complete sentences. Also, clarify '20 credits' as '20 credits displayed' to avoid ambiguity.
+- 2026-10-28 03:05 — In technical logs, avoid mixing Chinese characters (like '已绑定骨骼的模型可用于动画') into English sentences. Either translate the content or keep it in quotes as a raw UI string.
