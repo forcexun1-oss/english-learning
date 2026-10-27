@@ -24583,3 +24583,4 @@
 - 2026-10-28 01:11 — Use 'Is there anything else?' for yes/no questions. '没有了' is a statement; adding '吧' makes it a suggestion, but 'Is there anything else?' is more natural for confirming completion.
 - 2026-10-28 01:12 — Use 'regardless of' or 'no matter what' to translate '管他是什么' for a more natural tone.
 - 2026-10-28 01:13 — Use 'the first/second attempt' instead of 'first/second' for clarity. Use 'the comparison' and 'the exported GLB' to specify the objects being acted upon.
+- 2026-10-28 01:13 — Use 'switch to a larger model' instead of 'change big model' for better clarity. 'Acts as the architect' is a natural way to describe a role.
