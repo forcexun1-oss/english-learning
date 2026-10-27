@@ -1,5 +1,9 @@
-<<<<<<< Updated upstream
-Please keep pushing forward with the rest of the tasks. Don't stop unless something is critical. For most things, just follow your recommendations.
-=======
-The export cost is not disclosed. I have opened OUT/04-export-dialog.png and OUT/04-export-price.png. The current asset is at https://studio.tripo3d.ai/zh/workspace/generate/7449a342-5e20-414b-952b-ac3c8bf108e0. The export dialog shows GLB format, 2k texture resolution, and a yellow crown-marked Export button, but no credit cost or explicit 'free' label is displayed. The cost is unknown. I have not clicked Export, subscribe, upgrade, or purchase. Please authorize me to click Export.
->>>>>>> Stashed changes
+<task-notification>
+<task-id>bmtrl02ua</task-id>
+<summary>Monitor event: "Tripo web task events 6"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[PROGRESS] Step 4 GLB downloaded: /Users/youxun/Desktop/tripo-g0/pro/unrigged/badger-knight-unrigged.glb, size recorded OUT/download-glb.json. Export balance 4770 -> 4770 (0 change), OUT/04-glb-after.png opened. Dispatcher export authority archived INBOX.read-1.md. Next: FBX option and local Blender import/render; logs OUT/blender-unrigged.log and OUT/views/inspection.json.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
