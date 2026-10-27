@@ -1,9 +1,1 @@
-<task-notification>
-<task-id>bo4ikjakd</task-id>
-<summary>Monitor event: "gpt-concept (sol) events re-arm 4"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[SELECTED VIEWS] Selected back-b (rear ears less hollow, correction modest), side-a (correct profile T-pose projection), and three-quarter-a; preserved originals. Evidence: OUT/selected-images.json, OUT/selection-notes.md, OUT/generation-ledger.json. No further generations planned; next: assemble contact/comparison sheets and inspect mask on contrasting backgrounds before REPORT and the single review gate.
------------------------</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+Do we have Blender?
