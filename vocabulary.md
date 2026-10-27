@@ -24208,3 +24208,4 @@
 - 2026-10-27 10:16 — Use 'Should we...' to propose a sequence of actions. 'A/B testing' is the standard term for comparing two versions.
 - 2026-10-27 10:17 — Use 'proceed with' to indicate moving forward with a specific plan or action.
 - 2026-10-27 10:19 — Use 'comprehensive review' instead of 'overall review' for a more professional tone in technical contexts.
+- 2026-10-27 10:20 — Use 'delegate [task] to [person/tool]' to describe assigning work to an AI or colleague.
