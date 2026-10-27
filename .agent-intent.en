@@ -1,9 +1,1 @@
-<task-notification>
-<task-id>bloxivvoc</task-id>
-<summary>Monitor event: "Cast web task events 15"</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[STAGE B mouse retopo] Submitted one Smart Mesh P1.0 / triangles / 20k target at 35 credits (4540→4505; running total 210). UI result: 18,421 faces. GLB+FBX downloaded with zero export delta; .fbm extracted. Evidence in OUT/mouse-minion/corrected/{retopo-click.log, retopo-result.png, retopo-glb-download.log, retopo-fbx-download.log}. Next: retopo the boar using the same settings. Local retopo comparison deferred to the post-browser inspection phase, as requested.
------------------------</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+Run the PM patrol for the AI character art. Read PATROL.md and execute its routine: check running Codex tasks and OUTBOX files, handle any unanswered GATE/BLOCKED items, re-arm monitors, relaunch dead tasks once, and respond to the architect if needed. Report only changes or items requiring owner action (payment approval, Tripo web clicks, appearance judgment); otherwise, provide a single short status line.
