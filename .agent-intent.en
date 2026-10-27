@@ -1,1 +1,9 @@
-The body posture and feet should follow this reference. The body proportions should also match this. The hat was incorrect; it should be a different one.
+<task-notification>
+<task-id>bz0d5lmv9</task-id>
+<summary>Monitor event: "astra-fidelity events re-arm 3"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[STAGE] Direct-coloured dense solid render opened: OUT/highpoly/high_head.png; eyes are still blurred, and fur remains bumpy. Pilot 2 reduced duplicated eyes, but fill/material masking introduced boundary patches; rejected for close-up. Pilot 3 switches to palette transfer plus protected interior detail projection, preserving ear rims, trim, hem, and tail. This is the final planned pilot; full apply is deferred.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>

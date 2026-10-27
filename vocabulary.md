@@ -24443,3 +24443,4 @@
 - 2026-10-27 22:58 — The original text is already clear and idiomatic for a technical log. No changes needed.
 - 2026-10-27 23:00 — Use 'proportions' for 身体比例 and 'posture' for 体态 to be more precise in 3D modeling contexts.
 - 2026-10-27 23:02 — Use 'should follow' or 'should match' to clearly indicate that the reference image is the standard to be adhered to.
+- 2026-10-27 23:03 — Use 'render' as a noun instead of 'rendered' when referring to the output file. Use 'bumpy' instead of 'bumps' to describe the texture state.
