@@ -24283,3 +24283,4 @@
 - 2026-10-27 19:37 — Use 'Wouldn't that be...' to express a rhetorical question or surprise about a logical consequence.
 - 2026-10-27 20:17 — Use 'proceed' instead of 'do' when asking about the next steps in a process.
 - 2026-10-27 20:18 — Use 'What was our original plan?' for past plans. '原本的计划' translates to 'original plan' or 'initial plan'.
+- 2026-10-27 20:19 — Use 'shader' instead of '片' (slice/sheet) when referring to rendering materials like hair, skin, or metal.
