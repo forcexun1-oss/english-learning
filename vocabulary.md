@@ -24551,3 +24551,4 @@
 - 2026-10-28 00:04 — Use 'milestones' or 'checkpoints' to describe stages in a process that must be approved before moving forward.
 - 2026-10-28 00:06 — Use 'drive the project forward' or 'lead the project' instead of 'push' to sound more professional in a business context.
 - 2026-10-28 00:10 — In English, 'routes' usually refers to paths or directions. In a project context, 'approaches', 'paths', or 'strategies' is more natural.
+- 2026-10-28 00:14 — Use 'Is this the only...' to ask if something is the sole item required. '对吧' is often translated as 'right?' or 'isn't it?' at the end of a statement, but turning it into a direct question is often clearer in professional contexts.
