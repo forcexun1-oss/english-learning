@@ -24250,3 +24250,4 @@
 - 2026-10-27 15:30 — Use 'stop doing something' or 'hold off on changes' to clearly indicate pausing work. 'And' is better than 'but' when connecting two related thoughts about what to keep vs. discard.
 - 2026-10-27 15:32 — Use 'switch to' or 'checkout' when referring to changing Git commits. 'Artifact' is the standard term for build outputs.
 - 2026-10-27 15:32 — Use 'I mean' to clarify your reference when a term like 'other' could be ambiguous.
+- 2026-10-27 15:40 — Use 'production code' instead of '生产的代码' (which literally means 'produced code'). In software contexts, 'production' refers to the live/deployed environment.
