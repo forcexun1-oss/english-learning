@@ -24745,3 +24745,4 @@
 - 2026-10-28 06:06 — Added missing spaces around numbers and prepositions (e.g., 'to 190', 'front at 46') for better readability.
 - 2026-10-28 06:09 — Use '4x' instead of '4x exact copy' for brevity, and ensure the truncated sentence ends with a clear next step or status.
 - 2026-10-28 06:12 — In technical logs, '未测' is best translated as 'untested' or 'not tested' to clearly indicate that a specific check or limit was not verified.
+- 2026-10-28 06:12 — Use 'Unmeasured' instead of '未测' for consistency. Also, 'read/accept judgement' is slightly awkward; 'approval' or 'feedback' is more natural.
