@@ -1,10 +1,9 @@
 <task-notification>
-<task-id>bd939oi9v</task-id>
-<summary>Monitor event: "G2 bake task events 4"</summary>
+<task-id>btuvozh0z</task-id>
+<summary>Monitor event: "G2 bake task events 5"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] Step 1 correction selected: second Base Color-only bake transfers raw source colour without metallic attenuation. Opened OUT/&lt;name&gt;/basecolor-final-{compare,crop}-2k.png for every character: mouse metal pieces and boar metal patches restore their source silver colour; flatter/border-shifted atlas patches still visible. Selected records OUT/selected-2k.json; rejected first base maps moved to OUT/&lt;name&gt;/attempt1/, second maps retained in attempt2/. No source overwritten. Both bake atte...(truncated)
------------------------
-</event>
+[MILESTONE] Step 2 complete: final texture-only baseline vs selected 2k fixture executed. OUT/fixture-2k-2/tests.xml, materials.json, frames.json, and comparison-2k-final/metrics.json generated. All native, exact 4x, compact crops, and both simultaneous lineups opened; visual-review.json records per-image observations. Exact native heights 105/66/47/190; pose/bones/camera/material scalar+tint/actor-free floor invariants hold. Badger/fox/mouse show subtle shading changes but no clear useful native detail gai...(truncated)
+-----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
