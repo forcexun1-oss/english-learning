@@ -1,12 +1,18 @@
-<task-notification>
-<task-id>bxt5yhg0j</task-id>
-<tool-use-id>toolu_01Y8hQzUtBLiLUA6pxKnx1R1</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/56dd26bb-3736-4ffa-9b52-6579d82b538b/tasks/bxt5yhg0j.output</output-file>
-<status>completed</status>
-<summary>Monitor "Pro R0 task events 4" stream ended</summary>
-<event>REASON=OUTBOX kind=MILESTONE
---- new OUTBOX text ---
-[PROGRESS] Import attempt 2 passed automatic avatar/setup, but the independent matrix check rejected candidate clip playback: all sampled Pro deltas were zero (OUT/clip-probe-check.json). The custom setup omitted the AlwaysAnimate offscreen mode; the render path already included it. Import attempt 3 adds AlwaysAnimate/explicit auto-avatar assignment and bone-motion assertions. No manual mapping/rig/mesh changes. The upstream final REPORT has been read and saved as OUT/tripo-report.txt.
-[MILESTONE] Step 2 IMPORT complete after the final allowed import attempt 3. Avatar is valid and humanoid; no required bones are missing, though optional LeftEye/RightEye/Jaw are unmapped. With the corrected offscreen evaluation, bone matrices now change in all requested clips for Pro and Knight. The Knight sword is attached under the Humanoid handslot.r with world-scale compensation; a unique ProEquipped prefab resource is confirmed. Evidence in OUT/import-3/{tests.xml,avatar-pro.json,setup.json,clip-probes.json} and OUT/clip-probe-final-check.json. Next...</event>
-If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
-</task-notification>
+Architect: The owner’s "looks acceptable, don't gate on appearance" is a G0 decision. Mark G0 as passed for the Tripo Pro route (one candidate, owner's choice; S4 four-way comparison waived). Next steps:
+
+1. Finish ART-PRO-R0. Branch on the armpit result:
+   - Gone, or not visible at 105 px: no G3 work now. Record it and proceed to step 2.
+   - Same or worse: one bounded G3 attempt on THIS model (now the chosen model), following the previously agreed order minus the Tripo rig (which this already is): KayKit weight transfer for the torso and arms, then a helper bone. One attempt each, 2-hour cap; escalate if both fail.
+   - Also record as G3 inputs (non-blockers): Mixamo → Humanoid mapping warnings, and whether the horizontal-arm rest pose causes shoulder pops in Idle.
+
+2. G1 cast, merged with a quick route-generality check. This is now the biggest unknown: whether the same route works for non-knight bodies. The boar boss (190 px, bulky) and the mouse minion (47 px, tail) are the risk cases for Mixamo auto-rig.
+   - Prepare inputs for the fox mage, boar boss, and mouse minion: Style E identity texts, front T-pose plus back and left views (GPT image, cap ~6 per character).
+   - Batch all three into ONE owner Studio session: multi-view gen, Smart Mesh retopo, auto-rig, and export unrigged, retopo, and rigged. Budget ~85 credits each, ~255 total (balance 4715). Hand the owner a single step list.
+   - For each character, run the R0 pipeline (Humanoid, three KayKit clips, minutes each) and the fixed fixture in 3 orientations. Create one lineup sheet at 105/66/190/47 px plus a black-silhouette version.
+   - The owner judges whether each character reads well and whether the lineup works. Per character, record: rig valid with no manual fixes (yes/no), visible deformation defects, and tail behavior (expect an unweighted or rigid tail; record it, don't fix it).
+
+3. Park until G1 passes: G2 polish. Known item for G2 already: Smart Mesh downgraded the normal/RM maps to 1024 with visible detail loss. The standard fix is to re-bake from the 947k high-poly onto the 18.6k retopo at 2k–4k in Blender. Don't do it now.
+
+4. G4 (combat readability in game) comes after G2.
+
+Your plan "G3 only if it deforms badly, then G1" aligns with this; the additions are the generality focus and the single batched session. Go.
