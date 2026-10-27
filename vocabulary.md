@@ -24211,3 +24211,4 @@
 - 2026-10-27 10:20 — Use 'delegate [task] to [person/tool]' to describe assigning work to an AI or colleague.
 - 2026-10-27 10:24 — In English, 'messy' is an adjective, so you should say 'Is the codebase messy?' rather than 'Is the codebase messy-ly?' or using it as a verb directly without proper structure.
 - 2026-10-27 10:31 — Use 'comprehensive review' or 'holistic review' instead of 'overall review' for code. 'Unintelligible' is more precise than 'can't hear clearly' for text/audio generation artifacts.
+- 2026-10-27 10:36 — In English, 'assign' is more precise than 'dispatch' for delegating tasks to an AI or team member.
