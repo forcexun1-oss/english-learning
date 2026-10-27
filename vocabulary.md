@@ -24568,3 +24568,4 @@
 - 2026-10-28 00:38 — Use 'human verification' or 'CAPTCHA' for '真人验证'. 'Pass' is a verb (e.g., 'pass the test'), while 'blocking' describes the obstacle.
 - 2026-10-28 00:38 — Use 'upload and generate' to describe the action. 'Resources' is better than 'resources/materials' in this context.
 - 2026-10-28 00:41 — In English, 'just' or 'only' is often placed before the noun or verb to emphasize limitation (e.g., 'Is it only one?' or 'Is there just one?').
+- 2026-10-28 00:42 — Use 'Does X affect Y?' for yes/no questions about impact. '方案判断' translates well to 'evaluate the solution' or 'assess the approach' in this context.
