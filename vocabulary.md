@@ -24381,3 +24381,4 @@
 - 2026-10-27 21:55 — Use 'at' for file paths (e.g., 'at OUT/it1/audit.json') and 'in' for log files or containers (e.g., 'in OUT/it1/build.log') for clearer technical writing.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 21:56 — Use bullet points for lists of observations or data to improve readability in technical reports.
