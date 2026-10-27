@@ -24190,3 +24190,4 @@
 - 2026-10-27 08:29 — Use 'Why is it so dark?' for natural, concise questions about lighting or brightness issues.
 - 2026-10-27 08:32 — Use 'so much better' or 'much better' instead of '好那么多' to sound more natural. 'Leftmost' is a precise way to refer to the first image in a sequence.
 - 2026-10-27 08:33 — In technical contexts, 'pause' is often more precise than 'stop' for temporary halts. 'Everything' is a natural way to refer to all running tasks or processes.
+- 2026-10-27 09:01 — Use 'the algorithm behind [Product]' to clarify that the algorithm is a core component of the product.
