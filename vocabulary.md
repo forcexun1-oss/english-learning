@@ -24273,3 +24273,4 @@
 - 2026-10-27 17:27 — Use 'universal' or 'general-purpose' instead of 'common' when describing something that applies broadly across different contexts.
 - 2026-10-27 17:34 — Use 'the' before specific model names like 'the 6.1 terra model' for clarity.
 - 2026-10-27 18:03 — In English, it is better to use full sentences like 'Yes' or 'Yes, please' instead of just '要' to ensure clarity.
+- 2026-10-27 18:12 — Use 'How much longer?' to ask about the remaining time for a task or event.
