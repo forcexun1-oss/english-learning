@@ -24224,3 +24224,4 @@
 - 2026-10-27 11:36 — In English, '咋样了' is best translated as 'What's the status?' or 'How is it going?' depending on context. For technical updates, 'What's the status?' is precise and professional.
 - 2026-10-27 11:53 — In English, it is more natural to use the present perfect tense ('Has it been...') for actions that have just been completed or whose status is currently relevant.
 - 2026-10-27 11:54 — Use 'primarily' or 'mainly' instead of '主流' (mainstream) when referring to hardware support. Also, 'NVIDIA GPUs' is more precise than just 'NVIDIA cards'.
+- 2026-10-27 11:55 — In English, it is more natural to say 'the one I just downloaded' rather than 'just downloaded' to clearly specify the object.
