@@ -24198,3 +24198,4 @@
 - 2026-10-27 09:22 — Use 'still' to emphasize that a problem persists. In English, we usually say 'two thousand' instead of 'two thousand' when referring to the number 2000 in text-to-speech contexts.
 - 2026-10-27 09:26 — Use 'numeric' instead of 'numberic'. When describing issues, be specific about which part of the output is affected (e.g., 'the subsequent segments' instead of 'some of the following').
 - 2026-10-27 09:30 — Use 'split' or 'broken' to describe text that is incorrectly divided. 'Separated' is also a good alternative.
+- 2026-10-27 09:31 — Use 'unclear' or 'indistinct' to describe pronunciation that is hard to understand.
