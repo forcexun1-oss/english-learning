@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>btf8yarj2</task-id>
-<summary>Monitor event: "Tripo web task events 13"</summary>
+<task-id>br2xe7720</task-id>
+<summary>Monitor event: "Tripo web task events 14"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[PROGRESS] Retopo GLB and FBX packages downloaded. Export balances unchanged at 4735 each. OUT/retopo-fbx-after.png and OUT/retopo-glb-after.png opened; OUT/retopo-files.json sizes recorded. Next: local Blender inspection and four Workbench views (OUT/retopo-views/inspection.json and OUT/blender-retopo.log), followed by visual comparison before paid rigging.
+[MILESTONE] Retopo download and inspection complete. OUT/retopo-views/inspection.json: 18,629 triangles; UVMap present; no armature; bbox height 0.998046875, X span/height ratio ~0.9843. Basecolor 2048x2048; normal and RM 1024x1024 (quality downgrade). All four OUT/retopo-views/*.png renders OPENED; visible detail loss compared to original described in OUT/defects.md. Original exports preserved. INBOX.read-3.md explicitly confirms no UI Rig Check exists, authorizes skipping it as untested, and notes one 20-credit humanoid/Mixamo ...(truncated)
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
