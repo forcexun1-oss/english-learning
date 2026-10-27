@@ -1,9 +1,10 @@
 <task-notification>
-<task-id>btuvozh0z</task-id>
-<summary>Monitor event: "G2 bake task events 5"</summary>
+<task-id>bt08b7riw</task-id>
+<summary>Monitor event: "G2 bake task events 6"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[MILESTONE] Step 2 complete: final texture-only baseline vs selected 2k fixture executed. OUT/fixture-2k-2/tests.xml, materials.json, frames.json, and comparison-2k-final/metrics.json generated. All native, exact 4x, compact crops, and both simultaneous lineups opened; visual-review.json records per-image observations. Exact native heights 105/66/47/190; pose/bones/camera/material scalar+tint/actor-free floor invariants hold. Badger/fox/mouse show subtle shading changes but no clear useful native detail gai...(truncated)
------------------------</event>
+[MILESTONE] Step 3 complete: boar/badger 4k maps baked once, OUT/<name>/bake-4k.json and bake-4096.log; original 2k maps retained. All 4k map comparisons/crops/source-coverage sheets opened, final-map-visual-review.json. White emit UV coverage has no sampled misses (coverage-metrics-4k.json). Fixed fixture 2k vs 4k executed, OUT/fixture-4k-1/tests.xml; all native/4x/compact images opened in comparison-4k/, observations visual-review.json. No useful visible 4k gain at game size for either actor; ...
+-----------------------
+</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
