@@ -24666,3 +24666,4 @@
 - 2026-10-28 02:53 — Use 'successfully' instead of 'normally' to describe a completed action. 'Normally' usually refers to standard behavior or health, while 'successfully' confirms completion without errors.
 >>>>>>> Stashed changes
 - 2026-10-28 02:56 — Use 'spending' as a noun to refer to the act of using money, and 'reasonable' to describe something that is fair or appropriate.
+- 2026-10-28 02:56 — Use 'artwork' instead of 'art work' (one word). Use 'items' after 'unanswered GATE/BLOCKED' for clarity.
