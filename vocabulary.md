@@ -24395,3 +24395,4 @@
 - 2026-10-27 22:09 — In English, it's more natural to ask "Do I need to..." or "Do you need to..." rather than "Need to...". Also, "keep Windows running" is clearer than "open Windows" in this context.
 - 2026-10-27 22:12 — The original text was already natural and idiomatic for a technical log. No changes were made.
 - 2026-10-27 22:13 — Use 'check passed' or 'passed' to describe a successful validation step, rather than 'passes' which can be ambiguous.
+- 2026-10-27 22:16 — Use 'dispatch' or 'assign' when asking an AI to create a new sub-task. '派' translates well to 'dispatch' in a workflow context.
