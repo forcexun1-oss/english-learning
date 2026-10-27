@@ -24408,8 +24408,12 @@
 - 2026-10-27 22:46 — Use 'empty' or 'lacking detail' to describe areas that feel underdeveloped. 'Warrior's legs' is a natural way to specify the desired aesthetic.
 - 2026-10-27 22:46 — The original text was already idiomatic and technically accurate. No changes were needed.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 22:47 — In 3D modeling, 'high-poly' (高模) refers to a detailed mesh. Use 'high-poly model' for clarity in technical discussions.
 =======
 - 2026-10-27 22:47 — Use 'loaded' instead of 'opened' for inputs/data. Use 'three-quarter' (hyphenated) for the view angle.
 >>>>>>> Stashed changes
 - 2026-10-27 22:49 — Use 'render' instead of '渲' for clarity in technical contexts.
+=======
+- 2026-10-27 22:47 — Use 'loaded' instead of 'opened' for inputs/data. Use 'three-quarter' (hyphenated) for the view angle.
+>>>>>>> Stashed changes
