@@ -24729,3 +24729,4 @@
 - 2026-10-28 04:56 — Use 'execute' or 'run' instead of 'run its routine now' for a more direct command. 'Items requiring action' is clearer than 'things that need them' in a technical context.
 - 2026-10-28 05:00 — Use 'credits used' instead of just 'credits' for clarity. Replace 'displayed cost expected' with 'expected cost' for conciseness.
 - 2026-10-28 05:00 — The original text was already natural and idiomatic for a developer context. No changes were needed.
+- 2026-10-28 05:01 — Use 'auto-rig' instead of just 'rig' to clarify that the process was automated via Mixamo.
