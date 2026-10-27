@@ -24405,3 +24405,4 @@
 - 2026-10-27 22:41 — Use 'interim results' or 'progress so far' to describe阶段性成果 in a professional context.
 - 2026-10-27 22:42 — Use 'spin up' or 'start' for tasks/processes. 'Separate' is better than 'single' when contrasting with the current one.
 - 2026-10-27 22:45 — Use 'sturdier' for robustness and 'goofier' for a silly/cute look to describe character design nuances.
+- 2026-10-27 22:46 — Use 'empty' or 'lacking detail' to describe areas that feel underdeveloped. 'Warrior's legs' is a natural way to specify the desired aesthetic.
