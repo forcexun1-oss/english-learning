@@ -24626,3 +24626,4 @@
 - 2026-10-28 02:25 — In English, '开通了' in this context means the subscription or service is 'activated' or 'enabled,' rather than just 'opened'.
 - 2026-10-28 02:26 — Use 'credits' instead of 'points' for AI service usage. 'Burn through' is a natural idiom for consuming resources quickly.
 - 2026-10-28 02:27 — Use 'conserve' or 'save' instead of 'save' when referring to limited resources like credits or budget.
+- 2026-10-28 02:28 — Use 'rigging' instead of 'binding bones' for character animation setup in game development contexts.
