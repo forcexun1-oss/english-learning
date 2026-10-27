@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>bdzedb9d0</task-id>
 <summary>Monitor event: "cx-ears (sol) events re-arm"</summary>
@@ -8,3 +9,6 @@ Completed the first ear build. The exact output audit is at OUT/it1/audit.json, 
 -----------------------</event>
 If this event requires user action, send a PushNotification. Routine or benign output does not need one.
 </task-notification>
+=======
+For this task, is Claude Code better than Codex for Unity code? Please check.
+>>>>>>> Stashed changes
