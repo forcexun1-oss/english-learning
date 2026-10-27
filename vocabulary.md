@@ -24293,6 +24293,7 @@
 - 2026-10-27 20:39 — In English, it is more natural to use 'better than' instead of '还是...更好' directly. Also, 'Please check' is a polite and clear way to ask for verification.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 20:48 — In English, 'How's it going?' is a natural and common way to ask for a status update or check on progress.
 =======
 >>>>>>> Stashed changes
@@ -24300,3 +24301,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 20:51 — Use 'assigned to' for tasks and 'one tier below' for comparison levels.
+=======
+>>>>>>> Stashed changes
