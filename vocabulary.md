@@ -24222,3 +24222,4 @@
 - 2026-10-27 11:09 — Use 'update' or 'correct' instead of 'change' for formal technical contexts. 'Documentation' is often pluralized as 'docs' in casual speech, but 'documentation' is better for written instructions.
 - 2026-10-27 11:20 — In English, 'Go ahead' or 'Proceed' is a natural way to give permission or instruct someone to start a task, rather than a literal translation of '派' (assign/delegate).
 - 2026-10-27 11:36 — In English, '咋样了' is best translated as 'What's the status?' or 'How is it going?' depending on context. For technical updates, 'What's the status?' is precise and professional.
+- 2026-10-27 11:53 — In English, it is more natural to use the present perfect tense ('Has it been...') for actions that have just been completed or whose status is currently relevant.
