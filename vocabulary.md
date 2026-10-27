@@ -24649,7 +24649,11 @@
 - 2026-10-28 02:53 — The original text is already natural and idiomatic for a developer context. No changes needed.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 02:53 — Use 'Monitor for [X] has ended' instead of 'Monitor [X] stream ended' for clearer, more idiomatic status reporting.
+=======
+- 2026-10-28 02:53 — Use 'successfully' instead of 'normally' to describe a completed action. 'Normally' usually refers to standard behavior or health, while 'successfully' confirms completion without errors.
+>>>>>>> Stashed changes
 =======
 - 2026-10-28 02:53 — Use 'successfully' instead of 'normally' to describe a completed action. 'Normally' usually refers to standard behavior or health, while 'successfully' confirms completion without errors.
 >>>>>>> Stashed changes
