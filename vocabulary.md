@@ -24278,3 +24278,4 @@
 - 2026-10-27 18:24 — Use 'enable line breaks' instead of '换行' directly translated. 'Floating box' is more natural than '浮个动态框'.
 - 2026-10-27 18:28 — Use 'power off' or 'cut power to' instead of '断电' (literally 'cut electricity') for hardware devices.
 - 2026-10-27 18:30 — Use 'power off' or 'cut the power' for '断电'. 'Experimental data' or 'test setup' is more natural than 'things' in this context.
+- 2026-10-27 18:32 — Use 'turn it off' or 'shut it down' for devices. '关' translates to 'turn off' in this context.
