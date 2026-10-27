@@ -24218,3 +24218,4 @@
 - 2026-10-27 10:50 — Use 'check if' instead of '看...有吗' for a more natural and professional tone in technical contexts.
 - 2026-10-27 10:54 — Use 'It should be...' to confirm a technical requirement or specification.
 - 2026-10-27 10:54 — Use the imperative form 'Stop' to give a direct command.
+- 2026-10-27 10:56 — In English, it is more natural to use 'Can I use...' or 'Is this usable...' rather than a direct translation of '是不是' at the end of the sentence.
