@@ -24565,3 +24565,4 @@
 - 2026-10-28 00:33 — In English, it is more natural to use the imperative verb 'Install' or 'Please install' rather than the literal translation 'You install' (你装).
 - 2026-10-28 00:36 — In English, '看看' is often translated as 'Take a look' or 'Check this out' rather than a literal 'Look see.' It is a natural, concise way to ask someone to review something.
 - 2026-10-28 00:37 — Use 'How can I control the browser?' instead of '要怎么才能控制浏览器' for a more natural, professional tone.
+- 2026-10-28 00:38 — Use 'human verification' or 'CAPTCHA' for '真人验证'. 'Pass' is a verb (e.g., 'pass the test'), while 'blocking' describes the obstacle.
