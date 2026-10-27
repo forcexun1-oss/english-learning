@@ -24485,3 +24485,4 @@
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
+- 2026-10-27 23:18 — In English, 'last' refers to the final item in a sequence. Make sure to use 'which' when asking about a specific item from a known set.
