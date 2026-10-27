@@ -24539,3 +24539,4 @@
 - 2026-10-27 23:48 — Use 'teams' or 'groups' instead of 'lines' when referring to people or departments. 'Handle it' is more natural than 'do' in this context.
 - 2026-10-27 23:50 — The sentence is already natural and idiomatic for a technical log summary.
 - 2026-10-27 23:50 — Use 'Monitor' instead of 'Monitor' for consistency with imperative verbs in task summaries.
+- 2026-10-27 23:51 — Use 'is missing' instead of 'lacks' for a more natural technical description of missing dependencies.
