@@ -1,1 +1,1 @@
-The numeric part is fixed. The long part has improved, but it still breaks at the '|' character, and the subsequent parts are not working correctly. However, the end result is slightly better than before.
+The words 'test' and 'vocabulary' are being split.
