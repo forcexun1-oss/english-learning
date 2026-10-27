@@ -24256,3 +24256,4 @@
 - 2026-10-27 15:53 — Use 'pauses' (noun) instead of '停顿' (verb) when describing the audio artifacts. 'Except for' is a natural way to introduce the remaining issue.
 - 2026-10-27 15:54 — Use 'instead of' or 'rather than' to clearly indicate a replacement in technical contexts.
 - 2026-10-27 15:57 — In English, 'split' is the correct term for text being broken into separate parts. 'Cut' usually implies removing something entirely.
+- 2026-10-27 16:00 — Use 'restart' or 'start over' for '重新改'. 'Worthless' or 'useless' is more natural than 'no value' in this context.
