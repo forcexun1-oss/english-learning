@@ -24647,3 +24647,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-28 02:53 — The original text is already natural and idiomatic for a developer context. No changes needed.
+- 2026-10-28 02:53 — Use 'Monitor for [X] has ended' instead of 'Monitor [X] stream ended' for clearer, more idiomatic status reporting.
