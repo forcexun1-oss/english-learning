@@ -24410,6 +24410,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 22:47 — In 3D modeling, 'high-poly' (高模) refers to a detailed mesh. Use 'high-poly model' for clarity in technical discussions.
 =======
 - 2026-10-27 22:47 — Use 'loaded' instead of 'opened' for inputs/data. Use 'three-quarter' (hyphenated) for the view angle.
@@ -24422,3 +24423,6 @@
 - 2026-10-27 22:47 — Use 'loaded' instead of 'opened' for inputs/data. Use 'three-quarter' (hyphenated) for the view angle.
 >>>>>>> Stashed changes
 - 2026-10-27 22:52 — The original text is already natural and idiomatic for a developer context. No changes needed.
+=======
+- 2026-10-27 22:47 — Use 'loaded' instead of 'opened' for inputs/data. Use 'three-quarter' (hyphenated) for the view angle.
+>>>>>>> Stashed changes
