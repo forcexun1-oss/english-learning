@@ -24747,3 +24747,4 @@
 - 2026-10-28 06:12 — In technical logs, '未测' is best translated as 'untested' or 'not tested' to clearly indicate that a specific check or limit was not verified.
 - 2026-10-28 06:12 — Use 'Unmeasured' instead of '未测' for consistency. Also, 'read/accept judgement' is slightly awkward; 'approval' or 'feedback' is more natural.
 - 2026-10-28 06:15 — Use 'a' before vowel sounds (e.g., 'a new worktree') and 'an' before consonant sounds (e.g., 'an aligned mouse offset').
+- 2026-10-28 06:16 — Use 'execute' or 'run' for routines. 'Respond to' is more natural than 'answer' for a session or log entry. 'Posted' or 'wrote' works for the architect session.
