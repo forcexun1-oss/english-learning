@@ -24244,3 +24244,4 @@
 - 2026-10-27 14:40 — In English, '都要' is best translated as 'Do both' or 'I want both' depending on context. Avoid literal translations like 'all want'.
 - 2026-10-27 14:42 — In English, it is more natural to ask about the 'progress' or 'status' of a task rather than just 'how is it'. 'ASR' (Automatic Speech Recognition) is a standard acronym, so keeping it is fine.
 - 2026-10-27 15:13 — Use 'generate' instead of 'give me to listen' for text/audio synthesis. 'At once' or 'in one go' is more natural than 'whole sentence generation' in this context.
+- 2026-10-27 15:17 — Use 'introduced by' to describe bugs caused by recent code changes.
