@@ -24527,7 +24527,10 @@
 - 2026-10-27 23:32 — Use 'also' or 'too' at the end of the sentence to add another point. 'Off' is a natural way to say something is incorrect or not as expected.
 - 2026-10-27 23:34 — Use 'going about this' to mean 'approaching this method'. 'Technicalities' refers to minor technical details or complexities.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-27 23:42 — In English, it is more natural to say 'What is the purpose of the downloaded model?' or 'What is the downloaded model used for?' rather than 'What is the downloaded model doing?'
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 23:43 — Use 'up to date' instead of 'latest version' when referring to current status. 'Previously investigated' is clearer than 'previously checked' in technical contexts.
+=======
+>>>>>>> Stashed changes
