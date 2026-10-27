@@ -24631,3 +24631,4 @@
 - 2026-10-28 02:29 — In technical logs, avoid mixing Chinese characters (like '未测') with English text; use 'not executed' or 'skipped' for consistency.
 - 2026-10-28 02:29 — Use 'assigned to' or 'given to' instead of 'sent to' when talking about tasks or work distribution.
 - 2026-10-28 02:29 — Use 'delegate' to describe assigning tasks to someone else. 'Instead of' is a natural way to contrast two actions.
+- 2026-10-28 02:32 — Use 'non-uniform' (with a hyphen) when it acts as an adjective before a noun.
