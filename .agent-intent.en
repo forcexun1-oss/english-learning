@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Don't spawn your own subagents; use Codex instead. If they can run in parallel, just do it in parallel for speed.
+=======
+For this task, is Claude Code better than Codex for Unity code? Please check.
+>>>>>>> Stashed changes
 =======
 For this task, is Claude Code better than Codex for Unity code? Please check.
 >>>>>>> Stashed changes
