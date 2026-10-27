@@ -24596,3 +24596,4 @@
 - 2026-10-28 01:27 — Corrected a typo in the file path: '3e84' should be '4ffa' to match the session ID.
 - 2026-10-28 01:27 — Added 'the' before 'primary owner Tripo retopo FBX' for better flow and clarity.
 - 2026-10-28 01:28 — Use 'Leave [task] to [person]' to express delegating responsibility. 'Don't do it yourself' is a natural way to say '不要自己弄'.
+- 2026-10-28 01:31 — Use 'Leave everything to [person/tool]' to express delegating all tasks. 'Don't handle it yourself' is a natural way to say '不要自己弄'.
