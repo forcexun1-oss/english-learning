@@ -24567,3 +24567,4 @@
 - 2026-10-28 00:37 — Use 'How can I control the browser?' instead of '要怎么才能控制浏览器' for a more natural, professional tone.
 - 2026-10-28 00:38 — Use 'human verification' or 'CAPTCHA' for '真人验证'. 'Pass' is a verb (e.g., 'pass the test'), while 'blocking' describes the obstacle.
 - 2026-10-28 00:38 — Use 'upload and generate' to describe the action. 'Resources' is better than 'resources/materials' in this context.
+- 2026-10-28 00:41 — In English, 'just' or 'only' is often placed before the noun or verb to emphasize limitation (e.g., 'Is it only one?' or 'Is there just one?').
