@@ -24590,3 +24590,4 @@
 - 2026-10-28 01:19 — Use 'Do we have to...?' to ask about necessity. 'Skip it' is a natural way to say 'don't do it yet'.
 - 2026-10-28 01:19 — In English, '推进' in this context is best translated as 'push forward' or 'keep going'. '你自己' emphasizes doing it independently, so 'on your own' or 'by yourself' is natural.
 - 2026-10-28 01:20 — The original text was already natural and idiomatic for a technical log.
+- 2026-10-28 01:24 — Use 'consult' or 'refer to' instead of 'have' when talking about accessing a resource or session for guidance.
