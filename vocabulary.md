@@ -24548,3 +24548,4 @@
 - 2026-10-27 23:58 — Use 'far from the target' or 'not accurate enough' instead of '查太远' for better clarity in technical contexts.
 - 2026-10-28 00:02 — Use 'pursue' or 'go with' when talking about choosing a technical direction or career path.
 - 2026-10-28 00:03 — Use 'What is' to ask about a specific issue. 'Route' can refer to a technical path (like a 2D vs. 3D pipeline) or a literal path.
+- 2026-10-28 00:04 — Use 'milestones' or 'checkpoints' to describe stages in a process that must be approved before moving forward.
