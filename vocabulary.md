@@ -24490,3 +24490,4 @@
 =======
 - 2026-10-27 23:15 — Changed 'Local ... found' to 'Found local ...' for a more direct, active voice typical of developer logs.
 >>>>>>> Stashed changes
+- 2026-10-27 23:19 — Use 'wait for [someone] to [do something]' for clear future actions.
