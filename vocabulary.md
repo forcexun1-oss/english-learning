@@ -24523,3 +24523,4 @@
 - 2026-10-27 23:28 — In technical logs, 'completed (exit code 0)' is standard. Ensure you use 'superseded by' when referring to a newer version replacing an older one.
 - 2026-10-27 23:31 — In English, 'ugly' is a strong subjective term. In professional contexts, consider using 'unappealing', 'low quality', or 'not visually pleasing' to sound more objective.
 - 2026-10-27 23:31 — Use 'outputs' or 'generations' instead of 'model' when referring to the images produced. 'Ugly' is fine for informal feedback, but 'poor quality' or 'visually unappealing' is more professional.
+- 2026-10-27 23:32 — Use 'Never mind' or 'Forget about' to dismiss previous points. '衣服' is best translated as 'clothing' or 'outfit' in a character design context.
