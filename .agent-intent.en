@@ -1,1 +1,12 @@
-Is polling implemented?
+<task-notification>
+<task-id>byq6dgtt9</task-id>
+<tool-use-id>toolu_012w1cRHV3Pi1v7qv4JfDdZh</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/56dd26bb-3736-4ffa-9b52-6579d82b538b/tasks/byq6dgtt9.output</output-file>
+<status>completed</status>
+<summary>Monitor "Tripo web task events 12" stream ended</summary>
+<event>elapsed=2min alive=yes rollout_idle=4s tool_calls=87 weighted_tokens=971334
+last STATUS:
+files in outdir: INBOX.md INBOX.read-1.md INBOX.read-2.md launch.log OUT OUTBOX.md run.log
+kids:        3 child procs; recent-output-file: /private/tmp/claude-501/-Users-youxun-project-game-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/box/art-tripo-web/INBOX.md</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
