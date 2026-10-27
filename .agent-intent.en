@@ -1,9 +1,9 @@
 <task-notification>
-<task-id>bp232bxmf</task-id>
-<summary>Monitor event: "Cast web task events 10"</summary>
+<task-id>bhntvwvkm</task-id>
+<summary>Monitor event: "Cast web task events 13"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-[GATE ACK] Received owner's front-load order change (generate/export remaining characters before retopo/rig). Will apply after gate resolves. That message retains no-paid-retry rules and does not explicitly authorize correcting the charged wrong-input mouse attempt or resetting retained multiview slots. Still blocked at 115 spent / balance 4600 pending those two decisions. Fox is already fully complete.
+[MILESTONE] PRE-CLICK boar-boss: OPENED OUT/boar-boss/02-ready-check.png and source front/back/left. Three thumbnails show the BOAR front/left/back (tusks, charcoal coat, brown trim, spiked shoulders, hooves); right is empty. Displayed Generate 30, balance 4570, button enabled; H3.1, 2K/PBR/textures/triangles confirmed, ultra/parts/8K OFF. Receipt + opened review recorded. Readiness helper had over-escaped regex causing false timeouts; fixed, not a Studio failure. Submitting one boar generation.
 -----------------------</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
