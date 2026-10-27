@@ -24561,3 +24561,4 @@
 - 2026-10-28 00:30 — In English, 'control' or 'operate' is more natural than 'adjust' (调) when referring to software or browser automation.
 - 2026-10-28 00:30 — Use 'none of which are' instead of 'none of them are' when referring to a plural noun in a relative clause for a more formal tone, though both are acceptable in dev chat.
 - 2026-10-28 00:31 — Use the passive voice ('How can I control...') when asking about system capabilities. Avoid '要怎么才能' (literal: 'what way can I') which is slightly awkward; 'How can I' is more natural.
+- 2026-10-28 00:32 — Use 'The desktop app' instead of 'Desktop-side application' for clarity. 'Haiku' should be capitalized as it refers to a specific model name.
