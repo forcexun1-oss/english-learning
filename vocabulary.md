@@ -24432,4 +24432,7 @@
 >>>>>>> Stashed changes
 - 2026-10-27 22:56 — The message is already clear and idiomatic for a system log or notification.
 - 2026-10-27 22:56 — Use 'opened' instead of 'OPENED' for better flow. 'Color' is the standard US spelling, though 'colour' is fine for UK English; just be consistent.
+<<<<<<< Updated upstream
 - 2026-10-27 22:57 — Use 'concept art' instead of 'concept map' when referring to visual designs or illustrations.
+=======
+>>>>>>> Stashed changes
