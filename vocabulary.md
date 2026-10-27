@@ -24372,3 +24372,4 @@
 - 2026-10-27 21:52 — Use 're-armed' (past participle) instead of 're-arm' to describe the state of the monitor.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 21:54 — Use 're-armed' instead of 're-arm' to correctly describe the state of the monitoring process.
