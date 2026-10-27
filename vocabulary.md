@@ -24701,3 +24701,4 @@
 - 2026-10-28 03:10 — Changed 'absent at initial read' to 'was missing on initial read' for more natural phrasing.
 - 2026-10-28 03:11 — Use a colon after 'complete' to introduce the details of the step, and add 'in' before the list of evidence files for better flow.
 - 2026-10-28 03:12 — In technical writing, avoid mixing Chinese characters like '未测' into English sentences. Use 'untested' or 'not tested' instead.
+- 2026-10-28 03:13 — Use 'failed' instead of 'stopped' for compilation errors, and 'capture' instead of 'preserve' for logs.
