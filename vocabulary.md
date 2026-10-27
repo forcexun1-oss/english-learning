@@ -24543,3 +24543,4 @@
 - 2026-10-27 23:52 — Added 'The' before 'Model README' for better flow and clarity.
 - 2026-10-27 23:54 — In English, use 'Show me' or 'Let me see' instead of a direct translation of '给我看看'.
 - 2026-10-27 23:55 — Use 'Rejected' instead of 'Reject' when describing the outcome of a review step.
+- 2026-10-27 23:55 — Use 'What's still running?' to ask about active processes or tasks.
