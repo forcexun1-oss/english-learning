@@ -24238,3 +24238,4 @@
 - 2026-10-27 14:05 — Use 'That's it' or 'That's all' to confirm completion or indicate no further actions are needed.
 - 2026-10-27 14:14 — Use 'Where is...' to ask for the location of a file or resource.
 - 2026-10-27 14:33 — In English, 'Where' must be followed by a verb (like 'is') and a subject. You cannot just say 'Where' alone unless it's a very casual fragment.
+- 2026-10-27 14:35 — Use 'split' or 'break' instead of 'cut' when referring to words or strings in programming contexts.
