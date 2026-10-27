@@ -24613,3 +24613,4 @@
 - 2026-10-28 01:56 — Use 'execute' or 'run' for procedures. 'Patrol' works as a noun here (e.g., 'Run the PM patrol').
 - 2026-10-28 01:58 — The original text was already natural and idiomatic for a developer context.
 - 2026-10-28 02:09 — In English, 'open' is a verb. '直接' translates to 'directly' or 'just'. A natural command is 'Open it directly' or simply 'Open it'.
+- 2026-10-28 02:11 — Use 'What am I supposed to look at and decide?' to clearly ask for the specific action or decision required.
