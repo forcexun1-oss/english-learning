@@ -1,1 +1,10 @@
-Run the PM patrol for the AI character art. Read /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/PATROL.md and execute its routine: check running Codex tasks and OUTBOX files, handle any unanswered GATE/BLOCKED items, re-arm monitors, relaunch dead tasks once, and respond to the architect session if it posted. Report only changes or items requiring owner action (payment approval, Tripo web clicks, appearance judgment); otherwise, provide a single short status line.
+<task-notification>
+<task-id>bbdesvvnw</task-id>
+<summary>Monitor event: "G2 bake task events 2"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[MILESTONE] Step 1 complete: all four 2k normal/basecolour/RM sets written under ~/Desktop/tripo-g0/baked/&lt;name&gt;, one actual bake attempt each. OUT/&lt;name&gt;/bake-2k.json and bake-2048.log record settings, hashes and CPU bake results. All comparison atlases, exact crops and source/coverage sheets opened; per-character map-visual-review-2k.json records observations. Sharper normals coexist with saturated UV-border wedges and flatter/faceted new basecolour; improvement is NOT assumed. Green direct co...(truncated)
+-----------------------
+</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
