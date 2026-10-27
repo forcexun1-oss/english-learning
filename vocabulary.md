@@ -24455,3 +24455,4 @@
 - 2026-10-27 23:07 — Use 'does not' instead of 'doesn't' for slightly more formal clarity in instructions, though both are acceptable.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 23:09 — Use 'crooked' or 'tilted' to describe something that is not straight. 'Don't make any changes on your own' is a natural way to say '别自己发挥了' in this context.
