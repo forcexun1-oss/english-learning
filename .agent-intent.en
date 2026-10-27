@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Monitor event: "gpt-concept3 (sol) events re-arm 4"
 
 Event: REASON=OUTBOX kind=MILESTONE
@@ -6,3 +7,14 @@ Event: REASON=OUTBOX kind=MILESTONE
 -----------------------
 
 If this event requires immediate user action, send a PushNotification. Routine or benign output does not need one.
+=======
+<task-notification>
+<task-id>bz0d5lmv9</task-id>
+<summary>Monitor event: "astra-fidelity events re-arm 3"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[STAGE] Direct-coloured dense solid render opened: OUT/highpoly/high_head.png; eyes are still blurred, and fur remains bumpy. Pilot 2 reduced duplicated eyes, but fill/material masking introduced boundary patches; rejected for close-up. Pilot 3 switches to palette transfer plus protected interior detail projection, preserving ear rims, trim, hem, and tail. This is the final planned pilot; full apply is deferred.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
+>>>>>>> Stashed changes
