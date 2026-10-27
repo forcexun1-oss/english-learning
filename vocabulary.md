@@ -24638,3 +24638,4 @@
 - 2026-10-28 02:41 — In English, it is more natural to add a subject like 'I' or 'you' (e.g., 'Alright, let me take a look' or 'Alright, take a look'). '好了' often serves as a transition to start an action.
 - 2026-10-28 02:43 — In English, 'accept all cookies' is a standard phrase for website consent banners. You can also say 'I'll accept all cookies' if you are stating your action.
 - 2026-10-28 02:43 — Use 'Will this affect...?' to ask about potential impact on a process or system.
+- 2026-10-28 02:46 — In English, use 'Is' instead of 'Are' for singular subjects like 'progress' (进展).
