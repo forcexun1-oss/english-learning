@@ -24299,3 +24299,4 @@
 - 2026-10-27 20:49 — Use 'handle' or 'solve' for '解决' in technical contexts. 'Budget' is more natural than 'quota' for financial limits.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 20:51 — Use 'assigned to' for tasks and 'one tier below' for comparison levels.
