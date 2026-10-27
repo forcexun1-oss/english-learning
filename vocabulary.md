@@ -24554,3 +24554,4 @@
 - 2026-10-28 00:14 — Use 'Is this the only...' to ask if something is the sole item required. '对吧' is often translated as 'right?' or 'isn't it?' at the end of a statement, but turning it into a direct question is often clearer in professional contexts.
 - 2026-10-28 00:15 — Use 'branch off from' when creating a new branch based on an existing one, and 'merge into' when integrating changes into a target branch.
 - 2026-10-28 00:15 — Use 'via the web interface' to specify where you logged in, which is clearer than just 'on the web page'.
+- 2026-10-28 00:18 — Use 'Can [Tool] handle this?' to ask about capability, and 'Ultimately, [Agent] will execute' to clarify the final actor.
