@@ -1,19 +1,20 @@
 <task-notification>
-<task-id>bvszatvlv</task-id>
-<tool-use-id>toolu_013v1q4nMpxeBxWdmsy1Fs91</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/56dd26bb-3736-4ffa-9b52-6579d82b538b/tasks/bvszatvlv.output</output-file>
-<status>completed</status>
-<summary>Monitor "lp-bake2 (luna) events re-arm 4" stream ended</summary>
+<task-id>b9xka3puj</task-id>
+<summary>Monitor event: "cx-chin (sol) events re-arm"</summary>
 <event>REASON=OUTBOX kind=MILESTONE
 --- new OUTBOX text ---
-## Stage 2 — complete
-- `OUT/gates.json` confirms geometry/UV identity, normal cleanup, color clusters, UV color coverage, and render comparisons; `OUT/texture_dimensions.json` records both delivered textures.
-- `OUT/REPORT.md` includes the exact rerun command, runtimes, compare paths, and notes from reviewing all three images. G5 MAE is lower for v2 across all measured views.
-- `OUT/git_status.txt` records worktree status. The only file created by this task in the worktree is `tools/art/3d/lp_bake2.py`; other untracked art scripts belong to pre-existing or concurrent work.
+## Iteration 1 — visual review and measured results
+
+Opened `OUT/it1/review/close-000-pair.png`, `close-035-pair.png`, `close-090-pair.png`, `close-180-pair.png`, and `close-below-pair.png` individually. The baseline is shown next to the candidate in each.
+
+**Visual findings:** Front and 35° views show separated pale triangular flecks around the lower cheeks and chin; most card bodies are hidden inside the base mesh. Some outer tips overlap the helmet trim. The side view reveals thin, jagged pieces under the jaw and the old pointed neck wedge; the below view exposes the same "confetti" and unresolved wedge. The rear view shows no obvious change. Mouth, nose, and eyes remain readable. This is a visual failure, not a fur-band acceptance.
+
+**Measured evidence:** `OUT/review1.log` and `OUT/it1/review/noise-summary.json` record a `noise.chin` baseline of 3.709117400328865 and iteration 1 of 4.013721242351329, both failing the unchanged 1.3 threshold. `OUT/it1/build.json` records 696 extra card triangles. `OUT/it1/invariants.json` confirms original topology/index preservation, unchanged outside vertices/triangles, and intact original plume buffers.
+
+**Iteration 2 plan:** Expand neutral chin smoothing downward while freezing collar sides. Drape each card column onto the actual surface, with roots slightly sunk and bodies/tips progressively raised. Down/out directions are shortened and angled downward at the helmet sides. A locally copied white PNG serves as the layout texture input. Parameters are in `OUT/recipe2.json`. A single author-script change was made for this iteration; render/evaluation scripts remain unchanged.
+
+**Next step:** Paired candidate Cycles orbit/below/game renders using the same cached baseline and settings.
 -----------------------
-elapsed=2min alive=yes rollout_idle=2s tool_calls=30 weighted_tokens=283982
-last STATUS:
-files in outdir: budget.log launch.log OUT OUTBOX.md run.log
-kids:        0 child procs; recent-output-file: /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/box/lp-bake2/budget.log</event>
+elapsed=2min alive=yes rollout_idle=1s tool_calls=15 weighted_tokens=137739</event>
 If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
 </task-notification>
