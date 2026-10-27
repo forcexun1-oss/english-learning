@@ -24526,3 +24526,4 @@
 - 2026-10-27 23:32 — Use 'Never mind' or 'Forget about' to dismiss previous points. '衣服' is best translated as 'clothing' or 'outfit' in a character design context.
 - 2026-10-27 23:32 — Use 'also' or 'too' at the end of the sentence to add another point. 'Off' is a natural way to say something is incorrect or not as expected.
 - 2026-10-27 23:34 — Use 'going about this' to mean 'approaching this method'. 'Technicalities' refers to minor technical details or complexities.
+- 2026-10-27 23:42 — In English, it is more natural to say 'What is the purpose of the downloaded model?' or 'What is the downloaded model used for?' rather than 'What is the downloaded model doing?'
