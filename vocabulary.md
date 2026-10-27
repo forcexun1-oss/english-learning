@@ -24703,3 +24703,4 @@
 - 2026-10-28 03:12 — In technical writing, avoid mixing Chinese characters like '未测' into English sentences. Use 'untested' or 'not tested' instead.
 - 2026-10-28 03:13 — Use 'failed' instead of 'stopped' for compilation errors, and 'capture' instead of 'preserve' for logs.
 - 2026-10-28 03:15 — Use 'web UI' instead of 'WEB' for better readability. When listing technical steps, using semicolons or breaking them into distinct sentences improves clarity compared to long comma-separated clauses.
+- 2026-10-28 03:15 — Use 'were zero' instead of 'zero' for subject-verb agreement with plural subjects like 'deltas'.
