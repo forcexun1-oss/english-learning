@@ -1,1 +1,1 @@
-The 'long' value got split in the middle. 'numeric' is okay, but it's being read as 'two thousand'.
+It's still breaking the sentences, and it's still reading 'two thousand'.
