@@ -24544,3 +24544,4 @@
 - 2026-10-27 23:54 — In English, use 'Show me' or 'Let me see' instead of a direct translation of '给我看看'.
 - 2026-10-27 23:55 — Use 'Rejected' instead of 'Reject' when describing the outcome of a review step.
 - 2026-10-27 23:55 — Use 'What's still running?' to ask about active processes or tasks.
+- 2026-10-27 23:56 — Use 'failed due to' or 'failed because of' to clearly link the error to its cause. 'Unavailable on MPS' is technically correct but 'error on MPS' is more idiomatic for logs.
