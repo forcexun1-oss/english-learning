@@ -24266,3 +24266,4 @@
 - 2026-10-27 16:39 — Capitalize the first letter of the sentence.
 - 2026-10-27 16:53 — In English, '咋样了' is best translated as 'How's it going?' or 'What's the status?' to ask for an update on progress.
 - 2026-10-27 17:03 — Use 'required' instead of 'need' for a more formal tone in technical contexts.
+- 2026-10-27 17:10 — Use 'performance' or 'speed' instead of 'run to how much' to describe model capabilities more naturally.
