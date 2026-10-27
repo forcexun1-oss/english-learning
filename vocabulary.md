@@ -24196,3 +24196,4 @@
 - 2026-10-27 09:07 — In English, 'hear' is a stative verb and is rarely used in the imperative form for requests. Instead, use 'Listen' or 'Play it for me'.
 - 2026-10-27 09:09 — Use 'split' or 'broken' instead of 'disconnected' for text/data that is cut off. 'Read as' is natural for describing how a system interprets a value.
 - 2026-10-27 09:22 — Use 'still' to emphasize that a problem persists. In English, we usually say 'two thousand' instead of 'two thousand' when referring to the number 2000 in text-to-speech contexts.
+- 2026-10-27 09:26 — Use 'numeric' instead of 'numberic'. When describing issues, be specific about which part of the output is affected (e.g., 'the subsequent segments' instead of 'some of the following').
