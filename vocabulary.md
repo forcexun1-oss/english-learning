@@ -24216,3 +24216,4 @@
 - 2026-10-27 10:47 — Use 'domestic mirror' to refer to local servers in China, and 'instead of' to clearly indicate the alternative you want to avoid.
 - 2026-10-27 10:49 — Use 'How big is...' to ask about size. '还是' in this context implies 'still' or 'also,' so 'Are you still...' is the natural translation.
 - 2026-10-27 10:50 — Use 'check if' instead of '看...有吗' for a more natural and professional tone in technical contexts.
+- 2026-10-27 10:54 — Use 'It should be...' to confirm a technical requirement or specification.
