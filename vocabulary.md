@@ -24303,3 +24303,4 @@
 - 2026-10-27 20:51 — Use 'assigned to' for tasks and 'one tier below' for comparison levels.
 =======
 >>>>>>> Stashed changes
+- 2026-10-27 20:54 — Use 'requires user action' instead of 'something the user would act on now' for a more professional and concise tone.
