@@ -24541,3 +24541,4 @@
 - 2026-10-27 23:50 — Use 'Monitor' instead of 'Monitor' for consistency with imperative verbs in task summaries.
 - 2026-10-27 23:51 — Use 'is missing' instead of 'lacks' for a more natural technical description of missing dependencies.
 - 2026-10-27 23:52 — Added 'The' before 'Model README' for better flow and clarity.
+- 2026-10-27 23:54 — In English, use 'Show me' or 'Let me see' instead of a direct translation of '给我看看'.
