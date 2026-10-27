@@ -1,1 +1,9 @@
-PM patrol for the AI character art work. Read /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-3736-4ffa-9b52-6579d82b538b/scratchpad/PATROL.md and run its routine now: check running Codex tasks and box OUTBOX files, handle any unanswered GATE/BLOCKED, re-arm monitors, relaunch dead tasks once, answer the architect session if it wrote. Report to the owner only changes or things that need them (payment approval, Tripo web clicks, appearance judgement); otherwise one short line.
+<task-notification>
+<task-id>b3dbfxris</task-id>
+<summary>Monitor event: "Cast inputs task events 3"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[STAGE] Opened fox back-a and left-a. The back view's toes/claws face the wrong way; the left view is slightly oblique and the hat sweeps backward. Retrying each view individually, using the initial view + normalized front + selected original as references. Evidence: OUT/fox-mage/back-a.png, OUT/fox-mage/left-a.png, OUT/prompts.md.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
