@@ -24629,3 +24629,4 @@
 - 2026-10-28 02:28 — Use 'rigging' instead of 'binding bones' for character animation setup in game development contexts.
 - 2026-10-28 02:28 — Use 'get ... working' or 'get ... up and running' to describe making a process functional.
 - 2026-10-28 02:29 — In technical logs, avoid mixing Chinese characters (like '未测') with English text; use 'not executed' or 'skipped' for consistency.
+- 2026-10-28 02:29 — Use 'assigned to' or 'given to' instead of 'sent to' when talking about tasks or work distribution.
