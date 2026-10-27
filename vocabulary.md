@@ -24581,3 +24581,4 @@
 - 2026-10-28 01:06 — Use 'regardless of' to translate '管他是什么' for a natural, decisive tone.
 - 2026-10-28 01:07 — Use 'do not' instead of '不要' for a more natural negative imperative in English.
 - 2026-10-28 01:11 — Use 'Is there anything else?' for yes/no questions. '没有了' is a statement; adding '吧' makes it a suggestion, but 'Is there anything else?' is more natural for confirming completion.
+- 2026-10-28 01:12 — Use 'regardless of' or 'no matter what' to translate '管他是什么' for a more natural tone.
