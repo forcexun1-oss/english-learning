@@ -24286,3 +24286,4 @@
 - 2026-10-27 20:19 — Use 'shader' instead of '片' (slice/sheet) when referring to rendering materials like hair, skin, or metal.
 - 2026-10-27 20:21 — Use 'Does this require X, or is Y sufficient?' to ask if a specific tool is necessary versus an alternative.
 - 2026-10-27 20:22 — Use 'break down' for splitting tasks into smaller parts. 'Weigh the options' is a natural way to express evaluating different choices.
+- 2026-10-27 20:31 — The original text was already in English and technically accurate, so no changes were made.
