@@ -24555,3 +24555,4 @@
 - 2026-10-28 00:15 — Use 'branch off from' when creating a new branch based on an existing one, and 'merge into' when integrating changes into a target branch.
 - 2026-10-28 00:15 — Use 'via the web interface' to specify where you logged in, which is clearer than just 'on the web page'.
 - 2026-10-28 00:18 — Use 'Can [Tool] handle this?' to ask about capability, and 'Ultimately, [Agent] will execute' to clarify the final actor.
+- 2026-10-28 00:21 — In English, it's more natural to say 'go ahead and try' or 'give it a try' rather than a direct translation of 'you try'.
