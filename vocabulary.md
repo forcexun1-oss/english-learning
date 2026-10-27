@@ -24699,3 +24699,4 @@
 - 2026-10-28 03:05 — In technical logs, avoid mixing Chinese characters (like '已绑定骨骼的模型可用于动画') into English sentences. Either translate the content or keep it in quotes as a raw UI string.
 - 2026-10-28 03:09 — Use 'Downloaded' instead of 'Downloaded with' for better flow, and 'Next:' to clearly introduce the subsequent steps.
 - 2026-10-28 03:10 — Changed 'absent at initial read' to 'was missing on initial read' for more natural phrasing.
+- 2026-10-28 03:11 — Use a colon after 'complete' to introduce the details of the step, and add 'in' before the list of evidence files for better flow.
