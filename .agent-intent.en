@@ -1,1 +1,1 @@
-Does the model have an option to skip downloading if it's not available via proxy?
+Let's split up and handle this separately.

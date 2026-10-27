@@ -24535,3 +24535,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-10-27 23:47 — Use 'skip downloading' to express 'not downloading' in a more natural way.
+- 2026-10-27 23:48 — In English, 'split up' is a natural way to express dividing tasks among people, whereas '分头' literally means 'separate heads'.
