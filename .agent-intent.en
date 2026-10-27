@@ -1,1 +1,1 @@
-Check the changes Codex made. The long sentences are still problematic; there are breaks between the test and the words. The generated blocks, tests, and words are all separate and unclear. Please review his code first to identify the issues, and then suggest how to resolve them.
+Should we fix the issues found during the review first, or start with A/B testing? If we do A/B first, will we need to retest after the code changes?
