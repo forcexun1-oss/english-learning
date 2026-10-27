@@ -24399,3 +24399,4 @@
 - 2026-10-27 22:18 — Use 'spin up' for starting a new process or task. 'GPT' is commonly used as a shorthand for OpenAI's models.
 - 2026-10-27 22:22 — The original text is already natural and idiomatic for a developer context.
 - 2026-10-27 22:24 — Use 'roadblock' or 'stuck' to describe technical impasses. 'Instead of' is a natural way to suggest an alternative action.
+- 2026-10-27 22:25 — Use 'judge' or 'evaluate' instead of 'determine' when assessing value or merit in this context.
