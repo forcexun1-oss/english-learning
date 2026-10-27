@@ -1,1 +1,9 @@
-Patrol the AI character art workflow. Read /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/PATROL.md and execute its routine: check running Codex tasks and box OUTBOX files, resolve any unanswered GATE/BLOCKED items, re-arm monitors, relaunch dead tasks once, and respond to the architect session if needed. Report only changes or items requiring owner action (payment approval, Tripo web clicks, appearance judgment); otherwise, provide a single short line.
+<task-notification>
+<task-id>bxdpeuo0b</task-id>
+<summary>Monitor event: "Cast inputs task events 12"</summary>
+<event>REASON=OUTBOX kind=MILESTONE
+--- new OUTBOX text ---
+[STAGE] Mouse back-a/left-a opened. The single tail is fully visible in both. Running single targeted retries for rear heel direction and side camera/excess rear helmet coverage; tail remains unchanged. Ordered references: initial view + normalized front + selected original. Evidence: OUT/mouse-minion/back-a.png, OUT/mouse-minion/left-a.png, OUT/prompts.md.
+-----------------------</event>
+If this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.
+</task-notification>
