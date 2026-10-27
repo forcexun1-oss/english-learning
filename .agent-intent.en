@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <task-notification>
 <task-id>bsqvtk3d1</task-id>
 <summary>Monitor event: "terra hair-cards events (resumed)"</summary>
@@ -8,3 +9,6 @@ The dispatcher confirmed the budget is still available and approved the atlas so
 -----------------------</event>
 If this event requires immediate user action, send a PushNotification. Routine or benign output does not need one.
 </task-notification>
+=======
+For this task, is Claude Code better than Codex for Unity code? Please check.
+>>>>>>> Stashed changes
