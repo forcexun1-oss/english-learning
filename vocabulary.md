@@ -24869,3 +24869,4 @@
 - 2026-10-28 10:43 — Use 'is the only one' instead of 'only this one' for a more natural and complete sentence structure.
 - 2026-10-28 10:44 — In English, 'leave it as is' is a natural way to express accepting the current state without making further changes.
 - 2026-10-28 10:45 — Use 'currently shows' or 'is currently' to describe the present state of the system.
+- 2026-10-28 10:56 — Use 'one by one' to indicate a sequential process. '挨个' is a common colloquialism for 'one by one' or 'individually'.
