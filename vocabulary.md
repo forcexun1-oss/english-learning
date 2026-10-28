@@ -24866,3 +24866,4 @@
 - 2026-10-28 10:33 — Use 'Shouldn't it be...' to politely question a design choice or assumption.
 - 2026-10-28 10:38 — Use 'Do we really need to...' to express doubt or question the necessity of an action.
 - 2026-10-28 10:41 — In English, use 'There is no...' or 'There are no...' to state the absence of something, rather than just starting with the noun.
+- 2026-10-28 10:43 — Use 'is the only one' instead of 'only this one' for a more natural and complete sentence structure.
