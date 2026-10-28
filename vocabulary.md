@@ -24956,3 +24956,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:38 — Use 'will' for future predictions. 'Popup' is a common term for UI pop-ups; 'terminal' refers to the command-line interface.
