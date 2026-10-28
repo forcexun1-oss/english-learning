@@ -24864,3 +24864,4 @@
 - 2026-10-28 10:29 — In English, '干' in this context is better translated as 'do it' or 'proceed'. '干明白' is an idiom meaning 'to understand and execute correctly'; 'handle it properly' or 'get it done right' conveys this naturally in a professional context.
 - 2026-10-28 10:32 — Use 'session ID' to be more precise than just 'session' when referring to a unique identifier in software contexts.
 - 2026-10-28 10:33 — Use 'Shouldn't it be...' to politely question a design choice or assumption.
+- 2026-10-28 10:38 — Use 'Do we really need to...' to express doubt or question the necessity of an action.
