@@ -24961,3 +24961,4 @@
 - 2026-10-28 11:40 — Use 'right?' or 'can't you?' at the end of a statement to turn it into a natural question.
 - 2026-10-28 11:44 — Use 'What are you changing?' for an ongoing action. 'What did you change?' is for a completed action.
 - 2026-10-28 11:46 — In English, use 'but' to contrast two ideas (messages exist, but no pop-up) instead of just listing them with a comma.
+- 2026-10-28 11:47 — Use 'as soon as' to emphasize that one event immediately follows another.
