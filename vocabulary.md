@@ -24757,3 +24757,4 @@
 - 2026-10-28 06:56 — Use 'action items' or 'items requiring action' instead of 'things that need them' for a more professional tone. 'Judgment' is the standard US spelling.
 - 2026-10-28 07:16 — Use 'items' or 'issues' after 'unanswered GATE/BLOCKED' for clarity. 'Otherwise, provide a single short line' is more direct than 'otherwise one short line'.
 - 2026-10-28 07:36 — Added 'items' after 'GATE/BLOCKED' for clarity and 'their attention' to make the requirement for owner intervention more explicit. Changed 'otherwise one short line' to 'otherwise, provide one short status line' for better flow.
+- 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
