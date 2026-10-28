@@ -24784,3 +24784,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 08:28 — In technical logs, 'stream ended' is standard. For user-facing messages, consider 'stream has ended' or 'stream finished' for better flow.
