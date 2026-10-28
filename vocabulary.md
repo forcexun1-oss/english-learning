@@ -24879,3 +24879,4 @@
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
 - 2026-10-28 11:04 — Use 'titled' instead of 'named' when referring to the title of a conversation or document for more natural phrasing.
+- 2026-10-28 11:07 — Use 'integration' instead of '接入' when referring to connecting systems or services in software development.
