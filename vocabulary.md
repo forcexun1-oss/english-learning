@@ -24868,3 +24868,4 @@
 - 2026-10-28 10:41 — In English, use 'There is no...' or 'There are no...' to state the absence of something, rather than just starting with the noun.
 - 2026-10-28 10:43 — Use 'is the only one' instead of 'only this one' for a more natural and complete sentence structure.
 - 2026-10-28 10:44 — In English, 'leave it as is' is a natural way to express accepting the current state without making further changes.
+- 2026-10-28 10:45 — Use 'currently shows' or 'is currently' to describe the present state of the system.
