@@ -1,1 +1,1 @@
-Shouldn't we create one group per session, with the group name being the session ID? Otherwise, it gets too messy.
+Shouldn't it be the session name? Why is it the ID?
