@@ -24856,3 +24856,4 @@
 - 2026-10-28 10:02 — In English, it is more natural to say 'Go ahead and try it' or 'Give it a try' rather than a literal translation of 'Go try'.
 - 2026-10-28 10:02 — In English, 'Received' is a concise and professional way to confirm receipt of a message or file.
 - 2026-10-28 10:03 — In English, it is more natural to say 'I sent it' or 'Sent' rather than just 'Fā le' (发了). When asking someone to retry, 'Try again' is the standard phrase.
+- 2026-10-28 10:04 — Use 'enabled' instead of 'opened' for features, skills, or plugins.
