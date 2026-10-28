@@ -24788,6 +24788,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -24923,3 +24924,6 @@
 >>>>>>> Stashed changes
 - 2026-10-28 11:27 — Use 'with the same name as' to clearly express that two things share the same identifier.
 - 2026-10-28 11:28 — In English, 'session' is often used for technical contexts like coding or chat logs. 'Conversation' is also common for chat interfaces.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
