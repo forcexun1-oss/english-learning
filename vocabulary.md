@@ -24848,6 +24848,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -25191,3 +25192,6 @@
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
 - 2026-10-28 17:29 — Use 'What's going on?' or 'What's the situation?' to ask for a status update. '啥情况' is a common colloquialism for 'what's the situation'.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
