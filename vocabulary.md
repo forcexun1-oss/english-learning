@@ -24916,3 +24916,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:24 — In English, avoid starting sentences with 'but' when connecting to a previous clause in formal writing. Also, 'Feishu' is the subject, so use 'can Feishu reply?' instead of 'Feishu can't reply?'
