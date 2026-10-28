@@ -25039,3 +25039,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 14:40 — Use 'configure' or 'set up' instead of '配' for technical settings. 'No need to' is a natural way to express '不用'.

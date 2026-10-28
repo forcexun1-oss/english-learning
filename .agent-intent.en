@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Claude Code has already updated itself to support responses on both sides. Please leave his code alone, but review his approach and apply the same logic to Codex. Write a plan and have the subagent execute it using Luna.
-=======
-What needs to be conveyed?
->>>>>>> Stashed changes
+Just configure both; no need to create a separate command.
