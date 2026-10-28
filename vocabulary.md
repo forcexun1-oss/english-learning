@@ -25000,3 +25000,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 13:14 — Use 'wrap up' for '收尾' (finish/conclude tasks). 'Rockchip' is the standard English name for 瑞芯微.
