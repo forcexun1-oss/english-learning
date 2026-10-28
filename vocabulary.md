@@ -24972,3 +24972,4 @@
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
 - 2026-10-28 11:54 — Use 'handle' or 'take care of' to describe delegating a task to an AI or tool.
+- 2026-10-28 11:54 — Use 'handle' or 'manage' when asking if someone can deal with a task or problem effectively.
