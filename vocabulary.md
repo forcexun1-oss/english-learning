@@ -24777,6 +24777,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -24870,3 +24871,6 @@
 - 2026-10-28 10:44 — In English, 'leave it as is' is a natural way to express accepting the current state without making further changes.
 - 2026-10-28 10:45 — Use 'currently shows' or 'is currently' to describe the present state of the system.
 - 2026-10-28 10:56 — Use 'one by one' to indicate a sequential process. '挨个' is a common colloquialism for 'one by one' or 'individually'.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
