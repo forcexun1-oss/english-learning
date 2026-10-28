@@ -24951,3 +24951,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:37 — In English, '试试吧' is naturally translated as 'Give it a try' or 'Try it out.' Avoid literal translations like 'Try try.'
