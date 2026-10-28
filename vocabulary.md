@@ -24946,3 +24946,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:35 — Use 'send back' or 'pass back' to describe returning information to the source system.
