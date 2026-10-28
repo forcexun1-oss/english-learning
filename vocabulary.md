@@ -24768,6 +24768,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -24810,3 +24811,6 @@
 >>>>>>> Stashed changes
 - 2026-10-28 08:34 — Use 'pause' or 'stop' to indicate halting tasks. 'For now' implies a temporary action.
 - 2026-10-28 08:34 — In English, it's more natural to say 'I closed Unity' rather than 'Unity I closed.' The subject usually comes first in a sentence.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
