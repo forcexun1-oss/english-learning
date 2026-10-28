@@ -24977,3 +24977,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 12:32 — In English, 'Go ahead' is a common way to give permission or tell someone to proceed with a task.
