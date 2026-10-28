@@ -24851,3 +24851,4 @@
 >>>>>>> Stashed changes
 - 2026-10-28 09:54 — Use 'are done' or 'are complete' for tasks that have been finished. 'Completed' is also correct but often implies a more formal or final state.
 - 2026-10-28 09:56 — In English, 'continue' is a verb, so you need a subject and auxiliary verb (e.g., 'How do we continue?'). Avoid literal translations like 'How to do continue'.
+- 2026-10-28 10:01 — Use 'How do I proceed?' or 'What's the next step?' for natural, concise follow-up questions.
