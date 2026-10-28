@@ -24921,3 +24921,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:27 — Use 'with the same name as' to clearly express that two things share the same identifier.
