@@ -24859,6 +24859,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -25207,6 +25208,9 @@
 >>>>>>> Stashed changes
 - 2026-10-28 17:30 — In English, it is more natural to use the future tense ('will discuss') or an imperative ('let's discuss') after 'then' rather than just stating the action. Also, 'what the final structure should look like' is clearer than 'what it is built into'.
 - 2026-10-28 17:31 — In English, use 'proceed with' or 'move on to' for sequential steps instead of repeating '完' (finish/complete).
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
