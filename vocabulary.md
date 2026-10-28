@@ -24858,3 +24858,4 @@
 - 2026-10-28 10:03 — In English, it is more natural to say 'I sent it' or 'Sent' rather than just 'Fā le' (发了). When asking someone to retry, 'Try again' is the standard phrase.
 - 2026-10-28 10:04 — Use 'enabled' instead of 'opened' for features, skills, or plugins.
 - 2026-10-28 10:17 — Use 'Won't this...' for rhetorical questions expecting a 'yes' answer. 'Context size' is the standard term in AI/LLM engineering.
+- 2026-10-28 10:21 — In English, it is more natural to use 'Should we...' or 'Can we...' to propose an action, rather than starting directly with 'That is...'
