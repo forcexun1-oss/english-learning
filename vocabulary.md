@@ -24814,3 +24814,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 09:02 — In English, 'board' usually refers to a physical piece of wood or a notice board. In electronics, use 'board' (e.g., 'the board is ready') or specify 'development board' to avoid confusion.
