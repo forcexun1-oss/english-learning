@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Please wrap up the remaining tasks. Can this model still be fine-tuned? Has Rockchip provided any methods? What kind of hardware do we need?
-=======
-What needs to be conveyed?
->>>>>>> Stashed changes
+Let's ignore the push for now and get started on the other tasks. Can an M4 Pro Mac with 128GB of RAM handle training?

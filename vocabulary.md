@@ -25005,3 +25005,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 13:19 — Use 'handle' or 'support' when asking about hardware capabilities. Also, specify '128GB of RAM' or '128GB memory' for clarity, as '128G' is informal.
