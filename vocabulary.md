@@ -25014,3 +25014,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 13:27 — Use 'just' or 'only' to emphasize that the weight consists solely of the LoRA file.
