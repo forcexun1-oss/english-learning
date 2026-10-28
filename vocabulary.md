@@ -24847,6 +24847,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -25186,3 +25187,6 @@
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
 - 2026-10-28 17:23 — Use 'try running' instead of 'run' to express the tentative nature of testing. 'See if it works' is a natural way to say 'check if it runs successfully'.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
