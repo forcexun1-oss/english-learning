@@ -25024,3 +25024,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 13:32 — Use 'consume' or 'use' instead of '费' (spend/waste) when talking about resource usage like memory or CPU.
