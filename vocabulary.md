@@ -24959,3 +24959,4 @@
 - 2026-10-28 11:38 — Use 'will' for future predictions. 'Popup' is a common term for UI pop-ups; 'terminal' refers to the command-line interface.
 - 2026-10-28 11:38 — When referring to a specific tool or service like 'Codex', capitalize it. Use 'on your end' to ask about the other person's setup or situation.
 - 2026-10-28 11:40 — Use 'right?' or 'can't you?' at the end of a statement to turn it into a natural question.
+- 2026-10-28 11:44 — Use 'What are you changing?' for an ongoing action. 'What did you change?' is for a completed action.
