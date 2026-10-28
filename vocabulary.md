@@ -24931,3 +24931,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:30 — In English, it is more natural to include the subject 'you' (e.g., 'Can you test it?') rather than omitting it as in Chinese.
