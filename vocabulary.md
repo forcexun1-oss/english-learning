@@ -24795,6 +24795,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-28 08:18 — In English, 'Just tell me directly' is a natural and concise way to ask for a straightforward answer without extra explanation.
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
@@ -24962,3 +24963,6 @@
 - 2026-10-28 11:44 — Use 'What are you changing?' for an ongoing action. 'What did you change?' is for a completed action.
 - 2026-10-28 11:46 — In English, use 'but' to contrast two ideas (messages exist, but no pop-up) instead of just listing them with a comma.
 - 2026-10-28 11:47 — Use 'as soon as' to emphasize that one event immediately follows another.
+=======
+- 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
+>>>>>>> Stashed changes
