@@ -24861,3 +24861,4 @@
 - 2026-10-28 10:21 — In English, it is more natural to use 'Should we...' or 'Can we...' to propose an action, rather than starting directly with 'That is...'
 - 2026-10-28 10:24 — Use 'event-driven' instead of 'event +subscribe' for better technical clarity. 'Polling' is the correct term for repeatedly checking for updates.
 - 2026-10-28 10:25 — In English, it is more natural to specify the object of the action. Instead of just saying 'upgrade,' say 'upgrade to the latest version' or 'update to the latest version.'
+- 2026-10-28 10:29 — In English, '干' in this context is better translated as 'do it' or 'proceed'. '干明白' is an idiom meaning 'to understand and execute correctly'; 'handle it properly' or 'get it done right' conveys this naturally in a professional context.
