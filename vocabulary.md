@@ -24898,3 +24898,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 11:16 — Use 'enabled by default' to describe settings that are active without manual configuration.
