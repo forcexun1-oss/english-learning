@@ -24770,3 +24770,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 08:18 — In English, 'open' is a verb that directly translates to '打开'. Make sure to use it in the correct context, such as 'open a file' or 'open a door'.
