@@ -1,1 +1,1 @@
-Should we add a hook to trigger a script?
+Design an elegant and efficient solution. Do not combine several features into one, and avoid continuous polling. Prefer an event-driven approach with subscriptions. Claude Code should also be easy to integrate and reuse.

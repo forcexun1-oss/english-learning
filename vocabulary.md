@@ -24859,3 +24859,4 @@
 - 2026-10-28 10:04 — Use 'enabled' instead of 'opened' for features, skills, or plugins.
 - 2026-10-28 10:17 — Use 'Won't this...' for rhetorical questions expecting a 'yes' answer. 'Context size' is the standard term in AI/LLM engineering.
 - 2026-10-28 10:21 — In English, it is more natural to use 'Should we...' or 'Can we...' to propose an action, rather than starting directly with 'That is...'
+- 2026-10-28 10:24 — Use 'event-driven' instead of 'event +subscribe' for better technical clarity. 'Polling' is the correct term for repeatedly checking for updates.
