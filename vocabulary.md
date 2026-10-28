@@ -24789,3 +24789,4 @@
 =======
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
+- 2026-10-28 08:30 — Use 'Monitor' as an imperative verb to start the action, which is standard for CLI tool prompts and task summaries.
