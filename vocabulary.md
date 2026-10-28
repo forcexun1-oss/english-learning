@@ -24854,3 +24854,4 @@
 - 2026-10-28 10:01 — Use 'How do I proceed?' or 'What's the next step?' for natural, concise follow-up questions.
 - 2026-10-28 10:01 — Use 'It's obvious that...' to state a clear fact. In English, we often use the passive voice ('doesn't exist') or 'there is/are' for existence, rather than 'have'.
 - 2026-10-28 10:02 — In English, it is more natural to say 'Go ahead and try it' or 'Give it a try' rather than a literal translation of 'Go try'.
+- 2026-10-28 10:02 — In English, 'Received' is a concise and professional way to confirm receipt of a message or file.
