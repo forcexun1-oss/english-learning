@@ -25467,3 +25467,4 @@
 - 2026-10-29 15:08 — Use 'Does [subject] have...' for yes/no questions about possession or availability.
 - 2026-10-29 15:47 — In English, 'How is it going?' is a natural way to ask for a status update. In a technical context, you can also say 'What's the status?' or 'How's the progress?'
 - 2026-10-29 15:50 — In English, 'delegate tasks to [someone/something]' is more natural than 'assign tasks to'. Also, 'go ahead' is a common way to give permission or encouragement to continue.
+- 2026-10-29 15:57 — Use 'dispatch tasks' or 'assign tasks' instead of '派活' (assign work) for a more professional tone in software engineering contexts.
