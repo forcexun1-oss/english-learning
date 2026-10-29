@@ -25673,3 +25673,4 @@
 >>>>>>> Stashed changes
 - 2026-10-29 23:29 — In English, it is more natural to say 'choose X instead of Y' rather than 'use X not Y' when explaining a selection between two options.
 - 2026-10-29 23:29 — Use 'assign' instead of '派' for tasks. 'Based on difficulty' is more natural than 'by difficulty' in this context.
+- 2026-10-29 23:29 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions. Break long paragraphs into numbered lists or bullet points to improve readability for complex tasks.
