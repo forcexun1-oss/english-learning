@@ -25788,3 +25788,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:27 — Use 'based on' instead of 'driven by' for a more natural tone. Ensure subject-verb agreement (e.g., 'something changes' instead of 'something changed' in conditional contexts).
