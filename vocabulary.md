@@ -25959,3 +25959,4 @@
 - 2026-10-30 01:42 — Use 'covers' or 'includes' instead of 'contains' when referring to a document containing multiple sections or approaches.
 - 2026-10-30 01:43 — In English, it is more natural to say 'Do you know about...' or 'Are you aware of...' rather than 'You know... right?'. Also, 'fur' is generally used for animals, while 'hair' is for humans; choose based on the character type.
 - 2026-10-30 01:43 — In English, 'research' is a verb. You can say 'Research [topic] to see if...' or 'Investigate [topic] to determine if...'
+- 2026-10-30 01:44 — In English, 'shield' is the correct term for the defensive item. Also, 'obviously' is stronger than '明显' in this context, but 'clearly' or 'obviously' both work well.
