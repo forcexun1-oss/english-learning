@@ -25513,3 +25513,4 @@
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
+- 2026-10-29 17:19 — Use 'rejected' or 'turned down' instead of '否掉' for a more natural English expression in professional contexts.
