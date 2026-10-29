@@ -25602,3 +25602,4 @@
 - 2026-10-29 22:42 — Use 'if' instead of '就' to clearly express the conditional relationship in English.
 - 2026-10-29 22:44 — Use 'get it working' or 'make it work' to describe successfully executing a tool or system.
 - 2026-10-29 22:44 — Use 'write to [file]' instead of 'write [file]' for better clarity.
+- 2026-10-29 22:45 — The original text is already natural and idiomatic for a developer context.
