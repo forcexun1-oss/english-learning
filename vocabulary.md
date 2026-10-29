@@ -25466,3 +25466,4 @@
 - 2026-10-29 15:08 — Use 'How is [X] implemented?' for technical questions about mechanisms. 'LoRA' should be capitalized as it is an acronym.
 - 2026-10-29 15:08 — Use 'Does [subject] have...' for yes/no questions about possession or availability.
 - 2026-10-29 15:47 — In English, 'How is it going?' is a natural way to ask for a status update. In a technical context, you can also say 'What's the status?' or 'How's the progress?'
+- 2026-10-29 15:50 — In English, 'delegate tasks to [someone/something]' is more natural than 'assign tasks to'. Also, 'go ahead' is a common way to give permission or encouragement to continue.
