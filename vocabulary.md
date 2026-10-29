@@ -25879,6 +25879,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25965,3 +25966,6 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:46 — Use 'recklessly' to describe spending without care. 'Upper limit' is a natural way to say '上限' in this context.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
