@@ -25645,7 +25645,11 @@
 >>>>>>> Stashed changes
 - 2026-10-29 23:23 — In English, it is more natural to use the present perfect tense ('You've finished') to indicate recently completed actions that affect the current state.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 23:23 — Use numbered lists and bold headers to structure complex multi-step instructions. This improves readability and ensures the AI follows the sequence correctly.
+=======
+- 2026-10-29 23:23 — Use 'one pass' instead of 'ONE pass' for standard capitalization. Added 'the' before 'badger knight' for grammatical correctness.
+>>>>>>> Stashed changes
 =======
 - 2026-10-29 23:23 — Use 'one pass' instead of 'ONE pass' for standard capitalization. Added 'the' before 'badger knight' for grammatical correctness.
 >>>>>>> Stashed changes
