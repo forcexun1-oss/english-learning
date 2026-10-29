@@ -1,1 +1,1 @@
-How is LoRA implemented here? Is it only added to the final output?
+Does the expert model have a corresponding LoRA?
