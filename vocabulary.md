@@ -25476,3 +25476,4 @@
 - 2026-10-29 16:16 — In English, use 'Is' for singular subjects (like 'code') and 'Are' for plural subjects.
 - 2026-10-29 16:16 — Use 'Could' or 'Could it be' to politely suggest a possibility in technical discussions.
 - 2026-10-29 16:20 — Use 'Let's run it with...' to suggest a collaborative next step. 'Official code' is the standard term for upstream/vendor-provided source.
+- 2026-10-29 16:22 — In English, '按你的来' is often translated as 'Go ahead with your plan' or 'Let's go with your approach' to sound more natural in a collaborative context.
