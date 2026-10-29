@@ -26029,3 +26029,4 @@
 - 2026-10-30 02:16 — In English, 'cancel' is a verb. When asking for permission, use 'Can I...?' or 'May I...?'
 - 2026-10-30 02:17 — In English, the subject usually comes before the verb. '你再设置把' translates to 'You set it up' or 'Please set it up' depending on context.
 - 2026-10-30 02:20 — In English, it's more natural to say 'Does [subject] also use...' instead of 'is also using' when asking about a general fact or system behavior.
+- 2026-10-30 02:22 — When asking if a tool can handle a task, use 'Can [Tool] solve/handle [issue]?' for natural phrasing.
