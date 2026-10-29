@@ -25830,3 +25830,4 @@
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
 - 2026-10-30 00:48 — The phrase '看个锤子' is a colloquial Chinese slang expressing frustration or negation (similar to 'see nothing' or 'for nothing'). In professional English, simply stating 'I can't see anything' or 'It's too small to see' is clearer and more polite.
+- 2026-10-30 00:48 — In English, 'UI' is usually treated as a plural noun when referring to its components (e.g., 'UI elements are selected'). Also, 'LOL' should be capitalized as it is an acronym for 'League of Legends'.
