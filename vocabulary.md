@@ -25474,3 +25474,4 @@
 - 2026-10-29 16:10 — Use 'belongs to' instead of 'is ...'s' for clearer ownership attribution in technical contexts.
 - 2026-10-29 16:12 — Use 'check if there's an issue' or 'verify if there's a problem' instead of 'listen to see if it has a problem' for a more natural technical tone.
 - 2026-10-29 16:16 — In English, use 'Is' for singular subjects (like 'code') and 'Are' for plural subjects.
+- 2026-10-29 16:16 — Use 'Could' or 'Could it be' to politely suggest a possibility in technical discussions.
