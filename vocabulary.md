@@ -25615,6 +25615,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'equipped slots' instead of 'worn-equipment slots' for standard UI terminology.
 =======
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
@@ -25634,3 +25635,6 @@
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
 >>>>>>> Stashed changes
 - 2026-10-29 23:19 — Use 'Shouldn't we...' to politely suggest an alternative or question a decision. 'Is it better to...' is a natural way to ask for a comparison or recommendation.
+=======
+- 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
+>>>>>>> Stashed changes
