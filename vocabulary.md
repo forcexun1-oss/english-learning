@@ -25448,3 +25448,4 @@
 - 2026-10-29 13:46 — In English, 'go' is a verb, not a noun. To give permission or start a task, use 'Go ahead' or 'Proceed'.
 - 2026-10-29 13:54 — Use 'spot checks' for random inspections. The structure 'let [object] [verb]' is correct here.
 - 2026-10-29 13:55 — Use 'let [someone] do [something]' to express allowing or instructing someone to perform an action.
+- 2026-10-29 13:56 — In English, use 'points' (plural) when referring to multiple items. Also, avoid ending sentences with a comma.
