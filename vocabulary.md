@@ -25478,3 +25478,4 @@
 - 2026-10-29 16:20 — Use 'Let's run it with...' to suggest a collaborative next step. 'Official code' is the standard term for upstream/vendor-provided source.
 - 2026-10-29 16:22 — In English, '按你的来' is often translated as 'Go ahead with your plan' or 'Let's go with your approach' to sound more natural in a collaborative context.
 - 2026-10-29 16:33 — Use 'Can I...' or 'Can we...' to make a polite suggestion or request. '我听听' is better translated as 'to check' or 'to verify' in a technical context.
+- 2026-10-29 16:40 — In English, 'What's going on?' is a natural way to ask for an update or explanation of a situation.
