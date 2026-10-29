@@ -25925,3 +25925,4 @@
 - 2026-10-30 01:28 — Use 'bottleneck' to describe a point of delay or difficulty in a process. 'Decompose' is a precise technical term for breaking a complex image or system into smaller parts.
 - 2026-10-30 01:30 — Use 'feasible' instead of 'possible' when asking about the practicality of a technical approach. Also, 'decompose' is a precise term for breaking down complex assets into smaller parts.
 - 2026-10-30 01:32 — Use 'yields' or 'produces' instead of 'has' when talking about results or outcomes in a professional context.
+- 2026-10-30 01:34 — In English, it's more natural to use 'Okay' or 'Alright' instead of directly translating '行' as 'Line' or 'Row'.
