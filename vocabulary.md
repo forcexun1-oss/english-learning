@@ -25907,3 +25907,4 @@
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
+- 2026-10-30 01:24 — In English, we usually specify the subject (e.g., 'Is the file open?') rather than using a vague 'it' unless the context is very clear.
