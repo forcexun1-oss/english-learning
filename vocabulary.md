@@ -25638,3 +25638,4 @@
 =======
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
 >>>>>>> Stashed changes
+- 2026-10-29 23:20 — Use 'leverage' or 'utilize' instead of 'use up' to sound more professional when discussing feature adoption.

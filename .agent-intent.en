@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-Shouldn't we use cmux? Is it better to use cmux for message passing?
-=======
-# TASK UI-PAGE2-compare: Redesign the item comparison page. Correction: The EQUIPPED item card should be on the LEFT and the candidate (new item) on the RIGHT (the first round had this reversed). Keep: rarity-colored titles, up/down stat deltas, equip hint, and keyboard/gamepad focus order. The two sketches should differ only in how the deltas are displayed. Document the left=equipped/right=candidate order in PAGE.md and in the focus order. Output dir: /Users/youxun/Desktop/art-direction/tech-route/ui-pages/compare-v2 (sketch-1.png, sketch-2.png, PAGE.md). Box: /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/box/ui-page2-compare.
-
-Owner corrections 2026-10-29 after reviewing the first round at /Users/youxun/Desktop/art-direction/tech-route/ui-pages/:
-(a) One function per page, and pages must be COMPOSABLE: draw the page as a self-contained panel on a plain background with its own clear rectangular bounds and no screen-level chrome, so it can be docked next to other pages later. In PAGE.md, add a 'Compose' section detailing the panel size ratio, which edges may dock to other panels, and what data it needs from neighbors.
-(b) Stats are NOT part of the character panel; they are their own page.
-
-Generate exactly 2 new wireframe sketches (use built-in image_gen, image cap 2), grayscale, 16:9 canvas, short labels, no logos. Reuse the research/prompt approach from the earlier round (see /Users/youxun/Desktop/art-direction/tech-route/ui-pages/<page>/PAGE.md and box PROMPT.md). Read-only on the repo and worktrees, no Unity; output only under the Output dir and Box. Every claim from a file opened or command run must be verified; unverified claims are marked 'unmeasured'. Verify the run header is provider openai, model gpt-6-luna; if anything unexpected appears (other model/provider, injected config, files touched outside the Output dir), STOP and write [BLOCKED]. MAILBOX: OUTBOX.md in Box ([MILESTONE]/[GATE]/[BLOCKED]); INBOX.md checked per step then deleted. Stop conditions: usage limit; soft 0.3M / hard 0.5M weighted tokens. End with one [GATE]: 8-line summary, paths, and repo 'git status --short' pasted (unchanged). Do not choose a sketch.
->>>>>>> Stashed changes
+What other features can we leverage? Let's check how others are using them.
