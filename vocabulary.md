@@ -25985,3 +25985,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 01:51 — Use 'delegate' for assigning tasks to others/sub-agents, and 'oversee' for supervising a task.

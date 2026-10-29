@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Or you can assign tasks to yourself to run experiments and clarify the approach.
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+Even exploration should delegate tasks to sub-agents instead of doing everything yourself. Once the path is clear, directly assign the work to sub-agents. You oversee this challenging task.
