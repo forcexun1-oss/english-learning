@@ -25804,3 +25804,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:33 — Use 'specify' or 'clarify' instead of '交代清楚' for a more professional tone in technical documentation.
