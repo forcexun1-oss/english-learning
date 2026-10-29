@@ -25783,3 +25783,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:25 — Use 'handover document' or 'handover notes' for 交接文档. 'Handover' is the standard term in software engineering for transferring responsibility or code.
