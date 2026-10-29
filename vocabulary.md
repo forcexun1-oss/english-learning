@@ -25692,6 +25692,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 23:30 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions. Break long paragraphs into numbered lists or bullet points to improve readability for complex tasks.
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
@@ -25751,3 +25752,6 @@
 - 2026-10-30 00:00 — In software contexts, 'exceptions' usually refers to runtime errors (e.g., Java/Python exceptions). If you mean tasks that are stuck, blocked, or failing, use 'issues', 'blockers', or 'failures' instead.
 - 2026-10-30 00:00 — In English, '挂起来' in a technical context usually means 'pause', 'suspend', or 'put on hold' rather than 'hang' (which implies a crash or physical suspension).
 - 2026-10-30 00:01 — Use 'blockers' to translate '卡点' in a project management context.
+=======
+- 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
+>>>>>>> Stashed changes
