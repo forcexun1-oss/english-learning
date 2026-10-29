@@ -26027,3 +26027,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 02:16 — In English, 'cancel' is a verb. When asking for permission, use 'Can I...?' or 'May I...?'
+- 2026-10-30 02:17 — In English, the subject usually comes before the verb. '你再设置把' translates to 'You set it up' or 'Please set it up' depending on context.
