@@ -25458,3 +25458,4 @@
 - 2026-10-29 14:34 — Use 'measure' or 'quantify' when discussing metrics. '衡量' in a technical context usually refers to measuring specific metrics (like accuracy, latency) rather than just 'judging'.
 - 2026-10-29 14:47 — Use 'support' as a verb when asking about compatibility or features.
 - 2026-10-29 14:53 — In English, '好的' is best translated as 'Okay' or 'Got it' in casual conversation. Avoid literal translations like 'Good' unless you are praising something.
+- 2026-10-29 14:54 — Use 'the current main branch' to specify the branch state clearly.
