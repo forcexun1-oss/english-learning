@@ -25986,6 +25986,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26022,3 +26023,6 @@
 - 2026-10-30 02:10 — In English, it is more natural to specify what needs changing (e.g., 'Could you update the code?') rather than using a vague 'make some changes'.
 - 2026-10-30 02:14 — Use 'What's going on?' or 'What happened?' to ask about a situation. '啥情况' is a casual Chinese expression that translates to asking for an explanation or status update.
 - 2026-10-30 02:14 — In English, it is more natural to use a complete sentence like 'Go ahead and make the changes' or 'Please make the changes' instead of just '改啊'.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
