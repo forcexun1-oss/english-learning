@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 1. Ground: The concept art features warm sandy soil with moss and fallen leaves at the edges, creating a soft color palette. In Unity, the ground is a cold blue-gray with a grainy, repeating texture.
 2. Bamboo and Vegetation: The concept art shows bamboo with leaves, ferns, and a green border framing the scene. In Unity, there are only bare, straight black bamboo poles with no leaves or ferns.
 3. Lighting: The concept art depicts soft moonlight with visible light beams and gentle shadows. In Unity, the shadows are long and harsh, casting striped patterns across the ground.
@@ -11,3 +12,6 @@ I have organized the reference materials:
 - Scene report: ~/Desktop/art-direction/tech-route/fix-scene/REPORT.md
 - Previous scene roadmap report: ~/Desktop/art-direction/route-test/scene/REPORT.md
 - Code is on branch task/fix-scene-20261030, commit c018a9b.
+=======
+What about the other effects?
+>>>>>>> Stashed changes
