@@ -25508,3 +25508,4 @@
 - 2026-10-29 17:16 — Use 'slightly' instead of 'a little bit' for a more natural tone in technical contexts.
 - 2026-10-29 17:16 — In English, 'How's it going?' is a natural way to ask for a status update. Avoid literal translations like 'How now?' which are incorrect.
 - 2026-10-29 17:17 — In English, capitalize proper nouns like model names (e.g., Qwen) and use standard spacing (e.g., 'Qwen 3.6' instead of 'qwen3.6'). 'Dark Side' should also be capitalized if it's part of a specific model variant name.
+- 2026-10-29 17:17 — In English, '吗' at the end of a sentence usually indicates a question. Depending on the context, you can translate it as 'Is that so?', 'Right?', or 'Don't you think so?'
