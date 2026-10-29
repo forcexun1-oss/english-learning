@@ -25877,3 +25877,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 01:06 — In English, it's more natural to say 'low fidelity' or 'low detail' instead of 'low还原度' (low restoration degree) when discussing visual quality in tech/art contexts.
 - 2026-10-30 01:07 — Use imperative verbs (e.g., 'Read', 'Run', 'Update') to start each step for clearer, more direct instructions.
+- 2026-10-30 01:07 — Use 'concept art' instead of 'concept map' or 'concept drawing' when referring to digital art references in game development.
