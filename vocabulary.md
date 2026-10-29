@@ -25658,4 +25658,8 @@
 - 2026-10-29 23:23 — Use 'one pass' instead of 'ONE pass' for standard capitalization. Added 'the' before 'badger knight' for grammatical correctness.
 >>>>>>> Stashed changes
 - 2026-10-29 23:25 — Use 'progress' or 'results' instead of '成果' in a technical context to sound more natural. 'Show me the progress' is a common way to ask for updates on ongoing work.
+<<<<<<< Updated upstream
 - 2026-10-29 23:26 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions in technical tasks.
+=======
+- 2026-10-29 23:25 — Use numbered lists for distinct tasks to improve readability and ensure no steps are missed.
+>>>>>>> Stashed changes
