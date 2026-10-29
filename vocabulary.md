@@ -25678,3 +25678,4 @@
 =======
 - 2026-10-29 23:29 — Use 'one pass' instead of 'ONE pass' for standard capitalization. Added 'the' before 'badger knight' for grammatical correctness.
 >>>>>>> Stashed changes
+- 2026-10-29 23:30 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions. Break long paragraphs into numbered lists or bullet points to improve readability for complex tasks.
