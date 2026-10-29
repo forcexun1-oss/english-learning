@@ -25876,3 +25876,4 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:06 — In English, it's more natural to say 'low fidelity' or 'low detail' instead of 'low还原度' (low restoration degree) when discussing visual quality in tech/art contexts.
+- 2026-10-30 01:07 — Use imperative verbs (e.g., 'Read', 'Run', 'Update') to start each step for clearer, more direct instructions.
