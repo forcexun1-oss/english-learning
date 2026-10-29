@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # TASK NEXT-VFX: Route the next batch of effects.
 
 1. **Context**: Read `REPORT.md`, the `vfx-base` directory, and the `feature/vfx-route-pilot` branch (commit `6ddd6da`).
@@ -43,6 +44,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 # TASK FIX-EQ: Fix equipment route defects. Read /Users/youxun/Desktop/art-direction/route-test/REPORT.md and /Users/youxun/Desktop/art-direction/tech-route/prop-anim/PROP-ANIM.md first. Output: /Users/youxun/Desktop/art-direction/tech-route/fix-eq/. Box: /private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad/box/fix-eq.
 
 Defects to fix in one pass:
@@ -64,6 +67,9 @@ Write the whole change once, run once, then iterate only on listed defects in on
 
 MAILBOX: OUTBOX.md in Box; INBOX.md checked per step then deleted. Stop: usage limit; soft 0.6M / hard 1.0M weighted tokens.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
