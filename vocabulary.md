@@ -25923,3 +25923,4 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:28 — Use 'bottleneck' to describe a point of delay or difficulty in a process. 'Decompose' is a precise technical term for breaking a complex image or system into smaller parts.
+- 2026-10-30 01:30 — Use 'feasible' instead of 'possible' when asking about the practicality of a technical approach. Also, 'decompose' is a precise term for breaking down complex assets into smaller parts.

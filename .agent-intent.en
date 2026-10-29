@@ -1,1 +1,1 @@
-What is the current bottleneck? Specifically, how do we decompose the concept art into smaller, manageable components?
+Is it feasible to use Codex for image generation to decompose the assets? The workflow would be: start with a base map, add component images, feed them into Tripo, and then generate the final assets in Unity.
