@@ -25881,6 +25881,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25976,3 +25977,6 @@
 >>>>>>> Stashed changes
 - 2026-10-30 01:49 — Use 'go ahead with' to express agreement or continuation in a natural way.
 - 2026-10-30 01:49 — Use 'hasn't started yet' or 'is yet to be started' for clarity in technical contexts.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
