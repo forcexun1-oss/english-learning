@@ -25499,3 +25499,4 @@
 >>>>>>> Stashed changes
 - 2026-10-29 17:02 — Use 'whether... or...' to present two alternatives. 'Extreme-level support' is clearer than 'limit support' in this context.
 - 2026-10-29 17:04 — Use 'generic' or 'off-the-shelf' instead of '大路货' (which literally means 'big road goods') to sound more professional in technical contexts.
+- 2026-10-29 17:05 — In English, proper nouns like software names (e.g., Strata) are capitalized. Also, 'inference engine' is the standard technical term for AI model execution frameworks.
