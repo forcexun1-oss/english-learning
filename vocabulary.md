@@ -25449,3 +25449,4 @@
 - 2026-10-29 13:54 — Use 'spot checks' for random inspections. The structure 'let [object] [verb]' is correct here.
 - 2026-10-29 13:55 — Use 'let [someone] do [something]' to express allowing or instructing someone to perform an action.
 - 2026-10-29 13:56 — In English, use 'points' (plural) when referring to multiple items. Also, avoid ending sentences with a comma.
+- 2026-10-29 14:03 — In English, 'directory' usually refers to the folder itself. If you are asking for the specific location, use 'full path' or 'full directory path'.
