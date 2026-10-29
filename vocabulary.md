@@ -25488,3 +25488,4 @@
 >>>>>>> Stashed changes
 - 2026-10-29 16:50 — Use 'Hurry up!' to express urgency in a natural way.
 - 2026-10-29 16:57 — In English, 'How's it going?' is a natural way to ask for a status update or check on progress.
+- 2026-10-29 16:58 — In technical logs, 'completed (exit code 0)' indicates successful execution. Use 'exit code 0' to confirm no errors occurred.
