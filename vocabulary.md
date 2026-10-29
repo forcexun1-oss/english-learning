@@ -25863,6 +25863,7 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25871,3 +25872,6 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:04 — In English, 'too far off' can be used to describe something that is significantly different or not meeting expectations. Make sure to use it in contexts where you're comparing results or outcomes.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
