@@ -25749,3 +25749,4 @@
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
 - 2026-10-30 00:00 — In software contexts, 'exceptions' usually refers to runtime errors (e.g., Java/Python exceptions). If you mean tasks that are stuck, blocked, or failing, use 'issues', 'blockers', or 'failures' instead.
+- 2026-10-30 00:00 — In English, '挂起来' in a technical context usually means 'pause', 'suspend', or 'put on hold' rather than 'hang' (which implies a crash or physical suspension).
