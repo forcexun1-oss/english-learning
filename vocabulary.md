@@ -25481,3 +25481,4 @@
 - 2026-10-29 16:40 — In English, 'What's going on?' is a natural way to ask for an update or explanation of a situation.
 - 2026-10-29 16:41 — Use 'the latest' instead of 'latest' when referring to a specific, unique item like a software version or model.
 - 2026-10-29 16:46 — Use 'tiers' or 'variants' instead of '档位' when referring to model quality levels in English.
+- 2026-10-29 16:48 — When asking about model tiers, you can say 'Are there other quality levels like high?' to be more specific.
