@@ -25462,3 +25462,4 @@
 - 2026-10-29 15:01 — The character '派' can mean 'pie' (the food) or 'dispatch/send' (as a verb). In a coding context, if you meant to 'dispatch' a task, use 'dispatch' or 'send'. If you meant the dessert, use 'pie'.
 - 2026-10-29 15:02 — Use 'How much' for uncountable nouns like 'data' or 'information', and 'How many' for countable nouns.
 - 2026-10-29 15:04 — In English, it is more natural to use 'Let's get started' or 'Let's proceed' rather than a direct translation of 'fast do'.
+- 2026-10-29 15:07 — Use 'What should we do next?' for a natural, professional inquiry about the next steps in a workflow.
