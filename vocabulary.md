@@ -25612,7 +25612,11 @@
 - 2026-10-29 22:58 — Use 'compose' when referring to combining modular UI components into a larger structure.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'equipped slots' instead of 'worn-equipment slots' for standard UI terminology.
+=======
+- 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
+>>>>>>> Stashed changes
 =======
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
 >>>>>>> Stashed changes
