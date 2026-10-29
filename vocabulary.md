@@ -26008,3 +26008,4 @@
 - 2026-10-30 01:57 — Use 'I'm afraid' or 'I worry that' to express concern. 'But' is used to contrast two worries.
 - 2026-10-30 01:59 — In English, numbers like 80,000 are often written as '80k' in informal tech contexts. Also, ensure subject-verb agreement: 'Is' is correct for the singular '80k tokens' when treated as a single quantity.
 - 2026-10-30 02:01 — Use the imperative form (verb + object) to give a direct instruction. 'Set' is the correct verb here, not 'set up' unless you mean to configure something.
+- 2026-10-30 02:04 — Use 'delegate' instead of 'send out' when assigning tasks to others or other processes.
