@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Task notification: Background command completed (exit code 0). The script `official_run.py` was executed successfully, printing phonemization results and ID lengths for the test text 'S0'.
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>k9dckzzwc</task-id>
 <status>completed</status>
@@ -26,4 +29,7 @@ unicode-rbnf       2.4.1
 
 </result>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
