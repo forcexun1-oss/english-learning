@@ -25768,3 +25768,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:17 — Use imperative verbs (Run, Read, Update) for clear, direct instructions typical in developer prompts.
