@@ -25872,6 +25872,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25927,3 +25928,6 @@
 - 2026-10-30 01:32 — Use 'yields' or 'produces' instead of 'has' when talking about results or outcomes in a professional context.
 - 2026-10-30 01:34 — In English, it's more natural to use 'Okay' or 'Alright' instead of directly translating '行' as 'Line' or 'Row'.
 - 2026-10-30 01:35 — Use 'Are there any...' instead of 'Is there any...' when referring to plural nouns like 'tasks'.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
