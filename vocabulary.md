@@ -26020,3 +26020,4 @@
 - 2026-10-30 02:09 — In English, 'continue' is often followed by a gerund (e.g., 'continue starting') or an infinitive (e.g., 'continue to start'). Both are correct, but 'continue starting' is more common in casual contexts.
 - 2026-10-30 02:09 — Use 'too low' or 'too few' for countable nouns like 'rounds'. 'Too little' is for uncountable nouns.
 - 2026-10-30 02:10 — In English, it is more natural to specify what needs changing (e.g., 'Could you update the code?') rather than using a vague 'make some changes'.
+- 2026-10-30 02:14 — Use 'What's going on?' or 'What happened?' to ask about a situation. '啥情况' is a casual Chinese expression that translates to asking for an explanation or status update.
