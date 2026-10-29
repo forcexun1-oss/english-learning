@@ -25599,3 +25599,4 @@
 - 2026-10-29 22:21 — Use 'Let's' as a contraction for 'Let us' to sound more natural and collaborative.
 - 2026-10-29 22:22 — Use 'noticed' instead of 'found' when referring to realizing a mistake or anomaly in a process.
 - 2026-10-29 22:22 — Use 'Evaluate' instead of 'research whether... is useful' for a more direct and professional tone in technical tasks.
+- 2026-10-29 22:42 — Use 'if' instead of '就' to clearly express the conditional relationship in English.
