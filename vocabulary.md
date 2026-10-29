@@ -25601,3 +25601,4 @@
 - 2026-10-29 22:22 — Use 'Evaluate' instead of 'research whether... is useful' for a more direct and professional tone in technical tasks.
 - 2026-10-29 22:42 — Use 'if' instead of '就' to clearly express the conditional relationship in English.
 - 2026-10-29 22:44 — Use 'get it working' or 'make it work' to describe successfully executing a tool or system.
+- 2026-10-29 22:44 — Use 'write to [file]' instead of 'write [file]' for better clarity.
