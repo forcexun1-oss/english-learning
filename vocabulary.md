@@ -25719,3 +25719,4 @@
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
 - 2026-10-29 23:50 — Use 'assign [someone] to [do something]' for delegating tasks. 'Finalize the plan' is a natural way to say '定方案' in a technical context.
+- 2026-10-29 23:50 — Use 'Show [something] to [someone]' instead of 'give [someone] look at' for a more natural flow.
