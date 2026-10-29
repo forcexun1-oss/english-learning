@@ -25603,3 +25603,4 @@
 - 2026-10-29 22:44 — Use 'get it working' or 'make it work' to describe successfully executing a tool or system.
 - 2026-10-29 22:44 — Use 'write to [file]' instead of 'write [file]' for better clarity.
 - 2026-10-29 22:45 — The original text is already natural and idiomatic for a developer context.
+- 2026-10-29 22:45 — In English, 'Go ahead' is a common way to give permission or encouragement to proceed with a task.
