@@ -1,9 +1,5 @@
 <task-notification>
-<task-id>b57yu0onf</task-id>
-<tool-use-id>toolu_012erp5X7dh7Qmad2vEorVPW</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/42131ea1-082f-4c97-b65d-0c9ebc9a9865/tasks/b57yu0onf.output</output-file>
-<status>completed</status>
-<summary>Background command "S=/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/681b5bfa-f037-4e84-a8e3-84b3ca10a8c1/scratchpad
-pkill -f "codex.*box/(fix-eq|fix-scene|next-vfx)"; sleep 2; pgrep -fl "codex exec.*(fix-eq|fix-scene|next-vfx)" | cut -c1-60 || true
-for n in fix-eq fix-scene next-vfx; do sed -i '' 's/model gpt-6.1-sol (execution tier, intended)/model gpt-6-luna/' $S/prompts/$n.md; mkdir -p $S/box/$n/sol-run; mv $S/box/$n/OUTBOX.md $S/box/$n/INBOX.md $S/box/$n/run.log $S/box/$n/sol-run/ 2>/dev/null; (bash ~/.claude/bin/codex-sub $S/box/$n $S/box/$n/run.log $S/prompts/$n.md > $S/box/$n/dispatch.txt 2>&1 &); done; sleep 40; for n in fix-eq fix-scene next-vfx; do grep -E "^(model|provider)" $S/box/$n/run.log | sort -u | tr '\n' ' '; echo; done" completed (exit code 0)</summary>
+<task-id>bmd5by5ih</task-id>
+<summary>Monitor event: "fix-eq / fix-scene / next-vfx: GATE, BLOCKED or exit"</summary>
+<event>next-vfx: [BLOCKED] Selection scope contradicts the inspected baseline. The requested five categories include dash, but player/dash already has a same-name prefab in both the baseline and pilot. It cannot be selected from the fallback-only set. The pilot also reduces the baseline's 47 fallback-only names to 46 by routing boss/commit_flash. The missing parry marker is understood as an explicitly authorized new runtime effect, not an existing fallback. Evidence: evidence/scope-summary.txt, evidenc...</event>
 </task-notification>
