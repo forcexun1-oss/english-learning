@@ -25794,3 +25794,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:29 — In English, use 'Hasn't [subject] [past participle]...?' for rhetorical questions implying surprise that something hasn't happened yet.
