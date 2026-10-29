@@ -25494,6 +25494,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 16:48 — When asking about model tiers, you can say 'Are there other quality levels like high?' to be more specific.
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
@@ -25553,3 +25554,6 @@
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
 - 2026-10-29 17:41 — Use 'minimum latency' instead of 'first block delay' for clearer technical communication.
+=======
+- 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
+>>>>>>> Stashed changes
