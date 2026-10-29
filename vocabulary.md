@@ -25623,3 +25623,4 @@
 =======
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
 >>>>>>> Stashed changes
+- 2026-10-29 23:15 — In English, '咋样了' is best translated as 'How's it going?' or 'How is it coming along?' when asking for a status update.
