@@ -25480,3 +25480,4 @@
 - 2026-10-29 16:33 — Use 'Can I...' or 'Can we...' to make a polite suggestion or request. '我听听' is better translated as 'to check' or 'to verify' in a technical context.
 - 2026-10-29 16:40 — In English, 'What's going on?' is a natural way to ask for an update or explanation of a situation.
 - 2026-10-29 16:41 — Use 'the latest' instead of 'latest' when referring to a specific, unique item like a software version or model.
+- 2026-10-29 16:46 — Use 'tiers' or 'variants' instead of '档位' when referring to model quality levels in English.
