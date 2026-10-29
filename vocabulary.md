@@ -25819,3 +25819,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:45 — In English, it is more natural to ask about the 'status' or 'progress' of tasks rather than asking 'how are the tasks' directly.
