@@ -25695,6 +25695,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 23:30 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions. Break long paragraphs into numbered lists or bullet points to improve readability for complex tasks.
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
@@ -25769,3 +25770,6 @@
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
 - 2026-10-30 00:17 — Use imperative verbs (Run, Read, Update) for clear, direct instructions typical in developer prompts.
+=======
+- 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
+>>>>>>> Stashed changes
