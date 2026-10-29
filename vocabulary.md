@@ -25778,3 +25778,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:24 — In English, 'UI' usually refers to the visual style or theme (e.g., 'UI theme 257'), while 'talent system' is the standard term for RPG-style progression.
