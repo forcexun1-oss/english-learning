@@ -26010,3 +26010,4 @@
 - 2026-10-30 02:01 — Use the imperative form (verb + object) to give a direct instruction. 'Set' is the correct verb here, not 'set up' unless you mean to configure something.
 - 2026-10-30 02:04 — Use 'delegate' instead of 'send out' when assigning tasks to others or other processes.
 - 2026-10-30 02:05 — In English, it is more natural to use a complete sentence like 'Please write the plan' or 'You write the plan' rather than just 'Plan you write'.
+- 2026-10-30 02:06 — In English, 'limit' or 'cap' is often used when discussing token counts or constraints. '定多少' translates naturally to 'what should the limit be' or 'how much should we set.'
