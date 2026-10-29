@@ -25532,3 +25532,4 @@
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
+- 2026-10-29 17:34 — Use 'as well' or 'too' at the end of the sentence to mean 'also' in English.
