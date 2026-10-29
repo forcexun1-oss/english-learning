@@ -25757,3 +25757,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 00:07 — Use 'Run' instead of 'PM patrol' to start the instruction clearly. Use 'issues' or 'anomalies' instead of 'problems' for a more professional tone in technical contexts.
 - 2026-10-30 00:08 — Use 'redundantly' to describe repetitive or unnecessary display of information.
+- 2026-10-30 00:09 — In English, use the imperative 'Stop [verb]-ing' to give a direct command to cease an ongoing action.
