@@ -25609,3 +25609,4 @@
 - 2026-10-29 22:50 — Use 'grid-like layout' or 'grid system' to describe structured, boxy UI arrangements. 'Square blocks' is clear, but 'grid' is the standard term in frontend development.
 - 2026-10-29 22:52 — Escaped the ampersand in the shell command from `&` to `&amp;` to ensure valid XML formatting.
 - 2026-10-29 22:56 — Use 'copied from' instead of 'copied of' when referring to the source of inspiration.
+- 2026-10-29 22:58 — Use 'compose' when referring to combining modular UI components into a larger structure.
