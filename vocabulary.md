@@ -25755,3 +25755,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:07 — Use 'Run' instead of 'PM patrol' to start the instruction clearly. Use 'issues' or 'anomalies' instead of 'problems' for a more professional tone in technical contexts.
