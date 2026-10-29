@@ -25497,3 +25497,4 @@
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
+- 2026-10-29 17:02 — Use 'whether... or...' to present two alternatives. 'Extreme-level support' is clearer than 'limit support' in this context.
