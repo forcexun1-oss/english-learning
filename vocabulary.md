@@ -25671,3 +25671,4 @@
 =======
 - 2026-10-29 23:25 — Use numbered lists for distinct tasks to improve readability and ensure no steps are missed.
 >>>>>>> Stashed changes
+- 2026-10-29 23:29 — In English, it is more natural to say 'choose X instead of Y' rather than 'use X not Y' when explaining a selection between two options.
