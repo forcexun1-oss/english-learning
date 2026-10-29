@@ -25824,3 +25824,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:47 — In English, 'open' is often used for launching media players or viewers. If you mean converting or extracting frames, specify that (e.g., 'extract frames').
