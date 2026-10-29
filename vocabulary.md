@@ -25762,3 +25762,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:12 — In English, 'action' is a noun. If you mean the verb 'to act' or 'to perform an action', use 'act' or 'perform an action'.
