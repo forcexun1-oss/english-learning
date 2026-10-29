@@ -25713,3 +25713,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-29 23:45 — Use 'blockers' to describe technical impediments. 'Get a clear picture' is a natural idiom for 'understand the current situation'.
