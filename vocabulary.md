@@ -25957,3 +25957,4 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:42 — Use 'covers' or 'includes' instead of 'contains' when referring to a document containing multiple sections or approaches.
+- 2026-10-30 01:43 — In English, it is more natural to say 'Do you know about...' or 'Are you aware of...' rather than 'You know... right?'. Also, 'fur' is generally used for animals, while 'hair' is for humans; choose based on the character type.

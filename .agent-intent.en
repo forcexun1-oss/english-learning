@@ -1,7 +1,1 @@
-The experimental proposal package (/Users/youxun/project/game/agent-roguelite-worktrees/scene-decomposition-trials/docs/proposals/scene-decomposition-trials/README.md) covers three approaches:
-
-- A: Independent components — separate the images, generate 3D models individually, and then assemble them.
-- B: Composite modules — generate entire forest edge segments together, preserving their compositional relationships.
-- C: Layered hybrid — use 3D for elements like rocks, while keeping plants as image layers.
-
-The proposal standardizes the original artwork areas, ground, camera angles, and evaluation criteria. It first validates image segmentation and reassembly before proceeding to Tripo/Unity. It also specifies iteration limits, cost boundaries, stop conditions, and deliverables, and has completed the Luna feasibility review.
+Do you know about the paused task for the fur/hair?
