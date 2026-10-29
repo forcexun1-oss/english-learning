@@ -25459,3 +25459,4 @@
 - 2026-10-29 14:47 — Use 'support' as a verb when asking about compatibility or features.
 - 2026-10-29 14:53 — In English, '好的' is best translated as 'Okay' or 'Got it' in casual conversation. Avoid literal translations like 'Good' unless you are praising something.
 - 2026-10-29 14:54 — Use 'the current main branch' to specify the branch state clearly.
+- 2026-10-29 15:01 — The character '派' can mean 'pie' (the food) or 'dispatch/send' (as a verb). In a coding context, if you meant to 'dispatch' a task, use 'dispatch' or 'send'. If you meant the dessert, use 'pie'.
