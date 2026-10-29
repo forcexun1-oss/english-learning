@@ -26012,3 +26012,4 @@
 - 2026-10-30 02:05 — In English, it is more natural to use a complete sentence like 'Please write the plan' or 'You write the plan' rather than just 'Plan you write'.
 - 2026-10-30 02:06 — In English, 'limit' or 'cap' is often used when discussing token counts or constraints. '定多少' translates naturally to 'what should the limit be' or 'how much should we set.'
 - 2026-10-30 02:08 — In English, use 'Set the goal to [value]' or 'Change the goal to [value]' instead of directly saying 'Goal change'.
+- 2026-10-30 02:08 — Use 'even after' to emphasize that an action continued despite a condition being met.
