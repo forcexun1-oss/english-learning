@@ -25518,3 +25518,4 @@
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
+- 2026-10-29 17:21 — Use 'Dense' instead of 'dense' when referring to model architectures (e.g., Qwen 3.5 Dense) for consistency with proper nouns.
