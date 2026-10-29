@@ -25878,6 +25878,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25960,3 +25961,6 @@
 - 2026-10-30 01:43 — In English, it is more natural to say 'Do you know about...' or 'Are you aware of...' rather than 'You know... right?'. Also, 'fur' is generally used for animals, while 'hair' is for humans; choose based on the character type.
 - 2026-10-30 01:43 — In English, 'research' is a verb. You can say 'Research [topic] to see if...' or 'Investigate [topic] to determine if...'
 - 2026-10-30 01:44 — In English, 'shield' is the correct term for the defensive item. Also, 'obviously' is stronger than '明显' in this context, but 'clearly' or 'obviously' both work well.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
