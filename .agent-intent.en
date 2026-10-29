@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Try it. If it doesn't work, switch to a male.
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>k9dckzzwc</task-id>
 <status>completed</status>
@@ -26,4 +29,7 @@ unicode-rbnf       2.4.1
 
 </result>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
