@@ -25446,3 +25446,4 @@
 - 2026-10-28 08:18 — Use '转达' (convey/relay) when passing on a message from someone else. If you mean 'translate', use '翻译'.
 >>>>>>> Stashed changes
 - 2026-10-29 13:46 — In English, 'go' is a verb, not a noun. To give permission or start a task, use 'Go ahead' or 'Proceed'.
+- 2026-10-29 13:54 — Use 'spot checks' for random inspections. The structure 'let [object] [verb]' is correct here.
