@@ -25835,3 +25835,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:51 — Use 'a bit' or 'somewhat' before adjectives like 'normal' to soften the tone. 'Not great' is a natural way to express that something is unsatisfactory.
