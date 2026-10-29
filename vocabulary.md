@@ -25964,3 +25964,4 @@
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
+- 2026-10-30 01:46 — Use 'recklessly' to describe spending without care. 'Upper limit' is a natural way to say '上限' in this context.
