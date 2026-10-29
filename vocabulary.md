@@ -25987,3 +25987,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 01:51 — Use 'delegate' for assigning tasks to others/sub-agents, and 'oversee' for supervising a task.
 - 2026-10-30 01:52 — Use 'ask me questions' instead of '问题我了' (which mixes the noun '问题' with the verb '问'). Also, 'continue until...' is a strong way to give an instruction to keep going.
+- 2026-10-30 01:53 — Use 'unless' to introduce exceptions, and 'require my input' sounds more natural than 'I decide' in professional contexts.
