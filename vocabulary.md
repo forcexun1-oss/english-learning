@@ -25999,6 +25999,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26043,6 +26044,9 @@
 - 2026-10-30 02:20 — In English, it's more natural to say 'Does [subject] also use...' instead of 'is also using' when asking about a general fact or system behavior.
 - 2026-10-30 02:22 — When asking if a tool can handle a task, use 'Can [Tool] solve/handle [issue]?' for natural phrasing.
 - 2026-10-30 02:23 — In English, 'I don't care' can sound rude. Use 'I'll leave it up to you' or 'I trust your judgment' for a more professional tone.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
