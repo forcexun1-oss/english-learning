@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 PM patrol driven by the task list. Steps:
 
 1. Read `/Users/youxun/project/game/agent-roguelite/.omc/pm-todo.md` (the ledger).
@@ -11,3 +12,6 @@ PM patrol driven by the task list. Steps:
    - GATE-READY: Verify deliverables myself (files, images, tests), then open images for the owner.
    - Never add stop conditions to Codex prompts; no subagents; delegate to Codex.
 5. Message the owner only when something changes (concise Chinese: task, what changed, evidence path, what I did / what I need from them); stay silent when nothing changes.
+=======
+What about the other effects?
+>>>>>>> Stashed changes
