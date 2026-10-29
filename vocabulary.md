@@ -25506,3 +25506,4 @@
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
 - 2026-10-29 17:16 — Use 'slightly' instead of 'a little bit' for a more natural tone in technical contexts.
+- 2026-10-29 17:16 — In English, 'How's it going?' is a natural way to ask for a status update. Avoid literal translations like 'How now?' which are incorrect.
