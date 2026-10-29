@@ -25743,3 +25743,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-29 23:59 — Use 'stop-and-go logic' or 'pause/resume logic' to describe conditional stopping in code. 'Stop-and-go' is a common idiom for this behavior.
