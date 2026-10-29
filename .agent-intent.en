@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 If we only train the text for the VL (Vision-Language) model, will the image processing be affected?
 =======
+=======
+>>>>>>> Stashed changes
 <task-notification>
 <task-id>k9dckzzwc</task-id>
 <status>completed</status>
@@ -26,4 +29,7 @@ unicode-rbnf       2.4.1
 
 </result>
 </task-notification>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

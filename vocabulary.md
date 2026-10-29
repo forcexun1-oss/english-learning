@@ -25499,6 +25499,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 16:48 — When asking about model tiers, you can say 'Are there other quality levels like high?' to be more specific.
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
@@ -25575,6 +25576,9 @@
 >>>>>>> Stashed changes
 - 2026-10-29 18:06 — Use 'polling' for automated, recurring checks (轮询). Use 'brief update' or 'summary' for 简报.
 - 2026-10-29 18:06 — Use 'Vision-Language' or 'VL' to specify the model type. 'Image processing' is more precise than 'picture' in a technical context.
+=======
+- 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
+>>>>>>> Stashed changes
 =======
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
