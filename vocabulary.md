@@ -25597,3 +25597,4 @@
 - 2026-10-29 22:18 — Use 'assign' instead of '派' for tasks. 'Assign' is more natural in technical contexts.
 - 2026-10-29 22:19 — Use 'Doesn't it...' for negative questions about capabilities. 'Multi-agent orchestration' is the standard technical term.
 - 2026-10-29 22:21 — Use 'Let's' as a contraction for 'Let us' to sound more natural and collaborative.
+- 2026-10-29 22:22 — Use 'noticed' instead of 'found' when referring to realizing a mistake or anomaly in a process.
