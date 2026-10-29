@@ -25606,3 +25606,4 @@
 - 2026-10-29 22:45 — In English, 'Go ahead' is a common way to give permission or encouragement to proceed with a task.
 - 2026-10-29 22:47 — In English, use the definite article 'the' before specific nouns like 'subscribed version' or 'Codex'.
 - 2026-10-29 22:47 — In English, 'sketch' is a countable noun, so it usually needs an article like 'the' or 'a' (e.g., 'the sketch').
+- 2026-10-29 22:50 — Use 'grid-like layout' or 'grid system' to describe structured, boxy UI arrangements. 'Square blocks' is clear, but 'grid' is the standard term in frontend development.
