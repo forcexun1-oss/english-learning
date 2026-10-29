@@ -25454,3 +25454,4 @@
 - 2026-10-29 14:15 — In English, 'both' refers to two items. If you are referring to more than two, use 'all' instead.
 - 2026-10-29 14:18 — Use 'and' to connect multiple subjects (e.g., 'A and B sound better'). When describing a specific part of a file, use quotes or italics for clarity.
 - 2026-10-29 14:19 — Use 'general solution' for 通用解法. In English, 'general' implies a broad, applicable method, whereas 'universal' might imply it works in every single case without exception.
+- 2026-10-29 14:23 — Use 'pinpoint' or 'identify' for '定位到' in technical contexts to sound more precise than just 'find'.
