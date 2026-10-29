@@ -25688,6 +25688,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-29 23:30 — Use imperative verbs (e.g., 'Read', 'Select', 'Author') for clear, actionable instructions. Break long paragraphs into numbered lists or bullet points to improve readability for complex tasks.
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
@@ -25723,6 +25724,9 @@
 - 2026-10-29 23:50 — Use 'assign [someone] to [do something]' for delegating tasks. 'Finalize the plan' is a natural way to say '定方案' in a technical context.
 - 2026-10-29 23:50 — Use 'Show [something] to [someone]' instead of 'give [someone] look at' for a more natural flow.
 - 2026-10-29 23:51 — Use 'before' to indicate that the confirmation must happen prior to the decision.
+=======
+- 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
+>>>>>>> Stashed changes
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
