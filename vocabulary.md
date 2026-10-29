@@ -25884,3 +25884,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 01:08 — In English, it is more natural to say 'Is there a problem with the plan?' or 'Is the plan flawed?' rather than 'Is the plan having a problem?'
 - 2026-10-30 01:10 — Use 'industry-standard' or 'best practices' to sound more professional than '业界' (industry world).
+- 2026-10-30 01:10 — Use 'Assign' or 'Delegate' instead of 'Send' when giving tasks to agents or team members. 'Comprehensive' is a more professional term than 'all-around' for research.
