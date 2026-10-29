@@ -25851,3 +25851,4 @@
 =======
 - 2026-10-29 23:30 — Use numbered lists for distinct tasks to improve readability and ensure each item is addressed systematically.
 >>>>>>> Stashed changes
+- 2026-10-30 00:55 — Use 'Redraw it' or 'Redesign it' for clarity. 'Too abstract' is a good, natural way to describe something that lacks clear definition.
