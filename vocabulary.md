@@ -25452,3 +25452,4 @@
 - 2026-10-29 14:03 — In English, 'directory' usually refers to the folder itself. If you are asking for the specific location, use 'full path' or 'full directory path'.
 - 2026-10-29 14:09 — Use 'unnatural' to describe speech that lacks natural flow or prosody. For '胡说八道', 'nonsense' or 'gibberish' is more natural in a technical evaluation context.
 - 2026-10-29 14:15 — In English, 'both' refers to two items. If you are referring to more than two, use 'all' instead.
+- 2026-10-29 14:18 — Use 'and' to connect multiple subjects (e.g., 'A and B sound better'). When describing a specific part of a file, use quotes or italics for clarity.
