@@ -25610,4 +25610,8 @@
 - 2026-10-29 22:52 — Escaped the ampersand in the shell command from `&` to `&amp;` to ensure valid XML formatting.
 - 2026-10-29 22:56 — Use 'copied from' instead of 'copied of' when referring to the source of inspiration.
 - 2026-10-29 22:58 — Use 'compose' when referring to combining modular UI components into a larger structure.
+<<<<<<< Updated upstream
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'equipped slots' instead of 'worn-equipment slots' for standard UI terminology.
+=======
+- 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
+>>>>>>> Stashed changes
