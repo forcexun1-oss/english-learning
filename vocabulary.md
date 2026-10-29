@@ -25558,3 +25558,4 @@
 - 2026-10-29 16:48 — No changes needed; the message is already natural and idiomatic.
 >>>>>>> Stashed changes
 - 2026-10-29 17:43 — In English, '开始吧' is often translated as 'Let's get started' or 'Let's begin' to sound more natural and encouraging.
+- 2026-10-29 17:45 — In English, 'polling' (轮询) is the correct technical term, not 'round training' (轮训). Also, ensure the subject is clear: 'you need to check' specifies who is responsible.
