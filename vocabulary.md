@@ -25880,6 +25880,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:03 — In English, it is more natural to ask 'What about the scene?' or 'Where is the scene?' rather than just 'Scene?'
 =======
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
@@ -25970,3 +25971,6 @@
 - 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
 >>>>>>> Stashed changes
 - 2026-10-30 01:47 — Use commas to separate items in a list (e.g., 'PROGRESS, PROBLEMS, and BLOCKER') for better readability.
+=======
+- 2026-10-30 01:03 — In English, 'effects' (like visual effects) is plural when referring to multiple elements. Use 'What about...' to ask about additional items or details.
+>>>>>>> Stashed changes
