@@ -25644,3 +25644,4 @@
 - 2026-10-29 22:58 — Use 'Redesign' instead of 'Redo' for a more professional tone. Use 'should be' for requirements and 'detailing' for prepositions.
 >>>>>>> Stashed changes
 - 2026-10-29 23:23 — In English, it is more natural to use the present perfect tense ('You've finished') to indicate recently completed actions that affect the current state.
+- 2026-10-29 23:23 — Use numbered lists and bold headers to structure complex multi-step instructions. This improves readability and ensures the AI follows the sequence correctly.
