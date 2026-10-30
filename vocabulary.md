@@ -26023,6 +26023,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26208,3 +26209,6 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 12:13 — In English technical writing, use 'check' or 'verify' rather than 'check...再检查' — the second 'check' is redundant. Also, '占用' translates to 'occupying' or 'listening on' when referring to ports.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
