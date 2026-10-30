@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check the r214 Stage Y (luna sid 01a18c73-134a-7de3-805b-1c7376d83f68, pid 88946; budget guard pid in /tmp/r214-y-budget.pid, logs in /tmp/r214-y-budget2.log): Review /tmp/r214-y-watch.out and new entries in OUTBOX.md after the .outbox-seen-<sid> offset. Verify that teacher pid 81039 is still running. INBOX.md has been sent requesting fixes for four validator defects before proceeding to Y2. If there is a Y2 [GATE], independently verify (re-count gap-raw.jsonl, review 120 sentences line-by-line, check area_word/has_contact/marker flags) before replying to INBOX.md.
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+Open the action videos for me to see.
