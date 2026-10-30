@@ -26584,3 +26584,4 @@
 - 2026-10-30 20:39 — Use 'impact sound effects' for 打击音效 and 'were not implemented' for 没做 to sound more professional in a technical context.
 - 2026-10-30 20:40 — In English, it is more natural to use the imperative form 'Continue' or 'Go on' rather than adding '呗'.
 - 2026-10-30 20:41 — Use 'production process' instead of 'making process' for a more professional tone in software or manufacturing contexts.
+- 2026-10-30 20:45 — Use 'excessive' or 'too much' to describe something that goes beyond a reasonable limit. 'Overly' is also a good adjective (e.g., 'overly leaned').
