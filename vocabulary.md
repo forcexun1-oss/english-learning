@@ -26563,3 +26563,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 19:40 — In English, 'stop' is often used with 'here' to indicate a pause in action or progress. Make sure to use the correct tense based on context.
