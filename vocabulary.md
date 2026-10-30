@@ -26044,6 +26044,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26294,6 +26295,9 @@
 - 2026-10-30 13:52 — In English, 'three sets' is more natural than 'three parts' when referring to distinct groups of data or files.
 - 2026-10-30 13:52 — In English, 'measure' or 'quantify' is more precise than '量' in a technical context. Also, 'sufficient' is a better word than 'enough' for professional discussions about data volume.
 - 2026-10-30 13:54 — In technical contexts, 'ABC' is too vague. Use specific architectural terms like 'frontend/backend', 'client/server', or 'microservices' depending on the actual context.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
