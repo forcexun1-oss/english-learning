@@ -26572,3 +26572,4 @@
 - 2026-10-30 20:07 — Use imperative verbs (e.g., 'Run', 'Read', 'Update') for clear, direct instructions typical in developer workflows.
 - 2026-10-30 20:11 — Use 'Is this approach actually feasible?' instead of '这个方案确实可行吗,,'. Also, 'The current visuals are too ugly' is more natural than '现有的是太丑了'.
 - 2026-10-30 20:16 — Use 'Should I...' or 'Should you...' to clearly ask for a decision or action. Avoid '按你说的来是你亲自来还是...' which is a bit colloquial; 'Should I do it myself...' is more direct and professional.
+- 2026-10-30 20:17 — Use 'Once received' or 'Upon receipt' to clearly transition from the waiting state to the action state.
