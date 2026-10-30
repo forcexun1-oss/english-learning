@@ -26585,3 +26585,4 @@
 - 2026-10-30 20:40 — In English, it is more natural to use the imperative form 'Continue' or 'Go on' rather than adding '呗'.
 - 2026-10-30 20:41 — Use 'production process' instead of 'making process' for a more professional tone in software or manufacturing contexts.
 - 2026-10-30 20:45 — Use 'excessive' or 'too much' to describe something that goes beyond a reasonable limit. 'Overly' is also a good adjective (e.g., 'overly leaned').
+- 2026-10-30 20:47 — Use 'production workflow' or 'pipeline' instead of '制作流程' for a more professional software/engineering context.
