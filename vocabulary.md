@@ -26581,3 +26581,4 @@
 - 2026-10-30 20:32 — Use 'implement' or 'apply' when talking about adding features/effects in code. 'Should be easy' is fine, but consider 'shouldn't be too hard' for a more natural tone.
 - 2026-10-30 20:36 — Use 'stage' instead of 'phase' for software testing cycles (e.g., stage Z/Y4). Also, 'cross-contamination' is a precise term for when test cases interfere with each other.
 - 2026-10-30 20:37 — Use 'delegate' to describe assigning tasks to others. '派出去做' can be translated as 'delegate it' or 'assign it to someone else'.
+- 2026-10-30 20:39 — Use 'impact sound effects' for 打击音效 and 'were not implemented' for 没做 to sound more professional in a technical context.
