@@ -1,1 +1,1 @@
-Where are the special effects?
+Special effects should be easy to implement, right? But currently, it looks like there's just a faint glow, as if no effect has been applied. Let's examine what the issue might be.
