@@ -26567,3 +26567,4 @@
 - 2026-10-30 19:46 — Use 'once received' or 'upon receipt' instead of '到后' to clearly indicate the condition for the next step.
 - 2026-10-30 20:02 — Use 'leave everything else unchanged' or 'keep everything else the same' to clearly specify that other elements should not be modified.
 - 2026-10-30 20:02 — Use 'as [adjective] as' for comparisons. 'Light' is the correct adjective for color intensity, whereas 'shallow' refers to depth.
+- 2026-10-30 20:06 — Use 'Once received' or 'Upon receipt' to clearly link the waiting condition to the subsequent actions.
