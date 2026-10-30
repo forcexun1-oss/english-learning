@@ -26072,6 +26072,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26427,6 +26428,9 @@
 - 2026-10-30 16:58 — Use 'unrealistic' instead of '不切' when describing reasons or plans that are not practical.
 - 2026-10-30 17:06 — In Chinese technical writing, '加能力配置' is better rendered as 'add a capability configuration' or 'configure capabilities' rather than 'add capability config'.
 - 2026-10-30 17:07 — When evaluating model behavior, distinguish between 'refusal count' (how many times it refused) and 'accuracy' (whether its output matches the expected result). Refusing ≠ wrong answer.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
