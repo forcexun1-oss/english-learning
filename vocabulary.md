@@ -26163,3 +26163,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 10:00 — Use 'set it as the default' to clearly express configuring a default setting.
