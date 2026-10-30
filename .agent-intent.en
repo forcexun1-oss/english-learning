@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-I've powered on the board.
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+Check the r214 phase T (refusal-data-fix) progress: read /tmp/r214-t-watch.out, new entries in OUTBOX.md, `ps -p $(cat /tmp/r214-t-codex.pid)`, and /tmp/r214-t-budget.log. If Luna wrote a GATE with `need: teacher-ready`, first verify the T1–T3 evidence (the old 5 lines in test-validate-refuse-before.txt must all fail), then check what's occupying port 8001 and the memory usage. After deciding on the teacher address, write to INBOX. Report in Chinese.

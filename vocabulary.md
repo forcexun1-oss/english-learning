@@ -26207,3 +26207,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 12:13 — In English technical writing, use 'check' or 'verify' rather than 'check...再检查' — the second 'check' is redundant. Also, '占用' translates to 'occupying' or 'listening on' when referring to ports.
