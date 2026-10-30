@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Which of the above approaches yields the best results?
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+Why do I get the error 'Error: account/read failed during TUI bootstrap: account/read failed: workspace routing discovery timed out (code -32603)' when running codex-official to use codex?
