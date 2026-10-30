@@ -26182,3 +26182,4 @@
 - 2026-10-30 11:17 — Use "per month" or "a month" for recurring prices; "one month" sounds like a one-time duration.
 - 2026-10-30 11:24 — In English, ask 'How's it going?' or 'What's the status?' instead of literally translating '咋样了'.
 - 2026-10-30 11:25 — In casual English, 'How's it going?' is the natural equivalent of 咋样了.
+- 2026-10-30 11:25 — Use "per month" or "a month" for recurring prices; "一个月" translates to "per month" in English.
