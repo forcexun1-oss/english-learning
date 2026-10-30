@@ -26190,3 +26190,4 @@
 - 2026-10-30 11:26 — Use 'in' for currency conversion: 'X in Y'.
 - 2026-10-30 11:27 — Use 'handle' or 'solve' for technical tasks; 'solve' is more natural when referring to a specific problem.
 - 2026-10-30 11:46 — In English, '搞' in this context means to start working on something. 'Let's get started' is a natural, energetic way to push forward.
+- 2026-10-30 11:47 — Use 'go ahead' to encourage someone to start or continue.
