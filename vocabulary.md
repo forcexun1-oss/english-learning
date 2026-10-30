@@ -26127,3 +26127,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 09:10 — Use 'get' or 'encounter' instead of 'report' when describing errors. Also, 'when running' is more natural than 'when executing' for software commands.
+- 2026-10-30 09:11 — Use 'left' or 'remaining' to indicate unfinished items. '没完成' translates to 'uncompleted' or 'left to do'.
