@@ -26504,3 +26504,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 18:53 — Use 'Add [item] to the list' instead of 'Add to list' for better clarity. 'Start working on it' is more natural than 'start doing' in this context.
+- 2026-10-30 18:53 — Use 'delegate' for assigning tasks to others or subagents.
