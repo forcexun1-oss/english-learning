@@ -26036,6 +26036,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26275,3 +26276,6 @@
 >>>>>>> Stashed changes
 - 2026-10-30 13:45 — Use 'false positives' to describe incorrect alerts caused by historical files. Use 'meta-descriptions' for '元描述' to be more precise in a technical context.
 - 2026-10-30 13:45 — Use 'How are... constructed?' for passive voice questions about structure. 'Complete process' is more natural than 'give me completely' in technical explanations.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
