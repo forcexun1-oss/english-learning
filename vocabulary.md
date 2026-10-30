@@ -26238,3 +26238,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 13:18 — In English, use the definite article 'the' before default settings (e.g., 'the default') or simply state the action directly as an imperative.
+- 2026-10-30 13:19 — Use 'default to [value]' to indicate a preset configuration.
