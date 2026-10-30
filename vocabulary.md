@@ -26591,3 +26591,4 @@
 - 2026-10-30 20:51 — Use 'Has [subject] started?' for present perfect tense to ask about the current status of an action.
 - 2026-10-30 20:52 — Use 'workflow' instead of 'process' when referring to a sequence of steps in development. 'Verify' is more precise than 'check' in technical contexts.
 - 2026-10-30 20:58 — In English, 'assign' is more professional than 'send out' when delegating tasks. Also, 'fix it' is clearer than just 'fix' when referring to a specific issue.
+- 2026-10-30 21:02 — Use 're-run' or 're-process' instead of '重过' for clarity. 'Cross-contamination' is a precise term for '互不串' in testing contexts.
