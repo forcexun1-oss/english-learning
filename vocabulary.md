@@ -26579,3 +26579,4 @@
 - 2026-10-30 20:27 — The original text is already very natural and idiomatic for a developer context. No changes needed.
 - 2026-10-30 20:30 — In English, 'Where' is placed at the beginning of the question, followed by the verb 'are' and then the subject 'the special effects'.
 - 2026-10-30 20:32 — Use 'implement' or 'apply' when talking about adding features/effects in code. 'Should be easy' is fine, but consider 'shouldn't be too hard' for a more natural tone.
+- 2026-10-30 20:36 — Use 'stage' instead of 'phase' for software testing cycles (e.g., stage Z/Y4). Also, 'cross-contamination' is a precise term for when test cases interfere with each other.
