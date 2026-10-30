@@ -26118,3 +26118,4 @@
 - 2026-10-30 08:38 — Use 'check' instead of 'read' for log files to sound more natural in a debugging context.
 - 2026-10-30 09:00 — Split the long sentence in step (2) into two sentences for better readability.
 - 2026-10-30 09:06 — Use 'get' or 'receive' instead of 'report' for errors in this context. 'Report' implies you are informing someone, while 'get' or 'receive' describes the system's response.
+- 2026-10-30 09:07 — Use 'left to complete' or 'remaining' to ask about unfinished items. 'How many are not finished' is also correct but slightly less natural in a professional context.
