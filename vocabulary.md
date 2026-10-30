@@ -26180,3 +26180,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 10:48 — Use "cost-effective" to describe a good balance between price and value. "Burning through tokens" is a natural way to say you're using up tokens quickly.
 - 2026-10-30 11:17 — Use "per month" or "a month" for recurring prices; "one month" sounds like a one-time duration.
+- 2026-10-30 11:24 — In English, ask 'How's it going?' or 'What's the status?' instead of literally translating '咋样了'.
