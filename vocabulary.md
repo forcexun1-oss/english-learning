@@ -26575,3 +26575,4 @@
 - 2026-10-30 20:17 — Use 'Once received' or 'Upon receipt' to clearly transition from the waiting state to the action state.
 - 2026-10-30 20:17 — The original text is already very natural and idiomatic for a developer context. No changes needed.
 - 2026-10-30 20:18 — Use 'focus on' or 'get [something] right' to emphasize prioritizing a specific task before moving on.
+- 2026-10-30 20:19 — In 3D animation, 'rigging' refers to the process of creating a skeleton for a model. 'Abstract' is a good word for describing unnatural or distorted motion.
