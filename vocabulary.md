@@ -26588,3 +26588,4 @@
 - 2026-10-30 20:47 — Use 'production workflow' or 'pipeline' instead of '制作流程' for a more professional software/engineering context.
 - 2026-10-30 20:49 — Use 'unnaturally' instead of 'not very normal' to describe incorrect positioning or behavior in a technical context.
 - 2026-10-30 20:50 — Use 'solidify' or 'standardize' when turning a process into a fixed, repeatable standard. '固化' in a technical context often means establishing a stable, standardized procedure.
+- 2026-10-30 20:51 — Use 'Has [subject] started?' for present perfect tense to ask about the current status of an action.
