@@ -26139,3 +26139,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 09:18 — Use 'conduct research' instead of 'do research' for a more formal tone.
+- 2026-10-30 09:19 — Use 'from scratch' to mean starting completely new, and 'patching up' to describe fixing something that already exists.
