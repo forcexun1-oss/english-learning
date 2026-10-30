@@ -26531,3 +26531,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 19:19 — Use 'too + adjective' (e.g., 'too dark') instead of 'too deep' for UI colors. 'Dark' is the standard term for low brightness.
