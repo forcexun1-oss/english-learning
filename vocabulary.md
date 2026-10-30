@@ -26140,3 +26140,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 09:18 — Use 'conduct research' instead of 'do research' for a more formal tone.
 - 2026-10-30 09:19 — Use 'from scratch' to mean starting completely new, and 'patching up' to describe fixing something that already exists.
+- 2026-10-30 09:19 — In English, '干嘛' is often translated as 'What's up?' or 'What do you need?' depending on the context. 'What are you doing?' is also common but can sound slightly more direct.
