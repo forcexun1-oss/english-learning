@@ -26165,3 +26165,4 @@
 >>>>>>> Stashed changes
 - 2026-10-30 10:00 — Use 'set it as the default' to clearly express configuring a default setting.
 - 2026-10-30 10:01 — In English, 'directly' is an adverb modifying the verb 'proceed'. Avoid literal translations like 'push it directly'; instead, use 'proceed directly' or 'just go ahead'.
+- 2026-10-30 10:02 — In English, 'kill' is the standard verb for terminating a process (e.g., 'kill the process'). 'Sha' is a direct translation of '杀' but is not used in this technical context.
