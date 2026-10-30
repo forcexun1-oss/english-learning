@@ -26285,3 +26285,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 13:51 — Use 'make things up' or 'fabricate' to describe inventing false information, rather than 'du zhuan' (which literally means 'fabricate' but is often misused in Chinese contexts).
+- 2026-10-30 13:52 — In English, 'three sets' is more natural than 'three parts' when referring to distinct groups of data or files.
