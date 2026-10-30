@@ -26010,6 +26010,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26134,3 +26135,6 @@
 >>>>>>> Stashed changes
 - 2026-10-30 09:14 — Use 'How much further' when asking about remaining distance or progress.
 - 2026-10-30 09:15 — Use 'fundamental flaw' or 'flawed' to describe a problem in the initial design or plan.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
