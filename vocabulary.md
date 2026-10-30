@@ -26418,3 +26418,4 @@
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
 - 2026-10-30 16:56 — 快啊 is a casual Chinese phrase; in English we'd say 'Go ahead' or 'I'm ready.'
+- 2026-10-30 16:58 — Use 'steps' or 'phases' for multi-stage data generation; '追加测试数据' → 'additional test data'.
