@@ -26547,3 +26547,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 19:34 — In English, it is more natural to use 'The character' or 'The player' instead of just 'Person' (人物) when referring to a game avatar.
