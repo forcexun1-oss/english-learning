@@ -26279,3 +26279,4 @@
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
+- 2026-10-30 13:49 — In machine learning, the standard split is usually 'training', 'validation' (dev), and 'test'. The training set is used to teach the model, while the dev and test sets are used to evaluate its performance on unseen data.
