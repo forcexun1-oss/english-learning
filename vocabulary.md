@@ -26141,3 +26141,4 @@
 - 2026-10-30 09:18 — Use 'conduct research' instead of 'do research' for a more formal tone.
 - 2026-10-30 09:19 — Use 'from scratch' to mean starting completely new, and 'patching up' to describe fixing something that already exists.
 - 2026-10-30 09:19 — In English, '干嘛' is often translated as 'What's up?' or 'What do you need?' depending on the context. 'What are you doing?' is also common but can sound slightly more direct.
+- 2026-10-30 09:21 — In English, '开始干' is best translated as 'let's get started' or 'let's do this' to sound natural and enthusiastic.
