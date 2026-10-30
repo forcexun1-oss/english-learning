@@ -26569,3 +26569,4 @@
 - 2026-10-30 20:02 — Use 'as [adjective] as' for comparisons. 'Light' is the correct adjective for color intensity, whereas 'shallow' refers to depth.
 - 2026-10-30 20:06 — Use 'Once received' or 'Upon receipt' to clearly link the waiting condition to the subsequent actions.
 - 2026-10-30 20:06 — Use 'white model' or 'mannequin' instead of literal translations like 'white model' if referring to a 3D base mesh without textures. Also, 'H3.1' seems unclear—ensure you mean a specific tool or version.
+- 2026-10-30 20:07 — Use imperative verbs (e.g., 'Run', 'Read', 'Update') for clear, direct instructions typical in developer workflows.
