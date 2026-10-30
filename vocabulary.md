@@ -26589,3 +26589,4 @@
 - 2026-10-30 20:49 — Use 'unnaturally' instead of 'not very normal' to describe incorrect positioning or behavior in a technical context.
 - 2026-10-30 20:50 — Use 'solidify' or 'standardize' when turning a process into a fixed, repeatable standard. '固化' in a technical context often means establishing a stable, standardized procedure.
 - 2026-10-30 20:51 — Use 'Has [subject] started?' for present perfect tense to ask about the current status of an action.
+- 2026-10-30 20:52 — Use 'workflow' instead of 'process' when referring to a sequence of steps in development. 'Verify' is more precise than 'check' in technical contexts.
