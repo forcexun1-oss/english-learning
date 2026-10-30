@@ -1,1 +1,1 @@
-For the base quantization, we don't need to generate dynamic graphs; two levels are sufficient, even if it's a bit slower. Let's export the base quantization first. Should we expand the dataset to be safer?
+Or let's measure first and then decide.
