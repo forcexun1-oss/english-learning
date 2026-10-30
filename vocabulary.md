@@ -26574,3 +26574,4 @@
 - 2026-10-30 20:16 — Use 'Should I...' or 'Should you...' to clearly ask for a decision or action. Avoid '按你说的来是你亲自来还是...' which is a bit colloquial; 'Should I do it myself...' is more direct and professional.
 - 2026-10-30 20:17 — Use 'Once received' or 'Upon receipt' to clearly transition from the waiting state to the action state.
 - 2026-10-30 20:17 — The original text is already very natural and idiomatic for a developer context. No changes needed.
+- 2026-10-30 20:18 — Use 'focus on' or 'get [something] right' to emphasize prioritizing a specific task before moving on.
