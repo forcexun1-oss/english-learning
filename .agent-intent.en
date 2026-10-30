@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Is our current dataset size sufficient? Typically, does this yield meaningful results?
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+For the base quantization, we don't need to generate dynamic graphs; two levels are sufficient, even if it's a bit slower. Let's export the base quantization first. Should we expand the dataset to be safer?
