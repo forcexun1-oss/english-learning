@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Check the r214 phase T (refusal-data-fix) progress: read /tmp/r214-t-watch.out, new entries in OUTBOX.md, `ps -p $(cat /tmp/r214-t-codex.pid)`, and /tmp/r214-t-budget.log. If Luna wrote a GATE with `need: teacher-ready`, first verify the T1–T3 evidence (the old 5 lines in test-validate-refuse-before.txt must all fail), then check what's occupying port 8001 and the memory usage. After deciding on the teacher address, write to INBOX. Report in Chinese.
-=======
-Draft the proposal.
->>>>>>> Stashed changes
+Check the progress of Stage U (regeneration for refusal types T4/T5): Read /tmp/r214-u-watch.out, new entries in OUTBOX.md (using offset .outbox-seen-01a18b05-6a64-72c1-adfb-11886e877d9a), `ps -p $(cat /tmp/r214-u-codex.pid)`, and /tmp/r214-u-budget.log. If luna has written a GATE (need: go), independently spot-check refuse-v2-kept.jsonl: ensure all tool nouns and values for numerical targets are present, and that sentences for missing-parameter/vague targets retain complete parameters. The count for '101' must be 0, and it must pass validation again. If it passes, write 'go' to INBOX. Then, except for PID 25559, do not touch the teacher. Stop the teacher only after all data is complete. Report in Chinese.
