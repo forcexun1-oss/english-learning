@@ -26100,6 +26100,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-10-30 01:50 — Use 'assign tasks' instead of 'send tasks' for a more professional tone in a technical context.
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
@@ -26551,6 +26552,9 @@
 - 2026-10-30 19:34 — In English, it is more natural to use 'The character' or 'The player' instead of just 'Person' (人物) when referring to a game avatar.
 - 2026-10-30 19:34 — Use 'during production' or 'in the production phase' to refer to the creation process. '制作的时候' translates naturally to 'during production' in a software/game dev context.
 - 2026-10-30 19:34 — In English, 'zoom out' is the standard term for making the view wider or pulling the camera back.
+=======
+- 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
+>>>>>>> Stashed changes
 =======
 - 2026-10-30 01:50 — In English, '方案' is best translated as 'proposal' or 'plan' in a professional context. 'Write the proposal' is a natural and concise way to express this instruction.
 >>>>>>> Stashed changes
