@@ -26623,3 +26623,4 @@
 - 2026-10-31 23:21 — In English, "try it" is the natural equivalent of 试试吧.
 - 2026-10-31 23:22 — Use 'constraint triggered' for a hard limit that stops execution.
 - 2026-10-31 23:23 — Use 'stopped at G2' and 'did not run' to describe a blocked milestone, and 'expected to report' for predicted errors.
+- 2026-10-31 23:25 — Use 'lifted' for removing a blocker in project status updates.
