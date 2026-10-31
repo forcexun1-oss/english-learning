@@ -26618,3 +26618,4 @@
 - 2026-10-31 23:03 — In English technical writing, 'workflow' is the standard term for a sequence of steps or processes, not '流程' translated literally as 'process' here.
 - 2026-10-31 23:07 — In English, '落盘' is usually rendered as 'persisted' or 'written to disk' when referring to files or data.
 - 2026-10-31 23:07 — Use 'has completed' for finished tasks, and 'takeaways' for a concise summary of results.
+- 2026-10-31 23:18 — In casual English, 'try it out' sounds more natural than 'try it' when testing something.
