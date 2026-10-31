@@ -26599,3 +26599,4 @@
 - 2026-10-31 16:17 — Use 'focus' as the NPC's current priority target; laziness is a behavior mode, not a trait.
 - 2026-10-31 16:25 — Use 'output' for what a system produces; 'decision' is the final choice after arbitration.
 - 2026-10-31 16:41 — Use 'suggest adding' for recommendations and 'skip for now' when deferring items. 'Focus' works as a noun here; if you mean a verb, say 'focus on'.
+- 2026-10-31 16:47 — 把‘公式’写成‘规则+参数’，模型更容易实现。
