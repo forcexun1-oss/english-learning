@@ -26626,3 +26626,4 @@
 - 2026-10-31 23:25 — Use 'lifted' for removing a blocker in project status updates.
 - 2026-10-31 23:25 — Use 'both' when two items are involved: 'fit and transfer both passed.'
 - 2026-10-31 23:27 — Use a colon to separate a model name from its tag (e.g., lfm3:1.7b-mxfp8), and keep technical terms like Ollama and mxfp8 unchanged.
+- 2026-10-31 23:28 — Use 're-arm' as a verb in imperative form when instructing an agent to restart a monitoring task.
