@@ -26630,3 +26630,4 @@
 - 2026-10-31 23:28 — Use 'look into' for research/investigation; 'convert and run' is a natural collocation for model deployment.
 - 2026-10-31 23:29 — Use '现在' for 'now' and '啥' is casual; in technical contexts prefer 'current status'.
 - 2026-10-31 23:31 — In English, "how do I decide?" or "what's the best approach?" sounds more natural than "how should I set it?" when asking about configuration choices.
+- 2026-10-31 23:33 — Use 'you can decide how to proceed' to give the AI freedom to choose the next step.
