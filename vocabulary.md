@@ -26595,3 +26595,4 @@
 - 2026-10-31 15:52 — Use "set point" for homeostatic targets and "valence" for positive/negative emotional tone. Keep "System 1 / System 2" as named channels rather than translating them.
 - 2026-10-31 15:54 — Use a descriptive branch name that signals the change's scope.
 - 2026-10-31 15:58 — Use 'open a branch' in Git terminology; 'separate' is more idiomatic than '单独开一个分支' translated literally.
+- 2026-10-31 16:11 — Use "never" for hard constraints; "treat as" frames them as principles rather than code.

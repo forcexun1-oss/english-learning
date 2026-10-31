@@ -1,1 +1,1 @@
-Let's adjust the agent design based on this proposal. We should open a separate branch to implement it.
+Add two hard constraints: never use the companion's emotions to manipulate the player (no guilt-tripping, no faking suffering to keep them), and never hide that it is an AI. Treat these as design principles, not runtime checks.
