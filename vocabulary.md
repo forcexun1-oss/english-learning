@@ -26607,3 +26607,4 @@
 - 2026-10-31 22:35 — Use "Aren't we...?" for rhetorical questions in English. "Workflow" and "pipeline" are both correct; "pipeline" is more common in production contexts.
 - 2026-10-31 22:48 — Use 'keep showing' for repeated events; 'keep' + verb-ing is the natural pattern.
 - 2026-10-31 22:51 — Use 'Can he only do...?' for yes/no questions about capability; 'Why does he even...?' adds natural emphasis.
+- 2026-10-31 22:54 — Use "so" to show a result, not "and".
