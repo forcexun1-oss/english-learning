@@ -1,2 +1,1 @@
-## [MILESTONE] G1 — Input preparation complete
-## [BLOCKED] G2 — 0.8–1.2 constraint triggered; stopped per SPEC, no fitting run
+The pilot stopped at G2 and did not run the fit. The reason is the badger's torso proportions exceed the 0.8–1.2 limit, so it stopped per SPEC. The donor's eye and little finger bones carry weights, but the badger has no corresponding bones, so `transfer.py:174-177` is expected to report `Unmapped weighted donor bones`. The next step is to choose a donor closer to the badger's proportions, adjust the badger's rig, rerun G1, or ask the owner whether to relax the limit (which requires changing Charakuru code; we should not change it ourselves).
