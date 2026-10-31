@@ -26598,3 +26598,4 @@
 - 2026-10-31 16:11 — Use "never" for hard constraints; "treat as" frames them as principles rather than code.
 - 2026-10-31 16:17 — Use 'focus' as the NPC's current priority target; laziness is a behavior mode, not a trait.
 - 2026-10-31 16:25 — Use 'output' for what a system produces; 'decision' is the final choice after arbitration.
+- 2026-10-31 16:41 — Use 'suggest adding' for recommendations and 'skip for now' when deferring items. 'Focus' works as a noun here; if you mean a verb, say 'focus on'.
