@@ -26616,3 +26616,4 @@
 - 2026-10-31 23:03 — colloquial expressions like '有病啊' can be rendered as 'That's crazy' or 'What's wrong with him' depending on tone.
 - 2026-10-31 23:03 — Use 're-export' when you mean to export again. '重新' in this context is naturally 're-'.
 - 2026-10-31 23:03 — In English technical writing, 'workflow' is the standard term for a sequence of steps or processes, not '流程' translated literally as 'process' here.
+- 2026-10-31 23:07 — In English, '落盘' is usually rendered as 'persisted' or 'written to disk' when referring to files or data.
