@@ -26611,3 +26611,4 @@
 - 2026-10-31 22:55 — Use 'the same as' for comparisons; 'this one' refers back to a previously mentioned object.
 - 2026-10-31 22:56 — Use 'assign a subagent to run...' for delegating tasks to an AI agent.
 - 2026-10-31 23:01 — Use 'didn't we ask...' to turn a statement into a natural question.
+- 2026-10-31 23:01 — Use 'milestone' to describe a completed phase in a project plan.
