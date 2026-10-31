@@ -26613,3 +26613,4 @@
 - 2026-10-31 23:01 — Use 'didn't we ask...' to turn a statement into a natural question.
 - 2026-10-31 23:01 — Use 'milestone' to describe a completed phase in a project plan.
 - 2026-10-31 23:01 — Use "haven't we?" for a natural tag question in English.
+- 2026-10-31 23:03 — colloquial expressions like '有病啊' can be rendered as 'That's crazy' or 'What's wrong with him' depending on tone.
