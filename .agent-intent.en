@@ -1,1 +1,5 @@
-Add two hard constraints: never use the companion's emotions to manipulate the player (no guilt-tripping, no faking suffering to keep them), and never hide that it is an AI. Treat these as design principles, not runtime checks.
+1. LLM can generate move sequences.
+2. Focus is the NPC's current priority target.
+3. Yes — laziness is just one behavior; we can define more. Attributes are also just design-level parameters.
+4. Ignore that for now.
+5. All agents share the same system. We can skip companions and merchants initially, but the full stack should be in place, or at least pre-configured without tuning effort.
