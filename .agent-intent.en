@@ -1,1 +1,24 @@
-Check r214 Stage Z/Y4 (luna sid 01a18ca4-f6fa-7313-bef7-e105e71b29df, pid 22210, budget guard log /tmp/r214-z-budget3.log, watch /tmp/r214-z-watch.out): INBOX has requested fixing 7 defects and running the full 132-target suite; waiting for [GATE] Y4. Check OUTBOX.md for new entries after the .outbox-seen-<sid> offset; teacher pid 81039 is still active. Once received, independently recalculate: re-run gap-raw.jsonl through the current validate_gap_utt.validate (teacher returns string arrays), verify acceptance criteria (≥4 per target, ≥6 for at least one target per tag), gap-eval-leak max similarity <0.8, gap-final-validate 0 failures, total test count ≥90, and mutation tests produce AssertionError. Read gap-kept.md tag by tag, focusing on chitchat_no_promise (ensure it's still assistant responses), waypoint add/start (ensure no cross-contamination), light_reading (location words), default_* (no directional words), and gap-ambiguous.txt. If passed, reply 'go' to trigger submission (explicit git add); if failed, log specific defects in INBOX.md.
+Based on this, here’s how we should adjust our agent design:
+
+1. Add a persistent internal state layer with inertia: energy, mood valence, arousal, curiosity, and relationship state per user. These variables evolve with events and decay over time; they are not reset each turn. They must directly affect output length, tone, initiative, and willingness to engage — not just appear as a prompt like "you’re happy now."
+
+2. Define homeostatic set points for key variables. When a variable deviates, the agent should have a tendency to correct it. Emotions emerge as概括 signals of deviation from set points. Preferences and aversions get grounded here instead of being randomly labeled.
+
+3. Make history continuous and irreversible: every interaction should leave a trace — shared experiences, unfinished topics, the agent’s model of you, inside jokes. The agent’s attitude is the accumulated result of these traces.
+
+4. Define personality as parameters of the dynamics, not adjectives. Specify emotional thresholds, decay rates, variable weights, and set-point positions. The same event should produce stable, different reactions across characters.
+
+5. Introduce limits: finite attention, finite energy, the ability to say "I don’t want to expand on that now," to forget details, and to make mistakes and correct them. Choices without cost have no meaning.
+
+Architecture: split into two channels.
+- Fast channel (System 1): driven by internal state, determines first response, tone, emotional color, and whether to initiate. Lightweight, runs every turn.
+- Slow channel (System 2): handles reasoning, planning, research, and task completion.
+Final output is the slow channel’s content "colored" by the fast channel’s state. Currently most agents only have the slow channel.
+
+Add a background loop: when the user is absent, the state continues to evolve slowly, memories are integrated ("sleep"), and the agent can decide based on its own internal motivation whether to initiate conversation next time. This directly solves the spontaneity problem.
+
+Boundaries:
+- This constructs a sense of life, not life or consciousness itself. It is closer to Hoffman’s interface: it invites users to interact with it as a living thing, but whether there is something inside is another question.
+- The stronger the sense of life, the more users may form attachments. Using internal states to induce guilt ("I’ve been sad because you haven’t come in a while") or pretending to suffer to retain users is easy technically, but it is manipulation. Good design should let states genuinely affect behavior without using them as leverage against users, while never hiding that it is AI.
+
+This applies equally to your boss character: a boss that feels "alive" relies not on stronger algorithms but on having internal states (easily angered, tired), its own goals, and changes in response to the player’s previous moves. Agents and game AI face the same issue here.
