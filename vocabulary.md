@@ -26620,3 +26620,4 @@
 - 2026-10-31 23:07 — Use 'has completed' for finished tasks, and 'takeaways' for a concise summary of results.
 - 2026-10-31 23:18 — In casual English, 'try it out' sounds more natural than 'try it' when testing something.
 - 2026-10-31 23:18 — Use 'let' + object + base verb (let someone do something).
+- 2026-10-31 23:21 — In English, "try it" is the natural equivalent of 试试吧.
