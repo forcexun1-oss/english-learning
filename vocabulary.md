@@ -26600,3 +26600,4 @@
 - 2026-10-31 16:25 — Use 'output' for what a system produces; 'decision' is the final choice after arbitration.
 - 2026-10-31 16:41 — Use 'suggest adding' for recommendations and 'skip for now' when deferring items. 'Focus' works as a noun here; if you mean a verb, say 'focus on'.
 - 2026-10-31 16:47 — 把‘公式’写成‘规则+参数’，模型更容易实现。
+- 2026-10-31 16:52 — 中文里‘具体’常与‘什么’搭配，但这里更适合用‘在讲什么’或‘核心内容是什么’。
