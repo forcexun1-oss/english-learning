@@ -26609,3 +26609,4 @@
 - 2026-10-31 22:51 — Use 'Can he only do...?' for yes/no questions about capability; 'Why does he even...?' adds natural emphasis.
 - 2026-10-31 22:54 — Use "so" to show a result, not "and".
 - 2026-10-31 22:55 — Use 'the same as' for comparisons; 'this one' refers back to a previously mentioned object.
+- 2026-10-31 22:56 — Use 'assign a subagent to run...' for delegating tasks to an AI agent.
