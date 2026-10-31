@@ -26597,3 +26597,4 @@
 - 2026-10-31 15:58 — Use 'open a branch' in Git terminology; 'separate' is more idiomatic than '单独开一个分支' translated literally.
 - 2026-10-31 16:11 — Use "never" for hard constraints; "treat as" frames them as principles rather than code.
 - 2026-10-31 16:17 — Use 'focus' as the NPC's current priority target; laziness is a behavior mode, not a trait.
+- 2026-10-31 16:25 — Use 'output' for what a system produces; 'decision' is the final choice after arbitration.
