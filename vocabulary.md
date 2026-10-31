@@ -26625,3 +26625,4 @@
 - 2026-10-31 23:23 — Use 'stopped at G2' and 'did not run' to describe a blocked milestone, and 'expected to report' for predicted errors.
 - 2026-10-31 23:25 — Use 'lifted' for removing a blocker in project status updates.
 - 2026-10-31 23:25 — Use 'both' when two items are involved: 'fit and transfer both passed.'
+- 2026-10-31 23:27 — Use a colon to separate a model name from its tag (e.g., lfm3:1.7b-mxfp8), and keep technical terms like Ollama and mxfp8 unchanged.
