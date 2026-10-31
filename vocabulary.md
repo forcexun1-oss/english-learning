@@ -26594,3 +26594,4 @@
 - 2026-10-30 21:02 — Use 're-run' or 're-process' instead of '重过' for clarity. 'Cross-contamination' is a precise term for '互不串' in testing contexts.
 - 2026-10-31 15:52 — Use "set point" for homeostatic targets and "valence" for positive/negative emotional tone. Keep "System 1 / System 2" as named channels rather than translating them.
 - 2026-10-31 15:54 — Use a descriptive branch name that signals the change's scope.
+- 2026-10-31 15:58 — Use 'open a branch' in Git terminology; 'separate' is more idiomatic than '单独开一个分支' translated literally.

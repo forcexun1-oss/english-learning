@@ -1,1 +1,1 @@
-Yes, open a new branch for this. I'll call it `npc-arch-v2` so we can iterate without touching the current agent code.
+Let's adjust the agent design based on this proposal. We should open a separate branch to implement it.
