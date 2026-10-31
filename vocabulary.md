@@ -26604,3 +26604,4 @@
 - 2026-10-31 16:57 — Use 'hard constraints' for non-negotiable rules, and 'design principles' for guidelines that guide but don't forbid.
 - 2026-10-31 21:12 — Use 'of' to introduce the subject after 'image of a…' and add articles ('a futuristic helmet, a glowing katana') for natural English.
 - 2026-10-31 21:12 — Use 'a' before 'game asset' since it's a countable noun. 'Front view' works as a noun phrase in image prompts.
+- 2026-10-31 22:35 — Use "Aren't we...?" for rhetorical questions in English. "Workflow" and "pipeline" are both correct; "pipeline" is more common in production contexts.
