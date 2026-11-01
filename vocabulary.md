@@ -26640,3 +26640,4 @@
 - 2026-11-01 15:37 — Use 'how far along' to ask about progress. 'Session' here refers to the prior conversation context.
 - 2026-11-01 15:38 — Use 'unverified' instead of 'not usable' when a single test is not enough to generalize.
 - 2026-11-01 15:40 — Use precise, evidence-bound language in proposals: avoid 'can be used' and state what is proven for this config.
+- 2026-11-01 15:42 — Use 'run it through' for a dry run or trial pass, and 'take action' for doing the work yourself.
