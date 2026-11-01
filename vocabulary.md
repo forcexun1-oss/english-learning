@@ -26662,3 +26662,4 @@
 - 2026-11-01 16:16 — Use "have" for existence (音效 is plural, so "have" not "has").
 - 2026-11-01 16:20 — Use "What would you like to do?" to invite the user to state their next task.
 - 2026-11-01 16:23 — Use 'dispatch' for assigning work to an agent; 'cost-effective' is the standard term for choosing the best value model.
+- 2026-11-01 16:23 — Use 'right?' at the end for a casual confirmation tag question.
