@@ -26639,3 +26639,4 @@
 - 2026-11-01 15:36 — Use concrete, testable thresholds (pixels, degrees, credits) instead of vague terms like 'small swing' or 'check not passed.'
 - 2026-11-01 15:37 — Use 'how far along' to ask about progress. 'Session' here refers to the prior conversation context.
 - 2026-11-01 15:38 — Use 'unverified' instead of 'not usable' when a single test is not enough to generalize.
+- 2026-11-01 15:40 — Use precise, evidence-bound language in proposals: avoid 'can be used' and state what is proven for this config.
