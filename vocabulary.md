@@ -26660,3 +26660,4 @@
 - 2026-11-01 16:12 — Use 'cost-effective' for 性价比; 'sub-agent' is a standard term in agent frameworks.
 - 2026-11-01 16:14 — Use 'so far' to ask about current status in a natural way.
 - 2026-11-01 16:16 — Use "have" for existence (音效 is plural, so "have" not "has").
+- 2026-11-01 16:20 — Use "What would you like to do?" to invite the user to state their next task.
