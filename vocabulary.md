@@ -26643,3 +26643,4 @@
 - 2026-11-01 15:42 — Use 'run it through' for a dry run or trial pass, and 'take action' for doing the work yourself.
 - 2026-11-01 15:42 — Use 'first...then...' to sequence steps clearly.
 - 2026-11-01 15:45 — Use "nail down" for making a process clear and fixed.
+- 2026-11-01 15:46 — Use 'subagent' to refer to a delegated worker process; 'model' refers to the AI backend it runs on.
