@@ -1,17 +1,1 @@
-Here’s a review of the proposal. The core idea is sound: constrain the model at the source instead of patching downstream. The seven improvements are clear and well scoped. A few suggestions:
-
-- P1: specify the exact pose and scale convention (e.g., feet on the Y=0 plane, height in meters) so the contract is unambiguous.
-- P2: clarify the 105-pixel crop and the camera settings; also state the minimum face/feature size in pixels.
-- P3: note that Tripo’s auto-rig weights are used only for the base body, not for accessories.
-- P4: define the swing amplitude as a function of speed (e.g., clamp to ±X degrees) and the acceptance threshold in pixels.
-- P5: add a hand-shape catalog and grip orientation table to avoid ambiguity.
-- P6: make the script output a machine-readable report (JSON) and a human-readable summary.
-- P7: require a fixed set of screenshots per checkpoint (front, side, 3/4, top) for consistency.
-
-The five-step pilot is reasonable. T0 is good because it avoids wasting credits. T1’s 12-image limit is fine; T2’s 150-credit cap is also reasonable. T3 should include a regression check against the existing badger. T4 should have a clear pass/fail criterion.
-
-Unchanged parts are fine. The submission on a new branch is good. The README.md issue is understandable—leave it alone.
-
-You need to decide: (1) approve the 7 improvements and set a cost cap for the pilot; (2) choose Codex after Nov 4 or manual cleanup from existing concept art; (3) no licensing concern since only the method is borrowed, not the body or code.
-
-Overall, this approach is much better than the previous workflow. The main risk is over-specifying P1/P5; keep them minimal and test early.
+How far along is the current effect? Check the previous session for that effect.

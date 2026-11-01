@@ -26637,3 +26637,4 @@
 - 2026-11-01 12:46 — Use completed (exit code 0) as the standard completion phrasing for background tasks.
 - 2026-11-01 15:32 — Use 'related to' or 'for' when asking about skills that serve a specific purpose, e.g., 'skills for drawing UI'.
 - 2026-11-01 15:36 — Use concrete, testable thresholds (pixels, degrees, credits) instead of vague terms like 'small swing' or 'check not passed.'
+- 2026-11-01 15:37 — Use 'how far along' to ask about progress. 'Session' here refers to the prior conversation context.
