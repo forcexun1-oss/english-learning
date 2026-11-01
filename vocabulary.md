@@ -26634,3 +26634,4 @@
 - 2026-11-01 12:34 — Use the standard completed-status phrasing: 'Watcher for pilot A-01 completed (exit code 0).'
 - 2026-11-01 12:35 — Task notifications are already in standard Claude Code format; no rewrite needed.
 - 2026-11-01 12:43 — When a background task completes, the summary line already tells you the exit code. You can skip repeating it in your own notes unless you're logging something new.
+- 2026-11-01 12:46 — Use completed (exit code 0) as the standard completion phrasing for background tasks.
