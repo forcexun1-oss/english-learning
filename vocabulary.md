@@ -26650,3 +26650,4 @@
 - 2026-11-01 15:55 — Use 'v6.1' for version numbers; '6.1把' is a typo.
 - 2026-11-01 15:56 — Use "let's" (let us) in informal writing; "let us" without the contraction is more formal.
 - 2026-11-01 15:58 — Use 'interim results' or 'milestones' instead of literal translations like '阶段性成果' for natural technical English.
+- 2026-11-01 15:59 — Use 'have completed' for finished background processes; 'done' is informal but fine in chat.
