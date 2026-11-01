@@ -26633,3 +26633,4 @@
 - 2026-10-31 23:33 — Use 'you can decide how to proceed' to give the AI freedom to choose the next step.
 - 2026-11-01 12:34 — Use the standard completed-status phrasing: 'Watcher for pilot A-01 completed (exit code 0).'
 - 2026-11-01 12:35 — Task notifications are already in standard Claude Code format; no rewrite needed.
+- 2026-11-01 12:43 — When a background task completes, the summary line already tells you the exit code. You can skip repeating it in your own notes unless you're logging something new.

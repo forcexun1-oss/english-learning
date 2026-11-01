@@ -1,1 +1,1 @@
-Background command "Watcher for pilot B-01" completed (exit code 0).
+All six pilot wave-1 sessions have completed. The watcher for pilot A-01, the watcher for pilot B-01, and the background poller that exits when any of the six pilots' wave-1 sessions writes its done milestone or exits have all finished with exit code 0.
