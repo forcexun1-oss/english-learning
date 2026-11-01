@@ -26663,3 +26663,4 @@
 - 2026-11-01 16:20 — Use "What would you like to do?" to invite the user to state their next task.
 - 2026-11-01 16:23 — Use 'dispatch' for assigning work to an agent; 'cost-effective' is the standard term for choosing the best value model.
 - 2026-11-01 16:23 — Use 'right?' at the end for a casual confirmation tag question.
+- 2026-11-01 16:28 — Use "even" to emphasize that something is surprising given the current situation.
