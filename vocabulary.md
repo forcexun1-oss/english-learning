@@ -26642,3 +26642,4 @@
 - 2026-11-01 15:40 — Use precise, evidence-bound language in proposals: avoid 'can be used' and state what is proven for this config.
 - 2026-11-01 15:42 — Use 'run it through' for a dry run or trial pass, and 'take action' for doing the work yourself.
 - 2026-11-01 15:42 — Use 'first...then...' to sequence steps clearly.
+- 2026-11-01 15:45 — Use "nail down" for making a process clear and fixed.
