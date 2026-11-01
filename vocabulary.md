@@ -26653,3 +26653,4 @@
 - 2026-11-01 15:59 — Use 'have completed' for finished background processes; 'done' is informal but fine in chat.
 - 2026-11-01 15:59 — In English, "you" questions about a service usually use "did it stop?" or "what happened?" rather than "why did you stop?" — it sounds more natural.
 - 2026-11-01 16:04 — In English, "性价比最高的模型" is naturally rendered as "most cost-effective model" or "best bang for the buck" in technical contexts.
+- 2026-11-01 16:06 — Use 'Do you see if...' or 'Can you check whether...' to ask someone to look for something specific.
