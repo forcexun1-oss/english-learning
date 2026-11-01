@@ -26648,3 +26648,4 @@
 - 2026-11-01 15:50 — Use 'dispatched tasks' to refer to work assigned to subagents.
 - 2026-11-01 15:51 — Use 'dispatch' for assigning work to subagents; 'subagent' is the agent itself.
 - 2026-11-01 15:55 — Use 'v6.1' for version numbers; '6.1把' is a typo.
+- 2026-11-01 15:56 — Use "let's" (let us) in informal writing; "let us" without the contraction is more formal.
