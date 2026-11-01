@@ -1,1 +1,1 @@
-Here’s the plan. I’ll write the proposal document, then hand each step to a subagent with a model matched to the task’s complexity. For writing and review, use a standard model; for image generation and rigging, use a higher-capability model where needed. I’ll keep costs capped and only move to the next step after each gate passes.
+Luna’s capability looks solid, so don’t limit her to trivial tasks. Assign her some of the more involved steps where it fits.
