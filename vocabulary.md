@@ -26645,3 +26645,4 @@
 - 2026-11-01 15:45 — Use "nail down" for making a process clear and fixed.
 - 2026-11-01 15:46 — Use 'subagent' to refer to a delegated worker process; 'model' refers to the AI backend it runs on.
 - 2026-11-01 15:48 — Use “look”/“seem” for observations; “look solid” is a natural, concise way to praise quality.
+- 2026-11-01 15:50 — Use 'dispatched tasks' to refer to work assigned to subagents.
