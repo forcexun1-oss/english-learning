@@ -26651,3 +26651,4 @@
 - 2026-11-01 15:56 — Use "let's" (let us) in informal writing; "let us" without the contraction is more formal.
 - 2026-11-01 15:58 — Use 'interim results' or 'milestones' instead of literal translations like '阶段性成果' for natural technical English.
 - 2026-11-01 15:59 — Use 'have completed' for finished background processes; 'done' is informal but fine in chat.
+- 2026-11-01 15:59 — In English, "you" questions about a service usually use "did it stop?" or "what happened?" rather than "why did you stop?" — it sounds more natural.
