@@ -26669,3 +26669,4 @@
 - 2026-11-01 16:38 — Use "doesn't" (not "don't") for third-person singular, and "restart" is the correct verb here.
 - 2026-11-01 19:33 — Use 'almost full' or 'nearly full' instead of '快满' — '快' is too literal here.
 - 2026-11-01 19:37 — Use "completed" instead of "completed" — the word is spelled "completed".
+- 2026-11-01 19:40 — Use 'yourself' to emphasize that someone is doing something alone, and 'weren't you dispatched?' for a natural negative question.
