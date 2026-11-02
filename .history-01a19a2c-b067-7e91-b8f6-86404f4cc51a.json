@@ -1,0 +1,1 @@
+["调度方在 r216/INBOX.md 里给了你修正指令（你的两条 BLOCKED 取代为：停止规则实现错、places 的 stratum 轮转 bug）。按它执行：先读 INBOX.md，处理后改名 INBOX.read-14.md，然后做修复、再跑 adaptive、build_pools、finish_gate_pools.sh full、REPORT-POOLS.md。仍受 DISPATCH-R216D2.md 的硬边界与 tools/预算约束。你只能这样结束回合：gate 已写入且你在 codex-wait-inbox.sh 里等待；或手写 [BLOCKED]。"]

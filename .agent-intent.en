@@ -1,1 +1,1 @@
-Continue.
+The dispatcher in r216/INBOX.md gave you correction instructions: replace your two BLOCKED items with 'stop rule implementation is wrong' and 'places stratum rotation bug'. Follow it: first read INBOX.md, then rename it to INBOX.read-14.md after processing, then apply the fixes, run adaptive, build_pools, finish_gate_pools.sh full, and REPORT-POOLS.md. You remain bound by the hard limits in DISPATCH-R216D2.md and the tools budget. You may only end this turn by writing the gate and waiting in codex-wait-inbox.sh, or by writing [BLOCKED].

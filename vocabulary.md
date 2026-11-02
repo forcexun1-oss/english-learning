@@ -26675,3 +26675,4 @@
 - 2026-11-02 10:42 — In English, 'update to the latest version' is the standard phrasing for software updates.
 - 2026-11-02 10:51 — Use 'the latest version' to refer to the most recent build. 'Compiled' is correct when referring to turning source code into an executable.
 - 2026-11-02 10:51 — In English, 'continue' is a verb, so use it with a subject: 'Please continue' or 'Continue' as a command.
+- 2026-11-02 11:07 — Use 'stratum rotation bug' for 轮转 bug; 'hard limits' for 硬边界; 'budget constraints' for 预算约束.
