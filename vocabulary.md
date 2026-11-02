@@ -26674,3 +26674,4 @@
 - 2026-11-02 10:39 — In English, "kill" is the standard verb for terminating a process or program. Use "kill" when referring to stopping a background process or service.
 - 2026-11-02 10:42 — In English, 'update to the latest version' is the standard phrasing for software updates.
 - 2026-11-02 10:51 — Use 'the latest version' to refer to the most recent build. 'Compiled' is correct when referring to turning source code into an executable.
+- 2026-11-02 10:51 — In English, 'continue' is a verb, so use it with a subject: 'Please continue' or 'Continue' as a command.
