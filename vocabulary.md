@@ -26670,3 +26670,4 @@
 - 2026-11-01 19:33 — Use 'almost full' or 'nearly full' instead of '快满' — '快' is too literal here.
 - 2026-11-01 19:37 — Use "completed" instead of "completed" — the word is spelled "completed".
 - 2026-11-01 19:40 — Use 'yourself' to emphasize that someone is doing something alone, and 'weren't you dispatched?' for a natural negative question.
+- 2026-11-02 10:37 — Continue is a natural verb here; in Chinese you might say 继续, which maps directly to continue in English.
