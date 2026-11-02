@@ -26671,3 +26671,4 @@
 - 2026-11-01 19:37 — Use "completed" instead of "completed" — the word is spelled "completed".
 - 2026-11-01 19:40 — Use 'yourself' to emphasize that someone is doing something alone, and 'weren't you dispatched?' for a natural negative question.
 - 2026-11-02 10:37 — Continue is a natural verb here; in Chinese you might say 继续, which maps directly to continue in English.
+- 2026-11-02 10:39 — In English, "kill" is the standard verb for terminating a process or program. Use "kill" when referring to stopping a background process or service.
