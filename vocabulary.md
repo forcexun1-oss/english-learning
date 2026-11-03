@@ -26977,3 +26977,4 @@
 - 2026-11-03 21:05 — Use 'base it on' for 根据什么做; 'making it up as he goes' captures 自己发挥 in a natural, conversational way.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:06 — In English, 'think carefully about' is more natural than 'think well about' when asking someone to consider something thoroughly.
