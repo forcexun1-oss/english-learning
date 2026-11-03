@@ -27417,3 +27417,4 @@
 - 2026-11-04 00:53 — Use the exact wording from the task notification; it is already idiomatic for a CLI/developer context.
 - 2026-11-04 00:56 — Use 'search for' when you want to find something by a specific description.
 - 2026-11-04 00:58 — 进展如何 is a casual way to ask about progress in English.
+- 2026-11-04 00:58 — In English, "quota" is a countable noun, so use "the quota" rather than "额度" directly.
