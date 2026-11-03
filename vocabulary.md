@@ -27381,7 +27381,10 @@
 >>>>>>> Stashed changes
 - 2026-11-04 00:32 — Use 'based on' to link a design to the action it informs.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 00:38 — Use the exact command name in quotes; "Re-arm" is the standard hyphenated form for this action.
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 00:39 — In English, we usually say 'open it' rather than '打开一下' literally; 'directly' or 'right away' conveys urgency.
+=======
+>>>>>>> Stashed changes
