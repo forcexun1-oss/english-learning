@@ -27408,3 +27408,4 @@
 - 2026-11-04 00:45 — Use "What's the point of...?" to express skepticism about the value of an action.
 - 2026-11-04 00:46 — Use 'previous conversation' instead of '刚才的那个' for a more natural English phrasing.
 - 2026-11-04 00:47 — Use 'look it up' for searching information; '查一下' is more naturally 'look it up' or 'search for'.
+- 2026-11-04 00:48 — Use 'review' as a verb followed by 'it' when referring to something already mentioned. '应该怎么做' is naturally 'what I should do' in this context.
