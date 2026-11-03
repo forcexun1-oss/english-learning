@@ -27668,3 +27668,4 @@
 - 2026-11-04 06:24 — Use the past participle "completed" rather than the present participle "completed" when describing a finished background process.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 06:26 — Use the past participle "completed" rather than "completed" — both are correct here, but "completed" is the standard phrasing for background tasks.
