@@ -27011,6 +27011,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 21:08 — This is already natural and idiomatic — no change needed.
 =======
 >>>>>>> Stashed changes
@@ -27079,3 +27080,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:46 — Use the past tense "completed" for finished background processes rather than "finished".
+=======
+>>>>>>> Stashed changes
