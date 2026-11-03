@@ -26683,3 +26683,4 @@
 - 2026-11-03 19:28 — In English, 'go and look' or 'go take a look' is more natural than 'go look' alone.
 - 2026-11-03 19:29 — Use 'walk through' to mean step-by-step tracing a process, and 'binding' for attaching/assigning a weapon to a character.
 - 2026-11-03 19:30 — Use 'have + person + base verb' to mean 'ask/let someone do something'.
+- 2026-11-03 19:36 — Use 'what are' for plural nouns like 'issues'; 'is' is for singular.
