@@ -27102,7 +27102,11 @@
 - 2026-11-03 21:47 — Use "completed" as the verb for a finished task; "completed (exit code 0)" is the standard way to report a successful background process.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 21:48 — The original is already idiomatic for a CLI/CI log message — no change needed.
+=======
+- 2026-11-03 21:48 — Use 'still needs discussion' to express that something requires further talk, and 'but don't cancel it' keeps the tone clear and polite.
+>>>>>>> Stashed changes
 =======
 - 2026-11-03 21:48 — Use 'still needs discussion' to express that something requires further talk, and 'but don't cancel it' keeps the tone clear and polite.
 >>>>>>> Stashed changes
