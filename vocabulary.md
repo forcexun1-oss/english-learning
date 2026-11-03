@@ -27360,3 +27360,4 @@
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
 - 2026-11-04 00:29 — In English, '开始干吧' is naturally rendered as 'Let's get started' rather than a literal 'Start doing it.'
+- 2026-11-04 00:30 — Use "completed" rather than "finished" when reporting background process exit status — it's the standard phrasing in CLI and CI output.
