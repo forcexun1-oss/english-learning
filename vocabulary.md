@@ -27200,3 +27200,4 @@
 =======
 - 2026-11-03 21:54 — Use 'completed' rather than 'finished' when reporting background process exit status — it's the standard phrasing in CLI and CI logs.
 >>>>>>> Stashed changes
+- 2026-11-03 22:09 — Use 'next' to introduce the next point in a list of considerations.
