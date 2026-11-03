@@ -26931,6 +26931,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 20:44 — Use 'approximate' or 'rough' when you want a ballpark figure rather than an exact number.
 - 2026-11-03 20:44 — No change needed — this is a standard system notification, not user-facing prose.
 =======
@@ -26951,3 +26952,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 20:50 — Use 'but' to contrast two clauses; 'other' should be 'else' here.
+=======
+>>>>>>> Stashed changes
