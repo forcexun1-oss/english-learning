@@ -26955,3 +26955,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 20:51 — Use the exact command name in quotes for clarity.
+- 2026-11-03 20:52 — Use 'prevent errors from occurring' to express proactive error prevention in a process.
