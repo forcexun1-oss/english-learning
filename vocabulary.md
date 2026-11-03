@@ -26973,3 +26973,4 @@
 - 2026-11-03 21:04 — Use 'the one' to refer to a specific item already known to both speakers.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:05 — Use 'base it on' for 根据什么做; 'making it up as he goes' captures 自己发挥 in a natural, conversational way.
