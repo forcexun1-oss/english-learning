@@ -26923,5 +26923,8 @@
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
 - 2026-11-03 20:43 — Use "won't" for future predictions; "won't" is the standard contraction of "will not".
+<<<<<<< Updated upstream
 - 2026-11-03 20:44 — Use 'approximate' or 'rough' when you want a ballpark figure rather than an exact number.
 - 2026-11-03 20:44 — No change needed — this is a standard system notification, not user-facing prose.
+=======
+>>>>>>> Stashed changes
