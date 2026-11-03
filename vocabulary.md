@@ -26963,3 +26963,4 @@
 - 2026-11-03 20:53 — Use 'downstream process' for 后面的流程 in engineering contexts; 'redo the skeleton from scratch' is a natural way to say 重做骨骼直接就好了.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 20:54 — When describing body parts, use the plural form when referring to multiple items (e.g., 'fingers' instead of 'finger').
