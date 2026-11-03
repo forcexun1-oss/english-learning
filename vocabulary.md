@@ -27243,3 +27243,4 @@
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
 >>>>>>> Stashed changes
 - 2026-11-03 22:45 — Use "how far it has gotten" to ask about progress on a task.
+- 2026-11-03 22:47 — Use "move forward with" to mean advance or continue a task.
