@@ -27410,3 +27410,4 @@
 - 2026-11-04 00:47 — Use 'look it up' for searching information; '查一下' is more naturally 'look it up' or 'search for'.
 - 2026-11-04 00:48 — Use 'review' as a verb followed by 'it' when referring to something already mentioned. '应该怎么做' is naturally 'what I should do' in this context.
 - 2026-11-04 00:49 — Use haven't for present perfect when asking about something that hasn't happened up to now.
+- 2026-11-04 00:49 — Use 'right now' or 'currently' to sound more natural in English.
