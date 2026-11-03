@@ -27116,3 +27116,4 @@
 - 2026-11-03 21:48 — Use 'still needs discussion' to express that something requires further talk, and 'but don't cancel it' keeps the tone clear and polite.
 >>>>>>> Stashed changes
 - 2026-11-03 21:50 — Use 'start by + verb-ing' to describe the first step in a sequence.
+- 2026-11-03 21:50 — Use the past tense 'completed' for finished background processes; 'completed' is the standard phrasing in CLI and CI logs.
