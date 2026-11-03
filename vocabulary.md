@@ -26934,3 +26934,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 20:47 — Use 'replicate' for copying a scene's layout/style, and 'validate the workflow' for testing a pipeline end-to-end.
