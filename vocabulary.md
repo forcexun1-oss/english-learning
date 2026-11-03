@@ -26938,6 +26938,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 20:44 — Use 'approximate' or 'rough' when you want a ballpark figure rather than an exact number.
 - 2026-11-03 20:44 — No change needed — this is a standard system notification, not user-facing prose.
 =======
@@ -26979,5 +26980,7 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:06 — In English, 'think carefully about' is more natural than 'think well about' when asking someone to consider something thoroughly.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
