@@ -27412,3 +27412,4 @@
 - 2026-11-04 00:49 — Use haven't for present perfect when asking about something that hasn't happened up to now.
 - 2026-11-04 00:49 — Use 'right now' or 'currently' to sound more natural in English.
 - 2026-11-04 00:50 — Use "I've got" or "I've started" for work already in progress; "let someone else do it" sounds like you're handing it off rather than actively managing it.
+- 2026-11-04 00:50 — In English, '大杀阵' is not a standard term. If you mean a decisive or game-changing technique, use 'killer technique' or 'game-changer' instead.
