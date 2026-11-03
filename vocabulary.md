@@ -27262,3 +27262,4 @@
 - 2026-11-03 23:55 — Use 'setting up' for installing/configuring a library, and 'feasible' for asking whether something can work in practice.
 - 2026-11-03 23:56 — Use "it's" for short answers about a situation, and "what did you look at?" sounds natural in spoken English.
 - 2026-11-03 23:57 — Use "Did you" for past-tense yes/no questions in English.
+- 2026-11-03 23:57 — In English, we say "from [date]" rather than "on [date]" when referring to a message or file from a specific day.
