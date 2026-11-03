@@ -27459,6 +27459,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27485,6 +27486,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 01:16 — This is already idiomatic. No change needed.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
