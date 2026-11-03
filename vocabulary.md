@@ -27498,6 +27498,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27627,3 +27628,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 05:33 — Use the exact command name in quotes for clarity — "Watch stagger task outbox" reads as a single label.
+=======
+>>>>>>> Stashed changes
