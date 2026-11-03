@@ -26954,3 +26954,4 @@
 - 2026-11-03 20:50 — Use 'but' to contrast two clauses; 'other' should be 'else' here.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 20:51 — Use the exact command name in quotes for clarity.
