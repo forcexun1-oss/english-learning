@@ -26950,3 +26950,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 20:50 — Use 'but' to contrast two clauses; 'other' should be 'else' here.
