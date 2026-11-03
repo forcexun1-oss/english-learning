@@ -27394,3 +27394,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 00:42 — Use "handle" as a verb meaning to take care of something. "You handle the design" = 你负责设计。
