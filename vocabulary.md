@@ -27274,6 +27274,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 00:10 — "reset" here means the quota has been refreshed, so you can resume where you left off.
 =======
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
@@ -27283,6 +27284,9 @@
 >>>>>>> Stashed changes
 - 2026-11-04 00:11 — Use 'pick up where you left off' to mean resume a task; 'don't redo' is more natural than 'do not repeat' in informal dev chat.
 - 2026-11-04 00:11 — The original message is already natural and idiomatic for a CLI/developer context. No changes needed.
+=======
+- 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
+>>>>>>> Stashed changes
 =======
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
