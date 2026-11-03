@@ -27380,4 +27380,7 @@
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
 - 2026-11-04 00:32 — Use 'based on' to link a design to the action it informs.
+<<<<<<< Updated upstream
 - 2026-11-04 00:38 — Use the exact command name in quotes; "Re-arm" is the standard hyphenated form for this action.
+=======
+>>>>>>> Stashed changes
