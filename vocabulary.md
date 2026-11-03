@@ -26684,3 +26684,4 @@
 - 2026-11-03 19:29 — Use 'walk through' to mean step-by-step tracing a process, and 'binding' for attaching/assigning a weapon to a character.
 - 2026-11-03 19:30 — Use 'have + person + base verb' to mean 'ask/let someone do something'.
 - 2026-11-03 19:36 — Use 'what are' for plural nouns like 'issues'; 'is' is for singular.
+- 2026-11-03 19:36 — Use 'how far' or 'to what extent' when asking about progress; 'how much' is less natural here.
