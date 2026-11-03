@@ -27416,3 +27416,4 @@
 - 2026-11-04 00:52 — Use 'with that title' to specify the session's title; 'search for it' is the natural verb phrase.
 - 2026-11-04 00:53 — Use the exact wording from the task notification; it is already idiomatic for a CLI/developer context.
 - 2026-11-04 00:56 — Use 'search for' when you want to find something by a specific description.
+- 2026-11-04 00:58 — 进展如何 is a casual way to ask about progress in English.
