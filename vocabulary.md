@@ -26744,6 +26744,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 19:49 — In English, 'some' is the correct spelling; '些' is Chinese.
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
@@ -26915,6 +26916,9 @@
 >>>>>>> Stashed changes
 - 2026-11-03 20:42 — Use 'What does it reference?' to ask about the source or inspiration behind a model's output.
 - 2026-11-03 20:43 — Use "let's hold off" to politely suggest delaying a decision.
+=======
+- 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
+>>>>>>> Stashed changes
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
