@@ -27228,3 +27228,4 @@
 =======
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
 >>>>>>> Stashed changes
+- 2026-11-03 22:27 — Use the past participle 'completed' rather than 'run outbox' as a verb phrase — 'run outbox' reads like a noun phrase. In task notifications, 'completed' is the standard phrasing.
