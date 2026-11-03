@@ -27084,7 +27084,11 @@
 >>>>>>> Stashed changes
 - 2026-11-03 21:47 — Use the exact command string as-is; no need to rephrase technical paths or exit codes.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 21:48 — This is already idiomatic — no change needed.
+=======
+- 2026-11-03 21:47 — Use "completed" as the verb for a finished task; "completed (exit code 0)" is the standard way to report a successful background process.
+>>>>>>> Stashed changes
 =======
 - 2026-11-03 21:47 — Use "completed" as the verb for a finished task; "completed (exit code 0)" is the standard way to report a successful background process.
 >>>>>>> Stashed changes
