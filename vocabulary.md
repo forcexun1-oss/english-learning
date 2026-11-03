@@ -27618,3 +27618,4 @@
 - 2026-11-04 05:20 — Use "completed" for finished background tasks; "completed" is the standard status in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 05:28 — Use the exact command name in quotes for clarity in logs.
