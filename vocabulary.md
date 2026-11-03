@@ -26817,3 +26817,4 @@
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
+- 2026-11-03 20:17 — In English, 'worthwhile' is more natural than 'valuable' when asking whether an action is worth the effort.
