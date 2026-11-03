@@ -26840,3 +26840,4 @@
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
+- 2026-11-03 20:23 — Use 'Is there a way to...' for yes/no questions; '调研一下' → 'please look into that'.
