@@ -27422,7 +27422,11 @@
 - 2026-11-04 01:01 — Use 'send the mission/task to find out...' when instructing an agent to investigate something.
 - 2026-11-04 01:02 — Use 'a few' instead of '几个' when referring to countable items in English.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:03 — Use "based on" when referring to something being designed or built from a plan.
+=======
+- 2026-11-04 01:03 — Use "completed with exit code 0" instead of "completed (exit code 0)" — it reads more naturally in English.
+>>>>>>> Stashed changes
 =======
 - 2026-11-04 01:03 — Use "completed with exit code 0" instead of "completed (exit code 0)" — it reads more naturally in English.
 >>>>>>> Stashed changes
