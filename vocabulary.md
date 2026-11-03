@@ -27038,3 +27038,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:24 — Use "completed" rather than "finished" when reporting process exit status — it's the standard phrasing in CI/CD logs.
+- 2026-11-03 21:39 — Use "drag into" for forcing characters into a scene; "set the mood" is a natural collocation for atmosphere.
