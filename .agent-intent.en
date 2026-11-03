@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is there a way to generate a scene directly from a prompt? Unity or Three.js would both work — I saw that Three.js can do it, so please look into that.
+=======
+Use the new otter, and write the old otter normally.
+>>>>>>> Stashed changes
