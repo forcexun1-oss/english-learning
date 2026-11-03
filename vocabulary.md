@@ -27259,3 +27259,4 @@
 - 2026-11-03 23:20 — Use 'figure out' for exploring a solution, and 'join in' for joining an activity or process.
 - 2026-11-03 23:20 — Use 'at first' for early-stage limits, and 'fully open' to describe a system with no restrictions.
 - 2026-11-03 23:50 — Use 'drift off course' to describe going off-topic, and 'minor enemies' for small/weak foes.
+- 2026-11-03 23:55 — Use 'setting up' for installing/configuring a library, and 'feasible' for asking whether something can work in practice.
