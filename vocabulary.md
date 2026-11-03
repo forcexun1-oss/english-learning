@@ -26850,3 +26850,4 @@
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
+- 2026-11-03 20:26 — Use "Can't" for rhetorical questions; "create scenes" is more natural than "do scenes".
