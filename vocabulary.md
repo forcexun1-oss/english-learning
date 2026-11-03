@@ -27414,3 +27414,4 @@
 - 2026-11-04 00:50 — Use "I've got" or "I've started" for work already in progress; "let someone else do it" sounds like you're handing it off rather than actively managing it.
 - 2026-11-04 00:50 — In English, '大杀阵' is not a standard term. If you mean a decisive or game-changing technique, use 'killer technique' or 'game-changer' instead.
 - 2026-11-04 00:52 — Use 'with that title' to specify the session's title; 'search for it' is the natural verb phrase.
+- 2026-11-04 00:53 — Use the exact wording from the task notification; it is already idiomatic for a CLI/developer context.
