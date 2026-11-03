@@ -26969,3 +26969,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:02 — The original message is already idiomatic — no change needed.
+- 2026-11-03 21:04 — Use 'the one' to refer to a specific item already known to both speakers.
