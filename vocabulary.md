@@ -27266,3 +27266,4 @@
 - 2026-11-03 23:58 — Use 'how does ... sound?' to ask for someone's opinion on a plan or idea.
 - 2026-11-04 00:00 — Use 'on a 2D map' when referring to positioning items on a flat surface.
 - 2026-11-04 00:02 — Use 'just' to emphasize simplicity; 'background layer' is more natural than '底图' in UI/3D contexts.
+- 2026-11-04 00:02 — In English, '按这个路子干吧' is naturally rendered as 'Go with that approach' or 'Let's proceed that way.' Avoid literal translations like 'do it along this path.'
