@@ -27258,3 +27258,4 @@
 - 2026-11-03 23:18 — Use 'set up' for arranging formations or structures in games.
 - 2026-11-03 23:20 — Use 'figure out' for exploring a solution, and 'join in' for joining an activity or process.
 - 2026-11-03 23:20 — Use 'at first' for early-stage limits, and 'fully open' to describe a system with no restrictions.
+- 2026-11-03 23:50 — Use 'drift off course' to describe going off-topic, and 'minor enemies' for small/weak foes.
