@@ -27224,8 +27224,12 @@
 - 2026-11-03 21:54 — Use 'completed' rather than 'finished' when reporting background process exit status — it's the standard phrasing in CLI and CI logs.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 22:20 — Use the past participle "completed" rather than "finished" when reporting tool exit status — it's the standard phrasing in CLI and CI output.
 =======
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
 >>>>>>> Stashed changes
 - 2026-11-03 22:27 — Use the past participle 'completed' rather than 'run outbox' as a verb phrase — 'run outbox' reads like a noun phrase. In task notifications, 'completed' is the standard phrasing.
+=======
+- 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
+>>>>>>> Stashed changes
