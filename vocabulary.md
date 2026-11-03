@@ -26725,6 +26725,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 19:49 — In English, 'some' is the correct spelling; '些' is Chinese.
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
@@ -26828,6 +26829,9 @@
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
 - 2026-11-03 20:21 — Use 'can be used to' for ability/possibility; '弄' is too vague in English.
+=======
+- 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
+>>>>>>> Stashed changes
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
