@@ -27553,3 +27553,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 01:33 — Use "completed" rather than "finished" when reporting a background process exit status — it's the standard phrasing in CLI and CI logs.
