@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It needs to be fixed, or we should prevent errors from occurring in the pre-processing stage.
-=======
-I see — that approach probably won't yield great results.
->>>>>>> Stashed changes
+I mean, does fixing it matter for the downstream process, or would it be better to just redo the skeleton from scratch?

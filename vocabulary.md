@@ -26959,3 +26959,4 @@
 - 2026-11-03 20:52 — Use 'prevent errors from occurring' to express proactive error prevention in a process.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 20:53 — Use 'downstream process' for 后面的流程 in engineering contexts; 'redo the skeleton from scratch' is a natural way to say 重做骨骼直接就好了.
