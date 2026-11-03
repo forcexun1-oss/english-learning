@@ -27082,3 +27082,4 @@
 - 2026-11-03 21:46 — Use the past tense "completed" for finished background processes rather than "finished".
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:47 — Use the exact command string as-is; no need to rephrase technical paths or exit codes.
