@@ -27002,6 +27002,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 21:08 — This is already natural and idiomatic — no change needed.
 =======
 >>>>>>> Stashed changes
@@ -27046,3 +27047,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:40 — Use a dash or em dash to set off a clarifying phrase in English.
+=======
+>>>>>>> Stashed changes
