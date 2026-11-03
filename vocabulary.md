@@ -27136,4 +27136,8 @@
 =======
 - 2026-11-03 21:48 — Use 'still needs discussion' to express that something requires further talk, and 'but don't cancel it' keeps the tone clear and polite.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 - 2026-11-03 21:54 — This is already idiomatic — no change needed.
+=======
+- 2026-11-03 21:54 — Use 'completed' rather than 'finished' when reporting background process exit status — it's the standard phrasing in CLI and CI logs.
+>>>>>>> Stashed changes
