@@ -27049,3 +27049,4 @@
 - 2026-11-03 21:40 — Use a dash or em dash to set off a clarifying phrase in English.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:40 — This is already idiomatic — no change needed.
