@@ -26688,3 +26688,4 @@
 - 2026-11-03 19:37 — Use "see" or "understand" for grasping how something works; "use" is fine when focusing on the action itself.
 - 2026-11-03 19:39 — Use "look" for appearance and "feel" for intuition. "I think" is more natural than "I feel" for opinions.
 - 2026-11-03 19:45 — Use 'free option' or 'free tier' when asking about pricing plans.
+- 2026-11-03 19:47 — Use 'assign' for tasks; '派' in this context means assigning work, not dispatching.
