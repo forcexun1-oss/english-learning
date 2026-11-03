@@ -27225,6 +27225,7 @@
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 22:20 — Use the past participle "completed" rather than "finished" when reporting tool exit status — it's the standard phrasing in CLI and CI output.
 =======
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
@@ -27234,3 +27235,6 @@
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
 >>>>>>> Stashed changes
 - 2026-11-03 22:29 — Use the exact command name in quotes when referring to a background process — it reads like a log entry, which is the natural style here.
+=======
+- 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
+>>>>>>> Stashed changes
