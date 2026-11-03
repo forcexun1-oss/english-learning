@@ -27418,3 +27418,4 @@
 - 2026-11-04 00:56 — Use 'search for' when you want to find something by a specific description.
 - 2026-11-04 00:58 — 进展如何 is a casual way to ask about progress in English.
 - 2026-11-04 00:58 — In English, "quota" is a countable noun, so use "the quota" rather than "额度" directly.
+- 2026-11-04 01:00 — Use 'zoom in' for tightening the shot and 'pull back' / 'wide shot' for moving away. '拉远' is naturally 'pull back' in film/animation contexts.
