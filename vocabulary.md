@@ -26689,3 +26689,4 @@
 - 2026-11-03 19:39 — Use "look" for appearance and "feel" for intuition. "I think" is more natural than "I feel" for opinions.
 - 2026-11-03 19:45 — Use 'free option' or 'free tier' when asking about pricing plans.
 - 2026-11-03 19:47 — Use 'assign' for tasks; '派' in this context means assigning work, not dispatching.
+- 2026-11-03 19:47 — Use 'one is... the other is...' to contrast two different approaches.
