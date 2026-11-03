@@ -26721,6 +26721,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 19:49 — In English, 'some' is the correct spelling; '些' is Chinese.
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
@@ -26810,6 +26811,9 @@
 >>>>>>> Stashed changes
 - 2026-11-03 20:14 — Use 'include' or 'cover' for skills/features that contain a part; '做特效的部分' → 'a VFX part'.
 - 2026-11-03 20:14 — Use the present perfect "has completed" when reporting a completed background task to a teammate.
+=======
+- 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
+>>>>>>> Stashed changes
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
