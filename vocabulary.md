@@ -27406,3 +27406,4 @@
 - 2026-11-04 00:45 — In English, '给我看' is naturally 'show me' or 'what are you showing me?' rather than a literal translation.
 - 2026-11-04 00:45 — Use "there's nothing to ..." to express that something isn't worth doing.
 - 2026-11-04 00:45 — Use "What's the point of...?" to express skepticism about the value of an action.
+- 2026-11-04 00:46 — Use 'previous conversation' instead of '刚才的那个' for a more natural English phrasing.
