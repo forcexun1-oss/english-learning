@@ -26985,3 +26985,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:08 — In English, "OK" is often replaced with "Got it" or "Understood" when confirming you've understood an instruction.
+- 2026-11-03 21:08 — Use "completed" rather than "finished" when a background process exits cleanly — it's the standard phrasing for exit-code-0 results.
