@@ -27411,3 +27411,4 @@
 - 2026-11-04 00:48 — Use 'review' as a verb followed by 'it' when referring to something already mentioned. '应该怎么做' is naturally 'what I should do' in this context.
 - 2026-11-04 00:49 — Use haven't for present perfect when asking about something that hasn't happened up to now.
 - 2026-11-04 00:49 — Use 'right now' or 'currently' to sound more natural in English.
+- 2026-11-04 00:50 — Use "I've got" or "I've started" for work already in progress; "let someone else do it" sounds like you're handing it off rather than actively managing it.
