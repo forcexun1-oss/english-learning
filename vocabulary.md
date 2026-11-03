@@ -27597,3 +27597,4 @@
 - 2026-11-04 01:45 — The original message is already natural and idiomatic for a developer context. No changes needed.
 - 2026-11-04 05:10 — The original phrasing is already natural and idiomatic for a developer context. No change needed.
 - 2026-11-04 05:11 — "do not" is the standard negative form for "do not repeat" — avoid "don't" in formal/technical writing.
+- 2026-11-04 05:13 — The original is already idiomatic — no change needed.
