@@ -27384,6 +27384,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 00:38 — Use the exact command name in quotes; "Re-arm" is the standard hyphenated form for this action.
 =======
 >>>>>>> Stashed changes
@@ -27397,3 +27398,5 @@
 - 2026-11-04 00:42 — Use "handle" as a verb meaning to take care of something. "You handle the design" = 你负责设计。
 - 2026-11-04 00:44 — Use "completed" instead of "completed" when describing a finished background process.
 - 2026-11-04 00:44 — In Chinese, 概念图 can mean a concept sketch, a mood board, or a reference image. In design/development contexts, 'concept image' or 'reference image' is more natural.
+=======
+>>>>>>> Stashed changes
