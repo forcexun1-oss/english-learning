@@ -27269,4 +27269,8 @@
 - 2026-11-04 00:02 — In English, '按这个路子干吧' is naturally rendered as 'Go with that approach' or 'Let's proceed that way.' Avoid literal translations like 'do it along this path.'
 - 2026-11-04 00:06 — Use 'like this' for 'this kind of thing'; 'reference' works as a verb here.
 - 2026-11-04 00:10 — Use 'could' for hypothetical ability; 'ultimate formation' sounds more natural than 'big kill formation'.
+<<<<<<< Updated upstream
 - 2026-11-04 00:10 — "reset" here means the quota has been refreshed, so you can resume where you left off.
+=======
+- 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
+>>>>>>> Stashed changes
