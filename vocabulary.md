@@ -26932,6 +26932,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 20:44 — Use 'approximate' or 'rough' when you want a ballpark figure rather than an exact number.
 - 2026-11-03 20:44 — No change needed — this is a standard system notification, not user-facing prose.
 =======
@@ -26956,3 +26957,5 @@
 >>>>>>> Stashed changes
 - 2026-11-03 20:51 — Use the exact command name in quotes for clarity.
 - 2026-11-03 20:52 — Use 'prevent errors from occurring' to express proactive error prevention in a process.
+=======
+>>>>>>> Stashed changes
