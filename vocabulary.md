@@ -27517,3 +27517,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 01:22 — Use "completed" rather than "finished" when reporting exit codes — it's the standard phrasing in CI/CD logs.
