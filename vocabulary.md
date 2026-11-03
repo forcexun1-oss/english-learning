@@ -27256,3 +27256,4 @@
 - 2026-11-03 23:15 — Use 'implement' or 'include' for features in games; 'do' is too vague here.
 - 2026-11-03 23:17 — Use 'sort of' to indicate a loose similarity rather than a precise match.
 - 2026-11-03 23:18 — Use 'set up' for arranging formations or structures in games.
+- 2026-11-03 23:20 — Use 'figure out' for exploring a solution, and 'join in' for joining an activity or process.
