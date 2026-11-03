@@ -27441,3 +27441,4 @@
 >>>>>>> Stashed changes
 - 2026-11-04 01:04 — In English, "you can see" is more natural than "you can look at" when referring to a visual result.
 - 2026-11-04 01:04 — Use "so" to connect cause and effect in English, e.g. "I want to see it so I can compare."
+- 2026-11-04 01:05 — In English, 'review' is a verb, so you need a subject and object: 'Please review it.' or 'Could you review it?'.
