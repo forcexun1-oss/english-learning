@@ -27420,3 +27420,4 @@
 - 2026-11-04 00:58 — In English, "quota" is a countable noun, so use "the quota" rather than "额度" directly.
 - 2026-11-04 01:00 — Use 'zoom in' for tightening the shot and 'pull back' / 'wide shot' for moving away. '拉远' is naturally 'pull back' in film/animation contexts.
 - 2026-11-04 01:01 — Use 'send the mission/task to find out...' when instructing an agent to investigate something.
+- 2026-11-04 01:02 — Use 'a few' instead of '几个' when referring to countable items in English.
