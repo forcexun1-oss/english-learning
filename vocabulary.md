@@ -26984,3 +26984,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:08 — In English, "OK" is often replaced with "Got it" or "Understood" when confirming you've understood an instruction.
