@@ -26936,6 +26936,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 20:44 — Use 'approximate' or 'rough' when you want a ballpark figure rather than an exact number.
 - 2026-11-03 20:44 — No change needed — this is a standard system notification, not user-facing prose.
 =======
@@ -26974,3 +26975,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:05 — Use 'base it on' for 根据什么做; 'making it up as he goes' captures 自己发挥 in a natural, conversational way.
+=======
+>>>>>>> Stashed changes
