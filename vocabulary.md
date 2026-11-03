@@ -27244,3 +27244,4 @@
 >>>>>>> Stashed changes
 - 2026-11-03 22:45 — Use "how far it has gotten" to ask about progress on a task.
 - 2026-11-03 22:47 — Use "move forward with" to mean advance or continue a task.
+- 2026-11-03 22:53 — Use "have someone do something" to delegate tasks. "Switch topics" is a natural way to change the subject.
