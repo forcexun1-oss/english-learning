@@ -27439,3 +27439,4 @@
 =======
 - 2026-11-04 01:03 — Use "completed with exit code 0" instead of "completed (exit code 0)" — it reads more naturally in English.
 >>>>>>> Stashed changes
+- 2026-11-04 01:04 — In English, "you can see" is more natural than "you can look at" when referring to a visual result.
