@@ -27126,3 +27126,4 @@
 - 2026-11-03 21:48 — Use 'still needs discussion' to express that something requires further talk, and 'but don't cancel it' keeps the tone clear and polite.
 >>>>>>> Stashed changes
 - 2026-11-03 21:50 — Use 'what' to introduce a question about content, and 'first' to signal priority in a sequence.
+- 2026-11-03 21:51 — Use the past tense 'completed' rather than 'complete' when describing a finished background process.
