@@ -27506,6 +27506,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27649,6 +27650,8 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 05:45 — Use the past tense "completed" rather than "completed" — both are correct here, but "completed" is the standard phrasing for CLI exit status messages.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
