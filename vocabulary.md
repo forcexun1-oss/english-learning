@@ -27354,3 +27354,4 @@
 =======
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
+- 2026-11-04 00:27 — When a background task finishes, use "completed" rather than "finished" — it's the standard phrasing for CLI/CI status lines.
