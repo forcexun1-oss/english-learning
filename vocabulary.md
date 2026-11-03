@@ -27641,3 +27641,4 @@
 - 2026-11-04 05:36 — Use the exact command name in quotes for clarity in logs.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 05:39 — Use the past tense "completed" rather than "completed" — both are correct here, but "completed" is the standard phrasing for task status in logs.
