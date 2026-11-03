@@ -1,1 +1,1 @@
-Let's first research formation design, then figure out how the partner AI can join in. We don't need to rush the AI part — since the formation isn't static, the AI will be part of it.
+But there will be constraints at first — like the general terrain — it's not fully open. A completely open design would be harder to implement.
