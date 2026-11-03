@@ -27633,3 +27633,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 05:34 — Use the exact command name in quotes for clarity — it reads like a log line.
