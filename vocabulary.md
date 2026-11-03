@@ -26685,3 +26685,4 @@
 - 2026-11-03 19:30 — Use 'have + person + base verb' to mean 'ask/let someone do something'.
 - 2026-11-03 19:36 — Use 'what are' for plural nouns like 'issues'; 'is' is for singular.
 - 2026-11-03 19:36 — Use 'how far' or 'to what extent' when asking about progress; 'how much' is less natural here.
+- 2026-11-03 19:37 — Use "see" or "understand" for grasping how something works; "use" is fine when focusing on the action itself.
