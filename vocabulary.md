@@ -26859,3 +26859,4 @@
 =======
 - 2026-11-03 19:49 — In English, 'new' and 'old' are natural adjectives here; 'new otter' and 'old otter' are clear and idiomatic.
 >>>>>>> Stashed changes
+- 2026-11-03 20:27 — When sharing a URL, it's clearer to say 'Here's the link to...' rather than just naming the product.
