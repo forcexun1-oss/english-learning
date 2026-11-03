@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["AI NPC的要讨论一下,整体设计是什么, 先做什么"]
+=======
+["我们之前关于AI NPC的方案,你能看到吗,完善吗,是不是可以先开干了,现在pi agent已经接了把,把 大模型换成 kapitsa当前启动的模型了吗, d1:2b-mxfp8 决策模型换成这个把ollama的", "AI 的我感觉还要讨论一下,你先暂停任务,别取消"]
+>>>>>>> Stashed changes
 =======
 ["我们之前关于AI NPC的方案,你能看到吗,完善吗,是不是可以先开干了,现在pi agent已经接了把,把 大模型换成 kapitsa当前启动的模型了吗, d1:2b-mxfp8 决策模型换成这个把ollama的", "AI 的我感觉还要讨论一下,你先暂停任务,别取消"]
 >>>>>>> Stashed changes
