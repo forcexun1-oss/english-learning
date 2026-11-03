@@ -27492,6 +27492,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27600,6 +27601,8 @@
 - 2026-11-04 05:10 — The original phrasing is already natural and idiomatic for a developer context. No change needed.
 - 2026-11-04 05:11 — "do not" is the standard negative form for "do not repeat" — avoid "don't" in formal/technical writing.
 - 2026-11-04 05:13 — The original is already idiomatic — no change needed.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
