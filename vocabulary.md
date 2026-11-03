@@ -27268,3 +27268,4 @@
 - 2026-11-04 00:02 — Use 'just' to emphasize simplicity; 'background layer' is more natural than '底图' in UI/3D contexts.
 - 2026-11-04 00:02 — In English, '按这个路子干吧' is naturally rendered as 'Go with that approach' or 'Let's proceed that way.' Avoid literal translations like 'do it along this path.'
 - 2026-11-04 00:06 — Use 'like this' for 'this kind of thing'; 'reference' works as a verb here.
+- 2026-11-04 00:10 — Use 'could' for hypothetical ability; 'ultimate formation' sounds more natural than 'big kill formation'.
