@@ -27345,3 +27345,4 @@
 =======
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
+- 2026-11-04 00:26 — Use the exact command name in quotes for clarity; "slice run outbox" is the command, not a description.
