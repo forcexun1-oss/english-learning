@@ -27250,3 +27250,4 @@
 - 2026-11-03 22:19 — This is a system notification, not a message to rewrite. No correction needed.
 >>>>>>> Stashed changes
 - 2026-11-03 23:03 — Use "keep an eye on" to mean "pay attention to" in a natural, conversational way.
+- 2026-11-03 23:04 — Use 'ultimate formation' or 'ultimate skill' for 大杀阵; 'participate in' is more natural than '参与' in English.
