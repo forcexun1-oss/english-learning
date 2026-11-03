@@ -27026,3 +27026,4 @@
 - 2026-11-03 21:20 — No change needed — this is a standard completed-task notification.
 =======
 >>>>>>> Stashed changes
+- 2026-11-03 21:23 — Use "completed" rather than "finished" when reporting process exit status in logs.
