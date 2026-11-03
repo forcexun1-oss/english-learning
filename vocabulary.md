@@ -26681,3 +26681,4 @@
 - 2026-11-03 19:23 — Use 'fundamentally' to emphasize a core issue, and 'right now' for current state.
 - 2026-11-03 19:27 — Use 'take over' for '接手' when someone assumes responsibility. 'He' refers to Codex as an agent.
 - 2026-11-03 19:28 — In English, 'go and look' or 'go take a look' is more natural than 'go look' alone.
+- 2026-11-03 19:29 — Use 'walk through' to mean step-by-step tracing a process, and 'binding' for attaching/assigning a weapon to a character.
