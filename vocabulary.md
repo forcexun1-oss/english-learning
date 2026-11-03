@@ -26678,3 +26678,4 @@
 - 2026-11-02 11:07 — Use 'stratum rotation bug' for 轮转 bug; 'hard limits' for 硬边界; 'budget constraints' for 预算约束.
 - 2026-11-03 17:49 — Use "has exited" for a completed background process; "finished with" is more precise than "got" when listing exit conditions.
 - 2026-11-03 17:56 — The original was already idiomatic — no change needed.
+- 2026-11-03 19:23 — Use 'fundamentally' to emphasize a core issue, and 'right now' for current state.
