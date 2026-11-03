@@ -27404,3 +27404,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 00:45 — In English, '给我看' is naturally 'show me' or 'what are you showing me?' rather than a literal translation.
+- 2026-11-04 00:45 — Use "there's nothing to ..." to express that something isn't worth doing.
