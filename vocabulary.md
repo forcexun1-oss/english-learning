@@ -26997,6 +26997,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-03 21:08 — This is already natural and idiomatic — no change needed.
 =======
 >>>>>>> Stashed changes
@@ -27027,3 +27028,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:23 — Use "completed" rather than "finished" when reporting process exit status in logs.
+=======
+>>>>>>> Stashed changes
