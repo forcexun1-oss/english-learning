@@ -27421,4 +27421,8 @@
 - 2026-11-04 01:00 — Use 'zoom in' for tightening the shot and 'pull back' / 'wide shot' for moving away. '拉远' is naturally 'pull back' in film/animation contexts.
 - 2026-11-04 01:01 — Use 'send the mission/task to find out...' when instructing an agent to investigate something.
 - 2026-11-04 01:02 — Use 'a few' instead of '几个' when referring to countable items in English.
+<<<<<<< Updated upstream
 - 2026-11-04 01:03 — Use "based on" when referring to something being designed or built from a plan.
+=======
+- 2026-11-04 01:03 — Use "completed with exit code 0" instead of "completed (exit code 0)" — it reads more naturally in English.
+>>>>>>> Stashed changes
