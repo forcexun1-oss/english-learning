@@ -27265,3 +27265,4 @@
 - 2026-11-03 23:57 — In English, we say "from [date]" rather than "on [date]" when referring to a message or file from a specific day.
 - 2026-11-03 23:58 — Use 'how does ... sound?' to ask for someone's opinion on a plan or idea.
 - 2026-11-04 00:00 — Use 'on a 2D map' when referring to positioning items on a flat surface.
+- 2026-11-04 00:02 — Use 'just' to emphasize simplicity; 'background layer' is more natural than '底图' in UI/3D contexts.
