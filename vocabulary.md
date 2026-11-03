@@ -26692,3 +26692,4 @@
 - 2026-11-03 19:47 — Use 'one is... the other is...' to contrast two different approaches.
 - 2026-11-03 19:47 — Use 'follow the skill' or 'use the skill as-is' when you mean to follow the given instructions without extra steps.
 - 2026-11-03 19:48 — In English, 'new badger' is not a standard term. If you mean a new tool or model, say 'the new tool/model' instead.
+- 2026-11-03 19:49 — In English, 'some' is the correct spelling; '些' is Chinese.
