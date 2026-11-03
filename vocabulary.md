@@ -27251,3 +27251,4 @@
 >>>>>>> Stashed changes
 - 2026-11-03 23:03 — Use "keep an eye on" to mean "pay attention to" in a natural, conversational way.
 - 2026-11-03 23:04 — Use 'ultimate formation' or 'ultimate skill' for 大杀阵; 'participate in' is more natural than '参与' in English.
+- 2026-11-03 23:10 — Use 'turn it around' or 'flip it' to mean reversing a concept. '大杀阵' is best rendered as 'big formation' or 'kill zone' in a cinematic context.
