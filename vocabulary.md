@@ -27626,3 +27626,4 @@
 - 2026-11-04 05:32 — Use "completed" rather than "completed" when describing a finished background process — both are correct, but "completed" is the standard past participle in this context.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 05:33 — Use the exact command name in quotes for clarity — "Watch stagger task outbox" reads as a single label.
