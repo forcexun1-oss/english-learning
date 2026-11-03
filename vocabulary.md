@@ -27000,3 +27000,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-03 21:11 — Use 'swap out' when replacing one component with another in technical contexts.
+- 2026-11-03 21:14 — Use 'Can you...' for asking about ability/permission, and 'Do you know how to...' for asking about knowledge/method.
