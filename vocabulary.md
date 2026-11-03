@@ -27270,7 +27270,11 @@
 - 2026-11-04 00:06 — Use 'like this' for 'this kind of thing'; 'reference' works as a verb here.
 - 2026-11-04 00:10 — Use 'could' for hypothetical ability; 'ultimate formation' sounds more natural than 'big kill formation'.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 00:10 — "reset" here means the quota has been refreshed, so you can resume where you left off.
+=======
+- 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
+>>>>>>> Stashed changes
 =======
 - 2026-11-04 00:10 — Use "quota" for API rate/usage limits rather than "usage limit".
 >>>>>>> Stashed changes
