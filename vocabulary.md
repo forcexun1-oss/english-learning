@@ -27527,6 +27527,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27740,3 +27741,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 10:23 — In English, 'go on' is a complete imperative; 'go on' without an object is fine, but 'Go on.' with a period is the standard written form.
+=======
+>>>>>>> Stashed changes
