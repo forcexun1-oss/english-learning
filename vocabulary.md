@@ -27735,3 +27735,4 @@
 - 2026-11-04 10:14 — Use 'because' to give a reason, and 'or' to offer alternatives in one question.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:17 — In English, 'continue' is a verb, so '继续吧' is naturally 'Let's continue.' or 'Go on.'
