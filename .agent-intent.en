@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Are all the preliminary training tasks completed, and we're just waiting to start training?
-=======
-If there's a problem, just fix it directly.
->>>>>>> Stashed changes
+Separate the two tasks: use the new environment only for performance testing. If performance doesn't improve at all, drop it. Training preparation is separate from that—go prepare for training.

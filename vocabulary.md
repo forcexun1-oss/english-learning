@@ -27748,3 +27748,4 @@
 - 2026-11-04 11:06 — Use 'preliminary' or 'preparatory' for early-stage work; '开跑' is colloquial — 'start training' is clearer in technical English.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 11:11 — Use 'separate' as a verb to mean keep things apart; 'drop it' is a natural way to say give up on something.
