@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-<task-notification>
-<task-id>bvhwgtinn</task-id>
-<tool-use-id>toolu_bdrk_016NNG16ZiCsiobWTzsNpwzP</tool-use-id>
-<output-file>/private/tmp/claude-501/-Users-youxun-project-edgeAgent/061a6d61-caf1-417b-aaeb-734fe5dddcd5/tasks/bvhwgtinn.output</output-file>
-<status>completed</status>
-<summary>Background command "cd /Users/youxun/project/edgeAgent-r216; EV=docs/proposals/evidence/toolcall-lora-trial-r214; ~/.claude/bin/codex-watch.sh $(cat /tmp/r216/t6.pid) $(cat /tmp/r216/t6.sid) $PWD/$EV/r216/rephrase 1800 900 </dev/null 2>&1 | tail -10" completed (exit code 0)</summary>
-</task-notification>
-=======
-If there's a problem, just fix it directly.
->>>>>>> Stashed changes
+LoRA training is similar to full model training in principle, but the key difference is that most layers are frozen and only the low-rank adaptation matrices are updated. It's not reinforcement learning — it's still supervised fine-tuning on a modified architecture.
