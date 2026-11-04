@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-It's slow because the training is running on CPU, which is much slower than GPU. Also, the model is being loaded and processed in Python, which adds overhead.
-=======
-If there's a problem, just fix it directly.
->>>>>>> Stashed changes
+I meant the data preparation task.

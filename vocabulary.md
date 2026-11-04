@@ -27699,3 +27699,4 @@
 - 2026-11-04 09:55 — Use 'because' to explain a cause. 'Why' questions are answered with 'because...'
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:57 — Use "I meant" to clarify what you were referring to.
