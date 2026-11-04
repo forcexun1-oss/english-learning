@@ -27672,3 +27672,4 @@
 - 2026-11-04 06:26 — Use the past participle "completed" rather than "completed" — both are correct here, but "completed" is the standard phrasing for background tasks.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:12 — In English, 'continue' is a verb, so use it with a subject like 'I will continue' or as an imperative 'Continue.'
