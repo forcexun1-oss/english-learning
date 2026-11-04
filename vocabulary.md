@@ -27719,3 +27719,4 @@
 - 2026-11-04 10:06 — Use 'push to Git' or 'push to the remote repository' when referring to sending local commits to GitHub/GitLab.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:07 — Use "anything else" to ask about additional items. "没完成" → "hasn't been completed" (present perfect passive).
