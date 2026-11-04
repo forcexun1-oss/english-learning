@@ -27695,3 +27695,4 @@
 - 2026-11-04 09:48 — Use 'VRAM' (video RAM) when talking about GPU memory, not '显存' translated literally.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:55 — Use 'because' to explain a cause. 'Why' questions are answered with 'because...'
