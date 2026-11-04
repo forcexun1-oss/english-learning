@@ -27739,3 +27739,4 @@
 - 2026-11-04 10:17 — In English, 'continue' is a verb, so '继续吧' is naturally 'Let's continue.' or 'Go on.'
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:23 — In English, 'go on' is a complete imperative; 'go on' without an object is fine, but 'Go on.' with a period is the standard written form.
