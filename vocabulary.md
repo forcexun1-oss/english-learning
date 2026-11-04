@@ -27723,3 +27723,4 @@
 - 2026-11-04 10:07 — Use "anything else" to ask about additional items. "没完成" → "hasn't been completed" (present perfect passive).
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:10 — Use 'unmerged' as an adjective before 'work' — it's the standard term for changes that haven't been integrated into the main branch.
