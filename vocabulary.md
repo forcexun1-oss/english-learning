@@ -27691,3 +27691,4 @@
 - 2026-11-04 09:40 — Use 'general-purpose' or 'generic' instead of '通用方案' — '通用' in technical English usually maps to 'general-purpose' or 'off-the-shelf'.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:48 — Use 'VRAM' (video RAM) when talking about GPU memory, not '显存' translated literally.
