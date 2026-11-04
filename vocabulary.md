@@ -27703,3 +27703,4 @@
 - 2026-11-04 09:57 — Use "I meant" to clarify what you were referring to.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:58 — Use 'Have we...?' for present-perfect questions about completed actions.
