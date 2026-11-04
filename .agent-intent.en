@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Have we upgraded PyTorch to the latest version?
-=======
-If there's a problem, just fix it directly.
->>>>>>> Stashed changes
+We should research how to improve training throughput. Everything here should be upgraded to the latest versions — PyTorch in particular has had many recent updates for MPS.

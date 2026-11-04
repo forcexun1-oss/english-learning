@@ -27707,3 +27707,4 @@
 - 2026-11-04 09:58 — Use 'Have we...?' for present-perfect questions about completed actions.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:00 — Use 'throughput' for 提数/提效 in training contexts; 'improve' or 'boost' are also natural.
