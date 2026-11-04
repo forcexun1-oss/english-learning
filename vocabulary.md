@@ -27744,3 +27744,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 11:05 — Use 'set up' for environments/configurations; 'build' is more for physical or large-scale systems.
+- 2026-11-04 11:06 — Use 'preliminary' or 'preparatory' for early-stage work; '开跑' is colloquial — 'start training' is clearer in technical English.
