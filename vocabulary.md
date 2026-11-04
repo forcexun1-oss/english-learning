@@ -27673,3 +27673,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 09:12 — In English, 'continue' is a verb, so use it with a subject like 'I will continue' or as an imperative 'Continue.'
+- 2026-11-04 09:13 — In English, 'need' is a modal-like verb here, so the question form is 'Do you need...?' rather than '你会需要...?'.
