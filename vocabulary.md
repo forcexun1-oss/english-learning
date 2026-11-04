@@ -27528,6 +27528,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-04 01:06 — Use 'take it from here' to mean 'continue from this point.' 'Assign the tasks' is more natural than 'dispatch' in a team context.
 =======
 >>>>>>> Stashed changes
@@ -27745,3 +27746,5 @@
 >>>>>>> Stashed changes
 - 2026-11-04 11:05 — Use 'set up' for environments/configurations; 'build' is more for physical or large-scale systems.
 - 2026-11-04 11:06 — Use 'preliminary' or 'preparatory' for early-stage work; '开跑' is colloquial — 'start training' is clearer in technical English.
+=======
+>>>>>>> Stashed changes
