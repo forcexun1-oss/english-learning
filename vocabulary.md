@@ -27743,3 +27743,4 @@
 - 2026-11-04 10:23 — In English, 'go on' is a complete imperative; 'go on' without an object is fine, but 'Go on.' with a period is the standard written form.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 11:05 — Use 'set up' for environments/configurations; 'build' is more for physical or large-scale systems.
