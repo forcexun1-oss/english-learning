@@ -27687,3 +27687,4 @@
 - 2026-11-04 09:38 — Use 'provided by' for something given to you, and 'find' for something you locate or discover.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:40 — Use 'general-purpose' or 'generic' instead of '通用方案' — '通用' in technical English usually maps to 'general-purpose' or 'off-the-shelf'.
