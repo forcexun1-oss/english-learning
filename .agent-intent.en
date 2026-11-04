@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-LoRA training is similar to full model training in principle, but the key difference is that most layers are frozen and only the low-rank adaptation matrices are updated. It's not reinforcement learning — it's still supervised fine-tuning on a modified architecture.
-=======
-If there's a problem, just fix it directly.
->>>>>>> Stashed changes
+Is this training process provided by Rockchip, or did we find it ourselves?

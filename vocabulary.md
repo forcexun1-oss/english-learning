@@ -27683,3 +27683,4 @@
 - 2026-11-04 09:31 — LoRA = Low-Rank Adaptation. 'Frozen' means their weights are not updated during training.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 09:38 — Use 'provided by' for something given to you, and 'find' for something you locate or discover.
