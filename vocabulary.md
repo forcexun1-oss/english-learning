@@ -27727,3 +27727,4 @@
 - 2026-11-04 10:10 — Use 'unmerged' as an adjective before 'work' — it's the standard term for changes that haven't been integrated into the main branch.
 =======
 >>>>>>> Stashed changes
+- 2026-11-04 10:11 — Use 'where' to ask about the source or location of a problem, and 'why' for the reason.
