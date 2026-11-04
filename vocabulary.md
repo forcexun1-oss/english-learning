@@ -27749,3 +27749,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-04 11:11 — Use 'separate' as a verb to mean keep things apart; 'drop it' is a natural way to say give up on something.
+- 2026-11-04 11:12 — In English, 'kill' is too informal for processes; use 'terminate' or 'stop' when referring to processes or services.
