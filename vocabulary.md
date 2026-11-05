@@ -28018,3 +28018,4 @@
 - 2026-11-05 19:19 — Use 'Is ... the only thing left?' to ask whether anything else remains.
 - 2026-11-05 19:21 — Use 'two-handed' (not 'double-handed') when referring to weapons or tools held with both hands.
 - 2026-11-05 19:24 — Use 'keep track of' for remembering details, and 'run through' for executing a process step by step.
+- 2026-11-05 19:24 — Use 'file' for a single document and 'folder' for a directory.
