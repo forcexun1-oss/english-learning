@@ -27992,3 +27992,4 @@
 - 2026-11-05 16:37 — Use "Can" for yes/no questions about capability; "8 GB" is the standard way to write VRAM size.
 - 2026-11-05 16:38 — Use 'fine-tuning' for adapting an existing model; 'training data' is the standard term for the dataset used to train or fine-tune.
 - 2026-11-05 16:40 — Use "What if..." to ask about a hypothetical situation. "Voice" is the natural word for a speaker's tone/color in speech synthesis.
+- 2026-11-05 16:42 — Use "Hasn't anyone..." to ask whether something should already exist; "there should be plenty" sounds natural for expressing expected abundance.
