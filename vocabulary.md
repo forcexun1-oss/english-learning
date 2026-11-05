@@ -28366,4 +28366,8 @@
 - 2026-11-05 23:07 — Use 'as a reference' rather than '做参考' — in English, 'as' introduces the role or function something serves.
 - 2026-11-05 23:09 — Use 'status update' or 'supplement' when adding new info to a milestone; 'Copy From Other Avatar' is a proper noun here, so keep it quoted.
 - 2026-11-05 23:09 — Use 'minutes' instead of 'm' for clarity in written logs; 'keep watching' is more idiomatic than 'need the watch'.
+<<<<<<< Updated upstream
 - 2026-11-05 23:10 — No change needed — this is already idiomatic for a CLI/agent log entry.
+=======
+- 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
+>>>>>>> Stashed changes
