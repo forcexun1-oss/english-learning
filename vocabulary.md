@@ -28466,3 +28466,4 @@
 - 2026-11-05 23:41 — Already idiomatic — no change needed.
 - 2026-11-05 23:47 — Already idiomatic — no change needed.
 - 2026-11-05 23:47 — Use 'is done' or 'completed' for finished background tasks; 'is still not fully complete' is more precise than '不全'.
+- 2026-11-05 23:49 — Use "open" for files or windows; "launch" is for starting a process or command.
