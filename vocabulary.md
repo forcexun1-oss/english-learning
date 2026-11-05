@@ -28328,6 +28328,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 22:39 — Use "Worker exited" as a concise status line; it reads naturally in logs and issue comments.
 =======
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
@@ -28340,6 +28341,9 @@
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
 - 2026-11-05 22:41 — Use "completed" rather than "finished" when reporting background task exit status — it's the standard phrasing in CLI and CI/CD tooling.
+=======
+- 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
+>>>>>>> Stashed changes
 =======
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
