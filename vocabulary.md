@@ -28042,3 +28042,4 @@
 - 2026-11-05 20:31 — Use 'Are there...' for yes/no questions about existence.
 - 2026-11-05 20:31 — Use "reproduce" for verifying a reported issue yourself, and "take the list at face value" to warn against accepting claims without checking.
 - 2026-11-05 20:32 — In English, "夸张点都行" is naturally rendered as "feel free to exaggerate" or "go over the top." "不要一点点那种" means "nothing subtle/understated." Keep the tone casual and direct.
+- 2026-11-05 20:33 — In English, 'try' is often used with 'give it a' to sound natural, e.g., 'Give it a try.'
