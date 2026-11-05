@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Final verification complete: both ZIP/FBX files are present and extracted; manifest-check.txt shows PASS; result.md source evidence links updated to the AI Animation list entry; this round's new tags are closed. No Unity or animation quality checks were performed.
-=======
-[MILESTONE] The result documentation is now complete: balance, quotes/deductions, both action names and durations, the range of confirmed existing actions, the 1-second submission duration, file paths, and evidence all have explicit confirmation status. After the first export, the balance was 3925, proving the export did not change the point balance. Next step: confirm and close this round's new tab, then verify the delivery directory and INBOX.
->>>>>>> Stashed changes
-=======
-[MILESTONE] The result documentation is now complete: balance, quotes/deductions, both action names and durations, the range of confirmed existing actions, the 1-second submission duration, file paths, and evidence all have explicit confirmation status. After the first export, the balance was 3925, proving the export did not change the point balance. Next step: confirm and close this round's new tab, then verify the delivery directory and INBOX.
->>>>>>> Stashed changes
+<task-notification>\n<task-id>b6hbcl3l9</task-id>\n<summary>Monitor event: "Tripo C2: log header and OUTBOX entries"</summary>\n<event>[MILESTONE] M1 clone completed. Cloned only Assets, Packages, ProjectSettings, Library with `cp -c -R`; removed the three requested lock files from clone. Copied attachment/FBX/hold SHA-256 exactly match blade-check/run-fixed baseline. Evidence: `m1-sword-files.txt`, `m1-hash-check.json`; source project untouched.</event>\nIf this event is something the user would act on now, send a PushNotification. Routine or benign output doesn't need one.\n</task-notification>
