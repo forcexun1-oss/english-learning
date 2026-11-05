@@ -28001,3 +28001,4 @@
 - 2026-11-05 16:50 — In English, "ignore" is the natural verb for dismissing something; "freeze" here refers to a frozen state or lock.
 - 2026-11-05 17:29 — Use 'HARD' to describe a task that must not be skipped, and 'schedule another 10 minutes' for unfinished items.
 - 2026-11-05 17:43 — Use 'spot-check' for line-level inspection and 'idempotency construction' for ensuring repeated runs produce the same result.
+- 2026-11-05 17:51 — Use 'spot-check' for sampling code changes, and 'mismatch' for consistency-check failures.
