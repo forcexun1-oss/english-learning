@@ -28248,3 +28248,4 @@
 =======
 - 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
 >>>>>>> Stashed changes
+- 2026-11-05 22:23 — Use 'confirmed' as a past participle in passive constructions, e.g. 'confirmed by dispatch instructions'.
