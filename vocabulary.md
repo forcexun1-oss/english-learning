@@ -28107,3 +28107,4 @@
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
+- 2026-11-05 21:38 — Use 'can't' for inability; 'check if' is the natural collocation for verifying a condition.
