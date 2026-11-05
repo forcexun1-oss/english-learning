@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Milestone: Pre-check complete — read the animation workspace flow, overall plan, and B1 record; output directory initially contains only worker.log; INBOX.md does not exist. Next step: open the target workspace in a new Chrome tab, record the balance and AX. Evidence: initial delivery directory listing is recorded in worker.log's scheduling log.
-=======
-Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
->>>>>>> Stashed changes
+Step 1 selected the existing One-Handed Melee Strike: list text confirmed, checkbox count 1/7; balance 3945. Export settings: FBX, Mixamo, skeleton on, in-place on, 2k. Source and duration still to be confirmed after export. Evidence: ax/01-before-existing-export.txt, ax/01a-selection.txt. Next: perform an export and check the balance.

@@ -28415,3 +28415,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:27 — Use 'still to be confirmed' instead of 'still need to be confirmed' for a more natural tone.
