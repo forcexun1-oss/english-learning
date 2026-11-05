@@ -28209,3 +28209,4 @@
 - 2026-11-05 22:10 — In English, 'method' refers to a function defined inside a class. 'Modify it directly' means changing the existing code rather than creating a new method.
 - 2026-11-05 22:12 — Use "completed" rather than "finished" when reporting background job status in logs.
 - 2026-11-05 22:12 — Use "worker exited" to describe a process ending; pair it with the log/output location so the next step is clear.
+- 2026-11-05 22:12 — Log lines are fine as-is; just keep them on separate lines for readability.
