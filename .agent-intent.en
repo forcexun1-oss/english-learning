@@ -1,1 +1,1 @@
-The result still isn't quite there yet.
+MILESTONE: Both ZIPs and their corresponding FBX files have been archived; each ZIP contains an FBX and its textures. file-check.txt saves the actual output of shasum, ls, and unzip -l. manifest.json has been written with the four paths and SHA-256 hashes, and manifest-check.txt verifies as PASS. Next steps: complete the result records, verify the remaining balance, confirm that only this session's tab is closed, and perform a final directory check.
