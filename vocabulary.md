@@ -28029,3 +28029,4 @@
 - 2026-11-05 19:57 — Use 'reproduce' for 复现 and 'tracked files' for 受跟踪文件; keep 'smoke/training' as a compound noun phrase.
 - 2026-11-05 20:00 — Use 'no' before a noun to express absence; 'anymore' signals the change from before.
 - 2026-11-05 20:01 — In English, 'combo' is a common gaming term for a sequence of attacks. 'Triple combo' clearly means three hits in a row.
+- 2026-11-05 20:01 — Use "slap together" to describe a rushed, low-effort design; it fits the casual, vivid tone here.
