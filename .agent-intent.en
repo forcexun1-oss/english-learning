@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitor event: "Tripo C1: log header and OUTBOX entries" — Milestone: Text to Motion clicked once; balance 3945→3925, deduction 20, matching Generate 20 quote; AX status is Generating... Evidence: ax/04-after-submit.txt. Next step: wait for result, up to 15 minutes; do not retry.
-=======
-Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
->>>>>>> Stashed changes
+Milestone: Generation completed and playback controls displayed on the canvas; new action list named "One-Handed Sword Slash", total page duration 0.96 seconds; balance remains 3925. No evaluation of action quality. Evidence: ax/05-after-complete.txt. Next step: export only the new action.

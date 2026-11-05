@@ -28435,3 +28435,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:36 — Use "balance remains" to indicate an unchanged value, and "export only" to specify a single selection.
