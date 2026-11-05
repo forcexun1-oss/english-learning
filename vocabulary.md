@@ -27978,3 +27978,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-05 15:15 — Use 'ps -p <pid>' to inspect a specific process; avoid pkill/pgrep when you need precise, per-process checks.
