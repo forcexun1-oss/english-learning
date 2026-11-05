@@ -28368,7 +28368,11 @@
 - 2026-11-05 23:09 — Use 'minutes' instead of 'm' for clarity in written logs; 'keep watching' is more idiomatic than 'need the watch'.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 23:10 — No change needed — this is already idiomatic for a CLI/agent log entry.
+=======
+- 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
+>>>>>>> Stashed changes
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes

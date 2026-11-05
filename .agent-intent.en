@@ -1,8 +1,12 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2-review
 model: gpt-6.1-sol
 provider: openai
+=======
+Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
+>>>>>>> Stashed changes
 =======
 Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
 >>>>>>> Stashed changes
