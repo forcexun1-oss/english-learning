@@ -1,1 +1,1 @@
-[MILESTONE] M4 melee capture finished using the same copied seven-view workflow and fixed `targetRatio`. The manifest records `characterId=player`, the Badger and sword node names, and the imported melee clip under `attack`; all requested phase/view images were generated. Ratio failures are retained in `seven-view-melee/check.json`. Evidence: `seven-view-melee/manifest.json`, `seven-view-melee/check.json`, `seven-view-melee/unity.log`. INBOX checked empty.
+Just run it directly and compare.
