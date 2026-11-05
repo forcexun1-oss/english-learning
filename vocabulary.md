@@ -28045,3 +28045,4 @@
 - 2026-11-05 20:33 — In English, 'try' is often used with 'give it a' to sound natural, e.g., 'Give it a try.'
 - 2026-11-05 20:34 — Use "is done" for completed background tasks; "is complete" is also fine.
 - 2026-11-05 20:38 — Use "completed" rather than "completed (exit code 0)" when the summary already states the exit code.
+- 2026-11-05 20:44 — Use 'finished' or 'completed' instead of 'exit' when describing a process ending normally.
