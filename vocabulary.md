@@ -28034,3 +28034,4 @@
 - 2026-11-05 20:08 — Use 'cutting it with the wrong edge' to describe making a mistake at a critical point. '刀刃上' is a vivid Chinese idiom — in English, 'at a critical moment' or 'on the wrong edge' works better.
 - 2026-11-05 20:14 — Use 'does' for questions about a singular subject (subagent). 'What model does...' is the natural phrasing.
 - 2026-11-05 20:15 — In game dev, 'VFX' (visual effects) is the standard term for attack animations, particle effects, and hit effects. '特效' translates to VFX or visual effects.
+- 2026-11-05 20:17 — In English, 'fix it' is a complete imperative; '快去修' is a direct, natural equivalent.
