@@ -28038,3 +28038,4 @@
 - 2026-11-05 20:20 — Use 'blade' for a sharp weapon design, and 'VFX' for visual effects in game dev.
 - 2026-11-05 20:20 — In English, 'continue?' or 'Shall we continue?' sounds more natural than '在继续吗' translated literally.
 - 2026-11-05 20:26 — Use 'is done' or 'has completed' for finished background tasks.
+- 2026-11-05 20:31 — Use 'handle' or 'work with' for dealing with assets; 'rig and animate' are standard 3D terms.
