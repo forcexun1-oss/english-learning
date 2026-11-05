@@ -28053,3 +28053,4 @@
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
 - 2026-11-05 20:50 — Use 'note the workflow' to introduce a process step; 'must be inspected beforehand' is more natural than '提前检查' in technical English.
+- 2026-11-05 20:50 — Use 'batches' for groups of parallel tasks, and 're-freeze' as the standard term for re-running the freeze step after changes.
