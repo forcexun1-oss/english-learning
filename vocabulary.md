@@ -28348,3 +28348,4 @@
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
 - 2026-11-05 22:52 — Use 'nail' as a verb meaning to execute something perfectly, e.g. 'Let's nail this level.'
+- 2026-11-05 22:53 — Use "is done" or "completed" instead of "is done" with a passive construction; keep the summary tight.
