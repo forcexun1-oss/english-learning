@@ -28015,3 +28015,4 @@
 - 2026-11-05 19:02 — Use 'special effect' for visual effects in games, and 'clean' to mean minimal or uncluttered.
 - 2026-11-05 19:06 — Use 'have you' for present perfect questions about recent actions.
 - 2026-11-05 19:11 — Use the past participle 'completed' rather than 'completed' as a verb form — here it's fine as a noun phrase, but in prose prefer 'has completed' or 'finished'.
+- 2026-11-05 19:19 — Use 'Is ... the only thing left?' to ask whether anything else remains.
