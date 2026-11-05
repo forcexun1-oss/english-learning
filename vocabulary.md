@@ -28044,3 +28044,4 @@
 - 2026-11-05 20:32 — In English, "夸张点都行" is naturally rendered as "feel free to exaggerate" or "go over the top." "不要一点点那种" means "nothing subtle/understated." Keep the tone casual and direct.
 - 2026-11-05 20:33 — In English, 'try' is often used with 'give it a' to sound natural, e.g., 'Give it a try.'
 - 2026-11-05 20:34 — Use "is done" for completed background tasks; "is complete" is also fine.
+- 2026-11-05 20:38 — Use "completed" rather than "completed (exit code 0)" when the summary already states the exit code.
