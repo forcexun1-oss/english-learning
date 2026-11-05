@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-a2
-model: gpt-6-luna
-provider: openai
-=======
-Add it to the workflow.
->>>>>>> Stashed changes
-=======
-Add it to the workflow.
->>>>>>> Stashed changes
+2026-11-05T[time pending] [MILESTONE] Read the workflow and the previous blockage record; will enter via the Tripo homepage link, with page state confirmed by screenshots. Evidence: existing inputs are docs/workflow/tripo-studio.md and stage-a/result.md; next step is to create a new tab and verify the homepage.
