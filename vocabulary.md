@@ -28289,4 +28289,8 @@
 - 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
 >>>>>>> Stashed changes
 - 2026-11-05 22:31 — Use 'archived' for saved records and 'dispatcher' for the component that coordinates actions.
+<<<<<<< Updated upstream
 - 2026-11-05 22:32 — No change needed — this is a standard tooling log line, not a message to rewrite.
+=======
+- 2026-11-05 22:32 — Use "worker process exited" instead of just "worker exited" for clarity in dev logs.
+>>>>>>> Stashed changes

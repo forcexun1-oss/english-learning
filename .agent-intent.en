@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b1
 model: gpt-6-luna
 provider: openai
+=======
+Worker process exited. The B1 milestone is complete: slash app at 0 points (per parent agent), export dialog initial setup and format list archived; no final export due to CUA `noWindowsAvailable` and keyboard inability to exit format list. Target tags closed with Cmd+W, Chrome returned to original Greatsword tab. Deliverables: result.md, ax/, empty raw/, file-check.txt, manifest.json, manifest-check.txt. Next step: once the dispatcher regains control of the export UI, continue without re-applying slash.
+>>>>>>> Stashed changes
