@@ -28364,3 +28364,4 @@
 - 2026-11-05 23:04 — Use "is complete" for milestones and keep file paths as-is. Avoid mixing Chinese punctuation with English prose.
 - 2026-11-05 23:06 — Use "audit session" rather than "audit" when referring to a dedicated review run — it's clearer and more idiomatic in dev workflows.
 - 2026-11-05 23:07 — Use 'as a reference' rather than '做参考' — in English, 'as' introduces the role or function something serves.
+- 2026-11-05 23:09 — Use 'status update' or 'supplement' when adding new info to a milestone; 'Copy From Other Avatar' is a proper noun here, so keep it quoted.
