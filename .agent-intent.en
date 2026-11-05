@@ -1,1 +1,1 @@
-Do you need to rerun the whole pipeline? Should you tell GPT the dimensions, or can they be scaled later?
+Should we standardize the pipeline? Should concept art exclude characters? What does the current concept art look like? When regenerating assets, do we pass the concept art as a reference? Should we tell GPT the target dimensions, or is scaling handled automatically?
