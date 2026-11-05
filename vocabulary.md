@@ -28009,3 +28009,4 @@
 - 2026-11-05 18:54 — Use 'should I...' to ask for advice. 'Not very cool in combat' sounds more natural than 'not handsome' when describing action feel.
 - 2026-11-05 18:54 — Use "two-handed" and "one-handed" as compound adjectives when comparing weapon styles.
 - 2026-11-05 18:55 — Use "two-handed" (with a hyphen) when it modifies a noun, like "two-handed hammer."
+- 2026-11-05 18:57 — Use "reproduce" for verifying a reported issue yourself, and "take at face value" for not blindly accepting a list.
