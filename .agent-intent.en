@@ -1,1 +1,1 @@
-Background command "Redispatch stage A to Codex with addendum" completed (exit code 0)
+Stage A retry stream ended — worker exited. Delivery files are on disk; manifest.json SHA-256s verified with `shasum -a 256 -c`, output saved to manifest-check.txt. INBOX last check empty.
