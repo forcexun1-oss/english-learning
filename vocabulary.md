@@ -28357,3 +28357,4 @@
 - 2026-11-05 22:54 — Use 'using' instead of '用的' when describing what tool/model is being used for a task.
 - 2026-11-05 22:55 — Use 'also' before the verb in English: 'The audit also uses Codex.'
 - 2026-11-05 22:55 — Use 'from now on' to indicate a new, ongoing practice.
+- 2026-11-05 22:56 — In English, "How's it going?" is a natural, casual way to ask about progress or status.
