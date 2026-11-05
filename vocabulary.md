@@ -28445,3 +28445,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:38 — 口语里 '差点意思' 常说 'not quite there yet' 或 'still a bit off'，比直译 'a little bit less' 自然。
