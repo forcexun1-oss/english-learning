@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Monitor event: "Tripo C1: log header and OUTBOX entries" — Milestone: Text to Motion clicked once; balance 3945→3925, deduction 20, matching Generate 20 quote; AX status is Generating... Evidence: ax/04-after-submit.txt. Next step: wait for result, up to 15 minutes; do not retry.
+=======
+Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
+>>>>>>> Stashed changes
