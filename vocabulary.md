@@ -28361,3 +28361,4 @@
 - 2026-11-05 23:00 — Use "with" for a tool or modifier applied to a process; "gate" here is the name of the gate/condition being applied.
 - 2026-11-05 23:01 — Use 'hand-crafting' to describe doing things manually instead of with tools.
 - 2026-11-05 23:03 — Use "completed" rather than "finished" when reporting background task exit status — it's the standard phrasing in CI/CD and task-notification contexts.
+- 2026-11-05 23:04 — Use "is complete" for milestones and keep file paths as-is. Avoid mixing Chinese punctuation with English prose.
