@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitor event: "Tripo B1: log header and OUTBOX entries" [GATE] Read and executed INBOX parent agent `[父代理 GO]`: balance 3945 unchanged at 0 points, slash status clear, allowed to proceed with steps 5–7. Keep prior exception records; next, only open the Export dialog and record full options and quotes, then export once the limit is met.
-=======
-The delivery documents have been written; the manifest is being generated and verified. Balance check: 3945→3945, and the Chrome tab has been closed. Evidence: result.md and ax/; next steps are to save the verification output and finish.
->>>>>>> Stashed changes
+Monitor event: "Tripo B1: log header and OUTBOX entries" — Milestone: The Export dialog's AX control has been read and saved; current initial values are GLB, 2k, Export Skeleton on, Number of Animations 0, with no price shown. Saved to ax/04-export-dialog.txt. Next: after recording the current state, inspect the format dropdown and animation selection items; confirm FBX/skeleton/animation and pricing before deciding on export.
