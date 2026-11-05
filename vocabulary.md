@@ -28023,3 +28023,4 @@
 - 2026-11-05 19:27 — Use 'clean and organized' to stress both tidiness and structure.
 - 2026-11-05 19:41 — Use 'continue with' or 'proceed with' when building on existing work; 'fast' is an adjective, 'quickly' is the adverb.
 - 2026-11-05 19:45 — In English, 'knife' is a small blade, while 'sword' is a longer bladed weapon. Use 'sword' for a melee weapon you wield with one or two hands.
+- 2026-11-05 19:46 — Use 'one-handed' as a compound adjective before a noun (e.g., one-handed sword).
