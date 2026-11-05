@@ -28025,3 +28025,4 @@
 - 2026-11-05 19:45 — In English, 'knife' is a small blade, while 'sword' is a longer bladed weapon. Use 'sword' for a melee weapon you wield with one or two hands.
 - 2026-11-05 19:46 — Use 'one-handed' as a compound adjective before a noun (e.g., one-handed sword).
 - 2026-11-05 19:49 — Use 'scripted' to mean 'implemented via scripts/automation' rather than 'scripted' as a verb.
+- 2026-11-05 19:53 — Use "won't" for future predictions and "as close to the original as possible" to express minimal change.
