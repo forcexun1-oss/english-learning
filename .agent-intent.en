@@ -1,1 +1,3 @@
-Stage A retry stream ended — worker exited. Delivery files are on disk; manifest.json SHA-256s verified with `shasum -a 256 -c`, output saved to manifest-check.txt. INBOX last check empty.
+workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b1
+model: gpt-6-luna
+provider: openai
