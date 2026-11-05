@@ -28238,9 +28238,13 @@
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 22:23 — Use the exact command label from the task config; avoid adding extra words like "with addendum" unless the task itself names it that way.
 - 2026-11-05 22:23 — Use "on disk" instead of "落盘"; "last check" is the standard phrasing for a final INBOX scan.
 - 2026-11-05 22:23 — No change needed — this is already idiomatic for a developer log.
+=======
+- 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
+>>>>>>> Stashed changes
 =======
 - 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
 >>>>>>> Stashed changes
