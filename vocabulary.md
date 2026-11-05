@@ -28040,3 +28040,4 @@
 - 2026-11-05 20:26 — Use 'is done' or 'has completed' for finished background tasks.
 - 2026-11-05 20:31 — Use 'handle' or 'work with' for dealing with assets; 'rig and animate' are standard 3D terms.
 - 2026-11-05 20:31 — Use 'Are there...' for yes/no questions about existence.
+- 2026-11-05 20:31 — Use "reproduce" for verifying a reported issue yourself, and "take the list at face value" to warn against accepting claims without checking.
