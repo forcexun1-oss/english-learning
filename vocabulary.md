@@ -28398,3 +28398,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:15 — Use 'do you need to' for yes/no questions about requirements; 'can they be scaled' is more natural than 'is scaling possible'.
