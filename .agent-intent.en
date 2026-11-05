@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Worker exited — B1b task is done. No further action needed.
-=======
-Background command "Resume B1 Codex session with export instructions" completed (exit code 0)
->>>>>>> Stashed changes
-=======
-Background command "Resume B1 Codex session with export instructions" completed (exit code 0)
->>>>>>> Stashed changes
+Monitor event: "Tripo B2: log header and OUTBOX entries" [MILESTONE] M1 exclusive project: confirm the baseline path is not open in Unity, and create an APFS copy using cp -c -R. Evidence: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/commands.txt; copy: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/copy

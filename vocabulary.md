@@ -28333,3 +28333,4 @@
 =======
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
+- 2026-11-05 22:40 — Use 'exclusive project' to convey 独占工程, and 'baseline path' for 基线路径. The phrase 'not open in Unity' keeps the technical meaning clear.
