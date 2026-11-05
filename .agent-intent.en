@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command "Dispatch independent B2 review after producer exits" completed (exit code 0)
+=======
+Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
+>>>>>>> Stashed changes

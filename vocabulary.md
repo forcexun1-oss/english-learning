@@ -28374,6 +28374,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 23:10 — No change needed — this is already idiomatic for a CLI/agent log entry.
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
@@ -28406,3 +28407,6 @@
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
 - 2026-11-05 23:24 — This is already natural and idiomatic — it reads like a standard CLI tool prompt. No changes needed.
+=======
+- 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
+>>>>>>> Stashed changes
