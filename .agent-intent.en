@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Before clicking the slash card, there is no quote or standalone submit button displayed, but after clicking, the page directly enters Retargeting (AX 99).
-=======
-The delivery documents have been written; the manifest is being generated and verified. Balance check: 3945→3945, and the Chrome tab has been closed. Evidence: result.md and ax/; next steps are to save the verification output and finish.
->>>>>>> Stashed changes
+Monitor event: "Tripo B1: log header and OUTBOX entries". [BLOCKED] Before opening the slash card, no quote or standalone submit button was displayed. After clicking, the page immediately went to Retargeting (AX 99%). A screenshot confirmed the canvas played slash, with a duration reading of 00'05''80/00'06''58, while the balance still showed 3945. Cannot prove that the quote or deduction before the app was consistent with the quote. Per the task "status after submission is unclear," stop here; do not proceed with Export/More/Rig/Retry, and do not resubmit. Evidence: ax/02-slash-card.txt, ax/03-after-card-click.txt. Next step: deliver the blockage record and close this tag.
