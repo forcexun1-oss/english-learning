@@ -27982,3 +27982,4 @@
 - 2026-11-05 15:45 — Use "completed" rather than "finished" for background/CLI commands — it's the standard term in task-notification schemas.
 - 2026-11-05 16:06 — Use 'ourselves' for reflexive emphasis, and 'open source' as a compound adjective when describing licenses or code.
 - 2026-11-05 16:10 — Use 'ready to start' for a natural, confident tone.
+- 2026-11-05 16:20 — Use 'no one has' for negative questions and 'there must be' to express a confident guess.
