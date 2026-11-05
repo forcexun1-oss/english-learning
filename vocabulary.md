@@ -28016,3 +28016,4 @@
 - 2026-11-05 19:06 — Use 'have you' for present perfect questions about recent actions.
 - 2026-11-05 19:11 — Use the past participle 'completed' rather than 'completed' as a verb form — here it's fine as a noun phrase, but in prose prefer 'has completed' or 'finished'.
 - 2026-11-05 19:19 — Use 'Is ... the only thing left?' to ask whether anything else remains.
+- 2026-11-05 19:21 — Use 'two-handed' (not 'double-handed') when referring to weapons or tools held with both hands.
