@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Monitor event: "Tripo C1: log header and OUTBOX entries" — Milestone: existing export completed and archived; ZIP name preserved, extraction directory created; page balance still shows 3945 after export; One-Handed Melee Strike timeline shows total duration 1.96 seconds. Evidence: ax/02-after-existing-export.txt; original ZIP and extracted FBX are in raw/melee-strike/. Next: fill in the fixed prompt before submission and check minimum duration and quote.
-=======
-Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
->>>>>>> Stashed changes
+Monitor event: "Tripo C1: log header and OUTBOX entries". [GATE] The fixed prompt is fully displayed in the input box, the original quote shows Generate 20 (20 credits), the duration displays as 1 second; balance is 3945. You can submit once within the dispatch limit. Evidence: ax/03-submit-before.txt. Next step: click Generate exactly once, then verify the credit deduction and task status.

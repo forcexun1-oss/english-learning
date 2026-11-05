@@ -28425,3 +28425,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:34 — Use "exactly once" to stress a single action, and "verify" for checking results.
