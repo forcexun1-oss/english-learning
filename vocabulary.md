@@ -28468,3 +28468,4 @@
 - 2026-11-05 23:47 — Use 'is done' or 'completed' for finished background tasks; 'is still not fully complete' is more precise than '不全'.
 - 2026-11-05 23:49 — Use "open" for files or windows; "launch" is for starting a process or command.
 - 2026-11-05 23:49 — Use a serial comma before 'and' in a list of long items for readability; also close the truncated filename (`cli...`) with the full name.
+- 2026-11-05 23:50 — Use 'look' for plural subjects, not 'is/are'.

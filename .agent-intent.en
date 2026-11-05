@@ -1,1 +1,1 @@
-[MILESTONE] M3 complete for both clips using the ArtLibrary Badger + AnimationMode.SampleAnimationClip route. Reports contain import metadata, root/Hips motion, 1/30 s right-hand position/speed, idle pose angle differences, blade edge/tip geometry, and per-sample edge_dot_velocity. Both zero-motion guards passed on real reports; the synthetic all-zero hand/tip fixture was rejected with exit 1. Evidence: `clip-report-cut1.json`, `clip-report-melee.json`, `motion-self-check-{cut1,melee}.json`, `cli`
+All three look similar, and the tails are cut off.
