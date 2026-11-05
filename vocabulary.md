@@ -28373,6 +28373,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 23:10 — No change needed — this is already idiomatic for a CLI/agent log entry.
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
@@ -28401,3 +28402,6 @@
 - 2026-11-05 23:15 — Use 'do you need to' for yes/no questions about requirements; 'can they be scaled' is more natural than 'is scaling possible'.
 - 2026-11-05 23:15 — Use 'exclude' instead of '不要人物' for clarity; 'reference-based generation' is the standard term for using a reference image in image generation.
 - 2026-11-05 23:16 — Use 'from' to indicate the starting point of a process; 'concept art' is the standard term for reference images in art pipelines.
+=======
+- 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
+>>>>>>> Stashed changes
