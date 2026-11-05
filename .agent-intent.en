@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Step 1 selected the existing One-Handed Melee Strike: list text confirmed, checkbox count 1/7; balance 3945. Export settings: FBX, Mixamo, skeleton on, in-place on, 2k. Source and duration still to be confirmed after export. Evidence: ax/01-before-existing-export.txt, ax/01a-selection.txt. Next: perform an export and check the balance.
-=======
-Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
->>>>>>> Stashed changes
+Monitor event: "Tripo C1: log header and OUTBOX entries" — Milestone: existing export completed and archived; ZIP name preserved, extraction directory created; page balance still shows 3945 after export; One-Handed Melee Strike timeline shows total duration 1.96 seconds. Evidence: ax/02-after-existing-export.txt; original ZIP and extracted FBX are in raw/melee-strike/. Next: fill in the fixed prompt before submission and check minimum duration and quote.
