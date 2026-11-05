@@ -28062,6 +28062,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
@@ -28123,3 +28124,6 @@
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
 - 2026-11-05 21:43 — Use "completed" as the past participle of "complete" rather than "completed" — both are correct here, but "completed" is the standard form in Codex task notifications.
+=======
+- 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
+>>>>>>> Stashed changes
