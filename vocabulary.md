@@ -28362,3 +28362,4 @@
 - 2026-11-05 23:01 — Use 'hand-crafting' to describe doing things manually instead of with tools.
 - 2026-11-05 23:03 — Use "completed" rather than "finished" when reporting background task exit status — it's the standard phrasing in CI/CD and task-notification contexts.
 - 2026-11-05 23:04 — Use "is complete" for milestones and keep file paths as-is. Avoid mixing Chinese punctuation with English prose.
+- 2026-11-05 23:06 — Use "audit session" rather than "audit" when referring to a dedicated review run — it's clearer and more idiomatic in dev workflows.

@@ -1,9 +1,1 @@
-Milestone M1 (exclusive engineering) is complete. Evidence: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/commands.txt; copy at /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/copy.
-
-Milestone M2 (motion import) is complete. Input hash matches; "Copy From Other Avatar" failed, but self-generated Avatar works with Humanoid. Evidence: .../stage-b2/avatar-copy-result.json, .../stage-b2/avatar-fallback.json.
-
-Milestone M3 (Unity curve and motion measurement) is complete; report uses ArtLibrary Badger sample values. Evidence: .../stage-b2/clip-report.json, .../stage-b2/seven-view-joints-01s/slash-joint-samples.json.
-
-Milestone M4 (state replacement, seven-view check, full-clip capture) is complete. attack -> slash; pose-ratio check failed per original config and was retained; H.264 video generated. Evidence: .../stage-b2/seven-view-capture/check.json, .../stage-b2/seven-view-30fps/check.json, two probe JSONs.
-
-Milestone M5 (delivery packaging) is complete. 1,778 images/videos passed SHA-256 verification; independent review manifest: .../stage-b2/review-manifest.json; result: .../stage-b2/result.md; reproducible command: .../stage-b2/commands.txt.
+Background command "Launch Codex audit session, attach guard, wait for exit" completed (exit code 0)
