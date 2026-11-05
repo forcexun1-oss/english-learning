@@ -28070,6 +28070,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
@@ -28160,3 +28161,6 @@
 - 2026-11-05 21:57 — Use 'implement' for coding/design tasks; 'edge-check' is a literal translation—consider 'boundary validation' or 'edge case check' if that's the intent.
 - 2026-11-05 21:58 — In English, "咋样了" is naturally "How's it going?" or "What's the status?". Avoid literal translations like "How?".
 - 2026-11-05 21:58 — Use 'a blank room' or 'a blank workspace' rather than '个空白房间' — in English, 'room' here means a workspace/canvas, not a physical room.
+=======
+- 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
+>>>>>>> Stashed changes
