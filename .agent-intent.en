@@ -1,1 +1,1 @@
-[MILESTONE] M2 imported both source FBXs as Humanoid with their own generated Avatars. Both Avatars are valid/humanoid, have animation curves; clips are non-looping at 24 fps and 0.9583 s / 1.9583 s. Output FBX hashes match stage-c1 manifest. Evidence: `import-report.json`, `input-hash-check.json`, `unity-import.log`.
+The palette and layer concept run is done. The output looks better in terms of hierarchy and color, but the first pass still isn't fully complete — we need to make sure the reference image is included from the start and lock in the size constraints.
