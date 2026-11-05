@@ -28358,3 +28358,4 @@
 - 2026-11-05 22:55 — Use 'also' before the verb in English: 'The audit also uses Codex.'
 - 2026-11-05 22:55 — Use 'from now on' to indicate a new, ongoing practice.
 - 2026-11-05 22:56 — In English, "How's it going?" is a natural, casual way to ask about progress or status.
+- 2026-11-05 23:00 — Use "with" for a tool or modifier applied to a process; "gate" here is the name of the gate/condition being applied.
