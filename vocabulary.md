@@ -28002,3 +28002,4 @@
 - 2026-11-05 17:29 — Use 'HARD' to describe a task that must not be skipped, and 'schedule another 10 minutes' for unfinished items.
 - 2026-11-05 17:43 — Use 'spot-check' for line-level inspection and 'idempotency construction' for ensuring repeated runs produce the same result.
 - 2026-11-05 17:51 — Use 'spot-check' for sampling code changes, and 'mismatch' for consistency-check failures.
+- 2026-11-05 18:03 — Use "reverse对照" → "reverse对照" is fine in Chinese context; in English, say "reverse对照" or "reverse check". Also "漏" → "leak" is correct for resource/leak checks.
