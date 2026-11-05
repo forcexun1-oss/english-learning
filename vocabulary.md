@@ -28279,3 +28279,4 @@
 =======
 - 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
 >>>>>>> Stashed changes
+- 2026-11-05 22:31 — Use concise technical English for status updates; keep tool names and file paths unchanged.
