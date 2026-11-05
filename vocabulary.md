@@ -28020,3 +28020,4 @@
 - 2026-11-05 19:24 — Use 'keep track of' for remembering details, and 'run through' for executing a process step by step.
 - 2026-11-05 19:24 — Use 'file' for a single document and 'folder' for a directory.
 - 2026-11-05 19:26 — Use 'under' for directory paths in English (e.g., 'under docs/workflow').
+- 2026-11-05 19:27 — Use 'clean and organized' to stress both tidiness and structure.
