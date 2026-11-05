@@ -27980,3 +27980,4 @@
 >>>>>>> Stashed changes
 - 2026-11-05 15:15 — Use 'ps -p <pid>' to inspect a specific process; avoid pkill/pgrep when you need precise, per-process checks.
 - 2026-11-05 15:45 — Use "completed" rather than "finished" for background/CLI commands — it's the standard term in task-notification schemas.
+- 2026-11-05 16:06 — Use 'ourselves' for reflexive emphasis, and 'open source' as a compound adjective when describing licenses or code.
