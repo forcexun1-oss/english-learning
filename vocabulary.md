@@ -28454,3 +28454,4 @@
 =======
 - 2026-11-05 23:40 — Use 'the' before specific nouns like 'first export' and 'delivery directory' for natural English flow.
 >>>>>>> Stashed changes
+- 2026-11-05 23:40 — Use 'shows PASS' for file statuses and 'updated to' when correcting links.
