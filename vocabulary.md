@@ -28317,3 +28317,4 @@
 =======
 - 2026-11-05 22:32 — Use "worker process exited" instead of just "worker exited" for clarity in dev logs.
 >>>>>>> Stashed changes
+- 2026-11-05 22:37 — Use 'Done' instead of '完成' for Chrome's download status, and 'move' (not '移入') for relocating files.
