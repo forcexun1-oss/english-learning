@@ -28060,6 +28060,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
@@ -28114,3 +28115,6 @@
 >>>>>>> Stashed changes
 - 2026-11-05 21:39 — In English, '做吧' is more naturally expressed as 'Go ahead and do it' or 'Get started' when encouraging someone to begin a task.
 - 2026-11-05 21:42 — No change needed — this is already idiomatic and clear.
+=======
+- 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
+>>>>>>> Stashed changes
