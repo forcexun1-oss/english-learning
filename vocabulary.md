@@ -28048,6 +28048,7 @@
 - 2026-11-05 20:44 — Use 'finished' or 'completed' instead of 'exit' when describing a process ending normally.
 - 2026-11-05 20:48 — Use 'have + object + base verb' (have someone do something) to delegate a task to another agent.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
@@ -28055,3 +28056,6 @@
 - 2026-11-05 20:50 — Use 'note the workflow' to introduce a process step; 'must be inspected beforehand' is more natural than '提前检查' in technical English.
 - 2026-11-05 20:50 — Use 'batches' for groups of parallel tasks, and 're-freeze' as the standard term for re-running the freeze step after changes.
 - 2026-11-05 20:54 — The original is already idiomatic — no change needed.
+=======
+- 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
+>>>>>>> Stashed changes
