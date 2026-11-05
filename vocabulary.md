@@ -28324,3 +28324,8 @@
 >>>>>>> Stashed changes
 - 2026-11-05 22:38 — Use present perfect (have been) for completed actions with present relevance, and keep CLI commands like unzip -l and shasum -a 256 unchanged.
 - 2026-11-05 22:38 — Use 'with Cmd+W' to describe the shortcut used, and 'returning to' for navigating back to an existing tab.
+<<<<<<< Updated upstream
+- 2026-11-05 22:39 — Use "Worker exited" as a concise status line; it reads naturally in logs and issue comments.
+=======
+- 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
+>>>>>>> Stashed changes
