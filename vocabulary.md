@@ -28312,3 +28312,4 @@
 =======
 - 2026-11-05 22:32 — Use "worker process exited" instead of just "worker exited" for clarity in dev logs.
 >>>>>>> Stashed changes
+- 2026-11-05 22:35 — Use 'not open' rather than 'not opened' when describing a UI control that hasn't been opened.
