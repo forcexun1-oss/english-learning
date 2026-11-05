@@ -28440,3 +28440,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:36 — Use "confirmed" as a past-tense verb and keep technical terms (FBX, Mixamo, 2k) unchanged.

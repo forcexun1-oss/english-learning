@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Milestone: Generation completed and playback controls displayed on the canvas; new action list named "One-Handed Sword Slash", total page duration 0.96 seconds; balance remains 3925. No evaluation of action quality. Evidence: ax/05-after-complete.txt. Next step: export only the new action.
-=======
-Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
->>>>>>> Stashed changes
+Milestone: Before the second export, confirmed only "One-Handed Sword Slash" is checked — count 1/8. Settings: FBX, Mixamo, skeleton on, in-place on, 2k. Balance: 3925. Evidence: ax/06-before-cut1-export.txt. Next step: run one export and verify the balance and download.
