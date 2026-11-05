@@ -27985,3 +27985,4 @@
 - 2026-11-05 16:20 — Use 'no one has' for negative questions and 'there must be' to express a confident guess.
 - 2026-11-05 16:23 — Use "Isn't that...?" for confirming something you expect to be true.
 - 2026-11-05 16:24 — Use 'What if...' to introduce a hypothetical scenario in English.
+- 2026-11-05 16:28 — Use "Can I run it on this computer?" for asking about local hardware compatibility.
