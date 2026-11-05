@@ -28326,6 +28326,7 @@
 - 2026-11-05 22:38 — Use 'with Cmd+W' to describe the shortcut used, and 'returning to' for navigating back to an existing tab.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 22:39 — Use "Worker exited" as a concise status line; it reads naturally in logs and issue comments.
 =======
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
@@ -28334,3 +28335,6 @@
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
 - 2026-11-05 22:40 — Use 'exclusive project' to convey 独占工程, and 'baseline path' for 基线路径. The phrase 'not open in Unity' keeps the technical meaning clear.
+=======
+- 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
+>>>>>>> Stashed changes
