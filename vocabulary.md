@@ -28242,6 +28242,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 22:23 — Use the exact command label from the task config; avoid adding extra words like "with addendum" unless the task itself names it that way.
 - 2026-11-05 22:23 — Use "on disk" instead of "落盘"; "last check" is the standard phrasing for a final INBOX scan.
 - 2026-11-05 22:23 — No change needed — this is already idiomatic for a developer log.
@@ -28265,3 +28266,6 @@
 - 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
 >>>>>>> Stashed changes
 - 2026-11-05 22:27 — Use "per" to mean "according to" in instructions, and keep technical terms like Retargeting, Export, More, Rig, Retry unchanged.
+=======
+- 2026-11-05 22:23 — Use 'delivery documents' or 'deliverables' instead of '交付文档' for a more natural technical tone.
+>>>>>>> Stashed changes
