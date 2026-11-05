@@ -28036,3 +28036,4 @@
 - 2026-11-05 20:15 — In game dev, 'VFX' (visual effects) is the standard term for attack animations, particle effects, and hit effects. '特效' translates to VFX or visual effects.
 - 2026-11-05 20:17 — In English, 'fix it' is a complete imperative; '快去修' is a direct, natural equivalent.
 - 2026-11-05 20:20 — Use 'blade' for a sharp weapon design, and 'VFX' for visual effects in game dev.
+- 2026-11-05 20:20 — In English, 'continue?' or 'Shall we continue?' sounds more natural than '在继续吗' translated literally.
