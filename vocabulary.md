@@ -28047,3 +28047,4 @@
 - 2026-11-05 20:38 — Use "completed" rather than "completed (exit code 0)" when the summary already states the exit code.
 - 2026-11-05 20:44 — Use 'finished' or 'completed' instead of 'exit' when describing a process ending normally.
 - 2026-11-05 20:48 — Use 'have + object + base verb' (have someone do something) to delegate a task to another agent.
+- 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
