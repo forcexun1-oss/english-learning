@@ -28084,6 +28084,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 20:49 — Use "completed" rather than "finished" when reporting background task exit status.
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
@@ -28228,3 +28229,6 @@
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
 - 2026-11-05 22:21 — 咋样 is casual; in English, 'How's it going?' or 'What's the latest?' works for both casual and work contexts.
+=======
+- 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
+>>>>>>> Stashed changes
