@@ -28207,3 +28207,4 @@
 - 2026-11-05 22:05 — Use 'blocked because' to state the cause, and 'reassign' for re-sending a task.
 - 2026-11-05 22:06 — Use present perfect ('have been written') for completed actions with present relevance, and 'returned empty' for a check that found nothing.
 - 2026-11-05 22:10 — In English, 'method' refers to a function defined inside a class. 'Modify it directly' means changing the existing code rather than creating a new method.
+- 2026-11-05 22:12 — Use "completed" rather than "finished" when reporting background job status in logs.
