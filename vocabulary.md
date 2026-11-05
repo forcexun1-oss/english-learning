@@ -28449,3 +28449,4 @@
 - 2026-11-05 23:38 — Use 'the corresponding FBX files' to clarify the relationship between ZIPs and FBX files.
 - 2026-11-05 23:39 — Use 'lacks' for missing qualities and 'dull' for colors that lack vibrancy.
 - 2026-11-05 23:39 — Use "not even" to emphasize that something is missing or lacking, especially when expressing disappointment.
+- 2026-11-05 23:40 — Use 'active in the foreground' to describe the tab that remains open and visible.
