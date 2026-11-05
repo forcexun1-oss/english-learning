@@ -27998,3 +27998,4 @@
 - 2026-11-05 16:46 — Use 'already' to show the action is complete, e.g., 'They already trained it.'
 - 2026-11-05 16:48 — Use 'Aren't these...' for rhetorical questions about existing items. 'Fine-tuned' is the standard term for adapting a pre-trained model.
 - 2026-11-05 16:49 — Use 'right away' or 'immediately' for urgency; 'quickly' is more neutral.
+- 2026-11-05 16:50 — In English, "ignore" is the natural verb for dismissing something; "freeze" here refers to a frozen state or lock.
