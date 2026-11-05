@@ -28447,3 +28447,4 @@
 >>>>>>> Stashed changes
 - 2026-11-05 23:38 — 口语里 '差点意思' 常说 'not quite there yet' 或 'still a bit off'，比直译 'a little bit less' 自然。
 - 2026-11-05 23:38 — Use 'the corresponding FBX files' to clarify the relationship between ZIPs and FBX files.
+- 2026-11-05 23:39 — Use 'lacks' for missing qualities and 'dull' for colors that lack vibrancy.
