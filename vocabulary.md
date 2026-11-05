@@ -28031,3 +28031,4 @@
 - 2026-11-05 20:01 — In English, 'combo' is a common gaming term for a sequence of attacks. 'Triple combo' clearly means three hits in a row.
 - 2026-11-05 20:01 — Use "slap together" to describe a rushed, low-effort design; it fits the casual, vivid tone here.
 - 2026-11-05 20:01 — In English, 'too' goes before the adjective: 'too simple', not 'simple too'.
+- 2026-11-05 20:08 — Use 'cutting it with the wrong edge' to describe making a mistake at a critical point. '刀刃上' is a vivid Chinese idiom — in English, 'at a critical moment' or 'on the wrong edge' works better.
