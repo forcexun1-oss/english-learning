@@ -28017,3 +28017,4 @@
 - 2026-11-05 19:11 — Use the past participle 'completed' rather than 'completed' as a verb form — here it's fine as a noun phrase, but in prose prefer 'has completed' or 'finished'.
 - 2026-11-05 19:19 — Use 'Is ... the only thing left?' to ask whether anything else remains.
 - 2026-11-05 19:21 — Use 'two-handed' (not 'double-handed') when referring to weapons or tools held with both hands.
+- 2026-11-05 19:24 — Use 'keep track of' for remembering details, and 'run through' for executing a process step by step.
