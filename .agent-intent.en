@@ -1,5 +1,1 @@
-[MILESTONE] M2 status update: Copy From Other Avatar returned invalid/non-Humanoid with no importer exception; self-generated Avatar is valid. Evidence: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/avatar-copy-result.json, avatar-copy-importer-diagnostics.json, avatar-fallback.json.
-
-[MILESTONE] M3 corrected and re-verified: first AnimationMode call was wrong, old zero-value records marked invalid; final 67 samples of 0.1s right-hand joints from the standard collector-driven Badger. Both failure self-check and negative-run failure were executed. Evidence: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/clip-report.json, clip-report.invalid.json, motion-self-check.json, motion-self-check-negative-run.json.
-
-[MILESTONE] M4 status update: pose check FAILED as-is; specific out-of-threshold samples listed in result.md, threshold unchanged. Character ID is player, resource mapping is Badger. Evidence: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2/seven-view-capture/check.json, prefab-identity.json.
+[Monitor expired after 30 minutes with 4 events delivered. Re-arm it if you still need to keep watching.]
