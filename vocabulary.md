@@ -28405,3 +28405,4 @@
 =======
 - 2026-11-05 23:10 — Use the active voice and drop the redundant 'completed' when the status field already says 'completed'.
 >>>>>>> Stashed changes
+- 2026-11-05 23:24 — This is already natural and idiomatic — it reads like a standard CLI tool prompt. No changes needed.
