@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Monitor event: "Tripo B1: log header and OUTBOX entries" [GATE] Read and executed INBOX parent agent `[父代理 GO]`: balance 3945 unchanged at 0 points, slash status clear, allowed to proceed with steps 5–7. Keep prior exception records; next, only open the Export dialog and record full options and quotes, then export once the limit is met.
+=======
+The delivery documents have been written; the manifest is being generated and verified. Balance check: 3945→3945, and the Chrome tab has been closed. Evidence: result.md and ax/; next steps are to save the verification output and finish.
+>>>>>>> Stashed changes
