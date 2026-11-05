@@ -28006,3 +28006,4 @@
 - 2026-11-05 18:44 — In English, '拍板' is 'decide' or 'make the call'; '用' here means 'use/apply'.
 - 2026-11-05 18:48 — When listing two items, "both" is the natural choice; "all" implies three or more.
 - 2026-11-05 18:51 — Use 'get working' or 'get working end-to-end' for 走通; 'nail down' for 先做好; 'figure out' for 应该怎么设计.
+- 2026-11-05 18:54 — Use 'should I...' to ask for advice. 'Not very cool in combat' sounds more natural than 'not handsome' when describing action feel.
