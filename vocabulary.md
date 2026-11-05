@@ -28004,3 +28004,4 @@
 - 2026-11-05 17:51 — Use 'spot-check' for sampling code changes, and 'mismatch' for consistency-check failures.
 - 2026-11-05 18:03 — Use "reverse对照" → "reverse对照" is fine in Chinese context; in English, say "reverse对照" or "reverse check". Also "漏" → "leak" is correct for resource/leak checks.
 - 2026-11-05 18:44 — In English, '拍板' is 'decide' or 'make the call'; '用' here means 'use/apply'.
+- 2026-11-05 18:48 — When listing two items, "both" is the natural choice; "all" implies three or more.
