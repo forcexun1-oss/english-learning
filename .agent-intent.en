@@ -1,1 +1,3 @@
-[Monitor expired after 30 minutes with 4 events delivered. Re-arm it if you still need to keep watching.]
+workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-b2-review
+model: gpt-6.1-sol
+provider: openai
