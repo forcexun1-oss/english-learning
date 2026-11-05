@@ -27989,3 +27989,4 @@
 - 2026-11-05 16:30 — Use 'will' for future predictions; 'how long' asks about duration.
 - 2026-11-05 16:35 — Use 'rent a GPU' for cloud GPU services like RunPod, Vast.ai, or AWS. 'Rent' is the natural verb for temporary cloud hardware.
 - 2026-11-05 16:36 — Use VRAM (video RAM) for GPU memory, not '显存' translated literally.
+- 2026-11-05 16:37 — Use "Can" for yes/no questions about capability; "8 GB" is the standard way to write VRAM size.
