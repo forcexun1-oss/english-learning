@@ -28026,3 +28026,4 @@
 - 2026-11-05 19:46 — Use 'one-handed' as a compound adjective before a noun (e.g., one-handed sword).
 - 2026-11-05 19:49 — Use 'scripted' to mean 'implemented via scripts/automation' rather than 'scripted' as a verb.
 - 2026-11-05 19:53 — Use "won't" for future predictions and "as close to the original as possible" to express minimal change.
+- 2026-11-05 19:57 — Use 'reproduce' for 复现 and 'tracked files' for 受跟踪文件; keep 'smoke/training' as a compound noun phrase.
