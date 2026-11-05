@@ -28450,8 +28450,12 @@
 - 2026-11-05 23:39 — Use 'lacks' for missing qualities and 'dull' for colors that lack vibrancy.
 - 2026-11-05 23:39 — Use "not even" to emphasize that something is missing or lacking, especially when expressing disappointment.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-05 23:40 — Use 'active in the foreground' to describe the tab that remains open and visible.
 =======
 - 2026-11-05 23:40 — Use 'the' before specific nouns like 'first export' and 'delivery directory' for natural English flow.
 >>>>>>> Stashed changes
 - 2026-11-05 23:40 — Use 'shows PASS' for file statuses and 'updated to' when correcting links.
+=======
+- 2026-11-05 23:40 — Use 'the' before specific nouns like 'first export' and 'delivery directory' for natural English flow.
+>>>>>>> Stashed changes
