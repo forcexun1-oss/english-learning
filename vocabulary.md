@@ -28349,3 +28349,4 @@
 >>>>>>> Stashed changes
 - 2026-11-05 22:52 — Use 'nail' as a verb meaning to execute something perfectly, e.g. 'Let's nail this level.'
 - 2026-11-05 22:53 — Use "is done" or "completed" instead of "is done" with a passive construction; keep the summary tight.
+- 2026-11-05 22:53 — In game dev, 'sword trail' or 'motion trail' are the standard terms for blade/weapon particle effects.
