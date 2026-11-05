@@ -28355,3 +28355,4 @@
 - 2026-11-05 22:39 — Use 'completed' as the status value; the original 'completed' is already idiomatic for tool-result summaries.
 >>>>>>> Stashed changes
 - 2026-11-05 22:54 — Use 'using' instead of '用的' when describing what tool/model is being used for a task.
+- 2026-11-05 22:55 — Use 'also' before the verb in English: 'The audit also uses Codex.'
