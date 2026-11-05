@@ -28012,3 +28012,4 @@
 - 2026-11-05 18:57 — Use "reproduce" for verifying a reported issue yourself, and "take at face value" for not blindly accepting a list.
 - 2026-11-05 18:57 — Use 'be redesigned' for passive voice when asking about design changes.
 - 2026-11-05 18:59 — Use 'go ahead and' to sound natural when giving yourself permission to proceed. 'Piecemeal' means doing things in small, scattered pieces rather than following a plan.
+- 2026-11-05 19:02 — Use 'special effect' for visual effects in games, and 'clean' to mean minimal or uncluttered.
