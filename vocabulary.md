@@ -28237,3 +28237,4 @@
 =======
 - 2026-11-05 20:49 — Use 'add to the workflow' when recording steps or decisions into a documented process.
 >>>>>>> Stashed changes
+- 2026-11-05 22:23 — Use the exact command label from the task config; avoid adding extra words like "with addendum" unless the task itself names it that way.
