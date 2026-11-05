@@ -28469,3 +28469,4 @@
 - 2026-11-05 23:49 — Use "open" for files or windows; "launch" is for starting a process or command.
 - 2026-11-05 23:49 — Use a serial comma before 'and' in a list of long items for readability; also close the truncated filename (`cli...`) with the full name.
 - 2026-11-05 23:50 — Use 'look' for plural subjects, not 'is/are'.
+- 2026-11-05 23:50 — Use 'completed' instead of 'finished' for a completed milestone in a dev log; 'via' is more idiomatic than 'through' when referring to a mechanism or path.

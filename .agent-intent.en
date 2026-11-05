@@ -1,1 +1,1 @@
-All three look similar, and the tails are cut off.
+[MILESTONE] M4 cut1 seven-view capture completed. It resolved `characterId=player` via the copied character definition (`Badger`), rearmed `equip/tripo_cleaver_sword`, and recorded `attack` using the imported cut1 clip. All configured images were generated; `targetRatio` remains 0.50–0.70, and the capture check records top/bottom ratio failures (0.3342–0.4131). B2 copied-tool path guard widening and ratio-abort continuation are in effect. Evidence: `seven-view-cut1/manifest.json`, `seven-view-c`
