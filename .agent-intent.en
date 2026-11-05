@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 [MILESTONE] The new tab for this round was closed with Cmd+W; afterward, AX showed the original Greatsword tab still active in the foreground, with no other tabs closed. INBOX remains empty. Delivery is complete; proceed to the final directory check.
+=======
+[MILESTONE] The result documentation is now complete: balance, quotes/deductions, both action names and durations, the range of confirmed existing actions, the 1-second submission duration, file paths, and evidence all have explicit confirmation status. After the first export, the balance was 3925, proving the export did not change the point balance. Next step: confirm and close this round's new tab, then verify the delivery directory and INBOX.
+>>>>>>> Stashed changes
