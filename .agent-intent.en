@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 workdir: /Users/youxun/.local/share/agent-roguelite/tripo-sword-combo-20261105/stage-a2
 model: gpt-6-luna
 provider: openai
+=======
+Add it to the workflow.
+>>>>>>> Stashed changes
 =======
 Add it to the workflow.
 >>>>>>> Stashed changes
