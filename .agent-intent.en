@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Milestone: Generation completed and playback controls displayed on the canvas; new action list named "One-Handed Sword Slash", total page duration 0.96 seconds; balance remains 3925. No evaluation of action quality. Evidence: ax/05-after-complete.txt. Next step: export only the new action.
+=======
+Dispatch B2 to Codex via subscription wrapper completed (exit code 0).
+>>>>>>> Stashed changes
