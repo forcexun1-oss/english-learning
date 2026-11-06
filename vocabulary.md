@@ -28530,3 +28530,4 @@
 - 2026-11-06 23:41 — In English, use 'show me the UI' rather than 'UI给我看看' — 'UI' is pronounced as individual letters.
 - 2026-11-06 23:43 — Use 'how's' (how is) for asking about progress or status in casual conversation.
 - 2026-11-06 23:46 — Use "so" to connect a request with its purpose; "so I can" is the natural phrasing here.
+- 2026-11-06 23:48 — Use 'already' to ask about something that should have been done by now.
