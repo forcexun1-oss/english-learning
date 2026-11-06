@@ -1,1 +1,1 @@
-Yeah, the character can be swapped. The UI is separate from the character model, so changing the character won't affect the UI.
+The character swap is UI-agnostic — changing the hero won't affect the UI. The UI just renders whatever character data it gets.
