@@ -28482,3 +28482,4 @@
 - 2026-11-06 19:18 — Use "look it up" for searching online; "animations" is the usual term for character movement in games.
 - 2026-11-06 19:27 — Use 'asset packs' for VFX/animation bundles, and 'melee triple-hit combo' to describe a three-hit sword combo.
 - 2026-11-06 19:34 — Use "show me" or "show me in Unity" to ask an AI to display or demonstrate something in a specific tool.
+- 2026-11-06 19:50 — Use "covering" or "obscuring" when UI blocks something else on screen.
