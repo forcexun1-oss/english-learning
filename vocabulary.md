@@ -28567,3 +28567,4 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+- 2026-11-07 01:09 — Use 'VFX' for visual effects in animation/3D contexts, and 'import' for bringing assets into a project.
