@@ -28503,3 +28503,4 @@
 - 2026-11-06 21:16 — Use 'which' when comparing a small, known set of options; 'what' is for open-ended questions.
 - 2026-11-06 21:16 — Use "Go ahead" to give a natural, confident command in English.
 - 2026-11-06 21:17 — When describing completed technical work in English, use the past tense and be specific about what was produced (e.g., "Created 3 variants" rather than "Will create 3 variants").
+- 2026-11-06 21:25 — In English, use "Is it open?" rather than "打开了吗" — the latter is a direct translation of a Chinese question about whether something has been opened.
