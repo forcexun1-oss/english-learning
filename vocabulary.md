@@ -28496,3 +28496,4 @@
 - 2026-11-06 20:43 — Use 'looks abnormal' for visual issues and 'hasn't rendered properly' for rendering problems.
 - 2026-11-06 20:47 — Use 'Please don't' to politely refuse a request in English.
 - 2026-11-06 20:48 — Use 'no problem with that' to confirm something is acceptable.
+- 2026-11-06 20:48 — Use 'don't' for negative imperatives in English.
