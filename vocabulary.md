@@ -28509,3 +28509,4 @@
 - 2026-11-06 21:36 — In English, 'select' is a verb, so '选不中' becomes 'can't select it' or 'unable to select it'.
 - 2026-11-06 21:43 — Use "go through" or "walk through" for 盘一下 in a technical review context.
 - 2026-11-06 21:52 — Use 'connected' or 'plugged in' for devices; '插了' is casual spoken Chinese.
+- 2026-11-06 21:55 — Use "completed" rather than "finished" for background/CLI tasks — it's the standard phrasing in tool outputs.
