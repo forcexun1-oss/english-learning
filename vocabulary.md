@@ -28480,3 +28480,4 @@
 - 2026-11-06 18:59 — Use 'pid liveness' to mean checking whether the process is still running, and 'remove problematic rows entirely' to mean deleting the whole row rather than editing labels.
 - 2026-11-06 19:17 — Use 'come with' to describe included items, and 'download' as a verb.
 - 2026-11-06 19:18 — Use "look it up" for searching online; "animations" is the usual term for character movement in games.
+- 2026-11-06 19:27 — Use 'asset packs' for VFX/animation bundles, and 'melee triple-hit combo' to describe a three-hit sword combo.
