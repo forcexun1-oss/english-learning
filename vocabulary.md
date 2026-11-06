@@ -28486,3 +28486,4 @@
 - 2026-11-06 20:13 — Use "still here" to ask if someone is still present, and "start a new conversation" for a fresh chat.
 - 2026-11-06 20:20 — In English, '处理' is often translated as 'handle' when referring to tasks or problems.
 - 2026-11-06 20:21 — 单独开一个 is more naturally expressed as 'open it separately' or 'run it on its own' in English.
+- 2026-11-06 20:23 — Use "Why is it..." for questions about a state or appearance.
