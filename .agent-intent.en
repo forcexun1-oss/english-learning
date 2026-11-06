@@ -1,1 +1,1 @@
-What's going on with the equipment page? This is so complicated.
+The equipment page is a separate module — swapping the hero only touches the character and animation assets, not the UI. If the equipment page is broken, that’s a different issue to fix.

@@ -28525,3 +28525,4 @@
 - 2026-11-06 23:12 — Use 'replace X with Y' for swapping assets. 'Skills and animations' is the natural pairing for character models.
 - 2026-11-06 23:15 — Use 'replace X with Y' for swapping assets; 'use its' avoids repeating the path.
 - 2026-11-06 23:39 — In casual Chinese, 咋了 means 'what's wrong' or 'what's happening.' For a more natural English equivalent in a dev context, you could say 'What's going on with the equipment page? This is so complicated.'
+- 2026-11-06 23:39 — Use "separate module" to describe independent UI sections in code.
