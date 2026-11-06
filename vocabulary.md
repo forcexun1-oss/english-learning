@@ -28555,3 +28555,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-07 01:02 — Use 'protagonist' for the main character in a story or game; 'special effects' is the standard term for visual effects.
+- 2026-11-07 01:03 — Use "really" to add emphasis in questions like this.
