@@ -28494,3 +28494,4 @@
 - 2026-11-06 20:35 — Use 'switch to' for changing to a different option or style.
 - 2026-11-06 20:39 — Use 'are those...' for plural countable items like particles, and 'not loading' to ask about missing assets.
 - 2026-11-06 20:43 — Use 'looks abnormal' for visual issues and 'hasn't rendered properly' for rendering problems.
+- 2026-11-06 20:47 — Use 'Please don't' to politely refuse a request in English.
