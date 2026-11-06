@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Is there no process for checking in a clean, isolated test environment? The original resources are already bound, so why would we touch them? What exactly are we fixing for the BOSS?
+=======
+Background command "Wait until both independent reviews finish" completed (exit code 0)
+>>>>>>> Stashed changes

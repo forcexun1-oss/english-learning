@@ -28540,6 +28540,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 00:29 — In English, "depression" often describes a low-lying area of land, while "sunken" emphasizes that it's lower than the surrounding ground.
 =======
 >>>>>>> Stashed changes
@@ -28561,3 +28562,5 @@
 - 2026-11-07 01:06 — Use 'already' to emphasize that something has been completed before the current moment.
 - 2026-11-07 01:06 — In English, 'fix' is a verb, so you need a subject and object: 'What needs to be fixed?' or 'What should I fix?'
 - 2026-11-07 01:06 — Use 'clean/isolated test environment' for 干净的测试场景; 'already bound' for 已经绑好了; 'what exactly are we fixing' for 修什么.
+=======
+>>>>>>> Stashed changes
