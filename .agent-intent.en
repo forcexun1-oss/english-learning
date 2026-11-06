@@ -1,1 +1,1 @@
-Task completed. Created 3 yellow-tinted smoke variants (A: pale yellow, B: golden, C: deep amber) as new files only, without modifying originals. Generated verification evidence: BEFORE/AFTER SHA256, diff reports, GUID uniqueness check, and negative test results. See smoke-yellow/REPORT.md for full details.
+The background command completed successfully (exit code 0).
