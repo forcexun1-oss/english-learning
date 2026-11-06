@@ -28505,3 +28505,4 @@
 - 2026-11-06 21:17 — When describing completed technical work in English, use the past tense and be specific about what was produced (e.g., "Created 3 variants" rather than "Will create 3 variants").
 - 2026-11-06 21:25 — In English, use "Is it open?" rather than "打开了吗" — the latter is a direct translation of a Chinese question about whether something has been opened.
 - 2026-11-06 21:28 — Use "please" to make a request more natural in English.
+- 2026-11-06 21:31 — Use 'so' to connect purpose: 'buttons so I can switch' is more natural than 'buttons can switch'.
