@@ -28507,3 +28507,4 @@
 - 2026-11-06 21:28 — Use "please" to make a request more natural in English.
 - 2026-11-06 21:31 — Use 'so' to connect purpose: 'buttons so I can switch' is more natural than 'buttons can switch'.
 - 2026-11-06 21:36 — In English, 'select' is a verb, so '选不中' becomes 'can't select it' or 'unable to select it'.
+- 2026-11-06 21:43 — Use "go through" or "walk through" for 盘一下 in a technical review context.
