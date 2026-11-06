@@ -28554,3 +28554,4 @@
 - 2026-11-07 00:43 — Use "triggers" instead of "trips" when describing a condition that activates a response.
 =======
 >>>>>>> Stashed changes
+- 2026-11-07 01:02 — Use 'protagonist' for the main character in a story or game; 'special effects' is the standard term for visual effects.
