@@ -28516,3 +28516,4 @@
 - 2026-11-06 22:13 — Use "completed" instead of "completed" — the word is spelled "completed" with a double m.
 - 2026-11-06 22:20 — When summarizing a completed background task, use the format: Background command "<command>" completed (exit code <code>). This is the standard convention for task notifications.
 - 2026-11-06 22:24 — Use "take stock" or "take a look" when reviewing a state of things. "Barely acceptable" is a natural way to say something is just about good enough.
+- 2026-11-06 22:25 — Use the past tense "dispatched" when describing a completed background action.
