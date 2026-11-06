@@ -28479,3 +28479,4 @@
 - 2026-11-06 18:56 — In English, "丑" is often translated as "ugly" or "not great" in casual conversation. "What's going on?" sounds natural for asking about a problem.
 - 2026-11-06 18:59 — Use 'pid liveness' to mean checking whether the process is still running, and 'remove problematic rows entirely' to mean deleting the whole row rather than editing labels.
 - 2026-11-06 19:17 — Use 'come with' to describe included items, and 'download' as a verb.
+- 2026-11-06 19:18 — Use "look it up" for searching online; "animations" is the usual term for character movement in games.
