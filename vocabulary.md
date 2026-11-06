@@ -28546,3 +28546,4 @@
 - 2026-11-07 00:31 — In English, '特效' is usually 'VFX' (visual effects) when referring to film/animation, not 'special effects'.
 =======
 >>>>>>> Stashed changes
+- 2026-11-07 00:40 — Use 'Aren't...' for rhetorical questions in English; 'VFX' is the standard term for visual effects.
