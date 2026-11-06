@@ -28523,3 +28523,4 @@
 - 2026-11-06 23:09 — Use 'swap' for exchanging one thing for another in a technical context. 'Separate from' means not connected to or dependent on.
 - 2026-11-06 23:12 — Use 'agnostic' to say a component doesn't depend on or care about a particular detail.
 - 2026-11-06 23:12 — Use 'replace X with Y' for swapping assets. 'Skills and animations' is the natural pairing for character models.
+- 2026-11-06 23:15 — Use 'replace X with Y' for swapping assets; 'use its' avoids repeating the path.
