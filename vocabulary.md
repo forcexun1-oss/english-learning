@@ -28541,3 +28541,4 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-07 00:30 — Use 'different' instead of 'another' when pointing out a specific mismatch; 'cluster' is the standard term for a Kubernetes cluster.
+- 2026-11-07 00:30 — Use "not" before both parts to keep the parallel structure clear.
