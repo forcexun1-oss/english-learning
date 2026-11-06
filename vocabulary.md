@@ -28557,3 +28557,4 @@
 - 2026-11-07 01:02 — Use 'protagonist' for the main character in a story or game; 'special effects' is the standard term for visual effects.
 - 2026-11-07 01:03 — Use "really" to add emphasis in questions like this.
 - 2026-11-07 01:04 — Use "bother with" for "go to the trouble of doing something unnecessary".
+- 2026-11-07 01:05 — Use 'by itself' or 'on its own' to emphasize doing something separately rather than together with other things.
