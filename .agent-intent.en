@@ -1,1 +1,1 @@
-The character swap is UI-agnostic — changing the hero won't affect the UI. The UI just renders whatever character data it gets.
+Replace the protagonist with the model from /Users/youxun/project/game/FreeSlashVFXDemo and use its skills and animations.

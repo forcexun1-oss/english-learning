@@ -28522,3 +28522,4 @@
 - 2026-11-06 23:06 — Chinese direct translation '那么多worktree怎么处理worktrees下面一堆啊,什么情况' is better rendered as a clear question: 'Handle all those worktrees — what's going on with them?'
 - 2026-11-06 23:09 — Use 'swap' for exchanging one thing for another in a technical context. 'Separate from' means not connected to or dependent on.
 - 2026-11-06 23:12 — Use 'agnostic' to say a component doesn't depend on or care about a particular detail.
+- 2026-11-06 23:12 — Use 'replace X with Y' for swapping assets. 'Skills and animations' is the natural pairing for character models.
