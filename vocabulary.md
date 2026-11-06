@@ -28537,9 +28537,12 @@
 - 2026-11-06 23:58 — The original is already idiomatic — no change needed.
 - 2026-11-07 00:22 — Use "both" with two items; "each" is for individual items.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 00:29 — In English, "depression" often describes a low-lying area of land, while "sunken" emphasizes that it's lower than the surrounding ground.
 =======
 >>>>>>> Stashed changes
 - 2026-11-07 00:30 — Use 'different' instead of 'another' when pointing out a specific mismatch; 'cluster' is the standard term for a Kubernetes cluster.
 - 2026-11-07 00:30 — Use "not" before both parts to keep the parallel structure clear.
 - 2026-11-07 00:31 — In English, '特效' is usually 'VFX' (visual effects) when referring to film/animation, not 'special effects'.
+=======
+>>>>>>> Stashed changes
