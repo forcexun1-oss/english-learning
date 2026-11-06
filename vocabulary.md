@@ -28594,3 +28594,4 @@
 - 2026-11-07 01:20 — 重开一个 can be rendered naturally as "start over" or "start fresh" in conversation.
 - 2026-11-07 01:20 — Use the exact phrasing from the task notification: 'completed (exit code 0)' rather than 'finished successfully' — this is the standard convention for CLI and CI/CD output.
 - 2026-11-07 01:22 — When a background command finishes, the summary naturally uses "completed (exit code 0)" — no extra phrasing needed.
+- 2026-11-07 01:23 — Use 'have completed' for plural assets; 'asset downloads' is the natural collocation.
