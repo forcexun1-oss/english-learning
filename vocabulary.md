@@ -28520,3 +28520,4 @@
 - 2026-11-06 22:41 — Use 'swap X to Y' when replacing one thing with another. 'After we're done' is a natural way to say '处理完' in a workflow context.
 - 2026-11-06 23:04 — In casual English, 'How's it going?' is the natural equivalent of 咋样了.
 - 2026-11-06 23:06 — Chinese direct translation '那么多worktree怎么处理worktrees下面一堆啊,什么情况' is better rendered as a clear question: 'Handle all those worktrees — what's going on with them?'
+- 2026-11-06 23:09 — Use 'swap' for exchanging one thing for another in a technical context. 'Separate from' means not connected to or dependent on.
