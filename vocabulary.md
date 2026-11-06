@@ -28538,6 +28538,7 @@
 - 2026-11-07 00:22 — Use "both" with two items; "each" is for individual items.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 00:29 — In English, "depression" often describes a low-lying area of land, while "sunken" emphasizes that it's lower than the surrounding ground.
 =======
 >>>>>>> Stashed changes
@@ -28547,3 +28548,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-07 00:40 — Use 'Aren't...' for rhetorical questions in English; 'VFX' is the standard term for visual effects.
+=======
+>>>>>>> Stashed changes
