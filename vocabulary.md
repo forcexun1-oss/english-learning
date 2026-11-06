@@ -28576,3 +28576,4 @@
 =======
 - 2026-11-07 01:11 — Use 'just' to emphasize immediacy; '别自己检查了' is a colloquial way to say 'don't check it yourself.'
 >>>>>>> Stashed changes
+- 2026-11-07 01:11 — Use 'Did you go to find...' for past actions. 'Boss' is informal; in professional contexts, use 'manager' or 'supervisor'.
