@@ -28558,3 +28558,4 @@
 - 2026-11-07 01:03 — Use "really" to add emphasis in questions like this.
 - 2026-11-07 01:04 — Use "bother with" for "go to the trouble of doing something unnecessary".
 - 2026-11-07 01:05 — Use 'by itself' or 'on its own' to emphasize doing something separately rather than together with other things.
+- 2026-11-07 01:06 — Use 'already' to emphasize that something has been completed before the current moment.
