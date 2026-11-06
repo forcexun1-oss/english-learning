@@ -28476,3 +28476,4 @@
 - 2026-11-06 18:47 — Use the exact wording from the task summary when reporting background command results.
 - 2026-11-06 18:48 — Use "Check out" for casual recommendations. "VFX" is the standard abbreviation for visual effects.
 - 2026-11-06 18:51 — Use "wasn't it" for rhetorical questions about past actions; "弄过了" is colloquial — "already done" or "already implemented" is more natural in technical English.
+- 2026-11-06 18:56 — In English, "丑" is often translated as "ugly" or "not great" in casual conversation. "What's going on?" sounds natural for asking about a problem.
