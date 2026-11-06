@@ -1,1 +1,1 @@
-The background command "Re-arm watcher for rerun results" completed (exit code 0).
+Let's take stock of what's in the game right now. Can we merge anything, or if not, what's the plan? First, the game editor and game code need to be separated. Then, take a look at the worktrees — there are quite a few open. Only the UI is barely acceptable, sound production is okay, and characters and rigged weapons have occasional issues. Figure out how to review everything holistically.
