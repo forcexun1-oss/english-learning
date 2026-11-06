@@ -28499,3 +28499,4 @@
 - 2026-11-06 20:48 — Use 'don't' for negative imperatives in English.
 - 2026-11-06 20:49 — Use 'resource URL' or 'asset URL' for clarity in technical contexts.
 - 2026-11-06 20:49 — Use 'stored' for files/data saved on your machine; 'where' asks about location.
+- 2026-11-06 21:15 — Use 'could it have been...' to ask about a possible past event. '被改了' = 'modified' or 'altered'.
