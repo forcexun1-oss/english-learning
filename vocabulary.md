@@ -28493,3 +28493,4 @@
 - 2026-11-06 20:31 — Use "one of them is" when pointing out a single item from a group.
 - 2026-11-06 20:35 — Use 'switch to' for changing to a different option or style.
 - 2026-11-06 20:39 — Use 'are those...' for plural countable items like particles, and 'not loading' to ask about missing assets.
+- 2026-11-06 20:43 — Use 'looks abnormal' for visual issues and 'hasn't rendered properly' for rendering problems.
