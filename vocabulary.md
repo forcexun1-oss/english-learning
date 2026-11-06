@@ -28491,3 +28491,4 @@
 - 2026-11-06 20:28 — Use 'fail to load' when assets or resources don't appear, and 'supposed to' to ask about expected behavior.
 - 2026-11-06 20:30 — Use "completely" or "totally" to stress the degree; "一点颜色都没有" → "no color at all".
 - 2026-11-06 20:31 — Use "one of them is" when pointing out a single item from a group.
+- 2026-11-06 20:35 — Use 'switch to' for changing to a different option or style.
