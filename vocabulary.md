@@ -28518,3 +28518,4 @@
 - 2026-11-06 22:24 — Use "take stock" or "take a look" when reviewing a state of things. "Barely acceptable" is a natural way to say something is just about good enough.
 - 2026-11-06 22:25 — Use the past tense "dispatched" when describing a completed background action.
 - 2026-11-06 22:41 — Use 'swap X to Y' when replacing one thing with another. 'After we're done' is a natural way to say '处理完' in a workflow context.
+- 2026-11-06 23:04 — In casual English, 'How's it going?' is the natural equivalent of 咋样了.
