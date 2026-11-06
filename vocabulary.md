@@ -28513,3 +28513,4 @@
 - 2026-11-06 21:57 — When a background task finishes, the summary should state the exit code and a brief description of what it did — no extra commentary needed.
 - 2026-11-06 22:00 — Use 'how should we handle...' for asking about a plan, and 'what's going on?' to ask about the cause of a situation.
 - 2026-11-06 22:04 — This is a standard system notification; no correction needed.
+- 2026-11-06 22:13 — Use "completed" instead of "completed" — the word is spelled "completed" with a double m.
