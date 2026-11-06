@@ -28528,3 +28528,4 @@
 - 2026-11-06 23:39 — Use "separate module" to describe independent UI sections in code.
 - 2026-11-06 23:40 — When asking to see something, "show me" or "let me see" sounds more natural than "给我看看" translated literally.
 - 2026-11-06 23:41 — In English, use 'show me the UI' rather than 'UI给我看看' — 'UI' is pronounced as individual letters.
+- 2026-11-06 23:43 — Use 'how's' (how is) for asking about progress or status in casual conversation.
