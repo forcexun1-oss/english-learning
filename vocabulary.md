@@ -28514,3 +28514,4 @@
 - 2026-11-06 22:00 — Use 'how should we handle...' for asking about a plan, and 'what's going on?' to ask about the cause of a situation.
 - 2026-11-06 22:04 — This is a standard system notification; no correction needed.
 - 2026-11-06 22:13 — Use "completed" instead of "completed" — the word is spelled "completed" with a double m.
+- 2026-11-06 22:20 — When summarizing a completed background task, use the format: Background command "<command>" completed (exit code <code>). This is the standard convention for task notifications.
