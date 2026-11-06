@@ -28533,3 +28533,4 @@
 - 2026-11-06 23:48 — Use 'already' to ask about something that should have been done by now.
 - 2026-11-06 23:51 — Use 'If not' to introduce a fallback plan; 'get X working' is a natural way to say 'make X functional'.
 - 2026-11-06 23:55 — Use "What about...?" to shift focus to a new topic in conversation.
+- 2026-11-06 23:57 — Use "completed" for background tasks; "exit code 0" means success.
