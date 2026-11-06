@@ -28560,3 +28560,4 @@
 - 2026-11-07 01:05 — Use 'by itself' or 'on its own' to emphasize doing something separately rather than together with other things.
 - 2026-11-07 01:06 — Use 'already' to emphasize that something has been completed before the current moment.
 - 2026-11-07 01:06 — In English, 'fix' is a verb, so you need a subject and object: 'What needs to be fixed?' or 'What should I fix?'
+- 2026-11-07 01:06 — Use 'clean/isolated test environment' for 干净的测试场景; 'already bound' for 已经绑好了; 'what exactly are we fixing' for 修什么.
