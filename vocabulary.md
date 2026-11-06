@@ -28501,3 +28501,4 @@
 - 2026-11-06 20:49 — Use 'stored' for files/data saved on your machine; 'where' asks about location.
 - 2026-11-06 21:15 — Use 'could it have been...' to ask about a possible past event. '被改了' = 'modified' or 'altered'.
 - 2026-11-06 21:16 — Use 'which' when comparing a small, known set of options; 'what' is for open-ended questions.
+- 2026-11-06 21:16 — Use "Go ahead" to give a natural, confident command in English.
