@@ -28539,6 +28539,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 00:29 — In English, "depression" often describes a low-lying area of land, while "sunken" emphasizes that it's lower than the surrounding ground.
 =======
 >>>>>>> Stashed changes
@@ -28551,3 +28552,5 @@
 =======
 >>>>>>> Stashed changes
 - 2026-11-07 00:43 — Use "triggers" instead of "trips" when describing a condition that activates a response.
+=======
+>>>>>>> Stashed changes

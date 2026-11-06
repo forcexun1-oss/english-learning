@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Background command "Wait for S2B result; also trips if extra Codex processes appear" completed (exit code 0)
+=======
+Background command "Wait until both independent reviews finish" completed (exit code 0)
+>>>>>>> Stashed changes
