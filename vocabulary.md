@@ -28512,3 +28512,4 @@
 - 2026-11-06 21:55 — Use "completed" rather than "finished" for background/CLI tasks — it's the standard phrasing in tool outputs.
 - 2026-11-06 21:57 — When a background task finishes, the summary should state the exit code and a brief description of what it did — no extra commentary needed.
 - 2026-11-06 22:00 — Use 'how should we handle...' for asking about a plan, and 'what's going on?' to ask about the cause of a situation.
+- 2026-11-06 22:04 — This is a standard system notification; no correction needed.
