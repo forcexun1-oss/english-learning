@@ -28506,3 +28506,4 @@
 - 2026-11-06 21:25 — In English, use "Is it open?" rather than "打开了吗" — the latter is a direct translation of a Chinese question about whether something has been opened.
 - 2026-11-06 21:28 — Use "please" to make a request more natural in English.
 - 2026-11-06 21:31 — Use 'so' to connect purpose: 'buttons so I can switch' is more natural than 'buttons can switch'.
+- 2026-11-06 21:36 — In English, 'select' is a verb, so '选不中' becomes 'can't select it' or 'unable to select it'.
