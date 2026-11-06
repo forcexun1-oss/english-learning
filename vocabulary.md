@@ -28535,3 +28535,4 @@
 - 2026-11-06 23:55 — Use "What about...?" to shift focus to a new topic in conversation.
 - 2026-11-06 23:57 — Use "completed" for background tasks; "exit code 0" means success.
 - 2026-11-06 23:58 — The original is already idiomatic — no change needed.
+- 2026-11-07 00:22 — Use "both" with two items; "each" is for individual items.
