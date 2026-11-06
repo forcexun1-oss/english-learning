@@ -28550,3 +28550,4 @@
 - 2026-11-07 00:40 — Use 'Aren't...' for rhetorical questions in English; 'VFX' is the standard term for visual effects.
 =======
 >>>>>>> Stashed changes
+- 2026-11-07 00:43 — Use "triggers" instead of "trips" when describing a condition that activates a response.
