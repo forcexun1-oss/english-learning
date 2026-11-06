@@ -28474,3 +28474,4 @@
 - 2026-11-05 23:51 — The original is already natural and idiomatic for a developer status update. No change needed.
 - 2026-11-05 23:52 — Use 'just' for '直接' in casual technical English.
 - 2026-11-06 18:47 — Use the exact wording from the task summary when reporting background command results.
+- 2026-11-06 18:48 — Use "Check out" for casual recommendations. "VFX" is the standard abbreviation for visual effects.
