@@ -1,1 +1,1 @@
-Let's go through the game assets and see if we can merge them. If we don't merge, what's the alternative? First, the game editor needs to be separated from the game code. Then take a look at the current worktrees — only the UI is barely acceptable, audio production is okay, but character and rigging weapons still have occasional issues. How should we review everything holistically?
+The external hard drive is connected.
