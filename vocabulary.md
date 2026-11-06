@@ -28572,8 +28572,12 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 01:11 — 快点吧 is a casual Chinese expression; in English, 'Let's get moving' or 'Hurry up' works well depending on tone.
 =======
 - 2026-11-07 01:11 — Use 'just' to emphasize immediacy; '别自己检查了' is a colloquial way to say 'don't check it yourself.'
 >>>>>>> Stashed changes
 - 2026-11-07 01:11 — Use 'Did you go to find...' for past actions. 'Boss' is informal; in professional contexts, use 'manager' or 'supervisor'.
+=======
+- 2026-11-07 01:11 — Use 'just' to emphasize immediacy; '别自己检查了' is a colloquial way to say 'don't check it yourself.'
+>>>>>>> Stashed changes
