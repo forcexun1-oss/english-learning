@@ -28581,3 +28581,4 @@
 =======
 - 2026-11-07 01:11 — Use 'just' to emphasize immediacy; '别自己检查了' is a colloquial way to say 'don't check it yourself.'
 >>>>>>> Stashed changes
+- 2026-11-07 01:13 — Use 'as long as' to express a condition in informal technical contexts.
