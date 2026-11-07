@@ -1,1 +1,1 @@
-No need. Let's merge these in first, take stock of the resources and code, then split the project — separate the game and the editor. Let's get moving.
+Should the editor be separated? What's the industry standard? Please propose a reasonable project structure first.
