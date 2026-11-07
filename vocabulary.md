@@ -29142,3 +29142,4 @@
 =======
 - 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
 >>>>>>> Stashed changes
+- 2026-11-07 19:57 — Use "suggests" to express inference in professional English. Avoid "吧" in written English — it's a spoken particle.
