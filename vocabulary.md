@@ -29097,3 +29097,4 @@
 - 2026-11-07 19:02 — In English, 'pull' is the standard verb for fetching and merging remote changes with git pull.
 - 2026-11-07 19:03 — Use 'include' when asking whether something is part of a set or collection.
 - 2026-11-07 19:04 — Use 'split into' when dividing work into separate pull requests.
+- 2026-11-07 19:05 — Use "where" to describe a situation or context in English.
