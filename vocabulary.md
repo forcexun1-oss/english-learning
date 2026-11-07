@@ -29098,4 +29098,8 @@
 - 2026-11-07 19:03 — Use 'include' when asking whether something is part of a set or collection.
 - 2026-11-07 19:04 — Use 'split into' when dividing work into separate pull requests.
 - 2026-11-07 19:05 — Use "where" to describe a situation or context in English.
+<<<<<<< Updated upstream
 - 2026-11-07 19:06 — In English, questions usually invert subject and auxiliary verb (e.g., 'Is it...?'). The particle 吗 is not used in English.
+=======
+- 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
+>>>>>>> Stashed changes
