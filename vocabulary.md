@@ -29145,3 +29145,4 @@
 - 2026-11-07 19:57 — Use "suggests" to express inference in professional English. Avoid "吧" in written English — it's a spoken particle.
 - 2026-11-07 19:57 — Use 'if...then' structure for conditional instructions in English.
 - 2026-11-07 19:57 — In English, '方案' is 'plan' or 'proposal'. '去改' is naturally 'to fix' or 'to modify'.
+- 2026-11-07 19:58 — When a background task finishes, the summary naturally uses the past tense "completed" — no need to rephrase it.
