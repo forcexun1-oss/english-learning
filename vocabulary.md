@@ -28669,3 +28669,4 @@
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
 - 2026-11-07 11:04 — When giving instructions, keep the whole response in English and refer back to previously stated requirements.
+- 2026-11-07 11:06 — Use 'mentioned earlier' or 'previously stated' to refer back to standards/rules already discussed.
