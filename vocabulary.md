@@ -29092,3 +29092,4 @@
 - 2026-11-07 18:58 — Use 'we have Git' (Git is a proper noun, usually capitalized). 'Of course' adds a natural, slightly emphatic tone.
 - 2026-11-07 18:59 — Use 'exclude' when you mean to leave something out of a list or process.
 - 2026-11-07 18:59 — Use "Are there...?" for questions about existence, and "locally" for local changes.
+- 2026-11-07 19:00 — In English, use "What was changed?" to ask about specific edits.
