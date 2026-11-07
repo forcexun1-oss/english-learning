@@ -28740,3 +28740,4 @@
 >>>>>>> Stashed changes
 - 2026-11-07 12:03 — In English, 'no' is used before nouns to express absence. 'Palette' here refers to a set of colors or options.
 - 2026-11-07 12:04 — Use 'wrap it up' for a natural, concise way to end a task or conversation.
+- 2026-11-07 12:04 — Use 'tidy up' for organizing files/code; '整理' in a dev context usually means cleaning up or refactoring.
