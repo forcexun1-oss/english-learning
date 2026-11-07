@@ -29090,3 +29090,4 @@
 - 2026-11-07 18:57 — Use 'we've' (we have) for recent actions; 'right?' is a natural way to confirm.
 - 2026-11-07 18:58 — Use "What are you talking about?" for informal questions about someone's words, or "What do you mean?" when you want clarification.
 - 2026-11-07 18:58 — Use 'we have Git' (Git is a proper noun, usually capitalized). 'Of course' adds a natural, slightly emphatic tone.
+- 2026-11-07 18:59 — Use 'exclude' when you mean to leave something out of a list or process.
