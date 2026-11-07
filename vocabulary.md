@@ -29100,6 +29100,7 @@
 - 2026-11-07 19:05 — Use "where" to describe a situation or context in English.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 19:06 — In English, questions usually invert subject and auxiliary verb (e.g., 'Is it...?'). The particle 吗 is not used in English.
 =======
 - 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
@@ -29113,3 +29114,6 @@
 - 2026-11-07 19:10 — In English, '那改吧' is naturally rendered as 'Alright, let's make the changes' or 'OK, let's go ahead and fix it.' Avoid literal translations like 'Then change it.'
 - 2026-11-07 19:12 — This is already idiomatic — no change needed.
 - 2026-11-07 19:13 — Use "scope" for the range/extent of changes in code or design.
+=======
+- 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
+>>>>>>> Stashed changes
