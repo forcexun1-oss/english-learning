@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Background command "Wait for the design review" completed (exit code 0)
-=======
-I'm writing it myself.
->>>>>>> Stashed changes
+Background command "Wait for the backup, then compare it with the old one" completed (exit code 0)
