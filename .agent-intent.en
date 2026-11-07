@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Let's change the VFX to a dirt burst. When he presses once, it plays one segment; pressing again plays three segments. Can we split the last three segments into our own three segments?
-=======
-I'm writing it myself.
->>>>>>> Stashed changes
+Background command "Wait for the workflow rewrite to finish or block" completed (exit code 0)
