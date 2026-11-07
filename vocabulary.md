@@ -29094,3 +29094,4 @@
 - 2026-11-07 18:59 — Use "Are there...?" for questions about existence, and "locally" for local changes.
 - 2026-11-07 19:00 — In English, use "What was changed?" to ask about specific edits.
 - 2026-11-07 19:01 — Use 'pushed to the remote' when talking about sending local commits to a remote repository.
+- 2026-11-07 19:02 — In English, 'pull' is the standard verb for fetching and merging remote changes with git pull.
