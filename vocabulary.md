@@ -28956,3 +28956,4 @@
 >>>>>>> Stashed changes
 - 2026-11-07 16:57 — Use 'which' for questions about specific items among a set.
 - 2026-11-07 16:57 — Use "how" to ask about methods or practices, not "what".
+- 2026-11-07 16:58 — Use "failed with exit code 1" rather than "failed with exit code 1" — both are fine, but "with exit code 1" is the standard phrasing in CLI/tool output.

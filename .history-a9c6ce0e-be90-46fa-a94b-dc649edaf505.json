@@ -1,1 +1,1 @@
-["review一下还有哪些拆分是不对的", "没有查过业界的专家是怎么干的吗"]
+["review一下还有哪些拆分是不对的", "没有查过业界的专家是怎么干的吗", "<task-notification>\n<task-id>brx93o9n2</task-id>\n<tool-use-id>toolu_014cN2e8WJpPcaSugNrwUQCe</tool-use-id>\n<output-file>/private/tmp/claude-501/-Users-youxun-project-game-agent-roguelite/a9c6ce0e-be90-46fa-a94b-dc649edaf505/tasks/brx93o9n2.output</output-file>\n<status>failed</status>\n<summary>Background command \"Wait for the split review report\" failed with exit code 1</summary>\n</task-notification>"]
