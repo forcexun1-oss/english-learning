@@ -29110,3 +29110,4 @@
 - 2026-11-07 19:08 — Use 'exactly' to emphasize precision; '具体' in this context maps to 'exactly' or 'specifically'.
 - 2026-11-07 19:08 — Use "this way" to refer to a design or approach already in place; "so" is not needed here.
 - 2026-11-07 19:09 — Use 'refine' for improving code quality; 'feature flag' is the standard term for a runtime toggle.
+- 2026-11-07 19:10 — In English, '那改吧' is naturally rendered as 'Alright, let's make the changes' or 'OK, let's go ahead and fix it.' Avoid literal translations like 'Then change it.'
