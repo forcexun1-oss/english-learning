@@ -28601,3 +28601,4 @@
 - 2026-11-07 09:49 — Use 'teleport back' for sudden position resets in games; '瞬移' is commonly translated as 'teleport' in gaming contexts.
 - 2026-11-07 09:50 — Use 'standalone' for 独立的, and 'pre-write' for 提前写好.
 - 2026-11-07 10:10 — exit code 144 means the process was terminated by SIGTERM — check whether the room check timed out or was killed by a watchdog.
+- 2026-11-07 10:10 — Use "completed" for successful background tasks; "failed" only when the exit code is non-zero.
