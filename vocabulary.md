@@ -28597,3 +28597,4 @@
 - 2026-11-07 01:23 — Use 'have completed' for plural assets; 'asset downloads' is the natural collocation.
 - 2026-11-07 01:32 — Use "completed" instead of "finished" when a background process ends normally.
 - 2026-11-07 09:45 — Use 'it's not that hard' to express that something should be easy. This is a common rhetorical question pattern in English.
+- 2026-11-07 09:49 — Use "the" before a color when referring to a specific item, e.g. "the yellow one".
