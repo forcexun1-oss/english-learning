@@ -29108,3 +29108,4 @@
 - 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
 >>>>>>> Stashed changes
 - 2026-11-07 19:08 — Use 'exactly' to emphasize precision; '具体' in this context maps to 'exactly' or 'specifically'.
+- 2026-11-07 19:08 — Use "this way" to refer to a design or approach already in place; "so" is not needed here.
