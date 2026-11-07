@@ -28642,6 +28642,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 10:10 — exit code 144 means the process was terminated by SIGTERM — check whether the room check timed out or was killed by a watchdog.
 - 2026-11-07 10:10 — Use "completed" for successful background tasks; "failed" only when the exit code is non-zero.
 =======
@@ -28806,6 +28807,9 @@
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
 - 2026-11-07 12:54 — Use the exact wording from the task notification; it's already idiomatic for a completed background process.
+=======
+- 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
+>>>>>>> Stashed changes
 =======
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
