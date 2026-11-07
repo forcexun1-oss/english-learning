@@ -28747,3 +28747,4 @@
 >>>>>>> Stashed changes
 - 2026-11-07 12:06 — Use 'take stock of' to mean inventorying or reviewing what you have.
 - 2026-11-07 12:07 — Use 'separate' or 'split' for splitting codebases; 'industry standard' is a natural collocation.
+- 2026-11-07 12:11 — Use 'split out' for separating a module from a monorepo; 'industry standard' sounds more natural than 'how the industry does it'.

@@ -1,1 +1,1 @@
-Should the editor be separated? What's the industry standard? Please propose a reasonable project structure first.
+Let's finalize the project structure. First, we need to merge everything together. The editor will definitely be split out — but should it be split further? What's the industry standard for separating each component?
