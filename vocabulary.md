@@ -28599,3 +28599,4 @@
 - 2026-11-07 09:45 — Use 'it's not that hard' to express that something should be easy. This is a common rhetorical question pattern in English.
 - 2026-11-07 09:49 — Use "the" before a color when referring to a specific item, e.g. "the yellow one".
 - 2026-11-07 09:49 — Use 'teleport back' for sudden position resets in games; '瞬移' is commonly translated as 'teleport' in gaming contexts.
+- 2026-11-07 09:50 — Use 'standalone' for 独立的, and 'pre-write' for 提前写好.
