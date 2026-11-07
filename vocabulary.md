@@ -28911,3 +28911,4 @@
 =======
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
+- 2026-11-07 15:42 — Use double quotes around the command name to make it clear it's a label, not a description.
