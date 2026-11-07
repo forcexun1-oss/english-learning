@@ -29112,3 +29112,4 @@
 - 2026-11-07 19:09 — Use 'refine' for improving code quality; 'feature flag' is the standard term for a runtime toggle.
 - 2026-11-07 19:10 — In English, '那改吧' is naturally rendered as 'Alright, let's make the changes' or 'OK, let's go ahead and fix it.' Avoid literal translations like 'Then change it.'
 - 2026-11-07 19:12 — This is already idiomatic — no change needed.
+- 2026-11-07 19:13 — Use "scope" for the range/extent of changes in code or design.
