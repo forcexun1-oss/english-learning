@@ -29088,3 +29088,4 @@
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
 - 2026-11-07 18:57 — Use 'we've' (we have) for recent actions; 'right?' is a natural way to confirm.
+- 2026-11-07 18:58 — Use "What are you talking about?" for informal questions about someone's words, or "What do you mean?" when you want clarification.
