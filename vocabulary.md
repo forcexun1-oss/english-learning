@@ -28799,3 +28799,4 @@
 =======
 - 2026-11-07 10:10 — In English, "自己" in this context means "by myself" rather than "myself" as a reflexive object.
 >>>>>>> Stashed changes
+- 2026-11-07 12:49 — Use 'Can't you...' to ask about ability or possibility in a slightly surprised or challenging tone.
