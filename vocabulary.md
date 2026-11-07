@@ -29129,6 +29129,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - 2026-11-07 19:06 — In English, questions usually invert subject and auxiliary verb (e.g., 'Is it...?'). The particle 吗 is not used in English.
 =======
 - 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
@@ -29168,6 +29169,9 @@
 - 2026-11-07 19:57 — Use 'if...then' structure for conditional instructions in English.
 - 2026-11-07 19:57 — In English, '方案' is 'plan' or 'proposal'. '去改' is naturally 'to fix' or 'to modify'.
 - 2026-11-07 19:58 — When a background task finishes, the summary naturally uses the past tense "completed" — no need to rephrase it.
+=======
+- 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
+>>>>>>> Stashed changes
 =======
 - 2026-11-07 19:06 — Use 'dark launch' for a feature released to a small subset of users before full rollout.
 >>>>>>> Stashed changes
