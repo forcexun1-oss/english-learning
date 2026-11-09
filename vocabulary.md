@@ -29450,3 +29450,4 @@
 - 2026-11-09 09:13 — Use 'side by side' for comparing two seeds, and 'aggregate by set' when summarizing heldout splits.
 - 2026-11-09 09:17 — Use 'What's the current status?' for natural English; '现在什么情况了' is a direct translation that sounds awkward.
 - 2026-11-09 09:18 — 继续是继续的继续。
+- 2026-11-09 09:32 — In English, "kill" is the standard verb for terminating a process; "kill it" is a natural, concise command.
