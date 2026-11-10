@@ -29462,3 +29462,4 @@
 - 2026-11-10 16:03 — In English, "What's the latest status?" or "How are things going?" is more natural than a literal translation.
 - 2026-11-10 16:28 — Use specific, verifiable facts — OEM name, Android API level, feature scope, and metrics — rather than vague claims.
 - 2026-11-10 16:33 — Use 'cloud–edge' for 端云协同, and 'correct-execution rate' for 正确执行率.
+- 2026-11-10 16:42 — In English, "kill" is a verb here, so "kill it" is the natural short command.
