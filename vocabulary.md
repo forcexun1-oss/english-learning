@@ -29458,3 +29458,4 @@
 - 2026-11-10 15:00 — Use 'cloud-based' as an adjective to describe where the model runs.
 - 2026-11-10 15:06 — Use "What are the specific ... choices?" to ask for concrete model names rather than vague '选型'.
 - 2026-11-10 15:08 — Use 'or' to list alternatives in a question; capitalize model names like GPT and Claude.
+- 2026-11-10 15:49 — Use 'meets the requirements' instead of 'meets the standard' when discussing technical specs.
