@@ -29452,3 +29452,4 @@
 - 2026-11-09 09:18 — 继续是继续的继续。
 - 2026-11-09 09:32 — In English, "kill" is the standard verb for terminating a process; "kill it" is a natural, concise command.
 - 2026-11-10 14:31 — Use 'rendered as' when describing how something appears visually, e.g., 'rendered as an image'.
+- 2026-11-10 14:34 — Use 'render as an image' or 'generate a diagram' when you want a visual output instead of a text description.
