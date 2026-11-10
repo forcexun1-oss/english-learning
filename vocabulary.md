@@ -29451,3 +29451,4 @@
 - 2026-11-09 09:17 — Use 'What's the current status?' for natural English; '现在什么情况了' is a direct translation that sounds awkward.
 - 2026-11-09 09:18 — 继续是继续的继续。
 - 2026-11-09 09:32 — In English, "kill" is the standard verb for terminating a process; "kill it" is a natural, concise command.
+- 2026-11-10 14:31 — Use 'rendered as' when describing how something appears visually, e.g., 'rendered as an image'.
