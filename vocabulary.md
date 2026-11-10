@@ -29456,3 +29456,4 @@
 - 2026-11-10 14:49 — Use 'selection' for 选型 in technical contexts.
 - 2026-11-10 14:59 — Use "ensure" or "guarantee" for "保障" in a technical context; "look" works for "看起来" when describing visual results.
 - 2026-11-10 15:00 — Use 'cloud-based' as an adjective to describe where the model runs.
+- 2026-11-10 15:06 — Use "What are the specific ... choices?" to ask for concrete model names rather than vague '选型'.
