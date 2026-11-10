@@ -29460,3 +29460,4 @@
 - 2026-11-10 15:08 — Use 'or' to list alternatives in a question; capitalize model names like GPT and Claude.
 - 2026-11-10 15:49 — Use 'meets the requirements' instead of 'meets the standard' when discussing technical specs.
 - 2026-11-10 16:03 — In English, "What's the latest status?" or "How are things going?" is more natural than a literal translation.
+- 2026-11-10 16:28 — Use specific, verifiable facts — OEM name, Android API level, feature scope, and metrics — rather than vague claims.
