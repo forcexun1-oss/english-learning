@@ -1,1 +1,1 @@
-Provide a concrete Android Automotive case: name the vehicle OEM / in-car app, state Android version (API 29+), describe the AI Agent / GUI automation / smart-cockpit features you delivered, and include measurable outcomes (e.g., task success rate, response time, crash rate, or user rating). Then give a self-score with a one-line justification tied to the rubric.
+Yes. We provide a cloud–edge VLM/LLM inference pipeline with measurable token budgets and optimization strategies, and a baseline test plan targeting ≥95% correct-execution rate.
