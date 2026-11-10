@@ -29459,3 +29459,4 @@
 - 2026-11-10 15:06 — Use "What are the specific ... choices?" to ask for concrete model names rather than vague '选型'.
 - 2026-11-10 15:08 — Use 'or' to list alternatives in a question; capitalize model names like GPT and Claude.
 - 2026-11-10 15:49 — Use 'meets the requirements' instead of 'meets the standard' when discussing technical specs.
+- 2026-11-10 16:03 — In English, "What's the latest status?" or "How are things going?" is more natural than a literal translation.
