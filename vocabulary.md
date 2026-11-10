@@ -29454,3 +29454,4 @@
 - 2026-11-10 14:31 — Use 'rendered as' when describing how something appears visually, e.g., 'rendered as an image'.
 - 2026-11-10 14:34 — Use 'render as an image' or 'generate a diagram' when you want a visual output instead of a text description.
 - 2026-11-10 14:49 — Use 'selection' for 选型 in technical contexts.
+- 2026-11-10 14:59 — Use "ensure" or "guarantee" for "保障" in a technical context; "look" works for "看起来" when describing visual results.
