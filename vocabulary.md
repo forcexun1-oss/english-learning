@@ -29464,3 +29464,4 @@
 - 2026-11-10 16:33 — Use 'cloud–edge' for 端云协同, and 'correct-execution rate' for 正确执行率.
 - 2026-11-10 16:42 — In English, "kill" is a verb here, so "kill it" is the natural short command.
 - 2026-11-15 13:08 — When greeting someone in a technical context, 'Hi there' or 'Hello' is more natural than just 'hi'.
+- 2026-11-15 13:51 — When greeting someone in a technical context, 'Hi there' or 'Hello' are both natural. Avoid just 'hi' followed by a question mark — it can read as a fragment.
