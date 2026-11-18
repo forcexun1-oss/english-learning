@@ -29468,3 +29468,4 @@
 - 2026-11-16 03:01 — Use "open source" as a compound adjective; no need for "the" before project names like Codex.
 - 2026-11-18 02:38 — In English, 'continue' is a verb, so use it directly without '继续'.
 - 2026-11-18 02:40 — Use 'already' to emphasize that something was expected to be done earlier.
+- 2026-11-18 02:43 — Use 'kill' for processes/programs; 'stop' is for services or apps.
