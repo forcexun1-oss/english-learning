@@ -29466,3 +29466,4 @@
 - 2026-11-15 13:08 — When greeting someone in a technical context, 'Hi there' or 'Hello' is more natural than just 'hi'.
 - 2026-11-15 13:51 — When greeting someone in a technical context, 'Hi there' or 'Hello' are both natural. Avoid just 'hi' followed by a question mark — it can read as a fragment.
 - 2026-11-16 03:01 — Use "open source" as a compound adjective; no need for "the" before project names like Codex.
+- 2026-11-18 02:38 — In English, 'continue' is a verb, so use it directly without '继续'.
